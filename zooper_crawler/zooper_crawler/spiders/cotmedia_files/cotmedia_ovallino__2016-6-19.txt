@@ -1,0 +1,11 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+104937	OVALLE CASINO RESORT S.A	Par	Cuatricromia	Generales	6x6	01	21.333	Publicado	Paola Marquez	Auspicio Casino Ovalle Impar	2016-6-19 00:00:00	
+104393	DABED Y CIA. LTDA., SELIM	Par	Cuatricromia	Generales	6x6	03	23.076	Publicado	Nadia Randolph	CORDI	2016-6-19 00:00:00	
+105097	CAMAL MUSALEM TAPIA Y CIA.	Par	Blanco y negro	Generales	25x4	05	122.400	Publicado	Marcela Tello-ElDia	Imperdibles Bonos Musalem - Toyota	2016-6-19 00:00:00	
+95386	SOCIEDAD BUSTOS Y PROCURIZA LTDA.	Par	Blanco y negro	Generales	10x2	06	27.542	Publicado	Maria_Amelia Hermosilla	Cento	2016-6-19 00:00:00	
+102986	SOCIEDAD MEDICA Y CONSULTORA ESTETI		Cuatricromia	Guia	5x2	06	13.333	Publicado	Maria_Amelia Hermosilla	Diego Polanco	2016-6-19 00:00:00	
+103696	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	07	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2016-6-19 00:00:00	
+105147	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	6x6	08	0	Arte	Marcela Tello-ElDia		2016-6-19 00:00:00	
+105104	EMPRESA PERIODISTICA EL NORTE S.A.	Par	Cuatricromia	Medios Regionales	10x3	09	115.603	Publicado	Medios Regionales	Conaf - Informa - (115509)	2016-6-19 00:00:00	
+105148	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x6	11	0	Arte	Marcela Tello-ElDia		2016-6-19 00:00:00	
+105149	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x6	14	0	Arte	Marcela Tello-ElDia	www.elovallino.cl	2016-6-19 00:00:00	

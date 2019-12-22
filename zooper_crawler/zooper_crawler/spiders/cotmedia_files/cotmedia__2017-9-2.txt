@@ -1,0 +1,52 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+137694	CHRISTIAN LAUNITZ MARIN SERVICIOS M	Par	Blanco y negro	Generales	8x2	04	5.000	Publicado	Heinger Vega Torres	2017-9-2 00:00:00	
+138110	ENTEL PCS	Impar	Cuatricromia	Generales	25x5	05	384.510	Publicado	Kathine Soto-Stgo	2017-9-2 00:00:00	
+138051	CLARO CHILE S.A.	Impar	Cuatricromia	Generales	35x6	07	742.874	Publicado	Kathine Soto-Stgo	2017-9-2 00:00:00	
+138105	CIA. MINERA DEL PACIFICO S.A.	Par	Blanco y negro	Generales	17x6	08	0	Publicado	Jacqueline Torres	2017-9-2 00:00:00	
+138050	CARAT CHILE S.A.	Impar	Cuatricromia	Generales	35x6	09	500.000	Publicado	Kathine Soto-Stgo	2017-9-2 00:00:00	
+137047	MINERA NITTETSU CHILE LTDA.	Par	Blanco y negro	Generales	17x3	10	182.560	Publicado	Claudio Romero	2017-9-2 00:00:00	
+137484	INVERSIONES Y GESTI?N S.A	Par	Blanco y negro	Generales	13x3	10	175.500	Publicado	Pedro Jaime	2017-9-2 00:00:00	
+137912	SERVICIO ELECTORAL	Impar	Blanco y negro	Generales	35x6	11 	893.469	Publicado	Jacqueline Torres	2017-9-2 00:00:00	
+136331	DABED Y CIA. LTDA., SELIM	Par	Cuatricromia	Generales	6x6	12	0	Arte	Karina Rivera	2017-9-2 00:00:00	
+137267	INMOBILIARIA ECASA CHILE S.A.	Par	Cuatricromia	Generales	34x6	13	360.000	Publicado	Paola Marquez	2017-9-2 00:00:00	
+137837	PILLA LA VACA	Par	Blanco y negro	Generales	5x2	14	0	Arte	Marcela Tello-ElDia	2017-9-2 00:00:00	
+137851	C.M. SOC. GASTRONOMICA LTDA.			UIP	5x2	14	0	Arte		2017-9-2 00:00:00	
+137512	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	5x2	14	0	Arte	Miguel Apey	2017-9-2 00:00:00	
+138098	INMOBILIARIA RENVAL SPA	Par	Cuatricromia	Generales	34x6	15	625.429	Publicado	Rene Pizarro	2017-9-2 00:00:00	
+137163	DIARIO EL DIA	Par	Cuatricromia	Generales	17x6	16	0	Arte	Marcela Tello-ElDia	2017-9-2 00:00:00	
+137325	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	17	8.306	Publicado	Miguel Apey	2017-9-2 00:00:00	
+137452	SERV. VIVIENDA Y URBANIZACION IV RE	Par	Blanco y negro	Generales	10x2	18	57.274	Publicado	Marcela Tello-ElDia	2017-9-2 00:00:00	
+137891	SERV. VIVIENDA Y URBANIZACION IV RE	Par	Blanco y negro	Generales	10x2	18	57.274	Publicado	Marcela Tello-ElDia	2017-9-2 00:00:00	
+137947	ESTUDIO JURIDICO OLIVARES Y CIA. SP	Par	Blanco y negro	Generales	5x2	18	2.666	Publicado	Jacqueline Torres	2017-9-2 00:00:00	
+137924	INMOBIL. LA SERENA GOLF S.A.	Par	Cuatricromia	Generales	17x6	19	288.660	Publicado	Patricia Villena	2017-9-2 00:00:00	
+138047	AUTOMOTRIZ CARMONA	Par	Cuatricromia	Generales	35x6	24	250.000	Publicado	Pedro Cortes	2017-9-2 00:00:00	
+138044	AGUAS DEL VALLE S.A.	Par	Cuatricromia	Generales	35x6	25	866.686	Publicado	Jacqueline Torres	2017-9-2 00:00:00	
+137643	DIARIO EL DIA	Impar	Cuatricromia	Generales	35x6	26	0	Arte	Carolina Naranjo	2017-9-2 00:00:00	
+137644	DIARIO EL DIA	Par	Cuatricromia	Generales	35x6	27	0	Arte	Carolina Naranjo	2017-9-2 00:00:00	
+137645	DIARIO EL DIA	Impar	Cuatricromia	Generales	35x6	28	0	Arte	Carolina Naranjo	2017-9-2 00:00:00	
+137646	DIARIO EL DIA	Par	Cuatricromia	Generales	35x6	29	0	Arte	Carolina Naranjo	2017-9-2 00:00:00	
+137463	CAMPOS DEL NORTE S.A.	Par	Cuatricromia	Generales	17x3	32	0	Arte	Patricia Villena	2017-9-2 00:00:00	
+138091	AGENCIA PUBLICITARIA OREL ALI E.I.R	Par	Blanco y negro	Generales	17x3	32	0	Publicado	Marcela Tello-ElDia	2017-9-2 00:00:00	
+137482	CLUB DE DEPORTES LA SERENA	Par	Cuatricromia	Generales	17x3	36	0	Publicado	Marcela Tello-ElDia	2017-9-2 00:00:00	
+137816	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	37	0	Arte	Marcela Tello-ElDia	2017-9-2 00:00:00	
+133546	SOCIEDAD MEDICA  Y CONSULTORA ESTET			UIP	5x1	37	8.937	Publicado	Maria_Amelia Hermosilla	2017-9-2 00:00:00	
+134566	CERNA E HIJOS CIA. LTDA.	Par	Blanco y negro	Generales	5x1	37	3.574	Publicado	Nadia Randolph	2017-9-2 00:00:00	
+137369	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	4x5	37	20.508	Publicado	Miguel Apey	2017-9-2 00:00:00	
+136941	SOC. DE GES			UIP	5x1	37	8.937	Publicado	Miguel Apey	2017-9-2 00:00:00	
+138111	ASOC. DE PRODUCTORES DE PISCO AG	Par	Blanco y negro	Generales	12x2	38	70.028	Publicado	Pedro Jaime	2017-9-2 00:00:00	
+138046	SOC. EDUCACIONAL NUEVO MUNDO LTDA.	Par	Blanco y negro	Generales	12x2	38	66.387	Publicado	Pedro Jaime	2017-9-2 00:00:00	
+138112	ASOC. DE PRODUCTORES DE PISCO AG	Par	Blanco y negro	Generales	12x2	38	70.028	Publicado	Pedro Jaime	2017-9-2 00:00:00	
+137979	SERVICIOS GENERALES GUAYACAN S.A	Par	Blanco y negro	Generales	4x2	38	6.686	Publicado	Jacqueline Torres	2017-9-2 00:00:00	
+136562	VELIZ CORTES JOSE A.	Par	Blanco y negro	Generales	3x2	38	13.403	Publicado	Pedro Cortes	2017-9-2 00:00:00	
+138113	ASOC. DE PRODUCTORES DE PISCO AG	Par	Blanco y negro	Generales	12x2	38	70.028	Publicado	Pedro Jaime	2017-9-2 00:00:00	
+137289	FALABELLA RETAIL S.A.	Impar	Cuatricromia	Contraportada	35x6	40	600.000	Publicado	M Cristina Puga	2017-9-2 00:00:00	
+137751	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	EC-20	0	Arte	Marcela Tello-ElDia	2017-9-2 00:00:00	
+137858	MARTIN JURE PATRICIA	Par	Blanco y negro	Generales	5x2	EC-20	0	Arte	Marcela Tello-ElDia	2017-9-2 00:00:00	
+137978	CIA. DE LEASING TATTERSALL S.A.	Par	Blanco y negro	Generales	11x2	EC-21	69.487	Publicado	Pedro Jaime	2017-9-2 00:00:00	
+138095	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	EC-21	0	Arte	Patricia Villena	2017-9-2 00:00:00	
+123924	HOTELERIA LUIS ALBERTO BERETTA KIEK	Par	Blanco y negro	Generales	5x2	EC-22	6.061	Publicado	Patricia Villena	2017-9-2 00:00:00	
+137608	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Economico	5x2	EC-22	15.667	Publicado	Rene Pizarro	2017-9-2 00:00:00	
+138068	DIARIO EL DIA	Par	Cuatricromia	Generales	12x6	EC-22	0	Arte	Marcela Tello-ElDia	2017-9-2 00:00:00	
+137098	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	10x2	EC-23	47.260	Publicado	Medios Regionales	2017-9-2 00:00:00	
+137094	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	10x2	EC-23	47.260	Publicado	Medios Regionales	2017-9-2 00:00:00	
+138126	DIARIO EL DIA	Par	Cuatricromia	Generales	17x6	EC-23	0	Arte	Marcela Tello-ElDia	2017-9-2 00:00:00	

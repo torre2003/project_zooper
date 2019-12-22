@@ -1,0 +1,9 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+148398	INVERSIONES TANGUEMAR LIMITADA	Par	Blanco y negro	Generales	5x2	05	21.422	Publicado	Patricia Villena	Tanguemar 2	2018-2-4 00:00:00	
+149269	CAMAL MUSALEM TAPIA Y CIA.	Par	Blanco y negro	Generales	6x2	05	36.723	Publicado	Pedro Jaime	SE NECESITA VENDEDOR, 	2018-2-4 00:00:00	
+149322	EMPRESA PERIODISTICA EL NORTE S.A.	Par	Blanco y negro	Medios Regionales	6x2	05	18.207	Publicado	Medios Regionales	Remate Banco Santander GRC - 15962	2018-2-4 00:00:00	
+149883	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x6	09	0	Publicado	Marcela Tello-ElDia		2018-2-4 00:00:00	
+131301	SOCIEDAD MEDICA Y CONSULTORA ESTETI		Cuatricromia	Guia	5x2	11	13.333	Publicado	Maria_Amelia Hermosilla	Diego Polanco	2018-2-4 00:00:00	
+149372	OVALLE CASINO RESORT S.A	Par	Cuatricromia	Generales	25x4	11	171.372	Publicado	Paola Marquez	OCR Eventos febrero	2018-2-4 00:00:00	
+147882	VELIZ CORTES JOSE A.			UIP	5x2	15	4.695	Publicado	Pedro Cortes		2018-2-4 00:00:00	
+149882	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	6x6	15	0	Publicado	Marcela Tello-ElDia		2018-2-4 00:00:00	

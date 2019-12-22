@@ -1,0 +1,9 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+68164	SOC. AUTOMOTRIZ COVALSA CENTER LTDA	Par	Cuatricromia	Generales	5x6	01	51.405	Publicado	Claudio Romero	PORTADA ..COVALSA	2015-2-9 00:00:00	
+68769	ABRIL PUBLICIDAD INVERSIONES Y ASES	Impar	Cuatricromia	Generales	17x6	03	216.330	Publicado	Patricia Villena		2015-2-9 00:00:00	
+68250	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	10x3	05	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2015-2-9 00:00:00	
+68345	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	6x6	06	16.065	Publicado	Claudio Romero	Muebles Alpina	2015-2-9 00:00:00	
+68492	EMPRESA PERIODISTICA EL NORTE S.A.	Par	Blanco y negro	Medios Regionales	16x3	07	66.048	Publicado	Medios Regionales	Hibu Chile - Busca personas - (25434)	2015-2-9 00:00:00	
+67910	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x6	09	0	Publicado	Marcela Tello-ElDia		2015-2-9 00:00:00	
+69034	SOC. HOTELERA VICHUQUEN LTDA.	Par	Cuatricromia	Generales	10x3	11	0	Publicado	Marcela Tello-ElDia		2015-2-9 00:00:00	
+68691	reyes m			UIP	10x6	12	0	Publicado	Italo Retamal	hotel monte cordillera 	2015-2-9 00:00:00	

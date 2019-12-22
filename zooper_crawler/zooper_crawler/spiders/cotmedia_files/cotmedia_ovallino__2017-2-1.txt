@@ -1,0 +1,11 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+122070	PEDRO ANDRES MONARDEZ ELGUETA	Par	Cuatricromia	Generales	6x6	01	25.000	Publicado	Karina Rivera	Restaurant Riquisimo	2017-2-1 00:00:00	
+122065	OVALLE CASINO RESORT S.A	Par	Cuatricromia	Generales	25x4	03	0	Arte	Paola Marquez	OCR Eventos veranos	2017-2-1 00:00:00	
+119503	tanguemar			UIP	5x2	05	2.808	Publicado	Patricia Villena	Tanguemar	2017-2-1 00:00:00	
+121395	AGRICOLA NORTE TALINAY LTDA	Par	Blanco y negro	Generales	5x2	05	1.666	Publicado	Paola Marquez	UIP VENTA ALFALFA	2017-2-1 00:00:00	
+122153	ILUSTRE MUNICIPALIDAD DE OVALLE	Par	Blanco y negro	Generales	35x4	07	329.560	Publicado	Karina Rivera		2017-2-1 00:00:00	
+117897	OVALLEMAR			UIP	5x2	08	3.958	Publicado	Karina Rivera	OVALLE MAR	2017-2-1 00:00:00	
+121532	JACQUELINE JOFRE VILLANUEVA			UIP	5x2	08	2.808	Publicado	Karina Rivera	ROLLER OVALLE	2017-2-1 00:00:00	
+121037	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	6x6	09	16.065	Publicado	Claudio Romero	Muebles Alpina	2017-2-1 00:00:00	
+122215	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	5x6	14	0	Arte	Marcela Tello-ElDia		2017-2-1 00:00:00	
+122120	ARENA CHILE S.A.	Home	Banner Inf. Der	Web	x	WEB	0	Publicado	M Cristina Puga	Volkswagen 	2017-2-1 00:00:00	

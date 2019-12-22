@@ -1,0 +1,11 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+112127	DABED Y CIA. LTDA., SELIM	Par	Cuatricromia	Generales	6x6	01	23.076	Publicado	Marcela Tello-ElDia	Discos Sierra - Melamina	2016-9-18 00:00:00	
+112170	INMOBIL. SANTA CATALINA E.I.R.L.	Par	Cuatricromia	Generales	17x3	03	100.000	Publicado	Rene Pizarro	Santa Catalina....Llanos del Sauce...	2016-9-18 00:00:00	
+112003	INMOBILIARIA QUILICURA S.A.	Par	Blanco y negro	Generales	5x2	04	26.012	Publicado	Pedro Cortes	requiere contador (a)	2016-9-18 00:00:00	
+112191	CAMAL MUSALEM TAPIA Y CIA.	Par	Blanco y negro	Generales	19x3	05	69.768	Publicado	Marcela Tello-ElDia	Toyota New Rush 	2016-9-18 00:00:00	
+102999	SOCIEDAD MEDICA Y CONSULTORA ESTETI		Cuatricromia	Guia	5x2	06	13.333	Publicado	Maria_Amelia Hermosilla	Diego Polanco	2016-9-18 00:00:00	
+111510	TESORERIA PROVINCIAL DEL LIMARI OVA	Par	Blanco y negro	Generales	17x6	07	276.125	Publicado	Marcela Tello-ElDia		2016-9-18 00:00:00	
+111984	OVALLE CASINO RESORT S.A	Par	Cuatricromia	Generales	17x6	08	174.799	Publicado	Paola Marquez	Ovalle casino Impar, lejos de Enjoy	2016-9-18 00:00:00	
+112190	CAMAL MUSALEM TAPIA Y CIA.	Par	Blanco y negro	Generales	17x3	10	62.424	Publicado	Marcela Tello-ElDia	Gran Remate de Bodega - Toyota	2016-9-18 00:00:00	
+110532	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	11	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2016-9-18 00:00:00	
+111846	PRENSA DEL LIMARI LTDA.	Par	Blanco y negro	Generales	12x6	14	0	Publicado	Marcela Tello-ElDia	Avant Premiere - Club de Lectores	2016-9-18 00:00:00	

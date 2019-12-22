@@ -1,0 +1,54 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+94687	CHRISTIAN LAURITZ MARIN	Par	Blanco y negro	Generales	4x2	04	6.667	Publicado	Jacqueline Torres	2016-2-20 00:00:00	
+93880	FALABELLA RETAIL S.A.	Impar	Cuatricromia	Generales	35x6	05	550.000	Publicado	M Cristina Puga	2016-2-20 00:00:00	
+96005	HERMANAS CALLEGARI LTDA.	Par	Cuatricromia	Generales	17x6	07	0	Arte	Marcela Tello-ElDia	2016-2-20 00:00:00	
+94523	INMOBILIARIA CORDILLERA SPA	Par	Cuatricromia	Generales	17x3	08	0	Publicado	Miguel Apey	2016-2-20 00:00:00	
+96169	ALVI SUPERMERCADOS MAYORISTAS S.A.	Impar	Cuatricromia	Generales	34x6	09	979.732	Publicado	Patricia Villena	2016-2-20 00:00:00	
+95069	MARTIN JURE PATRICIA	Par	Cuatricromia	Generales	6x6	10	0	Publicado	Marcela Tello-ElDia	2016-2-20 00:00:00	
+96170	ALVI SUPERMERCADOS MAYORISTAS S.A.	Impar	Cuatricromia	Generales	34x6	11	979.732	Publicado	Patricia Villena	2016-2-20 00:00:00	
+96239	DIARIO EL DIA	Par	Cuatricromia	Generales	20x3	12	0	Publicado	Marcela Tello-ElDia	2016-2-20 00:00:00	
+95085	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	10x3	13	0	Publicado	Marcela Tello-ElDia	2016-2-20 00:00:00	
+94462	DEFENSORIA PENAL PUBLICA	Par	Blanco y negro	Generales	15x3	13	132.656	Publicado	Claudio Romero	2016-2-20 00:00:00	
+96194	EMPRESA CONSTRUCTORA ELQUI LTDA.	Par	Blanco y negro	Generales	6x2	14	40.429	Publicado	M Cristina Puga	2016-2-20 00:00:00	
+95333	CENTRO MEDICO DENTAL STO. TOMAS LTD	Par	Blanco y negro	Generales	5x2	14	0	Publicado	Rene Pizarro	2016-2-20 00:00:00	
+94494	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	5x2	14	0	Publicado	Miguel Apey	2016-2-20 00:00:00	
+94310	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	14-22	8.306	Publicado	Miguel Apey	2016-2-20 00:00:00	
+96158	SERV. VIVIENDA Y URBANIZACION IV RE	Par	Blanco y negro	Generales	10x2	15	58.959	Publicado	Marcela Tello-ElDia	2016-2-20 00:00:00	
+96244	ILUSTRE MUNICIPALIDAD DE LA HIGUERA	Par	Blanco y negro	Generales	15x3	15	132.656	Publicado	Jacqueline Torres	2016-2-20 00:00:00	
+96174	INMOBIL. LA SERENA GOLF S.A.	Impar	Cuatricromia	Generales	17x6	21	288.975	Publicado	Patricia Villena	2016-2-20 00:00:00	
+95744	PRODUCCIONES KALEY LTDA	Par	Cuatricromia	Generales	17x3	22	35.714	Publicado	Paola Marquez	2016-2-20 00:00:00	
+95004	SONIA NATALIA TUPAYACHI MU?OZ	Par	Cuatricromia	Generales	12x2	22	0	Publicado	Marcela Tello-ElDia	2016-2-20 00:00:00	
+96293	RENDIC HNOS. S.A.j	Impar	Cuatricromia	Generales	34x3	23	658.897	Publicado	Patricia Villena	2016-2-20 00:00:00	
+96004	IMPORTADORA TRENTO LTDA.	Par	Cuatricromia	Generales	17x6	24	285.498	Publicado	Marcela Tello-ElDia	2016-2-20 00:00:00	
+96038	DABED Y CIA. LTDA., SELIM	Par	Cuatricromia	Generales	7x6	27	39.920	Publicado	Marcela Tello-ElDia	2016-2-20 00:00:00	
+96267	leon leon soc. ltda.			UIP	5x2	28	17.875	Publicado	Jacqueline Torres	2016-2-20 00:00:00	
+96290	SOC. E INV. AGUIRRE	Par	Blanco y negro	Generales	10x2	28	41.015	Publicado	Marcela Tello-ElDia	2016-2-20 00:00:00	
+96268	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	6x2	28	28.356	Publicado	Medios Regionales	2016-2-20 00:00:00	
+96023	RIVERA CONTRERAS CRISTIAN			UIP	5x1	29	8.937	Publicado	Pedro Jaime	2016-2-20 00:00:00	
+91312	Alejandro ra			UIP	5x1	29	4.467	Publicado	M Cristina Puga	2016-2-20 00:00:00	
+94653	CAMPODONICO			UIP	5x1	29	8.937	Publicado	Pedro Jaime	2016-2-20 00:00:00	
+94715	ARMAQ			UIP	5x1	29	8.937	Publicado	Claudio Romero	2016-2-20 00:00:00	
+94353	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	4x5	29	20.508	Publicado	Miguel Apey	2016-2-20 00:00:00	
+95020	PILLA LA VACA	Par	Blanco y negro	Generales	5x2	29	0	Publicado	Marcela Tello-ElDia	2016-2-20 00:00:00	
+95041	DIARIO EL DIA	Par	Blanco y negro	Generales	5x2	29	0	Publicado	Marcela Tello-ElDia	2016-2-20 00:00:00	
+95143	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	29	0	Publicado	Marcela Tello-ElDia	2016-2-20 00:00:00	
+96121	AREVALO CARMEN			UIP	5x1	29	8.937	Publicado	Pedro Jaime	2016-2-20 00:00:00	
+94263	SOC. DE GESTION MEDITERRANEA			UIP	5x1	29	8.937	Publicado	Miguel Apey	2016-2-20 00:00:00	
+95203	SOC. COMERCIAL ALCAPARRA LTDA.	Par	Blanco y negro	Generales	5x2	29	10.440	Publicado	Patricia Villena	2016-2-20 00:00:00	
+95256	MAURICIO ALEJANDRO BUGUENO CONTRERA	Par	Blanco y negro	Generales	5x1	29	4.468	Publicado	Nadia Randolph	2016-2-20 00:00:00	
+95809	CERNA E HIJOS CIA. LTDA.	Par	Blanco y negro	Generales	5x1	29	4.467	Publicado	Nadia Randolph	2016-2-20 00:00:00	
+95678	GALLARDO Y OTRO 			UIP	5x1	29	8.937	Publicado	Pedro Jaime	2016-2-20 00:00:00	
+95171	SERVICIOS GENERALES GUAYACAN S.A	Par	Blanco y negro	Generales	3x2	30	6.667	Publicado	Jacqueline Torres	2016-2-20 00:00:00	
+92213	FALABELLA RETAIL S.A.	Impar	Cuatricromia	Contraportada	35x6	32	600.000	Publicado	M Cristina Puga	2016-2-20 00:00:00	
+96208	CARLOS CORTES YA?EZ INSPECCION TECN	Par	Blanco y negro	Generales	5x2	EC-17	29.480	Publicado	Jacqueline Torres	2016-2-20 00:00:00	
+96283	SOCIEDAD ALLTIME	Par	Blanco y negro	Generales	3x2	EC-17	25.268	Publicado	Pedro Jaime	2016-2-20 00:00:00	
+96252	CAMAL MUSALEM TAPIA Y CIA.	Par	Blanco y negro	Generales	5x2	EC-17	33.691	Publicado	Marcela Tello-ElDia	2016-2-20 00:00:00	
+96277	CIA. DE LEASING TATTERSALL S.A.	Par	Blanco y negro	Generales	11x2	EC-17	69.487	Publicado	Pedro Jaime	2016-2-20 00:00:00	
+96289	BANCO DE CHILE	805 Palabras		Legal	x	EC-18	199.832	Publicado	Pedro Jaime	2016-2-20 00:00:00	
+94947	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Generales	5x1	EC-18	5.860	Publicado	Rene Pizarro	2016-2-20 00:00:00	
+96191	BOFER LTDA	Par	Blanco y negro	Generales	7x2	EC-18	61.754	Publicado	Pedro Jaime	2016-2-20 00:00:00	
+96184	HERMANAS FRANCISCANAS DE GANTE	Par	Blanco y negro	Generales	5x2	EC-18	42.113	Publicado	Pedro Jaime	2016-2-20 00:00:00	
+96127	AREVALO CARMEN			UIP	5x1	EC-18	8.937	Publicado	Pedro Jaime	2016-2-20 00:00:00	
+95965	barboza santander 			UIP	5x1	EC-18	8.937	Publicado	Pedro Jaime	2016-2-20 00:00:00	
+94776	HOTELERIA LUIS ALBERTO BERETTA KIEK	Par	Blanco y negro	Generales	5x2	EC-19	8.937	Publicado	Patricia Villena	2016-2-20 00:00:00	
+96276	HECTOR DIAZ FLORES	25 Palabras		Propiedades	x	PROP	5.952	Publicado	Kathine Soto-Stgo	2016-2-20 00:00:00	

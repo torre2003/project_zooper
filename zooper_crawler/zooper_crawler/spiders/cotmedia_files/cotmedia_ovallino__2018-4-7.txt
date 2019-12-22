@@ -1,0 +1,11 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+152623	AGRICOLA NORTE TALINAY LTDA	Par	Blanco y negro	Generales	5x2	05	1.666	Publicado	Paola Marquez	UIP VENTA ALFALFA	2018-4-7 00:00:00	
+153554	DABED Y CIA. LTDA., SELIM	Par	Cuatricromia	Generales	6x6	06	23.076	Publicado	Karina Rivera	DABED MOTOS	2018-4-7 00:00:00	
+153748	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x6	08	0	Arte	Marcela Tello-ElDia		2018-4-7 00:00:00	
+153744	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	12x6	09	0	Arte	Marcela Tello-ElDia	Avant Premiere - Club de Lectores	2018-4-7 00:00:00	
+153697	INMOBILIARIA E INVERSIONES EL CHA?A	Par	Blanco y negro	Generales	10x2	10	47.645	Publicado	Claudio Romero		2018-4-7 00:00:00	
+153688	INMOBILIARIA AYLLU S.A	Par	Blanco y negro	Generales	10x2	10	47.645	Publicado	Claudio Romero	AYLLU/CITACION	2018-4-7 00:00:00	
+153651	SOC. LIMARI COMERCIALIZADORA DEL AG	Par	Blanco y negro	Generales	15x2	10	81.213	Publicado	Rene Pizarro		2018-4-7 00:00:00	
+153837	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x3	11	0	Arte	Marcela Tello-ElDia	Vea en Cinemark	2018-4-7 00:00:00	
+153838	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x6	12	0	Arte	Marcela Tello-ElDia		2018-4-7 00:00:00	
+153839	PRENSA DEL LIMARI LTDA.	Par	Blanco y negro	Generales	6x6	15	0	Arte	Marcela Tello-ElDia		2018-4-7 00:00:00	

@@ -1,0 +1,32 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+123363	CLARO CHILE S.A.	Impar	Cuatricromia	Generales	35x6	05	646.000	Publicado	Kathine Soto-Stgo	2017-2-23 00:00:00	
+122715	TODO ARAUCO S.A.	Impar	Cuatricromia	Generales	17x6	09	470.641	Publicado	Patricia Villena	2017-2-23 00:00:00	
+123067	DIARIO EL DIA	Par	Cuatricromia	Generales	17x6	11	0	Publicado	Marcela Tello-ElDia	2017-2-23 00:00:00	
+123228	SANBERT LTDA.	Par	Blanco y negro	Generales	7x2	13	17.875	Publicado	Miguel Apey	2017-2-23 00:00:00	
+123310	CORP. MUNICIPAL G. G. VIDELA	Par	Blanco y negro	Generales	17x3	13	149.410	Publicado	Jacqueline Torres	2017-2-23 00:00:00	
+121874	LABORATORIO CLINICO STA. MARIA LA S	Par	Blanco y negro	Generales	6x2	14	7.470	Publicado	Miguel Apey	2017-2-23 00:00:00	
+121971	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	5x2	14	0	Publicado	Miguel Apey	2017-2-23 00:00:00	
+122260	DIARIO EL DIA	Par	Blanco y negro	Generales	5x2	14	0	Publicado	Marcela Tello-ElDia	2017-2-23 00:00:00	
+123365	SOC. EDUCACIONAL ANDRES BELLO LTDA.	Par	Blanco y negro	Generales	5x2	15	36.620	Publicado	Pedro Jaime	2017-2-23 00:00:00	
+121821	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	16	8.306	Publicado	Miguel Apey	2017-2-23 00:00:00	
+122317	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	16	0	Publicado	Marcela Tello-ElDia	2017-2-23 00:00:00	
+121030	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	6x6	17	51.666	Publicado	Claudio Romero	2017-2-23 00:00:00	
+123367	CLUB DE DEPORTES LA SERENA	Par	Cuatricromia	Generales	17x3	22	0	Publicado	Marcela Tello-ElDia	2017-2-23 00:00:00	
+123376	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	22	0	Publicado	Marcela Tello-ElDia	2017-2-23 00:00:00	
+123275	DIARIO EL DIA	Par	Blanco y negro	Generales	35x6	23	0	Publicado	Carolina Naranjo	2017-2-23 00:00:00	
+122768	DABED Y CIA. LTDA., SELIM	Par	Cuatricromia	Generales	6x6	28	27.690	Publicado	Karina Rivera	2017-2-23 00:00:00	
+121885	CASA DEL PERNO	Par	Blanco y negro	Generales	5x3	29	23.071	Publicado	Miguel Apey	2017-2-23 00:00:00	
+121158	ARMAQ			UIP	5x1	30	8.937	Publicado	Claudio Romero	2017-2-23 00:00:00	
+121778	SOC. DE GES			UIP	5x1	30	8.937	Publicado	Miguel Apey	2017-2-23 00:00:00	
+121862	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	4x5	30	20.508	Publicado	Miguel Apey	2017-2-23 00:00:00	
+123284	arevalo carmen			UIP	5x1	30	8.937	Publicado	Pedro Jaime	2017-2-23 00:00:00	
+122617	SOC. COM. CENTRO NORTE LTDA.			UIP	5x1	30	7.596	Publicado	Pedro Cortes	2017-2-23 00:00:00	
+123114	SERVICIOS Y VENTA DE TECNOLOGIA SOL			UIP	5x2	30	17.875	Publicado	Pedro Cortes	2017-2-23 00:00:00	
+122383	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	30	0	Publicado	Marcela Tello-ElDia	2017-2-23 00:00:00	
+122952	sercomp ruiz			UIP	5x2	30	8.936	Publicado	Marcela Tello-ElDia	2017-2-23 00:00:00	
+122388	PILLA LA VACA	Par	Blanco y negro	Generales	5x2	30	0	Publicado	Marcela Tello-ElDia	2017-2-23 00:00:00	
+120947	CERNA E HIJOS CIA. LTDA.	Par	Blanco y negro	Generales	5x1	30	4.468	Publicado	Nadia Randolph	2017-2-23 00:00:00	
+123328	MJA RENTAL SPA	Par	Blanco y negro	Generales	13x2	31	61.345	Publicado	Pedro Jaime	2017-2-23 00:00:00	
+122868	VELIZ CORTES JOSE A.	Par	Blanco y negro	Generales	3x2	31	13.403	Publicado	Pedro Cortes	2017-2-23 00:00:00	
+122143	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Generales	5x1	EC-20	6.043	Publicado	Rene Pizarro	2017-2-23 00:00:00	
+123375	DIARIO EL DIA	Par	Cuatricromia	Generales	17x6	EC-20	0	Publicado	Marcela Tello-ElDia	2017-2-23 00:00:00	

@@ -1,0 +1,54 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+108182	CHRISTIAN LAUNITZ MARIN SERVICIOS M	Par	Blanco y negro	Generales	4x2	04	7.002	Publicado	Jacqueline Torres	2016-8-12 00:00:00	
+109265	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Cuatricromia	Medios Regionales	32x6	05	518.048	Publicado	Medios Regionales	2016-8-12 00:00:00	
+109197	INMOBILIARIA DELCA LIMITADA	Par	Cuatricromia	Generales	34x6	09	0	Publicado	Rene Pizarro	2016-8-12 00:00:00	
+109359	EMPRESAS LA POLAR S.A.	Impar	Cuatricromia	Generales	35x6	11	0	Publicado	Patricia Villena	2016-8-12 00:00:00	
+108562	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Cuatricromia	Medios Regionales	10x3	12	165.860	Publicado	Medios Regionales	2016-8-12 00:00:00	
+109293	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	12	0	Publicado	Marcela Tello-ElDia	2016-8-12 00:00:00	
+108898	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	6x3	12	39.132	Publicado	Medios Regionales	2016-8-12 00:00:00	
+108338	DIARIO EL DIA	Par	Blanco y negro	Generales	5x2	13	0	Publicado	Marcela Tello-ElDia	2016-8-12 00:00:00	
+109071	ARZOBISPADO DE LA SERENA	Par	Blanco y negro	Generales	5x2	13	0	Publicado	Marcela Tello-ElDia	2016-8-12 00:00:00	
+108113	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	5x2	13	0	Publicado	Miguel Apey	2016-8-12 00:00:00	
+107971	MAQUINARIAS TANNY NOGALES BELTRAN E	Par	Blanco y negro	Generales	5x3	14	54.930	Publicado	Pedro Jaime	2016-8-12 00:00:00	
+109276	DIARIO EL DIA	Par	Blanco y negro	Generales	6x1	14	0	Publicado	Marcela Tello-ElDia	2016-8-12 00:00:00	
+107879	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	14	8.306	Publicado	Miguel Apey	2016-8-12 00:00:00	
+109377	TASUI NORTE SUR S.A.	Par	Blanco y negro	Generales	4x2	14	29.244	Publicado	Marcela Tello-ElDia	2016-8-12 00:00:00	
+109389	DIRECCION GENERAL DEL CREDITO PREND	Par	Blanco y negro	Generales	6x2	15	29.882	Publicado	Jacqueline Torres	2016-8-12 00:00:00	
+109240	MOP OOPP	Par	Blanco y negro	Generales	22x2	15	161.128	Publicado	Marcela Tello-ElDia	2016-8-12 00:00:00	
+109241	MOP OOPP	Par	Blanco y negro	Generales	22x2	15	161.128	Publicado	Marcela Tello-ElDia	2016-8-12 00:00:00	
+109333	ILUSTRE MUNICIPALIDAD DE PAIHUANO	Par	Blanco y negro	Generales	15x2	15	74.705	Publicado	Jacqueline Torres	2016-8-12 00:00:00	
+107700	DIARIO EL DIA	Par	Cuatricromia	Generales	17x6	16	0	Publicado	Marcela Tello-ElDia	2016-8-12 00:00:00	
+109341	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	17	0	Publicado	Marcela Tello-ElDia	2016-8-12 00:00:00	
+109290	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	17	0	Publicado	Marcela Tello-ElDia	2016-8-12 00:00:00	
+108071	DIARIO EL DIA	Par	Cuatricromia	Generales	8x6	22	0	Publicado	Marcela Tello-ElDia	2016-8-12 00:00:00	
+107861	BAKULIC RESTAURANT	Par	Cuatricromia	Generales	10x2	23	24.609	Publicado	Miguel Apey	2016-8-12 00:00:00	
+108684	SERVICIOS GASTRON?MICOS LA CASONA D	Par	Blanco y negro	Generales	5x2	23	10.725	Publicado	Miguel Apey	2016-8-12 00:00:00	
+107942	HOTEL COSTA REAL	Par	Cuatricromia	Generales	10x2	23	30.761	Publicado	Miguel Apey	2016-8-12 00:00:00	
+108318	MARTIN JURE PATRICIA	Par	Cuatricromia	Generales	5x3	23	0	Publicado	Marcela Tello-ElDia	2016-8-12 00:00:00	
+108294	PILLA LA VACA	Par	Cuatricromia	Generales	5x2	23	0	Publicado	Marcela Tello-ElDia	2016-8-12 00:00:00	
+108197	SOC. HOTELERA VICHUQUEN LTDA.	Par	Cuatricromia	Generales	5x3	23	0	Publicado	Marcela Tello-ElDia	2016-8-12 00:00:00	
+107656	SOC HOTELERA Y DE TURISMO HACIENDA 	Par	Cuatricromia	Generales	5x6	23	9.063	Publicado	Patricia Villena	2016-8-12 00:00:00	
+108815	DIARIO EL DIA	Par	Cuatricromia	Generales	34x6	25	0	Publicado	Marcela Tello-ElDia	2016-8-12 00:00:00	
+109301	CLUB DEPORTES COQUIMBO UNIDO	Par	Cuatricromia	Generales	17x3	27	0	Publicado	Marcela Tello-ElDia	2016-8-12 00:00:00	
+109401	CURIFOR S.A.	Impar	Blanco y negro	Generales	18x3	27	199.000	Publicado	Pedro Jaime	2016-8-12 00:00:00	
+108220	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	28	0	Publicado	Marcela Tello-ElDia	2016-8-12 00:00:00	
+107807	ARMAQ			UIP	5x1	29	8.937	Publicado	Claudio Romero	2016-8-12 00:00:00	
+107911	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	4x5	29	20.508	Publicado	Miguel Apey	2016-8-12 00:00:00	
+108418	CERNA E HIJOS CIA. LTDA.	Par	Blanco y negro	Generales	5x1	29	4.468	Publicado	Nadia Randolph	2016-8-12 00:00:00	
+107418	INV. GASTRONOMICAS PATRICIA TORO EI	Par	Blanco y negro	Generales	5x2	29	8.973	Publicado	Nadia Randolph	2016-8-12 00:00:00	
+106950	SOC.COMERCIAL ALTOS LA SERENA LTDA	Par	Blanco y negro	Generales	5x2	29	8.973	Publicado	Nadia Randolph	2016-8-12 00:00:00	
+109107	AREVALO CARMEN			UIP	5x1	29	8.937	Publicado	Pedro Jaime	2016-8-12 00:00:00	
+107848	SOC. DE GES			UIP	5x1	29	8.937	Publicado	Miguel Apey	2016-8-12 00:00:00	
+109132	ubillus			UIP	5x1	29	8.937	Publicado	Pedro Jaime	2016-8-12 00:00:00	
+108263	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	29	0	Publicado	Marcela Tello-ElDia	2016-8-12 00:00:00	
+109405	JUAN CARLOS OLIVARES YA?EZ	Par	Blanco y negro	Generales	12x2	30	58.007	Publicado	Pedro Jaime	2016-8-12 00:00:00	
+109407	JUAN CARLOS OLIVARES YA?EZ	Par	Blanco y negro	Generales	12x2	30	58.007	Publicado	Pedro Jaime	2016-8-12 00:00:00	
+109406	JUAN CARLOS OLIVARES YA?EZ	Par	Blanco y negro	Generales	12x2	30	58.007	Publicado	Pedro Jaime	2016-8-12 00:00:00	
+109173	SERVICIOS GENERALES GUAYACAN S.A	Par	Blanco y negro	Generales	4x2	30	6.666	Publicado	Jacqueline Torres	2016-8-12 00:00:00	
+109244	INMOBIL. E INVERSIONES AREYUNA E HI	Par	Cuatricromia	Generales	35x6	32	450.000	Publicado	Claudio Romero	2016-8-12 00:00:00	
+109351	SERVICIOS DE TRANSPORTES DE PASAJER	Par	Blanco y negro	Generales	7x2	EC-18	46.142	Publicado	Miguel Apey	2016-8-12 00:00:00	
+108677	MENDEZ			UIP	5x6	EC-18	53.625	Publicado	Claudio Romero	2016-8-12 00:00:00	
+109310	DIARIO EL DIA	Par	Blanco y negro	Generales	5x2	EC-19	0	Publicado	Marcela Tello-ElDia	2016-8-12 00:00:00	
+109307	BANCO DE CHILE	605 Palabras		Legal	x	EC-19	150.168	Publicado	Pedro Jaime	2016-8-12 00:00:00	
+108829	HOTELERIA LUIS ALBERTO BERETTA KIEK	Par	Blanco y negro	Generales	5x2	EC-19	6.994	Publicado	Patricia Villena	2016-8-12 00:00:00	
+108004	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Generales	5x1	EC-19	5.860	Publicado	Rene Pizarro	2016-8-12 00:00:00	

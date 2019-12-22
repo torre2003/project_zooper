@@ -1,0 +1,30 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+159418	CALLEGARI LTDA.	Par	Cuatricromia	Generales	34x6	05	0	Arte	Marcela Tello-ElDia	2018-7-5 00:00:00	
+158934	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	12x3	11	51.666	Publicado	Claudio Romero	2018-7-5 00:00:00	
+159202	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	10x3	11	68.490	Publicado	Medios Regionales	2018-7-5 00:00:00	
+158998	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	13	8.306	Publicado	Miguel Apey	2018-7-5 00:00:00	
+159063	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	5x2	13	0	Publicado	Miguel Apey	2018-7-5 00:00:00	
+158197	DIARIO EL DIA	Par	Blanco y negro	Generales	5x2	13	0	Publicado	Marcela Tello-ElDia	2018-7-5 00:00:00	
+158351	C.M. SOC. GASTRONOMICA LTDA.			UIP	5x2	13	7.208	Publicado		2018-7-5 00:00:00	
+158691	PILLA LA VACA	Par	Blanco y negro	Generales	5x2	14	0	Publicado	Marcela Tello-ElDia	2018-7-5 00:00:00	
+158894	ARMAQ SUBIRI S.A.			UIP	5x1	14	8.937	Publicado	Claudio Romero	2018-7-5 00:00:00	
+158674	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	14	0	Publicado	Marcela Tello-ElDia	2018-7-5 00:00:00	
+158967	SOC. DE GES			UIP	5x1	14	8.937	Publicado	Miguel Apey	2018-7-5 00:00:00	
+154419	CERNA E HIJOS CIA. LTDA.	Par	Blanco y negro	Generales	5x1	14	3.566	Publicado	Nadia Randolph	2018-7-5 00:00:00	
+159030	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	4x5	14	20.508	Publicado	Miguel Apey	2018-7-5 00:00:00	
+159468	DIARIO EL DIA	Par	Blanco y negro	Generales	5x1	14	0	Publicado	Marcela Tello-ElDia	2018-7-5 00:00:00	
+159259	DIARIO EL DIA	Par	Cuatricromia	Generales	14x6	16	0	Publicado	Marcela Tello-ElDia	2018-7-5 00:00:00	
+159091	LABORATORIO CLINICO STA. MARIA LA S	Par	Blanco y negro	Generales	6x2	20	7.470	Publicado	Miguel Apey	2018-7-5 00:00:00	
+158609	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	21	0	Publicado	Marcela Tello-ElDia	2018-7-5 00:00:00	
+158877	ELEODORO GODOY SALINAS	Par	Cuatricromia	Generales	6x6	22	68.289	Publicado	M Cristina Puga	2018-7-5 00:00:00	
+159298	CAMPOS DEL NORTE S.A.	Par	Cuatricromia	Generales	17x3	27	0	Publicado	Patricia Villena	2018-7-5 00:00:00	
+159355	DIARIO EL DIA	Par	Blanco y negro	Generales	35x6	28	0	Publicado	Carolina Naranjo	2018-7-5 00:00:00	
+159473	DIARIO EL DIA	Par	Blanco y negro	Generales	6x6	29	0	Publicado	Marcela Tello-ElDia	2018-7-5 00:00:00	
+159242	OPERADORA Y ADMINISTRADORA NUEVA PO	Impar	Cuatricromia	Generales	35x6	32	504.000	Publicado	Patricia Villena	2018-7-5 00:00:00	
+159470	DIARIO EL DIA	Par	Cuatricromia	Generales	17x6	EC-17	0	Publicado	Marcela Tello-ElDia	2018-7-5 00:00:00	
+157691	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Generales	5x2	EC-18	7.003	Publicado	Rene Pizarro	2018-7-5 00:00:00	
+159471	DIARIO EL DIA	Par	Blanco y negro	Generales	5x2	EC-18	0	Publicado	Marcela Tello-ElDia	2018-7-5 00:00:00	
+159472	DIARIO EL DIA	Par	Blanco y negro	Generales	12x6	EC-18	0	Publicado	Marcela Tello-ElDia	2018-7-5 00:00:00	
+152143	HOTELERIA LUIS ALBERTO BERETTA KIEK	Par	Blanco y negro	Generales	5x2	EC-18	6.061	Publicado	Patricia Villena	2018-7-5 00:00:00	
+159459	SOCIEDAD DE RENTAS FALABELLA S.A	Home	Banner Cabecera	Web	x	WEB	500.000	Publicado		2018-7-5 00:00:00	
+159460	UNIVERSIDAD DE ACONCAGUA	Home	Banner Cabecera	Web	x	WEB	1.356.601	Publicado		2018-7-5 00:00:00	

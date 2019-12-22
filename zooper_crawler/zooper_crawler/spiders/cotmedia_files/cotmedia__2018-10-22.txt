@@ -1,0 +1,30 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+167552	UNIVERSIDAD SANTO TOMAS	Impar	Cuatricromia	Generales	25x5	05	534.696	Publicado	Patricia Villena	2018-10-22 00:00:00	
+168123	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Cuatricromia	Medios Regionales	16x6	06	324.840	Publicado	Medios Regionales	2018-10-22 00:00:00	
+168124	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Cuatricromia	Medios Regionales	16x6	07	324.840	Publicado	Medios Regionales	2018-10-22 00:00:00	
+168131	INMOBIL. LA SERENA GOLF S.A.	Impar	Cuatricromia	Generales	17x6	09	0	Publicado	Patricia Villena	2018-10-22 00:00:00	
+168139	COQUIMBO UNIDO S.A.D.P.	Par	Blanco y negro	Generales	17x3	10	121.396	Publicado	Paola Marquez	2018-10-22 00:00:00	
+168148	JORGE VEGA	Impar	Cuatricromia	Generales	17x3	10	219.633	Publicado	Patricia Villena	2018-10-22 00:00:00	
+168113	DABED Y CIA. LTDA., SELIM	Par	Cuatricromia	Generales	6x6	12	27.690	Publicado	Karina Rivera	2018-10-22 00:00:00	
+164433	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	4x5	13	20.508	Publicado	Miguel Apey	2018-10-22 00:00:00	
+164200	SOC. DE GES			UIP	5x1	13	8.937	Publicado	Miguel Apey	2018-10-22 00:00:00	
+164340	ARMAQ SUBIRI S.A.			UIP	5x1	13	8.937	Publicado	Claudio Romero	2018-10-22 00:00:00	
+163561	C.M. SOC. GASTRONOMICA LTDA.			UIP	5x2	13	7.208	Publicado		2018-10-22 00:00:00	
+164718	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	13	0	Publicado	Marcela Tello-ElDia	2018-10-22 00:00:00	
+164621	PAMELA B. GONZALEZ LIZAMA COMERCIAL	Par	Blanco y negro	Generales	5x2	19	0	Publicado	Marcela Tello-ElDia	2018-10-22 00:00:00	
+168055	INMOBIL. LA SERENA GOLF S.A.	Par	Blanco y negro	Generales	5x2	19	0	Publicado	Patricia Villena	2018-10-22 00:00:00	
+164757	INVERSIONES ALTA CRUZ LTDA	Par	Blanco y negro	Generales	5x2	19	0	Publicado	Marcela Tello-ElDia	2018-10-22 00:00:00	
+167358	HABITA INMOBILIARIA SA	Par	Cuatricromia	Generales	17x6	21	0	Publicado	Miguel Apey	2018-10-22 00:00:00	
+164652	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	25	0	Arte	Marcela Tello-ElDia	2018-10-22 00:00:00	
+168021	AGUAS DEL VALLE S.A.	Par	Blanco y negro	Generales	20x4	26	316.000	Publicado	Jacqueline Torres	2018-10-22 00:00:00	
+164402	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	26	8.306	Publicado	Miguel Apey	2018-10-22 00:00:00	
+164450	LABORATORIO CLINICO STA. MARIA LA S	Par	Blanco y negro	Generales	6x2	27	7.470	Publicado	Miguel Apey	2018-10-22 00:00:00	
+164942	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	5x2	27	0	Publicado	Miguel Apey	2018-10-22 00:00:00	
+168090	ARZOBISPADO DE LA SERENA	Par	Blanco y negro	Generales	10x2	27	0	Arte	Marcela Tello-ElDia	2018-10-22 00:00:00	
+168176	DIARIO EL DIA	Par	Blanco y negro	Generales	6x6	29	0	Arte	Marcela Tello-ElDia	2018-10-22 00:00:00	
+168129	REMATES RINEL SPA	Par	Blanco y negro	Generales	9x3	EC-23	83.193	Arte	Pedro Jaime	2018-10-22 00:00:00	
+166142	HOTELERIA LUIS ALBERTO BERETTA KIEK	Par	Blanco y negro	Generales	5x2	EC-24	6.061	Arte	Patricia Villena	2018-10-22 00:00:00	
+168095	COOPEUCH LTDA.	628 Palabras		Legal	x	EC-24	155.681	Arte	Marcela Tello-ElDia	2018-10-22 00:00:00	
+164906	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Generales	5x2	EC-24	7.003	Arte	Rene Pizarro	2018-10-22 00:00:00	
+168094	COOPEUCH LTDA.	592 Palabras		Legal	x	EC-24	146.756	Arte	Marcela Tello-ElDia	2018-10-22 00:00:00	
+167273	DIARIO EL DIA	Par	Cuatricromia	Generales	6x6	EC-24	0	Arte	Marcela Tello-ElDia	2018-10-22 00:00:00	

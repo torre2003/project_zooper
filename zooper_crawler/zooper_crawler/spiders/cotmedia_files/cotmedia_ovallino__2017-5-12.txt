@@ -1,0 +1,17 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+129599	PEDRO ANDRES MONARDEZ ELGUETA	Par	Cuatricromia	Generales	6x6	01	25.000	Publicado	Karina Rivera	Restaurant Riquisimo	2017-5-12 00:00:00	
+129218	SOCIEDAD DE RENTAS FALABELLA S.A	Par	Cuatricromia	Generales	17x6	03	200.000	Publicado	M Cristina Puga	Open Plaza - Mall Ovalle	2017-5-12 00:00:00	
+129413	ADOLFO HADLER BARRERA	Par	Blanco y negro	Generales	5x1	06	11.770	Publicado	Karina Rivera	ARRIENDO CASA	2017-5-12 00:00:00	
+128744	OVALLE CASINO RESORT S.A	Par	Cuatricromia	Generales	25x4	06	131.824	Publicado	Paola Marquez	OCR Eventos mayo	2017-5-12 00:00:00	
+129408	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Generales	4x2	06	11.560	Arte	Marcela Tello-ElDia	SERVICIO DE VIGILANCIA- ENAMI ( 78543  ) 	2017-5-12 00:00:00	
+128112	FERNANDO YOANOVICH			UIP	5x2	07	2.247	Publicado	Karina Rivera	COMPRA VEHICULOS	2017-5-12 00:00:00	
+127483	AGRICOLA NORTE TALINAY LTDA	Par	Blanco y negro	Generales	5x2	07	1.666	Publicado	Paola Marquez	UIP VENTA ALFALFA	2017-5-12 00:00:00	
+127728	JACQUELINE JOFRE VILLANUEVA			UIP	5x2	07	2.808	Publicado	Karina Rivera	Cortinas Rollers	2017-5-12 00:00:00	
+129248	SOC. HOTELERA VICHUQUEN LTDA.	Par	Cuatricromia	Generales	15x2	08	0	Arte	Karina Rivera	DIA DE LA MADRE HOTEL LIMARI	2017-5-12 00:00:00	
+129227	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x3	08	0	Arte	Marcela Tello-ElDia	CINEMARK- REY ARTURO	2017-5-12 00:00:00	
+128760	SALINAS Y FABRES S.A.	Impar	Cuatricromia	Generales	17x6	09	218.000	Publicado	M Cristina Puga	salfa 	2017-5-12 00:00:00	
+128425	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	6x6	11	16.065	Publicado	Claudio Romero	Muebles Alpina	2017-5-12 00:00:00	
+129417	DABED Y CIA. LTDA., SELIM	Par	Cuatricromia	Generales	6x6	13	23.076	Publicado	Karina Rivera	M1	2017-5-12 00:00:00	
+129035	EL RELAJO			UIP	5x4	14	16.531	Publicado	Karina Rivera		2017-5-12 00:00:00	
+128806	KH			UIP	5x2	14	2.808	Publicado	Miguel Apey	KHUYAY TRAVEL	2017-5-12 00:00:00	
+129396	EMPRESAS LA POLAR S.A.	Par	Cuatricromia	Contraportada	35x6	16	252.000	Publicado	Patricia Villena	Belleza	2017-5-12 00:00:00	

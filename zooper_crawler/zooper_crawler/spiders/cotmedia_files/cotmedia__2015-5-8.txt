@@ -1,0 +1,41 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+75099	CHRISTIAN LAUNITZ MARIN SERVICIOS M	Par	Blanco y negro	Generales	3x2	04	6.667	Publicado	Jacqueline Torres	2015-5-8 00:00:00	
+75236	SALINAS Y FABRES S.A.	Impar	Cuatricromia	Generales	35x6	05	516.782	Publicado	M Cristina Puga	2015-5-8 00:00:00	
+75376	CARAT CHILE S.A.	Impar	Cuatricromia	Generales	17x6	07	300.000	Publicado	Kathine Soto-Stgo	2015-5-8 00:00:00	
+75365	SKY AIRLINE S.A.	Impar	Cuatricromia	Generales	17x6	08	269.464	Publicado	M Cristina Puga	2015-5-8 00:00:00	
+75311	FUNDACION EDUCACIONAL COLEGIO SANTA	Impar	Cuatricromia	Generales	17x6	09	385.714	Publicado	Pedro Jaime	2015-5-8 00:00:00	
+75338	GOBERNACION MARITIMA	Par	Blanco y negro	Generales	12x2	10	61.522	Publicado	Miguel Apey	2015-5-8 00:00:00	
+74761	BANCO DEL ESTADO DE CHILE	Impar	Cuatricromia	Generales	17x6	11	280.000	Publicado	Kathine Soto-Stgo	2015-5-8 00:00:00	
+75325	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	12	0	Publicado	Marcela Tello-ElDia	2015-5-8 00:00:00	
+75042	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	12	0	Publicado	Marcela Tello-ElDia	2015-5-8 00:00:00	
+75281	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	10x2	14	43.480	Publicado	Medios Regionales	2015-5-8 00:00:00	
+74487	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	10x3	14	0	Publicado	Marcela Tello-ElDia	2015-5-8 00:00:00	
+75349	SODIMAC	Impar	Cuatricromia	Generales	34x2	16	199.990	Publicado	Kathine Soto-Stgo	2015-5-8 00:00:00	
+75348	SODIMAC	Par	Cuatricromia	Generales	34x2	17	199.990	Publicado	Kathine Soto-Stgo	2015-5-8 00:00:00	
+74840	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	17-18	8.306	Publicado	Miguel Apey	2015-5-8 00:00:00	
+66286	ILUSTRE MUNICIPALIDAD DE COQUIMBO	Par	Blanco y negro	Generales	10x6	19	153.804	Publicado	Miguel Apey	2015-5-8 00:00:00	
+75379	ENTEL PCS	Impar	Cuatricromia	Generales	35x6	23	645.977	Publicado	Kathine Soto-Stgo	2015-5-8 00:00:00	
+69766	SOCIEDAD RESTAURANTE JIN HAI WAN Y 	Par	Cuatricromia	Generales	10x2	24	17.875	Publicado	Jacqueline Torres	2015-5-8 00:00:00	
+74437	DIARIO EL DIA	Par	Cuatricromia	Generales	10x2	24	0	Publicado	Marcela Tello-ElDia	2015-5-8 00:00:00	
+74868	HOTEL COSTA REAL	Par	Cuatricromia	Generales	10x2	24	30.761	Publicado	Miguel Apey	2015-5-8 00:00:00	
+74864	BAKULIC RESTAURANT	Par	Cuatricromia	Generales	10x2	24	24.609	Publicado	Miguel Apey	2015-5-8 00:00:00	
+74373	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Cuatricromia	Generales	5x2	24	0	Publicado	Marcela Tello-ElDia	2015-5-8 00:00:00	
+74403	MARTIN JURE PATRICIA	Par	Cuatricromia	Generales	5x3	24	0	Publicado	Marcela Tello-ElDia	2015-5-8 00:00:00	
+74407	PILLA LA VACA	Par	Cuatricromia	Generales	5x2	24	0	Publicado	Marcela Tello-ElDia	2015-5-8 00:00:00	
+74467	SOC. HOTELERA VICHUQUEN LTDA.	Par	Cuatricromia	Generales	5x3	24	0	Publicado	Marcela Tello-ElDia	2015-5-8 00:00:00	
+75247	CARAT CHILE S.A.	Impar	Cuatricromia	Generales	17x6	27	300.000	Publicado	Kathine Soto-Stgo	2015-5-8 00:00:00	
+75393	ILUSTRE MUNICIPALIDAD DE LA SERENA	Par	Cuatricromia	Generales	17x6	28	0	Publicado	M Cristina Puga	2015-5-8 00:00:00	
+75225	DESIDERIO			UIP	5x2	29	17.875	Publicado	Claudio Romero	2015-5-8 00:00:00	
+73584	SOC. DE GESTION MEDITERRANEA			UIP	5x1	29	8.937	Publicado	Miguel Apey	2015-5-8 00:00:00	
+74716	SOC. COMERCIAL ALCAPARRA LTDA.	Par	Blanco y negro	Generales	5x2	29	10.440	Publicado	Patricia Villena	2015-5-8 00:00:00	
+74880	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	4x5	29	20.508	Publicado	Miguel Apey	2015-5-8 00:00:00	
+74999	INCASACH LIMITADA			UIP	5x1	29	8.937	Publicado	Nadia Randolph	2015-5-8 00:00:00	
+75025	AREVALO ROMERO 			UIP	5x1	29	8.937	Publicado	Pedro Jaime	2015-5-8 00:00:00	
+74184	armaq			UIP	5x1	29	8.937	Publicado	Claudio Romero	2015-5-8 00:00:00	
+75375	INMOBIL. E INVERSIONES AREYUNA E HI	Par	Blanco y negro	Generales	12x2	30	57.128	Publicado	Claudio Romero	2015-5-8 00:00:00	
+75128	SERVICIOS GENERALES GUAYACAN S.A	Par	Blanco y negro	Generales	3x2	30	6.667	Publicado	Jacqueline Torres	2015-5-8 00:00:00	
+75391	CLUB DEPORTES COQUIMBO UNIDO	Par	Blanco y negro	Generales	12x2	30	0	Publicado	Marcela Tello-ElDia	2015-5-8 00:00:00	
+75345	CENCOSUD RETAIL S.A.	Impar	Cuatricromia	Contraportada	35x6	32	744.166	Publicado	Kathine Soto-Stgo	2015-5-8 00:00:00	
+74649	SOC. COMERCIAL VARGAS Y GIACOMET	Par	Blanco y negro	Generales	5x1	EC-21	5.860	Publicado	Rene Pizarro	2015-5-8 00:00:00	
+74619	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Generales	5x1	EC-21	5.860	Publicado	Rene Pizarro	2015-5-8 00:00:00	
+75031	AREVALO ROMERO			UIP	5x1	EC-21	8.937	Publicado	Pedro Jaime	2015-5-8 00:00:00	

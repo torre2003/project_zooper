@@ -1,0 +1,11 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+118027	SOCIEDAD DE RENTAS FALABELLA S.A	Par	Cuatricromia	Generales	8x6	01	50.980	Arte	M Cristina Puga	Huincha open 	2016-12-7 00:00:00	
+116737	OVALLE CASINO RESORT S.A	Par	Cuatricromia	Generales	25x4	03	0	Arte	Paola Marquez	OCR Eventos diciembre	2016-12-7 00:00:00	
+118174	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	6x1	05	0	Arte	Medios Regionales	ASERCOP (  225839  ) 	2016-12-7 00:00:00	
+115480	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	06	0	Arte	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2016-12-7 00:00:00	
+118303	COMERCIAL AVA 			UIP	10x2	08	7.882	Arte	Karina Rivera	E BODY OVALLE	2016-12-7 00:00:00	
+114259	Pedro Andres Monardez Elgueta			UIP	17x2	08	12.895	Arte	Karina Rivera	Restaurant Riquisimo	2016-12-7 00:00:00	
+117849	OVALLEMAR			UIP	5x2	08	3.958	Arte	Karina Rivera	OVALLE MAR	2016-12-7 00:00:00	
+117587	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	6x6	09	0	Arte	Claudio Romero	Muebles Alpina	2016-12-7 00:00:00	
+118606	ILUSTRE MUNICIPALIDAD DE OVALLE	Par	Cuatricromia	Generales	17x6	11	166.666	Arte	Marcela Tello-ElDia	TALLERES ARTISTICOS 	2016-12-7 00:00:00	
+118557	CABARET Y SALON DE ESPECTACULOS ART			UIP	10x2	14	5.517	Arte	Karina Rivera	PARADISE CLUB	2016-12-7 00:00:00	

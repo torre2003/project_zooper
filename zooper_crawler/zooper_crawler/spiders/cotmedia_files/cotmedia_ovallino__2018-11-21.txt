@@ -1,0 +1,13 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+169242	CAMPOS DEL NORTE S.A.	Par	Cuatricromia	Generales	5x6	01	23.333	Arte	Patricia Villena	Franja Enjoy Portada EL Ovallino	2018-11-21 00:00:00	
+170318	SOCIEDAD DE RENTAS FALABELLA S.A	Par	Cuatricromia	Generales	8x6	03	50.980	Arte	M Cristina Puga	HUINCHA Open Plaza - primera impar	2018-11-21 00:00:00	
+170206	EMPRESA PERIODISTICA EL NORTE S.A.	Par	Blanco y negro	Medios Regionales	6x2	05	18.204	Arte	Medios Regionales	Remate - Santander GRC - (173242)	2018-11-21 00:00:00	
+170288	HOSPITAL DE OVALLE	Par	Blanco y negro	Generales	10x2	05	32.015	Arte	Karina Rivera	HOSPITAL DE OVALLE	2018-11-21 00:00:00	
+169207	DABED Y CIA. LTDA., SELIM	Par	Cuatricromia	Generales	6x6	06	23.076	Arte	Karina Rivera	O6	2018-11-21 00:00:00	
+170344	OSVALDO PIZARRO	Par	Cuatricromia	Generales	7x2	08	3.931	Arte	Karina Rivera	CONSTRUCTOR CIVIL	2018-11-21 00:00:00	
+170252	SOCIEDAD DE SERVICIOS MEDICOS E INV			UIP	17x2	08	8.403	Arte	Karina Rivera	CENTRO IMAGEN OVALLE	2018-11-21 00:00:00	
+169007	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	12x3	09	0	Arte	Claudio Romero	Muebles alpina..	2018-11-21 00:00:00	
+169764	FUNERARIA ALVARO MAYA TABILO E.I.R.			UIP	5x2	09	3.931	Arte	Karina Rivera	FUNERARIA SANTA ROSA	2018-11-21 00:00:00	
+170363	ILUSTRE MUNICIPALIDAD DE MONTE PATR	Impar	Cuatricromia	Generales	17x3	11	250.000	Arte	Karina Rivera	MUNICIPIO MONTE PATRIA	2018-11-21 00:00:00	
+168568	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	14	0	Arte	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2018-11-21 00:00:00	
+169294	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	6x6	16	0	Arte	Marcela Tello-ElDia	Descuentos Cinemark	2018-11-21 00:00:00	

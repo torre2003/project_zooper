@@ -1,0 +1,7 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+86284	CALLEGARI LTDA.	Par	Cuatricromia	Generales	17x6	03	174.777	Publicado	Marcela Tello-ElDia	Kia	2015-10-11 00:00:00	
+86210	INMOBIL. ITALIA LTDA.	Par	Blanco y negro	Generales	5x2	05	24.482	Publicado	Marcela Tello-ElDia	Arriendos Departamentos/Oficinas/Local Comercial - Rep. 10/10	2015-10-11 00:00:00	
+86435	EMPRESA PERIODISTICA EL NORTE S.A.	Par	Blanco y negro	Medios Regionales	6x2	05	17.340	Publicado	Medios Regionales	Empresa de Transp. - Conductor y Asistente - (217255)	2015-10-11 00:00:00	
+81460	INVERSIONES TANGUEMAR LIMITADA	Impar	Blanco y negro	Generales	5x2	07	14.147	Publicado	Patricia Villena	Tanguemar	2015-10-11 00:00:00	
+85390	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	10x3	07	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2015-10-11 00:00:00	
+86285	CALLEGARI LTDA.	Par	Cuatricromia	Generales	17x6	09	174.777	Publicado	Marcela Tello-ElDia	Ford	2015-10-11 00:00:00	

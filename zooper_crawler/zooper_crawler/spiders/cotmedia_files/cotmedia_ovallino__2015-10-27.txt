@@ -1,0 +1,10 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+86105	SOCIEDAD DE RENTAS FALABELLA S.A	Impar	Cuatricromia	Generales	8x6	01	50.980	Publicado	M Cristina Puga	Huincha en portada Open 	2015-10-27 00:00:00	
+87256	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	12x6	03	0	Publicado	Marcela Tello-ElDia	Avant Premiere - Club de Lectores	2015-10-27 00:00:00	
+87014	EMPRESA PERIODISTICA EL NORTE S.A.	Par	Blanco y negro	Medios Regionales	6x3	05	26.010	Publicado	Medios Regionales	Quiebra Humberto Velasquez - (225138)	2015-10-27 00:00:00	
+87030	BIANCA DASOLI	Par	Blanco y negro	Generales	5x2	05	1.429	Publicado	Italo Retamal	tarot	2015-10-27 00:00:00	
+86973	linea			UIP	10x2	07	5.630	Publicado	Italo Retamal	seguridad 	2015-10-27 00:00:00	
+87126	socinget			UIP	10x2	07	5.630	Publicado	Italo Retamal		2015-10-27 00:00:00	
+86998	FERNANDO SANCHEZ			UIP	5x2	09	2.808	Publicado	Italo Retamal	busca agua	2015-10-27 00:00:00	
+87372	EMPRESA PERIODISTICA EL NORTE S.A.	Par	Blanco y negro	Medios Regionales	6x2	12	17.340	Publicado	Medios Regionales	Conductores Viggo  (228692)	2015-10-27 00:00:00	
+87466	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x6	14	0	Publicado	Marcela Tello-ElDia		2015-10-27 00:00:00	

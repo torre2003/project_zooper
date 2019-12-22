@@ -1,0 +1,8 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+127478	AGRICOLA NORTE TALINAY LTDA	Par	Blanco y negro	Generales	5x2	05	1.666	Publicado	Paola Marquez	UIP VENTA ALFALFA	2017-5-6 00:00:00	
+127723	JACQUELINE JOFRE VILLANUEVA			UIP	5x2	05	2.808	Publicado	Karina Rivera	Cortinas Rollers	2017-5-6 00:00:00	
+128107	FERNANDO YOANOVICH			UIP	5x2	05	2.247	Publicado	Karina Rivera	COMPRO VEHICULO	2017-5-6 00:00:00	
+128836	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	34x6	06	0	Publicado	Marcela Tello-ElDia	Especial Portadas Antiguas	2017-5-6 00:00:00	
+128936	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	4x2	07	11.560	Arte	Medios Regionales	Original 1 - Servicio de Transporte (74078)	2017-5-6 00:00:00	
+129023	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	12x6	11	0	Arte	Marcela Tello-ElDia	Avant Premiere	2017-5-6 00:00:00	
+129012	LEONEL EMILIO PIZARRO VIERA	Par	Blanco y negro	Generales	12x2	14	33.785	Publicado	Karina Rivera	DEFUNCION CARLOS CAZAUDEHORE	2017-5-6 00:00:00	

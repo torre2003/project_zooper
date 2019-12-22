@@ -1,0 +1,7 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+102623	DABED Y CIA. LTDA., SELIM	Par	Cuatricromia	Generales	6x6	03	23.076	Publicado	Nadia Randolph	3 cuotas	2016-5-21 00:00:00	
+101862	PARQUES DE CHILE S.A	Par	Blanco y negro	Generales	10x2	07	54.142	Publicado	Rene Pizarro	Parques de Chile	2016-5-21 00:00:00	
+101609	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	09	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2016-5-21 00:00:00	
+103193	SANTO TOMAS S.A.	Par	Blanco y negro	Generales	10x2	13	48.728	Publicado	Claudio Romero		2016-5-21 00:00:00	
+101846	VALENTINA ANDREA PIZARRO VIERA			UIP	5x2	14	2.808	Publicado	Leonel Pizarro-Ovalle		2016-5-21 00:00:00	
+103186	EMPRESA PERIODISTICA EL NORTE S.A.	Par	Blanco y negro	Medios Regionales	8x2	14	23.120	Publicado	Medios Regionales		2016-5-21 00:00:00	

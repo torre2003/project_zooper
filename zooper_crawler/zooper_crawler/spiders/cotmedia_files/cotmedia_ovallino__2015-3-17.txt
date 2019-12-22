@@ -1,0 +1,7 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+70706	AGUAS DEL VALLE S.A.	Impar	Cuatricromia	Generales	17x6	03	220.000	Publicado	Italo Retamal	cuidar el agua	2015-3-17 00:00:00	
+70084	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	10x3	05	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2015-3-17 00:00:00	
+70521	renacer			UIP	5x2	07	2.808	Publicado	Leonel Pizarro-Ovalle	arrienda	2015-3-17 00:00:00	
+71039	Maria Vic			UIP	17x2	07	9.211	Publicado	Italo Retamal		2015-3-17 00:00:00	
+71305	AGRICOLA CERRILLOS DE TAMAYA	Par	Blanco y negro	Generales	6x1	07	14.243	Publicado	Pedro Jaime	ADMINISTRATIVO CONTABLE 	2015-3-17 00:00:00	
+71315	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	35x6	11	0	Publicado	Marcela Tello-ElDia		2015-3-17 00:00:00	

@@ -1,0 +1,53 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+79287	CHRISTIAN LAUNITZ MARIN SERVICIOS M	Par	Blanco y negro	Generales	3x2	04	6.440	Publicado	Jacqueline Torres	2015-7-10 00:00:00	
+79911	ENTEL PCS	Impar	Cuatricromia	Generales	17x6	05	313.761	Publicado	Kathine Soto-Stgo	2015-7-10 00:00:00	
+79894	ILUSTRE MUNICIPALIDAD DE PUNITAQUI	Par	Blanco y negro	Generales	12x2	07	59.763	Publicado	Jacqueline Torres	2015-7-10 00:00:00	
+79905	INSTITUTO DE DESARROLLO AGROPECUARI	Par	Blanco y negro	Generales	17x3	08	126.998	Publicado	Jacqueline Torres	2015-7-10 00:00:00	
+79903	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	10x3	08	65.220	Publicado	Medios Regionales	2015-7-10 00:00:00	
+79506	MINERA LOS PELAMBRES	Impar	Cuatricromia	Generales	34x3	09	627.521	Publicado	Marcela Tello-ElDia	2015-7-10 00:00:00	
+79641	INMOBIL. PY  S.A.	Par	Blanco y negro	Generales	5x3	10	54.930	Publicado	Claudio Romero	2015-7-10 00:00:00	
+79886	CARAT CHILE S.A.	Impar	Cuatricromia	Generales	17x6	11	300.000	Publicado	Kathine Soto-Stgo	2015-7-10 00:00:00	
+79451	INMOBILIARIA KUPAL HOME LTDA.	Par	Cuatricromia	Generales	17x3	12	0	Publicado	Miguel Apey	2015-7-10 00:00:00	
+79112	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	14	8.306	Publicado	Miguel Apey	2015-7-10 00:00:00	
+78488	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	6x3	15	39.132	Publicado	Medios Regionales	2015-7-10 00:00:00	
+79007	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	10x3	15	0	Publicado	Marcela Tello-ElDia	2015-7-10 00:00:00	
+79372	GASAUI PRODUCCIONES LTDA	Par	Cuatricromia	Generales	5x6	20	0	Publicado	Pedro Jaime	2015-7-10 00:00:00	
+79140	HOTEL COSTA REAL	Par	Cuatricromia	Generales	10x2	22	30.761	Publicado	Miguel Apey	2015-7-10 00:00:00	
+79135	BAKULIC RESTAURANT	Par	Cuatricromia	Generales	10x2	22	24.609	Publicado	Miguel Apey	2015-7-10 00:00:00	
+78910	DIARIO EL DIA	Par	Cuatricromia	Generales	10x2	22	0	Publicado	Marcela Tello-ElDia	2015-7-10 00:00:00	
+78915	MARTIN JURE PATRICIA	Par	Cuatricromia	Generales	5x3	22	0	Publicado	Marcela Tello-ElDia	2015-7-10 00:00:00	
+78920	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Cuatricromia	Generales	5x2	22	0	Publicado	Marcela Tello-ElDia	2015-7-10 00:00:00	
+78951	PILLA LA VACA	Par	Cuatricromia	Generales	5x2	22	0	Publicado	Marcela Tello-ElDia	2015-7-10 00:00:00	
+78982	SOC. HOTELERA VICHUQUEN LTDA.	Par	Cuatricromia	Generales	5x3	22	0	Publicado	Marcela Tello-ElDia	2015-7-10 00:00:00	
+78028	SOCIEDAD RESTAURANTE JIN HAI WAN Y 	Par	Cuatricromia	Generales	10x2	22	17.875	Publicado	Jacqueline Torres	2015-7-10 00:00:00	
+79922	DIARIO EL DIA	Par	Blanco y negro	Generales	35x6	23	0	Publicado	Carolina Naranjo	2015-7-10 00:00:00	
+79932	DIARIO EL DIA	Par	Blanco y negro	Generales	17x6	27	0	Publicado	Marcela Tello-ElDia	2015-7-10 00:00:00	
+79881	CLUB DE DEPORTES LA SERENA	Par	Cuatricromia	Generales	17x3	28	0	Publicado	Marcela Tello-ElDia	2015-7-10 00:00:00	
+79865	LEON LEON SOC. LTDA.	Par	Blanco y negro	Generales	5x2	29	17.068	Publicado	Jacqueline Torres	2015-7-10 00:00:00	
+79778	AUTOMOTORES DEL NORTE	Par	Blanco y negro	Generales	5x1	29	7.427	Publicado	Miguel Apey	2015-7-10 00:00:00	
+79631	AREVALO CARMEN			UIP	5x1	29	8.937	Publicado	Pedro Jaime	2015-7-10 00:00:00	
+79385	lara			UIP	5x1	29	8.937	Publicado	Italo Retamal	2015-7-10 00:00:00	
+78152	MARCOS MAUREIRA ALVAREZ			UIP	5x1	29	8.937	Publicado	Claudio Romero	2015-7-10 00:00:00	
+78414	SOC. DE GESTION MEDITERRANEA			UIP	5x1	29	8.937	Publicado	Miguel Apey	2015-7-10 00:00:00	
+79442	INMOBILIARIUM EIRL			UIP	5x1	29	8.937	Publicado	Pedro Jaime	2015-7-10 00:00:00	
+79342	elizabeth echeverri			UIP	5x1	29	8.937	Publicado	Pedro Jaime	2015-7-10 00:00:00	
+79160	SOC. COMERCIAL ALCAPARRA LTDA.	Par	Blanco y negro	Generales	5x2	29	10.440	Publicado	Patricia Villena	2015-7-10 00:00:00	
+78654	ARMAQ SUBIRI S.A			UIP	5x1	29	8.937	Publicado	Claudio Romero	2015-7-10 00:00:00	
+79302	SERVICIOS GENERALES GUAYACAN S.A	Par	Blanco y negro	Generales	3x2	30	6.452	Publicado	Jacqueline Torres	2015-7-10 00:00:00	
+79885	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	10x3	30	65.220	Publicado	Medios Regionales	2015-7-10 00:00:00	
+79897	DIARIO EL DIA	Par	Blanco y negro	Generales	13x2	30	65.697	Publicado	Pedro Jaime	2015-7-10 00:00:00	
+79775	MONDACA BERNARDO	Par	Blanco y negro	Generales	14x2	30	73.826	Publicado	Pedro Jaime	2015-7-10 00:00:00	
+79855	SALINAS Y FABRES S.A.	Impar	Cuatricromia	Generales	35x6	32	516.782	Publicado	M Cristina Puga	2015-7-10 00:00:00	
+79859	DIARIO EL DIA	Par	Blanco y negro	Generales	6x2	EC-16	0	Publicado	Marcela Tello-ElDia	2015-7-10 00:00:00	
+79753	SOTRALITUR S.A.	Par	Blanco y negro	Generales	9x2	EC-16	52.733	Publicado	Pedro Jaime	2015-7-10 00:00:00	
+79203	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Generales	5x1	EC-17	5.860	Publicado	Rene Pizarro	2015-7-10 00:00:00	
+79898	CHRISTIAN EDUARDO BRAVO BUSTOS	872 Palabras		Legal	x	EC-17	216.470	Publicado	Pedro Jaime	2015-7-10 00:00:00	
+79637	AREVALO CARMEN			UIP	5x1	EC-17	8.937	Publicado	Pedro Jaime	2015-7-10 00:00:00	
+79237	SOC. COMERCIAL VARGAS Y GIACOMET	Par	Blanco y negro	Generales	5x1	EC-17	5.860	Publicado	Rene Pizarro	2015-7-10 00:00:00	
+79878	AGUAS DEL VALLE S.A.	Par	Blanco y negro	Generales	12x1	EC-17	29.004	Publicado	Jacqueline Torres	2015-7-10 00:00:00	
+79877	AGUAS DEL VALLE S.A.	Par	Blanco y negro	Generales	12x1	EC-17	29.004	Publicado	Jacqueline Torres	2015-7-10 00:00:00	
+79876	AGUAS DEL VALLE S.A.	Par	Blanco y negro	Generales	12x1	EC-17	29.004	Publicado	Jacqueline Torres	2015-7-10 00:00:00	
+79875	AGUAS DEL VALLE S.A.	Par	Blanco y negro	Generales	12x1	EC-17	29.004	Publicado	Jacqueline Torres	2015-7-10 00:00:00	
+79542	PAULA ACEVEDO			UIP	5x1	EC-17	8.937	Publicado	Pedro Jaime	2015-7-10 00:00:00	
+79766	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	MR: Inserto	x	INS	279.557	Publicado	Medios Regionales	2015-7-10 00:00:00	
+79974	CAMPOS DEL NORTE S.A.	Home	Banner Cabecera	Web	x	WEB	900.000	Publicado	Patricia Villena	2015-7-10 00:00:00	

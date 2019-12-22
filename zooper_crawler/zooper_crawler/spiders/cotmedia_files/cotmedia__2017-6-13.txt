@@ -1,0 +1,27 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+130959	CHRISTIAN LAUNITZ MARIN SERVICIOS M	Par	Blanco y negro	Generales	8x2	04	5.000	Publicado	Heinger Vega Torres	2017-6-13 00:00:00	
+131517	SALINAS Y FABRES S.A.	Impar	Cuatricromia	Generales	17x6	05	282.000	Publicado	M Cristina Puga	2017-6-13 00:00:00	
+131681	DIARIO EL DIA	Par	Cuatricromia	Generales	10x3	11	0	Publicado	Marcela Tello-ElDia	2017-6-13 00:00:00	
+131669	SALVATIERRA Y VOISIN LTDA.	Par	Cuatricromia	Generales	28x3	11	0	Publicado	Marcela Tello-ElDia	2017-6-13 00:00:00	
+130766	DIARIO EL DIA	Par	Blanco y negro	Generales	5x2	13	0	Publicado	Marcela Tello-ElDia	2017-6-13 00:00:00	
+131165	SOC. DE GES			UIP	5x1	13	8.937	Publicado	Miguel Apey	2017-6-13 00:00:00	
+131686	ILUSTRE MUNICIPALIDAD DE SALAMANCA	Par	Blanco y negro	Generales	15x2	13	74.705	Publicado	Jacqueline Torres	2017-6-13 00:00:00	
+131602	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	10x2	15	43.480	Publicado	Medios Regionales	2017-6-13 00:00:00	
+131529	INMOBIL. PAN DE AZUCAR	Par	Blanco y negro	Generales	6x2	15	43.944	Publicado	Pedro Jaime	2017-6-13 00:00:00	
+131530	CLUB DE CAMPO PAN DE AZUCAR	Par	Blanco y negro	Generales	6x2	15	43.943	Publicado	Pedro Jaime	2017-6-13 00:00:00	
+130613	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	6x6	16	51.666	Publicado	Claudio Romero	2017-6-13 00:00:00	
+130935	DIARIO EL DIA	Par	Cuatricromia	Generales	17x6	17	0	Publicado	Marcela Tello-ElDia	2017-6-13 00:00:00	
+130842	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	19	8.306	Publicado	Miguel Apey	2017-6-13 00:00:00	
+131762	DIARIO EL DIA	Par	Blanco y negro	Generales	35x6	25	0	Publicado	Carolina Naranjo	2017-6-13 00:00:00	
+130356	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	28	0	Publicado	Marcela Tello-ElDia	2017-6-13 00:00:00	
+128006	cern			UIP	5x1	30	8.937	Publicado	Nadia Randolph	2017-6-13 00:00:00	
+130631	armaq			UIP	5x1	30	8.937	Publicado	Claudio Romero	2017-6-13 00:00:00	
+130421	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	30	0	Publicado	Marcela Tello-ElDia	2017-6-13 00:00:00	
+129722	SERVICIOS GASTRON?MICOS LA CASONA D	Par	Blanco y negro	Generales	5x2	30	10.725	Publicado	Miguel Apey	2017-6-13 00:00:00	
+130730	SERVICIOS GENERALES GUAYACAN S.A	Par	Blanco y negro	Generales	4x2	31	6.666	Publicado	Jacqueline Torres	2017-6-13 00:00:00	
+129677	VELIZ CORTES JOSE A.	Par	Blanco y negro	Generales	3x2	31	13.403	Publicado	Pedro Cortes	2017-6-13 00:00:00	
+131662	SANTANDER G.R.C.	Par	Blanco y negro	Generales	10x2	EC-21	83.824	Publicado	Pedro Jaime	2017-6-13 00:00:00	
+131659	SANTANDER G.R.C.	Par	Blanco y negro	Generales	10x2	EC-21	83.824	Publicado	Pedro Jaime	2017-6-13 00:00:00	
+130696	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Generales	5x1	EC-21	6.043	Publicado	Rene Pizarro	2017-6-13 00:00:00	
+123841	HOTELERIA LUIS ALBERTO BERETTA KIEK	Par	Blanco y negro	Generales	5x2	EC-21	6.061	Publicado	Patricia Villena	2017-6-13 00:00:00	
+131673	BANCO DE CHILE	809 Palabras		Legal	x	EC-22	200.840	Publicado	Pedro Jaime	2017-6-13 00:00:00	

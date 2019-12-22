@@ -1,0 +1,45 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+76909	CHRISTIAN LAUNITZ MARIN SERVICIOS M	Par	Blanco y negro	Generales	3x2	04	6.440	Publicado	Jacqueline Torres	2015-6-20 00:00:00	
+78306	CLARO CHILE S.A.	Impar	Cuatricromia	Generales	35x6	05	742.872	Publicado	Kathine Soto-Stgo	2015-6-20 00:00:00	
+77791	RENDIC HNOS. S.A.j	Impar	Cuatricromia	Generales	34x3	09	658.897	Publicado	Patricia Villena	2015-6-20 00:00:00	
+78131	INMOBIL. PY  S.A.	Par	Blanco y negro	Generales	5x3	10	63.170	Publicado	Claudio Romero	2015-6-20 00:00:00	
+78191	SERV. VIVIENDA Y URBANIZACION IV RE	Par	Blanco y negro	Generales	10x2	10	58.989	Publicado	Marcela Tello-ElDia	2015-6-20 00:00:00	
+78044	COMERCIAL CHRYSLER S.A.	Impar	Cuatricromia	Generales	17x6	11	412.500	Publicado	Kathine Soto-Stgo	2015-6-20 00:00:00	
+78348	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	12	0	Publicado	Marcela Tello-ElDia	2015-6-20 00:00:00	
+77325	sociedad restau			UIP	5x2	12	17.875	Publicado	Jacqueline Torres	2015-6-20 00:00:00	
+77989	CALLEGARI LTDA.	Par	Cuatricromia	Generales	34x6	13	0	Arte	Marcela Tello-ElDia	2015-6-20 00:00:00	
+78041	CONSTRUCTORA SAMCO LTDA	Par	Cuatricromia	Generales	10x6	14	0	Publicado	Miguel Apey	2015-6-20 00:00:00	
+76611	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	14	8.306	Publicado	Miguel Apey	2015-6-20 00:00:00	
+77079	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	10x3	15	0	Publicado	Marcela Tello-ElDia	2015-6-20 00:00:00	
+78235	CONSTRUCTORA NOVA S.A.	Par	Blanco y negro	Economico	6x2	15	50.536	Publicado	Jacqueline Torres	2015-6-20 00:00:00	
+78263	SOC. INMOBILIARIA E INVERSIONES CHI	Par	Blanco y negro	Generales	6x1	15	21.055	Publicado	Claudio Romero	2015-6-20 00:00:00	
+78279	AUTOMOTORES GILDEMEISTER S.A.	Impar	Cuatricromia	Generales	17x6	21	360.825	Publicado	Kathine Soto-Stgo	2015-6-20 00:00:00	
+78375	DIARIO EL DIA	Par	Blanco y negro	Generales	35x6	22	0	Publicado	Carolina Naranjo	2015-6-20 00:00:00	
+78243	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Cuatricromia	Medios Regionales	32x6	27	554.336	Publicado	Medios Regionales	2015-6-20 00:00:00	
+76959	DIARIO EL DIA	Par	Cuatricromia	Generales	12x2	28	0	Publicado	Marcela Tello-ElDia	2015-6-20 00:00:00	
+78254	PARQUES DE CHILE S.A	Par	Cuatricromia	Generales	13x4	28	261.467	Publicado	Rene Pizarro	2015-6-20 00:00:00	
+78177	SOC. DE INVERSIONES SANTA ADELA			UIP	5x1	29	8.937	Publicado	Miguel Apey	2015-6-20 00:00:00	
+76984	PILLA LA VACA	Par	Blanco y negro	Generales	5x2	29	0	Publicado	Marcela Tello-ElDia	2015-6-20 00:00:00	
+78038	DESI			UIP	5x2	29	17.875	Publicado	Claudio Romero	2015-6-20 00:00:00	
+78175	SOC. DE INVERSIONES SANTA ADEL			UIP	5x1	29	8.937	Publicado	Miguel Apey	2015-6-20 00:00:00	
+77982	arevalo carmen 			UIP	5x1	29	8.937	Publicado	Pedro Jaime	2015-6-20 00:00:00	
+76478	ARMAQ			UIP	5x1	29	8.937	Publicado	Claudio Romero	2015-6-20 00:00:00	
+77902	RAUL ANTONIO BEL			UIP	5x1	29	8.937	Publicado	Pedro Jaime	2015-6-20 00:00:00	
+76572	SOC. DE GESTION MEDITERRANEA			UIP	5x1	29	8.937	Publicado	Miguel Apey	2015-6-20 00:00:00	
+76720	lara y			UIP	5x1	29	8.936	Publicado	Italo Retamal	2015-6-20 00:00:00	
+77140	SOC. COMERCIAL ALCAPARRA LTDA.	Par	Blanco y negro	Generales	5x2	29	10.440	Publicado	Patricia Villena	2015-6-20 00:00:00	
+77042	DIARIO EL DIA	Par	Blanco y negro	Generales	5x2	29	0	Publicado	Marcela Tello-ElDia	2015-6-20 00:00:00	
+77013	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	29	0	Publicado	Marcela Tello-ElDia	2015-6-20 00:00:00	
+76939	SERVICIOS GENERALES GUAYACAN S.A	Par	Blanco y negro	Generales	3x2	30	6.666	Publicado	Jacqueline Torres	2015-6-20 00:00:00	
+67636	FALABELLA RETAIL S.A.	Impar	Cuatricromia	Contraportada	35x6	32	600.000	Publicado	M Cristina Puga	2015-6-20 00:00:00	
+78331	AREYUNA AREYUNA NIBALDO	Par	Cuatricromia	Generales	8x3	EC-16	83.193	Publicado	Pedro Jaime	2015-6-20 00:00:00	
+78352	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	EC-17	0	Publicado	Marcela Tello-ElDia	2015-6-20 00:00:00	
+78350	TURISMO BAHIA MAGICA LTDA.	Par	Blanco y negro	Generales	10x2	EC-17	84.226	Publicado	Pedro Jaime	2015-6-20 00:00:00	
+78320	SODIMAC	Par	Blanco y negro	Generales	5x1	EC-18	21.057	Publicado	Kathine Soto-Stgo	2015-6-20 00:00:00	
+78318	CONSTRUCTORA NOVA S.A.	Par	Blanco y negro	Economico	4x2	EC-18	33.691	Publicado	Jacqueline Torres	2015-6-20 00:00:00	
+77936	PAULA ACEVEDO			UIP	5x1	EC-18	8.937	Publicado	Pedro Jaime	2015-6-20 00:00:00	
+76345	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Generales	5x1	EC-19	5.860	Publicado	Rene Pizarro	2015-6-20 00:00:00	
+77988	arevalo carmen			UIP	5x1	EC-19	8.937	Publicado	Pedro Jaime	2015-6-20 00:00:00	
+76375	SOC. COMERCIAL VARGAS Y GIACOMET	Par	Blanco y negro	Generales	5x1	EC-19	5.860	Publicado	Rene Pizarro	2015-6-20 00:00:00	
+77766	INMOBIL. SOCOVESA SANTIAGO S.A.		1 pag.	Inserto	x	INS	718.080	Publicado	M Cristina Puga	2015-6-20 00:00:00	
+78178	MONSALVES Y PINEDA INVERSIONES LTDA	1140 Palabras		Propiedades	x	PROP	182.504	Publicado	Rene Pizarro	2015-6-20 00:00:00	

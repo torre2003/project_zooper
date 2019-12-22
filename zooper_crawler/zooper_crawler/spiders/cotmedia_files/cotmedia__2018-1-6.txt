@@ -1,0 +1,45 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+147281	C.M. SOC. GASTRONOMICA LTDA.			UIP	5x2	04	7.208	Publicado		2018-1-6 00:00:00	
+147041	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	5x2	04	0	Publicado	Miguel Apey	2018-1-6 00:00:00	
+146952	ESTAMPADOS MARGARITA ARAYA E.I.R.L	Par	Blanco y negro	Generales	5x2	04	42.113	Publicado	Pedro Jaime	2018-1-6 00:00:00	
+147442	ARENA CHILE S.A.	Impar	Cuatricromia	Generales	17x6	05	360.825	Publicado	Kathine Soto-Stgo	2018-1-6 00:00:00	
+147385	FUND. EDUC. SAN VIATOR DE OVALLE	Par	Blanco y negro	Generales	7x2	06	47.167	Publicado	Karina Rivera	2018-1-6 00:00:00	
+147311	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	06	0	Publicado	Marcela Tello-ElDia	2018-1-6 00:00:00	
+147481	TRANSBANK S.A.	Impar	Cuatricromia	Generales	17x6	07	360.825	Publicado	Kathine Soto-Stgo	2018-1-6 00:00:00	
+147142	PILLA LA VACA	Par	Blanco y negro	Generales	5x2	08	0	Publicado	Marcela Tello-ElDia	2018-1-6 00:00:00	
+147486	PADRES FRANCISCANOS DEL NORTE	Par	Blanco y negro	Generales	6x2	08	50.536	Publicado	Rene Pizarro	2018-1-6 00:00:00	
+147402	INMOBIL. LA SERENA GOLF S.A.	Par	Cuatricromia	Generales	17x6	09	288.660	Publicado	Patricia Villena	2018-1-6 00:00:00	
+147498	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	10x2	10	47.260	Publicado	Medios Regionales	2018-1-6 00:00:00	
+146723	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	11	8.306	Publicado	Miguel Apey	2018-1-6 00:00:00	
+147543	TRANSBANK S.A.	Impar	Cuatricromia	Generales	17x6	11	360.825	Publicado	Kathine Soto-Stgo	2018-1-6 00:00:00	
+146929	DABED Y CIA. LTDA., SELIM	Par	Cuatricromia	Generales	6x6	12	27.690	Publicado	Karina Rivera	2018-1-6 00:00:00	
+147525	ARZOBISPADO DE LA SERENA	Par	Blanco y negro	Generales	5x2	15	0	Publicado	Marcela Tello-ElDia	2018-1-6 00:00:00	
+147445	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Cuatricromia	Medios Regionales	4x2	15	119.544	Publicado	Medios Regionales	2018-1-6 00:00:00	
+147526	AGRICOLA SAN OSVALDO LTDA.	Par	Blanco y negro	Generales	4x2	15	33.691	Publicado	Pedro Jaime	2018-1-6 00:00:00	
+147396	DIARIO EL DIA	Par	Cuatricromia	Generales	17x6	16	0	Publicado	Marcela Tello-ElDia	2018-1-6 00:00:00	
+146042	INMOBILIARIA PAN DE AZUCAR LTDA			UIP	5x1	22	8.937	Publicado	Pedro Jaime	2018-1-6 00:00:00	
+145828	SOC. DE GES			UIP	5x1	22	8.937	Publicado	Miguel Apey	2018-1-6 00:00:00	
+142069	CERNA E HIJOS CIA. LTDA.	Par	Blanco y negro	Generales	5x1	22	3.574	Publicado	Nadia Randolph	2018-1-6 00:00:00	
+146763	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	4x5	22	20.508	Publicado	Miguel Apey	2018-1-6 00:00:00	
+146855	ARMAQ SUBIRI S.A.			UIP	5x1	22	8.937	Publicado	Claudio Romero	2018-1-6 00:00:00	
+147181	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	22	0	Publicado	Marcela Tello-ElDia	2018-1-6 00:00:00	
+147354	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Cuatricromia	Medios Regionales	10x6	23	242.420	Publicado	Medios Regionales	2018-1-6 00:00:00	
+146824	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	6x6	26	51.666	Publicado	Claudio Romero	2018-1-6 00:00:00	
+146973	CAMPOS DEL NORTE S.A.	Par	Cuatricromia	Generales	17x3	27	0	Publicado	Patricia Villena	2018-1-6 00:00:00	
+147412	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	27	0	Publicado	Marcela Tello-ElDia	2018-1-6 00:00:00	
+145978	VELIZ CORTES JOSE A.	Par	Blanco y negro	Generales	3x2	28	13.403	Publicado	Pedro Cortes	2018-1-6 00:00:00	
+147517	KARIME SOLEMAN CANTILLANA	Par	Blanco y negro	Generales	13x2	28	73.109	Publicado	Pedro Jaime	2018-1-6 00:00:00	
+147398	ANDREA YAZIGI SFEIR	Par	Blanco y negro	Generales	5x2	31	8.404	Publicado	Heinger Vega Torres	2018-1-6 00:00:00	
+141531	JUAN SEBASTIAN BOU LAGUNAS	Par	Blanco y negro	Generales	5x2	31	12.500	Publicado	Heinger Vega Torres	2018-1-6 00:00:00	
+146083	ESTUDIO JURIDICO OLIVARES Y CIA. SP	Par	Blanco y negro	Generales	5x2	31	12.500	Publicado	Jacqueline Torres	2018-1-6 00:00:00	
+147419	INMOBILIARIA ECASA CHILE S.A.	Par	Cuatricromia	Generales	34x6	32	360.000	Publicado	Paola Marquez	2018-1-6 00:00:00	
+147343	PLAZA AGUIRRE GONZALO	Par	Blanco y negro	Generales	5x2	EC-17	35.797	Publicado	Pedro Jaime	2018-1-6 00:00:00	
+147025	PAOLA MILLA INVERNIZZI	Par	Blanco y negro	Generales	5x2	EC-17	0	Publicado	Marcela Tello-ElDia	2018-1-6 00:00:00	
+147217	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	EC-17	0	Publicado	Marcela Tello-ElDia	2018-1-6 00:00:00	
+147473	CIA. DE LEASING TATTERSALL S.A.	Par	Blanco y negro	Generales	11x2	EC-18	69.487	Publicado	Pedro Jaime	2018-1-6 00:00:00	
+147499	COLEGIO AGUILA MAYOR S.A.	Par	Blanco y negro	Generales	5x2	EC-18	42.113	Publicado	Pedro Jaime	2018-1-6 00:00:00	
+147464	FUNDACION EDUCACIONAL COLEGIO PROVI	Par	Blanco y negro	Generales	5x2	EC-18	35.797	Publicado	Pedro Jaime	2018-1-6 00:00:00	
+124066	HOTELERIA LUIS ALBERTO BERETTA KIEK	Par	Blanco y negro	Generales	5x2	EC-19	6.061	Publicado	Patricia Villena	2018-1-6 00:00:00	
+146886	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Economico	5x2	EC-19	15.161	Publicado	Rene Pizarro	2018-1-6 00:00:00	
+147565	DIARIO EL DIA	Par	Blanco y negro	Generales	8x6	EC-19	0	Publicado	Marcela Tello-ElDia	2018-1-6 00:00:00	
+147433	SCOTIABANK CHILE S.A.	Par	Blanco y negro	Generales	34x6	EC-20	487.395	Publicado	Pedro Jaime	2018-1-6 00:00:00	

@@ -1,0 +1,10 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+109486	OVALLE CASINO RESORT S.A	Par	Cuatricromia	Generales	6x6	01	21.333	Publicado	Paola Marquez	Auspicio Casino Ovalle Impar	2016-9-9 00:00:00	
+111517	INMOBILIARIA NUEVA SERENA	Par	Cuatricromia	Generales	17x6	03	125.000	Publicado	Claudio Romero	proyecto empresas serena...NUEVO...	2016-9-9 00:00:00	
+109718	AGRICOLA NORTE TALINAY LTDA	Par	Blanco y negro	Generales	5x2	05	1.666	Publicado	Paola Marquez	UIP VENTA ALFALFA	2016-9-9 00:00:00	
+111588	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x6	06	0	Arte	Marcela Tello-ElDia		2016-9-9 00:00:00	
+110814	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	6x6	08	16.065	Publicado	Claudio Romero	Muebles Alpina	2016-9-9 00:00:00	
+107672	SOC HOTELERA Y DE TURISMO HACIENDA 	Par	Cuatricromia	Generales	5x6	09	11.770	Publicado	Patricia Villena	Hacienda Juntas	2016-9-9 00:00:00	
+110522	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	12	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2016-9-9 00:00:00	
+111552	EMPRESA PERIODISTICA EL NORTE S.A.	Par	Blanco y negro	Medios Regionales	8x2	13	23.120	Arte	Medios Regionales		2016-9-9 00:00:00	
+111589	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	6x6	14	0	Arte	Marcela Tello-ElDia		2016-9-9 00:00:00	

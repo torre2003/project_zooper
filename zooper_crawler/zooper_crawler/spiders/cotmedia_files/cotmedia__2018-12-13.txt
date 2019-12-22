@@ -1,0 +1,33 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+171769	TESORERIA GENERAL DE LA REPUBLICA	Par	Blanco y negro	Generales	7x4	06	0	Publicado	Jacqueline Torres	2018-12-13 00:00:00	
+171753	SOC. EDUCACIONAL MIGUEL DE CERVANTE	Par	Blanco y negro	Generales	15x2	07	109.860	Publicado	Jacqueline Torres	2018-12-13 00:00:00	
+171752	UNIVERSIDAD TECNOLOGICA DE CHILE	Impar	Cuatricromia	Generales	17x6	09	470.641	Publicado	Patricia Villena	2018-12-13 00:00:00	
+171733	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Cuatricromia	Medios Regionales	32x6	11	544.008	Publicado	Medios Regionales	2018-12-13 00:00:00	
+168732	INVERSIONES ALTA CRUZ LTDA	Par	Blanco y negro	Generales	5x2	13	0	Publicado	Marcela Tello-ElDia	2018-12-13 00:00:00	
+168671	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	13	0	Publicado	Marcela Tello-ElDia	2018-12-13 00:00:00	
+171294	C.M. SOC. GASTRONOMICA LTDA.			UIP	5x2	13	7.208	Publicado		2018-12-13 00:00:00	
+170898	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	13	8.306	Publicado	Miguel Apey	2018-12-13 00:00:00	
+170951	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	4x5	13	20.508	Arte	Miguel Apey	2018-12-13 00:00:00	
+171619	PAMELA ASTORGA PAEZ			UIP	5x2	14	14.300	Publicado		2018-12-13 00:00:00	
+170987	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	5x2	14	0	Arte	Miguel Apey	2018-12-13 00:00:00	
+168838	PAMELA B. GONZALEZ LIZAMA COMERCIAL	Par	Blanco y negro	Generales	5x2	14	0	Publicado	Marcela Tello-ElDia	2018-12-13 00:00:00	
+171732	J. MOSELLA S.A.	Par	Blanco y negro	Generales	18x3	16	168.086	Publicado	Jacqueline Torres	2018-12-13 00:00:00	
+170920	LABORATORIO CLINICO STA. MARIA LA S	Par	Blanco y negro	Generales	6x2	20	7.470	Publicado	Miguel Apey	2018-12-13 00:00:00	
+170744	ARMAQ SUBIRI S.A.			UIP	5x1	20	8.937	Publicado	Claudio Romero	2018-12-13 00:00:00	
+171795	DIARIO EL DIA	Par	Cuatricromia	Generales	5x1	20	0	Publicado	Marcela Tello-ElDia	2018-12-13 00:00:00	
+168771	PILLA LA VACA	Par	Blanco y negro	Generales	5x2	20	0	Publicado	Marcela Tello-ElDia	2018-12-13 00:00:00	
+168541	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	21	0	Publicado	Marcela Tello-ElDia	2018-12-13 00:00:00	
+170709	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	12x3	23	51.666	Publicado	Claudio Romero	2018-12-13 00:00:00	
+171784	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Cuatricromia	Medios Regionales	32x6	27	544.008	Publicado	Medios Regionales	2018-12-13 00:00:00	
+171255	CAMPOS DEL NORTE S.A.	Par	Cuatricromia	Generales	17x3	28	0	Arte	Patricia Villena	2018-12-13 00:00:00	
+171242	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	28	0	Arte	Marcela Tello-ElDia	2018-12-13 00:00:00	
+169597	SERVICIOS GENERALES GUAYACAN S.A	Par	Blanco y negro	Generales	3x2	29	6.812	Publicado	Jacqueline Torres	2018-12-13 00:00:00	
+171796	DIARIO EL DIA	Par	Blanco y negro	Generales	4x6	29	0	Publicado	Marcela Tello-ElDia	2018-12-13 00:00:00	
+171350	OPERADORA Y ADMINISTRADORA NUEVA PO	Impar	Cuatricromia	Generales	35x6	32	0	Publicado	Patricia Villena	2018-12-13 00:00:00	
+171736	SANTANDER G.R.C.	Par	Blanco y negro	Generales	10x2	EC-17	83.824	Publicado	Pedro Jaime	2018-12-13 00:00:00	
+171595	ARANDA CA?AS ALFONSO	Par	Blanco y negro	Generales	18x3	EC-17	130.815	Publicado	Pedro Jaime	2018-12-13 00:00:00	
+171589	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	6x2	EC-17	27.396	Publicado	Medios Regionales	2018-12-13 00:00:00	
+171371	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Generales	5x2	EC-18	7.003	Publicado	Rene Pizarro	2018-12-13 00:00:00	
+171794	DIARIO EL DIA	Par	Blanco y negro	Generales	3x6	EC-18	0	Publicado	Marcela Tello-ElDia	2018-12-13 00:00:00	
+166194	HOTELERIA LUIS ALBERTO BERETTA KIEK	Par	Blanco y negro	Generales	5x2	EC-18	6.061	Publicado	Patricia Villena	2018-12-13 00:00:00	
+171782	UNIVERSIDAD CATOLICA DEL NORTE	Home	Banner Inf. Der	Web	x	WEB	100.000	Publicado	Miguel Apey	2018-12-13 00:00:00	

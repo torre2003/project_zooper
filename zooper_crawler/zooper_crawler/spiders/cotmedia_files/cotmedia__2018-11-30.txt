@@ -1,0 +1,49 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+170778	BANCO FALABELLA	Impar	Cuatricromia	Generales	35x6	05	594.299	Arte	M Cristina Puga	2018-11-30 00:00:00	
+171081	GOBERNACION PROVINCIAL DE ELQUI	Par	Blanco y negro	Generales	17x6	06	210.084	Arte	Jacqueline Torres	2018-11-30 00:00:00	
+171068	CLARO CHILE S.A.	Impar	Cuatricromia	Generales	35x6	07	646.000	Arte	Kathine Soto-Stgo	2018-11-30 00:00:00	
+171054	SANTANDER G.R.C.	Par	Blanco y negro	Generales	15x6	08	277.311	Arte	Pedro Jaime	2018-11-30 00:00:00	
+170096	OMD CHILE S.P.A.	Impar	Cuatricromia	Generales	17x6	09	400.000	Arte	M Cristina Puga	2018-11-30 00:00:00	
+170402	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Cuatricromia	Medios Regionales	32x6	10	0	Arte	Medios Regionales	2018-11-30 00:00:00	
+168718	INVERSIONES ALTA CRUZ LTDA	Par	Blanco y negro	Generales	5x2	11	0	Arte	Marcela Tello-ElDia	2018-11-30 00:00:00	
+169134	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	5x2	11	0	Arte	Miguel Apey	2018-11-30 00:00:00	
+169093	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	4x5	11	20.508	Arte	Miguel Apey	2018-11-30 00:00:00	
+168288	C.M. SOC. GASTRONOMICA LTDA.			UIP	5x2	11	7.208	Arte		2018-11-30 00:00:00	
+170762	ARMAQ SUBIRI S.A.	Par	Cuatricromia	Generales	17x3	12	83.333	Arte	Claudio Romero	2018-11-30 00:00:00	
+168987	ARMAQ SUBIRI S.A.			UIP	5x1	12	8.937	Arte	Claudio Romero	2018-11-30 00:00:00	
+170932	ARZOBISPADO DE LA SERENA	Par	Blanco y negro	Generales	10x2	12	0	Arte	Marcela Tello-ElDia	2018-11-30 00:00:00	
+168070	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Cuatricromia	Medios Regionales	16x6	13	324.840	Arte	Medios Regionales	2018-11-30 00:00:00	
+170064	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Cuatricromia	Medios Regionales	16x6	15	324.840	Arte	Medios Regionales	2018-11-30 00:00:00	
+169064	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	15	8.306	Arte	Miguel Apey	2018-11-30 00:00:00	
+170602	CAVAS REUNIDAS S.A	Impar	Cuatricromia	Generales	17x6	17	354.773	Arte	Kathine Soto-Stgo	2018-11-30 00:00:00	
+169261	DIARIO EL DIA	Par	Cuatricromia	Generales	6x6	18	0	Arte	Marcela Tello-ElDia	2018-11-30 00:00:00	
+134744	FUND.CENTRO DE EDUC.Y CAP.DE LA UNI	Par	Cuatricromia	Generales	10x6	20	199.946	Arte	Miguel Apey	2018-11-30 00:00:00	
+170868	UNIVERSIDAD DE LA SERENA	Par	Cuatricromia	Ed.Especial	17x6	21	339.906	Arte	Jacqueline Torres	2018-11-30 00:00:00	
+170677	INVERSIONES IVAN ESPINOZA Y CIA. LT	Par	Cuatricromia	Generales	17x3	22	164.351	Arte	Claudio Romero	2018-11-30 00:00:00	
+170770	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Cuatricromia	Medios Regionales	32x6	27	0	Arte	Medios Regionales	2018-11-30 00:00:00	
+169282	DIARIO EL DIA	Par	Cuatricromia	Generales	6x6	28	0	Arte	Marcela Tello-ElDia	2018-11-30 00:00:00	
+169269	DIARIO EL DIA	Par	Cuatricromia	Generales	6x3	29	0	Arte	Marcela Tello-ElDia	2018-11-30 00:00:00	
+171082	ILUSTRE MUNICIPALIDAD DE PAIHUANO	Par	Blanco y negro	Generales	15x3	30	116.540	Arte	Pedro Jaime	2018-11-30 00:00:00	
+171085	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Cuatricromia	Medios Regionales	32x6	31	438.336	Arte	Medios Regionales	2018-11-30 00:00:00	
+170019	CAMPOS DEL NORTE S.A.	Par	Cuatricromia	Generales	17x3	31	0	Arte	Patricia Villena	2018-11-30 00:00:00	
+169298	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Cuatricromia	Medios Regionales	16x3	31	215.256	Arte	Medios Regionales	2018-11-30 00:00:00	
+168788	MARTIN JURE PATRICIA	Par	Cuatricromia	Generales	5x3	32	0	Arte	Marcela Tello-ElDia	2018-11-30 00:00:00	
+171027	SOC. DE INVERSIONES RIVANO VOLICH S	Par	Blanco y negro	Generales	5x2	32	20.798	Arte	Pedro Jaime	2018-11-30 00:00:00	
+168752	PILLA LA VACA	Par	Cuatricromia	Generales	5x2	32	0	Arte	Marcela Tello-ElDia	2018-11-30 00:00:00	
+171080	ILUSTRE MUNICIPALIDAD DE OVALLE	Par	Cuatricromia	Generales	17x6	32	546.218	Arte	Jacqueline Torres	2018-11-30 00:00:00	
+168826	PAMELA B. GONZALEZ LIZAMA COMERCIAL	Par	Blanco y negro	Generales	5x2	32	0	Arte	Marcela Tello-ElDia	2018-11-30 00:00:00	
+168627	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	32	0	Arte	Marcela Tello-ElDia	2018-11-30 00:00:00	
+168492	SOC. HOTELERA VICHUQUEN LTDA.	Par	Cuatricromia	Generales	5x3	32	0	Arte	Marcela Tello-ElDia	2018-11-30 00:00:00	
+168518	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	32	0	Arte	Marcela Tello-ElDia	2018-11-30 00:00:00	
+171007	CIA. MINERA DEL PACIFICO S.A.	Impar	Cuatricromia	Generales	17x3	33	313.761	Arte	Jacqueline Torres	2018-11-30 00:00:00	
+171031	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	33	0	Arte	Marcela Tello-ElDia	2018-11-30 00:00:00	
+169289	DIARIO EL DIA	Par	Cuatricromia	Generales	6x6	34	0	Arte	Marcela Tello-ElDia	2018-11-30 00:00:00	
+169583	SERVICIOS GENERALES GUAYACAN S.A	Par	Blanco y negro	Generales	3x2	37	2.452	Arte	Jacqueline Torres	2018-11-30 00:00:00	
+170723	EMPRESAS LA POLAR S.A.	Impar	Cuatricromia	Generales	35x6	40	504.000	Arte	Patricia Villena	2018-11-30 00:00:00	
+166181	HOTELERIA LUIS ALBERTO BERETTA KIEK	Par	Blanco y negro	Generales	5x2	EC	6.061	Arte	Patricia Villena	2018-11-30 00:00:00	
+171083	CAVIERES Y ARQUITECTOS S.A	Par	Blanco y negro	Generales	5x2	EC	36.620	Arte	Pedro Jaime	2018-11-30 00:00:00	
+170781	GARCIA NADAL Y CIA. LTDA.	Impar	Blanco y negro	Generales	10x2	EC	65.916	Arte	Jacqueline Torres	2018-11-30 00:00:00	
+169525	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Generales	5x2	EC	7.003	Arte	Rene Pizarro	2018-11-30 00:00:00	
+170613	ARANDA CA?AS ALFONSO	Par	Blanco y negro	Generales	17x3	EC	149.410	Arte	Pedro Jaime	2018-11-30 00:00:00	
+170760	MONSERRAT NU?EZ PROPIEDADES LTDA.	140 Palabras		Propiedades	x	XX	22.400	Arte	Claudio Romero	2018-11-30 00:00:00	
+170304	SOLARIS EIRL	164 Palabras		Legal	x	XX	40.655	Arte		2018-11-30 00:00:00	

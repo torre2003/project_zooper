@@ -1,0 +1,14 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+110817	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	6x6	01	16.065	Publicado	Claudio Romero	Muebles Alpina	2016-9-16 00:00:00	
+111868	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x3	03	0	Arte	Marcela Tello-ElDia		2016-9-16 00:00:00	
+111787	HANNA JARUFE HAUNE	Par	Cuatricromia	Generales	10x3	03	35.000	Publicado	Claudio Romero	saludo fiestas patrias..2016..	2016-9-16 00:00:00	
+111682	AGROPLASTIC LTDA.			UIP	10x6	04	16.260	Publicado	Claudio Romero	DISFRUTE ESTAS FIESTAS PATRIAS....	2016-9-16 00:00:00	
+110523	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	05	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2016-9-16 00:00:00	
+111981	OVALLE CASINO RESORT S.A	Par	Cuatricromia	Generales	25x4	06	247.434	Publicado	Paola Marquez	Ovalle Casino Resort	2016-9-16 00:00:00	
+112094	DABED Y CIA. LTDA., SELIM	Par	Cuatricromia	Generales	6x6	07	23.076	Publicado	Marcela Tello-ElDia	Herramientas	2016-9-16 00:00:00	
+112000	ILUSTRE MUNICIPALIDAD DE OVALLE	Par	Cuatricromia	Generales	21x5	08	166.666	Publicado	Marcela Tello-ElDia	Fiestas Patrias - Ovalle 2016	2016-9-16 00:00:00	
+112001	INMOBILIARIA QUILICURA S.A.	Par	Blanco y negro	Generales	5x2	09	20.009	Publicado	Pedro Cortes	requiere contador (a)	2016-9-16 00:00:00	
+112014	CORP. DE FOMENTO DE LA PRODUCCION	Par	Blanco y negro	Generales	17x3	09	0	Publicado	Jacqueline Torres		2016-9-16 00:00:00	
+107673	SOC HOTELERA Y DE TURISMO HACIENDA 	Par	Cuatricromia	Generales	5x6	10	11.770	Publicado	Patricia Villena	Hacienda Juntas	2016-9-16 00:00:00	
+112081	EMPRESAS LA POLAR S.A.	Impar	Cuatricromia	Generales	35x6	12	252.000	Publicado	Patricia Villena	La Polar	2016-9-16 00:00:00	
+111774	LICEO POLITECNICO B-11 - OVALLE	Par	Cuatricromia	Generales	35x6	INS	1.000.000	Publicado	Claudio Romero		2016-9-16 00:00:00	

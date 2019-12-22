@@ -1,0 +1,6 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+86095	SOCIEDAD DE RENTAS FALABELLA S.A	Impar	Cuatricromia	Generales	17x6	03	200.000	Publicado	M Cristina Puga	Open Plaza 	2015-10-8 00:00:00	
+85968	SOCIEDAD COMERCIAL KATANKURA LTDA	Par	Cuatricromia	Generales	6x6	09	25.000	Publicado	Italo Retamal	evento katankura 	2015-10-8 00:00:00	
+84114	ILUSTRE MUNICIPALIDAD DE OVALLE	Impar	Cuatricromia	Generales	12x3	11	83.333	Publicado	Italo Retamal	plano regulador ovalle	2015-10-8 00:00:00	
+85964	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x3	11	0	Publicado	Marcela Tello-ElDia	Peter Pan en Cinemark	2015-10-8 00:00:00	
+86171	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x6	14	0	Publicado	Marcela Tello-ElDia		2015-10-8 00:00:00	

@@ -1,0 +1,31 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+124629	CHRISTIAN LAUNITZ MARIN SERVICIOS M	Par	Blanco y negro	Generales	8x2	04	4.838	Publicado	Heinger Vega Torres	2017-3-15 00:00:00	
+125330	BANCO ESTADO DE CHILE	Impar	Cuatricromia	Generales	34x3	05	313.761	Publicado	Kathine Soto-Stgo	2017-3-15 00:00:00	
+125345	ILUSTRE MUNICIPALIDAD DE RIO HURTAD	Par	Blanco y negro	Generales	12x2	07	59.764	Publicado	Jacqueline Torres	2017-3-15 00:00:00	
+125344	ILUSTRE MUNICIPALIDAD DE COMBARBALA	Par	Blanco y negro	Generales	12x2	07	89.646	Publicado	Jacqueline Torres	2017-3-15 00:00:00	
+125290	FUNDACION EDUCACIONAL THE INTERNATI	Impar	Blanco y negro	Generales	8x2	07	61.874	Publicado	Patricia Villena	2017-3-15 00:00:00	
+125348	UNIVERSIDAD DE LA SERENA	Par	Blanco y negro	Generales	14x3	08	50.000	Publicado	Jacqueline Torres	2017-3-15 00:00:00	
+125020	NATHALY ALMUNA CATALAN	Par	Cuatricromia	Generales	5x2	09	0	Publicado	Maria_Amelia Hermosilla	2017-3-15 00:00:00	
+124219	OVALLE CASINO RESORT S.A	Par	Cuatricromia	Generales	25x4	09	0	Publicado	Paola Marquez	2017-3-15 00:00:00	
+123524	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	12	8.306	Publicado	Miguel Apey	2017-3-15 00:00:00	
+124757	DIARIO EL DIA	Par	Blanco y negro	Generales	5x2	13	0	Publicado	Marcela Tello-ElDia	2017-3-15 00:00:00	
+124843	DIARIO EL DIA	Par	Blanco y negro	Generales	6x1	13	0	Publicado	Marcela Tello-ElDia	2017-3-15 00:00:00	
+125185	ARZOBISPADO DE LA SERENA	Par	Blanco y negro	Generales	5x2	13	0	Publicado	Marcela Tello-ElDia	2017-3-15 00:00:00	
+124509	CENTRO TECNICO ACUARELA LTDA.	Par	Blanco y negro	Generales	5x2	15	20.874	Publicado	Rene Pizarro	2017-3-15 00:00:00	
+125049	RIO BLANCO SPA	Par	Blanco y negro	Generales	15x2	15	92.319	Publicado	Rene Pizarro	2017-3-15 00:00:00	
+125071	JOSE ALEJO GODOY GONZALEZ	Par	Blanco y negro	Generales	15x2	15	109.860	Publicado	Rene Pizarro	2017-3-15 00:00:00	
+125342	SERV. DE REGISTRO CIVIL E IDENTIFIC	Impar	Blanco y negro	Generales	35x6	19-21	773.850	Publicado	Jacqueline Torres	2017-3-15 00:00:00	
+124381	SOC. ESPARTANO AZUL LTDA.	Par	Blanco y negro	Generales	5x2	24	12.079	Publicado	Heinger Vega Torres	2017-3-15 00:00:00	
+124608	AGUAS DEL VALLE S.A.	Par	Blanco y negro	Generales	5x6	25	50.000	Publicado	Heinger Vega Torres	2017-3-15 00:00:00	
+124654	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	28	0	Publicado	Marcela Tello-ElDia	2017-3-15 00:00:00	
+125248	AUTOMOTORES DEL NORTE	Par	Blanco y negro	Generales	5x1	29	7.427	Publicado	Miguel Apey	2017-3-15 00:00:00	
+125106	SOC. DE GES			UIP	5x1	29	8.937	Publicado	Miguel Apey	2017-3-15 00:00:00	
+123131	armaq			UIP	5x1	29	8.937	Publicado	Claudio Romero	2017-3-15 00:00:00	
+125351	DIARIO EL DIA	Par	Blanco y negro	Generales	4x6	29	0	Arte	Marcela Tello-ElDia	2017-3-15 00:00:00	
+124708	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	29	0	Publicado	Marcela Tello-ElDia	2017-3-15 00:00:00	
+120964	CERNA E HIJOS CIA. LTDA.	Par	Blanco y negro	Generales	5x1	29	4.468	Publicado	Nadia Randolph	2017-3-15 00:00:00	
+125218	VELIZ CORTES JOSE A.	Par	Blanco y negro	Generales	3x2	30	13.403	Publicado	Pedro Cortes	2017-3-15 00:00:00	
+124478	SERVICIOS GENERALES GUAYACAN S.A	Par	Blanco y negro	Generales	4x2	30	6.666	Publicado	Jacqueline Torres	2017-3-15 00:00:00	
+123675	ADMINISTR. CMR FALABELLA LTDA.	Impar	Cuatricromia	Contraportada	35x6	32	550.000	Publicado	M Cristina Puga	2017-3-15 00:00:00	
+124517	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Generales	5x1	EC-18	6.043	Publicado	Rene Pizarro	2017-3-15 00:00:00	
+123749	HOTELERIA LUIS ALBERTO BERETTA KIEK	Par	Blanco y negro	Generales	5x2	EC-18	6.061	Publicado	Patricia Villena	2017-3-15 00:00:00	

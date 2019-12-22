@@ -1,0 +1,8 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+163138	CAMPOS DEL NORTE S.A.	Par	Cuatricromia	Generales	5x6	01	23.333	Publicado	Patricia Villena	Franja Enjoy Portada EL Ovallino	2018-9-20 00:00:00	
+163886	EMPRESA PERIODISTICA EL NORTE S.A.	Par	Blanco y negro	Medios Regionales	10x2	05	30.340	Publicado	Medios Regionales	Rol C-8765-2016 - Banco Bilbao Vizcaya Argentaria Chile - (141091)	2018-9-20 00:00:00	
+162864	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	06	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2018-9-20 00:00:00	
+163860	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x3	09	0	Publicado	Marcela Tello-ElDia	Vea en Cinemark - Un viaje en la Nasa 	2018-9-20 00:00:00	
+163762	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	12x6	11	0	Publicado	Marcela Tello-ElDia	Avant Premiere - Club de Lectores	2018-9-20 00:00:00	
+163970	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	6x6	14	0	Arte	Marcela Tello-ElDia		2018-9-20 00:00:00	
+163971	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x3	16	0	Arte	Marcela Tello-ElDia		2018-9-20 00:00:00	

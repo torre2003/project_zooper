@@ -1,0 +1,13 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+131299	SOCIEDAD MEDICA Y CONSULTORA ESTETI		Cuatricromia	Guia	5x2	03	13.333	Publicado	Maria_Amelia Hermosilla	Diego Polanco	2018-1-21 00:00:00	
+146799	OVALLE CASINO RESORT S.A	Par	Cuatricromia	Generales	25x4	03	214.215	Publicado	Paola Marquez	OCR Eventos enero	2018-1-21 00:00:00	
+148735	EMPRESA PERIODISTICA EL NORTE S.A.	Par	Blanco y negro	Medios Regionales	6x2	05	17.340	Publicado	Medios Regionales		2018-1-21 00:00:00	
+148525	PRENSA DEL LIMARI LTDA.	Par	Blanco y negro	Generales	5x2	05	0	Arte	Leonel Pizarro-Ovalle	repartidor	2018-1-21 00:00:00	
+148826	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	6x6	06	0	Publicado	Marcela Tello-ElDia		2018-1-21 00:00:00	
+147257	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	08	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2018-1-21 00:00:00	
+148940	CAMAL MUSALEM TAPIA Y CIA.	Impar	Cuatricromia	Generales	23x4	09	78.844	Publicado	Marcela Tello-ElDia	HILUX - Camal  Musalem 	2018-1-21 00:00:00	
+148315	DEL RIO VARELA JORGE	Par	Blanco y negro	Generales	12x3	11	77.118	Publicado	Pedro Jaime	JDV REMATES 13 X  4 , LIGHTS , ( CHEVROLET SPARK  ) 	2018-1-21 00:00:00	
+148691	CORPORACION CULTURAL CAMARA CHILENA	Par	Cuatricromia	Generales	17x3	11	100.000	Publicado	Patricia Villena	Festival de las Artes	2018-1-21 00:00:00	
+147868	VELIZ CORTES JOSE A.			UIP	5x2	15	4.695	Publicado	Pedro Cortes		2018-1-21 00:00:00	
+148947	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	6x6	15	0	Publicado	Marcela Tello-ElDia		2018-1-21 00:00:00	
+148308	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	34x6	16	0	Publicado	Marcela Tello-ElDia		2018-1-21 00:00:00	

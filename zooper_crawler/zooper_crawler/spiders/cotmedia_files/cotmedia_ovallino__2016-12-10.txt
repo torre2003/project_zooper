@@ -1,0 +1,9 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+114262	Pedro Andres Monardez Elgueta			UIP	17x2	01	12.895	Publicado	Karina Rivera	Restaurant Riquisimo	2016-12-10 00:00:00	
+118042	ARENA CHILE S.A.	Impar	Cuatricromia	Generales	17x6	03	230.000	Publicado	M Cristina Puga	volkswagen/primeras impar	2016-12-10 00:00:00	
+118766	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	6x6	06	0	Publicado	Marcela Tello-ElDia		2016-12-10 00:00:00	
+117852	OVALLEMAR			UIP	5x2	08	3.958	Publicado	Karina Rivera	OVALLE MAR	2016-12-10 00:00:00	
+118306	COMERCIAL AVA 			UIP	10x2	08	7.882	Publicado	Karina Rivera	E BODY OVALLE	2016-12-10 00:00:00	
+115483	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	09	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2016-12-10 00:00:00	
+118768	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x6	11	0	Publicado	Marcela Tello-ElDia		2016-12-10 00:00:00	
+118578	CABARET Y SALON DE ESPECTACULOS ART			UIP	10x2	14	5.517	Publicado	Karina Rivera	PARADISE CLUB	2016-12-10 00:00:00	

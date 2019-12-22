@@ -1,0 +1,9 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+97626	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x6	03	0	Arte	Marcela Tello-ElDia	El Ovallino - www.elovallino.cl	2016-3-9 00:00:00	
+96509	el recreo			UIP	10x2	05	5.630	Publicado	Leonel Pizarro-Ovalle	agricola el recreo	2016-3-9 00:00:00	
+97534	PRENSA DEL LIMARI LTDA.	Par	Blanco y negro	Generales	5x2	05	0	Arte	Marcela Tello-ElDia	Ejecutivo (a) de venta de publicidad	2016-3-9 00:00:00	
+97563	ILUSTRE MUNICIPALIDAD DE OVALLE	Par	Blanco y negro	Generales	12x2	05	56.496	Publicado	Marcela Tello-ElDia	Se comunica que se encuentra en los Corrales...	2016-3-9 00:00:00	
+97099	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	6x6	06	0	Publicado	Claudio Romero	Muebles Alpina	2016-3-9 00:00:00	
+96825	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	07	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2016-3-9 00:00:00	
+95432	DABED Y CIA. LTDA., SELIM	Par	Cuatricromia	Generales	6x6	09	23.076	Publicado	Nadia Randolph	ofertas marzo 1	2016-3-9 00:00:00	
+97526	PRENSA DEL LIMARI LTDA.	Par	Blanco y negro	Generales	10x2	13	0	Arte	Marcela Tello-ElDia	Agradecimientos - Julio Polanco	2016-3-9 00:00:00	

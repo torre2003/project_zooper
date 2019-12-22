@@ -1,0 +1,6 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+70707	AGUAS DEL VALLE S.A.	Impar	Cuatricromia	Generales	17x6	03	220.000	Publicado	Italo Retamal	cuidar el agua	2015-3-10 00:00:00	
+70509	renacer			UIP	5x2	05	2.808	Publicado	Leonel Pizarro-Ovalle	arrienda	2015-3-10 00:00:00	
+70077	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	10x3	07	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2015-3-10 00:00:00	
+70473	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	6x2	07	0	Publicado	Marcela Tello-ElDia	Publique ahora - ventas comerciales	2015-3-10 00:00:00	
+70835	CENTRO DE EST?TICA INTEGRAL CARLA L	Home	Banner Sup. Izq	Web	x	WEB	60.000	Arte	Italo Retamal	carla figueroa	2015-3-10 00:00:00	

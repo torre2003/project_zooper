@@ -1,0 +1,140 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+72396	FALABELLA RETAIL S.A.	Impar	Cuatricromia	Generales	35x6	05	695.000	Publicado	M Cristina Puga	2015-4-19 00:00:00	
+72739	CHRISTIAN LAUNITZ MARIN SERVICIOS M	Par	Blanco y negro	Generales	3x2	06	5.476	Publicado	Jacqueline Torres	2015-4-19 00:00:00	
+71957	HABITA INMOBILIARIA SA	Par	Cuatricromia	Generales	34x3	07	486.328	Publicado	Miguel Apey	2015-4-19 00:00:00	
+73459	LOGROS SERV. DE PRESTAMOS LTDA.	Impar	Cuatricromia	Generales	11x2	07	160.387	Publicado	Pedro Jaime	2015-4-19 00:00:00	
+73728	CALLEGARI LTDA.	Par	Cuatricromia	Generales	17x6	08	285.498	Publicado	Marcela Tello-ElDia	2015-4-19 00:00:00	
+73656	CALLEGARI LTDA.	Par	Cuatricromia	Generales	17x6	09	285.498	Publicado	Marcela Tello-ElDia	2015-4-19 00:00:00	
+73258	CASAS LOS ROBLES E.I.R.L.	Par	Blanco y negro	Generales	7x1	10	32.684	Publicado	Pedro Jaime	2015-4-19 00:00:00	
+73414	HOTEL COSTA REAL	Par	Blanco y negro	Generales	6x1	10	0	Publicado	Marcela Tello-ElDia	2015-4-19 00:00:00	
+73707	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	10	0	Publicado	Marcela Tello-ElDia	2015-4-19 00:00:00	
+73756	SOC. HOTELERA E INMOBIL. PACIFICO A	Par	Blanco y negro	Generales	6x1	10	0	Publicado	Marcela Tello-ElDia	2015-4-19 00:00:00	
+73727	HERMANAS CALLEGARI LTDA.	Par	Cuatricromia	Generales	17x6	11	285.498	Publicado	Marcela Tello-ElDia	2015-4-19 00:00:00	
+73706	DIARIO EL DIA	Par	Cuatricromia	Generales	34x6	12	0	Publicado	Marcela Tello-ElDia	2015-4-19 00:00:00	
+71935	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	13	8.306	Publicado	Miguel Apey	2015-4-19 00:00:00	
+73298	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	16x3	13	136.080	Publicado	Medios Regionales	2015-4-19 00:00:00	
+73660	SUBSECRETARIA DE MEDIO AMBIENTE	Impar	Blanco y negro	Generales	15x3	13	173.034	Publicado	Jacqueline Torres	2015-4-19 00:00:00	
+73623	UNIVERSIDAD DE LA SERENA	Par	Blanco y negro	Generales	12x3	14	134.469	Publicado	Jacqueline Torres	2015-4-19 00:00:00	
+73702	ILUSTRE MUNICIPALIDAD DE PAIHUANO	Par	Blanco y negro	Generales	10x3	14	94.166	Publicado	Jacqueline Torres	2015-4-19 00:00:00	
+73690	UNIVERSIDAD DE LA SERENA	Impar	Blanco y negro	Generales	10x2	15	76.902	Publicado	Jacqueline Torres	2015-4-19 00:00:00	
+73703	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	10x2	15	56.700	Publicado	Medios Regionales	2015-4-19 00:00:00	
+73719	DIRECCION NACIONAL DEL SERVICIO CIV	Impar	Blanco y negro	Generales	10x2	15	89.646	Publicado	Jacqueline Torres	2015-4-19 00:00:00	
+72582	INMOBILIARIA DELCA LIMITADA	Par	Cuatricromia	Generales	17x6	16	627.521	Publicado	Rene Pizarro	2015-4-19 00:00:00	
+73661	LATAM AIRLINES GROUP S.A.	Impar	Cuatricromia	Generales	35x6	17	930.000	Publicado	Patricia Villena	2015-4-19 00:00:00	
+72887	CENTRO MEDICO DENTAL STO. TOMAS LTD	Par	Blanco y negro	Generales	5x2	20	0	Publicado	Rene Pizarro	2015-4-19 00:00:00	
+73700	CORP. COLEGIO ALEMAN DE ELQUI	Par	Blanco y negro	Generales	5x2	20	54.930	Publicado	Pedro Jaime	2015-4-19 00:00:00	
+73701	CORP. COLEGIO ALEMAN DE ELQUI	Par	Blanco y negro	Generales	5x2	20	54.930	Publicado	Pedro Jaime	2015-4-19 00:00:00	
+72158	EMPRESA CONSTRUCTORA CASAS FLORIDA 	Par	Blanco y negro	Generales	5x2	21	43.944	Publicado	Pedro Jaime	2015-4-19 00:00:00	
+73190	DIARIO EL DIA	Par	Blanco y negro	Generales	5x1	21	0	Publicado	Marcela Tello-ElDia	2015-4-19 00:00:00	
+73406	EMPRESA CONSTRUCTORA ELQUI LTDA.	Par	Blanco y negro	Generales	5x2	21	43.944	Publicado	M Cristina Puga	2015-4-19 00:00:00	
+73616	BAKULIC RESTAURANT	Par	Blanco y negro	Generales	5x1	21	21.972	Publicado	Miguel Apey	2015-4-19 00:00:00	
+73630	EMBOTELLADORA ANDINA S.A.	Par	Blanco y negro	Generales	6x2	23	65.916	Publicado	Rene Pizarro	2015-4-19 00:00:00	
+73681	DIARIO EL DIA	Par	Blanco y negro	Generales	6x2	23	0	Publicado	Marcela Tello-ElDia	2015-4-19 00:00:00	
+73689	MUTUAL DE SEGURIDAD C.CH.C.	Par	Blanco y negro	Generales	16x2	23	141.933	Publicado	Pedro Jaime	2015-4-19 00:00:00	
+73713	CAMAL MUSALEM TAPIA Y CIA.	Par	Cuatricromia	Generales	17x6	24	285.498	Publicado	Marcela Tello-ElDia	2015-4-19 00:00:00	
+73670	INMOBIL. LA SERENA GOLF S.A.	Impar	Cuatricromia	Generales	17x6	25	329.449	Publicado	Patricia Villena	2015-4-19 00:00:00	
+73697	UNIVERSIDAD TECNOLOGICA DE CHILE	Par	Blanco y negro	Generales	17x6	27	0	Arte	Patricia Villena	2015-4-19 00:00:00	
+73016	TELEFONICA MOVILES CHILE S.A.	Impar	Cuatricromia	Generales	35x6	29	968.965	Publicado	Kathine Soto-Stgo	2015-4-19 00:00:00	
+73637	DIARIO EL DIA	Par	Blanco y negro	Generales	35x6	30	0	Publicado	Carolina Naranjo	2015-4-19 00:00:00	
+73726	HERMANAS CALLEGARI LTDA.	Par	Cuatricromia	Generales	17x6	33	0	Arte	Marcela Tello-ElDia	2015-4-19 00:00:00	
+73716	LA ELEGANTE	Par	Blanco y negro	Generales	17x3	34	0	Publicado	Patricia Villena	2015-4-19 00:00:00	
+73667	UNIVERSIDAD TECNOLOGICA DE CHILE	Impar	Cuatricromia	Generales	17x3	35	352.981	Publicado	Patricia Villena	2015-4-19 00:00:00	
+73668	SERVICIO DE COOPERACION TECNICA	Impar	Cuatricromia	Generales	17x3	35	320.035	Publicado	Jacqueline Torres	2015-4-19 00:00:00	
+72843	MAQUINARIA DE PANADERIA INDUSTRIA Y	Par	Blanco y negro	Generales	5x2	36	43.944	Publicado	Rene Pizarro	2015-4-19 00:00:00	
+73409	DIARIO EL DIA	Par	Blanco y negro	Generales	5x1	36	0	Publicado	M Cristina Puga	2015-4-19 00:00:00	
+73711	CLUB DE DEPORTES LA SERENA	Par	Cuatricromia	Generales	17x3	36	0	Publicado	Marcela Tello-ElDia	2015-4-19 00:00:00	
+72906	INMOBIL. E INV. EL MILAGRO S.A.	Par	Blanco y negro	Generales	18x2	37	177.974	Publicado	Claudio Romero	2015-4-19 00:00:00	
+73529	VERISURE CHILE SPA	Impar	Blanco y negro	Generales	11x2	37	145.016	Publicado	Pedro Jaime	2015-4-19 00:00:00	
+73633	COOP. AGRICOLA PISQUERA SAN CARLOS 	Par	Blanco y negro	Generales	6x2	37	65.916	Publicado	Rene Pizarro	2015-4-19 00:00:00	
+72769	SERVICIOS GENERALES GUAYACAN S.A	Par	Blanco y negro	Generales	3x2	38	6.444	Publicado	Jacqueline Torres	2015-4-19 00:00:00	
+73672	BARBARA ALEJANDRA GONZALEZ GONZALEZ	Par	Blanco y negro	Generales	12x2	38	65.916	Publicado	Leonel Pizarro-Ovalle	2015-4-19 00:00:00	
+73760	JOSE LUIS MOREIRA ALVAREZ	Par	Blanco y negro	Generales	12x2	38	92.282	Publicado	Miguel Apey	2015-4-19 00:00:00	
+71548	DANIZA ALVITISH CALDERA	Par	Blanco y negro	Generales	5x1	39	8.710	Publicado	Jacqueline Torres	2015-4-19 00:00:00	
+72996	LA ELEGANTE	Impar	Cuatricromia	Generales	35x6	40	697.654	Publicado	Patricia Villena	2015-4-19 00:00:00	
+72586	INMOBILIARIA DELCA LIMITADA	Par	Cuatricromia	Generales	17x6	D7-03	627.521	Publicado	Rene Pizarro	2015-4-19 00:00:00	
+71593	INMOBILIARIA ELQUI S.A.	Par	Cuatricromia	Generales	17x3	D7-05	223.555	Publicado	M Cristina Puga	2015-4-19 00:00:00	
+70864	DIARIO EL DIA	Par	Cuatricromia	Generales	5x6	D7-06	0	Publicado	Marcela Tello-ElDia	2015-4-19 00:00:00	
+72471	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Blanco y negro	Generales	6x6	D7-07	58.905	Publicado	Claudio Romero	2015-4-19 00:00:00	
+73448	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	D7-09	0	Publicado	Marcela Tello-ElDia	2015-4-19 00:00:00	
+72590	INMOBILIARIA RENVAL SPA	Par	Cuatricromia	Generales	25x4	D7-11	615.216	Publicado	Rene Pizarro	2015-4-19 00:00:00	
+71915	INVERSIONES E INMOBILIARIA P.A.T.  	Par	Cuatricromia	Generales	9x6	D7-13	240.858	Publicado	Miguel Apey	2015-4-19 00:00:00	
+72247	DIARIO EL DIA	Par	Cuatricromia	Generales	10x2	D7-14	0	Publicado	Marcela Tello-ElDia	2015-4-19 00:00:00	
+72344	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	10x3	D7-14	0	Publicado	Marcela Tello-ElDia	2015-4-19 00:00:00	
+73419	DIARIO EL DIA	Par	Cuatricromia	Generales	34x6	D7-16	0	Publicado	Marcela Tello-ElDia	2015-4-19 00:00:00	
+72425	CORREDORES DE PROPIEDADES INVERNOR 	Par	Cuatricromia	Generales	6x1	EC-01	46.142	Publicado	Pedro Jaime	2015-4-19 00:00:00	
+72437	INMOBIL. E INVERSIONES AREYUNA E HI	Par	Cuatricromia	Generales	12x6	EC-01	359.902	Publicado	Claudio Romero	2015-4-19 00:00:00	
+72659	INVERSIONES SAN JAVIER LTDA.	Par	Blanco y negro	Economico	5x1	EC-03	20.599	Publicado	Rene Pizarro	2015-4-19 00:00:00	
+73723	CORTES M. ALEJANDRINA	Par	Blanco y negro	Generales	5x1	EC-03	23.346	Publicado	Claudio Romero	2015-4-19 00:00:00	
+72419	INMOBIL. STA. MONICA S.A.	Par	Cuatricromia	Generales	5x2	EC-05	69.212	Publicado	Pedro Jaime	2015-4-19 00:00:00	
+73705	AMANDA OLIVARES SANTANDER	Par	Blanco y negro	Generales	3x2	EC-06	28.015	Publicado	Pedro Jaime	2015-4-19 00:00:00	
+73413	INMOBILIARIA GUZMAN LTDA	Par	Cuatricromia	Generales	35x3	EC-07	484.483	Publicado	M Cristina Puga	2015-4-19 00:00:00	
+73761	LA ELEGANTE	Par	Blanco y negro	Generales	8x2	EC-07	70.311	Publicado	Patricia Villena	2015-4-19 00:00:00	
+73150	SALINAS Y FABRES S.A.	Impar	Cuatricromia	Economico	17x3	EC-08	197.400	Publicado	M Cristina Puga	2015-4-19 00:00:00	
+73691	CURIFOR S.A.	Par	Blanco y negro	Generales	8x1	EC-11	35.156	Publicado	Pedro Jaime	2015-4-19 00:00:00	
+73768	AUTOMOTRIZ CARMONA	Par	Cuatricromia	Generales	13x6	EC-12	218.322	Publicado	Marcela Tello-ElDia	2015-4-19 00:00:00	
+73729	HERMANAS CALLEGARI LTDA.	Par	Cuatricromia	Generales	17x6	EC-13	200.000	Publicado	Marcela Tello-ElDia	2015-4-19 00:00:00	
+73688	PABLO RAMIREZ HERRERA	Par	Blanco y negro	Generales	5x2	EC-14	54.930	Publicado	Pedro Jaime	2015-4-19 00:00:00	
+73715	UNIVERSIDAD PEDRO DE VALDIVIA	Par	Blanco y negro	Generales	4x2	EC-14	43.944	Publicado	Pedro Jaime	2015-4-19 00:00:00	
+72785	FRANCISCO MACVER	Par	Blanco y negro	Generales	5x2	EC-15	43.944	Publicado	Pedro Jaime	2015-4-19 00:00:00	
+73755	EMPRESA DE SEGURIDAD RED SECURITY L	Par	Blanco y negro	Generales	3x2	EC-15	32.958	Publicado	Pedro Jaime	2015-4-19 00:00:00	
+69724	SOCIEDAD RESTAURANTE JIN HAI WAN Y 	Par	Blanco y negro	Generales	5x2	EC-16	18.478	Publicado	Jacqueline Torres	2015-4-19 00:00:00	
+71986	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	4x5	EC-16	20.508	Publicado	Miguel Apey	2015-4-19 00:00:00	
+72277	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	EC-16	0	Publicado	Marcela Tello-ElDia	2015-4-19 00:00:00	
+72307	PILLA LA VACA	Par	Blanco y negro	Generales	5x2	EC-16	0	Publicado	Marcela Tello-ElDia	2015-4-19 00:00:00	
+72892	NORVAK CHILE SPA	Par	Blanco y negro	Generales	5x2	EC-16	20.378	Publicado	Jacqueline Torres	2015-4-19 00:00:00	
+72947	SOC. COMERCIAL ALCAPARRA LTDA.	Par	Blanco y negro	Generales	5x2	EC-16	10.440	Publicado	Patricia Villena	2015-4-19 00:00:00	
+73163	SOC. INMOBILIARIA DE INVERSIONES RE	Par	Blanco y negro	Generales	5x1	EC-16	7.427	Publicado	Miguel Apey	2015-4-19 00:00:00	
+73055	SALVATIERRA Y VOISIN LTDA.	Par	Blanco y negro	Generales	4x2	EC-17	43.944	Publicado	Pedro Jaime	2015-4-19 00:00:00	
+73722	CAMAL MUSALEM TAPIA Y CIA.	Par	Cuatricromia	Generales	22x3	EC-17	184.734	Publicado	Marcela Tello-ElDia	2015-4-19 00:00:00	
+71732	SERVICIO TRANSPORTES SERENA MAR CAR	Par	Cuatricromia	Generales	9x2	EC-18	100.000	Publicado	Marcela Tello-ElDia	2015-4-19 00:00:00	
+72640	SOC. COMERCIAL VARGAS Y GIACOMET	Par	Blanco y negro	Generales	5x1	EC-18	5.860	Publicado	Rene Pizarro	2015-4-19 00:00:00	
+73255	CASER LTDA	Par	Blanco y negro	Generales	4x2	EC-18	43.944	Publicado	Pedro Jaime	2015-4-19 00:00:00	
+73775	DIARIO EL DIA	Par	Cuatricromia	Generales	34x6	EC-19	0	Publicado	Marcela Tello-ElDia	2015-4-19 00:00:00	
+72551	COMERCIAL BERTOLINO LTDA.	Par	Blanco y negro	Generales	5x1	EC-20	27.465	Publicado	Claudio Romero	2015-4-19 00:00:00	
+73683	ASESORIA JURIDICA PHILLIPS IVER Y S	Par	Blanco y negro	Generales	3x2	EC-20	32.958	Publicado	Pedro Jaime	2015-4-19 00:00:00	
+72610	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Generales	5x1	EC-21	5.860	Publicado	Rene Pizarro	2015-4-19 00:00:00	
+73754	SEGUNDO JORGE MOLLO GUEVARA	Par	Blanco y negro	Generales	8x2	EC-21	87.888	Publicado	Pedro Jaime	2015-4-19 00:00:00	
+73004	LA ELEGANTE	Par	Cuatricromia	Generales	8x6	EC-22	0	Publicado	Patricia Villena	2015-4-19 00:00:00	
+73401	CARMEN AREVALO ROMERO	Par	Blanco y negro	Generales	5x1	EC-22	0	Publicado	Pedro Jaime	2015-4-19 00:00:00	
+73679	SCOTIABANK CHILE S.A.	549 Palabras		Legal	x	EC-22	136.386	Publicado	Pedro Jaime	2015-4-19 00:00:00	
+73687	ILUSTRE MUNICIPALIDAD DE COQUIMBO	Par	Blanco y negro	Generales	34x6	EC-23	708.131	Publicado	Marcela Tello-ElDia	2015-4-19 00:00:00	
+73685	ILUSTRE MUNICIPALIDAD DE COQUIMBO	Par	Blanco y negro	Generales	34x6	EC-24	708.131	Publicado	Marcela Tello-ElDia	2015-4-19 00:00:00	
+73725	CORTES M. ALEJANDRINA	1055 Palabras		Propiedades	x	PROP	168.800	Publicado	Claudio Romero	2015-4-19 00:00:00	
+46210	SOCIEDAD MEDICA Y CONSULTORA ESTETI		Cuatricromia	Guia	5x2	VS	16.666	Publicado	Maria_Amelia Hermosilla	2015-4-19 00:00:00	
+53240	CLINICA REGIONAL DE ELQUI S.A.		Cuatricromia	Guia	10x2	VS	33.333	Publicado	Maria_Amelia Hermosilla	2015-4-19 00:00:00	
+59810	PAOLA ORTIZ CASTILLO		Cuatricromia	Guia	5x2	VS	16.666	Publicado	Maria_Amelia Hermosilla	2015-4-19 00:00:00	
+60025	NICOLE TERESITA REINKING ESTAY		Cuatricromia	Guia	5x2	VS	16.666	Publicado	Maria_Amelia Hermosilla	2015-4-19 00:00:00	
+60163	LABORATORIO CLINICO STA. MARIA LA S		Cuatricromia	Guia	5x2	VS	16.666	Publicado	Maria_Amelia Hermosilla	2015-4-19 00:00:00	
+60518	SOC. KETHER SERVICIO DE SALUD LTDA.		Cuatricromia	Guia	10x2	VS	33.333	Publicado	Maria_Amelia Hermosilla	2015-4-19 00:00:00	
+61861	MARIA CECILIA GONZALEZ RIVERA		Cuatricromia	Guia	5x2	VS	16.666	Publicado	Maria_Amelia Hermosilla	2015-4-19 00:00:00	
+61889	AYEL LTDA.		Cuatricromia	Guia	5x2	VS	16.666	Publicado	Maria_Amelia Hermosilla	2015-4-19 00:00:00	
+62279	ELQUIVISION LTDA.		Cuatricromia	Guia	10x2	VS	33.333	Publicado	Maria_Amelia Hermosilla	2015-4-19 00:00:00	
+62337	FRANCISCO PARADA CAMPOS, SERVICIOS 		Cuatricromia	Guia	5x2	VS	16.666	Publicado	Maria_Amelia Hermosilla	2015-4-19 00:00:00	
+64390	PRESTADORA DE SERV. ODONTOLOGICOS A		Cuatricromia	Guia	5x2	VS	16.666	Publicado	Maria_Amelia Hermosilla	2015-4-19 00:00:00	
+64565	LASER PIEL		Cuatricromia	Guia	5x2	VS	16.666	Publicado	Maria_Amelia Hermosilla	2015-4-19 00:00:00	
+64590	ASESORIAS CONSULTORIA Y SERV. DE SA		Cuatricromia	Guia	5x2	VS	16.666	Publicado	Maria_Amelia Hermosilla	2015-4-19 00:00:00	
+64619	CENTRO DE EST?TICA INTEGRAL MI ESPA		Cuatricromia	Guia	10x2	vs	33.333	Publicado	Maria_Amelia Hermosilla	2015-4-19 00:00:00	
+64647	JACOB JURE Y OTROS, MIGUEL		Cuatricromia	Guia	5x2	VS	16.666	Publicado	Maria_Amelia Hermosilla	2015-4-19 00:00:00	
+64709	CENTRO DE EST?TICA INTEGRAL MI ESPA		Cuatricromia	Guia	5x2	VS	16.666	Publicado	Maria_Amelia Hermosilla	2015-4-19 00:00:00	
+65241	LABORATORIO CLINICO XIMA LTDA.		Cuatricromia	Guia	5x2	VS	16.666	Publicado	Maria_Amelia Hermosilla	2015-4-19 00:00:00	
+65783	VENTURA ARAYA ALBERTO		Cuatricromia	Guia	5x2	VS	16.666	Publicado	Maria_Amelia Hermosilla	2015-4-19 00:00:00	
+66638	SOC. DE PRESTACIONES MEDICAS IMAGEN		Cuatricromia	Guia	10x2	VS	33.333	Publicado	Maria_Amelia Hermosilla	2015-4-19 00:00:00	
+66662	SERVICIOS MEDICOS SANTA VALENTINA L		Cuatricromia	Guia	5x2	VS	16.666	Publicado	Maria_Amelia Hermosilla	2015-4-19 00:00:00	
+66694	CENTRO OFTALMOLOGICO PASTEUR IV REG		Cuatricromia	Guia	15x2	VS	50.000	Publicado	Maria_Amelia Hermosilla	2015-4-19 00:00:00	
+67556	SERVICIOS M?DICOS M?NICA LUC?A ARI?		Cuatricromia	Guia	5x2	VS	16.666	Publicado	Maria_Amelia Hermosilla	2015-4-19 00:00:00	
+68519	SALUD MENTAL MEDICINA TRADICIONAL C		Cuatricromia	Guia	5x2	VS	16.666	Publicado	Maria_Amelia Hermosilla	2015-4-19 00:00:00	
+68567	SERVICIOS MEDICOS E INMOBILIAR NAXA		Cuatricromia	Guia	5x2	VS	16.666	Publicado	Maria_Amelia Hermosilla	2015-4-19 00:00:00	
+68592	EDGARD QUEVEDO TORRES		Cuatricromia	Guia	5x2	VS	16.666	Publicado	Maria_Amelia Hermosilla	2015-4-19 00:00:00	
+68668	SOCIEDAD MEDICA Y ODONTOLOGICA LOS 		Cuatricromia	Guia	15x2	VS	50.000	Publicado	Maria_Amelia Hermosilla	2015-4-19 00:00:00	
+69560	SOCIEDAD DE SERVICIOS MEDICOS, INVE		Cuatricromia	Guia	5x2	VS	16.666	Publicado	Maria_Amelia Hermosilla	2015-4-19 00:00:00	
+70917	SOCIEDAD MEDICA BERRY REBOLLEDO LTD		Cuatricromia	Guia	5x2	VS	16.666	Publicado	Maria_Amelia Hermosilla	2015-4-19 00:00:00	
+71144	CENTRO LASER		Cuatricromia	Guia	10x2	VS	33.333	Publicado	Maria_Amelia Hermosilla	2015-4-19 00:00:00	
+71171	PABLO ENRIQUE LAZCANO ALVAREZ SERV.		Cuatricromia	Guia	10x2	VS	33.333	Publicado	Maria_Amelia Hermosilla	2015-4-19 00:00:00	
+71198	JIMENA LORENA ZARAMA ORDO?EZ, MEDIC		Cuatricromia	Guia	5x2	VS	16.666	Publicado	Maria_Amelia Hermosilla	2015-4-19 00:00:00	
+71344	SOCIEDAD DE SERVICIOS PROFESIONALES		Cuatricromia	Guia	5x2	VS	16.666	Publicado	Maria_Amelia Hermosilla	2015-4-19 00:00:00	
+71371	SOC. MEDICA Y DE INVERSIONES CHELEN		Cuatricromia	Guia	5x2	VS	16.666	Publicado	Maria_Amelia Hermosilla	2015-4-19 00:00:00	
+71440	PARENTALIS E.I.R.L.		Cuatricromia	Guia	5x2	VS	16.666	Publicado	Maria_Amelia Hermosilla	2015-4-19 00:00:00	
+71465	SERVICIOS ODONTOLOGICOS DE FORMA IN		Cuatricromia	Guia	5x2	VS	16.666	Publicado	Maria_Amelia Hermosilla	2015-4-19 00:00:00	
+72072	HORACIO MORALES		Cuatricromia	Guia	5x2	VS	16.666	Publicado	Maria_Amelia Hermosilla	2015-4-19 00:00:00	
+72103	ASESORIA Y SERV.  INTEGRALES BALUT 		Cuatricromia	Guia	5x2	VS	16.666	Publicado	Maria_Amelia Hermosilla	2015-4-19 00:00:00	
+73500	FRANCISCA ESPINOSA ROMERO		Cuatricromia	Guia	5x2	vs	16.666	Publicado	Maria_Amelia Hermosilla	2015-4-19 00:00:00	

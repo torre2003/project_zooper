@@ -1,0 +1,10 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+91164	GOBIERNO REGIONAL - REGION DE COQUI	Impar	Cuatricromia	Generales	35x6	03	755.747	Publicado	Jacqueline Torres		2015-12-13 00:00:00	
+88494	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	10x3	05	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2015-12-13 00:00:00	
+91155	CAMAL MUSALEM TAPIA Y CIA.	Par	Blanco y negro	Generales	24x3	05	88.128	Publicado	Marcela Tello-ElDia	Toyota sale 	2015-12-13 00:00:00	
+81467	INVERSIONES TANGUEMAR LIMITADA	Impar	Blanco y negro	Generales	5x2	07	0	Publicado	Patricia Villena	Tanguemar	2015-12-13 00:00:00	
+89346	JUAN CARLOS AQUEZ JILES	Par	Blanco y negro	Generales	5x2	07	1.429	Publicado	Italo Retamal	Capacitaciones 	2015-12-13 00:00:00	
+89533	PAMELA HARDER SANTOS	Par	Blanco y negro	Generales	5x2	07	1.428	Publicado	Italo Retamal	venta de casa harder	2015-12-13 00:00:00	
+91193	HERMANAS CALLEGARI LTDA.	Impar	Cuatricromia	Generales	17x6	08	174.777	Publicado	Marcela Tello-ElDia	CALLEGARI	2015-12-13 00:00:00	
+90539	JUNTA NACIONAL DE JARDINES INF. REG	Par	Cuatricromia	Generales	17x6	09	297.158	Publicado	Jacqueline Torres	DIFUSION MATRICULATE	2015-12-13 00:00:00	
+91194	HERMANAS CALLEGARI LTDA.	Impar	Cuatricromia	Generales	17x6	11	0	Arte	Marcela Tello-ElDia	CALLEGARI	2015-12-13 00:00:00	

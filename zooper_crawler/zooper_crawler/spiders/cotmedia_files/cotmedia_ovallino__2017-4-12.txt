@@ -1,0 +1,8 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+125946	OVALLE CASINO RESORT S.A	Par	Cuatricromia	Generales	25x4	03	0	Publicado	Paola Marquez	OCR Eventos mensuales	2017-4-12 00:00:00	
+125352	AGRICOLA NORTE TALINAY LTDA	Par	Blanco y negro	Generales	5x2	07	0	Publicado	Paola Marquez	UIP VENTA ALFALFA	2017-4-12 00:00:00	
+126775	FERNANDO SANCHEZ			UIP	5x2	07	2.808	Publicado	Karina Rivera	AGUAS SUBTERRANEAS 	2017-4-12 00:00:00	
+126223	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	08	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2017-4-12 00:00:00	
+126425	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	6x6	09	0	Publicado	Claudio Romero	Muebles Alpina	2017-4-12 00:00:00	
+127264	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	5x6	11	0	Arte	Marcela Tello-ElDia		2017-4-12 00:00:00	
+127265	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	5x6	14	0	Arte	Marcela Tello-ElDia		2017-4-12 00:00:00	

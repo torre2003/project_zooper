@@ -1,0 +1,6 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+73837	brillador			UIP	17x2	05	9.211	Publicado	Italo Retamal	alto brillador 	2015-5-5 00:00:00	
+74505	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	10x3	07	0	Arte	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2015-5-5 00:00:00	
+75158	SOC. LIMARI COMERCIALIZADORA DEL AG	Par	Blanco y negro	Generales	12x2	07	56.496	Publicado	Rene Pizarro		2015-5-5 00:00:00	
+73965	EMPRESA PERIODISTICA EL NORTE S.A.	Par	Cuatricromia	Medios Regionales	16x6	09	210.973	Publicado	Medios Regionales	Asoc. Nacional de Serv. Sanitarios - Auto - Impar - (88969)	2015-5-5 00:00:00	
+75083	SOCIEDAD DE RENTAS FALABELLA S.A	Impar	Cuatricromia	Contraportada	35x6	16	400.000	Publicado	M Cristina Puga	Open Plaza /	2015-5-5 00:00:00	

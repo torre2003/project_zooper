@@ -1,0 +1,29 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+75098	CHRISTIAN LAUNITZ MARIN SERVICIOS M	Par	Blanco y negro	Generales	3x2	04	6.667	Publicado	Jacqueline Torres	2015-5-7 00:00:00	
+75327	CLARO CHILE S.A.	Impar	Cuatricromia	Generales	25x5	07	373.600	Publicado	Kathine Soto-Stgo	2015-5-7 00:00:00	
+75324	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	09	0	Publicado	Marcela Tello-ElDia	2015-5-7 00:00:00	
+74483	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	10x3	13	0	Publicado	Marcela Tello-ElDia	2015-5-7 00:00:00	
+75280	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	10x2	13	43.480	Publicado	Medios Regionales	2015-5-7 00:00:00	
+74904	CASA DEL PERNO	Par	Blanco y negro	Generales	5x3	15	23.071	Publicado	Miguel Apey	2015-5-7 00:00:00	
+72704	SARA A. PINTO GUERRA	Par	Blanco y negro	Generales	5x1	15	9.155	Publicado	Miguel Apey	2015-5-7 00:00:00	
+74819	LABORATORIO CLINICO STA. MARIA LA S	Par	Blanco y negro	Generales	6x2	15	7.470	Publicado	Miguel Apey	2015-5-7 00:00:00	
+74133	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Blanco y negro	Generales	6x6	17	58.905	Publicado	Claudio Romero	2015-5-7 00:00:00	
+74839	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	17	8.306	Publicado	Miguel Apey	2015-5-7 00:00:00	
+75330	TERMINAL PUERTO COQUIMBO S.A.	Par	Blanco y negro	Generales	35x6	24	0	Publicado	Miguel Apey	2015-5-7 00:00:00	
+74879	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	4x5	28	20.508	Publicado	Miguel Apey	2015-5-7 00:00:00	
+74998	INCASACH LIMITADA			UIP	5x1	29	8.937	Publicado	Nadia Randolph	2015-5-7 00:00:00	
+75024	AREVALO ROMERO 			UIP	5x1	29	8.937	Publicado	Pedro Jaime	2015-5-7 00:00:00	
+75224	DESIDERIO			UIP	5x2	29	17.875	Publicado	Claudio Romero	2015-5-7 00:00:00	
+74183	armaq			UIP	5x1	29	8.937	Publicado	Claudio Romero	2015-5-7 00:00:00	
+74715	SOC. COMERCIAL ALCAPARRA LTDA.	Par	Blanco y negro	Generales	5x2	29	10.440	Publicado	Patricia Villena	2015-5-7 00:00:00	
+69690	sociedad resta			UIP	5x2	29	17.875	Publicado	Jacqueline Torres	2015-5-7 00:00:00	
+73583	SOC. DE GESTION MEDITERRANEA			UIP	5x1	29	8.937	Publicado	Miguel Apey	2015-5-7 00:00:00	
+74389	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	29	0	Publicado	Marcela Tello-ElDia	2015-5-7 00:00:00	
+74458	DIARIO EL DIA	Par	Blanco y negro	Generales	5x2	29	0	Publicado	Marcela Tello-ElDia	2015-5-7 00:00:00	
+74422	PILLA LA VACA	Par	Blanco y negro	Generales	5x2	29	0	Publicado	Marcela Tello-ElDia	2015-5-7 00:00:00	
+75127	SERVICIOS GENERALES GUAYACAN S.A	Par	Blanco y negro	Generales	3x2	30	6.667	Publicado	Jacqueline Torres	2015-5-7 00:00:00	
+73969	BANCO PARIS	Impar	Cuatricromia	Generales	35x6	32	580.000	Publicado	M Cristina Puga	2015-5-7 00:00:00	
+75333	SOC. EDUCACIONAL ANTONIO VARAS LTDA	Par	Blanco y negro	Generales	4x2	EC-20	29.296	Publicado	Pedro Jaime	2015-5-7 00:00:00	
+75030	AREVALO ROMERO			UIP	5x1	EC-21	8.937	Publicado	Pedro Jaime	2015-5-7 00:00:00	
+74618	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Generales	5x1	EC-21	5.860	Publicado	Rene Pizarro	2015-5-7 00:00:00	
+74648	SOC. COMERCIAL VARGAS Y GIACOMET	Par	Blanco y negro	Generales	5x1	EC-21	5.860	Publicado	Rene Pizarro	2015-5-7 00:00:00	

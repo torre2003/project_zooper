@@ -1,0 +1,13 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+171775	EMPRESA PERIODISTICA EL NORTE S.A.	Par	Cuatricromia	Medios Regionales	16x6	03	221.498	Arte	Medios Regionales		2018-12-14 00:00:00	
+171874	PRENSA DEL LIMARI LTDA.	Par	Blanco y negro	Generales	17x6	04	0	Arte	Marcela Tello-ElDia	Vive la experiencia de estar bien informado...	2018-12-14 00:00:00	
+168606	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	06	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2018-12-14 00:00:00	
+170262	SOCIEDAD DE SERVICIOS MEDICOS E INV			UIP	17x2	08	8.403	Publicado	Karina Rivera	CENTRO IMAGEN OVALLE	2018-12-14 00:00:00	
+169774	FUNERARIA ALVARO MAYA TABILO E.I.R.			UIP	5x2	08	3.931	Publicado	Karina Rivera	FUNERARIA SANTA ROSA	2018-12-14 00:00:00	
+170695	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	12x3	09	16.065	Publicado	Claudio Romero	Muebles alpina..	2018-12-14 00:00:00	
+171246	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x3	09	0	Arte	Marcela Tello-ElDia	Vea en Cinemark - Acuaman	2018-12-14 00:00:00	
+171822	SOC. MEDICA HUGO VALDIVIA Y CIA. LT			UIP	10x2	10	6.812	Publicado	Karina Rivera		2018-12-14 00:00:00	
+171848	MIGUEL GUZMAN YURI	Par	Blanco y negro	Generales	10x2	11	31.285	Publicado	Karina Rivera	REMATE JUDICIAL EN OVALLE ex tienda elegante	2018-12-14 00:00:00	
+171875	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	8x6	14	0	Arte	Marcela Tello-ElDia		2018-12-14 00:00:00	
+171337	EMPRESAS LA POLAR S.A.	Par	Cuatricromia	Contraportada	35x6	16	252.000	Publicado	Patricia Villena	Contraportada La Polar	2018-12-14 00:00:00	
+171819	DABED Y CIA. LTDA., SELIM		1 pag.	Inserto	0x0	INS	45.378	Publicado	Marcela Tello-ElDia	Convenio Diarios Locales - El Ovallino	2018-12-14 00:00:00	

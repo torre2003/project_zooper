@@ -1,0 +1,104 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+128986	JAVIER CERPA CORTES	Par	Blanco y negro	Generales	8x1	06	25.048	Arte	Marcela Tello-ElDia	2017-5-7 00:00:00	
+128985	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	4x2	06	22.680	Arte	Medios Regionales	2017-5-7 00:00:00	
+128987	JAVIER CERPA CORTES	Par	Blanco y negro	Generales	4x2	06	25.048	Arte	Marcela Tello-ElDia	2017-5-7 00:00:00	
+129049	INMOBILIARIA ELQUI S.A.	Par	Cuatricromia	Generales	17x3	06	223.555	Arte	M Cristina Puga	2017-5-7 00:00:00	
+129078	HERMANAS CALLEGARI LTDA.	Par	Cuatricromia	Generales	17x6	07	285.498	Arte	Marcela Tello-ElDia	2017-5-7 00:00:00	
+129045	DIARIO EL DIA	Par	Cuatricromia	Generales	10x6	08	0	Arte	Marcela Tello-ElDia	2017-5-7 00:00:00	
+129085	CALLEGARI LTDA.	Par	Cuatricromia	Generales	35x6	09	0	Arte	Marcela Tello-ElDia	2017-5-7 00:00:00	
+128777	HABITA INMOBILIARIA SA	Par	Cuatricromia	Generales	34x3	11	486.328	Arte	Miguel Apey	2017-5-7 00:00:00	
+128869	UNION TECNICA AUTOMOTRIZ S.A.	Impar	Blanco y negro	Generales	8x1	11	52.733	Arte	Claudio Romero	2017-5-7 00:00:00	
+128945	ASOCIACION DE CANALISTAS CANAL DE B	Par	Blanco y negro	Generales	7x2	11	76.902	Arte	Pedro Jaime	2017-5-7 00:00:00	
+128757	DIARIO EL DIA	Par	Cuatricromia	Generales	12x6	12	0	Arte	Marcela Tello-ElDia	2017-5-7 00:00:00	
+128732	OVALLE CASINO RESORT S.A	Par	Cuatricromia	Generales	25x4	13	384.510	Arte	Paola Marquez	2017-5-7 00:00:00	
+129010	DIRECCION NACIONAL DEL SERVICIO CIV	Impar	Blanco y negro	Generales	8x2	13	143.433	Arte	Jacqueline Torres	2017-5-7 00:00:00	
+129018	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	16x3	14	136.080	Arte	Medios Regionales	2017-5-7 00:00:00	
+129048	INMOBILIARIA ELQUI S.A.	Par	Cuatricromia	Generales	17x3	14	223.555	Arte	M Cristina Puga	2017-5-7 00:00:00	
+126016	COOP. AGRICOLA PISQUERA ELQUI LTDA.	Impar	Cuatricromia	Generales	17x3	15	329.449	Arte	M Cristina Puga	2017-5-7 00:00:00	
+127555	INMOBILIARIA NOVA S.A.	Par	Cuatricromia	Generales	35x6	16	450.000	Arte	Jacqueline Torres	2017-5-7 00:00:00	
+128673	ARZOBISPADO DE LA SERENA	Par	Blanco y negro	Generales	5x2	17	0	Arte	Marcela Tello-ElDia	2017-5-7 00:00:00	
+128692	CENTRO MEDICO DENTAL STO. TOMAS LTD	Par	Blanco y negro	Generales	5x2	17	0	Arte	Rene Pizarro	2017-5-7 00:00:00	
+128797	KHUYAY TRAVEL SPA	Par	Blanco y negro	Generales	5x2	17	38.451	Arte	Miguel Apey	2017-5-7 00:00:00	
+128944	CONSTRUCTORA CARRAN S.A.	Par	Blanco y negro	Generales	5x2	18	54.930	Arte	Claudio Romero	2017-5-7 00:00:00	
+128784	INVERSIONES E INMOBILIARIA P.A.T.  	Par	Cuatricromia	Generales	34x3	21	243.165	Arte	Miguel Apey	2017-5-7 00:00:00	
+125005	ILUSTRE MUNICIPALIDAD DE COQUIMBO	Par	Blanco y negro	Generales	17x6	22	392.201	Arte	Miguel Apey	2017-5-7 00:00:00	
+128769	CLUB PLAYA BLANCA	Par	Cuatricromia	Generales	17x6	23	0	Arte	Paola Marquez	2017-5-7 00:00:00	
+128443	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	6x6	50	51.666	Arte	Claudio Romero	2017-5-7 00:00:00	
+128462	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	50	8.306	Arte	Miguel Apey	2017-5-7 00:00:00	
+128577	ADMINISTRADORA HOTELERA LA SERENA S	Par	Cuatricromia	Generales	8x6	51	0	Arte	Patricia Villena	2017-5-7 00:00:00	
+128979	FISCALIA REGIONAL DE COQUIMBO	Par	Blanco y negro	Generales	14x3	52	156.880	Arte	Jacqueline Torres	2017-5-7 00:00:00	
+128981	INSTITUTO DE DESARROLLO AGROPECUARI	Par	Blanco y negro	Generales	17x3	52	190.497	Arte	Jacqueline Torres	2017-5-7 00:00:00	
+129040	INMOBIL. LA SERENA GOLF S.A.	Impar	Cuatricromia	Generales	17x6	53	348.316	Arte	Patricia Villena	2017-5-7 00:00:00	
+128775	CENTRO DE EST?TICA INTEGRAL MI ESPA	Par	Cuatricromia	Generales	17x3	54	0	Arte	Maria_Amelia Hermosilla	2017-5-7 00:00:00	
+129062	SOCIEDAD PATRIMONIAL PEDRO PABLO MU	Par	Blanco y negro	Generales	18x3	54	0	Arte	Pedro Jaime	2017-5-7 00:00:00	
+128674	ARZOBISPADO DE LA SERENA	Par	Blanco y negro	Generales	34x6	56	0	Arte	Marcela Tello-ElDia	2017-5-7 00:00:00	
+128934	EMPRESA SUDAMERICANA DE ESPECT?CULO	Par	Cuatricromia	Generales	5x6	58	134.454	Arte	Pedro Jaime	2017-5-7 00:00:00	
+128929	CAMPOS DEL NORTE S.A.	Impar	Cuatricromia	Generales	17x6	59	611.833	Arte	Patricia Villena	2017-5-7 00:00:00	
+128993	SAINT MARY SCHOOL S.A.	Par	Cuatricromia	Generales	35x6	60	300.000	Arte	Claudio Romero	2017-5-7 00:00:00	
+128990	UNIVERSIDAD SANTO TOMAS	Impar	Blanco y negro	Generales	35x6	61	1.038.177	Arte	Patricia Villena	2017-5-7 00:00:00	
+129057	DIARIO EL DIA	Par	Cuatricromia	Generales	17x6	64	0	Arte	Marcela Tello-ElDia	2017-5-7 00:00:00	
+129082	CALLEGARI LTDA.	Par	Cuatricromia	Generales	35x6	65	570.996	Arte	Marcela Tello-ElDia	2017-5-7 00:00:00	
+129047	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Cuatricromia	Medios Regionales	16x3	66	236.720	Arte	Medios Regionales	2017-5-7 00:00:00	
+129051	CORP. MUNICIPAL G. G. VIDELA	Par	Blanco y negro	Generales	17x3	66	196.101	Arte	Jacqueline Torres	2017-5-7 00:00:00	
+128983	UNIVERSIDAD DE LA SERENA	Par	Blanco y negro	Generales	14x3	67	112.057	Arte	Jacqueline Torres	2017-5-7 00:00:00	
+129050	CIA. MINERA DEL PACIFICO S.A.	Impar	Blanco y negro	Generales	10x3	67	197.748	Arte	Jacqueline Torres	2017-5-7 00:00:00	
+128436	UNIVERSIDAD DE LA SERENA	Par	Blanco y negro	Generales	10x2	68	42.846	Arte	Jacqueline Torres	2017-5-7 00:00:00	
+128609	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	10x2	68	56.700	Arte	Medios Regionales	2017-5-7 00:00:00	
+128996	DIRECCION GENERAL DEL CREDITO PREND	Par	Blanco y negro	Generales	18x2	68	138.424	Arte	Jacqueline Torres	2017-5-7 00:00:00	
+129080	AUTOMOTRIZ BALMACEDA LTDA.	Par	Cuatricromia	Generales	17x6	69	285.498	Arte	Marcela Tello-ElDia	2017-5-7 00:00:00	
+127207	VELIZ CORTES JOSE A.	Par	Blanco y negro	Generales	3x2	70	13.403	Arte	Pedro Cortes	2017-5-7 00:00:00	
+128941	SERVICIOS GENERALES GUAYACAN S.A	Par	Blanco y negro	Generales	4x2	70	6.666	Arte	Jacqueline Torres	2017-5-7 00:00:00	
+129064	OSORIO VARGAS SAUL JESUS	Par	Blanco y negro	Generales	12x2	70	81.736	Arte	Pedro Jaime	2017-5-7 00:00:00	
+118521	INMOBILIARIA ECOMAC SANTIAGO S.A.	Impar	Cuatricromia	Contraportada	35x6	72	900.000	Arte	M Cristina Puga	2017-5-7 00:00:00	
+123804	HOTELERIA LUIS ALBERTO BERETTA KIEK	Par	Blanco y negro	Generales	5x2	EC	6.061	Arte	Patricia Villena	2017-5-7 00:00:00	
+127607	SERVICIOS GASTRON?MICOS LA CASONA D	Par	Blanco y negro	Generales	5x2	EC	32.958	Arte	Miguel Apey	2017-5-7 00:00:00	
+128196	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	10x2	EC	56.700	Arte	Medios Regionales	2017-5-7 00:00:00	
+128369	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	8x2	EC	45.360	Arte	Medios Regionales	2017-5-7 00:00:00	
+128614	INMOBIL. SANTA CATALINA E.I.R.L.	Par	Cuatricromia	Generales	17x3	EC	254.931	Arte	Rene Pizarro	2017-5-7 00:00:00	
+128686	INMOBILIARIA JCE S.A	Impar	Blanco y negro	Generales	8x2	EC	63.280	Arte	M Cristina Puga	2017-5-7 00:00:00	
+128701	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Generales	5x1	EC	6.043	Arte	Rene Pizarro	2017-5-7 00:00:00	
+128903	TESORERIA REGIONAL DE LA SERENA	Par	Blanco y negro	Generales	34x6	EC	1.120.572	Arte	Marcela Tello-ElDia	2017-5-7 00:00:00	
+128997	IMPORTADORA TRENTO LTDA.	Par	Cuatricromia	Generales	35x6	EC	160.000	Arte	Pedro Cortes	2017-5-7 00:00:00	
+129011	CALLEGARI LTDA.	Par	Blanco y negro	Generales	6x2	EC	52.733	Arte	Marcela Tello-ElDia	2017-5-7 00:00:00	
+129013	COMITE ORGANIZADO HERRADURA SUR DE 	Par	Blanco y negro	Generales	6x2	EC	65.916	Arte	Miguel Apey	2017-5-7 00:00:00	
+129026	ANGELINA CARVAJAL CONTRERAS	Par	Blanco y negro	Generales	5x1	EC	27.465	Arte	Rene Pizarro	2017-5-7 00:00:00	
+129028	INMOBILIARIA E INVERSIONES JUAN FRA	Par	Blanco y negro	Generales	12x2	EC	131.832	Arte	Pedro Jaime	2017-5-7 00:00:00	
+129030	CIA. DE LEASING TATTERSALL S.A.	Par	Blanco y negro	Generales	11x2	EC	97.886	Arte	Pedro Jaime	2017-5-7 00:00:00	
+129052	SHELL CHILE S.A.C. e I.	Par	Blanco y negro	Generales	6x2	EC	65.916	Arte	Carolina Naranjo	2017-5-7 00:00:00	
+129063	CLINICA REGIONAL DE ELQUI S.A.	Par	Blanco y negro	Generales	5x2	EC	54.930	Arte	Marcela Tello-ElDia	2017-5-7 00:00:00	
+129065	MAQUINARIAS OLMUE LTDA.	Par	Blanco y negro	Generales	12x2	EC	98.874	Arte	Pedro Jaime	2017-5-7 00:00:00	
+129067	ENTRE PERSONAS CONSULTORES E.I.R.L.	Par	Blanco y negro	Generales	6x2	EC	54.711	Arte	Pedro Jaime	2017-5-7 00:00:00	
+129068	CAMAL MUSALEM TAPIA Y CIA.	Par	Cuatricromia	Generales	19x4	EC	212.724	Arte	Marcela Tello-ElDia	2017-5-7 00:00:00	
+129070	CAMAL MUSALEM TAPIA Y CIA.	Par	Cuatricromia	Generales	17x6	EC	285.498	Arte	Marcela Tello-ElDia	2017-5-7 00:00:00	
+129071	AUTOMOTRIZ CARMONA	Par	Cuatricromia	Generales	17x6	EC	285.498	Arte	Marcela Tello-ElDia	2017-5-7 00:00:00	
+129072	AUTOMOTRIZ CARMONA	Par	Cuatricromia	Generales	17x6	EC	285.498	Arte	Marcela Tello-ElDia	2017-5-7 00:00:00	
+129073	AUTOMOTRIZ CARMONA	Par	Cuatricromia	Generales	17x6	EC	0	Arte	Marcela Tello-ElDia	2017-5-7 00:00:00	
+129074	AUTOMOTRIZ CARMONA	Par	Cuatricromia	Generales	17x6	EC	285.498	Arte	Marcela Tello-ElDia	2017-5-7 00:00:00	
+129079	CALLEGARI LTDA.	Par	Cuatricromia	Generales	17x6	EC	285.498	Arte	Marcela Tello-ElDia	2017-5-7 00:00:00	
+129081	CALLEGARI LTDA.	Par	Cuatricromia	Generales	35x6	EC	570.996	Arte	Marcela Tello-ElDia	2017-5-7 00:00:00	
+129083	HERMANAS CALLEGARI LTDA.	Par	Cuatricromia	Generales	17x6	EC	285.498	Arte	Marcela Tello-ElDia	2017-5-7 00:00:00	
+102563	SOCIEDAD MEDICA Y CONSULTORA ESTETI		Cuatricromia	Guia	5x2	VS	16.666	Arte	Maria_Amelia Hermosilla	2017-5-7 00:00:00	
+115726	SOCIEDAD OZONSALUD LIMITADA		Cuatricromia	Guia	5x2	VS	16.666	Arte	Maria_Amelia Hermosilla	2017-5-7 00:00:00	
+116040	VENTURA ARAYA ALBERTO		Cuatricromia	Guia	15x2	VS	50.000	Arte	Maria_Amelia Hermosilla	2017-5-7 00:00:00	
+116663	NATHALY ALMUNA CATALAN		Cuatricromia	Guia	5x2	VS	16.666	Arte	Maria_Amelia Hermosilla	2017-5-7 00:00:00	
+116765	MARIA CECILIA GONZALEZ RIVERA		Cuatricromia	Guia	5x2	VS	16.666	Arte	Maria_Amelia Hermosilla	2017-5-7 00:00:00	
+116863	SOCIEDAD BUSTOS Y PROCURIZA LTDA.		Cuatricromia	Guia	10x2	VS	33.333	Arte	Maria_Amelia Hermosilla	2017-5-7 00:00:00	
+117149	SOCIEDAD BUSTOS Y PROCURIZA LTDA.		Cuatricromia	Guia	10x2	VS	33.333	Arte	Maria_Amelia Hermosilla	2017-5-7 00:00:00	
+119452	PRESTADORA DE SERV. ODONTOLOGICOS A		Cuatricromia	Guia	5x2	VS	16.666	Arte	Maria_Amelia Hermosilla	2017-5-7 00:00:00	
+120271	SERVICIO DE CIRUGIA LASER LIMITADA		Cuatricromia	Guia	5x2	VS	16.666	Arte	Maria_Amelia Hermosilla	2017-5-7 00:00:00	
+120868	LASER PIEL		Cuatricromia	Guia	5x2	VS	16.666	Arte	Maria_Amelia Hermosilla	2017-5-7 00:00:00	
+121312	CENTRO OFTALMOLOGICO PASTEUR IV REG		Cuatricromia	Guia	5x2	VS	16.666	Arte	Maria_Amelia Hermosilla	2017-5-7 00:00:00	
+122826	SERVICIOS MEDICOS SANTA VALENTINA L		Cuatricromia	Guia	5x2	VS	16.666	Arte	Maria_Amelia Hermosilla	2017-5-7 00:00:00	
+123402	SERVICIOS M?DICOS M?NICA LUC?A ARI?		Cuatricromia	Guia	5x2	VS	16.666	Arte	Maria_Amelia Hermosilla	2017-5-7 00:00:00	
+123640	LILIANA SANABRIA POVEDA		Cuatricromia	Guia	5x2	VS	16.666	Arte	Maria_Amelia Hermosilla	2017-5-7 00:00:00	
+124332	SERVICIOS MEDICOS E INMOBILIAR NAXA		Cuatricromia	Guia	5x2	VS	16.666	Arte	Maria_Amelia Hermosilla	2017-5-7 00:00:00	
+124178	GIANNINA POMAROLLI RIZZOLI		Cuatricromia	Guia	10x2	VS	33.333	Arte	Maria_Amelia Hermosilla	2017-5-7 00:00:00	
+124803	EDGAR QUEVEDO TORRES		Cuatricromia	Guia	5x2	VS	16.666	Arte	Maria_Amelia Hermosilla	2017-5-7 00:00:00	
+125154	SOCIEDAD MEDICA Y ODONTOLOGICA LOS 		Cuatricromia	Guia	10x2	VS	33.333	Arte	Maria_Amelia Hermosilla	2017-5-7 00:00:00	
+126351	SERGIO MAURICIO AGUIRRE MERCADO SER		Cuatricromia	Guia	5x2	VS	16.666	Arte	Maria_Amelia Hermosilla	2017-5-7 00:00:00	
+126635	CENTRO DE EST?TICA INTEGRAL MI ESPA		Cuatricromia	Guia	10x2	VS	33.333	Arte	Maria_Amelia Hermosilla	2017-5-7 00:00:00	
+127620	ELQUIVISION LTDA.		Cuatricromia	Guia	10x2	VS	33.333	Arte	Maria_Amelia Hermosilla	2017-5-7 00:00:00	
+127907	SERVICIOS ODONTOLOGICOS DE FORMA IN		Cuatricromia	Guia	5x2	VS	16.666	Arte	Maria_Amelia Hermosilla	2017-5-7 00:00:00	
+128163	SERVICIO ODONTOLOGICO JAIME MAURICI		Cuatricromia	Guia	5x2	VS	16.666	Arte	Maria_Amelia Hermosilla	2017-5-7 00:00:00	
+128896	ILUSTRE MUNICIPALIDAD DE COQUIMBO		9 a 24 pag.	Inserto	x	XX	1.196.800	Arte	Miguel Apey	2017-5-7 00:00:00	
+129037	VALDIVIESO Y ASOCIADOS GESTION INMO	33 Palabras		Propiedades	x	XX	5.294	Arte	Miguel Apey	2017-5-7 00:00:00	

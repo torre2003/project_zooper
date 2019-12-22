@@ -1,0 +1,10 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+75473	camila as			UIP	5x2	05	2.808	Publicado	Leonel Pizarro-Ovalle	aBOGADOS	2015-5-16 00:00:00	
+75652	Importadora Amanda Limitada			UIP	5x2	05	2.808	Publicado	Italo Retamal	joyas amanda	2015-5-16 00:00:00	
+75843	PRENSA DEL LIMARI LTDA.	Par	Blanco y negro	Generales	6x2	05	0	Arte	Marcela Tello-ElDia	Hoy Circulan - Economicos	2015-5-16 00:00:00	
+73847	brillador			UIP	17x2	07	9.210	Publicado	Italo Retamal	alto brillador 	2015-5-16 00:00:00	
+75681	CEA			UIP	17x2	07	9.211	Publicado	Leonel Pizarro-Ovalle	CIRCO NORTEAMERICANO	2015-5-16 00:00:00	
+75922	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x6	11	0	Arte	Marcela Tello-ElDia		2015-5-16 00:00:00	
+74523	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	10x3	13	0	Arte	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2015-5-16 00:00:00	
+75249	COOP. DE AHORRO Y CREDITO DE LIMARI	Par	Blanco y negro	Generales	12x2	13	64.971	Publicado	Leonel Pizarro-Ovalle	citacion	2015-5-16 00:00:00	
+75599	EMPRESAS LA POLAR S.A.		9 a 24 pag.	Inserto	x	INS	160.000	Publicado	Patricia Villena	Inserto Bebe	2015-5-16 00:00:00	

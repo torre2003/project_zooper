@@ -1,0 +1,80 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+160313	BANCO SANTANDER CHILE	Impar	Cuatricromia	Generales	35x6	03	1.259.655	Publicado	Kathine Soto-Stgo	2018-7-29 00:00:00	
+160499	CAMAL MUSALEM TAPIA Y CIA.	Par	Cuatricromia	Generales	34x6	05	570.996	Publicado	Marcela Tello-ElDia	2018-7-29 00:00:00	
+160507	HERMANAS CALLEGARI LTDA.	Par	Cuatricromia	Generales	17x6	07	310.000	Publicado	Marcela Tello-ElDia	2018-7-29 00:00:00	
+160505	CALLEGARI LTDA.	Par	Cuatricromia	Generales	17x6	09	310.000	Publicado	Marcela Tello-ElDia	2018-7-29 00:00:00	
+159823	MAX HERNANDEZ GALLARDO	Par	Cuatricromia	Generales	5x2	10	42.296	Publicado	Miguel Apey	2018-7-29 00:00:00	
+160724	DIARIO EL DIA	Par	Cuatricromia	Generales	5x2	10	0	Arte	Marcela Tello-ElDia	2018-7-29 00:00:00	
+160134	ARZOBISPADO DE LA SERENA	Par	Blanco y negro	Generales	5x2	10	0	Publicado	Marcela Tello-ElDia	2018-7-29 00:00:00	
+160392	DIRECCION NACIONAL DEL SERVICIO CIV	Impar	Blanco y negro	Generales	8x2	11	71.717	Publicado	Jacqueline Torres	2018-7-29 00:00:00	
+160116	UNIVERSIDAD DE CHILE	Impar	Blanco y negro	Generales	17x3	11	217.167	Publicado	Jacqueline Torres	2018-7-29 00:00:00	
+160503	INMOBIL. LA SERENA GOLF S.A.	Impar	Blanco y negro	Generales	5x2	11	52.733	Publicado	Patricia Villena	2018-7-29 00:00:00	
+160241	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	12	0	Publicado	Marcela Tello-ElDia	2018-7-29 00:00:00	
+160510	HERMANAS CALLEGARI LTDA.	Par	Cuatricromia	Generales	17x6	13	310.000	Publicado	Marcela Tello-ElDia	2018-7-29 00:00:00	
+160386	SEREMI BIENES NACIONALES IV REGION	Par	Blanco y negro	Generales	17x6	14	294.118	Publicado	Jacqueline Torres	2018-7-29 00:00:00	
+160506	CALLEGARI LTDA.	Par	Cuatricromia	Generales	17x6	15	310.000	Publicado	Marcela Tello-ElDia	2018-7-29 00:00:00	
+158945	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	12x3	17	51.666	Publicado	Claudio Romero	2018-7-29 00:00:00	
+160472	MADERO COMUNICACIONES LTDA.	Par	Cuatricromia	Generales	17x3	17	0	Publicado	Marcela Tello-ElDia	2018-7-29 00:00:00	
+160517	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	6x3	18	53.586	Arte	Medios Regionales	2018-7-29 00:00:00	
+160492	VIGIL LTDA.	Par	Blanco y negro	Generales	5x1	18	27.465	Publicado	Rene Pizarro	2018-7-29 00:00:00	
+160471	HOTEL COSTA REAL	Par	Blanco y negro	Generales	6x2	18	56.029	Publicado	Marcela Tello-ElDia	2018-7-29 00:00:00	
+158964	HABITA INMOBILIARIA SA	Par	Cuatricromia	Generales	17x6	19	509.861	Publicado	Miguel Apey	2018-7-29 00:00:00	
+159021	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	21	8.306	Publicado	Miguel Apey	2018-7-29 00:00:00	
+159564	INMOBIL. LA SERENA GOLF S.A.	Impar	Cuatricromia	Generales	17x6	21	348.316	Publicado	Patricia Villena	2018-7-29 00:00:00	
+160031	INVERSIONES ALTA CRUZ LTDA	Par	Blanco y negro	Generales	5x2	22	0	Publicado	Marcela Tello-ElDia	2018-7-29 00:00:00	
+159054	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	4x5	22	20.508	Publicado	Miguel Apey	2018-7-29 00:00:00	
+159159	LAS GREDAS LTDA.	Par	Blanco y negro	Generales	5x2	22	0	Publicado	Jacqueline Torres	2018-7-29 00:00:00	
+158686	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	22	0	Publicado	Marcela Tello-ElDia	2018-7-29 00:00:00	
+159087	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	5x2	22	0	Publicado	Miguel Apey	2018-7-29 00:00:00	
+158703	PILLA LA VACA	Par	Blanco y negro	Generales	5x2	22	0	Publicado	Marcela Tello-ElDia	2018-7-29 00:00:00	
+159748	DIARIO EL DIA	Par	Blanco y negro	Generales	5x2	22	0	Publicado	Marcela Tello-ElDia	2018-7-29 00:00:00	
+160725	DIARIO EL DIA	Par	Cuatricromia	Generales	17x6	29	0	Arte	Marcela Tello-ElDia	2018-7-29 00:00:00	
+158625	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	34	0	Publicado	Marcela Tello-ElDia	2018-7-29 00:00:00	
+160290	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	36	0	Publicado	Marcela Tello-ElDia	2018-7-29 00:00:00	
+160155	FUNDACION EDUCACIONAL THE INTERNATI	Par	Cuatricromia	Generales	25x3	37	507.554	Publicado	Patricia Villena	2018-7-29 00:00:00	
+160428	CONSTRUCTORA VITAL LTDA.	Par	Cuatricromia	Generales	13x6	38	399.160	Publicado	Pedro Jaime	2018-7-29 00:00:00	
+159898	ILUSTRE MUNICIPALIDAD DE OVALLE	Par	Blanco y negro	Generales	8x2	39	61.522	Publicado	Claudio Romero	2018-7-29 00:00:00	
+160480	FISCALIA REGIONAL DE COQUIMBO	Par	Blanco y negro	Generales	27x4	39	415.271	Publicado	Jacqueline Torres	2018-7-29 00:00:00	
+159103	INVERSIONES E INMOBILIARIA P.A.T.  	Par	Cuatricromia	Generales	34x3	41	509.861	Publicado	Miguel Apey	2018-7-29 00:00:00	
+158990	ILUSTRE MUNICIPALIDAD DE COQUIMBO	Par	Blanco y negro	Generales	17x6	42	392.201	Publicado	Miguel Apey	2018-7-29 00:00:00	
+159200	INVERSIONES IVAN ESPINOZA Y CIA. LT	Par	Cuatricromia	Generales	17x3	43	175.000	Publicado	Claudio Romero	2018-7-29 00:00:00	
+160318	CLUB DE DEPORTES LA SERENA	Par	Cuatricromia	Generales	17x3	43	0	Publicado	Marcela Tello-ElDia	2018-7-29 00:00:00	
+160227	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	46	0	Publicado	Marcela Tello-ElDia	2018-7-29 00:00:00	
+160489	AGUAS DEL VALLE S.A.	Par	Cuatricromia	Generales	17x6	47	627.521	Publicado	Jacqueline Torres	2018-7-29 00:00:00	
+160235	UNIVERSIDAD TECNOLOGICA DE CHILE	Impar	Cuatricromia	Generales	17x6	47	705.961	Publicado	Patricia Villena	2018-7-29 00:00:00	
+160518	ILUSTRE MUNICIPALIDAD DE OVALLE	Par	Cuatricromia	Generales	17x6	48	352.733	Publicado	Jacqueline Torres	2018-7-29 00:00:00	
+160726	DIARIO EL DIA	Par	Cuatricromia	Generales	6x3	49	0	Arte	Marcela Tello-ElDia	2018-7-29 00:00:00	
+159340	INMOBILIARIA ECASA CHILE S.A.	Par	Cuatricromia	Generales	34x6	52	382.000	Publicado	Paola Marquez	2018-7-29 00:00:00	
+158926	INMOBIL. E INVERSIONES AREYUNA E HI	Par	Cuatricromia	Generales	12x6	EC-01	326.680	Publicado	Claudio Romero	2018-7-29 00:00:00	
+160727	DIARIO EL DIA	Par	Cuatricromia	Generales	17x6	EC-03	0	Arte	Marcela Tello-ElDia	2018-7-29 00:00:00	
+160491	BRAVO DE VON TROTT CARMEN	Par	Blanco y negro	Generales	5x1	EC-03	23.346	Publicado	Claudio Romero	2018-7-29 00:00:00	
+160487	EMPRESA A.V. CONSTRUCCIONES E.I.R.L	Par	Blanco y negro	Generales	4x2	EC-04	43.944	Publicado	Pedro Jaime	2018-7-29 00:00:00	
+160486	INVERSIONES VEINTINUEVE GRADOS	Par	Blanco y negro	Economico	10x2	EC-04	29.663	Publicado	Jacqueline Torres	2018-7-29 00:00:00	
+159428	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Cuatricromia	Medios Regionales	10x1	EC-04	135.442	Publicado	Medios Regionales	2018-7-29 00:00:00	
+160420	ILVE VARELA MELENDEZ	Par	Blanco y negro	Generales	3x2	EC-05	32.958	Publicado	Pedro Jaime	2018-7-29 00:00:00	
+160679	AUTOMOTRIZ CARMONA	Par	Blanco y negro	Generales	6x2	EC-05	52.733	Publicado	Marcela Tello-ElDia	2018-7-29 00:00:00	
+160729	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	EC-06	0	Arte	Marcela Tello-ElDia	2018-7-29 00:00:00	
+160728	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	EC-06	0	Arte	Marcela Tello-ElDia	2018-7-29 00:00:00	
+160427	CIA. DE LEASING TATTERSALL S.A.	Par	Blanco y negro	Generales	11x2	EC-07	96.677	Publicado	Pedro Jaime	2018-7-29 00:00:00	
+160497	SOC. DE TRANSPORTES ILZAUSPE LTDA.	Par	Blanco y negro	Generales	7x2	EC-07	76.902	Publicado	Pedro Jaime	2018-7-29 00:00:00	
+159349	INMOBILIARIA JCE S.A	Impar	Cuatricromia	Generales	5x1	EC-07	31.377	Publicado	M Cristina Puga	2018-7-29 00:00:00	
+160730	DIARIO EL DIA	Par	Blanco y negro	Generales	17x6	EC-08	0	Arte	Marcela Tello-ElDia	2018-7-29 00:00:00	
+160732	DIARIO EL DIA	Par	Cuatricromia	Generales	34x6	EC-09	0	Arte	Marcela Tello-ElDia	2018-7-29 00:00:00	
+152140	HOTELERIA LUIS ALBERTO BERETTA KIEK	Par	Blanco y negro	Generales	5x2	EC-10	6.061	Publicado	Patricia Villena	2018-7-29 00:00:00	
+160477	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	10x3	EC-10	89.310	Arte	Medios Regionales	2018-7-29 00:00:00	
+157714	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Generales	5x2	EC-11	7.003	Publicado	Rene Pizarro	2018-7-29 00:00:00	
+160494	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	10x3	EC-11	89.310	Arte	Medios Regionales	2018-7-29 00:00:00	
+160731	DIARIO EL DIA	Par	Cuatricromia	Generales	34x6	EC-12	0	Arte	Marcela Tello-ElDia	2018-7-29 00:00:00	
+160508	BRAVO DE VON TROTT CARMEN	375 Palabras		Propiedades	x	PROP	60.000	Publicado	Claudio Romero	2018-7-29 00:00:00	
+160512	MONSERRAT NU?EZ PROPIEDADES LTDA.	280 Palabras		Propiedades	x	PROP	44.800	Publicado	Claudio Romero	2018-7-29 00:00:00	
+160357	AV CLINICA DENTAL ODONTOLOGICA SPA		Cuatricromia	Guia	10x2	VS	31.481	Publicado	Paola Marquez	2018-7-29 00:00:00	
+148165	SERVICIO DE CIRUGIA LASER LIMITADA		Cuatricromia	Guia	10x2	VS	33.333	Publicado	Maria_Amelia Hermosilla	2018-7-29 00:00:00	
+149917	LASER PIEL		Cuatricromia	Guia	5x2	VS	16.666	Publicado	Maria_Amelia Hermosilla	2018-7-29 00:00:00	
+149946	COMERCIAL SAED SPA		Cuatricromia	Guia	15x2	VS	50.000	Publicado	Paola Marquez	2018-7-29 00:00:00	
+151997	LILIANA SANABRIA POVEDA		Cuatricromia	Guia	5x2	VS	16.666	Publicado	Paola Marquez	2018-7-29 00:00:00	
+158471	SOCIEDAD MEDICA Y CONSULTORA ESTETI		Cuatricromia	Guia	5x2	VS	16.666	Publicado	Paola Marquez	2018-7-29 00:00:00	
+157862	SOCIEDAD MEDICA Y ODONTOLOGICA LOS 		Cuatricromia	Guia	10x2	VS	33.333	Publicado	Paola Marquez	2018-7-29 00:00:00	
+152238	SERVICIOS MEDICOS E INMOBILIAR NAXA		Cuatricromia	Guia	10x2	VS	33.333	Publicado	Paola Marquez	2018-7-29 00:00:00	
+154692	CENTRO DE ESTETICA INTEGRAL MI ESPA		Cuatricromia	Guia	10x2	VS	33.333	Publicado	Paola Marquez	2018-7-29 00:00:00	
+157920	ODONTOLOG?A AVANZADA SONRIE SPA		Cuatricromia	Guia	10x2	VS	33.333	Publicado	Paola Marquez	2018-7-29 00:00:00	
+156994	SALUD MENTAL MEDICINA TRADICIONAL C		Cuatricromia	Guia	5x2	VS	16.666	Publicado	Paola Marquez	2018-7-29 00:00:00	

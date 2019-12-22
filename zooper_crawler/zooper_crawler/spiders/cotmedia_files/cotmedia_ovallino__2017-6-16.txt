@@ -1,0 +1,18 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+131021	PEDRO ANDRES MONARDEZ ELGUETA	Par	Cuatricromia	Generales	6x6	01	25.000	Publicado	Karina Rivera	Restaurant Riquisimo	2017-6-16 00:00:00	
+131375	SOCIEDAD DE RENTAS FALABELLA S.A	Par	Cuatricromia	Generales	17x6	03	200.000	Publicado	M Cristina Puga	Open Plaza - Mall Ovalle	2017-6-16 00:00:00	
+131932	INMOBILIARIA NUEVA SERENA	Par	Cuatricromia	Generales	17x3	04	65.625	Publicado	Claudio Romero	proyecto empresa serena...(ovalle)	2017-6-16 00:00:00	
+131897	SERVICIO ELECTORAL	Par	Blanco y negro	Generales	17x3	04	0	Publicado	Jacqueline Torres	AVISO PREVIO LISTADO PRIMARIAS	2017-6-16 00:00:00	
+129976	CENTRO DE SALUD PORTALES LTDA			UIP	5x4	05	5.630	Publicado	Karina Rivera	CENTRO DE SALUD PORTALES	2017-6-16 00:00:00	
+131005	JACQUELINE JOFRE VILLANUEVA			UIP	5x2	05	2.808	Publicado	Karina Rivera	CORTINAS ROLLER OVALLE	2017-6-16 00:00:00	
+131885	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x3	06	0	Arte	Marcela Tello-ElDia	TODO EL 3D A PRECIO DE 2D, CINEMARK	2017-6-16 00:00:00	
+131760	HANNA JARUFE HAUNE	Par	Cuatricromia	Generales	10x3	06	35.000	Publicado	Claudio Romero	saludo dia del padre...	2017-6-16 00:00:00	
+131936	AUTOMOTORES GILDEMEISTER S.A.	Impar	Cuatricromia	Generales	35x6	07	705.918	Publicado	Kathine Soto-Stgo	GILDEMEISTER OVALLINO MAHINDRA 2017	2017-6-16 00:00:00	
+131724	DABED Y CIA. LTDA., SELIM	Par	Cuatricromia	Generales	6x6	08	23.076	Publicado	Karina Rivera	DIA DEL PADRE	2017-6-16 00:00:00	
+130486	OVALLE CASINO RESORT S.A	Par	Cuatricromia	Generales	25x4	09	131.824	Publicado	Paola Marquez	OCR Eventos mayo	2017-6-16 00:00:00	
+131937	EFRAIN PALMA KUHNOW	Par	Cuatricromia	Generales	17x6	10	165.856	Publicado	Karina Rivera	ACADEMIA DE DANZA	2017-6-16 00:00:00	
+131499	EMPRESA PERIODISTICA EL NORTE S.A.	Par	Cuatricromia	Medios Regionales	10x6	11	158.953	Publicado	Medios Regionales	Impar - Administ. de Franquicias - Sandwich Gran Maestro - (96717)	2017-6-16 00:00:00	
+130400	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	12	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2017-6-16 00:00:00	
+131940	MINERA ALTOS DE PUNITAQUI  LTDA.	Par	Blanco y negro	Insercion	17x6	13	268.921	Publicado	Karina Rivera	ALTOS DE PUNITAQUI	2017-6-16 00:00:00	
+130599	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	6x6	14	16.065	Publicado	Claudio Romero	Muebles Alpina	2017-6-16 00:00:00	
+131944	EMPRESAS LA POLAR S.A.	Par	Cuatricromia	Contraportada	35x6	16	252.000	Publicado	Patricia Villena	Belleza	2017-6-16 00:00:00	

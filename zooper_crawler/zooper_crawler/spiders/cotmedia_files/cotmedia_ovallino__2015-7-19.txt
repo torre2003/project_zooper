@@ -1,0 +1,12 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+80258	DABED Y CIA. LTDA., SELIM	Impar	Cuatricromia	Generales	6x6	03	23.077	Publicado	Italo Retamal	1 Escuela de Oficios Dabed	2015-7-19 00:00:00	
+80221	gatic			UIP	5x4	05	0	Arte	Italo Retamal	promo hamburguesa 	2015-7-19 00:00:00	
+80312	CALLEGARI LTDA.	Par	Cuatricromia	Generales	17x6	06	0	Arte	Marcela Tello-ElDia	Kia Morning / Rio 4	2015-7-19 00:00:00	
+79046	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	10x3	07	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2015-7-19 00:00:00	
+80313	CALLEGARI LTDA.	Par	Cuatricromia	Generales	17x6	08	125.000	Publicado	Marcela Tello-ElDia	Ford	2015-7-19 00:00:00	
+79937	CORP. PARA EL DESARROLLO DE LA REGI	Impar	Cuatricromia	Generales	17x3	09	183.539	Publicado	Patricia Villena		2015-7-19 00:00:00	
+79431	: LARA Y CIA. AGUILAS TOCANDO EL CI	Par	Blanco y negro	Generales	10x6	10	0	Publicado	Italo Retamal	tcm lara y cia	2015-7-19 00:00:00	
+80314	HERMANAS CALLEGARI LTDA.	Par	Cuatricromia	Generales	17x6	11	174.777	Publicado	Marcela Tello-ElDia	Chery iQ	2015-7-19 00:00:00	
+80324	CAMAL MUSALEM TAPIA Y CIA.	Par	Blanco y negro	Generales	25x3	13	91.800	Publicado	Marcela Tello-ElDia	Toyota Factory Sale	2015-7-19 00:00:00	
+80325	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x6	14	0	Publicado	Marcela Tello-ElDia		2015-7-19 00:00:00	
+79711	SOCIEDAD DE RENTAS FALABELLA S.A	Impar	Cuatricromia	Generales	35x6	16	0	Publicado	M Cristina Puga	Open plaza /Contraportada	2015-7-19 00:00:00	

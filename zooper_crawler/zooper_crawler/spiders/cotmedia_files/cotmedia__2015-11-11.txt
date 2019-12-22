@@ -1,0 +1,50 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+88930	AIDIS	Par	Blanco y negro	Generales	17x6		168.086	Arte	Carolina Naranjo	2015-11-11 00:00:00	
+88798	SALINAS Y FABRES S.A.	Impar	Cuatricromia	Generales	25x5	05	390.009	Publicado	M Cristina Puga	2015-11-11 00:00:00	
+88795	INMOBIL. PY  S.A.	Par	Cuatricromia	Generales	17x6	09	0	Publicado	Claudio Romero	2015-11-11 00:00:00	
+88858	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	10	0	Publicado	Marcela Tello-ElDia	2015-11-11 00:00:00	
+87788	DIARIO EL DIA	Par	Cuatricromia	Generales	10x2	10	0	Publicado	Marcela Tello-ElDia	2015-11-11 00:00:00	
+88855	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	11	0	Publicado	Marcela Tello-ElDia	2015-11-11 00:00:00	
+88761	DIARIO EL DIA	Par	Cuatricromia	Generales	15x6	12	0	Publicado	Marcela Tello-ElDia	2015-11-11 00:00:00	
+87870	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	5x2	13	0	Publicado	Miguel Apey	2015-11-11 00:00:00	
+87695	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	10x3	13	0	Publicado	Marcela Tello-ElDia	2015-11-11 00:00:00	
+86562	INMOBIL. PY  S.A.	Par	Blanco y negro	Generales	10x1	13	9.804	Publicado	Claudio Romero	2015-11-11 00:00:00	
+88808	SOC. EDUCACIONAL SENDEROS LTDA.	Par	Blanco y negro	Generales	5x1	14	18.310	Publicado	Claudio Romero	2015-11-11 00:00:00	
+87599	CENTRO TECNICO ACUARELA LTDA.	Par	Blanco y negro	Generales	5x2	14	19.409	Publicado	Rene Pizarro	2015-11-11 00:00:00	
+88583	CORP. NACIONAL FORESTAL - CONAF	Par	Blanco y negro	Generales	6x2	14	30.761	Publicado	Jacqueline Torres	2015-11-11 00:00:00	
+88845	SOCIEDAD CONCESIONARIA RUTA DEL LIM	Impar	Cuatricromia	Generales	18x3	15	319.328	Publicado	Pedro Jaime	2015-11-11 00:00:00	
+88024	SOCIEDAD CONCESIONARIA RUTA DEL LIM	Impar	Cuatricromia	Generales	18x3	15	319.327	Publicado	Pedro Jaime	2015-11-11 00:00:00	
+87336	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	17	8.306	Publicado	Miguel Apey	2015-11-11 00:00:00	
+88844	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Cuatricromia	Medios Regionales	16x6	19	309.344	Publicado	Medios Regionales	2015-11-11 00:00:00	
+88759	RENDIC HNOS. S.A.	Par	Cuatricromia	Generales	35x6	20	979.732	Publicado	Patricia Villena	2015-11-11 00:00:00	
+88758	RENDIC HNOS. S.A.	Par	Cuatricromia	Generales	35x6	21	979.732	Publicado	Patricia Villena	2015-11-11 00:00:00	
+88770	DIARIO EL DIA	Par	Cuatricromia	Generales	34x6	26	0	Publicado	Marcela Tello-ElDia	2015-11-11 00:00:00	
+88864	NICOLAIDES S.A.	Par	Blanco y negro	Generales	7x6	30	80.000	Arte	Carolina Naranjo	2015-11-11 00:00:00	
+88856	CARLOS RIVAS PADILLA Y C?A. LTDA.	Par	Blanco y negro	Generales	7x6	30	100.000	Arte	Carolina Naranjo	2015-11-11 00:00:00	
+88865	AQUALOGY MEDIOAMBIENTE	Par	Blanco y negro	Generales	8x6	30	100.000	Arte	Carolina Naranjo	2015-11-11 00:00:00	
+88867	AGUAS SIPRA S.A.	Par	Blanco y negro	Generales	7x6	30	50.976	Arte	Carolina Naranjo	2015-11-11 00:00:00	
+88748	FONDO DE SOLIDARIDAD E INVERSION SO	Par	Blanco y negro	Generales	35x6	32	0	Publicado	Jacqueline Torres	2015-11-11 00:00:00	
+88225	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	35	0	Publicado	M Cristina Puga	2015-11-11 00:00:00	
+88754	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	35	0	Publicado	Marcela Tello-ElDia	2015-11-11 00:00:00	
+87486	ARMAQ			UIP	5x1	37	8.937	Publicado	Claudio Romero	2015-11-11 00:00:00	
+87388	GUERRERO SERANTONI Y CIA. LTDA.	Par	Blanco y negro	Generales	5x1	37	5.527	Publicado	Pedro Jaime	2015-11-11 00:00:00	
+86799	SOC. RAMON MOYA FUENTES 			UIP	10x1	37	8.938	Publicado	Miguel Apey	2015-11-11 00:00:00	
+86697	SOC. DE GESTION MEDITERRANEA			UIP	5x1	37	8.937	Publicado	Miguel Apey	2015-11-11 00:00:00	
+84681	CERNA E HIJOS CIA. LTDA.	Par	Blanco y negro	Generales	5x1	37	4.468	Publicado	Nadia Randolph	2015-11-11 00:00:00	
+87641	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	4x5	37	20.508	Publicado	Miguel Apey	2015-11-11 00:00:00	
+88133	SOC. COMERCIAL ALCAPARRA LTDA.	Par	Blanco y negro	Generales	5x2	37	10.440	Publicado	Patricia Villena	2015-11-11 00:00:00	
+84193	soc. comercial e inv. alto la seren			UIP	5x2	37	8.937	Publicado	Nadia Randolph	2015-11-11 00:00:00	
+88175	NORMA CERDA			UIP	5x1	37	8.937	Publicado	Pedro Jaime	2015-11-11 00:00:00	
+88686	Loreto Varela			UIP	5x1	37	8.937	Publicado	Rene Pizarro	2015-11-11 00:00:00	
+88284	c.p.c.			UIP	5x1	37	8.937	Publicado	Rene Pizarro	2015-11-11 00:00:00	
+88290	c.p.c			UIP	5x1	37	8.937	Publicado	Rene Pizarro	2015-11-11 00:00:00	
+88296	c.p.c.			UIP	5x1	37	8.937	Publicado	Rene Pizarro	2015-11-11 00:00:00	
+88300	LA GARZA			UIP	5x2	37	17.875	Publicado	Claudio Romero	2015-11-11 00:00:00	
+87929	SERVICIOS GENERALES GUAYACAN S.A	Par	Blanco y negro	Generales	3x2	38	6.666	Publicado	Jacqueline Torres	2015-11-11 00:00:00	
+88806	OSSES E. Y CIA. LTDA., ENRIQUE	Par	Blanco y negro	Generales	12x2	38	79.100	Publicado	Rene Pizarro	2015-11-11 00:00:00	
+88651	DIARIO EL DIA	Par	Cuatricromia	Generales	34x6	40	0	Publicado	Marcela Tello-ElDia	2015-11-11 00:00:00	
+88790	CLAUDIA MUNIZAGA URRUTIA	Par	Blanco y negro	Generales	5x2	EC	36.620	Publicado	Pedro Jaime	2015-11-11 00:00:00	
+88791	COMERCIAL AGROMIN INDUSTRIAL LTDA.	Par	Blanco y negro	Generales	5x2	EC	25.210	Publicado	Pedro Jaime	2015-11-11 00:00:00	
+88803	SERV. VIVIENDA Y URBANIZACION IV RE	Par	Blanco y negro	Generales	8x2	EC22	39.843	Publicado	Jacqueline Torres	2015-11-11 00:00:00	
+87578	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Generales	5x1	EC22	5.860	Publicado	Rene Pizarro	2015-11-11 00:00:00	
+86157	GOBIERNO REGIONAL - REGION DE COQUI	Home	Banner Inf. Der	Web	x	web	180.000	Publicado	Jacqueline Torres	2015-11-11 00:00:00	

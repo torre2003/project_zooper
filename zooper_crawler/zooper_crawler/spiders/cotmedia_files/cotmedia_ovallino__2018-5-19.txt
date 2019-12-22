@@ -1,0 +1,8 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+156349	WALDO MUNDACA ELGUETA	Par	Cuatricromia	Pag.3	17x6	03	100.000	Publicado	Karina Rivera		2018-5-19 00:00:00	
+156289	EMPRESA PERIODISTICA EL NORTE S.A.	Par	Blanco y negro	Medios Regionales	6x2	04	18.204	Arte	Medios Regionales	Remate - Banco Santander - (74654)	2018-5-19 00:00:00	
+156424	PRENSA DEL LIMARI LTDA.	Par	Blanco y negro	Generales	8x6	05	0	Arte	Marcela Tello-ElDia		2018-5-19 00:00:00	
+154992	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	06	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2018-5-19 00:00:00	
+156425	 PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	12x6	08	0	Arte	Marcela Tello-ElDia	Vive la experiencia de estar bien informado...	2018-5-19 00:00:00	
+156426	 PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x6	11	0	Arte	Marcela Tello-ElDia		2018-5-19 00:00:00	
+156427	 PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	8x6	14	0	Arte	Marcela Tello-ElDia		2018-5-19 00:00:00	

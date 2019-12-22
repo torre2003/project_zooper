@@ -1,0 +1,7 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+69047	CALLEGARI LTDA.	Par	Cuatricromia	Generales	6x6	01	30.000	Publicado	Marcela Tello-ElDia	Portada - Kia Good Morning	2015-2-10 00:00:00	
+68251	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	10x3	05	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2015-2-10 00:00:00	
+67911	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x6	09	0	Publicado	Marcela Tello-ElDia		2015-2-10 00:00:00	
+69035	SOC. HOTELERA VICHUQUEN LTDA.	Par	Cuatricromia	Generales	10x3	11	0	Publicado	Marcela Tello-ElDia		2015-2-10 00:00:00	
+68692	reyes m			UIP	10x6	12	0	Publicado	Italo Retamal	hotel monte cordillera 	2015-2-10 00:00:00	
+69128	ILUSTRE MUNICIPALIDAD DE COMBARBALA	Home	Banner Sup. Izq	Web	x	WEB	59.500	Publicado	Italo Retamal	Obs Cruz Sur 	2015-2-10 00:00:00	

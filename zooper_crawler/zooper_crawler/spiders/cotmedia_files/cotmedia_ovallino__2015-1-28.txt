@@ -1,0 +1,8 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+67272	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	12x6	03	0	Publicado	Marcela Tello-ElDia	Turismo - El Ovallino	2015-1-28 00:00:00	
+67200	san francisco			UIP	5x2	07	0	Publicado	Leonel Pizarro-Ovalle	AGUAS SAN FRANCISCO	2015-1-28 00:00:00	
+67325	SOC. HOTELERA VICHUQUEN LTDA.	Par	Cuatricromia	Generales	10x3	07	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2015-1-28 00:00:00	
+67219	DABED Y CIA. LTDA., SELIM	Impar	Cuatricromia	Generales	6x6	08	23.077	Publicado	Italo Retamal	xpress dabed 	2015-1-28 00:00:00	
+65410	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	6x6	09	0	Publicado	Claudio Romero	Muebles Alpina	2015-1-28 00:00:00	
+67901	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x6	11	0	Publicado	Marcela Tello-ElDia		2015-1-28 00:00:00	
+67762	EMPRESA PERIODISTICA EL NORTE S.A.	Par	Blanco y negro	Medios Regionales	20x4	12	110.080	Publicado	Medios Regionales	Atres Serv. Integrales - Extracto Juzgado de Letras - (20040)	2015-1-28 00:00:00	

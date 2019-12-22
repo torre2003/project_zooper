@@ -1,0 +1,10 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+114674	DABED Y CIA. LTDA., SELIM	Par	Cuatricromia	Generales	6x6	01	23.076	Publicado	Karina Rivera	PRIMAVERA 2	2016-10-25 00:00:00	
+114746	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x6	03	0	Arte	Marcela Tello-ElDia		2016-10-25 00:00:00	
+113031	AGRICOLA NORTE TALINAY LTDA	Par	Blanco y negro	Generales	5x2	05	1.666	Publicado	Paola Marquez	UIP VENTA ALFALFA	2016-10-25 00:00:00	
+113404	castillo si			UIP	10x2	05	5.630	Publicado	Karina Rivera	servicios dentales	2016-10-25 00:00:00	
+114591	PABLO CORRAL			UIP	5x2	05	2.808	Publicado	Karina Rivera		2016-10-25 00:00:00	
+113632	sandra paola 			UIP	17x2	07	9.211	Publicado	Karina Rivera	Reserva Temporada Piscina El Eden de la Chimba	2016-10-25 00:00:00	
+113222	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	08	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2016-10-25 00:00:00	
+114222	Pedro Andres Monardez Elguet			UIP	17x2	09	13.970	Publicado	Karina Rivera	Restaurant Riquisimo	2016-10-25 00:00:00	
+114747	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	6x6	14	0	Arte	Marcela Tello-ElDia		2016-10-25 00:00:00	

@@ -1,0 +1,13 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+163145	CAMPOS DEL NORTE S.A.	Par	Cuatricromia	Generales	5x6	01	23.333	Publicado	Patricia Villena	Franja Enjoy Portada EL Ovallino	2018-9-27 00:00:00	
+164305	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	3x6	03	0	Arte	Marcela Tello-ElDia	Periodismo en todos los sentidos...	2018-9-27 00:00:00	
+164306	PRENSA DEL LIMARI LTDA.	Par	Blanco y negro	Generales	17x6	04	0	Arte	Marcela Tello-ElDia		2018-9-27 00:00:00	
+164094	DABED Y CIA. LTDA., SELIM	Par	Cuatricromia	Generales	6x6	06	23.076	Publicado	Karina Rivera	4 OVA	2018-9-27 00:00:00	
+164272	MIGUEL GUZMAN YURI	Par	Blanco y negro	Generales	8x2	08	32.015	Publicado	Karina Rivera	REMATE OVALLE	2018-9-27 00:00:00	
+164120	DEL RIO VARELA JORGE	Par	Blanco y negro	Generales	12x3	08	59.321	Publicado	Pedro Jaime	JDV- REMATES - GRUA HORQUILLA.-28 SEPTIEMBRE, 13 X  4 , LIGHTS 	2018-9-27 00:00:00	
+164273	EMPRESA PERIODISTICA EL NORTE S.A.	Par	Cuatricromia	Medios Regionales	16x6	09	221.498	Arte	Medios Regionales	Impar - La Caserita - La Caserita Ltda. - (140097)	2018-9-27 00:00:00	
+164116	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x3	11	0	Arte	Marcela Tello-ElDia		2018-9-27 00:00:00	
+164209	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x3	11	0	Arte	Marcela Tello-ElDia		2018-9-27 00:00:00	
+164307	PRENSA DEL LIMARI LTDA.	Par	Blanco y negro	Generales	6x6	12	0	Arte	Marcela Tello-ElDia		2018-9-27 00:00:00	
+162865	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	14	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2018-9-27 00:00:00	
+164276	EMPRESA PERIODISTICA EL NORTE S.A.	Par	Cuatricromia	Medios Regionales	32x6	16	367.130	Arte	Medios Regionales	Impar - Lanz. Ovalle Luna - Armas Gestion Ltda. - (145248)	2018-9-27 00:00:00	

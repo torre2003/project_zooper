@@ -1,0 +1,19 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+139764	INMOBILIARIA CALEUCHE LTDA	Par	Cuatricromia	Generales	8x6	01	118.247	Publicado	Paola Marquez	Beltec IMPAR si se puede	2017-10-28 00:00:00	
+138339	CENTRO DE SALUD PORTALES LTDA			UIP	5x4	05	4.504	Publicado	Karina Rivera		2017-10-28 00:00:00	
+141810	SOCIEDAD DE SERVICIOS SATINES LTDA.			UIP	5x2	06	2.808	Publicado	Karina Rivera	UIP COLOR FUENTE DEL MAESTRO	2017-10-28 00:00:00	
+139892	TEODORO AGUIRRE ALVAREZ			UIP	5x2	07	2.808	Publicado	Karina Rivera	REGIONALISTA VERDE SOCIAL	2017-10-28 00:00:00	
+140529	JACQUELINE JOFRE VILLANUEVA			UIP	5x2	07	2.808	Publicado	Karina Rivera	CORTINAS ROLLER OVALLE	2017-10-28 00:00:00	
+140606	ESTUDIO JURIDICO OLIVARES Y CIA. SP	Par	Blanco y negro	Generales	5x2	07	2.000	Publicado	Jacqueline Torres	ESTUDIO JURIDICO OLIVARES	2017-10-28 00:00:00	
+139873	INMOBILIARIA NUEVA SERENA			UIP	10x6	11	16.260	Publicado	Claudio Romero	2 AVISOS..LLANOS DE SAN LUIS (INTERCALAR  DIARIAMENTE)	2017-10-28 00:00:00	
+140211	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	14	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2017-10-28 00:00:00	
+140933	VELIZ CORTES JOSE A.			UIP	5x2	14	3.919	Publicado	Pedro Cortes		2017-10-28 00:00:00	
+142132	SERVICIO ELECTORAL	Par	Blanco y negro	Generales	35x6	15	370.000	Publicado	Jacqueline Torres		2017-10-28 00:00:00	
+142133	SERVICIO ELECTORAL	Par	Blanco y negro	Generales	35x6	16	370.000	Publicado	Jacqueline Torres		2017-10-28 00:00:00	
+142134	SERVICIO ELECTORAL	Par	Blanco y negro	Generales	35x6	17 	370.000	Publicado	Jacqueline Torres		2017-10-28 00:00:00	
+142135	SERVICIO ELECTORAL	Par	Blanco y negro	Generales	35x6	18	370.000	Publicado	Jacqueline Torres		2017-10-28 00:00:00	
+142136	SERVICIO ELECTORAL	Par	Blanco y negro	Generales	35x6	19	370.000	Publicado	Jacqueline Torres		2017-10-28 00:00:00	
+142137	SERVICIO ELECTORAL	Par	Blanco y negro	Generales	35x6	20	370.000	Publicado	Jacqueline Torres		2017-10-28 00:00:00	
+142138	SERVICIO ELECTORAL	Par	Blanco y negro	Generales	35x6	21	370.000	Publicado	Jacqueline Torres		2017-10-28 00:00:00	
+142139	SERVICIO ELECTORAL	Par	Blanco y negro	Generales	35x6	22	370.040	Publicado	Jacqueline Torres		2017-10-28 00:00:00	
+141122	PRENSA DEL LIMARI LTDA.	Par	Blanco y negro	Generales	34x6	24	0	Publicado	Marcela Tello-ElDia		2017-10-28 00:00:00	

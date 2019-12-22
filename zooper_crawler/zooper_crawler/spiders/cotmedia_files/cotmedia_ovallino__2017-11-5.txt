@@ -1,0 +1,10 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+143215	DABED Y CIA. LTDA., SELIM	Par	Cuatricromia	Generales	6x6	01	23.076	Publicado	Karina Rivera	ESCUELA DE OFICIOS	2017-11-5 00:00:00	
+143122	EMPRESA PERIODISTICA EL NORTE S.A.	Par	Blanco y negro	Medios Regionales	8x2	05	23.120	Arte	Medios Regionales	Empresa de Transportes Rurales Ltda. - Conductor de Bus - (187327)	2017-11-5 00:00:00	
+131288	SOCIEDAD MEDICA Y CONSULTORA ESTETI		Cuatricromia	Guia	5x2	06	13.333	Publicado	Maria_Amelia Hermosilla	Diego Polanco	2017-11-5 00:00:00	
+143286	SOC. DE SERV. DE MARKETING EVENTOS 	Impar	Blanco y negro	Generales	18x6	07	296.639	Publicado	Pedro Jaime	VELASCO DIPUTADO, IMPAR 	2017-11-5 00:00:00	
+143032	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	08	0	Arte	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2017-11-5 00:00:00	
+142567	OVALLE CASINO RESORT S.A	Par	Cuatricromia	Generales	25x4	09	171.372	Publicado	Paola Marquez	OCR eventos Noviembre Impar si se puede	2017-11-5 00:00:00	
+143105	AGUAS DEL VALLE S.A.	Par	Cuatricromia	Generales	17x6	11	305.898	Publicado	Jacqueline Torres	sociales	2017-11-5 00:00:00	
+140941	VELIZ CORTES JOSE A.			UIP	5x2	14	5.761	Publicado	Pedro Cortes		2017-11-5 00:00:00	
+143296	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	6x6	14	0	Arte	Marcela Tello-ElDia		2017-11-5 00:00:00	

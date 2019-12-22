@@ -1,0 +1,11 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+97785	AUTOMOTRIZ CARMONA	Par	Cuatricromia	Generales	6x6	01	23.076	Publicado	Marcela Tello-ElDia	Nissan March - Portada (si hay disponibilidad)	2016-3-21 00:00:00	
+98208	SALINAS Y FABRES S.A.	Impar	Cuatricromia	Generales	17x6	03	242.029	Publicado	M Cristina Puga	Salfa GM	2016-3-21 00:00:00	
+98170	AGRICOLA NORTE TALINAY LTDA	Par	Blanco y negro	Generales	5x2	05	1.667	Publicado	Paola Marquez	UIP VENTA ALFALFA	2016-3-21 00:00:00	
+98344	EMPRESA PERIODISTICA EL NORTE S.A.	Par	Blanco y negro	Medios Regionales	6x2	05	17.340	Arte	Medios Regionales	Empresa Periodistica El Norte - Extracto - (53203)	2016-3-21 00:00:00	
+97915	parques			UIP	10x2	05	9.765	Publicado	Rene Pizarro	Tu tranquilidad Familiar...Parque de Ovalle ....Parques de Chile	2016-3-21 00:00:00	
+97241	DABED Y CIA. LTDA., SELIM	Par	Cuatricromia	Generales	6x6	06	23.076	Publicado	Nadia Randolph	dabed motos	2016-3-21 00:00:00	
+96818	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	07	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2016-3-21 00:00:00	
+97104	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	6x6	08	16.065	Publicado	Claudio Romero	Muebles Alpina	2016-3-21 00:00:00	
+98354	SALINAS Y FABRES S.A.	Impar	Cuatricromia	Generales	17x6	09	242.029	Publicado	M Cristina Puga	Salfa GM	2016-3-21 00:00:00	
+98375	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x6	14	0	Arte	Marcela Tello-ElDia		2016-3-21 00:00:00	

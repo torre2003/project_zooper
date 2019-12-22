@@ -1,0 +1,32 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+172382	SOCIEDAD DE RENTAS FALABELLA S.A	Home	Banner Cabecera	Web	x		300.000	Con Reparo		2018-12-26 00:00:00	
+164858	UNIVERSIDAD CATOLICA DEL NORTE	Impar	Cuatricromia	Generales	34x6	05	900.000	Publicado	Miguel Apey	2018-12-26 00:00:00	
+171396	INSTITUTO PROFESIONAL AIEP S.A.	Impar	Cuatricromia	Generales	35x6	07	700.000	Publicado	Patricia Villena	2018-12-26 00:00:00	
+172312	UNIVERSIDAD SANTO TOMAS	Impar	Cuatricromia	Generales	25x5	09	534.969	Publicado	Patricia Villena	2018-12-26 00:00:00	
+172171	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Cuatricromia	Medios Regionales	16x6	11	324.840	Publicado	Medios Regionales	2018-12-26 00:00:00	
+172335	CORP. EDUC. SENDEROS ELQUI	Par	Blanco y negro	Generales	10x2	14	51.268	Publicado	Jacqueline Torres	2018-12-26 00:00:00	
+170911	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	14	8.306	Publicado	Miguel Apey	2018-12-26 00:00:00	
+172186	ARZOBISPADO DE LA SERENA	Par	Blanco y negro	Generales	10x2	14	0	Publicado	Marcela Tello-ElDia	2018-12-26 00:00:00	
+172360	DIARIO EL DIA	Par	Blanco y negro	Generales	5x1	15	0	Publicado	Marcela Tello-ElDia	2018-12-26 00:00:00	
+170964	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	4x5	15	20.508	Publicado	Miguel Apey	2018-12-26 00:00:00	
+168743	INVERSIONES ALTA CRUZ LTDA	Par	Blanco y negro	Generales	5x2	15	0	Publicado	Marcela Tello-ElDia	2018-12-26 00:00:00	
+171305	C.M. SOC. GASTRONOMICA LTDA.			UIP	5x2	15	7.208	Publicado		2018-12-26 00:00:00	
+170755	ARMAQ SUBIRI S.A.			UIP	5x1	15	8.937	Publicado	Claudio Romero	2018-12-26 00:00:00	
+159845	ILUSTRE MUNICIPALIDAD DE COQUIMBO	Par	Blanco y negro	Generales	10x6	16	153.804	Publicado	Miguel Apey	2018-12-26 00:00:00	
+172232	DABED Y CIA. LTDA., SELIM	Par	Cuatricromia	Generales	6x6	17	27.690	Publicado	Karina Rivera	2018-12-26 00:00:00	
+172362	DIARIO EL DIA	Par	Cuatricromia	Generales	12x6	21	0	Publicado	Marcela Tello-ElDia	2018-12-26 00:00:00	
+168849	PAMELA B. GONZALEZ LIZAMA COMERCIAL	Par	Blanco y negro	Generales	5x2	22	0	Publicado	Marcela Tello-ElDia	2018-12-26 00:00:00	
+172363	DIARIO EL DIA	Par	Cuatricromia	Generales	5x2	22	0	Publicado	Marcela Tello-ElDia	2018-12-26 00:00:00	
+171000	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	5x2	22	0	Publicado	Miguel Apey	2018-12-26 00:00:00	
+168539	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	23	0	Publicado	Marcela Tello-ElDia	2018-12-26 00:00:00	
+171946	AGUAS DEL VALLE S.A.	Par	Cuatricromia	Generales	5x6	25	50.000	Publicado	Heinger Vega Torres	2018-12-26 00:00:00	
+171262	CAMPOS DEL NORTE S.A.	Par	Cuatricromia	Generales	17x3	27	0	Publicado	Patricia Villena	2018-12-26 00:00:00	
+172364	DIARIO EL DIA	Par	Cuatricromia	Generales	10x3	27	0	Publicado	Marcela Tello-ElDia	2018-12-26 00:00:00	
+172365	DIARIO EL DIA	Par	Cuatricromia	Generales	34x6	28	0	Publicado	Marcela Tello-ElDia	2018-12-26 00:00:00	
+169609	SERVICIOS GENERALES GUAYACAN S.A	Par	Blanco y negro	Generales	3x2	29	6.812	Publicado	Jacqueline Torres	2018-12-26 00:00:00	
+172366	DIARIO EL DIA	Par	Blanco y negro	Generales	6x6	29	0	Publicado	Marcela Tello-ElDia	2018-12-26 00:00:00	
+171502	UNIVERSIDAD CENTRAL DE CHILE	Par	Cuatricromia	Generales	35x6	32	495.249	Publicado	Jacqueline Torres	2018-12-26 00:00:00	
+172361	DIARIO EL DIA	Par	Blanco y negro	Generales	17x6	EC-19	0	Publicado	Marcela Tello-ElDia	2018-12-26 00:00:00	
+166207	HOTELERIA LUIS ALBERTO BERETTA KIEK	Par	Blanco y negro	Generales	5x2	EC-19	6.061	Publicado	Patricia Villena	2018-12-26 00:00:00	
+171384	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Generales	5x2	EC-19	7.003	Publicado	Rene Pizarro	2018-12-26 00:00:00	
+172001	GOBIERNO REGIONAL - REGION DE COQUI	Impar	Cuatricromia	Centrales	35x6	INS	1.650.000	Publicado	Jacqueline Torres	2018-12-26 00:00:00	

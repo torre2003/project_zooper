@@ -1,0 +1,13 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+120140	SOCIEDAD DE RENTAS FALABELLA S.A	Par	Cuatricromia	Generales	8x6	01	50.980	Publicado	M Cristina Puga	Huincha open 	2017-1-6 00:00:00	
+120183	OVALLE CASINO RESORT S.A	Par	Cuatricromia	Generales	25x4	03	131.824	Publicado	Paola Marquez	OCR Eventos verano	2017-1-6 00:00:00	
+117875	OVALLEMAR			UIP	5x2	06	3.958	Publicado	Karina Rivera	OVALLE MAR	2017-1-6 00:00:00	
+120048	SOCIEDAD E			UIP	10x2	06	7.882	Publicado	Karina Rivera		2017-1-6 00:00:00	
+119481	tanguemar			UIP	5x2	07	2.808	Publicado	Patricia Villena	Tanguemar	2017-1-6 00:00:00	
+119256	AGRICOLA NORTE TALINAY LTDA	Par	Blanco y negro	Generales	5x2	07	1.666	Publicado	Paola Marquez	UIP VENTA ALFALFA	2017-1-6 00:00:00	
+120222	SERVICIOS TASUI			UIP	5x2	07	2.808	Publicado	Karina Rivera	Tasui Ltda	2017-1-6 00:00:00	
+119901	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	6x6	11	16.065	Publicado	Claudio Romero	Muebles Alpina	2017-1-6 00:00:00	
+120302	SOSTENEDORA EDUCACIONAL CERRILLOS D			UIP	5x2	13	2.808	Publicado	Karina Rivera	Concurso Cerrillos de Rapel 	2017-1-6 00:00:00	
+120341	PARDO ALCAYAGA GILBERTO	Par	Blanco y negro	Generales	5x2	13	23.540	Publicado	Karina Rivera		2017-1-6 00:00:00	
+120346	DABED Y CIA. LTDA., SELIM	Par	Cuatricromia	Generales	6x6	14	23.077	Publicado	Karina Rivera	V1	2017-1-6 00:00:00	
+120234	EMPRESAS LA POLAR S.A.	Impar	Cuatricromia	Generales	35x6	16	0	Publicado	Patricia Villena	La Polar	2017-1-6 00:00:00	

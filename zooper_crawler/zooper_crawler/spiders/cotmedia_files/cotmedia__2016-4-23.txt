@@ -1,0 +1,52 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+99415	CHRISTIAN LAURITZ MARIN	Par	Blanco y negro	Generales	4x2	04	6.452	Publicado	Jacqueline Torres	2016-4-23 00:00:00	
+100882	HERMANAS CALLEGARI LTDA.	Par	Cuatricromia	Generales	34x6	05	1.141.992	Publicado	Marcela Tello-ElDia	2016-4-23 00:00:00	
+100745	ILUSTRE MUNICIPALIDAD DE LA SERENA	Par	Blanco y negro	Generales	17x2	06	97.366	Publicado	M Cristina Puga	2016-4-23 00:00:00	
+100112	ENTEL PCS	Impar	Cuatricromia	Generales	25x5	07	442.187	Publicado	Kathine Soto-Stgo	2016-4-23 00:00:00	
+100291	TODO ARAUCO S.A.	Impar	Cuatricromia	Generales	34x3	09	557.155	Publicado	Patricia Villena	2016-4-23 00:00:00	
+100325	DIARIO EL DIA	Par	Cuatricromia	Generales	10x6	10	0	Publicado	Marcela Tello-ElDia	2016-4-23 00:00:00	
+100879	AUTOMOTRIZ CARMONA	Par	Cuatricromia	Generales	10x6	11	167.940	Publicado	Marcela Tello-ElDia	2016-4-23 00:00:00	
+98813	BAKULIC RESTAURANT	Par	Cuatricromia	Generales	10x2	12	40.092	Publicado	Miguel Apey	2016-4-23 00:00:00	
+99041	SONIA NATALIA TUPAYACHI MU?OZ	Par	Cuatricromia	Generales	12x2	12	0	Publicado	Marcela Tello-ElDia	2016-4-23 00:00:00	
+100447	INMOBIL. EL MIRADOR S.A.	Par	Blanco y negro	Generales	5x2	13	42.113	Publicado	Rene Pizarro	2016-4-23 00:00:00	
+100755	SERV. VIVIENDA Y URBANIZACION IV RE	Par	Blanco y negro	Generales	10x2	13	58.988	Publicado	Marcela Tello-ElDia	2016-4-23 00:00:00	
+100756	SERV. VIVIENDA Y URBANIZACION IV RE	Par	Blanco y negro	Generales	10x2	13	58.987	Publicado	Marcela Tello-ElDia	2016-4-23 00:00:00	
+98995	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	5x2	14	0	Publicado	Miguel Apey	2016-4-23 00:00:00	
+100831	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	6x2	14	28.356	Publicado	Medios Regionales	2016-4-23 00:00:00	
+97715	DIARIO EL DIA	Par	Blanco y negro	Generales	5x2	14	0	Publicado	Marcela Tello-ElDia	2016-4-23 00:00:00	
+100852	INMOBIL. CLUB DE LA SERENA S.A.	Par	Blanco y negro	Generales	6x1	15	25.268	Publicado	Pedro Jaime	2016-4-23 00:00:00	
+100836	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	15	0	Publicado	Marcela Tello-ElDia	2016-4-23 00:00:00	
+98867	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	16	8.306	Publicado	Miguel Apey	2016-4-23 00:00:00	
+99073	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	16	0	Publicado	Marcela Tello-ElDia	2016-4-23 00:00:00	
+99802	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Cuatricromia	Medios Regionales	16x3	17	214.064	Publicado	Medios Regionales	2016-4-23 00:00:00	
+100748	INMOBILIARIA ELQUI S.A.	Par	Cuatricromia	Generales	17x3	17	223.555	Publicado	M Cristina Puga	2016-4-23 00:00:00	
+100998	DIARIO EL DIA	Par	Blanco y negro	Generales	35x6	23	0	Publicado	Carolina Naranjo	2016-4-23 00:00:00	
+100149	DABED Y CIA. LTDA., SELIM	Par	Cuatricromia	Generales	7x6	28	27.691	Publicado	Marcela Tello-ElDia	2016-4-23 00:00:00	
+95863	CERNA E HIJOS CIA. LTDA.	Par	Blanco y negro	Generales	5x1	29	4.467	Publicado	Nadia Randolph	2016-4-23 00:00:00	
+100510	SOC.COMERCIAL ALTOS LA SERENA LTDA	Par	Blanco y negro	Generales	5x2	29	8.937	Publicado	Nadia Randolph	2016-4-23 00:00:00	
+98719	SOC. COMERCIAL ALCAPARRA LTDA.	Par	Blanco y negro	Generales	5x2	29	10.440	Publicado	Patricia Villena	2016-4-23 00:00:00	
+98957	armaq			UIP	5x1	29	8.937	Publicado	Claudio Romero	2016-4-23 00:00:00	
+98896	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	4x5	29	20.508	Publicado	Miguel Apey	2016-4-23 00:00:00	
+98838	SOC. DE GESTION MEDITERRANEA			UIP	5x1	29	8.937	Publicado	Miguel Apey	2016-4-23 00:00:00	
+99132	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	29	0	Publicado	Marcela Tello-ElDia	2016-4-23 00:00:00	
+99155	PILLA LA VACA	Par	Blanco y negro	Generales	5x2	29	0	Publicado	Marcela Tello-ElDia	2016-4-23 00:00:00	
+95310	MAURICIO ALEJANDRO BUGUENO CONTRERA	Par	Blanco y negro	Generales	5x1	29	4.468	Publicado	Nadia Randolph	2016-4-23 00:00:00	
+99827	GALLARDO JUAN 			UIP	5x1	29	8.937	Publicado	Pedro Jaime	2016-4-23 00:00:00	
+99927	SERVICIOS GASTRON?MICOS LA CASONA D	Par	Blanco y negro	Generales	5x2	29	10.725	Publicado	Miguel Apey	2016-4-23 00:00:00	
+99190	DIARIO EL DIA	Par	Blanco y negro	Generales	5x2	29	0	Publicado	Marcela Tello-ElDia	2016-4-23 00:00:00	
+100234	AREVALO CARMEN 			UIP	5x1	29	8.937	Publicado	Pedro Jaime	2016-4-23 00:00:00	
+99386	SERVICIOS GENERALES GUAYACAN S.A	Par	Blanco y negro	Generales	4x2	30	6.452	Publicado	Jacqueline Torres	2016-4-23 00:00:00	
+100825	RAMON VILLARROEL URBINA	Par	Blanco y negro	Generales	12x2	30	62.665	Publicado	Pedro Jaime	2016-4-23 00:00:00	
+100028	WALMART CHILE S.A	Impar	Cuatricromia	Generales	34x6	32	600.000	Publicado	M Cristina Puga	2016-4-23 00:00:00	
+100833	SANTANDER G.R.C.	1141 Palabras		Legal	x	EC	283.193	Publicado	Pedro Jaime	2016-4-23 00:00:00	
+99334	INMOBIL. ITALIA LTDA.	Par	Blanco y negro	Generales	4x2	EC-19	26.953	Publicado	Marcela Tello-ElDia	2016-4-23 00:00:00	
+100563	COMERCIAL CHACAO S.A.	Par	Blanco y negro	Generales	5x2	EC-19	42.113	Publicado	Pedro Jaime	2016-4-23 00:00:00	
+100884	JAVIER CERPA CORTES	Par	Blanco y negro	Generales	6x1	EC-20	13.184	Publicado	Marcela Tello-ElDia	2016-4-23 00:00:00	
+100855	CIA. DE LEASING TATTERSALL S.A.	Par	Blanco y negro	Generales	11x2	EC-20	69.487	Publicado	Pedro Jaime	2016-4-23 00:00:00	
+100373	DIARIO EL DIA	Par	Blanco y negro	Generales	5x2	EC-20	0	Publicado	Marcela Tello-ElDia	2016-4-23 00:00:00	
+100883	IMOPAC LTDA.	Par	Blanco y negro	Generales	9x2	EC-21	80.183	Publicado	Pedro Jaime	2016-4-23 00:00:00	
+100455	CONSTRUCTORA NOVA S.A.	Par	Blanco y negro	Economico	7x2	EC-21	58.959	Publicado	Jacqueline Torres	2016-4-23 00:00:00	
+94830	HOTELERIA LUIS ALBERTO BERETTA KIEK	Par	Blanco y negro	Generales	5x2	EC-22	8.973	Publicado	Patricia Villena	2016-4-23 00:00:00	
+99243	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Generales	5x1	EC-22	5.860	Publicado	Rene Pizarro	2016-4-23 00:00:00	
+100820	BANCO ESTADO DE CHILE	805 Palabras		Legal	x	EC-22	199.748	Publicado	Pedro Jaime	2016-4-23 00:00:00	
+99693	FONDO DE SOLIDARIDAD E INVERSION SO	Impar	Cuatricromia	Insercion	35x6	INS	1.987.223	Publicado	Jacqueline Torres	2016-4-23 00:00:00	

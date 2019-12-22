@@ -1,0 +1,12 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+131310	SOCIEDAD MEDICA Y CONSULTORA ESTETI		Cuatricromia	Guia	5x2	03	13.333	Publicado	Maria_Amelia Hermosilla	Diego Polanco	2018-4-8 00:00:00	
+152929	OVALLE CASINO RESORT S.A	Par	Cuatricromia	Generales	25x4	03	171.372	Publicado	Paola Marquez	Eventos abril OCR	2018-4-8 00:00:00	
+153698	INMOBILIARIA E INVERSIONES EL CHA?A	Par	Blanco y negro	Generales	10x2	05	47.128	Publicado	Claudio Romero		2018-4-8 00:00:00	
+153689	INMOBILIARIA AYLLU S.A	Par	Blanco y negro	Generales	10x2	05	47.128	Publicado	Claudio Romero	AYLLU/CITACION	2018-4-8 00:00:00	
+153652	SOC. LIMARI COMERCIALIZADORA DEL AG	Par	Blanco y negro	Generales	15x2	05	91.807	Publicado	Rene Pizarro		2018-4-8 00:00:00	
+153852	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x6	06	0	Arte	Marcela Tello-ElDia	Nos trasladamos para prestarles un mejor servicio...	2018-4-8 00:00:00	
+153749	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x6	08	0	Arte	Marcela Tello-ElDia		2018-4-8 00:00:00	
+153745	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	12x6	09	0	Arte	Marcela Tello-ElDia	Avant Premiere - Club de Lectores	2018-4-8 00:00:00	
+153731	EMPRESA PERIODISTICA EL NORTE S.A.	Par	Cuatricromia	Medios Regionales	10x3	11	121.376	Arte	Medios Regionales	Impar - Parques de Chile - (52807)	2018-4-8 00:00:00	
+153853	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	6x6	12	0	Arte	Marcela Tello-ElDia	Descuentos Cartelera Cinemark	2018-4-8 00:00:00	
+153252	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	14	0	Arte	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2018-4-8 00:00:00	

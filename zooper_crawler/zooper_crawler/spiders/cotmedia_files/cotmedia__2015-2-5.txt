@@ -1,0 +1,59 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+68713	CORP. PARA EL DESARROLLO DE LA REGI	Impar	Cuatricromia	Generales	17x6	05	433.801	Publicado	Patricia Villena	2015-2-5 00:00:00	
+67249	IMPLEMENTA MARKETING DEPORTIVO SPA	Par	Cuatricromia	Generales	17x6	07	192.956	Publicado	Marcela Tello-ElDia	2015-2-5 00:00:00	
+67852	CHRISTIAN LAUNITZ MARIN SERVICIOS M	Par	Blanco y negro	Generales	3x2	08	6.452	Publicado	Jacqueline Torres	2015-2-5 00:00:00	
+67299	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Cuatricromia	Medios Regionales	32x3	09	294.567	Publicado	Medios Regionales	2015-2-5 00:00:00	
+66295	ILUSTRE MUNICIPALIDAD DE LA SERENA	Par	Cuatricromia	Generales	17x6	10	0	Publicado	M Cristina Puga	2015-2-5 00:00:00	
+68099	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Cuatricromia	Medios Regionales	32x6	11	493.287	Publicado	Medios Regionales	2015-2-5 00:00:00	
+68490	DIARIO EL DIA	Par	Cuatricromia	Generales	17x6	12	0	Arte	Marcela Tello-ElDia	2015-2-5 00:00:00	
+68633	ILUSTRE MUNICIPALIDAD DE COQUIMBO	Par	Blanco y negro	Generales	10x6	13	153.804	Publicado	Miguel Apey	2015-2-5 00:00:00	
+67367	LABORATORIO CLINICO STA. MARIA LA S	Par	Blanco y negro	Generales	6x2	14	7.470	Publicado	Miguel Apey	2015-2-5 00:00:00	
+68701	SINDY GONZALEZ MARCHANT	Par	Blanco y negro	Generales	17x4	14	0	Publicado	Marcela Tello-ElDia	2015-2-5 00:00:00	
+66997	INMOBILIARIA DOMINGA NORTE LTDA	Par	Blanco y negro	Generales	5x2	14	22.631	Publicado	Pedro Jaime	2015-2-5 00:00:00	
+68218	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	10x3	15	0	Publicado	Marcela Tello-ElDia	2015-2-5 00:00:00	
+68329	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Blanco y negro	Generales	6x6	16	58.905	Publicado	Claudio Romero	2015-2-5 00:00:00	
+67382	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	16	8.306	Publicado	Miguel Apey	2015-2-5 00:00:00	
+67915	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	17	0	Arte	Marcela Tello-ElDia	2015-2-5 00:00:00	
+68615	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	17	0	Arte	Marcela Tello-ElDia	2015-2-5 00:00:00	
+68050	MARCOS GABRIEL WEXLER PERALTA	Par	Cuatricromia	Generales	5x6	21	99.973	Publicado	Pedro Jaime	2015-2-5 00:00:00	
+66873	DIARIO EL DIA	Par	Cuatricromia	Generales	8x6	22	0	Arte	Marcela Tello-ElDia	2015-2-5 00:00:00	
+67518	PRODUCCIONES ALVAREZ LTDA	Par	Cuatricromia	Generales	8x6	23	91.052	Publicado	M Cristina Puga	2015-2-5 00:00:00	
+68508	DIARIO EL DIA	Par	Blanco y negro	Generales	35x6	24	0	Arte	Carolina Naranjo	2015-2-5 00:00:00	
+68704	LEONARDO PINO	Par	Cuatricromia	Generales	17x3	27	130.734	Publicado	Marcela Tello-ElDia	2015-2-5 00:00:00	
+68388	FONDO DE SOLIDARIDAD E INVERSION SO	Par	Cuatricromia	Generales	17x3	28	169.954	Publicado	Jacqueline Torres	2015-2-5 00:00:00	
+67456	CASA DEL PERNO	Par	Blanco y negro	Generales	5x3	28	23.071	Publicado	Miguel Apey	2015-2-5 00:00:00	
+67424	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	4x5	29	20.508	Publicado	Miguel Apey	2015-2-5 00:00:00	
+68648	DIARIO EL DIA	Par	Blanco y negro	Generales	5x1	30	0	Arte	Marcela Tello-ElDia	2015-2-5 00:00:00	
+68146	PILLA LA VACA	Par	Blanco y negro	Generales	5x2	30	0	Publicado	Marcela Tello-ElDia	2015-2-5 00:00:00	
+68407	SOC. COMERCIAL ALCAPARRA LTDA.	Par	Blanco y negro	Generales	5x2	30	10.440	Publicado	Patricia Villena	2015-2-5 00:00:00	
+68636	DIARIO EL DIA	Par	Blanco y negro	Generales	5x1	30	0	Arte	Marcela Tello-ElDia	2015-2-5 00:00:00	
+68294	DIARIO EL DIA	Par	Blanco y negro	Generales	5x2	30	0	Arte	Marcela Tello-ElDia	2015-2-5 00:00:00	
+67344	SOC. DE GESTION MEDITERRANEA			UIP	5x1	30	8.937	Publicado	Miguel Apey	2015-2-5 00:00:00	
+67609	SOC. INMOBILIARIA DE INVERSIONES RE	Par	Blanco y negro	Generales	5x1	30	7.427	Publicado	Miguel Apey	2015-2-5 00:00:00	
+67701	SOCIEDAD RESTAURA			UIP	5x2	30	17.875	Publicado	Jacqueline Torres	2015-2-5 00:00:00	
+68173	ARMAQ			UIP	5x1	30	8.937	Publicado	Claudio Romero	2015-2-5 00:00:00	
+68116	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	30	0	Publicado	Marcela Tello-ElDia	2015-2-5 00:00:00	
+68014	morales aguilera segundo			UIP	5x1	30	8.937	Publicado	Miguel Apey	2015-2-5 00:00:00	
+67981	SERVICIOS GENERALES GUAYACAN S.A	Par	Blanco y negro	Generales	3x2	31	6.666	Publicado	Jacqueline Torres	2015-2-5 00:00:00	
+68686	DIARIO EL DIA	Par	Blanco y negro	Generales	6x2	EC-18	0	Arte	Marcela Tello-ElDia	2015-2-5 00:00:00	
+68617	AGROLEY LTDA	546 Palabras		Legal	x	EC-19	135.408	Publicado	Pedro Jaime	2015-2-5 00:00:00	
+67771	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Generales	5x1	EC-19	5.860	Publicado	Rene Pizarro	2015-2-5 00:00:00	
+67799	SOC. COMERCIAL VARGAS Y GIACOMET	Par	Blanco y negro	Generales	5x1	EC-19	5.860	Publicado	Rene Pizarro	2015-2-5 00:00:00	
+68618	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	MR: Inserto	x	INS	266.245	Publicado	Medios Regionales	2015-2-5 00:00:00	
+68737	GONZALEZ ADAROS MARIA SOLEDAD	651 Palabras		Propiedades	x	PROP	104.160	Publicado	Pedro Jaime	2015-2-5 00:00:00	
+68738	RODRIGUEZ ROJAS MARCELO	655 Palabras		Propiedades	x	PROP	104.800	Publicado	Pedro Jaime	2015-2-5 00:00:00	
+68739	CIA. DE LEASING TATTERSALL S.A.	2568 Palabras		Propiedades	x	PROP	410.880	Publicado	Pedro Jaime	2015-2-5 00:00:00	
+68740	URBI LIMITADA	588 Palabras		Propiedades	x	PROP	94.080	Publicado	Pedro Jaime	2015-2-5 00:00:00	
+68742	CURIFOR S.A.	639 Palabras		Propiedades	x	PROP	102.240	Publicado	Pedro Jaime	2015-2-5 00:00:00	
+68743	COMERCIAL AUTOKARINO LTDA.	316 Palabras		Propiedades	x	PROP	50.560	Publicado	Pedro Jaime	2015-2-5 00:00:00	
+68744	AUTOMOTRIZ PEDREGAL LTDA.	431 Palabras		Propiedades	x	PROP	68.960	Publicado	Pedro Jaime	2015-2-5 00:00:00	
+68736	SOC. COMERCIAL MERINO Y ARRIAGADA L	947 Palabras		Propiedades	x	PROP	151.520	Publicado	Pedro Jaime	2015-2-5 00:00:00	
+68735	JACQUELINE BARRERA BARRAZA	1214 Palabras		Propiedades	x	PROP	194.240	Publicado	Pedro Jaime	2015-2-5 00:00:00	
+68734	RUBEN DARIO SANTANDER VELIZ COM. EI	739 Palabras		Propiedades	x	PROP	118.240	Publicado	Pedro Jaime	2015-2-5 00:00:00	
+68733	GONZALEZ RIVERA MANUEL RICARDO	1228 Palabras		Propiedades	x	PROP	196.480	Publicado	Pedro Jaime	2015-2-5 00:00:00	
+68732	LILIAN ELIZABETH OLIVARES LANAS	654 Palabras		Propiedades	x	PROP	104.640	Publicado	Pedro Jaime	2015-2-5 00:00:00	
+68731	INMOBILIARIA PRO LIMITADA	490 Palabras		Propiedades	x	PROP	78.400	Publicado	Pedro Jaime	2015-2-5 00:00:00	
+68730	YOLANDA ELIAS CAMBLOR	328 Palabras		Propiedades	x	PROP	52.480	Publicado	Pedro Jaime	2015-2-5 00:00:00	
+68729	SOCIEDAD COMERCIAL MERINO LIMITADA	830 Palabras		Propiedades	x	PROP	132.800	Publicado	Pedro Jaime	2015-2-5 00:00:00	
+68728	MARDONES CORRETAJES PROPIEDADES Y S	427 Palabras		Propiedades	x	PROP	68.320	Publicado	Pedro Jaime	2015-2-5 00:00:00	
+68745	CURIFOR S.A.	561 Palabras		Propiedades	x	PROP	89.832	Publicado	Pedro Jaime	2015-2-5 00:00:00	

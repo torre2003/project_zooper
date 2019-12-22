@@ -1,0 +1,18 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+89295	CALLEGARI LTDA.	Par	Cuatricromia	Contraportada	5x6	01	45.930	Publicado	Marcela Tello-ElDia	AVISO PORTADA FERIA CALLEGARI	2015-11-18 00:00:00	
+89293	SOCIEDAD DE RENTAS FALABELLA S.A	Impar	Cuatricromia	Generales	17x6	03	200.000	Publicado	M Cristina Puga	Open Plaza 	2015-11-18 00:00:00	
+87967	AUTOMOTRIZ CARMONA	Par	Cuatricromia	Generales	17x3	04	23.076	Publicado	Marcela Tello-ElDia	Nissan - Servicio Gratuito en Automotriz Carmona	2015-11-18 00:00:00	
+87068	BIANCA DASOLI	Par	Blanco y negro	Generales	5x2	05	1.417	Publicado	Italo Retamal	tarot	2015-11-18 00:00:00	
+87071	linea			UIP	10x2	05	5.630	Publicado	Italo Retamal	seguridad 	2015-11-18 00:00:00	
+88053	JOSE CONTADOR DURAN	Par	Blanco y negro	Generales	5x2	05	1.428	Publicado	Italo Retamal	arriendo local	2015-11-18 00:00:00	
+88063	socinget			UIP	10x2	05	5.630	Publicado	Italo Retamal		2015-11-18 00:00:00	
+88920	SANDRA PAOLA 			UIP	10x2	06	5.630	Publicado	Italo Retamal	BRISTO Y BAR 	2015-11-18 00:00:00	
+89321	JUAN CARLOS AQUEZ JILES	Par	Blanco y negro	Generales	5x2	06	1.429	Publicado	Italo Retamal	Capacitaciones 	2015-11-18 00:00:00	
+87713	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	10x3	07	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2015-11-18 00:00:00	
+88698	ADA D?AZ ARAYA	Par	Blanco y negro	Generales	5x2	07	1.428	Publicado	Italo Retamal	zona ganjah	2015-11-18 00:00:00	
+87320	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	6x6	08	0	Publicado	Claudio Romero	Muebles Alpina	2015-11-18 00:00:00	
+88251	DABED Y CIA. LTDA., SELIM	Impar	Cuatricromia	Generales	6x6	09	23.077	Publicado	Italo Retamal	EDO_3	2015-11-18 00:00:00	
+89084	RIO L			UIP	10x6	11	16.260	Publicado	Claudio Romero	PROYECTO MIRADOR OVALLE..	2015-11-18 00:00:00	
+88977	EMPRESA PERIODISTICA EL NORTE S.A.	Par	Cuatricromia	Medios Regionales	12x6	13	176.293	Publicado	Medios Regionales	SENDA RESERVA PAG.	2015-11-18 00:00:00	
+89306	EMPRESA PERIODISTICA EL NORTE S.A.	Par	Cuatricromia	Medios Regionales	10x6	13	158.953	Publicado	Medios Regionales	SENDA (245979)	2015-11-18 00:00:00	
+88782	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	15x6	14	0	Publicado	Marcela Tello-ElDia	HAROLD MAYNE NICHOLLS	2015-11-18 00:00:00	

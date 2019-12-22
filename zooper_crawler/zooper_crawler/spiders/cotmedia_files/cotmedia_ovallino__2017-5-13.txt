@@ -1,0 +1,13 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+129219	SOCIEDAD DE RENTAS FALABELLA S.A	Par	Cuatricromia	Generales	17x6	03	200.000	Publicado	M Cristina Puga	Open Plaza - Mall Ovalle	2017-5-13 00:00:00	
+127484	AGRICOLA NORTE TALINAY LTDA	Par	Blanco y negro	Generales	5x2	05	1.666	Publicado	Paola Marquez	UIP VENTA ALFALFA	2017-5-13 00:00:00	
+127729	JACQUELINE JOFRE VILLANUEVA			UIP	5x2	05	2.808	Publicado	Karina Rivera	Cortinas Rollers	2017-5-13 00:00:00	
+128113	FERNANDO YOANOVICH			UIP	5x2	05	2.247	Publicado	Karina Rivera	COMPRA VEHICULOS	2017-5-13 00:00:00	
+128807	KH			UIP	5x2	07	2.808	Publicado	Miguel Apey	KHUYAY TRAVEL	2017-5-13 00:00:00	
+129414	ADOLFO HADLER BARRERA	Par	Blanco y negro	Generales	5x1	07	13.536	Publicado	Karina Rivera	ARRIENDO CASA	2017-5-13 00:00:00	
+129036	EL RELAJO			UIP	5x4	08	16.423	Publicado	Karina Rivera		2017-5-13 00:00:00	
+129249	SOC. HOTELERA VICHUQUEN LTDA.	Par	Cuatricromia	Generales	15x2	08	0	Arte	Karina Rivera	DIA DE LA MADRE HOTEL LIMARI	2017-5-13 00:00:00	
+129448	ASOCIACION DE EXPORTADORES DE FRUTA	Impar	Cuatricromia	Generales	18x3	09	196.471	Publicado	Pedro Jaime	AVISO ASOEX .	2017-5-13 00:00:00	
+129228	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x3	09	0	Arte	Marcela Tello-ElDia	CINEMARK- REY ARTURO	2017-5-13 00:00:00	
+129359	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	12x6	11	0	Arte	Marcela Tello-ElDia	AVANT PREMIERE	2017-5-13 00:00:00	
+129469	LEONEL EMILIO PIZARRO VIERA	Par	Blanco y negro	Generales	12x2	14	27.938	Publicado	Leonel Pizarro-Ovalle	agradecimientos	2017-5-13 00:00:00	

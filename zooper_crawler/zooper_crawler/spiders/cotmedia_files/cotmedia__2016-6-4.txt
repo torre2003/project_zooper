@@ -1,0 +1,53 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+103447	WILLIAMSON BALFOUR MOTORS S.A	Impar	Cuatricromia	Generales	17x6	05	505.154	Publicado	Paola Marquez	2016-6-4 00:00:00	
+102883	CAI GESTION INMOBILIARIA	Impar	Cuatricromia	Generales	35x6	07	482.868	Publicado	Patricia Villena	2016-6-4 00:00:00	
+104343	CLARO CHILE S.A.	Impar	Cuatricromia	Generales	35x6	09	742.874	Publicado	Kathine Soto-Stgo	2016-6-4 00:00:00	
+104266	SERV. VIVIENDA Y URBANIZACION IV RE	Par	Blanco y negro	Generales	10x2	11	58.989	Publicado	Marcela Tello-ElDia	2016-6-4 00:00:00	
+104268	SERV. VIVIENDA Y URBANIZACION IV RE	Par	Blanco y negro	Generales	10x2	11	58.989	Publicado	Marcela Tello-ElDia	2016-6-4 00:00:00	
+104335	COMISION NACIONAL DE RIEGO	Par	Blanco y negro	Generales	11x2	11	84.304	Publicado	Jacqueline Torres	2016-6-4 00:00:00	
+101972	DIARIO EL DIA	Par	Blanco y negro	Generales	5x2	12	0	Publicado	Marcela Tello-ElDia	2016-6-4 00:00:00	
+103630	SONIA NATALIA TUPAYACHI MU?OZ	Par	Cuatricromia	Generales	12x2	12	0	Publicado	Marcela Tello-ElDia	2016-6-4 00:00:00	
+100546	SOC.COMERCIAL ALTOS LA SERENA LTDA	Par	Blanco y negro	Generales	5x2	12	8.937	Publicado	Nadia Randolph	2016-6-4 00:00:00	
+104147	INMOBILIARIA RENVAL SPA	Par	Cuatricromia	Generales	34x6	13	650.000	Publicado	Rene Pizarro	2016-6-4 00:00:00	
+104006	SOC. COMERCIAL ALCAPARRA LTDA.	Par	Blanco y negro	Generales	5x2	14	10.440	Publicado	Patricia Villena	2016-6-4 00:00:00	
+103327	ventura			UIP	5x1	14	8.937	Publicado	Maria_Amelia Hermosilla	2016-6-4 00:00:00	
+104055	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	5x2	14	0	Publicado	Miguel Apey	2016-6-4 00:00:00	
+102901	OMD CHILE S.A.	Impar	Cuatricromia	Generales	35x6	15	742.874	Publicado	Kathine Soto-Stgo	2016-6-4 00:00:00	
+104121	DIARIO EL DIA	Par	Cuatricromia	Generales	12x6	16	0	Arte	Marcela Tello-ElDia	2016-6-4 00:00:00	
+103784	BAKULIC RESTAURANT	Par	Blanco y negro	Generales	15x3	17	40.092	Publicado	Miguel Apey	2016-6-4 00:00:00	
+103795	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	17	8.306	Publicado	Miguel Apey	2016-6-4 00:00:00	
+104236	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	17	0	Arte	Marcela Tello-ElDia	2016-6-4 00:00:00	
+104379	DIARIO EL DIA	Par	Cuatricromia	Generales	34x6	19	0	Arte	Marcela Tello-ElDia	2016-6-4 00:00:00	
+104320	SERVICIO ELECTORAL	Par	Blanco y negro	Generales	12x6	24	212.250	Publicado	Jacqueline Torres	2016-6-4 00:00:00	
+104319	SERVICIO ELECTORAL	Impar	Blanco y negro	Generales	35x6	25	742.873	Publicado	Jacqueline Torres	2016-6-4 00:00:00	
+104318	SERVICIO ELECTORAL	Par	Blanco y negro	Generales	12x6	26	212.250	Publicado	Jacqueline Torres	2016-6-4 00:00:00	
+104317	SERVICIO ELECTORAL	Impar	Blanco y negro	Generales	35x6	27	742.874	Publicado	Jacqueline Torres	2016-6-4 00:00:00	
+104241	MINERA LOS PELAMBRES	Impar	Cuatricromia	Generales	34x3	29	721.649	Publicado	Marcela Tello-ElDia	2016-6-4 00:00:00	
+104105	CORPORACION MUNICIPAL DE TURISMO - 	Impar	Cuatricromia	Generales	35x6	31	1.040.023	Publicado	Miguel Apey	2016-6-4 00:00:00	
+104381	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	34	0	Arte	Marcela Tello-ElDia	2016-6-4 00:00:00	
+104239	CLUB DE DEPORTES LA SERENA	Par	Cuatricromia	Generales	17x3	34	0	Publicado	Marcela Tello-ElDia	2016-6-4 00:00:00	
+102953	SOCOR LTDA.	Par	Cuatricromia	Generales	6x6	35	127.350	Publicado	Miguel Apey	2016-6-4 00:00:00	
+103660	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	36	0	Arte	Marcela Tello-ElDia	2016-6-4 00:00:00	
+102775	SERVICIOS GASTRON?MICOS LA CASONA D	Par	Blanco y negro	Generales	5x2	37	10.725	Publicado	Miguel Apey	2016-6-4 00:00:00	
+102124	CERNA E HIJOS CIA. LTDA.	Par	Blanco y negro	Generales	5x1	37	4.524	Publicado	Nadia Randolph	2016-6-4 00:00:00	
+103721	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	37	0	Publicado	Marcela Tello-ElDia	2016-6-4 00:00:00	
+103292	sebastian iglesia			UIP	5x1	37	8.937	Publicado	Patricia Villena	2016-6-4 00:00:00	
+103494	DAVILA CARLOS			UIP	5x1	37	8.937	Publicado	Pedro Jaime	2016-6-4 00:00:00	
+103747	PILLA LA VACA	Par	Blanco y negro	Generales	5x2	37	0	Arte	Marcela Tello-ElDia	2016-6-4 00:00:00	
+103558	SOC. DE GESTION MEDITERRANEA			UIP	5x1	37	8.937	Publicado	Miguel Apey	2016-6-4 00:00:00	
+103304	GALLARDO Y OTRA			UIP	5x1	37	8.937	Publicado	Pedro Jaime	2016-6-4 00:00:00	
+103825	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	4x5	37	20.508	Publicado	Miguel Apey	2016-6-4 00:00:00	
+103544	AREVALO CARMEN 			UIP	5x1	37	8.937	Publicado	Pedro Jaime	2016-6-4 00:00:00	
+104281	SERVICIOS GENERALES GUAYACAN S.A	Par	Blanco y negro	Generales	4x2	38	6.666	Publicado	Jacqueline Torres	2016-6-4 00:00:00	
+104171	VELIZ CORTES JOSE A.	Par	Blanco y negro	Generales	3x2	38	13.403	Publicado	Pedro Cortes	2016-6-4 00:00:00	
+92234	FALABELLA RETAIL S.A.	Impar	Cuatricromia	Contraportada	35x6	40	600.000	Publicado	M Cristina Puga	2016-6-4 00:00:00	
+104202	DIARIO EL DIA	Par	Blanco y negro	Generales	5x2	EC-20	0	Arte	Marcela Tello-ElDia	2016-6-4 00:00:00	
+104340	CIA. DE LEASING TATTERSALL S.A.	Par	Blanco y negro	Generales	11x2	EC-21	69.487	Publicado	Pedro Jaime	2016-6-4 00:00:00	
+104380	DIARIO EL DIA	Par	Cuatricromia	Generales	17x6	EC-22	0	Arte	Marcela Tello-ElDia	2016-6-4 00:00:00	
+100927	HOTELERIA LUIS ALBERTO BERETTA KIEK	Par	Blanco y negro	Generales	5x2	EC-23	8.937	Publicado	Patricia Villena	2016-6-4 00:00:00	
+104336	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	10x2	EC-23	47.260	Publicado	Medios Regionales	2016-6-4 00:00:00	
+103912	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Generales	5x1	EC-23	5.860	Publicado	Rene Pizarro	2016-6-4 00:00:00	
+104035	COMERCIAL E.C.C.S.A.  S.A.		9 a 24 pag.	Inserto	x	INS	459.000	Publicado	M Cristina Puga	2016-6-4 00:00:00	
+104270	CARMEN AREVALO ROMERO	961 Palabras		Propiedades	x	PROP	153.760	Publicado	Pedro Jaime	2016-6-4 00:00:00	
+104375	GABRIEL ESPINOZA CANALES	500 Palabras		Propiedades	x	PROP	80.000	Publicado	Pedro Jaime	2016-6-4 00:00:00	
+104265	SOC. COMERCIAL LESSER Y CIA. LTDA.	323 Palabras		Propiedades	x	PROP	51.680	Publicado	Pedro Jaime	2016-6-4 00:00:00	

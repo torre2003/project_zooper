@@ -1,0 +1,13 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+157945	ANDRES AGUILERA CASTILLO	Par	Cuatricromia	Generales	10x2	03	6.813	Publicado	Karina Rivera		2018-6-9 00:00:00	
+157946	KAREN ALEJANDRA RAMIREZ BRICENO	Par	Cuatricromia	Generales	5x2	03	3.333	Publicado	Karina Rivera	FONOAUDIOLOGIA INFANTIL (GUIA PROFESIONAL)	2018-6-9 00:00:00	
+157973	PRENSA DEL LIMARI LTDA.	Par	Blanco y negro	Generales	17x3	04	0	Arte	Marcela Tello-ElDia	www.elovallino.cl - Vive la experiencia	2018-6-9 00:00:00	
+157974	PRENSA DEL LIMARI LTDA.	Par	Blanco y negro	Generales	12x4	05	0	Arte	Marcela Tello-ElDia	Nos trasladamos para ofrecerles un mejor servicio... El Ovallino	2018-6-9 00:00:00	
+157753	ASOC. CANALISTAS CANAL CAMARICO	Par	Blanco y negro	Generales	17x2	05	64.971	Publicado	Karina Rivera	CITACION CANALISTAS CAMARICO	2018-6-9 00:00:00	
+156542	JONATHAN CLAUDIO SANHUEZA OJEDA	Par	Cuatricromia	Generales	5x2	06	2.950	Publicado	Karina Rivera	TRAUMATOLOGO SANHUEZA (GUIA PROFESIONAL)	2018-6-9 00:00:00	
+157754	ESTUDIO JURIDICO POLO & CONTADOR	Par	Cuatricromia	Generales	5x2	06	3.931	Publicado	Karina Rivera	ESTUDIO JURIDICO POLO & CONTADOR (GUIA PROFESIONAL)	2018-6-9 00:00:00	
+156932	SERGIO ANTONIO ANDRADRE ARAYA	Par	Cuatricromia	Generales	17x2	06	9.671	Publicado	Karina Rivera	CENTRO ODONTOLOGICO SOCOS (GUIA PROFESIONAL)	2018-6-9 00:00:00	
+156822	SERVICIOS MEDICOS INVERSIONES E INM	Par	Cuatricromia	Generales	10x2	06	5.912	Publicado	Karina Rivera	CENTRO MEDICO CIM	2018-6-9 00:00:00	
+157243	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	08	0	Arte	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2018-6-9 00:00:00	
+157975	PRENSA DEL LIMARI LTDA.	Par	Blanco y negro	Generales	3x6	12	0	Arte	Marcela Tello-ElDia		2018-6-9 00:00:00	
+157976	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	6x6	14	0	Arte	Marcela Tello-ElDia	Cupones Descuentos Cinemark	2018-6-9 00:00:00	

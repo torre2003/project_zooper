@@ -1,0 +1,81 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+117973	CHRISTIAN LAUNITZ MARIN SERVICIOS M	Par	Blanco y negro	Generales	4x2	04	6.464	Publicado	Jacqueline Torres	2016-12-16 00:00:00	
+118964	OMD CHILE S.A.	Impar	Cuatricromia	Generales	17x6	05	336.535	Publicado	Patricia Villena	2016-12-16 00:00:00	
+118194	ARENA CHILE S.A.	Impar	Cuatricromia	Generales	17x6	07	0	Arte	M Cristina Puga	2016-12-16 00:00:00	
+118917	CALLEGARI LTDA.	Par	Cuatricromia	Generales	34x6	09	0	Arte	Marcela Tello-ElDia	2016-12-16 00:00:00	
+119050	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	10	0	Arte	Marcela Tello-ElDia	2016-12-16 00:00:00	
+118952	SOCIEDAD CONCESIONARIA RUTAS DEL AL	Par	Blanco y negro	Generales	18x3	10	212.605	Publicado	Pedro Jaime	2016-12-16 00:00:00	
+117712	DIARIO EL DIA	Par	Blanco y negro	Generales	5x2	11	0	Publicado	Marcela Tello-ElDia	2016-12-16 00:00:00	
+117747	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	5x2	11	0	Publicado	Miguel Apey	2016-12-16 00:00:00	
+118118	SOC. COMERCIAL NAPOLEON LTDA.	Impar	Blanco y negro	Generales	5x6	11	11.550	Publicado	Patricia Villena	2016-12-16 00:00:00	
+118871	ARZOBISPADO DE LA SERENA	Par	Blanco y negro	Generales	5x2	11	0	Arte	Marcela Tello-ElDia	2016-12-16 00:00:00	
+117561	WALMART CHILE S.A	Impar	Cuatricromia	Contraportada	35x6	12	600.000	Publicado	M Cristina Puga	2016-12-16 00:00:00	
+117560	WALMART CHILE S.A	Par	Cuatricromia	Generales	35x6	13	600.000	Publicado	M Cristina Puga	2016-12-16 00:00:00	
+116701	OVALLE CASINO RESORT S.A	Par	Cuatricromia	Generales	25x4	14	205.072	Publicado	Paola Marquez	2016-12-16 00:00:00	
+118989	AUTOMOTORES GILDEMEISTER S.A.	Impar	Cuatricromia	Generales	35x6	15	1.098.161	Publicado	Kathine Soto-Stgo	2016-12-16 00:00:00	
+117995	MARTIN JURE PATRICIA	Par	Cuatricromia	Generales	12x3	16	0	Publicado	Marcela Tello-ElDia	2016-12-16 00:00:00	
+118985	ANDREA VALLADARES FAJARDO	Par	Cuatricromia	Generales	17x3	16	169.954	Publicado	Miguel Apey	2016-12-16 00:00:00	
+118915	CALLEGARI LTDA.	Par	Cuatricromia	Generales	34x6	17	570.996	Publicado	Marcela Tello-ElDia	2016-12-16 00:00:00	
+118551	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Cuatricromia	Medios Regionales	16x6	18	309.344	Publicado	Medios Regionales	2016-12-16 00:00:00	
+118943	CLUB PLAYA BLANCA	Par	Cuatricromia	Generales	17x6	20	0	Publicado	Paola Marquez	2016-12-16 00:00:00	
+118942	SOC. COMERCIAL GRAN MAR TONGOY LTDA	Par	Cuatricromia	Generales	17x3	21	130.734	Publicado	Paola Marquez	2016-12-16 00:00:00	
+118941	GASTRONOMICA MARCOS TAPIA GARCIA EI	Par	Cuatricromia	Generales	17x3	21	130.734	Publicado	Paola Marquez	2016-12-16 00:00:00	
+118977	CONSTRUCTORA CADEL LTDA.	Par	Cuatricromia	Generales	34x6	22	400.000	Publicado	Rene Pizarro	2016-12-16 00:00:00	
+117437	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	23	8.306	Publicado	Miguel Apey	2016-12-16 00:00:00	
+119033	UNIVERSIDAD DE LA SERENA	Par	Cuatricromia	Generales	17x6	24	355.594	Publicado	Jacqueline Torres	2016-12-16 00:00:00	
+119034	IMPORTADORA TRENTO LTDA.	Par	Cuatricromia	Generales	34x6	25	285.498	Publicado	Marcela Tello-ElDia	2016-12-16 00:00:00	
+119029	CALZADOS LA ESTRELLA ALPINA	Par	Cuatricromia	Generales	10x4	29	102.536	Publicado	M Cristina Puga	2016-12-16 00:00:00	
+117414	BAKULIC RESTAURANT	Par	Cuatricromia	Generales	10x2	31	24.609	Publicado	Miguel Apey	2016-12-16 00:00:00	
+117292	SERVICIOS GASTRON?MICOS LA CASONA D	Par	Blanco y negro	Generales	5x2	31	10.725	Publicado	Miguel Apey	2016-12-16 00:00:00	
+115072	SOC. HOTELERA VICHUQUEN LTDA.	Par	Cuatricromia	Generales	5x3	31	0	Publicado	Marcela Tello-ElDia	2016-12-16 00:00:00	
+117495	HOTEL COSTA REAL	Par	Cuatricromia	Generales	10x2	31	30.761	Publicado	Miguel Apey	2016-12-16 00:00:00	
+115398	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	31	0	Publicado	Marcela Tello-ElDia	2016-12-16 00:00:00	
+115682	MARTIN JURE PATRICIA	Par	Cuatricromia	Generales	5x3	31	0	Publicado	Marcela Tello-ElDia	2016-12-16 00:00:00	
+115621	PILLA LA VACA	Par	Cuatricromia	Generales	5x2	31	0	Publicado	Marcela Tello-ElDia	2016-12-16 00:00:00	
+118922	DIARIO EL DIA	Par	Cuatricromia	Generales	14x6	32	0	Arte	Marcela Tello-ElDia	2016-12-16 00:00:00	
+119051	CALLEGARI LTDA.	Par	Cuatricromia	Generales	34x6	33	570.996	Publicado	Marcela Tello-ElDia	2016-12-16 00:00:00	
+118601	SEREMI MINVU IV REGION	Par	Cuatricromia	Generales	35x6	35	732.107	Publicado	Jacqueline Torres	2016-12-16 00:00:00	
+118720	DABED Y CIA. LTDA., SELIM	Par	Blanco y negro	Generales	6x6	36	27.690	Publicado	Karina Rivera	2016-12-16 00:00:00	
+117468	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	4x5	37	20.508	Publicado	Miguel Apey	2016-12-16 00:00:00	
+117682	armaq			UIP	5x1	37	8.937	Publicado	Claudio Romero	2016-12-16 00:00:00	
+118091	ICEFOOD LIMITADA	Par	Blanco y negro	Generales	5x2	37	8.925	Publicado	Patricia Villena	2016-12-16 00:00:00	
+114326	GESTION NORTE	Par	Blanco y negro	Generales	5x2	37	9.280	Publicado	Patricia Villena	2016-12-16 00:00:00	
+115534	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	37	0	Publicado	Marcela Tello-ElDia	2016-12-16 00:00:00	
+117340	MARIA VARAS			UIP	5x1	37	8.937	Publicado	Pedro Jaime	2016-12-16 00:00:00	
+114794	CERNA E HIJOS CIA. LTDA.	Par	Blanco y negro	Generales	5x1	37	4.468	Publicado	Nadia Randolph	2016-12-16 00:00:00	
+118417	PABLO NU?EZ RENCORET	Par	Blanco y negro	Generales	5x2	37	36.620	Publicado	Pedro Jaime	2016-12-16 00:00:00	
+116894	SOC. DE GES			UIP	5x1	37	8.937	Publicado	Miguel Apey	2016-12-16 00:00:00	
+118973	SOC. EMERGENCIA MOVIL INTEGRAL LTDA	Par	Blanco y negro	Generales	12x2	38	52.733	Publicado	Rene Pizarro	2016-12-16 00:00:00	
+118280	SERVICIOS GENERALES GUAYACAN S.A	Par	Blanco y negro	Generales	4x2	38	6.666	Publicado	Jacqueline Torres	2016-12-16 00:00:00	
+118792	VELIZ CORTES JOSE A.	Par	Blanco y negro	Generales	3x2	38	13.403	Publicado	Pedro Cortes	2016-12-16 00:00:00	
+118372	DAVILA CARLOS			UIP	5x1	39	8.937	Publicado	Pedro Jaime	2016-12-16 00:00:00	
+118899	EMPRESAS LA POLAR S.A.	Impar	Cuatricromia	Generales	35x6	40	0	Publicado	Patricia Villena	2016-12-16 00:00:00	
+118996	BANCO DE CHILE	713 Palabras		Legal	x	EC	176.975	Publicado	Pedro Jaime	2016-12-16 00:00:00	
+118995	BANCO DE CHILE	605 Palabras		Legal	x	EC	150.168	Publicado	Pedro Jaime	2016-12-16 00:00:00	
+118994	BANCO DE CHILE	609 Palabras		Legal	x	EC	151.176	Publicado	Pedro Jaime	2016-12-16 00:00:00	
+118886	SANTANDER G.R.C.	Par	Blanco y negro	Generales	18x1	EC-26	65.916	Publicado	Pedro Jaime	2016-12-16 00:00:00	
+118820	MARTIN JURE PATRICIA	Par	Blanco y negro	Generales	7x1	EC-26	0	Publicado	Marcela Tello-ElDia	2016-12-16 00:00:00	
+119000	DIARIO EL DIA	Par	Blanco y negro	Generales	5x2	EC-26	0	Arte	Marcela Tello-ElDia	2016-12-16 00:00:00	
+119037	JOEL CORTES HENRIQUEZ	107 Palabras		Legal	x	EC-27	26.536	Publicado	Pedro Jaime	2016-12-16 00:00:00	
+108986	HOTELERIA LUIS ALBERTO BERETTA KIEK	Par	Blanco y negro	Generales	5x2	EC-27	6.994	Publicado	Patricia Villena	2016-12-16 00:00:00	
+117636	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Generales	5x1	EC-27	5.860	Publicado	Rene Pizarro	2016-12-16 00:00:00	
+118919	IP PROYECTOS INDUSTRIALES LTDA.	Par	Blanco y negro	Generales	6x2	EC-27	43.944	Publicado	Pedro Jaime	2016-12-16 00:00:00	
+119023	JACQUELINE BARRERA BARRAZA	619 Palabras		Propiedades	x	PROP	99.040	Publicado	Pedro Jaime	2016-12-16 00:00:00	
+119024	GONZALEZ ADAROS MARIA SOLEDAD	694 Palabras		Propiedades	x	PROP	111.040	Publicado	Pedro Jaime	2016-12-16 00:00:00	
+119007	JORGE LLANOS TORRES	307 Palabras		Propiedades	x	PROP	49.120	Publicado	Pedro Jaime	2016-12-16 00:00:00	
+119038	NIDIA MARIANELA CARRASCO	188 Palabras		Propiedades	x	PROP	30.080	Publicado	Pedro Jaime	2016-12-16 00:00:00	
+119039	INMOBILIARIA COSTA NORTE LTDA	139 Palabras		Propiedades	x	PROP	22.269	Publicado	Pedro Jaime	2016-12-16 00:00:00	
+119040	FERNANDO JARA BENAVENTE	168 Palabras		Propiedades	x	PROP	26.880	Publicado	Pedro Jaime	2016-12-16 00:00:00	
+119022	RODRIGUEZ ROJAS MARCELO	427 Palabras		Propiedades	x	PROP	68.320	Publicado	Pedro Jaime	2016-12-16 00:00:00	
+119021	GONZALEZ RIVERA MANUEL RICARDO	541 Palabras		Propiedades	x	PROP	86.560	Publicado	Pedro Jaime	2016-12-16 00:00:00	
+118991	INMOBIL. STA. MONICA S.A.	197 Palabras		Propiedades	x	PROP	31.541	Publicado	Pedro Jaime	2016-12-16 00:00:00	
+119009	SOC. COMERCIAL INV. GENERALES LTDA.	402 Palabras		Propiedades	x	PROP	64.320	Publicado	Pedro Jaime	2016-12-16 00:00:00	
+119010	YOLANDA ELIAS CAMBLOR	348 Palabras		Propiedades	x	PROP	55.680	Publicado	Pedro Jaime	2016-12-16 00:00:00	
+119011	CECILIA OLIVARES	450 Palabras		Propiedades	x	PROP	72.000	Publicado	Pedro Jaime	2016-12-16 00:00:00	
+119008	JULIA ALDUNATE GUERRA	137 Palabras		Propiedades	x	PROP	21.920	Publicado	Pedro Jaime	2016-12-16 00:00:00	
+119012	LILIAN ELIZABETH OLIVARES LANAS	928 Palabras		Propiedades	x	PROP	148.480	Publicado	Pedro Jaime	2016-12-16 00:00:00	
+119015	GABRIELA ARENAS O'RYAN	224 Palabras		Propiedades	x	PROP	35.840	Publicado	Pedro Jaime	2016-12-16 00:00:00	
+119019	FERES REBOLLEDO ANA ISABEL	502 Palabras		Propiedades	x	PROP	80.320	Publicado	Pedro Jaime	2016-12-16 00:00:00	
+119020	HARRISON GESTIONES INMOBILIARIA SPA	170 Palabras		Propiedades	x	PROP	27.200	Publicado	Pedro Jaime	2016-12-16 00:00:00	
+118661	INVERSIONES E INMOBILIARIA P.A.T.  			Revista Cosas	x	RC	243.000	Publicado	Miguel Apey	2016-12-16 00:00:00	
+117174	INMOBIL. E INVERSIONES AREYUNA E HI			Revista Cosas	x	RC	350.000	Publicado	Claudio Romero	2016-12-16 00:00:00	

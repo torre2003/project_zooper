@@ -1,0 +1,52 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+155776	WALMART CHILE S.A	Impar	Cuatricromia	Generales	35x6	05	600.000	Publicado	M Cristina Puga	2018-5-26 00:00:00	
+156763	CLARO CHILE S.A.	Impar	Cuatricromia	Generales	35x6	07	646.000	Publicado	Kathine Soto-Stgo	2018-5-26 00:00:00	
+156765	CALLEGARI LTDA.	Par	Cuatricromia	Generales	17x6	09	0	Arte	Marcela Tello-ElDia	2018-5-26 00:00:00	
+155317	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	5x2	11	0	Publicado	Miguel Apey	2018-5-26 00:00:00	
+155587	DIARIO EL DIA	Par	Blanco y negro	Generales	5x2	11	0	Publicado	Marcela Tello-ElDia	2018-5-26 00:00:00	
+156766	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	16x3	11	119.088	Arte	Medios Regionales	2018-5-26 00:00:00	
+156514	DIARIO EL DIA	Par	Cuatricromia	Generales	17x6	12	0	Publicado	Marcela Tello-ElDia	2018-5-26 00:00:00	
+156700	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Cuatricromia	Medios Regionales	32x6	13	582.024	Arte	Medios Regionales	2018-5-26 00:00:00	
+154755	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	14	0	Publicado	Marcela Tello-ElDia	2018-5-26 00:00:00	
+155231	INMOBILIARIA ECASA CHILE S.A.	Par	Cuatricromia	Generales	34x6	15	360.000	Publicado	Paola Marquez	2018-5-26 00:00:00	
+155023	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	16	0	Publicado	Marcela Tello-ElDia	2018-5-26 00:00:00	
+155256	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	17	8.306	Publicado	Miguel Apey	2018-5-26 00:00:00	
+156784	DIARIO EL DIA	Par	Cuatricromia	Generales	6x6	17	0	Arte	Marcela Tello-ElDia	2018-5-26 00:00:00	
+156439	DIARIO EL DIA	Par	Cuatricromia	Generales	6x6	18	0	Publicado	Marcela Tello-ElDia	2018-5-26 00:00:00	
+156329	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Cuatricromia	Medios Regionales	32x6	19	582.024	Publicado	Medios Regionales	2018-5-26 00:00:00	
+156640	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Cuatricromia	Medios Regionales	16x6	21	343.848	Publicado	Medios Regionales	2018-5-26 00:00:00	
+156520	DIARIO EL DIA	Par	Cuatricromia	Generales	17x6	22	0	Publicado	Marcela Tello-ElDia	2018-5-26 00:00:00	
+156785	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	23	0	Arte	Marcela Tello-ElDia	2018-5-26 00:00:00	
+156509	SANTANDER G.R.C.	Par	Blanco y negro	Generales	34x6	27	756.303	Publicado	Pedro Jaime	2018-5-26 00:00:00	
+156247	DABED Y CIA. LTDA., SELIM	Par	Cuatricromia	Generales	6x6	29	27.690	Publicado	Karina Rivera	2018-5-26 00:00:00	
+155054	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	30	0	Publicado	Marcela Tello-ElDia	2018-5-26 00:00:00	
+156384	SARA ELIANA ALVEAR MENESES			UIP	5x1	30	8.937	Publicado	Pedro Jaime	2018-5-26 00:00:00	
+154379	CERNA E HIJOS CIA. LTDA.	Par	Blanco y negro	Generales	5x1	30	3.566	Publicado	Nadia Randolph	2018-5-26 00:00:00	
+154899	ARMAQ SUBIRI S.A.			UIP	5x1	30	8.937	Publicado	Claudio Romero	2018-5-26 00:00:00	
+155287	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	4x5	30	20.508	Publicado	Miguel Apey	2018-5-26 00:00:00	
+156340	LUIS MUNDACA URQUIETA			UIP	10x1	30	17.875	Publicado	Claudio Romero	2018-5-26 00:00:00	
+155075	PILLA LA VACA	Par	Blanco y negro	Generales	5x2	30	0	Publicado	Marcela Tello-ElDia	2018-5-26 00:00:00	
+155765	SOC. DE GES			UIP	5x1	30	8.937	Publicado	Miguel Apey	2018-5-26 00:00:00	
+155359	C.M. SOC. GASTRONOMICA LTDA.			UIP	5x2	30	7.208	Publicado		2018-5-26 00:00:00	
+156588	CLUB DEPORTES COQUIMBO UNIDO	Par	Cuatricromia	Generales	17x3	31	0	Publicado	Marcela Tello-ElDia	2018-5-26 00:00:00	
+155554	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	33	0	Publicado	Marcela Tello-ElDia	2018-5-26 00:00:00	
+155422	CAMPOS DEL NORTE S.A.	Par	Cuatricromia	Generales	17x3	33	0	Publicado	Patricia Villena	2018-5-26 00:00:00	
+156758	DIARIO EL DIA	Par	Blanco y negro	Generales	35x6	34	0	Arte	Carolina Naranjo	2018-5-26 00:00:00	
+156787	DIARIO EL DIA	Par	Cuatricromia	Generales	34x6	35	0	Arte	Marcela Tello-ElDia	2018-5-26 00:00:00	
+156547	FUNDACI?N CRUZ DEL TERCER MILENIO	Par	Blanco y negro	Generales	10x3	36	82.672	Publicado	Pedro Jaime	2018-5-26 00:00:00	
+156788	DIARIO EL DIA	Par	Cuatricromia	Generales	4x6	36	0	Arte	Marcela Tello-ElDia	2018-5-26 00:00:00	
+155954	GUSTAVO TORRES MENDOZA	Par	Blanco y negro	Generales	5x2	39	12.000	Publicado	Heinger Vega Torres	2018-5-26 00:00:00	
+155958	JUAN SEBASTIAN BOU LAGUNAS	Par	Blanco y negro	Generales	5x2	39	0	Publicado	Heinger Vega Torres	2018-5-26 00:00:00	
+155951	ANDREA YAZIGI SFEIR	Par	Blanco y negro	Generales	5x2	39	8.404	Publicado	Heinger Vega Torres	2018-5-26 00:00:00	
+156690	INMOBILIARIA ELQUI S.A.	Par	Cuatricromia	Generales	35x6	40	0	Publicado	M Cristina Puga	2018-5-26 00:00:00	
+156777	SERV. VIVIENDA Y URBANIZACION IV RE	Par	Blanco y negro	Generales	10x2	EC-24	57.274	Publicado	Jacqueline Torres	2018-5-26 00:00:00	
+156573	PELLEGRINI AGUIRRE LUCIA MARCELA	Par	Blanco y negro	Generales	4x2	EC-24	29.296	Publicado	Pedro Jaime	2018-5-26 00:00:00	
+156746	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	4x2	EC-24	19.848	Arte	Medios Regionales	2018-5-26 00:00:00	
+156697	INVERSIONES VEINTINUEVE GRADOS	Par	Blanco y negro	Economico	10x2	EC-25	25.268	Publicado	Jacqueline Torres	2018-5-26 00:00:00	
+156748	CIA. DE LEASING TATTERSALL S.A.	Par	Blanco y negro	Generales	11x2	EC-25	69.487	Publicado	Pedro Jaime	2018-5-26 00:00:00	
+156786	DIARIO EL DIA	Par	Cuatricromia	Generales	4x6	EC-26	0	Arte	Marcela Tello-ElDia	2018-5-26 00:00:00	
+152077	HOTELERIA LUIS ALBERTO BERETTA KIEK	Par	Blanco y negro	Generales	5x2	EC-26	6.061	Publicado	Patricia Villena	2018-5-26 00:00:00	
+154823	SOC. COMERCIAL VARGAS Y GIACOMET			UIP	5x1	EC-26	7.149	Publicado	Rene Pizarro	2018-5-26 00:00:00	
+154858	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Economico	5x2	EC-26	15.161	Publicado	Rene Pizarro	2018-5-26 00:00:00	
+156502	COMERCIAL E.C.C.S.A.  S.A.		Hasta 8 pag.	Inserto	x	INS	408.000	Publicado	M Cristina Puga	2018-5-26 00:00:00	
+155783	COOP. AGRICOLA PISQUERA ELQUI LTDA.		Hasta 8 pag.	Inserto	x	INS	2.600.000	Publicado	M Cristina Puga	2018-5-26 00:00:00	

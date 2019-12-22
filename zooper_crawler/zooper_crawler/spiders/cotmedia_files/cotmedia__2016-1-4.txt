@@ -1,0 +1,32 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+92543	ABRIL PUBLICIDAD INVERSIONES Y ASES	Impar	Cuatricromia	Generales	35x6	05	824.511	Publicado	Patricia Villena	2016-1-4 00:00:00	
+92657	DIARIO EL DIA	Par	Cuatricromia	Generales	17x6	06	0	Publicado	Marcela Tello-ElDia	2016-1-4 00:00:00	
+92552	PHD CHILE S.A.	Impar	Cuatricromia	Generales	35x6	09	1.000.000	Publicado	Patricia Villena	2016-1-4 00:00:00	
+91976	SINDY GONZALEZ MARCHANT	Par	Blanco y negro	Generales	12x2	10	0	Publicado	Marcela Tello-ElDia	2016-1-4 00:00:00	
+92258	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	5x2	10	0	Publicado	Miguel Apey	2016-1-4 00:00:00	
+92090	LABORATORIO CLINICO STA. MARIA LA S	Par	Blanco y negro	Generales	6x2	10	7.470	Publicado	Miguel Apey	2016-1-4 00:00:00	
+92253	HABITA INMOBILIARIA SA	Par	Cuatricromia	Generales	35x3	11	0	Publicado	Miguel Apey	2016-1-4 00:00:00	
+92108	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	12	8.306	Publicado	Miguel Apey	2016-1-4 00:00:00	
+92151	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	4x5	13	20.508	Publicado	Miguel Apey	2016-1-4 00:00:00	
+87441	GUERRERO SERANTONI Y CIA. LTDA.	Par	Blanco y negro	Generales	5x1	13	5.527	Publicado	Pedro Jaime	2016-1-4 00:00:00	
+92455	ARMAQ			UIP	5x1	13	8.937	Publicado	Claudio Romero	2016-1-4 00:00:00	
+92057	DIARIO EL DIA	Par	Blanco y negro	Generales	5x2	13	0	Publicado	Marcela Tello-ElDia	2016-1-4 00:00:00	
+91989	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	13	0	Publicado	Marcela Tello-ElDia	2016-1-4 00:00:00	
+90900	SOC. DE GESTION MEDITERRANEA			UIP	5x1	13	8.937	Publicado	Miguel Apey	2016-1-4 00:00:00	
+91052	CERNA E HIJOS CIA. LTDA.	Par	Blanco y negro	Generales	5x1	13	4.492	Publicado	Nadia Randolph	2016-1-4 00:00:00	
+91270	Alejandro ra			UIP	5x1	13	4.467	Publicado	M Cristina Puga	2016-1-4 00:00:00	
+91352	SOC. RAMON MOYA FUENTES 			UIP	10x1	13	8.938	Publicado	Miguel Apey	2016-1-4 00:00:00	
+91420	oasis			UIP	5x1	13	8.937	Publicado	Italo Retamal	2016-1-4 00:00:00	
+91928	CARMEN AREVALO ROMERO	Par	Blanco y negro	Generales	5x1	13	8.937	Publicado	Pedro Jaime	2016-1-4 00:00:00	
+91930	SOCIEDAD ALLTIME	Par	Blanco y negro	Generales	5x1	13	8.937	Publicado	Pedro Jaime	2016-1-4 00:00:00	
+91582	SOC. COMERCIAL ALCAPARRA LTDA.	Par	Blanco y negro	Generales	5x2	13	10.440	Publicado	Patricia Villena	2016-1-4 00:00:00	
+92398	UNIVERSIDAD DE ACONCAGUA	Par	Blanco y negro	Generales	10x3	15	146.480	Publicado	Rene Pizarro	2016-1-4 00:00:00	
+92649	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	6x2	15	26.088	Publicado	Medios Regionales	2016-1-4 00:00:00	
+92594	SERVICIO DE REGISTRO CIVIL E IDENTI	Par	Blanco y negro	Generales	35x6	20-22	572.595	Publicado	Jacqueline Torres	2016-1-4 00:00:00	
+92254	INVERSIONES E INMOBILIARIA P.A.T.  	Par	Cuatricromia	Generales	9x6	27	0	Publicado	Miguel Apey	2016-1-4 00:00:00	
+92530	DIARIO EL DIA	Par	Cuatricromia	Generales	12x6	28	0	Publicado	Marcela Tello-ElDia	2016-1-4 00:00:00	
+92481	SERVICIOS GENERALES GUAYACAN S.A	Par	Blanco y negro	Generales	3x2	30	6.667	Publicado	Jacqueline Torres	2016-1-4 00:00:00	
+92606	CLARO CHILE S.A.	Impar	Cuatricromia	Generales	35x6	32	645.977	Publicado	Kathine Soto-Stgo	2016-1-4 00:00:00	
+91929	CARMEN AREVALO ROMERO	Par	Blanco y negro	Generales	5x1	EC-18	8.937	Publicado	Pedro Jaime	2016-1-4 00:00:00	
+92366	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Generales	5x1	EC-18	5.860	Publicado	Rene Pizarro	2016-1-4 00:00:00	
+92665	DIARIO EL DIA	Par	Blanco y negro	Generales	34x6	EC-19	0	Publicado	Marcela Tello-ElDia	2016-1-4 00:00:00	

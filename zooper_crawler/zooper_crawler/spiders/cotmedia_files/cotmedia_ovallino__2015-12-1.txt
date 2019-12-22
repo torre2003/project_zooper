@@ -1,0 +1,8 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+89095	RIO L			UIP	10x6	03	16.260	Publicado	Claudio Romero	PROYECTO MIRADOR OVALLE..	2015-12-1 00:00:00	
+89334	JUAN CARLOS AQUEZ JILES	Par	Blanco y negro	Generales	5x2	05	1.429	Publicado	Italo Retamal	Capacitaciones 	2015-12-1 00:00:00	
+89521	PAMELA HARDER SANTOS	Par	Blanco y negro	Generales	5x2	05	1.428	Publicado	Italo Retamal	venta de casa harder	2015-12-1 00:00:00	
+88711	ADA D?AZ ARAYA	Par	Blanco y negro	Generales	5x2	07	1.428	Publicado	Italo Retamal	zona ganjah	2015-12-1 00:00:00	
+90295	DIARIO EL DIA	Par	Cuatricromia	Generales	17x6	08	0	Publicado	Marcela Tello-ElDia	ENTREVISTA GANADORA REGION COQUIMBO	2015-12-1 00:00:00	
+84105	ILUSTRE MUNICIPALIDAD DE OVALLE	Impar	Cuatricromia	Generales	12x3	09	83.333	Publicado	Italo Retamal	Municipalidad ovalle 	2015-12-1 00:00:00	
+90110	ABRIL PUBLICIDAD INVERSIONES Y ASES	Par	Cuatricromia	Generales	35x6	16	445.386	Publicado	Patricia Villena		2015-12-1 00:00:00	

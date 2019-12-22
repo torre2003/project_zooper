@@ -1,0 +1,11 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+118047	ARENA CHILE S.A.	Impar	Cuatricromia	Generales	17x6	03	200.000	Publicado	M Cristina Puga	volkswagen/primeras impar	2016-12-29 00:00:00	
+115502	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	06	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2016-12-29 00:00:00	
+119468	tanguemar			UIP	5x2	07	2.808	Publicado	Patricia Villena	Tanguemar	2016-12-29 00:00:00	
+119249	AGRICOLA NORTE TALINAY LTDA	Par	Blanco y negro	Generales	5x2	07	1.666	Publicado	Paola Marquez	UIP VENTA ALFALFA	2016-12-29 00:00:00	
+119655	UNIVERSIDAD TECNOLOGICA DE CHILE	Par	Cuatricromia	Generales	35x6	08	519.057	Publicado	Patricia Villena	Centrales Inacap gratuidad	2016-12-29 00:00:00	
+119656	UNIVERSIDAD TECNOLOGICA DE CHILE	Impar	Cuatricromia	Generales	35x6	09	622.869	Publicado	Patricia Villena	Centrales Inacap gratuidad	2016-12-29 00:00:00	
+118322	COMERCIAL AVA 			UIP	10x2	11	7.882	Publicado	Karina Rivera	E BODY OVALLE	2016-12-29 00:00:00	
+117868	OVALLEMAR			UIP	5x2	11	3.958	Publicado	Karina Rivera	OVALLE MAR	2016-12-29 00:00:00	
+118704	CENTRO DE ESTETICA INTEGRAL CARLA			UIP	10x2	13	5.630	Publicado	Karina Rivera	ESTETICA CARLA FIGUEROA	2016-12-29 00:00:00	
+118594	CABARET Y SALON DE ESPECTACULOS ART			UIP	10x2	14	5.517	Publicado	Karina Rivera	PARADISE CLUB	2016-12-29 00:00:00	

@@ -1,0 +1,11 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+86851	SOCIEDAD DE RENTAS FALABELLA S.A	Impar	Cuatricromia	Generales	8x6	01	50.980	Publicado	M Cristina Puga	Huincha en portada Open 	2015-10-29 00:00:00	
+87627	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	35x6	03	0	Publicado	Marcela Tello-ElDia		2015-10-29 00:00:00	
+87128	socinget			UIP	10x2	05	5.630	Publicado	Italo Retamal		2015-10-29 00:00:00	
+86975	linea			UIP	10x2	05	5.630	Publicado	Italo Retamal	seguridad 	2015-10-29 00:00:00	
+87032	BIANCA DASOLI	Par	Blanco y negro	Generales	5x2	05	1.429	Publicado	Italo Retamal	tarot	2015-10-29 00:00:00	
+87269	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x3	06	0	Publicado	Marcela Tello-ElDia	teatro tres tigres en Ovalle	2015-10-29 00:00:00	
+87615	JOSE CONTADOR DURAN	Par	Blanco y negro	Generales	5x2	07	1.428	Publicado	Italo Retamal	arriendo local	2015-10-29 00:00:00	
+87000	FERNANDO SANCHEZ			UIP	5x2	07	2.808	Publicado	Italo Retamal	busca agua	2015-10-29 00:00:00	
+87266	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	12x6	11	0	Publicado	Marcela Tello-ElDia	obra de teatro	2015-10-29 00:00:00	
+85974	SOCIEDAD COMERCIAL KATANKURA LTDA	Par	Cuatricromia	Generales	6x6	14	25.000	Publicado	Italo Retamal	evento katankura 	2015-10-29 00:00:00	

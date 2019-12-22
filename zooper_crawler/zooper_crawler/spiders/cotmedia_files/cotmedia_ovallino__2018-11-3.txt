@@ -1,0 +1,13 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+169224	CAMPOS DEL NORTE S.A.	Par	Cuatricromia	Generales	5x6	01	23.333	Publicado	Patricia Villena	Franja Enjoy Portada EL Ovallino	2018-11-3 00:00:00	
+168929	FUNDACI?N EDUC. URZECAM Y OTROS	Par	Blanco y negro	Generales	12x2	05	58.474	Publicado	Claudio Romero		2018-11-3 00:00:00	
+169200	DABED Y CIA. LTDA., SELIM	Par	Cuatricromia	Generales	6x6	06	23.076	Publicado	Karina Rivera	O1	2018-11-3 00:00:00	
+169353	PRENSA DEL LIMARI LTDA.	Par	Blanco y negro	Generales	8x3	07	0	Arte	Marcela Tello-ElDia	Nos trasladamos para ofrecerles un mejor servicio... El Ovallino	2018-11-3 00:00:00	
+169274	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	6x3	08	0	Arte	Marcela Tello-ElDia	Convenio Dabed y Diario El Ovallino	2018-11-3 00:00:00	
+168580	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	09	0	Arte	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2018-11-3 00:00:00	
+169354	PRENSA DEL LIMARI LTDA.	Par	Blanco y negro	Generales	12x6	12	0	Arte	Marcela Tello-ElDia	Vive la experiencia de estar bien informado...	2018-11-3 00:00:00	
+168338	MOP OOPP	117 Palabras		Legal	x	14	29.016	Publicado	Karina Rivera		2018-11-3 00:00:00	
+168340	MOP OOPP	194 Palabras		Legal	x	14	48.112	Publicado	Karina Rivera		2018-11-3 00:00:00	
+168339	MOP OOPP	201 Palabras		Legal	x	14	49.848	Publicado	Karina Rivera		2018-11-3 00:00:00	
+169355	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	6x6	14	0	Arte	Marcela Tello-ElDia		2018-11-3 00:00:00	
+168938	EMPRESAS LA POLAR S.A.	Par	Cuatricromia	Contraportada	35x6	16	252.000	Publicado	Patricia Villena	Contraportada La Polar	2018-11-3 00:00:00	

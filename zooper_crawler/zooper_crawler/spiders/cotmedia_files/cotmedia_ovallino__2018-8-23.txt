@@ -1,0 +1,8 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+162287	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	3x6	06	0	Arte	Marcela Tello-ElDia	Periodismo en todos los sentidos...	2018-8-23 00:00:00	
+161409	OSSANDON PRESTACIONES MEDICAS Y OTR			UIP	5x2	08	3.879	Publicado	Karina Rivera	MEDICO CIRUJANO ALEJANDRO MANRIQUEZ	2018-8-23 00:00:00	
+160579	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	09	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2018-8-23 00:00:00	
+162269	EMPRESA PERIODISTICA EL NORTE S.A.	Par	Blanco y negro	Medios Regionales	8x2	11	24.272	Publicado	Medios Regionales		2018-8-23 00:00:00	
+162275	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x3	11	0	Arte	Marcela Tello-ElDia	Provincial Ovalle Vs. Deportes Rengo	2018-8-23 00:00:00	
+162288	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	6x6	14	0	Arte	Marcela Tello-ElDia		2018-8-23 00:00:00	
+161193	INMOBILIARIA ECASA CHILE S.A.	Par	Cuatricromia	Generales	34x6	16	350.000	Publicado	Paola Marquez	Ecasa Oficinas HA	2018-8-23 00:00:00	

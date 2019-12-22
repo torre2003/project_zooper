@@ -1,0 +1,54 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+74755	SOC. INMOBILIARIA E INVERSIONES CHI	Impar	Cuatricromia	Generales	10x2	04	102.536	Publicado	Claudio Romero	2015-4-28 00:00:00	
+72748	CHRISTIAN LAUNITZ MARIN SERVICIOS M	Par	Blanco y negro	Generales	3x2	04	5.476	Publicado	Jacqueline Torres	2015-4-28 00:00:00	
+74587	ENTEL PCS	Impar	Cuatricromia	Generales	35x6	05	750.000	Publicado	Kathine Soto-Stgo	2015-4-28 00:00:00	
+71944	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	08-15	8.306	Publicado	Miguel Apey	2015-4-28 00:00:00	
+73897	CAMARA CHILENA DE LA CONSTRUCCION A	Impar	Cuatricromia	Generales	35x6	09	839.769	Publicado	Jacqueline Torres	2015-4-28 00:00:00	
+74701	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Cuatricromia	Medios Regionales	16x6	11	309.344	Publicado	Medios Regionales	2015-4-28 00:00:00	
+74570	DESIDERIO LISBOA EIRL.	Par	Blanco y negro	Generales	17x3	12	0	Publicado	Claudio Romero	2015-4-28 00:00:00	
+74210	ARMAQ SUBIRI S.A.	Par	Cuatricromia	Generales	17x3	13	150.000	Publicado	Claudio Romero	2015-4-28 00:00:00	
+74706	CAMAL MUSALEM TAPIA Y CIA.	Par	Cuatricromia	Generales	17x6	14	0	Publicado	Marcela Tello-ElDia	2015-4-28 00:00:00	
+74086	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	10x2	15	43.480	Publicado	Medios Regionales	2015-4-28 00:00:00	
+72324	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	10x3	15	0	Publicado	Marcela Tello-ElDia	2015-4-28 00:00:00	
+73570	ILUSTRE MUNICIPALIDAD DE LA SERENA	Par	Cuatricromia	Generales	10x6	16	243.011	Publicado	M Cristina Puga	2015-4-28 00:00:00	
+72475	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Blanco y negro	Generales	6x6	17	0	Publicado	Claudio Romero	2015-4-28 00:00:00	
+74539	DIARIO EL DIA	Impar	Blanco y negro	Generales	35x6	22	0	Publicado	Carolina Naranjo	2015-4-28 00:00:00	
+74538	DIARIO EL DIA	Par	Blanco y negro	Generales	35x6	23	0	Publicado	Carolina Naranjo	2015-4-28 00:00:00	
+73951	ILUSTRE MUNICIPALIDAD DE LA SERENA	Par	Cuatricromia	Generales	17x3	25	177.798	Publicado	M Cristina Puga	2015-4-28 00:00:00	
+72989	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	26	0	Publicado	Marcela Tello-ElDia	2015-4-28 00:00:00	
+71995	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	4x5	28	20.508	Publicado	Miguel Apey	2015-4-28 00:00:00	
+72956	SOC. COMERCIAL ALCAPARRA LTDA.	Par	Blanco y negro	Generales	5x2	29	10.440	Publicado	Patricia Villena	2015-4-28 00:00:00	
+69682	sociedad restau			UIP	5x2	29	17.875	Publicado	Jacqueline Torres	2015-4-28 00:00:00	
+72230	DIARIO EL DIA	Par	Blanco y negro	Generales	5x2	29	0	Publicado	Marcela Tello-ElDia	2015-4-28 00:00:00	
+72260	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	29	0	Publicado	Marcela Tello-ElDia	2015-4-28 00:00:00	
+74171	LISBOA			UIP	5x2	29	17.875	Publicado	Claudio Romero	2015-4-28 00:00:00	
+74354	AREVALO ROMERO			UIP	5x1	29	8.937	Publicado	Pedro Jaime	2015-4-28 00:00:00	
+72290	PILLA LA VACA	Par	Blanco y negro	Generales	5x2	29	0	Publicado	Marcela Tello-ElDia	2015-4-28 00:00:00	
+72518	armaq			UIP	5x1	29	8.937	Publicado	Claudio Romero	2015-4-28 00:00:00	
+72874	GIL URBINA 			UIP	5x1	29	8.937	Publicado	Pedro Jaime	2015-4-28 00:00:00	
+73576	SOC. DE GESTION MEDITERRANEA			UIP	5x1	29	8.937	Publicado	Miguel Apey	2015-4-28 00:00:00	
+72778	SERVICIOS GENERALES GUAYACAN S.A	Par	Blanco y negro	Generales	3x2	30	6.444	Publicado	Jacqueline Torres	2015-4-28 00:00:00	
+74557	RAMON VILLARROEL URBINA	Par	Blanco y negro	Generales	12x2	30	52.733	Publicado	Pedro Jaime	2015-4-28 00:00:00	
+73807	INMOBIL. E INVERSIONES AREYUNA E HI	Par	Cuatricromia	Generales	35x6	32	500.000	Publicado	Claudio Romero	2015-4-28 00:00:00	
+74609	BANCO DEL ESTADO DE CHILE	789 Palabras		Legal	x	EC	195.798	Publicado	Pedro Jaime	2015-4-28 00:00:00	
+74562	ALVAREZ VILCHEZ DANIEL	109 Palabras		Legal	x	EC	27.058	Publicado	Pedro Jaime	2015-4-28 00:00:00	
+74608	BANCO DEL ESTADO DE CHILE	583 Palabras		Legal	x	EC	144.789	Publicado	Pedro Jaime	2015-4-28 00:00:00	
+74601	SOC. AGRICOLA LOS AROMOS DE ALFALFA	101 Palabras		Legal	x	EC-19	25.048	Publicado	Pedro Jaime	2015-4-28 00:00:00	
+72619	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Generales	5x1	EC-19	5.860	Publicado	Rene Pizarro	2015-4-28 00:00:00	
+72649	SOC. COMERCIAL VARGAS Y GIACOMET	Par	Blanco y negro	Generales	5x1	EC-19	5.860	Publicado	Rene Pizarro	2015-4-28 00:00:00	
+74360	AREVALO ROMERO 			UIP	5x1	EC-19	8.937	Publicado	Pedro Jaime	2015-4-28 00:00:00	
+74549	MARDONES CORRETAJES PROPIEDADES Y S	204 Palabras		Propiedades	x	PROP	32.640	Publicado	Pedro Jaime	2015-4-28 00:00:00	
+74555	COMERCIAL AUTOKARINO LTDA.	316 Palabras		Propiedades	x	PROP	50.560	Publicado	Pedro Jaime	2015-4-28 00:00:00	
+74702	CURIFOR S.A.	785 Palabras		Propiedades	x	PROP	125.630	Publicado	Pedro Jaime	2015-4-28 00:00:00	
+74541	SOC. AMENABAR REYES Y AMENABAR LTDA	321 Palabras		Propiedades	x	PROP	51.360	Publicado	Pedro Jaime	2015-4-28 00:00:00	
+74544	GONZALEZ ADAROS MARIA SOLEDAD	360 Palabras		Propiedades	x	PROP	57.600	Publicado	Pedro Jaime	2015-4-28 00:00:00	
+74545	ESTAY BRAVO CESAR	263 Palabras		Propiedades	x	PROP	42.080	Publicado	Pedro Jaime	2015-4-28 00:00:00	
+74546	CRISTOBAL ALEKSANDAR LENAC BELMAR	398 Palabras		Propiedades	x	PROP	63.680	Publicado	Pedro Jaime	2015-4-28 00:00:00	
+74547	DANIELLA CARVAJAL VEGA	380 Palabras		Propiedades	x	PROP	60.800	Publicado	Pedro Jaime	2015-4-28 00:00:00	
+74556	AUTOMOTRIZ PEDREGAL LTDA.	431 Palabras		Propiedades	x	PROP	68.960	Publicado	Pedro Jaime	2015-4-28 00:00:00	
+74548	CARMEN AREVALO ROMERO	380 Palabras		Propiedades	x	PROP	60.800	Publicado	Pedro Jaime	2015-4-28 00:00:00	
+74553	SOC. COMERCIAL INV. GENERALES LTDA.	451 Palabras		Propiedades	x	PROP	72.160	Publicado	Pedro Jaime	2015-4-28 00:00:00	
+74552	YOLANDA ELIAS CAMBLOR	529 Palabras		Propiedades	x	PROP	84.640	Publicado	Pedro Jaime	2015-4-28 00:00:00	
+74551	JANIER MUNDACA ALBI?A	297 Palabras		Propiedades	x	PROP	47.520	Publicado	Pedro Jaime	2015-4-28 00:00:00	
+74550	LILIAN ELIZABETH OLIVARES LANAS	595 Palabras		Propiedades	x	PROP	95.200	Publicado	Pedro Jaime	2015-4-28 00:00:00	
+74554	FERES REBOLLEDO ANA ISABEL	370 Palabras		Propiedades	x	PROP	59.200	Publicado	Pedro Jaime	2015-4-28 00:00:00	

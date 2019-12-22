@@ -1,0 +1,11 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+135447	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	6x6	01	16.065	Publicado	Claudio Romero	Muebles Alpina	2017-8-30 00:00:00	
+137194	TEODORO AGUIRRE ALVAREZ			UIP	5x2	05	2.808	Publicado	Karina Rivera	REGIONALISTA VERDE SOCIAL	2017-8-30 00:00:00	
+136540	ESTUDIO JURIDICO OLIVARES Y CIA. SP	Par	Blanco y negro	Generales	5x2	07	2.000	Publicado	Jacqueline Torres	ESTUDIO JURIDICO OLIVARES	2017-8-30 00:00:00	
+137257	EMPRESA PERIODISTICA EL NORTE S.A.	Par	Blanco y negro	Medios Regionales	10x4	07	57.800	Arte	Medios Regionales		2017-8-30 00:00:00	
+136319	DABED Y CIA. LTDA., SELIM	Par	Cuatricromia	Generales	6x6	08	23.076	Publicado	Karina Rivera	S 2	2017-8-30 00:00:00	
+135374	OVALLE CASINO RESORT S.A	Par	Cuatricromia	Generales	25x4	09	0	Arte	Paola Marquez	OCR Eventos Agosto, impar si se puede	2017-8-30 00:00:00	
+135088	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	11	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2017-8-30 00:00:00	
+136356	FERNANDO YOANOVICH			UIP	5x2	13	2.247	Publicado	Karina Rivera	TAROT SRA SOFIA	2017-8-30 00:00:00	
+136593	VELIZ CORTES JOSE A.			UIP	5x2	14	2.870	Publicado	Pedro Cortes		2017-8-30 00:00:00	
+137427	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	6x6	14	0	Arte	Marcela Tello-ElDia		2017-8-30 00:00:00	

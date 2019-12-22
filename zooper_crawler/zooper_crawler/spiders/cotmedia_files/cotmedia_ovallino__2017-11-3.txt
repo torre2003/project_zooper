@@ -1,0 +1,16 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+142672	INMOBILIARIA CALEUCHE LTDA	Par	Cuatricromia	Generales	8x6	01	102.823	Publicado	Paola Marquez	Beltec IMPAR si se puede	2017-11-3 00:00:00	
+142451	SOCIEDAD DE RENTAS FALABELLA S.A	Impar	Cuatricromia	Contraportada	35x6	03	400.000	Publicado	M Cristina Puga	Open Plaza /contraportada	2017-11-3 00:00:00	
+138344	CENTRO DE SALUD PORTALES LTDA			UIP	5x4	05	4.504	Publicado	Karina Rivera		2017-11-3 00:00:00	
+142411	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	6x6	06	16.065	Publicado	Claudio Romero	Muebles Alpina	2017-11-3 00:00:00	
+142703	ADOLFO HADLER BARRERA			UIP	5x2	07	2.808	Publicado	Karina Rivera	AVISO SE COMPRAN ACCIONES	2017-11-3 00:00:00	
+142695	ADOLFO HADLER BARRERA			UIP	5x2	07	2.808	Publicado	Karina Rivera	se venden 5 sitios	2017-11-3 00:00:00	
+139897	TEODORO AGUIRRE ALVAREZ			UIP	5x2	07	2.808	Publicado	Karina Rivera	REGIONALISTA VERDE SOCIAL	2017-11-3 00:00:00	
+143030	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	08	0	Arte	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2017-11-3 00:00:00	
+142566	OVALLE CASINO RESORT S.A	Par	Cuatricromia	Generales	25x4	09	131.824	Publicado	Paola Marquez	OCR Eventos Noviembre	2017-11-3 00:00:00	
+143078	CAMPOS DEL NORTE S.A.	Par	Cuatricromia	Generales	17x6	11	218.499	Publicado	Patricia Villena	Aviso Enjoy	2017-11-3 00:00:00	
+143043	JOSELIN MARTINEZ			UIP	10x2	13	5.630	Publicado	Karina Rivera	AVISO CURANDERO	2017-11-3 00:00:00	
+140939	VELIZ CORTES JOSE A.			UIP	5x2	14	3.919	Publicado	Pedro Cortes		2017-11-3 00:00:00	
+142711	SILVIA CONTADOR PEREZ	157 Palabras		Legal	0x0	14	38.936	Publicado	Karina Rivera	EXTRACTO ROL V243-2017	2017-11-3 00:00:00	
+143116	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	6x6	14	0	Arte	Marcela Tello-ElDia		2017-11-3 00:00:00	
+143068	EMPRESAS LA POLAR S.A.	Par	Cuatricromia	Generales	35x6	16	0	Arte	Patricia Villena	La polar	2017-11-3 00:00:00	

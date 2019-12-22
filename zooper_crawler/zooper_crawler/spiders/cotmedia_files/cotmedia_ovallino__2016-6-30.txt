@@ -1,0 +1,8 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+104948	OVALLE CASINO RESORT S.A	Par	Cuatricromia	Generales	6x6	01	21.333	Publicado	Paola Marquez	Auspicio Casino Ovalle Impar	2016-6-30 00:00:00	
+100412	SOC HOTELERA Y DE TURISMO HACIENDA 	Par	Cuatricromia	Generales	5x6	03	11.299	Publicado	Patricia Villena	Hacienda Juntas	2016-6-30 00:00:00	
+105406	EMPRESA PERIODISTICA EL NORTE S.A.	Par	Blanco y negro	Medios Regionales	10x4	05	57.800	Publicado	Medios Regionales	JDV Remates - Recuperar La Serena - (121359)	2016-6-30 00:00:00	
+104524	AGRICOLA NORTE TALINAY LTDA	Par	Blanco y negro	Generales	5x2	07	1.666	Publicado	Paola Marquez	UIP VENTA ALFALFA	2016-6-30 00:00:00	
+103685	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	09	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2016-6-30 00:00:00	
+105823	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	6x6	11	0	Arte	Marcela Tello-ElDia		2016-6-30 00:00:00	
+105824	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x6	14	0	Arte	Marcela Tello-ElDia	www.elovallino.cl	2016-6-30 00:00:00	

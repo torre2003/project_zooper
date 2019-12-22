@@ -1,0 +1,7 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+102605	DABED Y CIA. LTDA., SELIM	Par	Cuatricromia	Generales	6x6	03	23.076	Publicado	Nadia Randolph		2016-5-12 00:00:00	
+100665	AGRICOLA NORTE TALINAY LTDA	Par	Blanco y negro	Generales	5x2	05	1.666	Publicado	Paola Marquez	UIP VENTA ALFALFA	2016-5-12 00:00:00	
+101600	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	08	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2016-5-12 00:00:00	
+100385	SOC HOTELERA Y DE TURISMO HACIENDA 	Par	Cuatricromia	Generales	5x6	09	11.299	Publicado	Patricia Villena	Hacienda Juntas	2016-5-12 00:00:00	
+102481	DIARIO EL DIA	Par	Blanco y negro	Generales	35x6	11	0	Arte	Carolina Naranjo	SOCIALES - Open Plaza Ovalle	2016-5-12 00:00:00	
+102331	VALENTINA ANDREA PIZARRO VIERA			UIP	5x2	14	2.808	Publicado	Leonel Pizarro-Ovalle		2016-5-12 00:00:00	

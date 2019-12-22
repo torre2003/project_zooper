@@ -1,0 +1,17 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+150189	DABED Y CIA. LTDA., SELIM		Hasta 8 pag.	Inserto	x		45.378	Arte	Marcela Tello-ElDia	Convenio Diarios Locales - El Ovallino	2018-1-31 00:00:00	
+146793	OVALLE CASINO RESORT S.A	Par	Cuatricromia	Generales	25x4	03	0	Publicado	Paola Marquez	Eventos OCR enero	2018-1-31 00:00:00	
+148560	INMOBILIARIA NUEVA SERENA			UIP	10x6	05	16.260	Publicado	Claudio Romero	proyecto empresa serena.(.2 AVISOS NUEVO)" DEPARTAMENTOS.".." CASAS"...ALTERNAR LOS AVISOS TODOS LOS	2018-1-31 00:00:00	
+146948	DABED Y CIA. LTDA., SELIM	Par	Cuatricromia	Generales	6x6	06	46.158	Publicado	Karina Rivera	GRAF. OV-05	2018-1-31 00:00:00	
+147814	UNIVERSIDAD BOLIVARIANA			UIP	5x4	08	5.630	Publicado	Karina Rivera	U. Bolivariana y V. Central	2018-1-31 00:00:00	
+147613	SOCIEDAD EDUCACIONL GALLARDO Y FIGU			UIP	10x2	08	6.306	Publicado	Karina Rivera	CENTRO DE FORMACION MATEMATICA	2018-1-31 00:00:00	
+146849	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	6x6	09	16.065	Publicado	Claudio Romero	Muebles Alpina	2018-1-31 00:00:00	
+147678	AGRICOLA NORTE TALINAY LTDA	Par	Blanco y negro	Generales	5x2	10	1.666	Publicado	Paola Marquez	UIP VENTA ALFALFA	2018-1-31 00:00:00	
+148380	INVERSIONES TANGUEMAR LIMITADA			UIP	5x2	10	2.808	Publicado	Patricia Villena	Tanguemar 2	2018-1-31 00:00:00	
+147779	CL?NICA VETERINARIA LOS MANCOS LTDA			UIP	10x2	11	5.630	Publicado	Karina Rivera	CLINICA VETERINARIA 	2018-1-31 00:00:00	
+149380	ILUSTRE MUNICIPALIDAD DE OVALLE	Par	Blanco y negro	Generales	5x3	11	0	Publicado	Karina Rivera	fe de errata	2018-1-31 00:00:00	
+147242	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	13	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2018-1-31 00:00:00	
+149436	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	6x6	15	0	Publicado	Marcela Tello-ElDia		2018-1-31 00:00:00	
+147878	VELIZ CORTES JOSE A.			UIP	5x2	15	4.695	Publicado	Pedro Cortes		2018-1-31 00:00:00	
+148313	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	34x6	16	0	Publicado	Marcela Tello-ElDia		2018-1-31 00:00:00	
+149423	INMOBILIARIA CALEUCHE LTDA	Home	Box Derecho	Web	0x0	WEB	200.000	Publicado	Paola Marquez		2018-1-31 00:00:00	

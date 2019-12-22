@@ -1,0 +1,17 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+99655	SOCIEDAD DE RENTAS FALABELLA S.A	Par	Cuatricromia	Generales	8x6	01	50.980	Publicado	M Cristina Puga	Open full promo	2016-4-28 00:00:00	
+100653	AGRICOLA NORTE TALINAY LTDA	Par	Blanco y negro	Generales	5x2	05	1.666	Publicado	Paola Marquez	UIP VENTA ALFALFA	2016-4-28 00:00:00	
+99093	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	07	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2016-4-28 00:00:00	
+99627	DABED Y CIA. LTDA., SELIM	Par	Cuatricromia	Generales	6x6	08	23.076	Publicado	Nadia Randolph	herram-2	2016-4-28 00:00:00	
+100183	SOC HOTELERA Y DE TURISMO HACIENDA 	Par	Cuatricromia	Generales	5x6	09	11.299	Publicado	Patricia Villena	Hacienda Juntas	2016-4-28 00:00:00	
+101275	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	12x6	11	0	Arte	Marcela Tello-ElDia	No circula Diario el 01 de Mayo	2016-4-28 00:00:00	
+100618	VALENTINA ANDREA PIZARRO VIERA			UIP	5x2	14	2.808	Publicado	Leonel Pizarro-Ovalle		2016-4-28 00:00:00	
+100052	ILUSTRE MUNICIPALIDAD DE MONTE PATR	Par	Cuatricromia	Generales	34x6	CP-01	457.166	Publicado	Claudio Romero	pagina 1 - cuenta publica..monte patria	2016-4-28 00:00:00	
+100053	ILUSTRE MUNICIPALIDAD DE MONTE PATR	Par	Cuatricromia	Generales	34x6	CP-02	457.166	Publicado	Claudio Romero	2 pagina - CUENTA PUBLICA	2016-4-28 00:00:00	
+100054	ILUSTRE MUNICIPALIDAD DE MONTE PATR	Par	Cuatricromia	Generales	34x6	CP-03	457.166	Publicado	Claudio Romero	PAGINA 3 - CUENTA PUBLICA	2016-4-28 00:00:00	
+100055	ILUSTRE MUNICIPALIDAD DE MONTE PATR	Par	Cuatricromia	Generales	34x6	CP-04	457.166	Publicado	Claudio Romero	PAGINA 4 - CUENTA PUBLICA	2016-4-28 00:00:00	
+100056	ILUSTRE MUNICIPALIDAD DE MONTE PATR	Par	Cuatricromia	Generales	34x6	CP-05	457.166	Publicado	Claudio Romero	PAGINA 5 - CUENTA PUBLICA	2016-4-28 00:00:00	
+100057	ILUSTRE MUNICIPALIDAD DE MONTE PATR	Par	Cuatricromia	Generales	34x6	CP-06	457.166	Publicado	Claudio Romero	PAGINA 6 - CUENTA PUBLICA..	2016-4-28 00:00:00	
+100059	ILUSTRE MUNICIPALIDAD DE MONTE PATR	Par	Cuatricromia	Generales	34x6	CP-07	457.166	Publicado	Claudio Romero	PAGINA 7 - CUENTA PUBLICA	2016-4-28 00:00:00	
+100060	ILUSTRE MUNICIPALIDAD DE MONTE PATR	Par	Cuatricromia	Generales	34x6	CP-08	457.166	Publicado	Claudio Romero	PAGINA 8 - CUENTA PUBLICA	2016-4-28 00:00:00	
+99660	DABED Y CIA. LTDA., SELIM		1 pag.	Inserto	x	INS	124.235	Publicado	Marcela Tello-ElDia	Venta de 1.760 diario El Ovallino	2016-4-28 00:00:00	

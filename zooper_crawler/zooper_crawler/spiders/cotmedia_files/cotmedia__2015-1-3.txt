@@ -1,0 +1,50 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+62741	UNIVERSIDAD CENTRAL DE CHILE	Impar	Cuatricromia	Generales	17x6	09	577.319	Publicado	Jacqueline Torres	2015-1-3 00:00:00	
+65951	SACYR CHILE S.A	Par	Blanco y negro	Generales	13x3	11	145.210	Publicado	Pedro Jaime	2015-1-3 00:00:00	
+66041	INMOBIL. PY  S.A.	Par	Blanco y negro	Generales	5x2	11	42.113	Publicado	Claudio Romero	2015-1-3 00:00:00	
+65889	DIARIO EL DIA	Par	Cuatricromia	Generales	12x2	12	0	Publicado	Marcela Tello-ElDia	2015-1-3 00:00:00	
+65802	CHRISTIAN LAURITZ MARIN	Par	Blanco y negro	Generales	5x2	12	24.023	Publicado	Jacqueline Torres	2015-1-3 00:00:00	
+65755	COLEGIO ELENA BETTINI	Par	Blanco y negro	Generales	6x2	12	32.849	Publicado	Jacqueline Torres	2015-1-3 00:00:00	
+66078	CLUB DEPORTES COQUIMBO UNIDO	Par	Cuatricromia	Generales	17x3	14	0	Publicado	Marcela Tello-ElDia	2015-1-3 00:00:00	
+65164	SITRANS LTDA.	Par	Cuatricromia	Generales	10x3	14	0	Publicado	Miguel Apey	2015-1-3 00:00:00	
+65982	HOTEL COSTA REAL	Par	Cuatricromia	Generales	10x2	15	0	Publicado	Marcela Tello-ElDia	2015-1-3 00:00:00	
+66024	DIARIO EL DIA	Par	Blanco y negro	Generales	8x2	15	0	Publicado	Marcela Tello-ElDia	2015-1-3 00:00:00	
+66022	DIARIO EL DIA	Par	Blanco y negro	Generales	8x2	15	0	Publicado	Marcela Tello-ElDia	2015-1-3 00:00:00	
+65663	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Cuatricromia	Medios Regionales	20x6	17	365.847	Publicado	Medios Regionales	2015-1-3 00:00:00	
+65277	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	19	8.306	Publicado	Miguel Apey	2015-1-3 00:00:00	
+65964	ILUSTRE MUNICIPALIDAD DE LA SERENA	Par	Blanco y negro	Generales	26x6	25	656.963	Publicado	Marcela Tello-ElDia	2015-1-3 00:00:00	
+66092	DIARIO EL DIA	Par	Blanco y negro	Generales	35x6	31	0	Publicado	Marcela Tello-ElDia	2015-1-3 00:00:00	
+65600	BANCO DEL ESTADO DE CHILE	Impar	Cuatricromia	Generales	17x3	35	188.257	Publicado	Kathine Soto-Stgo	2015-1-3 00:00:00	
+65321	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	4x5	36	20.508	Publicado	Miguel Apey	2015-1-3 00:00:00	
+65184	SOC. DE GESTION MEDITERRANEA			UIP	5x1	37	8.937	Publicado	Miguel Apey	2015-1-3 00:00:00	
+65854	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	37	0	Publicado	Marcela Tello-ElDia	2015-1-3 00:00:00	
+65828	PILLA LA VACA	Par	Blanco y negro	Generales	5x2	37	0	Publicado	Marcela Tello-ElDia	2015-1-3 00:00:00	
+65462	MAQUINARIAS RB  LTDA.	Par	Blanco y negro	Generales	5x1	37	15.793	Publicado	Claudio Romero	2015-1-3 00:00:00	
+65919	DIARIO EL DIA	Par	Blanco y negro	Generales	5x2	37	0	Publicado	Marcela Tello-ElDia	2015-1-3 00:00:00	
+65558	SOC. COMERCIAL ALCAPARRA LTDA.	Par	Blanco y negro	Generales	5x2	37	10.440	Publicado	Patricia Villena	2015-1-3 00:00:00	
+65518	SERVICIOS GENERALES GUAYACAN S.A	Par	Blanco y negro	Generales	3x2	38	6.666	Publicado	Jacqueline Torres	2015-1-3 00:00:00	
+66093	DIARIO EL DIA	Par	Cuatricromia	Generales	35x6	40	0	Publicado	Marcela Tello-ElDia	2015-1-3 00:00:00	
+65503	CORPORACION EDUCACIONAL COLEGIO SAN	Par	Blanco y negro	Generales	7x2	EC-22	58.959	Publicado	Pedro Jaime	2015-1-3 00:00:00	
+65717	SOC. COMERCIAL VARGAS Y GIACOMET	Par	Blanco y negro	Generales	5x1	EC-23	5.860	Publicado	Rene Pizarro	2015-1-3 00:00:00	
+66118	SAN FRANCISCO Y ROCO LIMITADA	744 Palabras		Legal	x	EC-24	184.705	Publicado	Pedro Jaime	2015-1-3 00:00:00	
+66120	BANCO ITAU CHILE	844 Palabras		Legal	x	EC-24	209.495	Publicado	Pedro Jaime	2015-1-3 00:00:00	
+65687	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Generales	5x1	EC-24	5.860	Publicado	Rene Pizarro	2015-1-3 00:00:00	
+66124	CONSULTORIAS AGRICOLAS RICARDO SEPU	664 Palabras		Propiedades	x	PROP	106.240	Arte	Pedro Jaime	2015-1-3 00:00:00	
+66122	SOC. COMERCIAL MERINO Y ARRIAGADA L	614 Palabras		Propiedades	x	PROP	98.240	Arte	Pedro Jaime	2015-1-3 00:00:00	
+66125	COMERCIAL AUTOKARINO LTDA.	316 Palabras		Propiedades	x	PROP	50.560	Arte	Pedro Jaime	2015-1-3 00:00:00	
+66117	SOC. COMERCIAL LESSER Y CIA. LTDA.	1524 Palabras		Propiedades	x	PROP	243.840	Arte	Pedro Jaime	2015-1-3 00:00:00	
+66116	CORREDORES DE PROPIEDADES INVERNOR 	1021 Palabras		Propiedades	x	PROP	163.360	Arte	Pedro Jaime	2015-1-3 00:00:00	
+66115	URBI LIMITADA	575 Palabras		Propiedades	x	PROP	92.000	Arte	Pedro Jaime	2015-1-3 00:00:00	
+66114	GONZALEZ ADAROS MARIA SOLEDAD	665 Palabras		Propiedades	x	PROP	106.400	Arte	Pedro Jaime	2015-1-3 00:00:00	
+66113	LILIAN ELIZABETH OLIVARES LANAS	934 Palabras		Propiedades	x	PROP	149.440	Arte	Pedro Jaime	2015-1-3 00:00:00	
+66112	MARDONES CORRETAJES PROPIEDADES Y S	367 Palabras		Propiedades	x	PROP	58.720	Arte	Pedro Jaime	2015-1-3 00:00:00	
+66095	SOCIEDAD COMERCIAL MERINO LIMITADA	999 Palabras		Propiedades	x	PROP	159.840	Publicado	Pedro Jaime	2015-1-3 00:00:00	
+66096	INMOBILIARIA PRO LIMITADA	415 Palabras		Propiedades	x	PROP	66.400	Publicado	Pedro Jaime	2015-1-3 00:00:00	
+66097	JAVIER MUNDACA ALBI?A	143 Palabras		Propiedades	x	PROP	22.880	Publicado	Pedro Jaime	2015-1-3 00:00:00	
+66098	FERES REBOLLEDO ANA ISABEL	203 Palabras		Propiedades	x	PROP	32.480	Publicado	Pedro Jaime	2015-1-3 00:00:00	
+66099	JACQUELINE BARRERA BARRAZA	794 Palabras		Legal	x	PROP	196.912	Publicado	Pedro Jaime	2015-1-3 00:00:00	
+66108	RODRIGUEZ ROJAS MARCELO	379 Palabras		Propiedades	x	PROP	60.640	Arte	Pedro Jaime	2015-1-3 00:00:00	
+66109	YOLANDA ELIAS CAMBLOR	430 Palabras		Propiedades	x	PROP	68.800	Arte	Pedro Jaime	2015-1-3 00:00:00	
+66110	CIA. DE LEASING TATTERSALL S.A.	2329 Palabras		Propiedades	x	PROP	372.640	Arte	Pedro Jaime	2015-1-3 00:00:00	
+66111	THE HOUSE DREAM S.A.	1124 Palabras		Propiedades	x	PROP	179.840	Arte	Pedro Jaime	2015-1-3 00:00:00	
+66126	AUTOMOTRIZ PEDREGAL LTDA.	431 Palabras		Propiedades	x	PROP	68.960	Arte	Pedro Jaime	2015-1-3 00:00:00	

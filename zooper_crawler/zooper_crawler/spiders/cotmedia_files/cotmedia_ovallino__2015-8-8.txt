@@ -1,0 +1,11 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+81693	DABED Y CIA. LTDA., SELIM	Impar	Cuatricromia	Generales	6x6	03	23.077	Publicado	Italo Retamal	primera semana agosto	2015-8-8 00:00:00	
+81874	centro de co			UIP	10x2	05	5.630	Publicado	Italo Retamal	centro colina	2015-8-8 00:00:00	
+81750	Soc. Sostenedora Educacional Desper			UIP	5x2	05	2.808	Publicado	Italo Retamal	escuela	2015-8-8 00:00:00	
+81965	jorge alvarado 			UIP	5x2	05	2.808	Publicado	Italo Retamal	abogado	2015-8-8 00:00:00	
+81151	florencia			UIP	10x2	07	5.630	Publicado	Italo Retamal	tienda exotica	2015-8-8 00:00:00	
+81831	EMPRESA PERIODISTICA EL NORTE S.A.	Par	Blanco y negro	Medios Regionales	6x1	07	8.670	Publicado	Medios Regionales	Comercial Da Vinci - (168575)	2015-8-8 00:00:00	
+80819	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	10x3	07	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2015-8-8 00:00:00	
+81375	Tanguemar			UIP	5x2	10	2.808	Publicado	Patricia Villena	Tanguemar	2015-8-8 00:00:00	
+80513	cesar ossio			UIP	5x4	10	5.630	Publicado	Italo Retamal	mov de tierra	2015-8-8 00:00:00	
+80968	SOCIEDAD DE RENTAS FALABELLA S.A	Impar	Cuatricromia	Generales	35x6	16	400.000	Publicado	M Cristina Puga	contraportada Open Plaza	2015-8-8 00:00:00	

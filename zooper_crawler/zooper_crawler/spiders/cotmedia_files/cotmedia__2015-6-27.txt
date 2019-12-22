@@ -1,0 +1,60 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+78832	HABITA INMOBILIARIA SA	Par	Blanco y negro	Generales	8x2	04	60.643	Publicado	Miguel Apey	2015-6-27 00:00:00	
+76916	CHRISTIAN LAUNITZ MARIN SERVICIOS M	Par	Blanco y negro	Generales	3x2	04	7.290	Publicado	Jacqueline Torres	2015-6-27 00:00:00	
+78823	HABITA INMOBILIARIA SA	Par	Blanco y negro	Generales	8x2	04	60.643	Publicado	Miguel Apey	2015-6-27 00:00:00	
+78429	INMOBILIARIA ECOMAC SANTIAGO S.A.	Impar	Cuatricromia	Generales	35x6	05	906.306	Publicado	M Cristina Puga	2015-6-27 00:00:00	
+78519	FALABELLA RETAIL S.A.	Impar	Cuatricromia	Generales	35x6	07	600.000	Publicado	M Cristina Puga	2015-6-27 00:00:00	
+78475	INMOBIL. PY  S.A.	Impar	Cuatricromia	Generales	17x6	08	469.072	Publicado	Claudio Romero	2015-6-27 00:00:00	
+78467	INDUSTRIAS CELTA LIMITADA	Par	Blanco y negro	Generales	5x2	09	37.902	Publicado	Miguel Apey	2015-6-27 00:00:00	
+78702	INVERSIONES SOCOAL S.A	Par	Blanco y negro	Generales	5x2	09	42.113	Publicado	Pedro Jaime	2015-6-27 00:00:00	
+78705	INVERSIONES SOCOAL S.A	Par	Blanco y negro	Generales	5x2	09	42.113	Publicado	Pedro Jaime	2015-6-27 00:00:00	
+78685	SERV. VIVIENDA Y URBANIZACION IV RE	Par	Blanco y negro	Generales	10x2	10	58.989	Publicado	Marcela Tello-ElDia	2015-6-27 00:00:00	
+78686	SERV. VIVIENDA Y URBANIZACION IV RE	Par	Blanco y negro	Generales	10x2	10	58.989	Publicado	Marcela Tello-ElDia	2015-6-27 00:00:00	
+78684	SERV. VIVIENDA Y URBANIZACION IV RE	Par	Blanco y negro	Generales	10x2	10	58.989	Publicado	Marcela Tello-ElDia	2015-6-27 00:00:00	
+78699	OSMODIAL LTDA.	Par	Blanco y negro	Generales	5x1	11	21.057	Publicado	Miguel Apey	2015-6-27 00:00:00	
+77080	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	10x3	11	0	Publicado	Marcela Tello-ElDia	2015-6-27 00:00:00	
+76960	DIARIO EL DIA	Par	Cuatricromia	Generales	12x2	12	0	Publicado	Marcela Tello-ElDia	2015-6-27 00:00:00	
+78694	SINDY GONZALEZ MARCHANT	Par	Blanco y negro	Generales	8x2	12	0	Publicado	Marcela Tello-ElDia	2015-6-27 00:00:00	
+78723	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	6x2	12	28.356	Publicado	Medios Regionales	2015-6-27 00:00:00	
+77500	CARAT CHILE S.A.	Impar	Cuatricromia	Generales	17x6	13	330.000	Publicado	Kathine Soto-Stgo	2015-6-27 00:00:00	
+78733	INMOBIL. PAN DE AZUCAR	Par	Blanco y negro	Generales	10x2	19	42.113	Publicado	Marcela Tello-ElDia	2015-6-27 00:00:00	
+78687	SERV. VIVIENDA Y URBANIZACION IV RE	Par	Blanco y negro	Generales	10x2	19	58.989	Publicado	Marcela Tello-ElDia	2015-6-27 00:00:00	
+78734	INMOBIL. PAN DE AZUCAR	Par	Blanco y negro	Generales	10x2	19	42.113	Publicado	Marcela Tello-ElDia	2015-6-27 00:00:00	
+78272	CENCOSUD RETAIL S.A.	Par	Cuatricromia	Centrales	35x6	20	619.062	Publicado	Kathine Soto-Stgo	2015-6-27 00:00:00	
+78274	CENCOSUD RETAIL S.A.	Impar	Cuatricromia	Centrales	35x6	21	742.874	Publicado	Kathine Soto-Stgo	2015-6-27 00:00:00	
+76618	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	22	8.306	Publicado	Miguel Apey	2015-6-27 00:00:00	
+78720	AUTOMOTORES GILDEMEISTER S.A.	Impar	Cuatricromia	Generales	17x6	23	360.825	Publicado	Kathine Soto-Stgo	2015-6-27 00:00:00	
+78738	FE GRANDE INMOBILIARIA LTDA.	Impar	Cuatricromia	Generales	17x6	28	432.990	Publicado	Jacqueline Torres	2015-6-27 00:00:00	
+78256	TELEFONICA MOVILES CHILE S.A.	Impar	Cuatricromia	Generales	35x6	29	742.874	Publicado	Kathine Soto-Stgo	2015-6-27 00:00:00	
+78544	DIARIO EL DIA	Par	Blanco y negro	Generales	35x6	30	0	Publicado	Carolina Naranjo	2015-6-27 00:00:00	
+78537	RENDIC HNOS. S.A.j	Impar	Cuatricromia	Generales	34x3	33	658.897	Publicado	Patricia Villena	2015-6-27 00:00:00	
+78755	SERV. AGRICOLA Y GANADERO	Par	Blanco y negro	Generales	15x3	34	112.057	Publicado	Jacqueline Torres	2015-6-27 00:00:00	
+78762	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Cuatricromia	Medios Regionales	16x3	34	214.064	Publicado	Medios Regionales	2015-6-27 00:00:00	
+77762	SALINAS Y FABRES S.A.	Impar	Cuatricromia	Generales	25x5	35	390.009	Publicado	M Cristina Puga	2015-6-27 00:00:00	
+76500	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	6x6	36 	58.905	Publicado	Claudio Romero	2015-6-27 00:00:00	
+78496	DEFENSORES NORTE			UIP	5x2	37	17.875	Publicado	Pedro Jaime	2015-6-27 00:00:00	
+77014	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	37	0	Publicado	Marcela Tello-ElDia	2015-6-27 00:00:00	
+76985	PILLA LA VACA	Par	Blanco y negro	Generales	5x2	37	0	Publicado	Marcela Tello-ElDia	2015-6-27 00:00:00	
+77147	SOC. COMERCIAL ALCAPARRA LTDA.	Par	Blanco y negro	Generales	5x2	37	10.440	Publicado	Patricia Villena	2015-6-27 00:00:00	
+77332	sociedad restau			UIP	5x2	37	17.875	Publicado	Jacqueline Torres	2015-6-27 00:00:00	
+78141	MARCOS MAUREIRA ALVAREZ			UIP	5x1	37	8.937	Publicado	Claudio Romero	2015-6-27 00:00:00	
+78386	arevalo carmen			UIP	5x1	37	8.937	Publicado	Pedro Jaime	2015-6-27 00:00:00	
+76726	lara			UIP	5x1	37	8.936	Publicado	Italo Retamal	2015-6-27 00:00:00	
+78403	SOC. DE GESTION MEDITERRANEA			UIP	5x1	37	8.937	Publicado	Miguel Apey	2015-6-27 00:00:00	
+77043	DIARIO EL DIA	Par	Blanco y negro	Generales	5x2	37	0	Publicado	Marcela Tello-ElDia	2015-6-27 00:00:00	
+76484	ARMAQ			UIP	5x1	37	8.937	Publicado	Claudio Romero	2015-6-27 00:00:00	
+76946	SERVICIOS GENERALES GUAYACAN S.A	Par	Blanco y negro	Generales	3x2	38	6.666	Publicado	Jacqueline Torres	2015-6-27 00:00:00	
+78794	SOC. EDUCACIONAL SAN GUILLERMO LTDA	Par	Blanco y negro	Generales	5x2	38	25.210	Publicado	Miguel Apey	2015-6-27 00:00:00	
+78800	GONZALO BINVIGNAT	Par	Blanco y negro	Generales	13x2	38	65.697	Publicado	Pedro Jaime	2015-6-27 00:00:00	
+67637	FALABELLA RETAIL S.A.	Impar	Cuatricromia	Contraportada	35x6	40	600.000	Publicado	M Cristina Puga	2015-6-27 00:00:00	
+78482	DIARIO EL DIA	Par	Blanco y negro	Generales	5x2	EC-25	0	Publicado	Marcela Tello-ElDia	2015-6-27 00:00:00	
+78437	EMPRESA DE SEGURIDAD RED SECURITY L	Par	Blanco y negro	Generales	3x2	EC-25	25.268	Publicado	Pedro Jaime	2015-6-27 00:00:00	
+76352	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Generales	5x1	EC-26	5.860	Publicado	Rene Pizarro	2015-6-27 00:00:00	
+76382	SOC. COMERCIAL VARGAS Y GIACOMET	Par	Blanco y negro	Generales	5x1	EC-26	5.860	Publicado	Rene Pizarro	2015-6-27 00:00:00	
+78392	arevalo carmen			UIP	5x1	EC-26	8.937	Publicado	Pedro Jaime	2015-6-27 00:00:00	
+78363	PAULA ACE			UIP	5x1	EC-26	8.937	Publicado	Pedro Jaime	2015-6-27 00:00:00	
+78517	ANDES IRON SPA	Par	Cuatricromia	Generales	10x6	EE-15	300.687	Publicado	Paola Marquez	2015-6-27 00:00:00	
+78267	INVERSIONES KAD LTDA.	Par	Cuatricromia	Ed.Especial	17x6	EE-17	300.000	Publicado	Paola Marquez	2015-6-27 00:00:00	
+78515	CIA. MINERA DEL PACIFICO S.A.	Par	Cuatricromia	Generales	17x3	EE-18	300.687	Publicado	Paola Marquez	2015-6-27 00:00:00	
+78816	AMENABAR PROPIEDADES LTDA.	2714 Palabras		Propiedades	x	PROP	434.240	Publicado	M Cristina Puga	2015-6-27 00:00:00	
+78756	AMENABAR PROPIEDADES LTDA.	2587 Palabras		Propiedades	x	PROP	413.920	Publicado	M Cristina Puga	2015-6-27 00:00:00	

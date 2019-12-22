@@ -1,0 +1,9 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+104461	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	6x6	01	0	Arte	Marcela Tello-ElDia		2016-6-7 00:00:00	
+103470	TOMAS			UIP	10x6	03	16.260	Publicado	Claudio Romero	DIPLOMADOS DE MEDIACION FAMILIAR	2016-6-7 00:00:00	
+103763	ALVARADO RAMIREZ			UIP	5x2	07	2.808	Publicado	Leonel Pizarro-Ovalle	ABOGADO	2016-6-7 00:00:00	
+104360	ASOC. CANALISTAS EMBALSE COGOTI	Par	Blanco y negro	Generales	12x2	07	56.496	Publicado	Leonel Pizarro-Ovalle	CITACION	2016-6-7 00:00:00	
+103672	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	09	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2016-6-7 00:00:00	
+104462	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x6	11	0	Arte	Marcela Tello-ElDia	El Ovallino - www.elovallino.cl	2016-6-7 00:00:00	
+104453	SOC.COMERCIAL LOS ITALIANOS	Par	Blanco y negro	Generales	15x3	14	52.965	Publicado	Leonel Pizarro-Ovalle	DEFUNCION	2016-6-7 00:00:00	
+104457	CAMARA DE COMERCIO DE OVALLE	Par	Blanco y negro	Generales	10x2	14	23.540	Publicado	Leonel Pizarro-Ovalle	CONDOLENCIAS	2016-6-7 00:00:00	

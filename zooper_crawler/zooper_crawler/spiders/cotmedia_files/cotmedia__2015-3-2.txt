@@ -1,0 +1,37 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+69744	ABRIL PUBLICIDAD INVERSIONES Y ASES	Impar	Cuatricromia	Generales	35x6	05	824.511	Publicado	Patricia Villena	2015-3-2 00:00:00	
+69611	BANCO DEL ESTADO DE CHILE	Impar	Cuatricromia	Generales	34x6	07	645.977	Publicado	Kathine Soto-Stgo	2015-3-2 00:00:00	
+70274	CHRISTIAN LAUNITZ MARIN SERVICIOS M	Par	Blanco y negro	Generales	3x2	08	6.440	Publicado	Jacqueline Torres	2015-3-2 00:00:00	
+70195	HABITA INMOBILIARIA SA	Par	Cuatricromia	Generales	35x3	09	0	Publicado	Miguel Apey	2015-3-2 00:00:00	
+68907	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	09-13	8.306	Publicado	Miguel Apey	2015-3-2 00:00:00	
+70196	INVERSIONES E INMOBILIARIA P.A.T.  	Par	Cuatricromia	Generales	9x6	10	0	Publicado	Miguel Apey	2015-3-2 00:00:00	
+70281	CLARO CHILE S.A.	Impar	Cuatricromia	Generales	25x5	11	373.600	Publicado	Kathine Soto-Stgo	2015-3-2 00:00:00	
+69838	UNIVERSIDAD DE ACONCAGUA	Par	Blanco y negro	Generales	9x6	13	197.748	Publicado	Rene Pizarro	2015-3-2 00:00:00	
+70294	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	6x2	14	26.088	Publicado	Medios Regionales	2015-3-2 00:00:00	
+67879	SOC. BERMUDEZ INGENIERIA Y CONSTRUC	Par	Blanco y negro	Generales	5x1	14	0	Publicado	Miguel Apey	2015-3-2 00:00:00	
+68891	LABORATORIO CLINICO STA. MARIA LA S	Par	Blanco y negro	Generales	6x2	14	7.470	Publicado	Miguel Apey	2015-3-2 00:00:00	
+70403	MOP OOPP	6862 Palabras		Legal	x	20-21	1.701.776	Publicado	Jacqueline Torres	2015-3-2 00:00:00	
+70271	DIRECCION GENERAL DEL CREDITO PREND	Par	Blanco y negro	Generales	12x2	26	87.888	Publicado	Jacqueline Torres	2015-3-2 00:00:00	
+70037	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	10x3	26	0	Publicado	Marcela Tello-ElDia	2015-3-2 00:00:00	
+69923	SINDY GONZALEZ MARCHANT	Par	Blanco y negro	Generales	10x2	27	0	Publicado	Marcela Tello-ElDia	2015-3-2 00:00:00	
+63867	SKY AIRLINE S.A.	Impar	Cuatricromia	Generales	10x4	27	124.371	Publicado	M Cristina Puga	2015-3-2 00:00:00	
+68954	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	4x5	28	20.508	Publicado	Miguel Apey	2015-3-2 00:00:00	
+70212	SOC. COMERCIAL ALCAPARRA LTDA.	Par	Blanco y negro	Generales	5x2	30	10.440	Publicado	Patricia Villena	2015-3-2 00:00:00	
+70378	schat			UIP	5x2	30	17.875	Publicado	Rene Pizarro	2015-3-2 00:00:00	
+70001	DIARIO EL DIA	Par	Blanco y negro	Generales	5x2	30	0	Publicado	Marcela Tello-ElDia	2015-3-2 00:00:00	
+68634	MAQUINARIA DE PANADERIA INDUSTRIA Y	Par	Blanco y negro	Generales	5x2	30	0	Arte	Rene Pizarro	2015-3-2 00:00:00	
+68867	SOC. DE GESTION MEDITERRANEA			UIP	5x1	30	8.937	Publicado	Miguel Apey	2015-3-2 00:00:00	
+69587	MARIA CECILIA CONTRERAS			UIP	5x2	30	17.875	Publicado	Jacqueline Torres	2015-3-2 00:00:00	
+69627	Sociedad			UIP	5x2	30	17.875	Publicado	Jacqueline Torres	2015-3-2 00:00:00	
+69787	armaq			UIP	5x1	30	8.937	Publicado	Claudio Romero	2015-3-2 00:00:00	
+69934	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	30	0	Publicado	Marcela Tello-ElDia	2015-3-2 00:00:00	
+69966	PILLA LA VACA	Par	Blanco y negro	Generales	5x2	30	0	Publicado	Marcela Tello-ElDia	2015-3-2 00:00:00	
+70337	SERVICIOS GENERALES GUAYACAN S.A	Par	Blanco y negro	Generales	3x2	31	6.451	Publicado	Jacqueline Torres	2015-3-2 00:00:00	
+69851	MARTIN JURE PATRICIA	Par	Blanco y negro	Generales	3x2	EC-17	21.972	Publicado	Pedro Jaime	2015-3-2 00:00:00	
+70413	DIARIO EL DIA	Par	Blanco y negro	Generales	17x6	EC-18	0	Publicado	Marcela Tello-ElDia	2015-3-2 00:00:00	
+70114	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Generales	5x1	EC-18	5.860	Publicado	Rene Pizarro	2015-3-2 00:00:00	
+70154	SOC. COMERCIAL VARGAS Y GIACOMET	Par	Blanco y negro	Generales	5x1	EC-18	5.860	Publicado	Rene Pizarro	2015-3-2 00:00:00	
+70372	SERV. DE REGISTRO CIVIL E IDENTIFIC	592 Palabras		Legal	x	EC-19	147.000	Publicado	Jacqueline Torres	2015-3-2 00:00:00	
+70414	DIARIO EL DIA	Par	Blanco y negro	Generales	7x6	EC-19	0	Publicado	Marcela Tello-ElDia	2015-3-2 00:00:00	
+70401	SERV. VIVIENDA Y URBANIZACION IV RE	324 Palabras		Legal	x	EC-21	80.352	Publicado	Jacqueline Torres	2015-3-2 00:00:00	
+69551	ACONCAGUA GESTION INMOBILIARIA S.A.	Home	Banner Cabecera	Web	x	WEB	256.700	Publicado	Paola Marquez	2015-3-2 00:00:00	

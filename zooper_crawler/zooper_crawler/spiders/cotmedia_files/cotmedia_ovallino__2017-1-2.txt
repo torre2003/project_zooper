@@ -1,0 +1,12 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+119899	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	6x6	01	16.065	Publicado	Claudio Romero	Muebles Alpina	2017-1-2 00:00:00	
+119737	ARENA CHILE S.A.	Impar	Cuatricromia	Generales	17x6	03	200.000	Publicado	M Cristina Puga	volkswagen/primeras impar	2017-1-2 00:00:00	
+120044	SOCIEDAD E			UIP	10x2	06	7.882	Publicado	Karina Rivera		2017-1-2 00:00:00	
+117871	OVALLEMAR			UIP	5x2	06	3.958	Publicado	Karina Rivera	OVALLE MAR	2017-1-2 00:00:00	
+119477	tanguemar			UIP	5x2	07	2.808	Publicado	Patricia Villena	Tanguemar	2017-1-2 00:00:00	
+119252	AGRICOLA NORTE TALINAY LTDA	Par	Blanco y negro	Generales	5x2	07	1.666	Publicado	Paola Marquez	UIP VENTA ALFALFA	2017-1-2 00:00:00	
+119732	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x3	08	0	Arte	Marcela Tello-ElDia		2017-1-2 00:00:00	
+120137	SOCIEDAD DE RENTAS FALABELLA S.A	Par	Cuatricromia	Generales	17x6	09	200.000	Publicado	M Cristina Puga	Open Plaza - Mall Ovalle	2017-1-2 00:00:00	
+120146	PRENSA DEL LIMARI LTDA.	Par	Blanco y negro	Generales	17x6	13	0	Arte	Marcela Tello-ElDia		2017-1-2 00:00:00	
+118597	CABARET Y SALON DE ESPECTACULOS ART			UIP	10x2	14	5.517	Publicado	Karina Rivera	PARADISE CLUB	2017-1-2 00:00:00	
+120147	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	6x6	14	0	Arte	Marcela Tello-ElDia		2017-1-2 00:00:00	

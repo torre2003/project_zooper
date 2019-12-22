@@ -1,0 +1,13 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+85585	EMPRESA PERIODISTICA EL NORTE S.A.	Par	Cuatricromia	Medios Regionales	16x6	03	210.973	Publicado	Medios Regionales	Materiales y Soluciones - Terremoto - Impar - (208586)	2015-10-2 00:00:00	
+85340	INVERSIONES PUNTA BLANCA SPA	Impar	Blanco y negro	Generales	35x6	05	296.604	Publicado	Italo Retamal	publi city poin	2015-10-2 00:00:00	
+85441	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	6x6	06	16.065	Publicado	Claudio Romero	Muebles Alpina	2015-10-2 00:00:00	
+81400	tanguemar			UIP	5x2	07	2.808	Publicado	Patricia Villena	Tanguemar	2015-10-2 00:00:00	
+85378	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	10x3	07	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2015-10-2 00:00:00	
+85140	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	12x6	09	0	Publicado	Marcela Tello-ElDia	Avant Premiere - Club de Lectores	2015-10-2 00:00:00	
+85621	ASOC. CANALISTAS EMBALSE COGOTI	Par	Blanco y negro	Generales	10x2	10	47.080	Publicado	Italo Retamal	circular cogoti	2015-10-2 00:00:00	
+83569	SOCIEDAD COMERCIAL KATANKURA LTDA	Par	Cuatricromia	Generales	6x6	11	25.000	Publicado	Italo Retamal	evento katankura 	2015-10-2 00:00:00	
+85774	DORIS CARVAJAL	Par	Blanco y negro	Generales	8x2	12	18.832	Publicado	Leonel Pizarro-Ovalle	agradecimientos	2015-10-2 00:00:00	
+85777	JUNTA VIGILANCIA RIO HURTADO	Par	Blanco y negro	Generales	12x2	12	50.847	Publicado	Leonel Pizarro-Ovalle		2015-10-2 00:00:00	
+85779	INMOBILIARIA AYLLU S.A	Par	Blanco y negro	Generales	13x2	12	55.084	Publicado	Claudio Romero	Citacion....JUNTA...	2015-10-2 00:00:00	
+85860	PRENSA DEL LIMARI LTDA.	Par	Blanco y negro	Generales	15x6	14	0	Publicado	Marcela Tello-ElDia	www.elovallino.cl	2015-10-2 00:00:00	

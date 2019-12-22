@@ -1,0 +1,88 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+76902	CHRISTIAN LAUNITZ MARIN SERVICIOS M	Par	Blanco y negro	Generales	3x2	04	6.440	Publicado	Jacqueline Torres	2015-6-13 00:00:00	
+77823	INMOBILIARIA NOLLAGAM LTDA.	Par	Cuatricromia	Generales	35x6	05	0	Publicado	Paola Marquez	2015-6-13 00:00:00	
+77839	CALLEGARI LTDA.	Par	Cuatricromia	Generales	17x6	07	285.498	Publicado	Marcela Tello-ElDia	2015-6-13 00:00:00	
+77840	CALLEGARI LTDA.	Par	Cuatricromia	Generales	8x6	08	134.352	Publicado	Marcela Tello-ElDia	2015-6-13 00:00:00	
+77440	HABITERRA ARQUITECTURA Y URBANISMO 	Par	Blanco y negro	Generales	18x5	09	371.428	Publicado	Pedro Jaime	2015-6-13 00:00:00	
+77801	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	10x4	10	94.520	Publicado	Medios Regionales	2015-6-13 00:00:00	
+77771	SERV. VIVIENDA Y URBANIZACION IV RE	Par	Blanco y negro	Generales	10x2	10	58.989	Publicado	Marcela Tello-ElDia	2015-6-13 00:00:00	
+77774	SERV. VIVIENDA Y URBANIZACION IV RE	Par	Blanco y negro	Generales	10x2	11	58.989	Publicado	Marcela Tello-ElDia	2015-6-13 00:00:00	
+77772	SERV. VIVIENDA Y URBANIZACION IV RE	Par	Blanco y negro	Generales	10x2	11	58.989	Publicado	Marcela Tello-ElDia	2015-6-13 00:00:00	
+77773	SERV. VIVIENDA Y URBANIZACION IV RE	Par	Blanco y negro	Generales	10x2	11	58.989	Publicado	Marcela Tello-ElDia	2015-6-13 00:00:00	
+77903	HERMANAS CALLEGARI LTDA.	Par	Cuatricromia	Generales	34x4	12	380.664	Publicado	Marcela Tello-ElDia	2015-6-13 00:00:00	
+77854	INMOBILIARIA NOLLAGAM LTDA.	Par	Cuatricromia	Generales	35x6	13	0	Publicado	Paola Marquez	2015-6-13 00:00:00	
+77904	ILUSTRE MUNICIPALIDAD DE OVALLE	Par	Blanco y negro	Generales	20x3	14	217.634	Publicado	Jacqueline Torres	2015-6-13 00:00:00	
+77750	DIARIO EL DIA	Par	Blanco y negro	Generales	10x3	14	0	Publicado	Marcela Tello-ElDia	2015-6-13 00:00:00	
+77078	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	10x3	14	0	Publicado	Marcela Tello-ElDia	2015-6-13 00:00:00	
+77775	RENDIC HNOS. S.A.j	Impar	Cuatricromia	Generales	34x3	15	658.897	Publicado	Patricia Villena	2015-6-13 00:00:00	
+77961	ILUSTRE MUNICIPALIDAD DE COQUIMBO	Par	Blanco y negro	Generales	12x3	15	106.125	Publicado	Miguel Apey	2015-6-13 00:00:00	
+77599	AET CHILE SPA	Par	Cuatricromia	Generales	17x3	16	0	Publicado	Marcela Tello-ElDia	2015-6-13 00:00:00	
+76958	DIARIO EL DIA	Par	Cuatricromia	Generales	12x2	16	0	Publicado	Marcela Tello-ElDia	2015-6-13 00:00:00	
+77714	PRODUCCION DE EVENTOS Y BANQUETERIA	Par	Cuatricromia	Generales	5x2	17	25.025	Publicado	Miguel Apey	2015-6-13 00:00:00	
+77238	SOCIEDAD DE RENTAS FALABELLA S.A	Par	Cuatricromia	Generales	35x3	17	345.137	Publicado	M Cristina Puga	2015-6-13 00:00:00	
+77780	AUTOMOTRIZ CARMONA	Par	Cuatricromia	Generales	7x6	18	0	Publicado	Marcela Tello-ElDia	2015-6-13 00:00:00	
+77863	SERV. VIVIENDA Y URBANIZACION IV RE	Par	Blanco y negro	Generales	10x2	19	58.989	Publicado	Marcela Tello-ElDia	2015-6-13 00:00:00	
+77836	DTICKET SPA	Par	Blanco y negro	Generales	10x2	19	84.226	Publicado	Miguel Apey	2015-6-13 00:00:00	
+77853	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	10x2	19	47.260	Publicado	Medios Regionales	2015-6-13 00:00:00	
+76604	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	20	8.306	Publicado	Miguel Apey	2015-6-13 00:00:00	
+77825	CALLEGARI LTDA.	Par	Cuatricromia	Generales	17x6	20	285.498	Publicado	Marcela Tello-ElDia	2015-6-13 00:00:00	
+77723	DIARIO EL DIA	Par	Cuatricromia	Generales	17x6	21	0	Publicado	Marcela Tello-ElDia	2015-6-13 00:00:00	
+77868	CORP. ADM. DEL PODER JUDICIAL	Par	Blanco y negro	Generales	10x2	22	58.954	Publicado	Jacqueline Torres	2015-6-13 00:00:00	
+77888	SOC. INMOBILIARIA E INVERSIONES CHI	Par	Blanco y negro	Generales	5x1	22	21.057	Publicado	Claudio Romero	2015-6-13 00:00:00	
+77855	COLEGIO DE CONTADORES DE CHILE A.G.	Par	Blanco y negro	Generales	5x2	22	42.113	Publicado	Pedro Jaime	2015-6-13 00:00:00	
+77944	DIARIO EL DIA	Par	Cuatricromia	Generales	12x6	28	0	Publicado	Marcela Tello-ElDia	2015-6-13 00:00:00	
+77886	AUTOMOTORES GILDEMEISTER S.A.	Impar	Cuatricromia	Generales	17x6	29	360.825	Publicado	Kathine Soto-Stgo	2015-6-13 00:00:00	
+77820	DIARIO EL DIA	Par	Blanco y negro	Generales	35x6	30	0	Publicado	Carolina Naranjo	2015-6-13 00:00:00	
+77832	HERMANAS CALLEGARI LTDA.	Par	Cuatricromia	Generales	17x6	33	285.498	Publicado	Marcela Tello-ElDia	2015-6-13 00:00:00	
+77858	ARENA CHILE S.A.	Impar	Cuatricromia	Generales	17x6	35	300.000	Publicado	M Cristina Puga	2015-6-13 00:00:00	
+77838	CALLEGARI LTDA.	Par	Cuatricromia	Generales	17x6	36	285.498	Publicado	Marcela Tello-ElDia	2015-6-13 00:00:00	
+77041	DIARIO EL DIA	Par	Blanco y negro	Generales	5x2	37	0	Publicado	Marcela Tello-ElDia	2015-6-13 00:00:00	
+77012	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	37	0	Publicado	Marcela Tello-ElDia	2015-6-13 00:00:00	
+76983	PILLA LA VACA	Par	Blanco y negro	Generales	5x2	37	0	Publicado	Marcela Tello-ElDia	2015-6-13 00:00:00	
+77256	ferreira luis miguel			UIP	5x1	37	8.937	Publicado	Pedro Jaime	2015-6-13 00:00:00	
+76714	lara			UIP	5x1	37	8.937	Publicado	Italo Retamal	2015-6-13 00:00:00	
+76566	SOC. DE GESTION MEDITERRANEA			UIP	5x1	37	8.937	Publicado	Miguel Apey	2015-6-13 00:00:00	
+77635	DESI			UIP	5x2	37	17.875	Publicado	Claudio Romero	2015-6-13 00:00:00	
+76472	ARMAQ			UIP	5x1	37	8.937	Publicado	Claudio Romero	2015-6-13 00:00:00	
+77578	arevalo carmen			UIP	5x1	37	8.937	Publicado	Pedro Jaime	2015-6-13 00:00:00	
+77133	SOC. COMERCIAL ALCAPARRA LTDA.	Par	Blanco y negro	Generales	5x2	37	10.440	Publicado	Patricia Villena	2015-6-13 00:00:00	
+77318	sociedad restau			UIP	5x2	37	17.875	Publicado	Jacqueline Torres	2015-6-13 00:00:00	
+77882	SOC. EDUCACIONAL PORTALES LTDA.	Par	Blanco y negro	Generales	5x2	38	25.210	Publicado	Claudio Romero	2015-6-13 00:00:00	
+77849	MADARIAGA FREDES JAIME	Par	Blanco y negro	Generales	12x2	38	50.536	Publicado	Pedro Jaime	2015-6-13 00:00:00	
+76932	SERVICIOS GENERALES GUAYACAN S.A	Par	Blanco y negro	Generales	3x2	38	6.666	Publicado	Jacqueline Torres	2015-6-13 00:00:00	
+77958	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	10x3	38	70.890	Publicado	Medios Regionales	2015-6-13 00:00:00	
+67635	FALABELLA RETAIL S.A.	Impar	Cuatricromia	Contraportada	35x6	40	600.000	Publicado	M Cristina Puga	2015-6-13 00:00:00	
+78255	ENTEL PCS	Impar	Cuatricromia	Generales	17x6	CA-05	1.500.000	Publicado	Kathine Soto-Stgo	2015-6-13 00:00:00	
+77641	FE GRANDE INMOBILIARIA LTDA.	Par	Cuatricromia	Ed.Especial	35x6	CA-07	1.238.123	Publicado	Jacqueline Torres	2015-6-13 00:00:00	
+75995	CAMPOS DEL NORTE S.A.	Impar	Cuatricromia	Generales	17x6	CA-09	450.000	Publicado	Patricia Villena	2015-6-13 00:00:00	
+76437	CLUB PLAYA BLANCA	Impar	Cuatricromia	Ed.Especial	17x6	CA-10	0	Arte	Paola Marquez	2015-6-13 00:00:00	
+77642	FE GRANDE INMOBILIARIA LTDA.	Par	Cuatricromia	Ed.Especial	17x6	CA-13	585.685	Publicado	Jacqueline Torres	2015-6-13 00:00:00	
+77117	COMERCIAL VALENTINI E HIJOS LTDA.	Par	Cuatricromia	Ed.Especial	17x6	CA-15	293.658	Publicado	Paola Marquez	2015-6-13 00:00:00	
+77198	BAKULIC RESTAURANT	Par	Cuatricromia	Generales	17x3	CA-18	130.734	Publicado	Miguel Apey	2015-6-13 00:00:00	
+75996	CALZADOS LA ESTRELLA ALPINA	Par	Cuatricromia	Generales	17x3	CA-18	150.000	Publicado	M Cristina Puga	2015-6-13 00:00:00	
+76845	ILUSTRE MUNICIPALIDAD DE RIO HURTAD	Impar	Cuatricromia	Generales	17x1	CA-19	94.128	Publicado	Italo Retamal	2015-6-13 00:00:00	
+76844	ILUSTRE MUNICIPALIDAD DE COMBARBALA	Impar	Cuatricromia	Generales	17x1	CA-19	94.128	Publicado	Italo Retamal	2015-6-13 00:00:00	
+76846	ILUSTRE MUNICIPALIDAD DE PUNITAQUI	Impar	Cuatricromia	Generales	17x1	CA-19	94.128	Publicado	Italo Retamal	2015-6-13 00:00:00	
+76839	ILUSTRE MUNICIPALIDAD DE OVALLE	Impar	Cuatricromia	Generales	17x1	CA-19	94.128	Publicado	Italo Retamal	2015-6-13 00:00:00	
+76840	ILUSTRE MUNICIPALIDAD DE MONTE PATR	Impar	Cuatricromia	Generales	17x1	CA-19	94.128	Publicado	Italo Retamal	2015-6-13 00:00:00	
+77120	COMERCIAL VALENTINI E HIJOS LTDA.	Par	Cuatricromia	Ed.Especial	17x6	CA-21	293.658	Publicado	Paola Marquez	2015-6-13 00:00:00	
+77151	CLINICA REGIONAL DE ELQUI S.A.	Par	Cuatricromia	Ed.Especial	17x3	CA-25	261.467	Publicado	Paola Marquez	2015-6-13 00:00:00	
+75963	ILUSTRE MUNICIPALIDAD DE LA SERENA	Par	Cuatricromia	Generales	17x6	CA-29	294.118	Publicado	M Cristina Puga	2015-6-13 00:00:00	
+77637	LATAM AIRLINES GROUP S.A.	Par	Cuatricromia	Generales	35x6	CA-31	968.966	Publicado	Patricia Villena	2015-6-13 00:00:00	
+75994	CAMPOS DEL NORTE S.A.	Impar	Cuatricromia	Generales	17x6	CA-33	450.000	Publicado	Patricia Villena	2015-6-13 00:00:00	
+77197	SODIMAC	Par	Cuatricromia	Generales	35x6	CA-39	753.640	Publicado	Miguel Apey	2015-6-13 00:00:00	
+76821	INMOBILIARIA ECOMAC SANTIAGO S.A.	Par	Cuatricromia	Ed.Especial	35x6	CA-40	854.305	Publicado	Paola Marquez	2015-6-13 00:00:00	
+77884	SANTANDER G.R.C.	476 Palabras		Legal	x	EC	118.235	Publicado	Pedro Jaime	2015-6-13 00:00:00	
+77887	SANTANDER G.R.C.	584 Palabras		Legal	x	EC	145.042	Publicado	Pedro Jaime	2015-6-13 00:00:00	
+77877	DIARIO EL DIA	Par	Blanco y negro	Generales	6x2	EC-23	0	Publicado	Marcela Tello-ElDia	2015-6-13 00:00:00	
+77921	SOC. INMOBILIARIA E INVERSIONES CHI	Par	Blanco y negro	Generales	5x1	EC-23	21.057	Publicado	Claudio Romero	2015-6-13 00:00:00	
+77826	MAQUINARIAS Y SERVICIOS TAMBLAY LTD	Par	Blanco y negro	Generales	5x2	EC-24	42.113	Publicado	Pedro Jaime	2015-6-13 00:00:00	
+77938	EMPRESA AGRICOLA HC LTDA	Par	Blanco y negro	Generales	5x2	EC-24	42.113	Publicado	Pedro Jaime	2015-6-13 00:00:00	
+77956	A C  PERFORACIONES S.A.	Par	Blanco y negro	Generales	5x2	EC-25	42.113	Publicado	Rene Pizarro	2015-6-13 00:00:00	
+76368	SOC. COMERCIAL VARGAS Y GIACOMET	Par	Blanco y negro	Generales	5x1	EC-25	5.860	Publicado	Rene Pizarro	2015-6-13 00:00:00	
+77893	SOC. INMOBILIARIA E INVERSIONES CHI	Par	Cuatricromia	Generales	10x2	EC-25	117.917	Publicado	Claudio Romero	2015-6-13 00:00:00	
+76338	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Generales	5x1	EC-25	5.860	Publicado	Rene Pizarro	2015-6-13 00:00:00	
+77584	AREVALO CARMEN			UIP	5x1	EC-26	8.937	Publicado	Pedro Jaime	2015-6-13 00:00:00	
+77925	SANTANDER G.R.C.	3858 Palabras		Legal	x	EC-26	956.890	Publicado	Pedro Jaime	2015-6-13 00:00:00	
+77776	EMPRESAS LA POLAR S.A.			Inserto	x	INS	929.720	Publicado	Patricia Villena	2015-6-13 00:00:00	
+77920	SOC. INMOBILIARIA E INVERSIONES CHI	598 Palabras		Propiedades	x	PROP	95.680	Publicado	Claudio Romero	2015-6-13 00:00:00	

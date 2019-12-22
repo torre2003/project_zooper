@@ -1,0 +1,37 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+123185	ARENA CHILE S.A.	Impar	Cuatricromia	Generales	17x6	05	390.000	Publicado	M Cristina Puga	2017-3-4 00:00:00	
+124553	INMOBIL. LA SERENA GOLF S.A.	Impar	Cuatricromia	Generales	17x6	07	288.660	Publicado	Patricia Villena	2017-3-4 00:00:00	
+124501	CLARO CHILE S.A.	Impar	Cuatricromia	Generales	35x6	09	850.000	Publicado	Kathine Soto-Stgo	2017-3-4 00:00:00	
+124417	INMOBIL. PY  S.A.	Par	Blanco y negro	Generales	6x2	10	50.536	Publicado	Claudio Romero	2017-3-4 00:00:00	
+124413	DIRECCION GENERAL DEL CREDITO PREND	Par	Blanco y negro	Generales	18x2	10	106.125	Publicado	Jacqueline Torres	2017-3-4 00:00:00	
+124384	AUTOMOTORES GILDEMEISTER S.A.	Impar	Cuatricromia	Generales	25x5	11	751.718	Publicado	Kathine Soto-Stgo	2017-3-4 00:00:00	
+124402	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	12	0	Arte	Marcela Tello-ElDia	2017-3-4 00:00:00	
+124230	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	12	0	Arte	Marcela Tello-ElDia	2017-3-4 00:00:00	
+124498	UNIVERSIDAD CENTRAL DE CHILE	Par	Blanco y negro	Generales	17x3	13	0	Publicado	Jacqueline Torres	2017-3-4 00:00:00	
+124367	COMERCIAL CELTA LIMITADA	Par	Blanco y negro	Generales	5x2	13	37.902	Publicado	Miguel Apey	2017-3-4 00:00:00	
+123513	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	14	8.306	Publicado	Miguel Apey	2017-3-4 00:00:00	
+124354	PADRES FRANCISCANOS DEL NORTE	Par	Blanco y negro	Generales	6x2	14	50.536	Publicado	Rene Pizarro	2017-3-4 00:00:00	
+123600	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	5x2	14	0	Publicado	Miguel Apey	2017-3-4 00:00:00	
+123155	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	6x6	17	51.666	Publicado	Claudio Romero	2017-3-4 00:00:00	
+123680	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	23	0	Arte	Marcela Tello-ElDia	2017-3-4 00:00:00	
+123506	BAKULIC RESTAURANT	Par	Cuatricromia	Generales	15x3	23	40.092	Publicado	Miguel Apey	2017-3-4 00:00:00	
+124457	INMOBILIARIA RENVAL SPA	Par	Cuatricromia	Generales	34x6	24	781.786	Publicado	Rene Pizarro	2017-3-4 00:00:00	
+124456	SUBSECRETARIA DEL MINISTERIO DE MIN	Par	Blanco y negro	Generales	17x6	28	0	Publicado	Jacqueline Torres	2017-3-4 00:00:00	
+122627	SOC. COM. CENTRO NORTE LTDA.			UIP	5x1	29	7.596	Publicado	Pedro Cortes	2017-3-4 00:00:00	
+123031	sercomp ruiz			UIP	5x2	29	8.936	Publicado	Marcela Tello-ElDia	2017-3-4 00:00:00	
+123122	armaq			UIP	5x1	29	8.937	Publicado	Claudio Romero	2017-3-4 00:00:00	
+121787	SOC. DE GES			UIP	5x1	29	8.937	Publicado	Miguel Apey	2017-3-4 00:00:00	
+120955	CERNA E HIJOS CIA. LTDA.	Par	Blanco y negro	Generales	5x1	29	4.468	Publicado	Nadia Randolph	2017-3-4 00:00:00	
+123544	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	4x5	29	20.508	Publicado	Miguel Apey	2017-3-4 00:00:00	
+124451	LUIS CONTRERAS FARIAS	Par	Blanco y negro	Generales	12x2	30	60.643	Publicado	Rene Pizarro	2017-3-4 00:00:00	
+122877	VELIZ CORTES JOSE A.	Par	Blanco y negro	Generales	3x2	30	13.403	Publicado	Pedro Cortes	2017-3-4 00:00:00	
+123684	WALMART CHILE S.A	Impar	Cuatricromia	Generales	35x6	32	600.000	Publicado	M Cristina Puga	2017-3-4 00:00:00	
+124410	CIA. DE LEASING TATTERSALL S.A.	Par	Blanco y negro	Generales	11x2	EC-19	69.487	Publicado	Pedro Jaime	2017-3-4 00:00:00	
+123738	HOTELERIA LUIS ALBERTO BERETTA KIEK	Par	Blanco y negro	Generales	5x2	EC-20	6.061	Publicado	Patricia Villena	2017-3-4 00:00:00	
+124357	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Generales	5x1	EC-20	6.043	Publicado	Rene Pizarro	2017-3-4 00:00:00	
+123921	BANCO ESTADO DE CHILE	843 Palabras		Legal	x	EC-21	209.160	Publicado	Pedro Jaime	2017-3-4 00:00:00	
+124407	BARRAZA CARLOS	Par	Blanco y negro	Generales	5x2	EC-21	42.113	Publicado	Pedro Jaime	2017-3-4 00:00:00	
+124502	BANCO DE CHILE	836 Palabras		Legal	x	EC-21	207.563	Publicado	Pedro Jaime	2017-3-4 00:00:00	
+124401	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	EC-21	0	Arte	Marcela Tello-ElDia	2017-3-4 00:00:00	
+123233	Easy Retail S.A.			Inserto	x	INS	981.750	Publicado	Patricia Villena	2017-3-4 00:00:00	
+124350	COMERCIAL E.C.C.S.A.  S.A.		9 a 24 pag.	Inserto	x	INS	567.000	Publicado	M Cristina Puga	2017-3-4 00:00:00	

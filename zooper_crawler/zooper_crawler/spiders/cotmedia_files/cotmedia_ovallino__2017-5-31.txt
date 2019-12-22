@@ -1,0 +1,9 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+130655	PEDRO ANDRES MONARDEZ ELGUETA	Par	Cuatricromia	Generales	6x6	01	25.000	Publicado	Karina Rivera	Restaurant Riquisimo	2017-5-31 00:00:00	
+128750	OVALLE CASINO RESORT S.A	Par	Cuatricromia	Generales	25x4	03	0	Publicado	Paola Marquez	OCR Eventos Mayo	2017-5-31 00:00:00	
+129962	centro de salud 			UIP	5x4	05	5.630	Publicado	Karina Rivera	CENTRO DE SALUD PORTALES	2017-5-31 00:00:00	
+130187	INMOBILIARIA RENACIMIENTO LTDA	Par	Cuatricromia	Generales	5x2	05	14.830	Publicado	Karina Rivera	INMOBILIARIA REQUIERE	2017-5-31 00:00:00	
+129767	DABED Y CIA. LTDA., SELIM	Par	Cuatricromia	Generales	6x6	08	23.076	Publicado	Karina Rivera	M8	2017-5-31 00:00:00	
+128433	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	6x6	09	16.065	Publicado	Claudio Romero	Muebles Alpina	2017-5-31 00:00:00	
+130665	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x3	11	0	Arte	Marcela Tello-ElDia	Vea en Cinemark - La Mujer Maravilla	2017-5-31 00:00:00	
+130476	MAGGIE ARAYA	Par	Blanco y negro	Generales	10x2	14	32.956	Publicado	Karina Rivera	AGRADECIMIENTOS	2017-5-31 00:00:00	

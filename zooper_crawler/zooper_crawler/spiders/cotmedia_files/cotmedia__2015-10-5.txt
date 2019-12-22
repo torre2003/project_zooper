@@ -1,0 +1,31 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+85281	SALINAS Y FABRES S.A.	Impar	Cuatricromia	Generales	17x6	05	0	Publicado	M Cristina Puga	2015-10-5 00:00:00	
+85601	HABITA INMOBILIARIA SA	Par	Cuatricromia	Generales	35x3	07	0	Publicado	Miguel Apey	2015-10-5 00:00:00	
+85958	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	08	0	Publicado	Marcela Tello-ElDia	2015-10-5 00:00:00	
+85876	DIARIO EL DIA	Par	Cuatricromia	Generales	14x2	08	0	Publicado	Marcela Tello-ElDia	2015-10-5 00:00:00	
+85873	INMOBIL. LA SERENA GOLF S.A.	Par	Cuatricromia	Generales	17x6	09	0	Publicado	Patricia Villena	2015-10-5 00:00:00	
+85810	UNIVERSIDAD TECNOLOGICA DE CHILE	Par	Blanco y negro	Generales	17x3	10	0	Arte	Patricia Villena	2015-10-5 00:00:00	
+85913	SOC. COMERCIAL ALCAPARRA LTDA.	Par	Cuatricromia	Generales	17x3	10	0	Arte	Patricia Villena	2015-10-5 00:00:00	
+85600	INVERSIONES E INMOBILIARIA P.A.T.  	Par	Cuatricromia	Generales	9x6	11	0	Publicado	Miguel Apey	2015-10-5 00:00:00	
+85978	DIARIO EL DIA	Par	Cuatricromia	Generales	17x6	12	0	Publicado	Marcela Tello-ElDia	2015-10-5 00:00:00	
+85225	LABORATORIO CLINICO STA. MARIA LA S	Par	Blanco y negro	Generales	6x2	13	7.470	Publicado	Miguel Apey	2015-10-5 00:00:00	
+84648	CERNA E HIJOS CIA. LTDA.	Par	Blanco y negro	Generales	5x1	13	4.468	Publicado	Nadia Randolph	2015-10-5 00:00:00	
+85367	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	10x3	13	0	Publicado	Marcela Tello-ElDia	2015-10-5 00:00:00	
+85693	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	26x5	14	282.620	Publicado	Medios Regionales	2015-10-5 00:00:00	
+85754	Napoleon			UIP	5x2	15	0	Publicado	Patricia Villena	2015-10-5 00:00:00	
+85882	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	6x2	15	26.088	Publicado	Medios Regionales	2015-10-5 00:00:00	
+85241	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	15-16	8.306	Publicado	Miguel Apey	2015-10-5 00:00:00	
+85934	ROTARY CLUB DE COQUIMBO	Par	Blanco y negro	Generales	17x6	18	0	Publicado	Miguel Apey	2015-10-5 00:00:00	
+85946	CENTRO MEDICO DENTAL STO. TOMAS LTD	Par	Cuatricromia	Generales	8x4	22	0	Publicado	Rene Pizarro	2015-10-5 00:00:00	
+85817	DIARIO EL DIA	Par	Cuatricromia	Generales	5x6	26	0	Publicado	Marcela Tello-ElDia	2015-10-5 00:00:00	
+85979	DIARIO EL DIA	Par	Cuatricromia	Generales	17x6	27	0	Publicado	Marcela Tello-ElDia	2015-10-5 00:00:00	
+83907				UIP	5x2	30	17.875	Publicado	Pedro Jaime	2015-10-5 00:00:00	
+84161	soc. comercial e inv. alto la seren			UIP	5x2	30	8.937	Publicado	Nadia Randolph	2015-10-5 00:00:00	
+84467	SOC. DE GESTION MEDITERRANEA			UIP	5x1	30	8.937	Publicado	Miguel Apey	2015-10-5 00:00:00	
+85297	SOC. COMERCIAL ALCAPARRA LTDA.	Par	Blanco y negro	Generales	5x2	30	10.440	Publicado	Patricia Villena	2015-10-5 00:00:00	
+85408	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	30	0	Publicado	Marcela Tello-ElDia	2015-10-5 00:00:00	
+85483	DIARIO EL DIA	Par	Blanco y negro	Generales	5x2	30	0	Publicado	Marcela Tello-ElDia	2015-10-5 00:00:00	
+85535	ARMAQ			UIP	5x1	30	8.937	Publicado	Claudio Romero	2015-10-5 00:00:00	
+83679	SERVICIOS GENERALES GUAYACAN S.A	Par	Blanco y negro	Generales	3x2	31	6.451	Publicado	Jacqueline Torres	2015-10-5 00:00:00	
+84740	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Generales	5x1	EC-20	5.860	Publicado	Rene Pizarro	2015-10-5 00:00:00	
+85956	DABED Y CIA. LTDA., SELIM		1 pag.	Inserto	x	INS	87.395	Publicado	Italo Retamal	2015-10-5 00:00:00	

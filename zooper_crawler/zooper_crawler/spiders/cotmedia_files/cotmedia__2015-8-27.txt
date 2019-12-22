@@ -1,0 +1,36 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+81718	CHRISTIAN LAUNITZ MARIN SERVICIOS M	Par	Blanco y negro	Generales	3x2	04	6.440	Publicado	Jacqueline Torres	2015-8-27 00:00:00	
+82921	CLARO CHILE S.A.	Impar	Cuatricromia	Generales	35x6	05	645.977	Publicado	Kathine Soto-Stgo	2015-8-27 00:00:00	
+82868	DIARIO EL DIA	Par	Cuatricromia	Generales	17x6	08	0	Publicado	Marcela Tello-ElDia	2015-8-27 00:00:00	
+82967	CONAFE	Par	Blanco y negro	Generales	17x3	11	186.762	Publicado	Jacqueline Torres	2015-8-27 00:00:00	
+82936	SANTO TOMAS S.A.	Par	Blanco y negro	Generales	17x3	11	0	Publicado	Patricia Villena	2015-8-27 00:00:00	
+80782	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	10x3	13	0	Publicado	Marcela Tello-ElDia	2015-8-27 00:00:00	
+80898	CASA DEL PERNO	Par	Blanco y negro	Generales	5x3	13	23.071	Publicado	Miguel Apey	2015-8-27 00:00:00	
+82940	DIARIO EL DIA	Par	Blanco y negro	Generales	12x6	14	0	Publicado	Marcela Tello-ElDia	2015-8-27 00:00:00	
+82960	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	17x6	16	0	Publicado	Claudio Romero	2015-8-27 00:00:00	
+80881	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	17	8.306	Publicado	Miguel Apey	2015-8-27 00:00:00	
+81259	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	6x6	17	58.905	Publicado	Claudio Romero	2015-8-27 00:00:00	
+82462	herman			UIP	5x2	18	17.875	Publicado	Maria_Amelia Hermosilla	2015-8-27 00:00:00	
+80953	DIARIO EL DIA	Par	Blanco y negro	Generales	10x2	18	0	Publicado	Marcela Tello-ElDia	2015-8-27 00:00:00	
+80848	LABORATORIO CLINICO STA. MARIA LA S	Par	Blanco y negro	Generales	6x2	18	7.470	Publicado	Miguel Apey	2015-8-27 00:00:00	
+82527	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	22	0	Publicado	Marcela Tello-ElDia	2015-8-27 00:00:00	
+82386	DIARIO EL DIA	Par	Cuatricromia	Generales	18x3	22	0	Publicado	Marcela Tello-ElDia	2015-8-27 00:00:00	
+82910	DIARIO EL DIA	Par	Blanco y negro	Generales	35x6	24	0	Publicado	Carolina Naranjo	2015-8-27 00:00:00	
+82911	DIARIO EL DIA	Impar	Blanco y negro	Generales	35x6	25	0	Publicado	Carolina Naranjo	2015-8-27 00:00:00	
+82932	maquinaria 			UIP	17x1	29	29.333	Publicado	Claudio Romero	2015-8-27 00:00:00	
+82736	AUTOMOTORES DEL NORTE	Par	Blanco y negro	Generales	5x1	29	7.427	Publicado	Miguel Apey	2015-8-27 00:00:00	
+82609	ECHEVERRI GOMEZ			UIP	5x1	29	8.937	Publicado	Pedro Jaime	2015-8-27 00:00:00	
+77394	sociedad restau			UIP	5x2	29	17.875	Publicado	Jacqueline Torres	2015-8-27 00:00:00	
+80698	DIARIO EL DIA	Par	Blanco y negro	Generales	5x2	29	0	Publicado	Marcela Tello-ElDia	2015-8-27 00:00:00	
+80720	PILLA LA VACA	Par	Blanco y negro	Generales	5x2	29	0	Publicado	Marcela Tello-ElDia	2015-8-27 00:00:00	
+80747	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	29	0	Publicado	Marcela Tello-ElDia	2015-8-27 00:00:00	
+81072	armaq			UIP	5x1	29	8.937	Publicado	Claudio Romero	2015-8-27 00:00:00	
+81237	SOC. COMERCIAL ALCAPARRA LTDA.	Par	Blanco y negro	Generales	5x2	29	10.440	Publicado	Patricia Villena	2015-8-27 00:00:00	
+82176	SOC. DE GESTION MEDITERRANEA			UIP	5x1	29	8.937	Publicado	Miguel Apey	2015-8-27 00:00:00	
+81678	SERVICIOS GENERALES GUAYACAN S.A	Par	Blanco y negro	Generales	3x2	30	6.451	Publicado	Jacqueline Torres	2015-8-27 00:00:00	
+82340	INMOBIL. E INVERSIONES AREYUNA E HI	Par	Cuatricromia	Generales	35x6	32	0	Publicado	Claudio Romero	2015-8-27 00:00:00	
+82964	SOC. EDUCACIONAL SAN GUILLERMO LTDA	Par	Blanco y negro	Generales	5x2	EC-19	25.634	Publicado	Miguel Apey	2015-8-27 00:00:00	
+81512	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Generales	5x1	EC-20	5.860	Publicado	Rene Pizarro	2015-8-27 00:00:00	
+81544	SOC. COMERCIAL VARGAS Y GIACOMET	Par	Blanco y negro	Generales	5x1	EC-20	5.860	Publicado	Rene Pizarro	2015-8-27 00:00:00	
+81943	CORP. ADM. DEL PODER JUDICIAL	Par	Blanco y negro	Economico	12x1	EC-20	10.838	Publicado	Jacqueline Torres	2015-8-27 00:00:00	
+82958	JDV REMATES S.A.	Par	Blanco y negro	Generales	10x4	EC-20	141.908	Publicado	Marcela Tello-ElDia	2015-8-27 00:00:00	

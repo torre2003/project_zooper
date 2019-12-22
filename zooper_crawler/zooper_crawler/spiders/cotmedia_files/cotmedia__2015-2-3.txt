@@ -1,0 +1,31 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+68503	CLARO CHILE S.A.	Impar	Cuatricromia	Generales	25x5	05	373.600	Publicado	Kathine Soto-Stgo	2015-2-3 00:00:00	
+67850	CHRISTIAN LAUNITZ MARIN SERVICIOS M	Par	Blanco y negro	Generales	3x2	08	6.452	Publicado	Jacqueline Torres	2015-2-3 00:00:00	
+67248	IMPLEMENTA MARKETING DEPORTIVO SPA	Par	Cuatricromia	Generales	17x6	09	192.956	Publicado	Marcela Tello-ElDia	2015-2-3 00:00:00	
+68387	FONDO DE SOLIDARIDAD E INVERSION SO	Par	Cuatricromia	Generales	17x3	10	169.954	Publicado	Jacqueline Torres	2015-2-3 00:00:00	
+67971	MARCOS GABRIEL WEXLER PERALTA	Par	Cuatricromia	Generales	5x6	11	99.973	Publicado	Pedro Jaime	2015-2-3 00:00:00	
+68328	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Blanco y negro	Generales	6x6	12	0	Publicado	Claudio Romero	2015-2-3 00:00:00	
+66995	INMOBILIARIA DOMINGA NORTE LTDA	Par	Blanco y negro	Generales	5x2	13	22.631	Publicado	Pedro Jaime	2015-2-3 00:00:00	
+68216	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	10x3	14	0	Publicado	Marcela Tello-ElDia	2015-2-3 00:00:00	
+67380	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	16	8.306	Publicado	Miguel Apey	2015-2-3 00:00:00	
+68488	DIARIO EL DIA	Par	Cuatricromia	Generales	17x6	16	0	Arte	Marcela Tello-ElDia	2015-2-3 00:00:00	
+67517	PRODUCCIONES ALVAREZ LTDA	Par	Cuatricromia	Generales	8x6	21	91.052	Publicado	M Cristina Puga	2015-2-3 00:00:00	
+66849	DIARIO EL DIA	Par	Cuatricromia	Generales	8x6	22	0	Arte	Marcela Tello-ElDia	2015-2-3 00:00:00	
+68460	DIARIO EL DIA	Impar	Blanco y negro	Generales	35x6	23	0	Arte	Carolina Naranjo	2015-2-3 00:00:00	
+68507	DIARIO EL DIA	Par	Blanco y negro	Generales	24x6	24	0	Arte	Carolina Naranjo	2015-2-3 00:00:00	
+68506	ILUSTRE MUNICIPALIDAD DE COQUIMBO	Par	Blanco y negro	Generales	10x6	24	153.804	Publicado	Miguel Apey	2015-2-3 00:00:00	
+67422	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	4x5	28	20.508	Publicado	Miguel Apey	2015-2-3 00:00:00	
+68405	SOC. COMERCIAL ALCAPARRA LTDA.	Par	Blanco y negro	Generales	5x2	29	10.440	Publicado	Patricia Villena	2015-2-3 00:00:00	
+68290	DIARIO EL DIA	Par	Blanco y negro	Generales	5x2	29	0	Arte	Marcela Tello-ElDia	2015-2-3 00:00:00	
+68171	ARMAQ			UIP	5x1	29	8.937	Publicado	Claudio Romero	2015-2-3 00:00:00	
+68138	PILLA LA VACA	Par	Blanco y negro	Generales	5x2	29	0	Publicado	Marcela Tello-ElDia	2015-2-3 00:00:00	
+68108	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	29	0	Publicado	Marcela Tello-ElDia	2015-2-3 00:00:00	
+68012	morales aguilera segundo			UIP	5x1	29	8.937	Publicado	Miguel Apey	2015-2-3 00:00:00	
+66171	CROVETTO CASTILLO JORGE			UIP	5x2	29	17.875	Publicado	Miguel Apey	2015-2-3 00:00:00	
+67342	SOC. DE GESTION MEDITERRANEA			UIP	5x1	29	8.937	Publicado	Miguel Apey	2015-2-3 00:00:00	
+67607	SOC. INMOBILIARIA DE INVERSIONES RE	Par	Blanco y negro	Generales	5x1	29	7.427	Publicado	Miguel Apey	2015-2-3 00:00:00	
+67699	SOCIEDAD RESTAURA			UIP	5x2	29	17.875	Publicado	Jacqueline Torres	2015-2-3 00:00:00	
+67979	SERVICIOS GENERALES GUAYACAN S.A	Par	Blanco y negro	Generales	3x2	30	6.666	Publicado	Jacqueline Torres	2015-2-3 00:00:00	
+68495	INMOBILIARIA DELCA LIMITADA	Par	Cuatricromia	Contraportada	34x6	32	450.000	Publicado	Rene Pizarro	2015-2-3 00:00:00	
+67797	SOC. COMERCIAL VARGAS Y GIACOMET	Par	Blanco y negro	Generales	5x1	EC-19	5.860	Publicado	Rene Pizarro	2015-2-3 00:00:00	
+67769	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Generales	5x1	EC-19	5.860	Publicado	Rene Pizarro	2015-2-3 00:00:00	

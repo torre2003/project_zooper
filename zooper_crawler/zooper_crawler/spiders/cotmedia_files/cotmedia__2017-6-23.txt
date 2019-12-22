@@ -1,0 +1,44 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+130969	CHRISTIAN LAUNITZ MARIN SERVICIOS M	Par	Blanco y negro	Generales	8x2	04	5.000	Publicado	Heinger Vega Torres	2017-6-23 00:00:00	
+132326	EMPRESAS LA POLAR S.A.	Impar	Cuatricromia	Generales	35x6	05	504.000	Publicado	Patricia Villena	2017-6-23 00:00:00	
+131890	INMOBILIARIA ECASA CHILE S.A.	Par	Cuatricromia	Generales	34x6	07	355.595	Publicado	Paola Marquez	2017-6-23 00:00:00	
+132328	J. MOSELLA S.A.	Par	Cuatricromia	Generales	12x3	08	184.565	Publicado	Jacqueline Torres	2017-6-23 00:00:00	
+132433	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	08	0	Publicado	Marcela Tello-ElDia	2017-6-23 00:00:00	
+132329	EMPRESAS LA POLAR S.A.	Impar	Cuatricromia	Generales	35x6	09	504.000	Publicado	Patricia Villena	2017-6-23 00:00:00	
+132337	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Cuatricromia	Medios Regionales	35x6	11	557.180	Arte	Medios Regionales	2017-6-23 00:00:00	
+132062	MADERO COMUNICACIONES LTDA.	Par	Cuatricromia	Generales	10x6	12	0	Publicado	Marcela Tello-ElDia	2017-6-23 00:00:00	
+132122	ARZOBISPADO DE LA SERENA	Par	Blanco y negro	Generales	5x2	13	0	Arte	Marcela Tello-ElDia	2017-6-23 00:00:00	
+132251	SOCIEDAD EDUCATIVA CUMBRES LIMITADA	Par	Blanco y negro	Generales	5x2	13	32.958	Publicado	Claudio Romero	2017-6-23 00:00:00	
+131997	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	5x2	13	20.508	Arte	Miguel Apey	2017-6-23 00:00:00	
+132275	MOP OOPP	Par	Blanco y negro	Generales	19x2	14	97.117	Publicado	Marcela Tello-ElDia	2017-6-23 00:00:00	
+132322	ASOC. GREMIAL MINERA LA HIGUERA	Par	Blanco y negro	Generales	6x1	14	21.972	Publicado	Pedro Jaime	2017-6-23 00:00:00	
+132334	SERV. AGRICOLA Y GANADERO	Par	Blanco y negro	Generales	17x3	14	112.058	Publicado	Jacqueline Torres	2017-6-23 00:00:00	
+130776	DIARIO EL DIA	Par	Blanco y negro	Generales	5x2	15	0	Publicado	Marcela Tello-ElDia	2017-6-23 00:00:00	
+132053	ILUSTRE MUNICIPALIDAD DE OVALLE	Impar	Blanco y negro	Generales	8x2	15	49.218	Publicado	Claudio Romero	2017-6-23 00:00:00	
+132273	ILUSTRE MUNICIPALIDAD DE COQUIMBO	Par	Blanco y negro	Generales	15x2	15	76.902	Publicado	Miguel Apey	2017-6-23 00:00:00	
+130852	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	16	8.306	Publicado	Miguel Apey	2017-6-23 00:00:00	
+131684	DIARIO EL DIA	Par	Cuatricromia	Generales	6x6	16	0	Publicado	Marcela Tello-ElDia	2017-6-23 00:00:00	
+131952	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Cuatricromia	Medios Regionales	17x6	17	322.388	Publicado	Medios Regionales	2017-6-23 00:00:00	
+132199	EFRAIN PALMA KUHNOW	Par	Cuatricromia	Generales	6x6	21	92.283	Publicado	Karina Rivera	2017-6-23 00:00:00	
+130444	PILLA LA VACA	Par	Cuatricromia	Generales	5x2	23	0	Publicado	Marcela Tello-ElDia	2017-6-23 00:00:00	
+131843	HOTEL COSTA REAL	Par	Cuatricromia	Generales	10x2	23	30.761	Publicado	Marcela Tello-ElDia	2017-6-23 00:00:00	
+131910	SERVICIOS GASTRON?MICOS LA CASONA D	Par	Blanco y negro	Generales	5x2	23	10.725	Publicado	Miguel Apey	2017-6-23 00:00:00	
+130349	SOC. HOTELERA VICHUQUEN LTDA.	Par	Cuatricromia	Generales	5x3	23	0	Publicado	Marcela Tello-ElDia	2017-6-23 00:00:00	
+130371	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	23	0	Publicado	Marcela Tello-ElDia	2017-6-23 00:00:00	
+130462	MARTIN JURE PATRICIA	Par	Cuatricromia	Generales	5x3	23	0	Publicado	Marcela Tello-ElDia	2017-6-23 00:00:00	
+132253	DIARIO EL DIA	Par	Blanco y negro	Generales	35x6	24	0	Publicado	Carolina Naranjo	2017-6-23 00:00:00	
+131345	CONSTRUCTORA SAMCO LTDA	Par	Cuatricromia	Generales	9x6	27	179.951	Publicado	Miguel Apey	2017-6-23 00:00:00	
+131973	DIARIO EL DIA	Par	Cuatricromia	Generales	6x3	28	0	Publicado	Marcela Tello-ElDia	2017-6-23 00:00:00	
+132210	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	28	0	Publicado	Marcela Tello-ElDia	2017-6-23 00:00:00	
+130414	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	29	0	Publicado	Marcela Tello-ElDia	2017-6-23 00:00:00	
+130640	ARMAQ			UIP	5x1	29	8.937	Publicado	Claudio Romero	2017-6-23 00:00:00	
+128015	cern			UIP	5x1	29	8.937	Publicado	Nadia Randolph	2017-6-23 00:00:00	
+132073	AREVALO CARMEN			UIP	5x1	29	8.937	Publicado	Pedro Jaime	2017-6-23 00:00:00	
+131174	SOC. DE GES			UIP	5x1	29	8.937	Publicado	Miguel Apey	2017-6-23 00:00:00	
+131808	VELIZ CORTES JOSE A.	Par	Blanco y negro	Generales	3x2	30	13.403	Publicado	Pedro Cortes	2017-6-23 00:00:00	
+130740	SERVICIOS GENERALES GUAYACAN S.A	Par	Blanco y negro	Generales	4x2	30	6.666	Publicado	Jacqueline Torres	2017-6-23 00:00:00	
+132266	INMOBILIARIA EURO AMH S.A.	Impar	Cuatricromia	Generales	34x6	32	815.777	Publicado	Paola Marquez	2017-6-23 00:00:00	
+131854	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Economico	5x2	EC-18	17.212	Publicado	Rene Pizarro	2017-6-23 00:00:00	
+132309	SCOTIABANK CHILE S.A.	640 Palabras		Legal	x	EC-19	158.720	Publicado	Pedro Jaime	2017-6-23 00:00:00	
+132306	SOC. INMOBILIARIA E INVERSIONES CHI	Impar	Cuatricromia	Generales	10x2	EC-19	110.739	Publicado	Claudio Romero	2017-6-23 00:00:00	
+123851	HOTELERIA LUIS ALBERTO BERETTA KIEK	Par	Blanco y negro	Generales	5x2	EC-19	6.061	Publicado	Patricia Villena	2017-6-23 00:00:00	

@@ -1,0 +1,11 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+131381	CLAUDIA TORRES			UIP	10x2	03	6.306	Publicado	Karina Rivera	GRUPO ANANDA OVALLE	2017-6-8 00:00:00	
+131100	SOC. AGRICOLA HACIENDA 			UIP	10x2	03	5.630	Publicado	Karina Rivera	VENTA TRACTORES	2017-6-8 00:00:00	
+131343	SOC. EDUCACIONAL SOSTENEDORA STA. M	Par	Blanco y negro	Generales	15x2	03	70.620	Publicado	Claudio Romero	CITACION..JUNTA..(REPITE DEL 7.JUNIO)	2017-6-8 00:00:00	
+131467	SERVICIO ELECTORAL	Impar	Blanco y negro	Generales	17x3	05	0	Publicado	Jacqueline Torres	INFORMA SERVEL LISTADO SABADO 10 DE JUNIO	2017-6-8 00:00:00	
+129969	CENTRO DE SALUD PORTALES LTDA			UIP	5x4	07	5.630	Publicado	Karina Rivera	CENTRO DE SALUD PORTALES	2017-6-8 00:00:00	
+130998	JACQUELINE JOFRE VILLANUEVA			UIP	5x2	07	2.808	Publicado	Karina Rivera	CORTINAS ROLLER OVALLE	2017-6-8 00:00:00	
+130394	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	09	0	Arte	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2017-6-8 00:00:00	
+131493	AGUAS ALTO LAS MOLLACAS	Par	Blanco y negro	Generales	17x2	13	80.036	Publicado	Leonel Pizarro-Ovalle	CITACION A JUNTA	2017-6-8 00:00:00	
+131472	ALVARO CASTRO			UIP	5x2	14	5.617	Publicado	Karina Rivera	SCORT VIP	2017-6-8 00:00:00	
+131478	ALVARO CASTRO			UIP	5x2	14	5.617	Publicado	Karina Rivera	SCORT VIP 2	2017-6-8 00:00:00	

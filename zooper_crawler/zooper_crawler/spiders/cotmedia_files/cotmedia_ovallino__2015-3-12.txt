@@ -1,0 +1,6 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+70475	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	6x2	07	0	Publicado	Marcela Tello-ElDia	Publique ahora - ventas comerciales	2015-3-12 00:00:00	
+70511	renacer			UIP	5x2	07	2.808	Publicado	Leonel Pizarro-Ovalle	arrienda	2015-3-12 00:00:00	
+70780	GOTTREUX SALAS RUBEN	Par	Blanco y negro	Generales	8x2	07	32.015	Publicado	Leonel Pizarro-Ovalle	remate ovalle	2015-3-12 00:00:00	
+70079	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	10x3	09	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2015-3-12 00:00:00	
+70909	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	35x6	11	0	Publicado	Marcela Tello-ElDia		2015-3-12 00:00:00	

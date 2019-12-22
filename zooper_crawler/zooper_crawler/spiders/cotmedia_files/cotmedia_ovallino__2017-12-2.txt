@@ -1,0 +1,10 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+145148	DABED Y CIA. LTDA., SELIM	Par	Cuatricromia	Generales	6x6	01	23.076	Publicado	Karina Rivera	FELIZ NAVIDAD MAT. PARA LA CONST.	2017-12-2 00:00:00	
+138366	CENTRO DE SALUD PORTALES LTDA			UIP	5x4	05	4.504	Publicado	Karina Rivera		2017-12-2 00:00:00	
+144392	AGRICOLA NORTE TALINAY LTDA	Par	Blanco y negro	Generales	5x2	05	1.666	Publicado	Paola Marquez	UIP VENTA ALFALFA	2017-12-2 00:00:00	
+142745	INMOBILIARIA NUEVA SERENA			UIP	10x6	07	16.260	Publicado	Claudio Romero	LLANOS DE SAN LUIS ..SE CONFIRMARA SI REPITE CASAS Y DEPARTAMENTOS	2017-12-2 00:00:00	
+145254	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	12x6	08	0	Arte	Marcela Tello-ElDia	Vive la Experiencia de estar bien informado...	2017-12-2 00:00:00	
+145063	EMPRESA PERIODISTICA EL NORTE S.A.	Par	Blanco y negro	Medios Regionales	6x2	09	17.340	Publicado	Medios Regionales		2017-12-2 00:00:00	
+145233	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Cuatricromia	Medios Regionales	10x3	11	115.603	Arte	Medios Regionales		2017-12-2 00:00:00	
+143403	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	14	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2017-12-2 00:00:00	
+143974	VELIZ CORTES JOSE A.			UIP	5x2	14	4.695	Publicado	Pedro Cortes		2017-12-2 00:00:00	

@@ -1,0 +1,39 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+134433	CHRISTIAN LAUNITZ MARIN SERVICIOS M	Par	Blanco y negro	Generales	8x2	04	5.000	Publicado	Heinger Vega Torres	2017-7-20 00:00:00	
+133993	ANDES IRON SPA	Impar	Cuatricromia	Generales	35x6	05	775.173	Publicado	Jacqueline Torres	2017-7-20 00:00:00	
+134326	CALLEGARI LTDA.	Par	Cuatricromia	Generales	17x6	07	285.498	Publicado	Marcela Tello-ElDia	2017-7-20 00:00:00	
+134441	DIARIO EL DIA	Par	Cuatricromia	Generales	10x6	08	0	Publicado	Marcela Tello-ElDia	2017-7-20 00:00:00	
+134402	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Cuatricromia	Medios Regionales	16x6	09	309.344	Arte	Medios Regionales	2017-7-20 00:00:00	
+134343	ESTUDIO JURIDICO OLIVARES Y CIA. SP	Par	Blanco y negro	Generales	5x2	11	2.666	Publicado	Jacqueline Torres	2017-7-20 00:00:00	
+132803	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	6x6	12	51.666	Publicado	Claudio Romero	2017-7-20 00:00:00	
+134300	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Cuatricromia	Medios Regionales	32x3	13	309.344	Publicado	Medios Regionales	2017-7-20 00:00:00	
+130803	DIARIO EL DIA	Par	Blanco y negro	Generales	5x2	14	0	Publicado	Marcela Tello-ElDia	2017-7-20 00:00:00	
+132860	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	5x2	14	0	Arte	Miguel Apey	2017-7-20 00:00:00	
+132610	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	14	8.306	Publicado	Miguel Apey	2017-7-20 00:00:00	
+132628	LABORATORIO CLINICO STA. MARIA LA S	Par	Blanco y negro	Generales	6x2	14	7.470	Publicado	Miguel Apey	2017-7-20 00:00:00	
+134371	CORPORACION MUNICIPAL DE TURISMO DE	Par	Cuatricromia	Generales	17x3	15	190.497	Publicado	Jacqueline Torres	2017-7-20 00:00:00	
+134442	DIARIO EL DIA	Par	Cuatricromia	Generales	34x6	16	0	Publicado	Marcela Tello-ElDia	2017-7-20 00:00:00	
+133101	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	17	0	Publicado	Marcela Tello-ElDia	2017-7-20 00:00:00	
+134443	DIARIO EL DIA	Par	Cuatricromia	Generales	10x6	18	0	Publicado	Marcela Tello-ElDia	2017-7-20 00:00:00	
+134338	SANTANDER G.R.C.	Par	Blanco y negro	Generales	30x6	21	503.081	Publicado	Pedro Jaime	2017-7-20 00:00:00	
+134311	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	23	0	Publicado	Marcela Tello-ElDia	2017-7-20 00:00:00	
+134432	DIARIO EL DIA	Par	Blanco y negro	Generales	35x6	24	0	Publicado	Carolina Naranjo	2017-7-20 00:00:00	
+132263	DIARIO EL DIA	Par	Blanco y negro	Generales	35x6	25	0	Publicado	Carolina Naranjo	2017-7-20 00:00:00	
+134124	SALINAS Y FABRES S.A.	Impar	Cuatricromia	Generales	17x6	29	282.000	Publicado	M Cristina Puga	2017-7-20 00:00:00	
+132634	CASA DEL PERNO	Par	Blanco y negro	Generales	5x3	32	23.071	Publicado	Miguel Apey	2017-7-20 00:00:00	
+132765	ARMAQ			UIP	5x1	32	8.937	Publicado	Claudio Romero	2017-7-20 00:00:00	
+132655	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	4x5	33	20.508	Publicado	Miguel Apey	2017-7-20 00:00:00	
+133039	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	33	0	Publicado	Marcela Tello-ElDia	2017-7-20 00:00:00	
+132581	SOC. DE GES			UIP	5x1	33	8.937	Publicado	Miguel Apey	2017-7-20 00:00:00	
+133011	PILLA LA VACA	Par	Blanco y negro	Generales	5x2	33	0	Publicado	Marcela Tello-ElDia	2017-7-20 00:00:00	
+133508	SOCIEDAD MEDICA  Y CONSULTORA ESTET			UIP	5x1	33	8.937	Publicado	Maria_Amelia Hermosilla	2017-7-20 00:00:00	
+134272	VELIZ CORTES JOSE A.	Par	Blanco y negro	Generales	3x2	34	13.403	Publicado	Pedro Cortes	2017-7-20 00:00:00	
+132895	SERVICIOS GENERALES GUAYACAN S.A	Par	Blanco y negro	Generales	4x2	34	6.666	Publicado	Jacqueline Torres	2017-7-20 00:00:00	
+133903	AUTOMOTORES DEL NORTE	Par	Blanco y negro	Generales	5x1	35	7.427	Publicado	Miguel Apey	2017-7-20 00:00:00	
+134444	DIARIO EL DIA	Par	Cuatricromia	Generales	34x6	36	0	Publicado	Marcela Tello-ElDia	2017-7-20 00:00:00	
+134208	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	10x2	EC-19	43.480	Publicado	Medios Regionales	2017-7-20 00:00:00	
+134237	JDV REMATES S.A.	Par	Blanco y negro	Generales	7x3	EC-20	69.748	Publicado	Pedro Jaime	2017-7-20 00:00:00	
+134006	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	6x2	EC-20	26.088	Publicado	Medios Regionales	2017-7-20 00:00:00	
+132941	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Economico	5x2	EC-20	16.774	Publicado	Rene Pizarro	2017-7-20 00:00:00	
+123878	HOTELERIA LUIS ALBERTO BERETTA KIEK	Par	Blanco y negro	Generales	5x2	EC-20	6.061	Publicado	Patricia Villena	2017-7-20 00:00:00	
+133988	SUBSECRETARIA DE PREVISION SOCIAL	Impar	Cuatricromia	Insercion	35x6	INS	1.944.800	Publicado	Jacqueline Torres	2017-7-20 00:00:00	

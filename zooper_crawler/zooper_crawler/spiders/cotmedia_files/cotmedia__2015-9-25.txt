@@ -1,0 +1,60 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+85169	GOBIERNO REGIONAL - REGION DE COQUI	Home	Banner Cabecera	Web	x		612.000	Arte	Jacqueline Torres	2015-9-25 00:00:00	
+85057	ENTEL PCS	Impar	Cuatricromia	Generales	35x6	07	0	Arte	Kathine Soto-Stgo	2015-9-25 00:00:00	
+85048	MINERA LOS PELAMBRES	Impar	Cuatricromia	Generales	34x3	09	627.521	Publicado	Marcela Tello-ElDia	2015-9-25 00:00:00	
+85034	INSTITUTO DE PREVISION SOCIAL	Par	Cuatricromia	Generales	17x3	10	177.797	Publicado	Jacqueline Torres	2015-9-25 00:00:00	
+83703	INMOBILIARIA KUPAL LTDA.	Par	Cuatricromia	Generales	17x3	10	0	Publicado	Miguel Apey	2015-9-25 00:00:00	
+85065	INMOBIL. CPS.  S.A.	Par	Blanco y negro	Generales	17x6	11	149.410	Publicado	M Cristina Puga	2015-9-25 00:00:00	
+85051	CORP. ADM. DEL PODER JUDICIAL	Par	Blanco y negro	Generales	8x2	12	39.842	Publicado	Jacqueline Torres	2015-9-25 00:00:00	
+84906	DIARIO EL DIA	Par	Blanco y negro	Generales	5x2	12	0	Publicado	M Cristina Puga	2015-9-25 00:00:00	
+83069	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	12-18	8.306	Publicado	Miguel Apey	2015-9-25 00:00:00	
+84875	BANCO ESTADO DE CHILE	Impar	Cuatricromia	Generales	35x6	13	645.977	Publicado	Kathine Soto-Stgo	2015-9-25 00:00:00	
+83400	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	10x3	14	65.220	Publicado	Medios Regionales	2015-9-25 00:00:00	
+83030	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	10x3	14	65.220	Publicado	Medios Regionales	2015-9-25 00:00:00	
+84836	PROYECTOS CORPORATIVOS S.A	Impar	Cuatricromia	Generales	17x6	15	384.510	Publicado	Kathine Soto-Stgo	2015-9-25 00:00:00	
+83220	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	6x6	16	58.905	Publicado	Claudio Romero	2015-9-25 00:00:00	
+84961	DERCO S.A.	Impar	Cuatricromia	Generales	17x6	17	313.761	Publicado	Kathine Soto-Stgo	2015-9-25 00:00:00	
+84878	CARAT CHILE S.A.	Impar	Cuatricromia	Generales	17x6	19	300.000	Publicado	Kathine Soto-Stgo	2015-9-25 00:00:00	
+85066	TESORERIA PROVINCIAL DE COQUIMBO	Par	Blanco y negro	Generales	17x6	20	0	Publicado	Marcela Tello-ElDia	2015-9-25 00:00:00	
+84924	CONCRECES LEASING S.A.	Par	Blanco y negro	Generales	10x3	26	93.381	Publicado	Marcela Tello-ElDia	2015-9-25 00:00:00	
+84909	CONCRECES LEASING S.A.	Par	Blanco y negro	Generales	10x3	26	93.381	Publicado	Marcela Tello-ElDia	2015-9-25 00:00:00	
+85089	DIARIO EL DIA	Par	Cuatricromia	Generales	10x2	28	0	Publicado	Marcela Tello-ElDia	2015-9-25 00:00:00	
+83528	DIARIO EL DIA	Par	Cuatricromia	Generales	10x2	28	0	Publicado	Marcela Tello-ElDia	2015-9-25 00:00:00	
+84133	SOC. COMERCIAL E INV. ALTO LA SEREN	Par	Cuatricromia	Generales	10x2	28	61.522	Publicado	Nadia Randolph	2015-9-25 00:00:00	
+83482	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Cuatricromia	Generales	5x2	28	0	Publicado	Marcela Tello-ElDia	2015-9-25 00:00:00	
+83082	HOTEL COSTA REAL	Par	Cuatricromia	Generales	10x2	28	30.761	Publicado	Miguel Apey	2015-9-25 00:00:00	
+83544	MARTIN JURE PATRICIA	Par	Cuatricromia	Generales	5x3	28	0	Publicado	Marcela Tello-ElDia	2015-9-25 00:00:00	
+83506	PILLA LA VACA	Par	Cuatricromia	Generales	5x2	28	0	Publicado	Marcela Tello-ElDia	2015-9-25 00:00:00	
+83411	SOC. HOTELERA VICHUQUEN LTDA.	Par	Cuatricromia	Generales	5x3	28	0	Publicado	Marcela Tello-ElDia	2015-9-25 00:00:00	
+84410	SALINAS Y FABRES S.A.	Impar	Cuatricromia	Generales	25x5	29	390.009	Publicado	M Cristina Puga	2015-9-25 00:00:00	
+84925	CONCRECES LEASING S.A.	Par	Blanco y negro	Generales	10x3	30	93.381	Publicado	Marcela Tello-ElDia	2015-9-25 00:00:00	
+84902	CONCRECES LEASING S.A.	Par	Blanco y negro	Generales	10x3	30	93.381	Publicado	Marcela Tello-ElDia	2015-9-25 00:00:00	
+85076	DIARIO EL DIA	Par	Cuatricromia	Generales	34x3	31	0	Publicado	Marcela Tello-ElDia	2015-9-25 00:00:00	
+84889	DIARIO EL DIA	Par	Cuatricromia	Generales	5x6	34	0	Publicado	Marcela Tello-ElDia	2015-9-25 00:00:00	
+85028	desiderio lisboa  eirl			UIP	5x2	37	17.875	Publicado	Claudio Romero	2015-9-25 00:00:00	
+83325	ARMAQ 			UIP	5x1	37	8.937	Publicado	Claudio Romero	2015-9-25 00:00:00	
+82993	SOC. COMERCIAL ALCAPARRA LTDA.	Par	Blanco y negro	Generales	5x2	37	10.440	Publicado	Patricia Villena	2015-9-25 00:00:00	
+84541	GALLARDO Y			UIP	5x1	37	8.937	Publicado	Claudio Romero	2015-9-25 00:00:00	
+84153	soc. comercial e inv. alto la seren			UIP	5x2	37	8.937	Publicado	Nadia Randolph	2015-9-25 00:00:00	
+84459	SOC. DE GESTION MEDITERRANEA			UIP	5x1	37	8.937	Publicado	Miguel Apey	2015-9-25 00:00:00	
+84334	AUTOMOTORES DEL NORTE	Par	Blanco y negro	Generales	5x1	37	7.427	Publicado	Miguel Apey	2015-9-25 00:00:00	
+84640	CERNA E HIJOS CIA. LTDA.	Par	Blanco y negro	Generales	5x1	37	4.468	Publicado	Nadia Randolph	2015-9-25 00:00:00	
+83669	SERVICIOS GENERALES GUAYACAN S.A	Par	Blanco y negro	Generales	3x2	38	6.451	Publicado	Jacqueline Torres	2015-9-25 00:00:00	
+85075	FREDDY BARRAZA ESPINOZA	Par	Blanco y negro	Generales	12x2	38	49.218	Publicado	Pedro Jaime	2015-9-25 00:00:00	
+84931	COMERCIAL E.C.C.S.A.  S.A.	Impar	Cuatricromia	Generales	35x6	40	556.758	Publicado	M Cristina Puga	2015-9-25 00:00:00	
+85069	HOTEL COSTA REAL	Par	Blanco y negro	Generales	5x2	EC-21	0	Publicado	Marcela Tello-ElDia	2015-9-25 00:00:00	
+83895	ULISES DEL CARMEN SALINAS			UIP	5x2	EC-21	17.875	Publicado	Pedro Jaime	2015-9-25 00:00:00	
+83255	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Generales	5x1	EC-22	5.860	Publicado	Rene Pizarro	2015-9-25 00:00:00	
+85062	GASVALPO S.A.	Par	Blanco y negro	Generales	25x4	EC-23	366.200	Publicado	Marcela Tello-ElDia	2015-9-25 00:00:00	
+84919	SANTANDER G.R.C.	6110 Palabras		Legal	x	EC-24	1.515.630	Publicado	Pedro Jaime	2015-9-25 00:00:00	
+83789	INMOBILIARIA ECASA CHILE S.A.	Par	Cuatricromia	Generales	34x6	VH-02	518.000	Publicado	Paola Marquez	2015-9-25 00:00:00	
+84413	JUAN LUIS NARANJO DE LA RIVERA	Par	Cuatricromia	Generales	5x6	VH-05	0	Publicado	Paola Marquez	2015-9-25 00:00:00	
+82561	SERVICIOS INMOBILIARIOS ECOMAC S.A	Par	Cuatricromia	Ed.Especial	35x6	VH-09	850.537	Publicado	Paola Marquez	2015-9-25 00:00:00	
+83163	CENTRO ESTETICA MATIZ LTDA.	Par	Cuatricromia	Generales	17x6	VH-11	550.000	Publicado	Paola Marquez	2015-9-25 00:00:00	
+84411	MARTIN JURE PATRICIA	Par	Cuatricromia	Generales	5x6	VH-12	0	Publicado	Paola Marquez	2015-9-25 00:00:00	
+84730	SOC. COMERCIAL NAPOLEON LTDA.	Par	Cuatricromia	Ed.Especial	12x3	VH-13	0	Publicado	Patricia Villena	2015-9-25 00:00:00	
+84723	INVERSIONES STA. VERONICA LTDA.	Impar	Cuatricromia	Generales	12x3	VH-13	195.000	Publicado	Patricia Villena	2015-9-25 00:00:00	
+83162	CAMPOS DEL NORTE S.A.	Par	Cuatricromia	Generales	17x6	VH-17	550.000	Publicado	Paola Marquez	2015-9-25 00:00:00	
+84409	COMERCIAL VALENTINI E HIJOS LTDA.	Par	Cuatricromia	Generales	17x6	VH-19	587.316	Publicado	Paola Marquez	2015-9-25 00:00:00	
+83944	INMOBILIARIA EURO AMH S.A.	Par	Cuatricromia	Generales	34x6	VH-20	784.801	Publicado	Paola Marquez	2015-9-25 00:00:00	
+85111	CALLEGARI LTDA.	Home	Banner Cabecera	Web	x	WEB	490.000	Publicado	Marcela Tello-ElDia	2015-9-25 00:00:00	

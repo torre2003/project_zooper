@@ -1,0 +1,8 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+98929	INMOBILIARIA ECOMAC SANTIAGO S.A.	Impar	Cuatricromia	Generales	17x6	03	285.000	Publicado	M Cristina Puga	ECOMAC / Primeras impar	2016-4-3 00:00:00	
+99456	SOC. LIMARI COMERCIALIZADORA DEL AG	Par	Blanco y negro	Generales	15x2	05	91.807	Publicado	Rene Pizarro		2016-4-3 00:00:00	
+99459	PROPAM LTDA	Par	Blanco y negro	Generales	15x2	05	92.000	Publicado	Claudio Romero	PROFESIONALES PARA DOCENCIA...REPITE MISMO AVISO DE DIARIO EL DIA....	2016-4-3 00:00:00	
+95375	SOCIEDAD BUSTOS Y PROCURIZA LTDA.	Par	Blanco y negro	Generales	10x2	06	27.542	Publicado	Maria_Amelia Hermosilla	Cento	2016-4-3 00:00:00	
+99104	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	07	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2016-4-3 00:00:00	
+99535	CAMAL MUSALEM TAPIA Y CIA.	Par	Blanco y negro	Generales	16x6	10	117.504	Publicado	Marcela Tello-ElDia	Toyota	2016-4-3 00:00:00	
+99540	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x6	14	0	Arte	Marcela Tello-ElDia		2016-4-3 00:00:00	

@@ -1,0 +1,4 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+94551	FERNANDO SANCHEZ			UIP	5x2	05	2.808	Publicado	Leonel Pizarro-Ovalle	AGUAS SUBTERRANEAS	2016-2-2 00:00:00	
+95095	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	07	0	Arte	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2016-2-2 00:00:00	
+95336	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x6	14	0	Arte	Marcela Tello-ElDia		2016-2-2 00:00:00	

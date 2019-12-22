@@ -1,0 +1,32 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+73065	CLARO CHILE S.A.	Impar	Cuatricromia	Generales	25x5	05	373.600	Publicado	Kathine Soto-Stgo	2015-4-8 00:00:00	
+73072	CONCRECES LEASING S.A.	Par	Blanco y negro	Generales	12x2	06	74.705	Publicado	Marcela Tello-ElDia	2015-4-8 00:00:00	
+73068	ASOCIACION GREMIAL DE TRANSPORTES L	Par	Blanco y negro	Generales	7x2	06	51.268	Publicado	Miguel Apey	2015-4-8 00:00:00	
+72728	CHRISTIAN LAUNITZ MARIN SERVICIOS M	Par	Blanco y negro	Generales	3x2	08	5.476	Publicado	Jacqueline Torres	2015-4-8 00:00:00	
+73091	DIARIO EL DIA	Par	Cuatricromia	Generales	34x6	11	0	Publicado	Marcela Tello-ElDia	2015-4-8 00:00:00	
+46283	SOCIEDAD MEDICA Y CONSULTORA ESTETI	Par	Cuatricromia	Generales	5x2	12	35.888	Publicado	Maria_Amelia Hermosilla	2015-4-8 00:00:00	
+72653	CENTRO TECNICO ACUARELA LTDA.	Par	Blanco y negro	Generales	5x2	12	19.409	Publicado	Rene Pizarro	2015-4-8 00:00:00	
+71730	SERVICIO TRANSPORTES SERENA MAR CAR	Par	Cuatricromia	Generales	9x2	12	0	Publicado	Marcela Tello-ElDia	2015-4-8 00:00:00	
+72326	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	10x3	13	0	Publicado	Marcela Tello-ElDia	2015-4-8 00:00:00	
+73057	SINDY GONZALEZ MARCHANT	Par	Blanco y negro	Generales	17x6	15	0	Publicado	Marcela Tello-ElDia	2015-4-8 00:00:00	
+72241	DIARIO EL DIA	Par	Cuatricromia	Generales	10x2	17	0	Publicado	Marcela Tello-ElDia	2015-4-8 00:00:00	
+63888	SKY AIRLINE S.A.	Impar	Cuatricromia	Generales	10x4	17	124.371	Publicado	M Cristina Puga	2015-4-8 00:00:00	
+71924	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	17	8.306	Publicado	Miguel Apey	2015-4-8 00:00:00	
+73052	GOTTREUX SALAS RUBEN	Par	Blanco y negro	Generales	10x2	23	73.240	Publicado	Leonel Pizarro-Ovalle	2015-4-8 00:00:00	
+73092	DIARIO EL DIA	Par	Cuatricromia	Generales	17x6	24	0	Publicado	Marcela Tello-ElDia	2015-4-8 00:00:00	
+69659	sociedad restaura			UIP	5x2	30	17.875	Publicado	Jacqueline Torres	2015-4-8 00:00:00	
+72971	arevalo carmen 			UIP	5x1	30	8.937	Publicado	Pedro Jaime	2015-4-8 00:00:00	
+72935	SOC. COMERCIAL ALCAPARRA LTDA.	Par	Blanco y negro	Generales	5x2	30	10.440	Publicado	Patricia Villena	2015-4-8 00:00:00	
+72857	GIL URBINA			UIP	5x1	30	8.937	Publicado	Pedro Jaime	2015-4-8 00:00:00	
+71975	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	4x5	30	20.508	Publicado	Miguel Apey	2015-4-8 00:00:00	
+72262	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	30	0	Publicado	Marcela Tello-ElDia	2015-4-8 00:00:00	
+72292	PILLA LA VACA	Par	Blanco y negro	Generales	5x2	30	0	Publicado	Marcela Tello-ElDia	2015-4-8 00:00:00	
+72501	armaq			UIP	5x1	30	8.937	Publicado	Claudio Romero	2015-4-8 00:00:00	
+71883	SOC. DE GESTION MEDITERRANEA			UIP	5x1	30	8.937	Publicado	Miguel Apey	2015-4-8 00:00:00	
+72758	SERVICIOS GENERALES GUAYACAN S.A	Par	Blanco y negro	Generales	3x2	31	6.444	Publicado	Jacqueline Torres	2015-4-8 00:00:00	
+71537	DANIZA ALVITISH CALDERA	Par	Blanco y negro	Generales	5x1	32	8.057	Publicado	Jacqueline Torres	2015-4-8 00:00:00	
+72629	SOC. COMERCIAL VARGAS Y GIACOMET	Par	Blanco y negro	Generales	5x1	EC-21	5.860	Publicado	Rene Pizarro	2015-4-8 00:00:00	
+72599	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Generales	5x1	EC-21	5.860	Publicado	Rene Pizarro	2015-4-8 00:00:00	
+72977	AREVALO CARMEN			UIP	5x1	EC-21	8.937	Publicado	Pedro Jaime	2015-4-8 00:00:00	
+73076	CURIFOR S.A.	638 Palabras		Propiedades	x	PROP	102.185	Publicado	Pedro Jaime	2015-4-8 00:00:00	
+73075	CURIFOR S.A.	673 Palabras		Propiedades	x	PROP	107.815	Publicado	Pedro Jaime	2015-4-8 00:00:00	

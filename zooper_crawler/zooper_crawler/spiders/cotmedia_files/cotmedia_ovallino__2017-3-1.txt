@@ -1,0 +1,10 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+122060	OVALLE CASINO RESORT S.A	Par	Cuatricromia	Generales	25x4	03	0	Arte	Paola Marquez	OCR Eventos verano	2017-3-1 00:00:00	
+119521	tanguemar			UIP	5x2	05	2.808	Publicado	Patricia Villena	Tanguemar	2017-3-1 00:00:00	
+122102	AGRICOLA NORTE TALINAY LTDA	Par	Blanco y negro	Generales	5x2	05	1.666	Publicado	Paola Marquez	UIP VENTA ALFALFA	2017-3-1 00:00:00	
+123668	AGUAS DEL VALLE S.A.	Par	Blanco y negro	Generales	15x2	07	31.779	Publicado	Jacqueline Torres		2017-3-1 00:00:00	
+123669	AGUAS DEL VALLE S.A.	Par	Blanco y negro	Generales	15x2	07	31.779	Publicado	Jacqueline Torres		2017-3-1 00:00:00	
+123710	JACQUELINE JOFRE VILLANUEVA			UIP	5x2	07	2.808	Publicado	Karina Rivera	Cortinas Rollers	2017-3-1 00:00:00	
+123141	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	6x6	09	16.065	Publicado	Claudio Romero	Muebles Alpina	2017-3-1 00:00:00	
+123704	SOCIEDAD 			UIP	10x2	11	7.882	Publicado	Karina Rivera	PGR	2017-3-1 00:00:00	
+123734	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	5x6	14	0	Arte	Marcela Tello-ElDia		2017-3-1 00:00:00	

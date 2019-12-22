@@ -1,0 +1,9 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+89090	SOC.INMOBILIARIO E INVERSIONES RIO 			UIP	10x6	03	16.260	Publicado	Claudio Romero	PROYECTO MIRADOR OVALLE..	2015-11-25 00:00:00	
+87970	AUTOMOTRIZ CARMONA	Par	Cuatricromia	Generales	17x3	04	23.076	Publicado	Marcela Tello-ElDia	Nissan - Servicio Gratuito en Automotriz Carmona	2015-11-25 00:00:00	
+81428	Tanguemar			UIP	5x2	05	2.808	Publicado	Patricia Villena	Tanguemar	2015-11-25 00:00:00	
+89328	JUAN CARLOS AQUEZ JILES	Par	Blanco y negro	Generales	5x2	05	1.429	Publicado	Italo Retamal	Capacitaciones 	2015-11-25 00:00:00	
+87714	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	10x3	07	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2015-11-25 00:00:00	
+88705	ADA D?AZ ARAYA	Par	Blanco y negro	Generales	5x2	07	1.428	Publicado	Italo Retamal	zona ganjah	2015-11-25 00:00:00	
+87323	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	6x6	08	0	Publicado	Claudio Romero	Muebles Alpina	2015-11-25 00:00:00	
+89307	EMPRESA PERIODISTICA EL NORTE S.A.	Par	Cuatricromia	Medios Regionales	10x6	09	158.953	Publicado	Medios Regionales	SENDA (245979)	2015-11-25 00:00:00	

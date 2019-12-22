@@ -1,0 +1,13 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+114532	PEDRO ANDRES MONARDEZ ELGUETA	Par	Cuatricromia	Generales	6x6	01	0	Publicado	Karina Rivera	Portada_Restorant Riquisimo	2016-10-23 00:00:00	
+114510	UNIVERSIDAD TECNOLOGICA DE CHILE	Impar	Cuatricromia	Generales	17x6	03	393.297	Publicado	Patricia Villena		2016-10-23 00:00:00	
+103004	SOCIEDAD MEDICA Y CONSULTORA ESTETI		Cuatricromia	Guia	5x2	04	13.333	Publicado	Maria_Amelia Hermosilla	Diego Polanco	2016-10-23 00:00:00	
+114715	CAMAL MUSALEM TAPIA Y CIA.	Par	Blanco y negro	Generales	26x4	05	127.296	Publicado	Marcela Tello-ElDia	Toyota New Rush 	2016-10-23 00:00:00	
+114692	EMPRESA PERIODISTICA EL NORTE S.A.	Par	Blanco y negro	Medios Regionales	10x2	06	28.900	Publicado	Medios Regionales	Parques de Chile - (196200)	2016-10-23 00:00:00	
+113220	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	07	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2016-10-23 00:00:00	
+114451	OVALLE CASINO RESORT S.A	Par	Cuatricromia	Generales	25x4	08	171.372	Publicado	Paola Marquez	OCR Enfrentada a su otra media	2016-10-23 00:00:00	
+114143	OVALLE CASINO RESORT S.A	Par	Cuatricromia	Generales	25x4	09	171.372	Publicado	Paola Marquez	OCR Impar si se puede	2016-10-23 00:00:00	
+114714	CAMAL MUSALEM TAPIA Y CIA.	Par	Blanco y negro	Generales	16x3	10	58.752	Publicado	Marcela Tello-ElDia		2016-10-23 00:00:00	
+114431	TESORERIA PROVINCIAL DEL LIMARI OVA	Par	Blanco y negro	Generales	20x6	11	324.852	Publicado	Marcela Tello-ElDia	Primer Aviso - Remate de Bienes Raices por Deudas Impuesto Fiscales	2016-10-23 00:00:00	
+114634	ACADEMIA DE GIMNASIO INTEGRAL FIT L	Par	Cuatricromia	Generales	17x6	13	0	Publicado	Miguel Apey	GIMNASIO SPORTLIFE	2016-10-23 00:00:00	
+114687	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	12x6	14	0	Publicado	Marcela Tello-ElDia	Avant Premiere - Club de Lectores	2016-10-23 00:00:00	

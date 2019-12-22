@@ -1,0 +1,5 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+132959	AUTOMOTORES GILDEMEISTER S.A.	Impar	Cuatricromia	Generales	25x5	03	483.218	Publicado	Kathine Soto-Stgo	MAHINDRA	2017-7-1 00:00:00	
+132184	SOC. AGRICOLA HACIENDA MANANTIALES			UIP	10x2	05	5.630	Publicado	Karina Rivera	VENDO TRACTOR	2017-7-1 00:00:00	
+132997	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x6	09	0	Arte	Marcela Tello-ElDia		2017-7-1 00:00:00	
+132998	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	6x6	14	0	Arte	Marcela Tello-ElDia		2017-7-1 00:00:00	

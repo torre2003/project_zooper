@@ -1,0 +1,12 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+143913	INMOBILIARIA CALEUCHE LTDA	Home	Box Derecho	Web	0x0		200.000	Arte	Paola Marquez		2017-11-11 00:00:00	
+138356	CENTRO DE SALUD PORTALES LTDA			UIP	5x4	04	4.504	Publicado	Karina Rivera		2017-11-11 00:00:00	
+139904	TEODORO AGUIRRE ALVAREZ			UIP	5x2	04	2.808	Publicado	Karina Rivera	REGIONALISTA VERDE SOCIAL	2017-11-11 00:00:00	
+143382	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	06	0	Arte	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2017-11-11 00:00:00	
+143785	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	12x6	08	0	Arte	Marcela Tello-ElDia	Avant Premiere - Club de Lectores	2017-11-11 00:00:00	
+143788	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x6	09	0	Arte	Marcela Tello-ElDia		2017-11-11 00:00:00	
+142739	INMOBILIARIA NUEVA SERENA			UIP	10x6	10	16.260	Publicado	Claudio Romero	 "LLANOS DE SAN LUIS III ( SE CONFIRMARA SI REPITE) CASAS Y DEPARTAMENTOS..	2017-11-11 00:00:00	
+143191	EMPRESA PERIODISTICA EL NORTE S.A.	Par	Cuatricromia	Medios Regionales	10x3	11	115.603	Arte	Medios Regionales		2017-11-11 00:00:00	
+141746	VELIZ CORTES JOSE A.			UIP	5x2	14	3.919	Publicado	Pedro Cortes		2017-11-11 00:00:00	
+143709	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	6x6	14	0	Arte	Marcela Tello-ElDia		2017-11-11 00:00:00	
+143796	SOC. AGROCOMERCIAL JULIO POLANCO G.	114 Palabras		Legal	x	14	28.272	Publicado	Karina Rivera	REMATE ROL 504-2015	2017-11-11 00:00:00	

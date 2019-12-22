@@ -1,0 +1,40 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+90943	CORP. CLUB DE LA SERENA	Par	Blanco y negro	Generales	5x2		25.210	Arte	Pedro Jaime	2015-12-8 00:00:00	
+90742	DIARIO EL DIA	Par	Blanco y negro	Generales	35x6		0	Arte	Carolina Naranjo	2015-12-8 00:00:00	
+90830	DIARIO EL DIA	Par	Cuatricromia	Generales	34x6		0	Publicado	Marcela Tello-ElDia	2015-12-8 00:00:00	
+90702	ENTEL PCS	Impar	Cuatricromia	Generales	35x6	05	0	Publicado	Kathine Soto-Stgo	2015-12-8 00:00:00	
+90826	CALLEGARI LTDA.	Par	Blanco y negro	Generales	6x2	08	35.156	Publicado	Marcela Tello-ElDia	2015-12-8 00:00:00	
+90831	CALLEGARI LTDA.	Par	Cuatricromia	Generales	14x6	09	0	Publicado	Marcela Tello-ElDia	2015-12-8 00:00:00	
+90822	SERVICIO DE SALUD COQBO. IV REGION	Par	Blanco y negro	Generales	12x3	10	65.916	Publicado	Jacqueline Torres	2015-12-8 00:00:00	
+90800	FUNDACION EDUCACIONAL THE INTERNATI	Impar	Cuatricromia	Generales	25x3	11	0	Publicado	Patricia Villena	2015-12-8 00:00:00	
+90658	DIARIO EL DIA	Par	Cuatricromia	Generales	12x3	12	0	Publicado	Marcela Tello-ElDia	2015-12-8 00:00:00	
+90118	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	5x2	14	0	Publicado	Miguel Apey	2015-12-8 00:00:00	
+90835	PILLA LA VACA	Par	Blanco y negro	Generales	5x2	14	0	Publicado	Marcela Tello-ElDia	2015-12-8 00:00:00	
+89141	DIARIO EL DIA	Par	Blanco y negro	Generales	5x2	14	0	Publicado	Marcela Tello-ElDia	2015-12-8 00:00:00	
+90641	CORP. PARA EL DESARROLLO DE LA REGI	Par	Blanco y negro	Generales	17x6	15	261.467	Publicado	Patricia Villena	2015-12-8 00:00:00	
+90797	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	6x6	17	0	Publicado	Claudio Romero	2015-12-8 00:00:00	
+89825	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	17	8.306	Publicado	Miguel Apey	2015-12-8 00:00:00	
+90828	INVERSIONES E INMOBILIARIA P.A.T.  	Par	Cuatricromia	Generales	9x6	27	0	Arte	Miguel Apey	2015-12-8 00:00:00	
+90827	DIARIO EL DIA	Par	Cuatricromia	Generales	12x6	28	0	Publicado	Marcela Tello-ElDia	2015-12-8 00:00:00	
+88574	SOC. DE GESTION MEDITERRANEA			UIP	5x1	30	8.937	Publicado	Miguel Apey	2015-12-8 00:00:00	
+87415	GUERRERO SERANTONI Y CIA. LTDA.	Par	Blanco y negro	Generales	5x1	30	5.527	Publicado	Pedro Jaime	2015-12-8 00:00:00	
+88367	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	30	0	Publicado	Marcela Tello-ElDia	2015-12-8 00:00:00	
+90741	DIARIO EL DIA	Par	Blanco y negro	Generales	35x6	30	0	Arte	Carolina Naranjo	2015-12-8 00:00:00	
+88442	DIARIO EL DIA	Par	Blanco y negro	Generales	5x2	30	0	Publicado	Marcela Tello-ElDia	2015-12-8 00:00:00	
+88835	SOC. RAMON MOYA FUENTES 			UIP	10x1	30	8.938	Publicado	Miguel Apey	2015-12-8 00:00:00	
+89869	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	4x5	30	20.508	Publicado	Miguel Apey	2015-12-8 00:00:00	
+89937	SOC. COMERCIAL ALCAPARRA LTDA.	Par	Blanco y negro	Generales	5x2	30	10.440	Publicado	Patricia Villena	2015-12-8 00:00:00	
+90156	ARMAQ			UIP	5x1	30	8.937	Publicado	Claudio Romero	2015-12-8 00:00:00	
+90369	norma cerda			UIP	5x1	30	8.937	Publicado	Pedro Jaime	2015-12-8 00:00:00	
+84704	CERNA E HIJOS CIA. LTDA.	Par	Blanco y negro	Generales	5x1	30	4.468	Publicado	Nadia Randolph	2015-12-8 00:00:00	
+90597	RAL			UIP	5x1	30	8.937	Publicado	Pedro Jaime	2015-12-8 00:00:00	
+90845	COLEGIO DE CONTADORES DE CHILE A.G.	Par	Blanco y negro	Generales	12x2	31	61.522	Publicado	Pedro Jaime	2015-12-8 00:00:00	
+90607	SERVICIOS GENERALES GUAYACAN S.A	Par	Blanco y negro	Generales	3x2	31	6.470	Publicado	Jacqueline Torres	2015-12-8 00:00:00	
+90550	LORENA YENNY	Par	Blanco y negro	Generales	5x1	32	8.283	Publicado	Pedro Jaime	2015-12-8 00:00:00	
+90745	NAZARIO NELSON ESPINOZA GONZALEZ	Par	Blanco y negro	Generales	7x3	EC20	0	Publicado	Miguel Apey	2015-12-8 00:00:00	
+90792	SANTANDER G.R.C.	596 Palabras		Legal	x	EC20	147.899	Publicado	Pedro Jaime	2015-12-8 00:00:00	
+90793	SANTANDER G.R.C.	914 Palabras		Legal	x	EC20	226.807	Publicado	Pedro Jaime	2015-12-8 00:00:00	
+90794	SANTANDER G.R.C.	529 Palabras		Legal	x	EC20	131.429	Publicado	Pedro Jaime	2015-12-8 00:00:00	
+90228	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Generales	5x1	EC20	5.860	Publicado	Rene Pizarro	2015-12-8 00:00:00	
+90809	SOC. COMERCIAL LESSER Y CIA. LTDA.	788 Palabras		Propiedades	x	EC20	126.080	Publicado	Pedro Jaime	2015-12-8 00:00:00	
+90807	MOP OOPP	Par	Blanco y negro	Generales	12x1	EC20	53.794	Publicado	Jacqueline Torres	2015-12-8 00:00:00	

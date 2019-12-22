@@ -1,0 +1,14 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+82684	AUTOMOTRIZ CARMONA	Par	Cuatricromia	Generales	7x6	01	23.077	Publicado	Marcela Tello-ElDia	Ya estamos en Ovalle - Portada	2015-8-26 00:00:00	
+81898	EMPRESA PERIODISTICA EL NORTE S.A.	Par	Cuatricromia	Medios Regionales	16x6	03	210.973	Publicado	Medios Regionales	CGE - Impar - (168100)	2015-8-26 00:00:00	
+82634	Tita alamo			UIP	5x2	05	2.808	Publicado	Italo Retamal	terreno medieria	2015-8-26 00:00:00	
+81985	jorge al			UIP	5x2	05	2.808	Publicado	Italo Retamal	abogado	2015-8-26 00:00:00	
+81273	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	6x6	06	16.065	Publicado	Claudio Romero	Muebles Alpina	2015-8-26 00:00:00	
+80809	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	10x3	07	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2015-8-26 00:00:00	
+81166	florencia			UIP	10x2	07	5.630	Publicado	Italo Retamal	tienda exotica	2015-8-26 00:00:00	
+82306	DABED Y CIA. LTDA., SELIM	Impar	Cuatricromia	Generales	6x6	08	23.077	Publicado	Italo Retamal	(26)Expo Dabed	2015-8-26 00:00:00	
+82874	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x3	09	0	Publicado	Marcela Tello-ElDia	Vea la Memoria del Agua - (Productora Warner)	2015-8-26 00:00:00	
+82884	OMD CHILE S.A.	Impar	Blanco y negro	Generales	17x3	09	105.000	Publicado	Italo Retamal		2015-8-26 00:00:00	
+82889	SALINAS Y FABRES S.A.	Impar	Cuatricromia	Generales	17x6	11	242.029	Publicado	M Cristina Puga	Salfa IMPAR	2015-8-26 00:00:00	
+82885	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	12x6	12	0	Publicado	Marcela Tello-ElDia	Obra de Teatro - Romeo y Julieta - Suscriptores	2015-8-26 00:00:00	
+82912	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x6	14	0	Publicado	Marcela Tello-ElDia		2015-8-26 00:00:00	

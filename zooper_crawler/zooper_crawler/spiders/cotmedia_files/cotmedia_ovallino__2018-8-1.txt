@@ -1,0 +1,10 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+160735	INMOBILIARIA CALEUCHE LTDA	Home	Box Derecho	Web	x		200.000	Arte	Paola Marquez	Beltec web por agosto	2018-8-1 00:00:00	
+160953	FERNANDO GARCIA GARCIA			UIP	5x2	05	2.808	Publicado	Karina Rivera	ARRIENDO PARCELA	2018-8-1 00:00:00	
+160858	CELINDA VEGA TOLEDO	Par	Blanco y negro	Generales	10x2	06	37.664	Publicado	Karina Rivera	UNION COMUNAL VECINAL DE OVALLE	2018-8-1 00:00:00	
+161015	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	3x6	08	0	Arte	Marcela Tello-ElDia	Periodismo en todos los sentidos...	2018-8-1 00:00:00	
+160893	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	12x3	09	16.065	Publicado	Claudio Romero	Muebles alpina..	2018-8-1 00:00:00	
+160976	ILUSTRE MUNICIPALIDAD DE MONTE PATR	Par	Cuatricromia	Generales	17x3	09	83.333	Publicado	Karina Rivera	MUNICIPIO NOCTURNO	2018-8-1 00:00:00	
+160572	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	11	0	Arte	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2018-8-1 00:00:00	
+161016	PRENSA DEL LIMARI LTDA.	Par	Blanco y negro	Generales	17x6	12	0	Arte	Marcela Tello-ElDia	Reportero Ciudadano	2018-8-1 00:00:00	
+161017	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	8x6	14	0	Arte	Marcela Tello-ElDia		2018-8-1 00:00:00	

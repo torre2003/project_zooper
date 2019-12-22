@@ -1,0 +1,69 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+163479	CENCOSUD RETAIL S.A.	Impar	Cuatricromia	Generales	35x6	05	600.000	Publicado	Kathine Soto-Stgo	2018-9-7 00:00:00	
+163344	PROLAM YOUNG Y RIBICAM	Impar	Cuatricromia	Generales	35x6	07	904.368	Publicado	M Cristina Puga	2018-9-7 00:00:00	
+163406	AUTOMOTORES GILDEMEISTER S.A.	Impar	Cuatricromia	Generales	35x6	09	1.098.161	Publicado	Kathine Soto-Stgo	2018-9-7 00:00:00	
+163057	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	5x2	11	0	Publicado	Miguel Apey	2018-9-7 00:00:00	
+162772	ARZOBISPADO DE LA SERENA	Par	Blanco y negro	Generales	10x2	11	0	Arte	Marcela Tello-ElDia	2018-9-7 00:00:00	
+163356	FUNDACION EDUCACIONAL LICEO SAN FRA	Par	Blanco y negro	Generales	5x2	11	36.620	Publicado	Miguel Apey	2018-9-7 00:00:00	
+162172	UNIVERSIDAD DE LA SERENA	Par	Blanco y negro	Generales	10x2	11	42.113	Publicado	Jacqueline Torres	2018-9-7 00:00:00	
+163491	DIARIO EL DIA	Par	Cuatricromia	Generales	6x6	12	0	Arte	Marcela Tello-ElDia	2018-9-7 00:00:00	
+163442	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Cuatricromia	Medios Regionales	32x6	13	544.008	Arte	Medios Regionales	2018-9-7 00:00:00	
+162672	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	15	8.306	Publicado	Miguel Apey	2018-9-7 00:00:00	
+163360	BUALE GRUP LTDA.	Par	Cuatricromia	Generales	17x3	15	60.000	Publicado	Claudio Romero	2018-9-7 00:00:00	
+163477	AGUAS DEL VALLE S.A.	Par	Cuatricromia	Generales	17x3	15	209.174	Publicado	Jacqueline Torres	2018-9-7 00:00:00	
+162970	INVERSIONES ALTA CRUZ LTDA	Par	Blanco y negro	Generales	5x2	16	0	Arte	Marcela Tello-ElDia	2018-9-7 00:00:00	
+162651	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	6x2	16	27.396	Arte	Medios Regionales	2018-9-7 00:00:00	
+163357	MOP OOPP	Par	Blanco y negro	Generales	18x2	16	131.832	Publicado	Jacqueline Torres	2018-9-7 00:00:00	
+162604	ALIMENTOS FRUNA LIMITADA	Par	Cuatricromia	Generales	17x6	17	219.720	Publicado		2018-9-7 00:00:00	
+163364	ARENA CHILE S.A.	Impar	Cuatricromia	Generales	17x6	19	313.761	Publicado	Kathine Soto-Stgo	2018-9-7 00:00:00	
+163306	INMOBIL. CLUB DE LA SERENA S.A.	Par	Blanco y negro	Generales	7x1	20	25.634	Publicado	Pedro Jaime	2018-9-7 00:00:00	
+163365	TOYOTA CHILE S.A.	Impar	Cuatricromia	Generales	17x6	21	350.000	Publicado	Kathine Soto-Stgo	2018-9-7 00:00:00	
+163403	CLUB DEPORTES COQUIMBO UNIDO	Par	Cuatricromia	Generales	17x3	26	0	Arte	Marcela Tello-ElDia	2018-9-7 00:00:00	
+163351	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Cuatricromia	Medios Regionales	16x6	27	324.840	Arte	Medios Regionales	2018-9-7 00:00:00	
+162402	C.M. SOC. GASTRONOMICA LTDA.			UIP	5x2	28	7.208	Publicado		2018-9-7 00:00:00	
+162438	SOC. DE GES			UIP	5x1	28	8.937	Publicado	Miguel Apey	2018-9-7 00:00:00	
+162707	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	4x5	28	20.508	Publicado	Miguel Apey	2018-9-7 00:00:00	
+162529	ARMAQ SUBIRI S.A.			UIP	5x1	28	8.937	Publicado	Claudio Romero	2018-9-7 00:00:00	
+162889	AGRICOLA UAC LTDA.			UIP	5x2	28	17.875	Publicado	Miguel Apey	2018-9-7 00:00:00	
+163407	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Cuatricromia	Medios Regionales	16x6	29	324.840	Arte	Medios Regionales	2018-9-7 00:00:00	
+163438	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Cuatricromia	Medios Regionales	16x6	31	324.840	Arte	Medios Regionales	2018-9-7 00:00:00	
+163228	CAMPOS DEL NORTE S.A.	Par	Cuatricromia	Generales	17x3	33	0	Publicado	Patricia Villena	2018-9-7 00:00:00	
+163027	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	33	0	Arte	Marcela Tello-ElDia	2018-9-7 00:00:00	
+163443	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Cuatricromia	Medios Regionales	32x6	33	544.008	Arte	Medios Regionales	2018-9-7 00:00:00	
+162985	PILLA LA VACA	Par	Cuatricromia	Generales	5x2	34	0	Arte	Marcela Tello-ElDia	2018-9-7 00:00:00	
+163251	PAMELA B. GONZALEZ LIZAMA COMERCIAL	Par	Blanco y negro	Generales	5x2	34	0	Arte	Marcela Tello-ElDia	2018-9-7 00:00:00	
+163011	MARTIN JURE PATRICIA	Par	Cuatricromia	Generales	5x3	34	0	Arte	Marcela Tello-ElDia	2018-9-7 00:00:00	
+162816	SOC. HOTELERA VICHUQUEN LTDA.	Par	Cuatricromia	Generales	5x3	34	0	Arte	Marcela Tello-ElDia	2018-9-7 00:00:00	
+162836	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	34	0	Arte	Marcela Tello-ElDia	2018-9-7 00:00:00	
+162880	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	34	0	Arte	Marcela Tello-ElDia	2018-9-7 00:00:00	
+163323	DIARIO EL DIA	Par	Cuatricromia	Generales	13x6	35	0	Arte	Marcela Tello-ElDia	2018-9-7 00:00:00	
+163373	DIARIO EL DIA	Par	Cuatricromia	Generales	34x6	36	0	Arte	Marcela Tello-ElDia	2018-9-7 00:00:00	
+163490	DIARIO EL DIA	Par	Cuatricromia	Generales	5x6	37	0	Arte	Marcela Tello-ElDia	2018-9-7 00:00:00	
+163386	COLLAO CASTILLO JUAN	Par	Blanco y negro	Generales	5x2	37	25.210	Publicado	Pedro Jaime	2018-9-7 00:00:00	
+163332	EMPRESAS LA POLAR S.A.	Impar	Cuatricromia	Generales	35x6	40	504.000	Publicado	Patricia Villena	2018-9-7 00:00:00	
+163311	INDUSTRIAS CELTA LIMITADA	Impar	Cuatricromia	Pag.3	35x6	CU-03	1.500.000	Publicado	Miguel Apey	2018-9-7 00:00:00	
+163297	INMOBILIARIA S.M.C.	Impar	Cuatricromia	Generales	10x6	CU-05	350.000	Publicado	Miguel Apey	2018-9-7 00:00:00	
+163303	SOCIEDAD MECANICA EDUARDO ASPILLAGA	Impar	Cuatricromia	Generales	10x6	CU-06	350.000	Publicado	Miguel Apey	2018-9-7 00:00:00	
+163300	GUSTAVO MAURICIO ROJAS ARAYA E.I.R.	Impar	Cuatricromia	Generales	10x6	CU-07	350.000	Publicado	Miguel Apey	2018-9-7 00:00:00	
+163295	ASOCIACION GREMIAL 013-4 LISANCO	Impar	Cuatricromia	Generales	10x3	CU-08	175.000	Publicado	Miguel Apey	2018-9-7 00:00:00	
+163293	FUND.CENTRO DE EDUC.Y CAP.DE LA UNI	Impar	Cuatricromia	Generales	10x3	CU-08	175.000	Publicado	Miguel Apey	2018-9-7 00:00:00	
+163291	CASA DEL PERNO	Impar	Cuatricromia	Generales	10x6	CU-09	350.000	Publicado	Miguel Apey	2018-9-7 00:00:00	
+163301	COMERCIALIZADORA NUEVA DON PEPO LTD	Impar	Cuatricromia	Generales	10x3	CU-10	175.000	Publicado	Miguel Apey	2018-9-7 00:00:00	
+163294	UNIVERSIDAD CATOLICA DEL NORTE	Impar	Cuatricromia	Generales	10x3	CU-10	175.000	Publicado	Miguel Apey	2018-9-7 00:00:00	
+163290	SOCIEDAD COMERCIAL IDUYA Y CIA LTDA	Impar	Cuatricromia	Generales	10x6	CU-11	350.000	Publicado	Miguel Apey	2018-9-7 00:00:00	
+163299	CATERIN ALEJANDRA ARAYA PAEZ	Impar	Cuatricromia	Generales	10x3	CU-12	175.000	Publicado	Miguel Apey	2018-9-7 00:00:00	
+163298	SIERRALTA GOMEZ ROBERTO H.	Impar	Cuatricromia	Generales	10x3	CU-12	175.000	Publicado	Miguel Apey	2018-9-7 00:00:00	
+163511	CAMPOS DEL NORTE S.A.	Par	Cuatricromia	Generales	17x6	CU-13	700.000	Publicado	Patricia Villena	2018-9-7 00:00:00	
+163289	MAQUINARIAS OLMUE LTDA.	Impar	Cuatricromia	Generales	10x6	CU-14	350.000	Publicado	Miguel Apey	2018-9-7 00:00:00	
+163317	TERMINAL PUERTO COQUIMBO S.A.	Par	Cuatricromia	Generales	35x6	CU-15	1.000.000	Publicado	Miguel Apey	2018-9-7 00:00:00	
+163397	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	8x2	EC-22	36.528	Arte	Medios Regionales	2018-9-7 00:00:00	
+163048	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	6x2	EC-22	27.396	Arte	Medios Regionales	2018-9-7 00:00:00	
+163437	SANTANDER G.R.C.	775 Palabras		Legal	x	EC-23	192.437	Publicado	Pedro Jaime	2018-9-7 00:00:00	
+163492	DIARIO EL DIA	Par	Cuatricromia	Generales	10x6	EC-23	0	Arte	Marcela Tello-ElDia	2018-9-7 00:00:00	
+162792	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Generales	5x2	EC-23	7.003	Publicado	Rene Pizarro	2018-9-7 00:00:00	
+152182	HOTELERIA LUIS ALBERTO BERETTA KIEK	Par	Blanco y negro	Generales	5x2	EC-23	6.061	Publicado	Patricia Villena	2018-9-7 00:00:00	
+163439	COOPEUCH LTDA.	745 Palabras		Legal	x	EC-23	184.874	Publicado	Pedro Jaime	2018-9-7 00:00:00	
+163436	RECAUDACIONES Y COBRANZA S.A	772 Palabras		Legal	x	EC-23	191.597	Publicado	Pedro Jaime	2018-9-7 00:00:00	
+163474	RESTAURANTE BAKULIC & MENESES LIMIT	128 Palabras		Propiedades	x	PROP	20.480	Publicado	Miguel Apey	2018-9-7 00:00:00	
+163416	CAMARA CHILENA DE LA CONSTRUCCION A		47 Frases	Radio	x	RAD	419.000	Publicado	Jacqueline Torres	2018-9-7 00:00:00	
+163415	CAMARA CHILENA DE LA CONSTRUCCION A		18 Frases	Radio	x	RAD	81.000	Publicado	Jacqueline Torres	2018-9-7 00:00:00	

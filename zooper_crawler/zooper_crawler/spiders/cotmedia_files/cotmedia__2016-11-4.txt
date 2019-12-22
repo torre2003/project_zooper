@@ -1,0 +1,45 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+115849	CHRISTIAN LAUNITZ MARIN SERVICIOS M	Par	Blanco y negro	Generales	4x2	04	6.464	Publicado	Jacqueline Torres	2016-11-4 00:00:00	
+115838	EMPRESAS LA POLAR S.A.	Impar	Cuatricromia	Generales	35x6	05	0	Publicado	Patricia Villena	2016-11-4 00:00:00	
+115881	SINDY GONZALEZ MARCHANT	Par	Blanco y negro	Generales	17x3	06	0	Publicado	Marcela Tello-ElDia	2016-11-4 00:00:00	
+115879	CLUB DEPORTES COQUIMBO UNIDO	Par	Cuatricromia	Generales	17x3	09	0	Publicado	Marcela Tello-ElDia	2016-11-4 00:00:00	
+115763	ILUSTRE MUNICIPALIDAD DE CANELA	Par	Blanco y negro	Generales	17x3	09	126.999	Publicado	Jacqueline Torres	2016-11-4 00:00:00	
+115760	OVALLE CASINO RESORT S.A	Par	Cuatricromia	Generales	25x4	11	205.072	Publicado	Paola Marquez	2016-11-4 00:00:00	
+115099	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	5x2	13	0	Publicado	Miguel Apey	2016-11-4 00:00:00	
+114281	GESTION NORTE	Par	Blanco y negro	Generales	5x2	13	9.280	Publicado	Patricia Villena	2016-11-4 00:00:00	
+115343	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	16x4	13	139.136	Arte	Medios Regionales	2016-11-4 00:00:00	
+115055	ARZOBISPADO DE LA SERENA	Par	Blanco y negro	Generales	5x2	13	0	Arte	Marcela Tello-ElDia	2016-11-4 00:00:00	
+115800	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	10x3	14	65.220	Arte	Medios Regionales	2016-11-4 00:00:00	
+115792	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	10x3	14	65.220	Arte	Medios Regionales	2016-11-4 00:00:00	
+115827	SOC. EDUCACIONAL DIEGO DE ALMEYDA	Par	Blanco y negro	Generales	10x3	15	109.860	Publicado	Pedro Jaime	2016-11-4 00:00:00	
+115340	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	16x3	15	104.352	Arte	Medios Regionales	2016-11-4 00:00:00	
+114910	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	16	8.306	Publicado	Miguel Apey	2016-11-4 00:00:00	
+115806	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Cuatricromia	Medios Regionales	16x6	17	309.344	Arte	Medios Regionales	2016-11-4 00:00:00	
+115355	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	22	0	Arte	Marcela Tello-ElDia	2016-11-4 00:00:00	
+115676	MARTIN JURE PATRICIA	Par	Cuatricromia	Generales	5x3	23	0	Arte	Marcela Tello-ElDia	2016-11-4 00:00:00	
+115144	SERVICIOS GASTRON?MICOS LA CASONA D	Par	Blanco y negro	Generales	5x2	23	10.725	Publicado	Miguel Apey	2016-11-4 00:00:00	
+115064	SOC. HOTELERA VICHUQUEN LTDA.	Par	Cuatricromia	Generales	5x3	23	0	Arte	Marcela Tello-ElDia	2016-11-4 00:00:00	
+114976	HOTEL COSTA REAL	Par	Cuatricromia	Generales	10x2	23	30.761	Publicado	Miguel Apey	2016-11-4 00:00:00	
+114898	BAKULIC RESTAURANT	Par	Cuatricromia	Generales	10x2	23	24.609	Publicado	Miguel Apey	2016-11-4 00:00:00	
+115615	PILLA LA VACA	Par	Cuatricromia	Generales	5x2	23	0	Publicado	Marcela Tello-ElDia	2016-11-4 00:00:00	
+115044	DIARIO EL DIA	Par	Blanco y negro	Generales	35x6	24	0	Arte	Carolina Naranjo	2016-11-4 00:00:00	
+115692	soc.inmobil.y de inv.morales y cia.			UIP	5x2	29	0	Arte	Marcela Tello-ElDia	2016-11-4 00:00:00	
+115652	ICEFOOD LIMITADA	Par	Blanco y negro	Generales	5x2	29	8.925	Publicado	Patricia Villena	2016-11-4 00:00:00	
+115528	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	29	0	Arte	Marcela Tello-ElDia	2016-11-4 00:00:00	
+111902	INVERSIONES VEINTINUEVE GRADOS	Par	Blanco y negro	Generales	5x2	29	9.280	Publicado	Patricia Villena	2016-11-4 00:00:00	
+114547	SOC. DE GES			UIP	5x1	29	8.937	Publicado	Miguel Apey	2016-11-4 00:00:00	
+114941	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	4x5	29	20.508	Publicado	Miguel Apey	2016-11-4 00:00:00	
+115273	 L Y L 			UIP	5x1	29	8.937	Publicado	Pedro Jaime	2016-11-4 00:00:00	
+114757	CERNA E HIJOS CIA. LTDA.	Par	Blanco y negro	Generales	5x1	29	4.468	Publicado	Nadia Randolph	2016-11-4 00:00:00	
+115195	SERVICIOS GENERALES GUAYACAN S.A	Par	Blanco y negro	Generales	4x2	30	6.666	Publicado	Jacqueline Torres	2016-11-4 00:00:00	
+114069	VELIZ CORTES JOSE A.	Par	Blanco y negro	Generales	3x2	30	13.403	Publicado	Pedro Cortes	2016-11-4 00:00:00	
+115861	CLARO CHILE S.A.	Impar	Cuatricromia	Generales	35x6	32	646.000	Publicado	Kathine Soto-Stgo	2016-11-4 00:00:00	
+115863	SANTANDER G.R.C.	Par	Blanco y negro	Generales	17x1	EC-19	62.254	Publicado	Pedro Jaime	2016-11-4 00:00:00	
+108939	HOTELERIA LUIS ALBERTO BERETTA KIEK	Par	Blanco y negro	Generales	5x2	EC-19	6.994	Publicado	Patricia Villena	2016-11-4 00:00:00	
+115803	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	10x3	EC-19	65.220	Arte	Medios Regionales	2016-11-4 00:00:00	
+115447	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Generales	5x1	EC-19	5.860	Publicado	Rene Pizarro	2016-11-4 00:00:00	
+115843	CARMEN AREVALO ROMERO	441 Palabras		Propiedades	x	PROP	70.560	Publicado	Pedro Jaime	2016-11-4 00:00:00	
+115828	MILKO DENNIS ULISES VALENZUELA ARAN	383 Palabras		Propiedades	x	PROP	61.280	Publicado	Pedro Jaime	2016-11-4 00:00:00	
+115862	BAKULIC RESTAURANT	65 Palabras		Propiedades	x	PROP	10.400	Publicado	Miguel Apey	2016-11-4 00:00:00	
+115240	INMOBIL. E INVERSIONES AREYUNA E HI			Revista Cosas	x	RC	350.000	Publicado	Claudio Romero	2016-11-4 00:00:00	
+115031	INMOBILIARIA NUEVA SERENA			Revista Cosas	x	RC	500.000	Publicado	Claudio Romero	2016-11-4 00:00:00	

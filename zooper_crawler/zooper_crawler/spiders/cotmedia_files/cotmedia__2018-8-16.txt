@@ -1,0 +1,39 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+161190	INMOBILIARIA ECASA CHILE S.A.	Par	Cuatricromia	Generales	34x6	05	350.000	Publicado	Paola Marquez	2018-8-16 00:00:00	
+161857	BUALE GRUP LTDA.	Par	Cuatricromia	Generales	17x6	06	90.000	Publicado	Claudio Romero	2018-8-16 00:00:00	
+161148	DIARIO EL DIA	Par	Cuatricromia	Generales	17x6	07	0	Publicado	Marcela Tello-ElDia	2018-8-16 00:00:00	
+161822	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	6x2	08	27.396	Arte	Medios Regionales	2018-8-16 00:00:00	
+160827	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	5x2	08	0	Publicado	Miguel Apey	2018-8-16 00:00:00	
+160803	LABORATORIO CLINICO STA. MARIA LA S	Par	Blanco y negro	Generales	6x2	08	7.470	Publicado	Miguel Apey	2018-8-16 00:00:00	
+160633	PILLA LA VACA	Par	Blanco y negro	Generales	5x2	08	0	Publicado	Marcela Tello-ElDia	2018-8-16 00:00:00	
+161588	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Cuatricromia	Medios Regionales	32x6	09	544.008	Arte	Medios Regionales	2018-8-16 00:00:00	
+161501	AGUAS DEL VALLE S.A.	Par	Blanco y negro	Generales	20x3	10	219.720	Publicado	Jacqueline Torres	2018-8-16 00:00:00	
+160885	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	12x3	10	51.666	Publicado	Claudio Romero	2018-8-16 00:00:00	
+161543	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Cuatricromia	Medios Regionales	16x6	11	324.840	Arte	Medios Regionales	2018-8-16 00:00:00	
+161876	DIARIO EL DIA	Par	Cuatricromia	Generales	12x6	12	0	Arte	Marcela Tello-ElDia	2018-8-16 00:00:00	
+160752	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	12	8.306	Publicado	Miguel Apey	2018-8-16 00:00:00	
+161568	DIARIO EL DIA	Par	Blanco y negro	Generales	5x2	13	0	Publicado	Marcela Tello-ElDia	2018-8-16 00:00:00	
+161923	DIARIO EL DIA	Par	Blanco y negro	Generales	5x1	13	0	Arte	Marcela Tello-ElDia	2018-8-16 00:00:00	
+161761				UIP	5x1	13	8.937	Publicado	Carolina Naranjo	2018-8-16 00:00:00	
+160667	INVERSIONES ALTA CRUZ LTDA	Par	Blanco y negro	Generales	5x2	13	0	Publicado	Marcela Tello-ElDia	2018-8-16 00:00:00	
+160456	C.M. SOC. GASTRONOMICA LTDA.			UIP	5x2	13	7.208	Publicado		2018-8-16 00:00:00	
+160915	ARMAQ SUBIRI S.A.			UIP	5x1	13	8.937	Publicado	Claudio Romero	2018-8-16 00:00:00	
+160615	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	13	0	Publicado	Marcela Tello-ElDia	2018-8-16 00:00:00	
+160783	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	4x5	13	20.508	Publicado	Miguel Apey	2018-8-16 00:00:00	
+160701	SOC. DE GES			UIP	5x1	13	8.937	Publicado	Miguel Apey	2018-8-16 00:00:00	
+161853	ARZOBISPADO DE LA SERENA	Par	Blanco y negro	Generales	34x6	14	0	Publicado	Marcela Tello-ElDia	2018-8-16 00:00:00	
+161039	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	15	0	Publicado	Marcela Tello-ElDia	2018-8-16 00:00:00	
+161736	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	16	0	Publicado	Marcela Tello-ElDia	2018-8-16 00:00:00	
+161888	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	16	0	Arte	Marcela Tello-ElDia	2018-8-16 00:00:00	
+161845	SERVICIO DE REGISTRO CIVIL E IDENTI	Impar	Blanco y negro	Generales	35x6	19-21	773.448	Publicado	Jacqueline Torres	2018-8-16 00:00:00	
+161904	MOP OOPP	Impar	Blanco y negro	Generales	35x6	22	544.467	Publicado	Jacqueline Torres	2018-8-16 00:00:00	
+161924	CLUB DEPORTES COQUIMBO UNIDO	Par	Cuatricromia	Generales	17x3	24	0	Arte	Marcela Tello-ElDia	2018-8-16 00:00:00	
+161894	DIARIO EL DIA	Par	Cuatricromia	Generales	12x6	25	0	Arte	Marcela Tello-ElDia	2018-8-16 00:00:00	
+160964	CAMPOS DEL NORTE S.A.	Par	Cuatricromia	Generales	17x3	28	0	Publicado	Patricia Villena	2018-8-16 00:00:00	
+160350	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	28	0	Publicado	Marcela Tello-ElDia	2018-8-16 00:00:00	
+160938	SERV. VIVIENDA Y URBANIZACION IV RE	Impar	Blanco y negro	Generales	12x6	29	316.397	Publicado	Jacqueline Torres	2018-8-16 00:00:00	
+161110	OPERADORA Y ADMINISTRADORA NUEVA PO	Impar	Cuatricromia	Generales	35x6	32	504.000	Publicado	Patricia Villena	2018-8-16 00:00:00	
+160263	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Generales	5x2	EC-18	7.003	Publicado	Rene Pizarro	2018-8-16 00:00:00	
+161900	SERVICIO DE BIENESTAR DEL PERSONAL 	Par	Blanco y negro	Generales	8x2	EC-18	58.592	Publicado	Pedro Jaime	2018-8-16 00:00:00	
+161734	ARANDA CA?AS ALFONSO	Par	Blanco y negro	Generales	18x3	EC-18	167.227	Publicado	Pedro Jaime	2018-8-16 00:00:00	
+152160	HOTELERIA LUIS ALBERTO BERETTA KIEK	Par	Blanco y negro	Generales	5x2	EC-18	6.061	Publicado	Patricia Villena	2018-8-16 00:00:00	

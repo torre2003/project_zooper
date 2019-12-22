@@ -1,0 +1,48 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+154435	DIARIO EL DIA	Par	Blanco y negro	Generales	5x2	04	0	Publicado	Marcela Tello-ElDia	2018-4-21 00:00:00	
+153378	C.M. SOC. GASTRONOMICA LTDA.			UIP	5x2	04	7.208	Publicado		2018-4-21 00:00:00	
+152960	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	5x2	04	0	Publicado	Miguel Apey	2018-4-21 00:00:00	
+154584	INMOBILIARIA ELQUI S.A.	Par	Cuatricromia	Generales	17x3	06	0	Arte	M Cristina Puga	2018-4-21 00:00:00	
+154589	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	8x2	06	39.696	Publicado	Medios Regionales	2018-4-21 00:00:00	
+154590	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	8x2	06	39.696	Publicado	Medios Regionales	2018-4-21 00:00:00	
+154595	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Cuatricromia	Medios Regionales	32x6	07	582.024	Publicado	Medios Regionales	2018-4-21 00:00:00	
+154615	CLAUDIA PEREZ VELASCO	Par	Blanco y negro	Generales	6x2	08	40.429	Publicado	Marcela Tello-ElDia	2018-4-21 00:00:00	
+154570	BATA CHILE S.A	Par	Blanco y negro	Generales	5x2	08	29.480	Publicado	Claudio Romero	2018-4-21 00:00:00	
+154565	COMERCIAL CELTA LIMITADA	Par	Blanco y negro	Generales	5x2	08	37.902	Publicado	Miguel Apey	2018-4-21 00:00:00	
+152751	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	11	8.306	Publicado	Miguel Apey	2018-4-21 00:00:00	
+154557	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Cuatricromia	Medios Regionales	16x6	11	343.848	Publicado	Medios Regionales	2018-4-21 00:00:00	
+154465	ESCUELA INDUSTRIAL SALESIANOS SAN R	Par	Blanco y negro	Generales	5x2	12	42.113	Publicado	Rene Pizarro	2018-4-21 00:00:00	
+153298	PILLA LA VACA	Par	Blanco y negro	Generales	5x2	12	0	Publicado	Marcela Tello-ElDia	2018-4-21 00:00:00	
+153968	JOSE PUGA FORD	Par	Blanco y negro	Generales	5x2	12	29.480	Publicado	Miguel Apey	2018-4-21 00:00:00	
+153572	DABED Y CIA. LTDA., SELIM	Par	Cuatricromia	Generales	6x6	16	27.700	Publicado	Karina Rivera	2018-4-21 00:00:00	
+154617	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Cuatricromia	Medios Regionales	6x6	17	194.988	Publicado	Medios Regionales	2018-4-21 00:00:00	
+152795	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	4x5	22	20.508	Publicado	Miguel Apey	2018-4-21 00:00:00	
+152824	SOC. DE GES			UIP	5x1	22	8.937	Publicado	Miguel Apey	2018-4-21 00:00:00	
+154345	CERNA E HIJOS CIA. LTDA.	Par	Blanco y negro	Generales	5x1	22	3.566	Publicado	Nadia Randolph	2018-4-21 00:00:00	
+153105	ARMAQ SUBIRI S.A.			UIP	5x1	22	8.937	Publicado	Claudio Romero	2018-4-21 00:00:00	
+153279	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	22	0	Publicado	Marcela Tello-ElDia	2018-4-21 00:00:00	
+153132	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	8x4	23	51.666	Publicado	Claudio Romero	2018-4-21 00:00:00	
+153216	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	25	0	Publicado	Marcela Tello-ElDia	2018-4-21 00:00:00	
+154606	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	26	0	Publicado	Marcela Tello-ElDia	2018-4-21 00:00:00	
+154603	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	26	0	Publicado	Marcela Tello-ElDia	2018-4-21 00:00:00	
+153489	CAMPOS DEL NORTE S.A.	Par	Cuatricromia	Generales	17x3	27	0	Publicado	Patricia Villena	2018-4-21 00:00:00	
+154297	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	27	0	Publicado	Marcela Tello-ElDia	2018-4-21 00:00:00	
+154620	DIARIO EL DIA	Par	Blanco y negro	Generales	12x6	28	0	Publicado	Marcela Tello-ElDia	2018-4-21 00:00:00	
+153462	ANDREA YAZIGI SFEIR	Par	Blanco y negro	Generales	5x2	31	8.403	Publicado	Heinger Vega Torres	2018-4-21 00:00:00	
+154537	JOSE PUGA FORD	Par	Blanco y negro	Generales	5x2	31	29.480	Publicado	Miguel Apey	2018-4-21 00:00:00	
+153466	JUAN SEBASTIAN BOU LAGUNAS	Par	Blanco y negro	Generales	5x2	31	13.750	Publicado	Heinger Vega Torres	2018-4-21 00:00:00	
+153718	CARLOS GALLEGUILLOS CARVAJAL	Par	Blanco y negro	Generales	5x3	31	23.800	Publicado	Heinger Vega Torres	2018-4-21 00:00:00	
+154024	GUSTAVO TORRES MENDOZA	Par	Blanco y negro	Generales	5x2	31	12.000	Publicado	Heinger Vega Torres	2018-4-21 00:00:00	
+152940	INMOBILIARIA ECASA CHILE S.A.	Par	Cuatricromia	Generales	34x6	32	360.000	Publicado	Paola Marquez	2018-4-21 00:00:00	
+154578	SANTANDER G.R.C.	965 Palabras		Legal	x	EC	239.496	Publicado	Pedro Jaime	2018-4-21 00:00:00	
+154270	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	8x2	EC-18	39.696	Publicado	Medios Regionales	2018-4-21 00:00:00	
+154314	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	6x2	EC-18	29.772	Publicado	Medios Regionales	2018-4-21 00:00:00	
+154567	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	10x2	EC-19	49.620	Publicado	Medios Regionales	2018-4-21 00:00:00	
+152899	SOC. COMERCIAL VARGAS Y GIACOMET			UIP	5x1	EC-19	7.149	Publicado	Rene Pizarro	2018-4-21 00:00:00	
+154575	CIA. DE LEASING TATTERSALL S.A.	Par	Blanco y negro	Generales	11x2	EC-19	69.487	Publicado	Pedro Jaime	2018-4-21 00:00:00	
+152041	HOTELERIA LUIS ALBERTO BERETTA KIEK	Par	Blanco y negro	Generales	5x2	EC-20	6.061	Publicado	Patricia Villena	2018-4-21 00:00:00	
+153055	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Economico	5x2	EC-20	20.217	Publicado	Rene Pizarro	2018-4-21 00:00:00	
+153692	DIARIO EL DIA	Par	Cuatricromia	Generales	6x6	EC-20	0	Publicado	Marcela Tello-ElDia	2018-4-21 00:00:00	
+154302	SCOTIABANK CHILE S.A.	653 Palabras		Legal	x	EC-20	162.185	Publicado	Pedro Jaime	2018-4-21 00:00:00	
+154577	SANTANDER G.R.C.	420 Palabras		Legal	x	EC-20	104.202	Publicado	Pedro Jaime	2018-4-21 00:00:00	
+154564	Easy Retail S.A.			Inserto	x	INS	981.750	Publicado	Patricia Villena	2018-4-21 00:00:00	

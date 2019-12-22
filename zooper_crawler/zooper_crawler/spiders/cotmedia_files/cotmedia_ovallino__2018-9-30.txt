@@ -1,0 +1,14 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+163148	CAMPOS DEL NORTE S.A.	Par	Cuatricromia	Generales	5x6	01	23.343	Publicado	Patricia Villena	Franja Enjoy Portada EL Ovallino	2018-9-30 00:00:00	
+164799	DIARIO EL DIA	Impar	Cuatricromia	Generales	10x6	03	0	Publicado	Patricia Villena		2018-9-30 00:00:00	
+164290	TESORERIA PROVINCIAL DEL LIMARI OVA	Par	Blanco y negro	Generales	12x3	05	97.456	Publicado	Marcela Tello-ElDia		2018-9-30 00:00:00	
+164289	TESORERIA PROVINCIAL DEL LIMARI OVA	Par	Blanco y negro	Generales	18x3	05	146.184	Publicado	Marcela Tello-ElDia		2018-9-30 00:00:00	
+164812	PRENSA DEL LIMARI LTDA.	Par	Blanco y negro	Generales	10x3	07	0	Publicado	Marcela Tello-ElDia	Nos trasladamos para ofrecerles un mejor servicio... El Ovallino	2018-9-30 00:00:00	
+158758	SOCIEDAD MEDICA Y CONSULTORA ESTETI		Cuatricromia	Guia	5x2	08	13.333	Publicado	Paola Marquez	Diego Polanco	2018-9-30 00:00:00	
+164096	DABED Y CIA. LTDA., SELIM	Par	Cuatricromia	Generales	6x6	09	23.082	Publicado	Karina Rivera	4 OVA	2018-9-30 00:00:00	
+162879	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	11	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2018-9-30 00:00:00	
+164813	PRENSA DEL LIMARI LTDA.	Par	Blanco y negro	Generales	17x6	12	0	Publicado	Marcela Tello-ElDia		2018-9-30 00:00:00	
+164814	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	8x6	14	0	Publicado	Marcela Tello-ElDia		2018-9-30 00:00:00	
+164278	EMPRESA PERIODISTICA EL NORTE S.A.	Par	Cuatricromia	Medios Regionales	32x6	16	367.130	Publicado	Medios Regionales	Impar - Lanz. Ovalle Luna - Armas Gestion Ltda. - (145248)	2018-9-30 00:00:00	
+164604	DABED Y CIA. LTDA., SELIM		1 pag.	Inserto	x	INS	45.378	Publicado	Marcela Tello-ElDia	Convenio Diarios Locales - El Ovallino	2018-9-30 00:00:00	
+164605	DABED Y CIA. LTDA., SELIM		1 pag.	Inserto	x	INS	45.378	Publicado	Marcela Tello-ElDia	Convenio Diarios Locales - El Ovallino	2018-9-30 00:00:00	

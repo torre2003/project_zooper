@@ -1,0 +1,44 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+94692	CHRISTIAN LAURITZ MARIN	Par	Blanco y negro	Generales	4x2	04	6.667	Publicado	Jacqueline Torres	2016-2-25 00:00:00	
+96429	CARAT CHILE S.A.	Impar	Cuatricromia	Generales	17x6	05	300.000	Publicado	Kathine Soto-Stgo	2016-2-25 00:00:00	
+96468	SALINAS Y FABRES S.A.	Impar	Cuatricromia	Generales	17x6	07	0	Publicado	M Cristina Puga	2016-2-25 00:00:00	
+96405	GHD S.A	Par	Blanco y negro	Generales	18x6	08	394.118	Publicado	Pedro Jaime	2016-2-25 00:00:00	
+96438	UNIVERSIDAD DE ACONCAGUA	Par	Blanco y negro	Generales	13x4	11	146.480	Publicado	Rene Pizarro	2016-2-25 00:00:00	
+96451	DIARIO EL DIA	Par	Cuatricromia	Generales	34x6	12	0	Publicado	Marcela Tello-ElDia	2016-2-25 00:00:00	
+96383	GALLARDO Y OTRO			UIP	5x1	13	8.937	Publicado	Pedro Jaime	2016-2-25 00:00:00	
+94286	LABORATORIO CLINICO STA. MARIA LA S	Par	Blanco y negro	Generales	6x2	13	7.470	Publicado	Miguel Apey	2016-2-25 00:00:00	
+95082	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	10x3	13	0	Publicado	Marcela Tello-ElDia	2016-2-25 00:00:00	
+96413	DIARIO EL DIA	Par	Blanco y negro	Generales	5x2	14	0	Publicado	Marcela Tello-ElDia	2016-2-25 00:00:00	
+96407	DIARIO EL DIA	Par	Blanco y negro	Generales	6x1	14	0	Publicado	Marcela Tello-ElDia	2016-2-25 00:00:00	
+94499	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	5x2	14	0	Publicado	Miguel Apey	2016-2-25 00:00:00	
+95009	JUAN LUIS NARANJO DE LA RIVERA	Par	Blanco y negro	Generales	10x2	15	0	Publicado	Marcela Tello-ElDia	2016-2-25 00:00:00	
+96328	SINDY GONZALEZ MARCHANT	Par	Blanco y negro	Generales	12x2	15	0	Publicado	Marcela Tello-ElDia	2016-2-25 00:00:00	
+96322	LICEO SAN FRANCISCO	Par	Blanco y negro	Generales	6x2	15	38.752	Publicado	Miguel Apey	2016-2-25 00:00:00	
+94315	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	16	8.306	Publicado	Miguel Apey	2016-2-25 00:00:00	
+96430	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	17	0	Publicado	Marcela Tello-ElDia	2016-2-25 00:00:00	
+96399	DIARIO EL DIA	Par	Cuatricromia	Generales	20x3	22	0	Publicado	Marcela Tello-ElDia	2016-2-25 00:00:00	
+92881	DIARIO EL DIA	Par	Blanco y negro	Generales	35x6	24	0	Publicado	Carolina Naranjo	2016-2-25 00:00:00	
+96440	CLUB DE DEPORTES LA SERENA	Par	Cuatricromia	Generales	17x3	27	0	Publicado	Marcela Tello-ElDia	2016-2-25 00:00:00	
+95228	PRODUCCIONES KALEY LTDA	Par	Cuatricromia	Generales	17x3	28	35.714	Publicado	Paola Marquez	2016-2-25 00:00:00	
+94328	CASA DEL PERNO	Par	Blanco y negro	Generales	5x3	28	23.071	Publicado	Miguel Apey	2016-2-25 00:00:00	
+96309	AREVALO CARMEN			UIP	5x1	29	8.937	Publicado	Pedro Jaime	2016-2-25 00:00:00	
+91316	Alejandro ra			UIP	5x1	29	4.467	Publicado	M Cristina Puga	2016-2-25 00:00:00	
+96264	leon leon soc. ltda.			UIP	5x2	29	17.875	Publicado	Jacqueline Torres	2016-2-25 00:00:00	
+96165	ALLTIME SOCIEDAD			UIP	5x1	29	8.937	Publicado	Pedro Jaime	2016-2-25 00:00:00	
+95812	CERNA E HIJOS CIA. LTDA.	Par	Blanco y negro	Generales	5x1	29	4.467	Publicado	Nadia Randolph	2016-2-25 00:00:00	
+94358	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	4x5	29	20.508	Publicado	Miguel Apey	2016-2-25 00:00:00	
+94657	CAMPODONICO			UIP	5x1	29	8.937	Publicado	Pedro Jaime	2016-2-25 00:00:00	
+94719	ARMAQ			UIP	5x1	29	8.937	Publicado	Claudio Romero	2016-2-25 00:00:00	
+95017	PILLA LA VACA	Par	Blanco y negro	Generales	5x2	29	0	Publicado	Marcela Tello-ElDia	2016-2-25 00:00:00	
+95038	DIARIO EL DIA	Par	Blanco y negro	Generales	5x2	29	0	Publicado	Marcela Tello-ElDia	2016-2-25 00:00:00	
+95140	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	29	0	Publicado	Marcela Tello-ElDia	2016-2-25 00:00:00	
+94267	SOC. DE GESTION MEDITERRANEA			UIP	5x1	29	8.937	Publicado	Miguel Apey	2016-2-25 00:00:00	
+95208	SOC. COMERCIAL ALCAPARRA LTDA.	Par	Blanco y negro	Generales	5x2	29	10.440	Publicado	Patricia Villena	2016-2-25 00:00:00	
+95260	MAURICIO ALEJANDRO BUGUENO CONTRERA	Par	Blanco y negro	Generales	5x1	29	4.468	Publicado	Nadia Randolph	2016-2-25 00:00:00	
+95176	SERVICIOS GENERALES GUAYACAN S.A	Par	Blanco y negro	Generales	3x2	30	6.667	Publicado	Jacqueline Torres	2016-2-25 00:00:00	
+95437	BANCO FALABELLA	Impar	Cuatricromia	Contraportada	35x6	32	550.000	Publicado	M Cristina Puga	2016-2-25 00:00:00	
+94952	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Generales	5x1	EC-19	5.860	Publicado	Rene Pizarro	2016-2-25 00:00:00	
+96341	barboza SANTANDER 			UIP	5x1	EC-19	8.937	Publicado	Pedro Jaime	2016-2-25 00:00:00	
+96315	AREVALO CARMEN			UIP	5x1	EC-19	8.937	Publicado	Pedro Jaime	2016-2-25 00:00:00	
+94780	HOTELERIA LUIS ALBERTO BERETTA KIEK	Par	Blanco y negro	Generales	5x2	EC-19	8.937	Publicado	Patricia Villena	2016-2-25 00:00:00	
+95750	DABED Y CIA. LTDA., SELIM		1 pag.	Inserto	x	INS	62.118	Publicado	Marcela Tello-ElDia	2016-2-25 00:00:00	

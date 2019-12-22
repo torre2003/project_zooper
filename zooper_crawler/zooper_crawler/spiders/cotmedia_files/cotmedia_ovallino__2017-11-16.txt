@@ -1,0 +1,13 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+141072	HANNA JARUFE HAUNE	Par	Cuatricromia	Generales	17x3	03	117.653	Arte	Claudio Romero		2017-11-16 00:00:00	
+143705	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x3	03	0	Arte	Marcela Tello-ElDia	Vea en Cinemark - La Liga de la Justicia	2017-11-16 00:00:00	
+136043	INVERSIONES TANGUEMAR LIMITADA			UIP	5x2	05	2.808	Arte	Patricia Villena	Tanguemar	2017-11-16 00:00:00	
+143816	ADOLFO HADLER BARRERA			UIP	5x2	05	2.808	Arte	Karina Rivera	SE VENDE 5 SITIOS	2017-11-16 00:00:00	
+143504	CARLOS CASTILLO			UIP	5x2	05	2.808	Arte	Karina Rivera	DR CARLOS CASTILLO ODONTOLOGO	2017-11-16 00:00:00	
+143387	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	06	0	Arte	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2017-11-16 00:00:00	
+138351	CENTRO DE SALUD PORTALES LTDA			UIP	5x4	07	4.504	Arte	Karina Rivera		2017-11-16 00:00:00	
+143584	AUTOMOTORA INDEPENDENCIA LTDA.			UIP	10x6	11	22.764	Arte	Karina Rivera	AUTOMOTORA INDEPENDENCIA	2017-11-16 00:00:00	
+143203	TEODORO AGUIRRE ALVAREZ			UIP	5x4	13	4.920	Arte	Karina Rivera	REGIONALISTA VERDE SOCIAL	2017-11-16 00:00:00	
+143958	VELIZ CORTES JOSE A.			UIP	5x2	14	4.695	Arte	Pedro Cortes		2017-11-16 00:00:00	
+143880	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	34x6	16	0	Arte	Marcela Tello-ElDia	Elecciones Presidenciales - 2017	2017-11-16 00:00:00	
+144103	CORP. NACIONAL FORESTAL - CONAF	106 Palabras		Legal	x	XX	26.288	Arte	Karina Rivera	DERECHO DE AGUA	2017-11-16 00:00:00	

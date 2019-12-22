@@ -1,0 +1,13 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+170938	INMOBILIARIA E INVERSIONES EL CHA?A	Par	Blanco y negro	Generales	8x2	04	43.314	Publicado	Claudio Romero		2018-12-1 00:00:00	
+170935	INMOBILIARIA AYLLU S.A	Par	Blanco y negro	Generales	8x2	04	43.314	Publicado	Claudio Romero		2018-12-1 00:00:00	
+170500	SOC. SERVICIOS TECNOLOGICOS Y TELCO			UIP	10x6	05	16.260	Publicado	Claudio Romero	TELCONOR..AHORA EN OVALLE	2018-12-1 00:00:00	
+171159	CRISTIAN VENEGAS			UIP	17x2	08	19.342	Publicado	Karina Rivera	CONVOCATORIA CLUB DEPORTES PROVINCIAL OVALLE	2018-12-1 00:00:00	
+168609	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	09	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2018-12-1 00:00:00	
+170425	TESORERIA PROVINCIAL DEL LIMARI OVA	Par	Blanco y negro	Generales	23x6	11	304.842	Publicado	Jacqueline Torres	REMATE	2018-12-1 00:00:00	
+170453	MOP OOPP	194 Palabras		Legal	x	14	48.112	Publicado	Karina Rivera		2018-12-1 00:00:00	
+170451	MOP OOPP	209 Palabras		Legal	x	14	51.832	Publicado	Karina Rivera		2018-12-1 00:00:00	
+170456	MOP OOPP	181 Palabras		Legal	x	14	44.888	Publicado	Karina Rivera		2018-12-1 00:00:00	
+170449	MOP OOPP	209 Palabras		Legal	x	14	51.832	Publicado	Karina Rivera		2018-12-1 00:00:00	
+170447	MOP OOPP	202 Palabras		Legal	x	14	50.096	Publicado	Karina Rivera		2018-12-1 00:00:00	
+170454	MOP OOPP	178 Palabras		Legal	x	14	44.144	Publicado	Karina Rivera		2018-12-1 00:00:00	

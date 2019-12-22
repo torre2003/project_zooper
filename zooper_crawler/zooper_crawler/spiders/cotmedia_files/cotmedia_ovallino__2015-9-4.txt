@@ -1,0 +1,17 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+83741	SOCIEDAD DE RENTAS FALABELLA S.A	Par	Cuatricromia	Generales	8x6	01	50.980	Publicado	M Cristina Puga	Huincha portada Open Plaza	2015-9-4 00:00:00	
+82694	AUTOMOTRIZ CARMONA	Par	Cuatricromia	Generales	7x6	03	23.077	Publicado	Marcela Tello-ElDia	Ya estamos en Ovalle - Impar	2015-9-4 00:00:00	
+81388	Tanguemar			UIP	5x2	05	2.808	Publicado	Patricia Villena	Tanguemar	2015-9-4 00:00:00	
+81993	jorge alvarado 			UIP	5x2	05	2.808	Publicado	Italo Retamal	abogado	2015-9-4 00:00:00	
+83579	ADA diaz araya			UIP	10x2	05	5.630	Publicado	Italo Retamal	machi zona ganja	2015-9-4 00:00:00	
+83196	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	6x6	06	16.065	Publicado	Claudio Romero	Muebles Alpina	2015-9-4 00:00:00	
+83438	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	10x3	07	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2015-9-4 00:00:00	
+83641	SOCIEDAD DE INVERSIONES Y ASESORIAS			UIP	17x2	07	9.211	Publicado	Italo Retamal	ingles	2015-9-4 00:00:00	
+83750	DABED Y CIA. LTDA., SELIM	Impar	Cuatricromia	Generales	6x6	08	23.077	Publicado	Italo Retamal	(4) Se viene!	2015-9-4 00:00:00	
+82405	SOCIEDAD COMERCIAL KATANKURA LTDA	Par	Cuatricromia	Generales	6x6	09	25.000	Publicado	Italo Retamal	evento katankura 	2015-9-4 00:00:00	
+82948	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x3	11	0	Arte	Marcela Tello-ElDia	Vea en Cinemark - Agente CIPOL	2015-9-4 00:00:00	
+83784	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x3	11	0	Arte	Marcela Tello-ElDia		2015-9-4 00:00:00	
+83587	ILUSTRE MUNICIPALIDAD DE MONTE PATR	Impar	Blanco y negro	Generales	17x6	12	144.065	Publicado	Italo Retamal		2015-9-4 00:00:00	
+83863	ORLANDO FLORES	Par	Blanco y negro	Generales	10x2	13	23.540	Publicado	Italo Retamal	misa	2015-9-4 00:00:00	
+83620	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	12x6	14	0	Arte	Marcela Tello-ElDia	Teatro en Ovalle - Solo Suscriptores	2015-9-4 00:00:00	
+83570	DABED Y CIA. LTDA., SELIM		1 pag.	Inserto	x	INS	215.126	Publicado	Italo Retamal	Diarios dabed 3600 septiembre 	2015-9-4 00:00:00	

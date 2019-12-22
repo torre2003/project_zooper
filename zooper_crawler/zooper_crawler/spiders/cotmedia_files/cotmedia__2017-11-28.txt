@@ -1,0 +1,29 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+141373	UNIVERSIDAD CATOLICA DEL NORTE	Impar	Cuatricromia	Generales	34x6	05	900.000	Arte	Miguel Apey	2017-11-28 00:00:00	
+144645	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Cuatricromia	Medios Regionales	17x6	07	322.388	Arte	Medios Regionales	2017-11-28 00:00:00	
+143365	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	08	0	Arte	Marcela Tello-ElDia	2017-11-28 00:00:00	
+144571	UNIVERSIDAD TECNOLOGICA DE CHILE	Impar	Cuatricromia	Generales	17x6	09	450.000	Arte	Patricia Villena	2017-11-28 00:00:00	
+142436	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	6x6	10	51.666	Arte	Claudio Romero	2017-11-28 00:00:00	
+144340	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	11	0	Arte	Marcela Tello-ElDia	2017-11-28 00:00:00	
+142362	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	13	8.306	Arte	Miguel Apey	2017-11-28 00:00:00	
+141560	CHRISTIAN LAUNITZ MARIN SERVICIOS M	Par	Blanco y negro	Generales	5x2	17	5.000	Arte	Heinger Vega Torres	2017-11-28 00:00:00	
+142774	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	5x2	19	0	Arte	Miguel Apey	2017-11-28 00:00:00	
+142562	C.M. SOC. GASTRONOMICA LTDA.			UIP	5x2	19	7.208	Arte		2017-11-28 00:00:00	
+142993	CENTRO DE EDUC.CAP.Y FORMACION LABO	Par	Blanco y negro	Generales	5x2	19	4.666	Arte	Jacqueline Torres	2017-11-28 00:00:00	
+144619	CARMEN AREVALO ROMERO			UIP	5x1	24	8.937	Arte	Pedro Jaime	2017-11-28 00:00:00	
+144524	CONSTRUCTORA PRODELCA S.A.			UIP	5x2	24	17.875	Arte		2017-11-28 00:00:00	
+142635	ARMAQ SUBIRI S.A.			UIP	5x1	25	8.937	Arte	Claudio Romero	2017-11-28 00:00:00	
+142401	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	4x5	25	20.508	Arte	Miguel Apey	2017-11-28 00:00:00	
+144259	SOC. DE GES			UIP	5x1	25	8.937	Arte	Miguel Apey	2017-11-28 00:00:00	
+142275	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	25	0	Arte	Marcela Tello-ElDia	2017-11-28 00:00:00	
+144461	CARLOS DAVILA BRAVO			UIP	5x1	25	8.937	Arte	Pedro Jaime	2017-11-28 00:00:00	
+142031	CERNA E HIJOS CIA. LTDA.	Par	Blanco y negro	Generales	5x1	25	3.574	Arte	Nadia Randolph	2017-11-28 00:00:00	
+144638	DIARIO EL DIA	Par	Blanco y negro	Generales	35x6	28	0	Arte	Carolina Naranjo	2017-11-28 00:00:00	
+143941	VELIZ CORTES JOSE A.	Par	Blanco y negro	Generales	3x2	29	13.403	Arte	Pedro Cortes	2017-11-28 00:00:00	
+142808	SERVICIOS GENERALES GUAYACAN S.A	Par	Blanco y negro	Generales	4x2	29	6.686	Arte	Jacqueline Torres	2017-11-28 00:00:00	
+144586	SANTANDER G.R.C.	Par	Blanco y negro	Generales	10x2	EC	83.824	Arte	Pedro Jaime	2017-11-28 00:00:00	
+144635	DEL RIO VARELA JORGE	Par	Blanco y negro	Generales	11x3	EC	83.193	Arte	Pedro Jaime	2017-11-28 00:00:00	
+142493	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Economico	5x2	EC	15.161	Arte	Rene Pizarro	2017-11-28 00:00:00	
+124019	HOTELERIA LUIS ALBERTO BERETTA KIEK	Par	Blanco y negro	Generales	5x2	EC	6.061	Arte	Patricia Villena	2017-11-28 00:00:00	
+144643	INVERSIONES SAN JAVIER LTDA.	1270 Palabras		Propiedades	x	PROP	203.200	Arte	Rene Pizarro	2017-11-28 00:00:00	
+144644	INMOBILIARIA JCE S.A	Home	Banner Cabecera	Web	x	xx	100.000	Arte		2017-11-28 00:00:00	

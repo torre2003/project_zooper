@@ -1,0 +1,9 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+158018	SOCIEDAD DE RENTAS FALABELLA S.A	Impar	Cuatricromia	Generales	17x6	03	200.000	Publicado	M Cristina Puga	Open Plaza	2018-6-13 00:00:00	
+158069	PRENSA DEL LIMARI LTDA.	Par	Blanco y negro	Generales	6x6	05	0	Arte	Marcela Tello-ElDia		2018-6-13 00:00:00	
+158047	DANIELA MORALES			UIP	5x2	06	3.333	Publicado	Karina Rivera	FONOAUDIOLOGIA INFANTIL	2018-6-13 00:00:00	
+157230	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	08	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2018-6-13 00:00:00	
+156670	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	12x3	09	0	Publicado	Claudio Romero	Muebles alpina..	2018-6-13 00:00:00	
+158040	HERSON ANDRES VALENCIA BELALCAZAR			UIP	5x4	11	13.210	Publicado	Karina Rivera	2X1 KING BARBER (SEMANA DEL PADRE) 	2018-6-13 00:00:00	
+158070	PRENSA DEL LIMARI LTDA.	Par	Blanco y negro	Generales	17x3	12	0	Arte	Marcela Tello-ElDia	www.elovallino.cl - Vive la experiencia	2018-6-13 00:00:00	
+158013	I INVERSIONES LIMITADA	2316 Palabras		Legal	x	15	344.621	Publicado	Karina Rivera	EXTRACTO ROL C-124-2017	2018-6-13 00:00:00	

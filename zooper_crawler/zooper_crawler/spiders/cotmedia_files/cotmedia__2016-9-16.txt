@@ -1,0 +1,67 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+110112	CHRISTIAN LAUNITZ MARIN SERVICIOS M	Par	Blanco y negro	Generales	4x2	04	6.464	Publicado	Jacqueline Torres	2016-9-16 00:00:00	
+111492	INMOBILIARIA ECASA CHILE S.A.	Par	Cuatricromia	Generales	34x6	05	300.000	Publicado	Paola Marquez	2016-9-16 00:00:00	
+111853	CALLEGARI LTDA.	Par	Cuatricromia	Generales	34x6	07	0	Publicado	Marcela Tello-ElDia	2016-9-16 00:00:00	
+111994	INMOBILIARIA EURO AMH S.A.	Impar	Cuatricromia	Generales	34x6	09	575.000	Publicado	Paola Marquez	2016-9-16 00:00:00	
+111638	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Cuatricromia	Medios Regionales	6x6	10	178.904	Publicado	Medios Regionales	2016-9-16 00:00:00	
+112045	SOC. COMERCIAL NAPOLEON LTDA.	Impar	Blanco y negro	Generales	5x6	11	11.538	Publicado	Patricia Villena	2016-9-16 00:00:00	
+110387	INMOBILIARIA NOLLAGAM LTDA.	Impar	Cuatricromia	Generales	34x3	13	439.265	Publicado	Paola Marquez	2016-9-16 00:00:00	
+111675	INMOBILIARIA CHRISTIAN ALFREDO MEND			UIP	5x6	14	53.625	Publicado	Claudio Romero	2016-9-16 00:00:00	
+111082	DIARIO EL DIA	Par	Blanco y negro	Generales	5x2	14	0	Publicado	Marcela Tello-ElDia	2016-9-16 00:00:00	
+111743	ARZOBISPADO DE LA SERENA	Par	Blanco y negro	Generales	5x2	14	0	Publicado	Marcela Tello-ElDia	2016-9-16 00:00:00	
+110421	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	5x2	14	0	Publicado	Miguel Apey	2016-9-16 00:00:00	
+111501	INMOBILIARIA NOVA S.A.	Par	Cuatricromia	Generales	35x6	15	333.333	Publicado	Jacqueline Torres	2016-9-16 00:00:00	
+111807	INVERSIONES VEINTINUEVE GRADOS	Par	Blanco y negro	Generales	5x2	16	9.280	Publicado	Patricia Villena	2016-9-16 00:00:00	
+112095	DABED Y CIA. LTDA., SELIM	Par	Cuatricromia	Generales	7x6	16	27.690	Publicado	Marcela Tello-ElDia	2016-9-16 00:00:00	
+111848	SERVICIOS TASUI S.A.	Par	Cuatricromia	Generales	10x2	16	87.500	Publicado	Rene Pizarro	2016-9-16 00:00:00	
+111832	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	6x2	16	26.088	Publicado	Medios Regionales	2016-9-16 00:00:00	
+112101	INMOBILIARIA POCURO LTDA.	Impar	Cuatricromia	Generales	17x6	17	0	Publicado	Jacqueline Torres	2016-9-16 00:00:00	
+112092	INMOBIL. PY  S.A.	Par	Cuatricromia	Generales	17x6	17	0	Publicado	Claudio Romero	2016-9-16 00:00:00	
+110867	SERVICIO TRANSPORTES SERENA MAR CAR	Par	Cuatricromia	Generales	17x3	18	0	Publicado	Marcela Tello-ElDia	2016-9-16 00:00:00	
+111867	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	18	0	Publicado	Marcela Tello-ElDia	2016-9-16 00:00:00	
+111841	DIARIO EL DIA	Par	Cuatricromia	Generales	14x6	19	0	Publicado	Marcela Tello-ElDia	2016-9-16 00:00:00	
+110490	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	20	0	Publicado	Marcela Tello-ElDia	2016-9-16 00:00:00	
+112080	EMPRESAS LA POLAR S.A.	Impar	Cuatricromia	Generales	35x6	21	504.000	Publicado	Patricia Villena	2016-9-16 00:00:00	
+112102	CORP. DE FOMENTO DE LA PRODUCCION	Par	Blanco y negro	Generales	17x3	23	0	Publicado	Jacqueline Torres	2016-9-16 00:00:00	
+110296	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	27	8.306	Publicado	Miguel Apey	2016-9-16 00:00:00	
+111839	PARQUE SOLAR CFARR SPA	Par	Blanco y negro	Generales	34x4	30	391.876	Publicado	Pedro Jaime	2016-9-16 00:00:00	
+111974	OVALLE CASINO RESORT S.A	Par	Cuatricromia	Generales	25x4	32	205.072	Publicado	Paola Marquez	2016-9-16 00:00:00	
+110274	BAKULIC RESTAURANT	Par	Cuatricromia	Generales	10x2	33	24.609	Publicado	Miguel Apey	2016-9-16 00:00:00	
+110695	SERVICIOS GASTRON?MICOS LA CASONA D	Par	Blanco y negro	Generales	5x2	33	10.725	Publicado	Miguel Apey	2016-9-16 00:00:00	
+110570	PILLA LA VACA	Par	Cuatricromia	Generales	5x2	33	0	Publicado	Marcela Tello-ElDia	2016-9-16 00:00:00	
+107661	SOC HOTELERA Y DE TURISMO HACIENDA 	Par	Cuatricromia	Generales	5x6	33	9.063	Publicado	Patricia Villena	2016-9-16 00:00:00	
+110589	MARTIN JURE PATRICIA	Par	Cuatricromia	Generales	5x3	33	0	Publicado	Marcela Tello-ElDia	2016-9-16 00:00:00	
+110352	HOTEL COSTA REAL	Par	Cuatricromia	Generales	10x2	33	30.761	Publicado	Miguel Apey	2016-9-16 00:00:00	
+110466	SOC. HOTELERA VICHUQUEN LTDA.	Par	Cuatricromia	Generales	5x3	33	0	Publicado	Marcela Tello-ElDia	2016-9-16 00:00:00	
+111516	AGENCIA PUBLICITARIA OREL ALI E.I.R	Par	Cuatricromia	Generales	34x6	34	0	Publicado	Marcela Tello-ElDia	2016-9-16 00:00:00	
+110372	ILUSTRE MUNICIPALIDAD DE COQUIMBO	Par	Blanco y negro	Generales	10x6	35	153.804	Publicado	Miguel Apey	2016-9-16 00:00:00	
+111955	DIARIO EL DIA	Par	Blanco y negro	Generales	35x6	37	0	Publicado	Carolina Naranjo	2016-9-16 00:00:00	
+112008	SOC. AGRICOLA Y AVICOLA SANTA CARME	Par	Blanco y negro	Generales	12x6	40	0	Publicado	Claudio Romero	2016-9-16 00:00:00	
+111803	INMOBIL. E INVERSIONES AREYUNA E HI	Par	Cuatricromia	Generales	35x6	41	500.000	Publicado	Claudio Romero	2016-9-16 00:00:00	
+111388	DIARIO EL DIA	Par	Cuatricromia	Generales	34x6	42	0	Publicado	Marcela Tello-ElDia	2016-9-16 00:00:00	
+111524	ALVI SUPERMERCADOS MAYORISTAS S.A.	Impar	Cuatricromia	Generales	17x6	43	658.897	Publicado	Patricia Villena	2016-9-16 00:00:00	
+111706	agroplastic ltda.			UIP	17x1	44	29.333	Publicado	Claudio Romero	2016-9-16 00:00:00	
+110326	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	4x5	45	20.508	Publicado	Miguel Apey	2016-9-16 00:00:00	
+109845	SOC. DE GES			UIP	5x1	45	8.937	Publicado	Miguel Apey	2016-9-16 00:00:00	
+108450	CERNA E HIJOS CIA. LTDA.	Par	Blanco y negro	Generales	5x1	45	4.468	Publicado	Nadia Randolph	2016-9-16 00:00:00	
+107449	INV. GASTRONOMICAS PATRICIA TORO EI	Par	Blanco y negro	Generales	5x2	45	8.973	Publicado	Nadia Randolph	2016-9-16 00:00:00	
+106989	SOC.COMERCIAL ALTOS LA SERENA LTDA	Par	Blanco y negro	Generales	5x2	45	8.973	Publicado	Nadia Randolph	2016-9-16 00:00:00	
+110540	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	45	0	Publicado	Marcela Tello-ElDia	2016-9-16 00:00:00	
+110834	ARMAQ			UIP	5x1	45	8.937	Publicado	Claudio Romero	2016-9-16 00:00:00	
+111729	AREVALO CARMEN 			UIP	5x1	45	8.937	Publicado	Pedro Jaime	2016-9-16 00:00:00	
+111596	VELIZ CORTES JOSE A.	Par	Blanco y negro	Generales	3x2	46	13.403	Publicado	Pedro Cortes	2016-9-16 00:00:00	
+110134	SERVICIOS GENERALES GUAYACAN S.A	Par	Blanco y negro	Generales	4x2	46	6.666	Publicado	Jacqueline Torres	2016-9-16 00:00:00	
+111347	INMOBILIARIA ECOMAC SANTIAGO S.A.	Impar	Cuatricromia	Generales	35x6	48	749.334	Publicado	M Cristina Puga	2016-9-16 00:00:00	
+110614	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Generales	5x1	EC-29	5.860	Publicado	Rene Pizarro	2016-9-16 00:00:00	
+108864	HOTELERIA LUIS ALBERTO BERETTA KIEK	Par	Blanco y negro	Generales	5x2	EC-29	6.994	Publicado	Patricia Villena	2016-9-16 00:00:00	
+111870	JUAN CONTRERAS COSGROVE	Par	Blanco y negro	Generales	5x2	EC-29	0	Arte	Pedro Jaime	2016-9-16 00:00:00	
+112007	CORPBANCA	546  Palabras		Legal	x	EC-29	135.462	Publicado	Pedro Jaime	2016-9-16 00:00:00	
+112004	ILUSTRE MUNICIPALIDAD DE VICUNA	Par	Cuatricromia	Generales	35x6	INS	500.000	Publicado	Jacqueline Torres	2016-9-16 00:00:00	
+111191	SEREMI MINVU IV REGION	Impar	Cuatricromia	Centrales	35x6	INS	1.680.672	Publicado	Jacqueline Torres	2016-9-16 00:00:00	
+111990	AGUAS DEL VALLE S.A.	Par	Cuatricromia	Generales	17x6	TS16	350.366	Publicado	Jacqueline Torres	2016-9-16 00:00:00	
+111200	ILUSTRE MUNICIPALIDAD DE COQUIMBO	Par	Cuatricromia	Generales	35x6	TS16	753.640	Publicado	Miguel Apey	2016-9-16 00:00:00	
+111985	CONAFE	Impar	Cuatricromia	Generales	17x6	TS16	522.934	Publicado	Jacqueline Torres	2016-9-16 00:00:00	
+111629	COMERCIAL VALENTINI E HIJOS LTDA.	Par	Cuatricromia	VidaHogar	17x6	TS16	150.000	Publicado	Paola Marquez	2016-9-16 00:00:00	
+111490	GOBIERNO REGIONAL - REGION DE COQUI	Par	Cuatricromia	Generales	35x6	TS16	615.831	Publicado	Jacqueline Torres	2016-9-16 00:00:00	
+111489	GOBIERNO REGIONAL - REGION DE COQUI	Par	Cuatricromia	Generales	35x6	TS16	615.832	Publicado	Jacqueline Torres	2016-9-16 00:00:00	
+111748	TERMINAL PUERTO COQUIMBO S.A.	Par	Cuatricromia	Generales	35x6	TS16	506.016	Publicado	Miguel Apey	2016-9-16 00:00:00	

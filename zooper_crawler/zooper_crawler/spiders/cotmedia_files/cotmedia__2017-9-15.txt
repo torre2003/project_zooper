@@ -1,0 +1,117 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+137707	CHRISTIAN LAUNITZ MARIN SERVICIOS M	Par	Blanco y negro	Generales	5x2	04	5.000	Publicado	Heinger Vega Torres	2017-9-15 00:00:00	
+139040	CLARO CHILE S.A.	Impar	Cuatricromia	Generales	35x6	05	646.000	Publicado	Kathine Soto-Stgo	2017-9-15 00:00:00	
+139047	EMPRESAS LA POLAR S.A.	Par	Cuatricromia	Contraportada	35x6	07 	504.000	Publicado	Patricia Villena	2017-9-15 00:00:00	
+139052	CONAFE	Par	Cuatricromia	Ed.Especial	17x6	08	320.000	Publicado	Jacqueline Torres	2017-9-15 00:00:00	
+139039	INMOBILIARIA ECOMAC SANTIAGO S.A.	Impar	Cuatricromia	Generales	35x6	09	0	Arte	M Cristina Puga	2017-9-15 00:00:00	
+139054	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Cuatricromia	Medios Regionales	16x6	10	309.344	Arte	Medios Regionales	2017-9-15 00:00:00	
+139069	SOC. COM. CENTRO NORTE LTDA.	Par	Blanco y negro	Generales	17x6	11	261.467	Publicado	Marcela Tello-ElDia	2017-9-15 00:00:00	
+139071	CORP. DE FOMENTO DE LA PRODUCCION	Par	Blanco y negro	Generales	17x3	12	138.236	Publicado	Pedro Jaime	2017-9-15 00:00:00	
+139072	CORP. DE FOMENTO DE LA PRODUCCION	Par	Blanco y negro	Generales	17x3	12	138.235	Publicado	Pedro Jaime	2017-9-15 00:00:00	
+139051	TRANSBANK S.A.	Impar	Cuatricromia	Generales	17x6	13	313.761	Publicado	Kathine Soto-Stgo	2017-9-15 00:00:00	
+133557	SOCIEDAD MEDICA  Y CONSULTORA ESTET			UIP	5x1	14	8.937	Publicado	Maria_Amelia Hermosilla	2017-9-15 00:00:00	
+134579	CERNA E HIJOS CIA. LTDA.	Par	Blanco y negro	Generales	5x1	14	3.574	Publicado	Nadia Randolph	2017-9-15 00:00:00	
+136952	SOC. DE GES			UIP	5x1	14	8.937	Publicado	Miguel Apey	2017-9-15 00:00:00	
+137382	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	4x5	14	20.508	Publicado	Miguel Apey	2017-9-15 00:00:00	
+137551	ARMAQ SUBIRI S.A.			UIP	5x1	14	8.937	Publicado	Claudio Romero	2017-9-15 00:00:00	
+137896	C.M. SOC. GASTRONOMICA LTDA.			UIP	5x2	14	7.208	Publicado		2017-9-15 00:00:00	
+138980	ILUSTRE MUNICIPALIDAD DE MONTE PATR	Impar	Cuatricromia	Generales	17x3	15	180.672	Publicado	Claudio Romero	2017-9-15 00:00:00	
+139036	ILUSTRE MUNICIPALIDAD DE MONTE PATR	Impar	Cuatricromia	Generales	17x3	15	180.673	Publicado	Claudio Romero	2017-9-15 00:00:00	
+137960	ESTUDIO JURIDICO OLIVARES Y CIA. SP	Par	Blanco y negro	Generales	5x2	16	2.666	Publicado	Jacqueline Torres	2017-9-15 00:00:00	
+138510	ARZOBISPADO DE LA SERENA	Par	Blanco y negro	Generales	5x2	16	0	Publicado	Marcela Tello-ElDia	2017-9-15 00:00:00	
+138969	ILUSTRE MUNICIPALIDAD DE COQUIMBO	Par	Blanco y negro	Generales	35x2	16	179.438	Publicado	Miguel Apey	2017-9-15 00:00:00	
+137338	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	17	8.306	Publicado	Miguel Apey	2017-9-15 00:00:00	
+137668	INMOBIL. PY  S.A.	Impar	Cuatricromia	Generales	17x6	17	407.889	Publicado	Claudio Romero	2017-9-15 00:00:00	
+137525	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	5x2	18	0	Publicado	Miguel Apey	2017-9-15 00:00:00	
+138968	ILUSTRE MUNICIPALIDAD DE COQUIMBO	Par	Blanco y negro	Generales	35x2	18	179.438	Publicado	Miguel Apey	2017-9-15 00:00:00	
+139044	COLEGIO ELENA BETTINI	Par	Blanco y negro	Generales	10x2	18	64.085	Publicado	Jacqueline Torres	2017-9-15 00:00:00	
+138959	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Cuatricromia	Medios Regionales	32x6	19	518.048	Publicado	Medios Regionales	2017-9-15 00:00:00	
+137932	SEREMI BIENES NACIONALES IV REGION	1980 Palabras		Legal	0x0	22	491.040	Publicado	Jacqueline Torres	2017-9-15 00:00:00	
+137921	SEREMI BIENES NACIONALES IV REGION	1090 Palabras		Legal	0x0	23-24	270.320	Publicado	Jacqueline Torres	2017-9-15 00:00:00	
+137930	SEREMI BIENES NACIONALES IV REGION	1450 Palabras		Legal	0x0	25	359.600	Publicado	Jacqueline Torres	2017-9-15 00:00:00	
+137927	SEREMI BIENES NACIONALES IV REGION	640 Palabras		Legal	0x0	26	158.720	Publicado	Jacqueline Torres	2017-9-15 00:00:00	
+138758	MOP OOPP	226 Palabras		Legal	x	27	56.048	Publicado	Jacqueline Torres	2017-9-15 00:00:00	
+138783	MOP OOPP	226 Palabras		Legal	x	27	56.048	Publicado	Jacqueline Torres	2017-9-15 00:00:00	
+138784	MOP OOPP	226 Palabras		Legal	x	27	56.048	Publicado	Jacqueline Torres	2017-9-15 00:00:00	
+138785	MOP OOPP	226 Palabras		Legal	x	27	56.048	Publicado	Jacqueline Torres	2017-9-15 00:00:00	
+138786	MOP OOPP	226 Palabras		Legal	x	27	56.048	Publicado	Jacqueline Torres	2017-9-15 00:00:00	
+138787	MOP OOPP	226 Palabras		Legal	x	27	56.048	Publicado	Jacqueline Torres	2017-9-15 00:00:00	
+138788	MOP OOPP	226 Palabras		Legal	x	27	56.048	Publicado	Jacqueline Torres	2017-9-15 00:00:00	
+138790	MOP OOPP	226 Palabras		Legal	x	27	56.048	Publicado	Jacqueline Torres	2017-9-15 00:00:00	
+138791	MOP OOPP	226 Palabras		Legal	x	27	56.048	Publicado	Jacqueline Torres	2017-9-15 00:00:00	
+138792	MOP OOPP	226 Palabras		Legal	x	27	56.048	Publicado	Jacqueline Torres	2017-9-15 00:00:00	
+138793	MOP OOPP	226 Palabras		Legal	x	27	56.048	Publicado	Jacqueline Torres	2017-9-15 00:00:00	
+138794	MOP OOPP	226 Palabras		Legal	x	27	56.048	Publicado	Jacqueline Torres	2017-9-15 00:00:00	
+138795	MOP OOPP	226 Palabras		Legal	x	27	56.048	Publicado	Jacqueline Torres	2017-9-15 00:00:00	
+138796	MOP OOPP	226 Palabras		Legal	x	27	56.048	Publicado	Jacqueline Torres	2017-9-15 00:00:00	
+138797	MOP OOPP	226 Palabras		Legal	x	28	56.048	Publicado	Jacqueline Torres	2017-9-15 00:00:00	
+138798	MOP OOPP	226 Palabras		Legal	x	28	56.048	Publicado	Jacqueline Torres	2017-9-15 00:00:00	
+138799	MOP OOPP	226 Palabras		Legal	x	28	56.048	Publicado	Jacqueline Torres	2017-9-15 00:00:00	
+138800	MOP OOPP	226 Palabras		Legal	x	28	56.048	Publicado	Jacqueline Torres	2017-9-15 00:00:00	
+138801	MOP OOPP	226 Palabras		Legal	x	28	56.048	Publicado	Jacqueline Torres	2017-9-15 00:00:00	
+138802	MOP OOPP	226 Palabras		Legal	x	28	56.048	Publicado	Jacqueline Torres	2017-9-15 00:00:00	
+138803	MOP OOPP	226 Palabras		Legal	x	28	56.048	Publicado	Jacqueline Torres	2017-9-15 00:00:00	
+138804	MOP OOPP	226 Palabras		Legal	x	28	56.048	Publicado	Jacqueline Torres	2017-9-15 00:00:00	
+138805	MOP OOPP	226 Palabras		Legal	x	28	56.048	Publicado	Jacqueline Torres	2017-9-15 00:00:00	
+138806	MOP OOPP	226 Palabras		Legal	x	28	56.048	Publicado	Jacqueline Torres	2017-9-15 00:00:00	
+138807	MOP OOPP	226 Palabras		Legal	x	28	56.048	Publicado	Jacqueline Torres	2017-9-15 00:00:00	
+138808	MOP OOPP	226 Palabras		Legal	x	28	56.048	Publicado	Jacqueline Torres	2017-9-15 00:00:00	
+138809	MOP OOPP	226 Palabras		Legal	x	28	56.048	Publicado	Jacqueline Torres	2017-9-15 00:00:00	
+138810	MOP OOPP	226 Palabras		Legal	x	28	56.048	Publicado	Jacqueline Torres	2017-9-15 00:00:00	
+138751	MOP OOPP	226 Palabras		Legal	x	29	56.048	Publicado	Jacqueline Torres	2017-9-15 00:00:00	
+138753	MOP OOPP	226 Palabras		Legal	x	29	56.048	Publicado	Jacqueline Torres	2017-9-15 00:00:00	
+138754	MOP OOPP	226 Palabras		Legal	x	29	56.048	Publicado	Jacqueline Torres	2017-9-15 00:00:00	
+138755	MOP OOPP	226 Palabras		Legal	x	29	56.048	Publicado	Jacqueline Torres	2017-9-15 00:00:00	
+138756	MOP OOPP	226 Palabras		Legal	x	29	56.048	Publicado	Jacqueline Torres	2017-9-15 00:00:00	
+138757	MOP OOPP	226 Palabras		Legal	x	29	56.048	Publicado	Jacqueline Torres	2017-9-15 00:00:00	
+138811	MOP OOPP	226 Palabras		Legal	x	29	56.048	Publicado	Jacqueline Torres	2017-9-15 00:00:00	
+138812	MOP OOPP	226 Palabras		Legal	x	29	56.048	Publicado	Jacqueline Torres	2017-9-15 00:00:00	
+138813	MOP OOPP	226 Palabras		Legal	x	29	56.048	Publicado	Jacqueline Torres	2017-9-15 00:00:00	
+138814	MOP OOPP	226 Palabras		Legal	x	29	56.048	Publicado	Jacqueline Torres	2017-9-15 00:00:00	
+138815	MOP OOPP	226 Palabras		Legal	x	29	56.048	Publicado	Jacqueline Torres	2017-9-15 00:00:00	
+138816	MOP OOPP	226 Palabras		Legal	x	29	56.048	Publicado	Jacqueline Torres	2017-9-15 00:00:00	
+138817	MOP OOPP	226 Palabras		Legal	x	29	56.048	Publicado	Jacqueline Torres	2017-9-15 00:00:00	
+138818	MOP OOPP	226 Palabras		Legal	x	29	56.048	Publicado	Jacqueline Torres	2017-9-15 00:00:00	
+138819	MOP OOPP	226 Palabras		Legal	x	29	56.048	Publicado	Jacqueline Torres	2017-9-15 00:00:00	
+138763	MOP OOPP	226 Palabras		Legal	x	30	56.048	Publicado	Jacqueline Torres	2017-9-15 00:00:00	
+138764	MOP OOPP	226 Palabras		Legal	x	30	56.048	Publicado	Jacqueline Torres	2017-9-15 00:00:00	
+138765	MOP OOPP	226 Palabras		Legal	x	30	56.048	Publicado	Jacqueline Torres	2017-9-15 00:00:00	
+138766	MOP OOPP	226 Palabras		Legal	x	30	56.048	Publicado	Jacqueline Torres	2017-9-15 00:00:00	
+138767	MOP OOPP	226 Palabras		Legal	x	30	56.048	Publicado	Jacqueline Torres	2017-9-15 00:00:00	
+138773	MOP OOPP	226 Palabras		Legal	x	30	56.048	Publicado	Jacqueline Torres	2017-9-15 00:00:00	
+138774	MOP OOPP	226 Palabras		Legal	x	30	56.048	Publicado	Jacqueline Torres	2017-9-15 00:00:00	
+138775	MOP OOPP	226 Palabras		Legal	x	30	56.048	Publicado	Jacqueline Torres	2017-9-15 00:00:00	
+138776	MOP OOPP	226 Palabras		Legal	x	30	56.048	Publicado	Jacqueline Torres	2017-9-15 00:00:00	
+138779	MOP OOPP	226 Palabras		Legal	x	30	56.048	Publicado	Jacqueline Torres	2017-9-15 00:00:00	
+138780	MOP OOPP	226 Palabras		Legal	x	30	56.048	Publicado	Jacqueline Torres	2017-9-15 00:00:00	
+138781	MOP OOPP	226 Palabras		Legal	x	30	56.048	Publicado	Jacqueline Torres	2017-9-15 00:00:00	
+138782	MOP OOPP	226 Palabras		Legal	x	30	56.048	Publicado	Jacqueline Torres	2017-9-15 00:00:00	
+138789	MOP OOPP	226 Palabras		Legal	x	30	56.048	Publicado	Jacqueline Torres	2017-9-15 00:00:00	
+139021	SERV. DE REGISTRO CIVIL E IDENTIFIC	Par	Blanco y negro	Generales	35x6	31-33	623.636	Publicado	Jacqueline Torres	2017-9-15 00:00:00	
+138864	BANCO DE CHILE	Par	Blanco y negro	Generales	35x6	34	667.787	Publicado	Pedro Jaime	2017-9-15 00:00:00	
+138827	DIARIO EL DIA	Par	Cuatricromia	Generales	5x6	35	0	Publicado	Marcela Tello-ElDia	2017-9-15 00:00:00	
+138867	BANCO DE CHILE	Par	Blanco y negro	Generales	26x6	35	617.087	Publicado	Pedro Jaime	2017-9-15 00:00:00	
+138870	AGENCIA PUBLICITARIA OREL ALI E.I.R	Par	Cuatricromia	Generales	34x6	37	0	Publicado	Marcela Tello-ElDia	2017-9-15 00:00:00	
+135655	ILUSTRE MUNICIPALIDAD DE COQUIMBO	Par	Blanco y negro	Generales	10x6	38	153.804	Publicado	Miguel Apey	2017-9-15 00:00:00	
+137943	INMOBILIARIA ECASA CHILE S.A.	Par	Cuatricromia	Generales	34x6	39	350.600	Publicado	Paola Marquez	2017-9-15 00:00:00	
+137729	SOC. HOTELERA VICHUQUEN LTDA.	Par	Cuatricromia	Generales	5x3	40	0	Publicado	Marcela Tello-ElDia	2017-9-15 00:00:00	
+137749	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	40	0	Publicado	Marcela Tello-ElDia	2017-9-15 00:00:00	
+137795	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	40	0	Publicado	Marcela Tello-ElDia	2017-9-15 00:00:00	
+137830	PILLA LA VACA	Par	Cuatricromia	Generales	5x2	40	0	Publicado	Marcela Tello-ElDia	2017-9-15 00:00:00	
+137870	MARTIN JURE PATRICIA	Par	Cuatricromia	Generales	5x3	40	0	Publicado	Marcela Tello-ElDia	2017-9-15 00:00:00	
+137470	CAMPOS DEL NORTE S.A.	Par	Cuatricromia	Generales	17x3	43	0	Publicado	Patricia Villena	2017-9-15 00:00:00	
+138929	CLUB DE DEPORTES LA SERENA	Par	Cuatricromia	Generales	17x3	43	0	Publicado	Marcela Tello-ElDia	2017-9-15 00:00:00	
+138970	ILUSTRE MUNICIPALIDAD DE COQUIMBO	Par	Blanco y negro	Generales	35x2	44	179.438	Publicado	Miguel Apey	2017-9-15 00:00:00	
+139020	CONSTRUCTORA SAMCO LTDA	Par	Cuatricromia	Generales	9x6	45	0	Arte	Miguel Apey	2017-9-15 00:00:00	
+136575	VELIZ CORTES JOSE A.	Par	Blanco y negro	Generales	3x2	46	13.403	Publicado	Pedro Cortes	2017-9-15 00:00:00	
+137992	SERVICIOS GENERALES GUAYACAN S.A	Par	Blanco y negro	Generales	4x2	46	6.686	Publicado	Jacqueline Torres	2017-9-15 00:00:00	
+139028	EMPRESAS LA POLAR S.A.	Par	Cuatricromia	Contraportada	35x6	48	504.000	Publicado	Patricia Villena	2017-9-15 00:00:00	
+138982	MARTIN JURE PATRICIA	Par	Blanco y negro	Generales	5x2	EC-20	0	Publicado	Marcela Tello-ElDia	2017-9-15 00:00:00	
+123937	HOTELERIA LUIS ALBERTO BERETTA KIEK	Par	Blanco y negro	Generales	5x2	EC-21	6.061	Publicado	Patricia Villena	2017-9-15 00:00:00	
+137621	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Economico	5x2	EC-21	15.667	Publicado	Rene Pizarro	2017-9-15 00:00:00	
+138957	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	20x6	EC-21	260.880	Publicado	Medios Regionales	2017-9-15 00:00:00	
+138246	ILUSTRE MUNICIPALIDAD DE VICUNA	Impar	Cuatricromia	Ed.Especial	35x6	INS	500.000	Publicado	Jacqueline Torres	2017-9-15 00:00:00	
+139016	SOC. COMERCIAL NAPOLEON LTDA.			Revista Cosas	x	RC	280.000	Publicado	Carolina Naranjo	2017-9-15 00:00:00	
+138078	INMOBILIARIA NUEVA SERENA	Home	Banner Cabecera	Web	x	WEB	200.000	Publicado		2017-9-15 00:00:00	
+138087	CONSTRUCTORA SERENA LTDA.	Home	Banner Cabecera	Web	x	WEB	200.000	Publicado		2017-9-15 00:00:00	
+138088	INMOBILIARIA SERENA S.A.	Home	Banner Cabecera	Web	x	WEB	200.000	Publicado		2017-9-15 00:00:00	

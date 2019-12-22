@@ -1,0 +1,47 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+150955	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	5x2	04	0	Publicado	Miguel Apey	2018-3-2 00:00:00	
+151334	DIARIO EL DIA	Par	Blanco y negro	Generales	4x6	04	0	Publicado	Marcela Tello-ElDia	2018-3-2 00:00:00	
+151156	C.M. SOC. GASTRONOMICA LTDA.			UIP	5x2	04	7.208	Publicado		2018-3-2 00:00:00	
+151170	INVERSIONES RIVANO SPA	Par	Blanco y negro	Generales	2x2	04	14.648	Publicado	Pedro Jaime	2018-3-2 00:00:00	
+151285	CLARO CHILE S.A.	Impar	Cuatricromia	Generales	35x6	05	646.000	Publicado	Kathine Soto-Stgo	2018-3-2 00:00:00	
+151166	CIDERE IV REGION	Impar	Blanco y negro	Generales	16x3	07	143.434	Publicado	Pedro Jaime	2018-3-2 00:00:00	
+151119	DIARIO EL DIA	Par	Cuatricromia	Generales	34x4	08	0	Publicado	Marcela Tello-ElDia	2018-3-2 00:00:00	
+151176	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Cuatricromia	Medios Regionales	16x6	09	324.811	Publicado	Medios Regionales	2018-3-2 00:00:00	
+150796	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	11	8.306	Publicado	Miguel Apey	2018-3-2 00:00:00	
+150701	ARZOBISPADO DE LA SERENA	Par	Blanco y negro	Generales	9x3	16	0	Publicado	Marcela Tello-ElDia	2018-3-2 00:00:00	
+150987	SERVICIOS DE TRANSPORTES DE PASAJER	Par	Blanco y negro	Generales	7x2	16	51.268	Publicado	Miguel Apey	2018-3-2 00:00:00	
+148607	CERNA E HIJOS CIA. LTDA.	Par	Blanco y negro	Generales	5x1	22	3.574	Publicado	Nadia Randolph	2018-3-2 00:00:00	
+148497	SOC. DE GES			UIP	5x1	22	8.937	Publicado	Miguel Apey	2018-3-2 00:00:00	
+150766	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	4x5	22	20.508	Publicado	Miguel Apey	2018-3-2 00:00:00	
+151080	CAMPOS DEL NORTE S.A.	Par	Cuatricromia	Generales	17x3	26	0	Publicado	Patricia Villena	2018-3-2 00:00:00	
+150710	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	26	0	Publicado	Marcela Tello-ElDia	2018-3-2 00:00:00	
+151145	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	27	0	Publicado	Marcela Tello-ElDia	2018-3-2 00:00:00	
+151142	SOC. HOTELERA VICHUQUEN LTDA.	Par	Cuatricromia	Generales	5x3	27	0	Publicado	Marcela Tello-ElDia	2018-3-2 00:00:00	
+151141	MARTIN JURE PATRICIA	Par	Cuatricromia	Generales	5x3	27	0	Publicado	Marcela Tello-ElDia	2018-3-2 00:00:00	
+151140	PILLA LA VACA	Par	Cuatricromia	Generales	5x2	27	0	Publicado	Marcela Tello-ElDia	2018-3-2 00:00:00	
+151143	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	27	0	Publicado	Marcela Tello-ElDia	2018-3-2 00:00:00	
+150053	DIARIO EL DIA	Par	Blanco y negro	Generales	35x6	28	0	Publicado	Carolina Naranjo	2018-3-2 00:00:00	
+151335	DIARIO EL DIA	Par	Blanco y negro	Generales	12x6	29	0	Publicado	Marcela Tello-ElDia	2018-3-2 00:00:00	
+151153	EMPRESAS LA POLAR S.A.	Par	Cuatricromia	Contraportada	35x6	32	504.000	Publicado	Patricia Villena	2018-3-2 00:00:00	
+151124	SANTANDER G.R.C.	423 Palabras		Legal	x	EC	105.042	Publicado	Pedro Jaime	2018-3-2 00:00:00	
+151125	SANTANDER G.R.C.	4869 Palabras		Legal	x	EC	1.207.563	Publicado	Pedro Jaime	2018-3-2 00:00:00	
+151123	BANCO DE CREDITO E INVERSIONES	1250 Palabras		Legal	x	EC	310.084	Publicado	Pedro Jaime	2018-3-2 00:00:00	
+151333	DIARIO EL DIA	Par	Blanco y negro	Generales	12x6	EC-16	0	Publicado	Marcela Tello-ElDia	2018-3-2 00:00:00	
+150111	SOC. COMERCIAL VARGAS Y GIACOMET			UIP	5x1	EC-19	7.149	Publicado	Rene Pizarro	2018-3-2 00:00:00	
+150855	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Generales	8x2	EC-19	58.592	Publicado	Marcela Tello-ElDia	2018-3-2 00:00:00	
+151016	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Economico	5x2	EC-19	15.161	Publicado	Rene Pizarro	2018-3-2 00:00:00	
+151122	RECAUDACIONES Y COBRANZA S.A	721 Palabras		Legal	x	EC-19	178.992	Publicado	Pedro Jaime	2018-3-2 00:00:00	
+150330	INSTITUTO INV. AGROPECUARIA, CRI. I	Par	Cuatricromia	Generales	34x6	INS	1.680.672	Publicado	Pedro Jaime	2018-3-2 00:00:00	
+151177	COMERCIAL AUTOKARINO LTDA.	400 Palabras		Propiedades	x	PROP	64.000	Publicado	Pedro Jaime	2018-3-2 00:00:00	
+151149	LILIAN ELIZABETH OLIVARES LANAS	940 Palabras		Propiedades	x	PROP	150.400	Publicado	Pedro Jaime	2018-3-2 00:00:00	
+151127	CLAUDIA HERRERA MORALES	105 Palabras		Propiedades	x	PROP	16.807	Publicado	Pedro Jaime	2018-3-2 00:00:00	
+151132	VALDIVIESO Y ASOCIADOS GESTION INMO	45 Palabras		Propiedades	x	PROP	7.200	Publicado	Pedro Jaime	2018-3-2 00:00:00	
+151133	SOC. COMERCIAL INV. GENERALES LTDA.	230 Palabras		Propiedades	x	PROP	36.800	Publicado	Pedro Jaime	2018-3-2 00:00:00	
+151134	MILKO DENNIS ULISES VALENZUELA ARAN	234 Palabras		Propiedades	x	PROP	37.440	Publicado	Pedro Jaime	2018-3-2 00:00:00	
+151135	GABRIELA ARENAS O'RYAN	309 Palabras		Propiedades	x	PROP	49.440	Publicado	Pedro Jaime	2018-3-2 00:00:00	
+151144	JACQUELINE BARRERA BARRAZA	629 Palabras		Propiedades	x	PROP	100.640	Publicado	Pedro Jaime	2018-3-2 00:00:00	
+151146	YOLANDA ELIAS CAMBLOR	373 Palabras		Propiedades	x	PROP	59.680	Publicado	Pedro Jaime	2018-3-2 00:00:00	
+151147	FRANCISCO CORVETTO MIRANDA PROPIEDA	2941 Palabras		Propiedades	x	PROP	470.560	Publicado	Pedro Jaime	2018-3-2 00:00:00	
+151148	FERES REBOLLEDO ANA ISABEL	289 Palabras		Propiedades	x	PROP	46.240	Publicado	Pedro Jaime	2018-3-2 00:00:00	
+151157	CAMPOS DEL NORTE S.A.	Home	Banner Cabecera	Web	0x0	WEB	1.170.000	Publicado		2018-3-2 00:00:00	
+151336	INVERSIONES SAN JAVIER LTDA.	1190 Palabras		Propiedades	x	XX	190.400	Publicado	Rene Pizarro	2018-3-2 00:00:00	

@@ -1,0 +1,57 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+86274	HERMANAS CALLEGARI LTDA.	Par	Cuatricromia	Generales	34x6	05	570.996	Publicado	Marcela Tello-ElDia	2015-10-10 00:00:00	
+85396	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	6x6	06	0	Publicado	Claudio Romero	2015-10-10 00:00:00	
+86450	ENTEL PCS	Impar	Cuatricromia	Generales	35x6	07	645.977	Publicado	Kathine Soto-Stgo	2015-10-10 00:00:00	
+86373	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	5x2	08	0	Publicado	Miguel Apey	2015-10-10 00:00:00	
+86307	COMERCIALIZADORA DE ARCILLAS SAN NI	Par	Cuatricromia	Generales	10x2	08	65.916	Publicado	Marcela Tello-ElDia	2015-10-10 00:00:00	
+86212	INMOBILIARIA CHRISTIAN ALFREDO MEND	Par	Cuatricromia	Generales	15x2	08	120.000	Publicado	Claudio Romero	2015-10-10 00:00:00	
+85349	DIARIO EL DIA	Par	Cuatricromia	Generales	12x2	08	0	Publicado	Marcela Tello-ElDia	2015-10-10 00:00:00	
+85246	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	08-14	8.306	Publicado	Miguel Apey	2015-10-10 00:00:00	
+86094	INMOBILIARIA NUEVA SERENA	Par	Cuatricromia	Generales	35x6	09	550.000	Publicado	Claudio Romero	2015-10-10 00:00:00	
+86085	DIARIO EL DIA	Par	Cuatricromia	Generales	17x6	10	0	Publicado	Marcela Tello-ElDia	2015-10-10 00:00:00	
+86250	CONSTRUCTORA POSEIDON LTDA.	Par	Cuatricromia	Generales	34x6	11	700.000	Publicado	Rene Pizarro	2015-10-10 00:00:00	
+86196	SERV. VIVIENDA Y URBANIZACION IV RE	Par	Blanco y negro	Generales	10x2	12	58.989	Publicado	Marcela Tello-ElDia	2015-10-10 00:00:00	
+86195	SERV. VIVIENDA Y URBANIZACION IV RE	Par	Blanco y negro	Generales	10x2	12	58.887	Publicado	Marcela Tello-ElDia	2015-10-10 00:00:00	
+86067	SINDY GONZALEZ MARCHANT	Par	Blanco y negro	Generales	12x2	12	0	Publicado	Marcela Tello-ElDia	2015-10-10 00:00:00	
+85210	MUTUAL DE SEGURIDAD C.CH.C.	Par	Blanco y negro	Generales	34x6	13	553.782	Publicado	Pedro Jaime	2015-10-10 00:00:00	
+86021	SERV. VIVIENDA Y URBANIZACION IV RE	Par	Blanco y negro	Generales	10x2	14	58.989	Publicado	Marcela Tello-ElDia	2015-10-10 00:00:00	
+86020	SERV. VIVIENDA Y URBANIZACION IV RE	Par	Blanco y negro	Generales	10x2	14	58.989	Publicado	Marcela Tello-ElDia	2015-10-10 00:00:00	
+86357	AGUAS DEL VALLE S.A.	Par	Blanco y negro	Generales	17x3	15	214.777	Publicado	Jacqueline Torres	2015-10-10 00:00:00	
+86244	SOC. EDUCACIONAL E INMOBILIARIA COL	Par	Blanco y negro	Generales	18x3	15	0	Publicado	Pedro Jaime	2015-10-10 00:00:00	
+85213	AVICOLA LA HERRADURA LTDA.	Par	Cuatricromia	Generales	17x3	16	209.174	Publicado	Paola Marquez	2015-10-10 00:00:00	
+85753	SILVA HIJOS Y CIA., EMILIO	Par	Cuatricromia	Generales	17x6	17	376.513	Publicado	Paola Marquez	2015-10-10 00:00:00	
+85953	INMOBILIARIA DELCA LIMITADA	Par	Cuatricromia	Generales	17x6	22	0	Publicado	Rene Pizarro	2015-10-10 00:00:00	
+86288	INMOBIL. LA SERENA GOLF S.A.	Impar	Cuatricromia	Generales	17x6	23	288.975	Publicado	Patricia Villena	2015-10-10 00:00:00	
+86264	SECRETARIA REGIONAL MINISTERIAL DE 	Par	Cuatricromia	Generales	17x6	27	408.934	Publicado	Jacqueline Torres	2015-10-10 00:00:00	
+86275	IMPORTADORA TRENTO LTDA.	Par	Cuatricromia	Generales	20x6	27	0	Arte	Marcela Tello-ElDia	2015-10-10 00:00:00	
+85683	CONSTRUCTORA SAMCO LTDA	Par	Cuatricromia	Generales	9x6	28	0	Publicado	Miguel Apey	2015-10-10 00:00:00	
+86377	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	4x5	29	20.508	Publicado	Miguel Apey	2015-10-10 00:00:00	
+85471	PILLA LA VACA	Par	Blanco y negro	Generales	5x2	29	0	Publicado	Marcela Tello-ElDia	2015-10-10 00:00:00	
+86224	AGROPLAS			UIP	5x2	29	17.875	Publicado	Claudio Romero	2015-10-10 00:00:00	
+86256	DESIDERIO LISBOA EIRL.	Par	Blanco y negro	Generales	5x2	29	20.000	Publicado	Claudio Romero	2015-10-10 00:00:00	
+85986	DANIELLA PINTO			UIP	5x1	29	8.937	Publicado	Pedro Jaime	2015-10-10 00:00:00	
+83912				UIP	5x2	29	17.875	Publicado	Pedro Jaime	2015-10-10 00:00:00	
+84166	soc. comercial e inv. alto la seren			UIP	5x2	29	8.937	Publicado	Nadia Randolph	2015-10-10 00:00:00	
+84472	SOC. DE GESTION MEDITERRANEA			UIP	5x1	29	8.937	Publicado	Miguel Apey	2015-10-10 00:00:00	
+84653	CERNA E HIJOS CIA. LTDA.	Par	Blanco y negro	Generales	5x1	29	4.468	Publicado	Nadia Randolph	2015-10-10 00:00:00	
+85302	SOC. COMERCIAL ALCAPARRA LTDA.	Par	Blanco y negro	Generales	5x2	29	10.440	Publicado	Patricia Villena	2015-10-10 00:00:00	
+85426	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	29	0	Publicado	Marcela Tello-ElDia	2015-10-10 00:00:00	
+85514	DIARIO EL DIA	Par	Blanco y negro	Generales	5x2	29	0	Publicado	Marcela Tello-ElDia	2015-10-10 00:00:00	
+85540	ARMAQ			UIP	5x1	29	8.937	Publicado	Claudio Romero	2015-10-10 00:00:00	
+86051	MAQUINARIA DE 			UIP	17x1	29	29.333	Publicado	Rene Pizarro	2015-10-10 00:00:00	
+86001	AUTOMOTORES DEL NORTE	Par	Blanco y negro	Generales	5x1	29	7.427	Publicado	Miguel Apey	2015-10-10 00:00:00	
+83684	SERVICIOS GENERALES GUAYACAN S.A	Par	Blanco y negro	Generales	3x2	30	6.451	Publicado	Jacqueline Torres	2015-10-10 00:00:00	
+86374	NANCY SANTANDER	Par	Blanco y negro	Generales	12x2	30	60.643	Publicado	Pedro Jaime	2015-10-10 00:00:00	
+82568	FALABELLA RETAIL S.A.	Impar	Cuatricromia	Contraportada	35x6	32	82.568	Publicado	M Cristina Puga	2015-10-10 00:00:00	
+86306	BANCO DE CHILE	609 Palabras		Legal	x	EC	151.260	Publicado	Pedro Jaime	2015-10-10 00:00:00	
+86304	BANCO DE CHILE	585 Palabras		Legal	x	EC	145.294	Publicado	Pedro Jaime	2015-10-10 00:00:00	
+86361	SOCIEDAD COMERCIAL Y SERVICIOS AQUA	Par	Blanco y negro	Generales	6x2	EC-18	50.536	Publicado	Pedro Jaime	2015-10-10 00:00:00	
+86206	INMOBIL. ITALIA LTDA.	Par	Blanco y negro	Generales	5x2	EC-18	33.691	Publicado	Marcela Tello-ElDia	2015-10-10 00:00:00	
+86375	INVERSIONES VEINTINUEVE GRADOS	Par	Blanco y negro	Generales	5x1	EC-19	13.687	Publicado	Jacqueline Torres	2015-10-10 00:00:00	
+86175	DIARIO EL DIA	Par	Blanco y negro	Generales	5x2	EC-19	0	Publicado	Marcela Tello-ElDia	2015-10-10 00:00:00	
+86351	FUNDACION MARIA EDUCA	Par	Blanco y negro	Economico	5x2	EC-19	42.113	Publicado	Jacqueline Torres	2015-10-10 00:00:00	
+84745	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Generales	5x1	EC-20	5.860	Publicado	Rene Pizarro	2015-10-10 00:00:00	
+85822	DIARIO EL DIA	Par	Cuatricromia	Generales	5x6	EC-20	0	Publicado	Marcela Tello-ElDia	2015-10-10 00:00:00	
+86061	COMERCIAL E.C.C.S.A.  S.A.		9 a 24 pag.	Inserto	x	INS	459.000	Publicado	M Cristina Puga	2015-10-10 00:00:00	
+86011	EASY S.A.			Inserto	x	INS	981.750	Publicado	Patricia Villena	2015-10-10 00:00:00	
+86156	GOBIERNO REGIONAL - REGION DE COQUI	Home	Banner Inf. Der	Web	x	WEB	180.000	Publicado	Jacqueline Torres	2015-10-10 00:00:00	

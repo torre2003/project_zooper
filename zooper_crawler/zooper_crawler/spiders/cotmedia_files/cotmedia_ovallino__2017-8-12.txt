@@ -1,0 +1,11 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+134782	SOCIEDAD DE RENTAS FALABELLA S.A	Par	Cuatricromia	Generales	8x6	01	50.980	Publicado	M Cristina Puga		2017-8-12 00:00:00	
+136091	DIARIO EL DIA	Par	Cuatricromia	Generales	35x6	03	0	Arte	Patricia Villena	Expo Horeca	2017-8-12 00:00:00	
+136236	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	12x6	06	0	Arte	Marcela Tello-ElDia		2017-8-12 00:00:00	
+136184	FERNANDO YOANOVICH			UIP	5x2	07	2.247	Publicado	Karina Rivera	TAROT SRA SOFIA	2017-8-12 00:00:00	
+135455	INVERSIONES TANGUEMAR LIMITADA			UIP	5x2	07	2.808	Publicado	Patricia Villena	Tanguemar	2017-8-12 00:00:00	
+136338	JACQUELINE JOFRE VILLANUEVA			UIP	5x2	07	2.808	Publicado	Karina Rivera	CORTINAS ROLLER OVALLE	2017-8-12 00:00:00	
+135103	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	08	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2017-8-12 00:00:00	
+135825	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x3	09	0	Arte	Marcela Tello-ElDia	Cinemark a un precio especial...	2017-8-12 00:00:00	
+136196	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x3	11	0	Arte	Marcela Tello-ElDia	Vea en Cinemark - Valerian	2017-8-12 00:00:00	
+136310	DABED Y CIA. LTDA., SELIM	Par	Cuatricromia	Generales	6x6	14	23.076	Publicado	Karina Rivera	 PAN 1	2017-8-12 00:00:00	

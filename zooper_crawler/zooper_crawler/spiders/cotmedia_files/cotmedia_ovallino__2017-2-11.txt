@@ -1,0 +1,13 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+122792	AUTOMOTORES GILDEMEISTER S.A.	Impar	Cuatricromia	Generales	25x5	03	483.218	Publicado	Kathine Soto-Stgo	AUTOMOTORES GILDEMEISTER BAIC	2017-2-11 00:00:00	
+122909	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	10x2	04	28.900	Publicado	Medios Regionales	Parques de Chile S.A. - (24429)	2017-2-11 00:00:00	
+119530	tangue			UIP	5x2	05	2.808	Publicado	Patricia Villena	Tanguemar	2017-2-11 00:00:00	
+121404	AGRICOLA NORTE TALINAY LTDA	Par	Blanco y negro	Generales	5x2	05	1.666	Publicado	Paola Marquez	UIP VENTA ALFALFA	2017-2-11 00:00:00	
+121549	JACQUELINE JOFRE VILL			UIP	5x2	05	2.808	Publicado	Karina Rivera	ROLLER OVALLE	2017-2-11 00:00:00	
+122636	SOC.COMERCIAL			UIP	10x2	06	11.009	Publicado	Karina Rivera	Reservas tortas personalizadas Piandy	2017-2-11 00:00:00	
+122642	SOCIEDAD GASTR			UIP	5x4	06	16.513	Publicado	Karina Rivera	Reservas cena El Relajo	2017-2-11 00:00:00	
+117906	OVALLEMAR			UIP	5x2	08	3.958	Publicado	Karina Rivera	OVALLE MAR	2017-2-11 00:00:00	
+122719	SOC. HOTELERA VICHUQUEN LTDA.	Par	Cuatricromia	Generales	10x2	08	0	Arte	Karina Rivera		2017-2-11 00:00:00	
+122688	HUGO LUIS CONTULIANO MONARDEZ			UIP	5x2	08	2.808	Publicado	Karina Rivera		2017-2-11 00:00:00	
+122752	DABED Y CIA. LTDA., SELIM	Par	Cuatricromia	Generales	6x6	11	23.077	Publicado	Karina Rivera	1 M	2017-2-11 00:00:00	
+122958	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	5x6	14	0	Arte	Marcela Tello-ElDia		2017-2-11 00:00:00	

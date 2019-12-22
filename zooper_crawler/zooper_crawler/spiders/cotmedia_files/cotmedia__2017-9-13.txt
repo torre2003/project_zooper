@@ -1,0 +1,46 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+137705	CHRISTIAN LAUNITZ MARIN SERVICIOS M	Par	Blanco y negro	Generales	8x2	04	5.000	Publicado	Heinger Vega Torres	2017-9-13 00:00:00	
+138924	CLARO CHILE S.A.	Impar	Cuatricromia	Generales	35x6	05	646.000	Publicado	Kathine Soto-Stgo	2017-9-13 00:00:00	
+137270	OVALLE CASINO RESORT S.A	Par	Cuatricromia	Generales	25x4	07	0	Publicado	Paola Marquez	2017-9-13 00:00:00	
+138961	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	08	0	Publicado	Patricia Villena	2017-9-13 00:00:00	
+138953	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	08	0	Publicado	Marcela Tello-ElDia	2017-9-13 00:00:00	
+138201	DIARIO EL DIA	Par	Cuatricromia	Generales	34x6	09	0	Publicado	Marcela Tello-ElDia	2017-9-13 00:00:00	
+138584	DIARIO EL DIA	Par	Cuatricromia	Generales	6x3	10	0	Publicado	Marcela Tello-ElDia	2017-9-13 00:00:00	
+138928	CLUB DE DEPORTES LA SERENA	Par	Cuatricromia	Generales	17x3	10	0	Publicado	Marcela Tello-ElDia	2017-9-13 00:00:00	
+138958	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Cuatricromia	Medios Regionales	32x6	11	518.048	Publicado	Medios Regionales	2017-9-13 00:00:00	
+138944	CORPORACION REGIONAL DE DESARROLLO 	Par	Blanco y negro	Generales	15x3	12	123.593	Publicado	Patricia Villena	2017-9-13 00:00:00	
+138949	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	12	0	Publicado	Marcela Tello-ElDia	2017-9-13 00:00:00	
+138772	SALINAS Y FABRES S.A.	Impar	Blanco y negro	Generales	17x3	13	100.852	Publicado	M Cristina Puga	2017-9-13 00:00:00	
+138643	SEREMI BIENES NACIONALES IV REGION	Par	Blanco y negro	Generales	17x3	13	157.416	Publicado	Jacqueline Torres	2017-9-13 00:00:00	
+137958	ESTUDIO JURIDICO OLIVARES Y CIA. SP	Par	Blanco y negro	Generales	5x2	14	2.666	Publicado	Jacqueline Torres	2017-9-13 00:00:00	
+137894	C.M. SOC. GASTRONOMICA LTDA.			UIP	5x2	14	7.208	Publicado		2017-9-13 00:00:00	
+138509	ARZOBISPADO DE LA SERENA	Par	Blanco y negro	Generales	5x2	14	0	Publicado	Marcela Tello-ElDia	2017-9-13 00:00:00	
+137523	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	5x2	14	0	Publicado	Miguel Apey	2017-9-13 00:00:00	
+137336	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	14	8.306	Publicado	Miguel Apey	2017-9-13 00:00:00	
+137638	CENTRO TECNICO ACUARELA LTDA.	Par	Blanco y negro	Generales	5x2	14	20.874	Publicado	Rene Pizarro	2017-9-13 00:00:00	
+138868	ILUSTRE MUNICIPALIDAD DE OVALLE	Par	Blanco y negro	Generales	34x6	15	507.993	Publicado	Karina Rivera	2017-9-13 00:00:00	
+137740	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	16	0	Publicado	Marcela Tello-ElDia	2017-9-13 00:00:00	
+138575	DIARIO EL DIA	Par	Cuatricromia	Generales	12x6	17	0	Publicado	Marcela Tello-ElDia	2017-9-13 00:00:00	
+138862	BANCO DE CHILE	Par	Blanco y negro	Generales	35x6	20	667.787	Publicado	Pedro Jaime	2017-9-13 00:00:00	
+138849	DIARIO EL DIA	Par	Cuatricromia	Generales	7x6	21	0	Publicado	Marcela Tello-ElDia	2017-9-13 00:00:00	
+138865	BANCO DE CHILE	Par	Blanco y negro	Generales	26x6	21	617.087	Publicado	Pedro Jaime	2017-9-13 00:00:00	
+138272	DIARIO EL DIA	Par	Cuatricromia	Generales	6x3	23	0	Publicado	Marcela Tello-ElDia	2017-9-13 00:00:00	
+137468	CAMPOS DEL NORTE S.A.	Par	Cuatricromia	Generales	17x3	23	0	Publicado	Patricia Villena	2017-9-13 00:00:00	
+137005	SOC. ESPARTANO AZUL LTDA.	Par	Cuatricromia	Generales	5x3	24	6.793	Publicado	Heinger Vega Torres	2017-9-13 00:00:00	
+137724	AGUAS DEL VALLE S.A.	Par	Cuatricromia	Generales	5x6	25	50.000	Publicado	Heinger Vega Torres	2017-9-13 00:00:00	
+138826	DIARIO EL DIA	Par	Cuatricromia	Generales	12x6	28	0	Publicado	Marcela Tello-ElDia	2017-9-13 00:00:00	
+137809	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	29	0	Publicado	Marcela Tello-ElDia	2017-9-13 00:00:00	
+136950	SOC. DE GES			UIP	5x1	29	8.937	Publicado	Miguel Apey	2017-9-13 00:00:00	
+137380	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	4x5	29	20.508	Publicado	Miguel Apey	2017-9-13 00:00:00	
+134577	CERNA E HIJOS CIA. LTDA.	Par	Blanco y negro	Generales	5x1	29	3.574	Publicado	Nadia Randolph	2017-9-13 00:00:00	
+137549	ARMAQ SUBIRI S.A.			UIP	5x1	29	8.937	Publicado	Claudio Romero	2017-9-13 00:00:00	
+133555	SOCIEDAD MEDICA  Y CONSULTORA ESTET			UIP	5x1	29	8.937	Publicado	Maria_Amelia Hermosilla	2017-9-13 00:00:00	
+138920	YESSICA ARDILES GUERRA	Par	Blanco y negro	Generales	17x3	30	111.765	Publicado	Pedro Cortes	2017-9-13 00:00:00	
+137990	SERVICIOS GENERALES GUAYACAN S.A	Par	Blanco y negro	Generales	4x2	30	6.686	Publicado	Jacqueline Torres	2017-9-13 00:00:00	
+138967	FUNDACION EDUCACIONAL SCUOLA ITALIA	Par	Blanco y negro	Generales	12x2	30	59.764	Publicado	Jacqueline Torres	2017-9-13 00:00:00	
+136573	VELIZ CORTES JOSE A.	Par	Blanco y negro	Generales	3x2	30	13.403	Publicado	Pedro Cortes	2017-9-13 00:00:00	
+138635	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Cuatricromia	Medios Regionales	32x6	32	518.048	Publicado	Medios Regionales	2017-9-13 00:00:00	
+138903	CORPBANCA	814 Palabras		Legal	x	EC	202.017	Publicado	Pedro Jaime	2017-9-13 00:00:00	
+138955	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	20x6	EC-19	260.880	Publicado	Medios Regionales	2017-9-13 00:00:00	
+137619	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Economico	5x2	EC-19	15.667	Publicado	Rene Pizarro	2017-9-13 00:00:00	
+123935	HOTELERIA LUIS ALBERTO BERETTA KIEK	Par	Blanco y negro	Generales	5x2	EC-19	6.061	Publicado	Patricia Villena	2017-9-13 00:00:00	

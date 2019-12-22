@@ -1,0 +1,33 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+70569	CARAT CHILE S.A.	Impar	Cuatricromia	Generales	17x6	05	300.000	Publicado	Kathine Soto-Stgo	2015-3-17 00:00:00	
+70611	CHRISTIAN LAUNITZ MARIN SERVICIOS M	Par	Blanco y negro	Generales	3x2	08	6.440	Publicado	Jacqueline Torres	2015-3-17 00:00:00	
+70243	INVERSIONES E INMOBILIARIA P.A.T.  	Par	Cuatricromia	Generales	9x6	09	0	Publicado	Miguel Apey	2015-3-17 00:00:00	
+69296	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	11	0	Publicado	Marcela Tello-ElDia	2015-3-17 00:00:00	
+71115	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	11	0	Publicado	Marcela Tello-ElDia	2015-3-17 00:00:00	
+71051	DIARIO EL DIA	Par	Blanco y negro	Generales	19x3	13	0	Publicado	Marcela Tello-ElDia	2015-3-17 00:00:00	
+71111	COMISION NACIONAL DE RIEGO	Par	Blanco y negro	Generales	17x3	15	0	Publicado	Jacqueline Torres	2015-3-17 00:00:00	
+70052	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	10x3	15	0	Publicado	Marcela Tello-ElDia	2015-3-17 00:00:00	
+69885	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Blanco y negro	Generales	6x6	17	0	Publicado	Claudio Romero	2015-3-17 00:00:00	
+68922	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	18	8.306	Publicado	Miguel Apey	2015-3-17 00:00:00	
+71316	DIARIO EL DIA	Par	Cuatricromia	Generales	35x6	24	0	Publicado	Marcela Tello-ElDia	2015-3-17 00:00:00	
+71065	SOC. INMOBILIARIA E INVERSIONES CHI	Par	Cuatricromia	Generales	10x2	27	0	Publicado	Claudio Romero	2015-3-17 00:00:00	
+71064	MIGUEL GUZMAN YURI	Par	Blanco y negro	Generales	8x2	27	49.804	Publicado	Leonel Pizarro-Ovalle	2015-3-17 00:00:00	
+68969	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	4x5	29	20.508	Publicado	Miguel Apey	2015-3-17 00:00:00	
+71307	SOC. BERMUDEZ INGENIERIA Y CONSTRUC	Par	Blanco y negro	Generales	5x1	30	0	Publicado	Miguel Apey	2015-3-17 00:00:00	
+71078	VARGAS COCI			UIP	5x1	30	8.937	Publicado	Rene Pizarro	2015-3-17 00:00:00	
+71089	equipos			UIP	5x1	30	8.937	Publicado	Miguel Apey	2015-3-17 00:00:00	
+71122	AREVALO CARMEN			UIP	5x1	30	8.937	Publicado	Pedro Jaime	2015-3-17 00:00:00	
+70981	DIARIO EL DIA	Par	Blanco y negro	Generales	5x1	30	0	Publicado	Marcela Tello-ElDia	2015-3-17 00:00:00	
+70008	DIARIO EL DIA	Par	Blanco y negro	Generales	5x2	30	0	Publicado	Marcela Tello-ElDia	2015-3-17 00:00:00	
+69941	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	30	0	Publicado	Marcela Tello-ElDia	2015-3-17 00:00:00	
+69973	PILLA LA VACA	Par	Blanco y negro	Generales	5x2	30	0	Publicado	Marcela Tello-ElDia	2015-3-17 00:00:00	
+69800	armaq			UIP	5x1	30	8.937	Publicado	Claudio Romero	2015-3-17 00:00:00	
+69640	sociedad res			UIP	5x2	30	17.875	Publicado	Jacqueline Torres	2015-3-17 00:00:00	
+70227	SOC. COMERCIAL ALCAPARRA LTDA.	Par	Blanco y negro	Generales	5x2	30	10.440	Publicado	Patricia Villena	2015-3-17 00:00:00	
+68880	SOC. DE GESTION MEDITERRANEA			UIP	5x1	30	8.937	Publicado	Miguel Apey	2015-3-17 00:00:00	
+70354	SERVICIOS GENERALES GUAYACAN S.A	Par	Blanco y negro	Generales	3x2	31	6.451	Publicado	Jacqueline Torres	2015-3-17 00:00:00	
+70169	SOC. COMERCIAL VARGAS Y GIACOMET	Par	Blanco y negro	Generales	5x1	EC-20	5.860	Publicado	Rene Pizarro	2015-3-17 00:00:00	
+71128	AREVALO CARMEN			UIP	5x1	EC-20	8.937	Publicado	Pedro Jaime	2015-3-17 00:00:00	
+71012	ILUSTRE MUNICIPALIDAD DE LA HIGUERA	2215 Palabras		Legal	0x0	EC-21	549.097	Publicado	Jacqueline Torres	2015-3-17 00:00:00	
+70129	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Generales	5x1	EC-21	5.860	Publicado	Rene Pizarro	2015-3-17 00:00:00	
+71366	CIA. MINERA DEL PACIFICO S.A.	141 Palabras		Legal	x	WEB	36.000	Publicado	Jacqueline Torres	2015-3-17 00:00:00	

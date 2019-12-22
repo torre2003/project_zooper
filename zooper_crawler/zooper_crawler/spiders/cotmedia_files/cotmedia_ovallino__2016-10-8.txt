@@ -1,0 +1,11 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+113831	GOBIERNO REGIONAL - REGION DE COQUI	Par	Cuatricromia	Generales	17x6	03	262.871	Publicado	Jacqueline Torres	DIFUSION FONDOS CONCURSABLES.	2016-10-8 00:00:00	
+113003	PUBLICIDAD Y MARKETING EDUARDO ALEG			UIP	17x2	04	9.211	Publicado	Claudio Romero	FERIA DE LA VIVIENDA OVALLE..	2016-10-8 00:00:00	
+113389	castillo s			UIP	10x2	05	5.630	Publicado	Karina Rivera	servicios dentales	2016-10-8 00:00:00	
+113017	AGRICOLA NORTE TALINAY LTDA	Par	Blanco y negro	Generales	5x2	05	1.666	Publicado	Paola Marquez	UIP VENTA ALFALFA	2016-10-8 00:00:00	
+113811	OVALLE CASINO RESORT S.A	Par	Cuatricromia	Generales	25x4	09	151.598	Publicado	Paola Marquez	Ovalle casino, impar lejos de enjoy	2016-10-8 00:00:00	
+113213	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	10	0	Arte	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2016-10-8 00:00:00	
+113885	SUB-SECRETARIA DE DESARROLLO REGION	Par	Blanco y negro	Generales	17x3	11	127.354	Publicado	Jacqueline Torres	FONDO DE BECAS LLAMADO 2017	2016-10-8 00:00:00	
+113870	SERVICIO ELECTORAL	Par	Blanco y negro	Insercion	35x6	12	476.029	Publicado	Jacqueline Torres	LISTADO EXCUSAS VOCALES-LIMARI	2016-10-8 00:00:00	
+113871	SERVICIO ELECTORAL	Par	Blanco y negro	Insercion	35x6	13	476.029	Publicado	Jacqueline Torres	LISTADO EXCUSAS VOCALES-LIMARI	2016-10-8 00:00:00	
+113904	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	6x6	14	0	Arte	Marcela Tello-ElDia		2016-10-8 00:00:00	

@@ -1,0 +1,8 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+117922	OVALLEMAR			UIP	5x2	05	3.958	Publicado	Karina Rivera	OVALLE MAR	2017-3-2 00:00:00	
+122103	AGRICOLA NORTE TALINAY LTDA	Par	Blanco y negro	Generales	5x2	05	1.682	Publicado	Paola Marquez	UIP VENTA ALFALFA	2017-3-2 00:00:00	
+123711	JACQUELINE JOFRE VILLANUEVA			UIP	5x2	05	2.808	Publicado	Karina Rivera	Cortinas Rollers	2017-3-2 00:00:00	
+119522	tanguemar			UIP	5x2	07	2.828	Publicado	Patricia Villena	Tanguemar	2017-3-2 00:00:00	
+123726	SOCIEDAD 			UIP	10x2	11	7.882	Publicado	Karina Rivera	PGR	2017-3-2 00:00:00	
+124215	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	5x6	11	0	Arte	Marcela Tello-ElDia		2017-3-2 00:00:00	
+124216	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	5x6	14	0	Arte	Marcela Tello-ElDia		2017-3-2 00:00:00	

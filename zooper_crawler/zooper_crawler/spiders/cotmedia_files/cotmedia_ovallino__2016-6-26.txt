@@ -1,0 +1,13 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+104474	AUTOMOTRIZ CARMONA	Par	Cuatricromia	Generales	6x6	01	23.077	Publicado	Marcela Tello-ElDia	Nissan Qashqai - Portada (Si hay disponibilidad)	2016-6-26 00:00:00	
+104944	OVALLE CASINO RESORT S.A	Par	Cuatricromia	Generales	6x6	03	21.333	Publicado	Paola Marquez	Auspicio Casino Ovalle Impar	2016-6-26 00:00:00	
+105453	CAMAL MUSALEM TAPIA Y CIA.	Par	Blanco y negro	Generales	25x4	05	122.400	Publicado	Marcela Tello-ElDia	Imperdibles Bonos Musalem - Toyota	2016-6-26 00:00:00	
+102987	SOCIEDAD MEDICA Y CONSULTORA ESTETI		Cuatricromia	Guia	5x2	06	13.333	Publicado	Maria_Amelia Hermosilla	Diego Polanco	2016-6-26 00:00:00	
+95387	SOCIEDAD BUSTOS Y PROCURIZA LTDA.	Par	Blanco y negro	Generales	10x2	06	27.542	Publicado	Maria_Amelia Hermosilla	Cento	2016-6-26 00:00:00	
+105405	EMPRESA PERIODISTICA EL NORTE S.A.	Par	Blanco y negro	Medios Regionales	10x4	07	57.800	Publicado	Medios Regionales	JDV Remates - Recuperar La Serena - (121359)	2016-6-26 00:00:00	
+105440	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	10x2	07	28.900	Publicado	Medios Regionales	Tattersal - Remate Prop. BCI - (121879)	2016-6-26 00:00:00	
+103697	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	08	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2016-6-26 00:00:00	
+104397	DABED Y CIA. LTDA., SELIM	Par	Cuatricromia	Generales	6x6	09	23.076	Publicado	Nadia Randolph	HERRAMIENTAS	2016-6-26 00:00:00	
+105457	EMPRESA PERIODISTICA EL NORTE S.A.	Par	Cuatricromia	Medios Regionales	16x3	11	0	Publicado	Medios Regionales	Parques de Chile S.A. - (112213)	2016-6-26 00:00:00	
+105480	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	6x6	14	0	Arte	Marcela Tello-ElDia		2016-6-26 00:00:00	
+105247	SANTA EMA SA	Par	Cuatricromia	Generales	35x6	16	539.820	Publicado	Miguel Apey	INMOB. SANTA EMA - PAG. IMPAR	2016-6-26 00:00:00	

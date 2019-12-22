@@ -1,0 +1,51 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+70901	LATAM AIRLINES GROUP S.A.	Impar	Cuatricromia	Generales	35x6	05	620.000	Publicado	Patricia Villena	2015-3-20 00:00:00	
+70614	CHRISTIAN LAUNITZ MARIN SERVICIOS M	Par	Blanco y negro	Generales	3x2	06	6.440	Publicado	Jacqueline Torres	2015-3-20 00:00:00	
+71514	CONSEJO REGIONAL MINERO DE COQUIMBO	Par	Blanco y negro	Generales	17x3	06	130.734	Publicado	Jacqueline Torres	2015-3-20 00:00:00	
+71504	CENCOSUD RETAIL S.A.	Impar	Cuatricromia	Generales	17x6	07	0	Publicado	M Cristina Puga	2015-3-20 00:00:00	
+71326	CENCOSUD RETAIL S.A.	Impar	Cuatricromia	Generales	17x6	07	379.999	Publicado	M Cristina Puga	2015-3-20 00:00:00	
+71433	INMOBILIARIA DELCA LIMITADA	Par	Cuatricromia	Generales	17x6	09	0	Publicado	Rene Pizarro	2015-3-20 00:00:00	
+71515	CLINICA REGIONAL DE ELQUI S.A.	Par	Blanco y negro	Generales	20x2	10	117.184	Publicado	Marcela Tello-ElDia	2015-3-20 00:00:00	
+71508	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	10x2	10	43.480	Publicado	Medios Regionales	2015-3-20 00:00:00	
+71502	CEAZA	Impar	Blanco y negro	Generales	6x2	10	52.733	Publicado	Jacqueline Torres	2015-3-20 00:00:00	
+70815	MINERA LOS PELAMBRES	Impar	Cuatricromia	Generales	34x3	11	627.521	Publicado	Marcela Tello-ElDia	2015-3-20 00:00:00	
+70055	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	10x3	13	0	Publicado	Marcela Tello-ElDia	2015-3-20 00:00:00	
+70499	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	6x3	13	39.132	Publicado	Medios Regionales	2015-3-20 00:00:00	
+70888	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	6x2	14	26.088	Publicado	Medios Regionales	2015-3-20 00:00:00	
+70230	SOC. COMERCIAL ALCAPARRA LTDA.	Par	Blanco y negro	Generales	5x2	14	10.440	Publicado	Patricia Villena	2015-3-20 00:00:00	
+71419	ILUSTRE MUNICIPALIDAD DE ANDACOLLO	Par	Blanco y negro	Generales	14x2	14	71.775	Publicado	Jacqueline Torres	2015-3-20 00:00:00	
+70847	CIA. MINERA DEL PACIFICO S.A.	Par	Blanco y negro	Generales	18x3	15	158.199	Publicado	Marcela Tello-ElDia	2015-3-20 00:00:00	
+71053	DIARIO EL DIA	Par	Cuatricromia	Generales	19x3	15	0	Publicado	Marcela Tello-ElDia	2015-3-20 00:00:00	
+71116	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	16	0	Publicado	Marcela Tello-ElDia	2015-3-20 00:00:00	
+71319	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	16	0	Publicado	Marcela Tello-ElDia	2015-3-20 00:00:00	
+68925	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	17	8.306	Publicado	Miguel Apey	2015-3-20 00:00:00	
+68942	BAKULIC RESTAURANT	Par	Cuatricromia	Generales	10x2	24	24.609	Publicado	Miguel Apey	2015-3-20 00:00:00	
+68946	HOTEL COSTA REAL	Par	Cuatricromia	Generales	10x2	24	30.761	Publicado	Miguel Apey	2015-3-20 00:00:00	
+69760	SOCIEDAD RESTAURANTE JIN HAI WAN Y 	Par	Cuatricromia	Generales	10x2	24	17.875	Publicado	Jacqueline Torres	2015-3-20 00:00:00	
+69963	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Cuatricromia	Generales	5x2	24	0	Publicado	Marcela Tello-ElDia	2015-3-20 00:00:00	
+69995	PILLA LA VACA	Par	Cuatricromia	Generales	5x2	24	0	Publicado	Marcela Tello-ElDia	2015-3-20 00:00:00	
+69999	MARTIN JURE PATRICIA	Par	Cuatricromia	Generales	5x3	24	0	Publicado	Marcela Tello-ElDia	2015-3-20 00:00:00	
+70034	SOC. HOTELERA VICHUQUEN LTDA.	Par	Cuatricromia	Generales	5x3	24	0	Publicado	Marcela Tello-ElDia	2015-3-20 00:00:00	
+70030	DIARIO EL DIA	Par	Cuatricromia	Generales	10x2	24	0	Publicado	Marcela Tello-ElDia	2015-3-20 00:00:00	
+63878	SKY AIRLINE S.A.	Impar	Cuatricromia	Generales	10x4	27	124.371	Publicado	M Cristina Puga	2015-3-20 00:00:00	
+71081	VARGAS COCI			UIP	5x1	29	8.937	Publicado	Rene Pizarro	2015-3-20 00:00:00	
+71125	AREVALO CARMEN			UIP	5x1	29	8.937	Publicado	Pedro Jaime	2015-3-20 00:00:00	
+68972	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	4x5	29	20.508	Publicado	Miguel Apey	2015-3-20 00:00:00	
+68883	SOC. DE GESTION MEDITERRANEA			UIP	5x1	29	8.937	Publicado	Miguel Apey	2015-3-20 00:00:00	
+69803	armaq			UIP	5x1	29	8.937	Publicado	Claudio Romero	2015-3-20 00:00:00	
+70984	DIARIO EL DIA	Par	Blanco y negro	Generales	5x1	29	0	Publicado	Marcela Tello-ElDia	2015-3-20 00:00:00	
+71092	equipos			UIP	5x1	29	8.937	Publicado	Miguel Apey	2015-3-20 00:00:00	
+70357	SERVICIOS GENERALES GUAYACAN S.A	Par	Blanco y negro	Generales	3x2	30	6.451	Publicado	Jacqueline Torres	2015-3-20 00:00:00	
+69011	JUAN EMILIO HENRIQUEZ GONZALEZ	Par	Cuatricromia	Contraportada	35x6	32	550.000	Publicado	Jacqueline Torres	2015-3-20 00:00:00	
+71557	SANTANDER G.R.C.	784 Palabras		Legal	x	EC	194.621	Publicado	Pedro Jaime	2015-3-20 00:00:00	
+71282	SUAREZ CARLOS 			UIP	5x1	EC-20	8.937	Publicado	Pedro Jaime	2015-3-20 00:00:00	
+71505	DIARIO EL DIA	Par	Blanco y negro	Generales	6x2	EC-20	0	Publicado	Marcela Tello-ElDia	2015-3-20 00:00:00	
+71518	DANIZA ALVITISH CALDERA	Par	Blanco y negro	Generales	5x1	EC-21	8.057	Publicado	Jacqueline Torres	2015-3-20 00:00:00	
+70132	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Generales	5x1	EC-21	5.860	Publicado	Rene Pizarro	2015-3-20 00:00:00	
+70172	SOC. COMERCIAL VARGAS Y GIACOMET	Par	Blanco y negro	Generales	5x1	EC-21	5.860	Publicado	Rene Pizarro	2015-3-20 00:00:00	
+71131	AREVALO CARMEN			UIP	5x1	EC-21	8.937	Publicado	Pedro Jaime	2015-3-20 00:00:00	
+71569	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	17x3	EE-06	0	Publicado	Claudio Romero	2015-3-20 00:00:00	
+71418	MINERA LOS PELAMBRES	Impar	Cuatricromia	Ed.Especial	35x3	EE-07	645.977	Publicado	Jacqueline Torres	2015-3-20 00:00:00	
+71550	INMOBILIARIA VIVIENDAS 2000 LIMITAD	Par	Cuatricromia	Ed.Especial	17x6	EE-10	150.000	Publicado	Jacqueline Torres	2015-3-20 00:00:00	
+70488	UNIVERSIDAD DE LA SERENA	Par	Cuatricromia	Contraportada	35x6	EE-12	1.578.578	Publicado	Jacqueline Torres	2015-3-20 00:00:00	
+71423	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	MR: Inserto	x	INS	279.557	Publicado	Medios Regionales	2015-3-20 00:00:00	

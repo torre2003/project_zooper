@@ -1,0 +1,11 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+121943	EMPRESA PERIODISTICA EL NORTE S.A.	Par	Cuatricromia	Medios Regionales	32x6	03	349.693	Publicado	Medios Regionales	Servicios Ipec S.A. - Cpech - (15806)	2017-1-29 00:00:00	
+122003	EMPRESA PERIODISTICA EL NORTE S.A.	Par	Blanco y negro	Medios Regionales	6x1	05	8.670	Publicado	Medios Regionales		2017-1-29 00:00:00	
+103063	SOCIEDAD MEDICA Y CONSULTORA ESTETI		Cuatricromia	Guia	5x2	06	13.333	Publicado	Maria_Amelia Hermosilla	Diego Polanco	2017-1-29 00:00:00	
+121761	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	5x2	07	0	Publicado	Karina Rivera		2017-1-29 00:00:00	
+122009	CAMAL MUSALEM TAPIA Y CIA.	Par	Blanco y negro	Generales	16x4	07	78.336	Publicado	Marcela Tello-ElDia	Toyota	2017-1-29 00:00:00	
+120725	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	08	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2017-1-29 00:00:00	
+120188	OVALLE CASINO RESORT S.A	Par	Cuatricromia	Generales	25x4	09	171.372	Publicado	Paola Marquez	OCR Eventos verano	2017-1-29 00:00:00	
+121653	CORPORACION CULTURAL CAMARA CHILENA	Par	Cuatricromia	Generales	17x3	11	92.637	Publicado	Jacqueline Torres	FESTIVAL ARC/ILLAPEL/CULTURA Y ESPECTACULO	2017-1-29 00:00:00	
+122010	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	5x6	14	0	Arte	Marcela Tello-ElDia		2017-1-29 00:00:00	
+121984	INMOBILIARIA RENVAL SPA	Par	Cuatricromia	Generales	34x6	16	550.000	Publicado	Rene Pizarro		2017-1-29 00:00:00	

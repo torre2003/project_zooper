@@ -1,0 +1,10 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+93359	CALLEGARI LTDA.	Par	Cuatricromia	Generales	8x6	01	30.000	Publicado	Marcela Tello-ElDia	Repuestos Ford - Portada	2016-1-16 00:00:00	
+93129	SOCIEDAD DE RENTAS FALABELLA S.A	Impar	Cuatricromia	Generales	17x6	03	200.000	Publicado	M Cristina Puga	Open 	2016-1-16 00:00:00	
+93038	dominga			UIP	10x2	07	3.378	Publicado	Leonel Pizarro-Ovalle	laboratorio clinico	2016-1-16 00:00:00	
+93727	CORPORACION CULTURAL BALMACEDA DOCE	Par	Cuatricromia	Generales	17x3	09	170.177	Publicado	Jacqueline Torres	FESTIVAL ARC/PEDRO AZNGAR/UBICAR CULTURA Y ESPECTACULO	2016-1-16 00:00:00	
+93749	ILUSTRE MUNICIPALIDAD DE OVALLE	Par	Blanco y negro	Generales	10x2	09	54.142	Publicado	Marcela Tello-ElDia	Municipalidad de Ovalle - Comunica	2016-1-16 00:00:00	
+92439	AGRICOLA NORTE TALINAY LTDA	Par	Blanco y negro	Generales	5x2	10	1.428	Publicado	Italo Retamal	venta fardos	2016-1-16 00:00:00	
+92578	AGRICOLA NORTE TALINAY LTDA	Par	Blanco y negro	Generales	5x2	10	1.428	Publicado	Italo Retamal	Oferta de empleos	2016-1-16 00:00:00	
+93178	INVERSIONES AVANZADA LTDA	Par	Blanco y negro	Generales	5x2	10	5.833	Publicado	Jacqueline Torres	campo lindo valle	2016-1-16 00:00:00	
+93800	PRENSA DEL LIMARI LTDA.	Par	Blanco y negro	Generales	17x6	14	0	Arte	Marcela Tello-ElDia	www.elovallino.cl	2016-1-16 00:00:00	

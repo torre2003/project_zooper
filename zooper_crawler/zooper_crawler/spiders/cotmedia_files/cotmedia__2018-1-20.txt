@@ -1,0 +1,52 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+150385	JOSE MIGUEL PE?AFIEL COOPER	Par	Blanco y negro	Generales	5x2		25.268	Arte	Pedro Jaime	2018-1-20 00:00:00	
+148652	ENTEL PCS	Impar	Cuatricromia	Generales	35x6	03	742.874	Publicado	Kathine Soto-Stgo	2018-1-20 00:00:00	
+147293	C.M. SOC. GASTRONOMICA LTDA.			UIP	5x2	04	7.208	Publicado		2018-1-20 00:00:00	
+147148	PILLA LA VACA	Par	Blanco y negro	Generales	5x2	04	0	Publicado	Marcela Tello-ElDia	2018-1-20 00:00:00	
+147055	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	5x2	04	0	Publicado	Miguel Apey	2018-1-20 00:00:00	
+148748	TRANSBANK S.A.	Impar	Cuatricromia	Generales	17x6	05	360.825	Publicado	Kathine Soto-Stgo	2018-1-20 00:00:00	
+145333	UNIVERSIDAD CENTRAL DE CHILE	Impar	Blanco y negro	Contraportada	35x6	07	1.485.746	Publicado	Jacqueline Torres	2018-1-20 00:00:00	
+148694	INMOBILIARIA ELQUI S.A.	Par	Cuatricromia	Generales	9x6	08	0	Publicado	M Cristina Puga	2018-1-20 00:00:00	
+148527	ARENA CHILE S.A.	Impar	Cuatricromia	Generales	17x6	09	360.825	Publicado	Kathine Soto-Stgo	2018-1-20 00:00:00	
+146831	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	6x6	12	51.666	Publicado	Claudio Romero	2018-1-20 00:00:00	
+148121	EMPRESA EL MERCURIO DE VALPARAISO S	Impar	Cuatricromia	Generales	32x6	13	554.336	Publicado	Marcela Tello-ElDia	2018-1-20 00:00:00	
+148695	INMOBILIARIA ELQUI S.A.	Par	Cuatricromia	Generales	9x6	14	0	Publicado	M Cristina Puga	2018-1-20 00:00:00	
+148657	INMOBILIARIA GRUPO CHILOE LTDA.	Impar	Cuatricromia	Generales	17x6	15	0	Publicado	Jacqueline Torres	2018-1-20 00:00:00	
+146736	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	17	8.306	Publicado	Miguel Apey	2018-1-20 00:00:00	
+147404	INMOBIL. LA SERENA GOLF S.A.	Par	Cuatricromia	Generales	17x6	17	288.660	Publicado	Patricia Villena	2018-1-20 00:00:00	
+148706	DIARIO EL DIA	Par	Cuatricromia	Generales	6x3	18	0	Publicado	Marcela Tello-ElDia	2018-1-20 00:00:00	
+148726	DIARIO EL DIA	Par	Blanco y negro	Generales	10x3	18	0	Publicado	Pedro Jaime	2018-1-20 00:00:00	
+148132	INVERSIONES NEORENTAS LA SERENA SPA	Impar	Cuatricromia	Generales	17x6	19	451.031	Publicado	Paola Marquez	2018-1-20 00:00:00	
+147356	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Cuatricromia	Medios Regionales	10x6	21	242.420	Publicado	Medios Regionales	2018-1-20 00:00:00	
+148662	ILUSTRE MUNICIPALIDAD DE MONTE PATR	Par	Blanco y negro	Generales	15x3	22	128.866	Publicado	Jacqueline Torres	2018-1-20 00:00:00	
+148713	CARNEGIE INSTITUTION OF WASHINGTON	Par	Blanco y negro	Generales	10x3	22	126.339	Publicado	Pedro Jaime	2018-1-20 00:00:00	
+148297	DIARIO EL DIA	Par	Cuatricromia	Generales	34x6	23	0	Publicado	Marcela Tello-ElDia	2018-1-20 00:00:00	
+148910	CLUB DE DEPORTES LA SERENA	Par	Cuatricromia	Generales	17x3	29	0	Publicado	Marcela Tello-ElDia	2018-1-20 00:00:00	
+148803	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	29	0	Publicado	Marcela Tello-ElDia	2018-1-20 00:00:00	
+147900	SOC. DE GES			UIP	5x1	30	8.937	Publicado	Miguel Apey	2018-1-20 00:00:00	
+146777	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	4x5	30	20.508	Publicado	Miguel Apey	2018-1-20 00:00:00	
+146880	ARMAQ SUBIRI S.A.			UIP	5x1	30	8.937	Publicado	Claudio Romero	2018-1-20 00:00:00	
+148572	CERNA E HIJOS CIA. LTDA.	Par	Blanco y negro	Generales	5x1	30	3.574	Publicado	Nadia Randolph	2018-1-20 00:00:00	
+147182	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	30	0	Publicado	Marcela Tello-ElDia	2018-1-20 00:00:00	
+148909	UNIVERSIDAD PEDRO DE VALDIVIA	Par	Blanco y negro	Generales	17x6	31	222.559	Publicado	M Cristina Puga	2018-1-20 00:00:00	
+146981	CAMPOS DEL NORTE S.A.	Par	Cuatricromia	Generales	17x3	33	0	Publicado	Patricia Villena	2018-1-20 00:00:00	
+147316	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	33	0	Publicado	Marcela Tello-ElDia	2018-1-20 00:00:00	
+147324	DIARIO EL DIA	Par	Cuatricromia	Generales	34x6	34	0	Publicado	Marcela Tello-ElDia	2018-1-20 00:00:00	
+147985	FUENTES GASCAR LTDA	Par	Cuatricromia	Generales	20x3	35	120.275	Publicado	M Cristina Puga	2018-1-20 00:00:00	
+148946	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	35	0	Publicado	Marcela Tello-ElDia	2018-1-20 00:00:00	
+148276	DIARIO EL DIA	Par	Blanco y negro	Generales	10x3	36	0	Publicado	Pedro Jaime	2018-1-20 00:00:00	
+147837	VELIZ CORTES JOSE A.	Par	Blanco y negro	Generales	3x2	36	13.403	Publicado	Pedro Cortes	2018-1-20 00:00:00	
+148918	JUAN SEBASTIAN BOU LAGUNAS	Par	Blanco y negro	Generales	5x2	39	13.750	Publicado	Heinger Vega Torres	2018-1-20 00:00:00	
+148260	ANDREA YAZIGI SFEIR	Par	Blanco y negro	Generales	5x2	39	8.403	Publicado	Heinger Vega Torres	2018-1-20 00:00:00	
+148252	ESTUDIO JURIDICO OLIVARES Y CIA. SP	Par	Blanco y negro	Generales	5x2	39	12.500	Publicado	Jacqueline Torres	2018-1-20 00:00:00	
+148566	FALABELLA RETAIL S.A.	Impar	Cuatricromia	Contraportada	35x6	40	600.000	Publicado	M Cristina Puga	2018-1-20 00:00:00	
+148771	SOC. EDUC. AMBROSIO O?HIGGINS	Par	Blanco y negro	Generales	10x2	EC-24	83.614	Publicado	Pedro Jaime	2018-1-20 00:00:00	
+148676	INGENIERIA E INVERSIONES RDOS LTDA	Par	Blanco y negro	Generales	5x2	EC-24	42.113	Publicado	Pedro Jaime	2018-1-20 00:00:00	
+148924	FUNDACION MARIA EDUCA	Par	Blanco y negro	Economico	10x2	EC-24	58.959	Publicado	Jacqueline Torres	2018-1-20 00:00:00	
+148754	DIRECCION GENERAL DEL CREDITO PREND	Par	Blanco y negro	Generales	18x2	EC-25	103.093	Publicado	Jacqueline Torres	2018-1-20 00:00:00	
+148749	CIA. DE LEASING TATTERSALL S.A.	Par	Blanco y negro	Generales	11x2	EC-25	69.487	Publicado	Pedro Jaime	2018-1-20 00:00:00	
+146900	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Economico	5x2	EC-26	15.161	Publicado	Rene Pizarro	2018-1-20 00:00:00	
+124080	HOTELERIA LUIS ALBERTO BERETTA KIEK	Par	Blanco y negro	Generales	5x2	EC-26	6.061	Publicado	Patricia Villena	2018-1-20 00:00:00	
+148814	PLAS- NORT LIMITADA	Par	Blanco y negro	Generales	8x2	EC-26	70.493	Publicado	Pedro Jaime	2018-1-20 00:00:00	
+147219	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	EC-26	0	Publicado	Marcela Tello-ElDia	2018-1-20 00:00:00	
+148945	DIARIO EL DIA	Par	Cuatricromia	Generales	17x6	EC-27	0	Publicado	Marcela Tello-ElDia	2018-1-20 00:00:00	

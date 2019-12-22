@@ -1,0 +1,5 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+81452	tanguemar			UIP	5x2	05	2.808	Publicado	Patricia Villena	Tanguemar	2015-12-29 00:00:00	
+91438	INMOBILIARIA OASIS DEL LIMAR? LTDA	Par	Blanco y negro	Generales	5x2	05	1.428	Publicado	Italo Retamal	arriendo local oasis	2015-12-29 00:00:00	
+92103	DABED Y CIA. LTDA., SELIM	Impar	Cuatricromia	Generales	6x6	09	23.077	Publicado	Italo Retamal	temporada verano n 	2015-12-29 00:00:00	
+92262	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x6	14	0	Publicado	Marcela Tello-ElDia	www.elovallino.cl	2015-12-29 00:00:00	

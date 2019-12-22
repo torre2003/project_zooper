@@ -1,0 +1,11 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+109482	OVALLE CASINO RESORT S.A	Par	Cuatricromia	Generales	6x6	01	21.333	Publicado	Paola Marquez	Auspicio Casino Ovalle Impar	2016-9-5 00:00:00	
+111177	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x6	03	0	Arte	Marcela Tello-ElDia		2016-9-5 00:00:00	
+110204	EMPRESA PERIODISTICA EL NORTE S.A.	Par	Blanco y negro	Medios Regionales	6x2	05	17.340	Arte	Medios Regionales	Tattersall Gestion - Remate Ovalle - (163187)	2016-9-5 00:00:00	
+109714	AGRICOLA NORTE TALINAY LTDA	Par	Blanco y negro	Generales	5x2	05	1.666	Publicado	Paola Marquez	UIP VENTA ALFALFA	2016-9-5 00:00:00	
+110504	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	06	0	Arte	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2016-9-5 00:00:00	
+110812	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	6x6	08	16.065	Publicado	Claudio Romero	Muebles Alpina	2016-9-5 00:00:00	
+110913	SOC. AGRICOLA Y AVICOLA SANTA CARME	Par	Cuatricromia	Generales	35x6	11	400.000	Publicado	Claudio Romero	INAUGURACION DE ALMAZARA DE SANTA CARMEN..SOCIALES.	2016-9-5 00:00:00	
+110718	SANTO TOMAS EDUCACION CONTINUA LTDA	Par	Cuatricromia	Generales	17x6	13	300.000	Publicado	Claudio Romero	1era COPA FUTBOL TENIS	2016-9-5 00:00:00	
+111176	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	6x6	14	0	Arte	Marcela Tello-ElDia		2016-9-5 00:00:00	
+110789	EMPRESA PERIODISTICA EL NORTE S.A.	Par	Cuatricromia	Medios Regionales	32x6	16	349.693	Arte	Medios Regionales	Impar - Sodimac - Apoyo tiendas locales norte - (166679)	2016-9-5 00:00:00	

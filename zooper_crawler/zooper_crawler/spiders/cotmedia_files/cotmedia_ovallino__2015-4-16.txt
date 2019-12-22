@@ -1,0 +1,5 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+72362	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	10x3	09	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2015-4-16 00:00:00	
+73433	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x3	09	0	Publicado	Marcela Tello-ElDia	Vea en Cinemark: Una noche para sobrevivir	2015-4-16 00:00:00	
+73610	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x6	11	0	Publicado	Marcela Tello-ElDia		2015-4-16 00:00:00	
+73542	LAMA PANZA DOMINGO	Par	Blanco y negro	Generales	8x3	13	56.496	Publicado	Rene Pizarro	Gran Remate en Ovalle....	2015-4-16 00:00:00	

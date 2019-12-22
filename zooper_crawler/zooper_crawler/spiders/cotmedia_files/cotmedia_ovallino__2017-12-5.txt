@@ -1,0 +1,12 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+143406	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	01	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2017-12-5 00:00:00	
+145363	OMD CHILE S.P.A.	Impar	Cuatricromia	Generales	17x6	03	0	Publicado	Patricia Villena		2017-12-5 00:00:00	
+136078	INVERSIONES TANGUEMAR LIMITADA			UIP	5x2	05	2.808	Publicado	Patricia Villena	Tanguemar	2017-12-5 00:00:00	
+138368	CENTRO DE SALUD PORTALES LTDA			UIP	5x4	05	4.504	Publicado	Karina Rivera		2017-12-5 00:00:00	
+144394	AGRICOLA NORTE TALINAY LTDA	Par	Blanco y negro	Generales	5x2	07	1.666	Publicado	Paola Marquez	UIP VENTA ALFALFA	2017-12-5 00:00:00	
+145168	GOTTREUX SALAS RUBEN	Par	Blanco y negro	Generales	8x2	07	37.664	Publicado	Karina Rivera	REMATE JUDICIAL VEHICULO	2017-12-5 00:00:00	
+145067	UNIVERSIDAD BOLIVARIANA			UIP	10x2	08	7.882	Publicado	Karina Rivera	BENEFICIOS DEL VALLE Y BOLIVARIANA	2017-12-5 00:00:00	
+144582	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Cuatricromia	Medios Regionales	16x6	09	210.973	Publicado	Medios Regionales	Proximity Chile S.A.- Sercotec - (201593)	2017-12-5 00:00:00	
+143977	VELIZ CORTES JOSE A.			UIP	5x2	14	4.695	Publicado	Pedro Cortes		2017-12-5 00:00:00	
+145338	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	12x6	14	0	Arte	Marcela Tello-ElDia		2017-12-5 00:00:00	
+145303	SANTANDER G.R.C.	437 Palabras		Legal	x	EC	108.403	Publicado	Pedro Jaime		2017-12-5 00:00:00	

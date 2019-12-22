@@ -1,0 +1,7 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+156560	CALLEGARI LTDA.	Par	Cuatricromia	Generales	34x6	03	349.656	Publicado	Marcela Tello-ElDia		2018-5-24 00:00:00	
+156407	EMPRESA PERIODISTICA EL NORTE S.A.	Par	Blanco y negro	Medios Regionales	8x2	05	24.272	Arte	Medios Regionales	BBVA - Rol C-8765-2016 - (77116)	2018-5-24 00:00:00	
+154984	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	06	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2018-5-24 00:00:00	
+156523	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x6	08	0	Arte	Marcela Tello-ElDia		2018-5-24 00:00:00	
+156562	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	8x6	14	0	Arte	Marcela Tello-ElDia		2018-5-24 00:00:00	
+156538	KAREN ALEJANDRA RAMIREZ BRICENO			UIP	5x4	16	10.000	Publicado	Karina Rivera	EMPORIO JACARANDA ( ESPACIO OVALLE SALUDABLE)	2018-5-24 00:00:00	

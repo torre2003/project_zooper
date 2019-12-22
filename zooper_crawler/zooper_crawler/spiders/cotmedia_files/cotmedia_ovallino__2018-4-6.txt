@@ -1,0 +1,16 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+153529	SOCIEDAD DE RENTAS FALABELLA S.A	Impar	Cuatricromia	Generales	35x6	03	400.000	Publicado	M Cristina Puga	Open plaza/ venta pasillo	2018-4-6 00:00:00	
+153650	SOC. LIMARI COMERCIALIZADORA DEL AG	Par	Blanco y negro	Generales	15x2	05	70.620	Publicado	Rene Pizarro		2018-4-6 00:00:00	
+152622	AGRICOLA NORTE TALINAY LTDA	Par	Blanco y negro	Generales	5x2	05	1.666	Publicado	Paola Marquez	UIP VENTA ALFALFA	2018-4-6 00:00:00	
+153576	ILUSTRE MUNICIPALIDAD DE RIO HURTAD	Par	Blanco y negro	Generales	12x2	05	38.418	Publicado	Jacqueline Torres	REAVALUO	2018-4-6 00:00:00	
+153520	INMOBILIARIA NUEVA SERENA	Par	Cuatricromia	Generales	17x3	06	68.906	Publicado	Claudio Romero	proyecto empresas serena OVALLE .- ENVIARA AGENCIA	2018-4-6 00:00:00	
+153138	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	8x4	08	16.065	Publicado	Claudio Romero	Muebles alpina..	2018-4-6 00:00:00	
+151944	SOCIEDAD DE RENTAS FALABELLA S.A	Par	Cuatricromia	Generales	8x6	09	50.980	Publicado	M Cristina Puga	HUINCHA Open Plaza - primera impar	2018-4-6 00:00:00	
+153243	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	10	0	Arte	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2018-4-6 00:00:00	
+152924	OVALLE CASINO RESORT S.A	Par	Cuatricromia	Generales	25x4	11	131.824	Publicado	Paola Marquez	Eventos abril OCR	2018-4-6 00:00:00	
+153687	INMOBILIARIA AYLLU S.A	Par	Blanco y negro	Generales	10x2	13	47.080	Publicado	Claudio Romero	AYLLU/CITACION	2018-4-6 00:00:00	
+153674	EMPRESA PERIODISTICA EL NORTE S.A.	Par	Blanco y negro	Medios Regionales	4x2	13	12.136	Arte	Medios Regionales	Enami - Serv. Movimiento Interno - (52290)	2018-4-6 00:00:00	
+153695	INMOBILIARIA E INVERSIONES EL CHA?A	Par	Blanco y negro	Generales	10x2	13	47.080	Publicado	Claudio Romero		2018-4-6 00:00:00	
+153551	DABED Y CIA. LTDA., SELIM	Par	Cuatricromia	Generales	6x6	14	23.076	Publicado	Karina Rivera	G2	2018-4-6 00:00:00	
+153677	EMPRESAS LA POLAR S.A.	Impar	Cuatricromia	Generales	35x6	16	252.000	Publicado	Patricia Villena	contraportada La Polar	2018-4-6 00:00:00	
+153642	EMPRESAS LA POLAR S.A.			Inserto	x	INS	180.000	Publicado	Patricia Villena	Feria del Hogar	2018-4-6 00:00:00	

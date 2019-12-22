@@ -1,0 +1,10 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+151513	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	6x3	03	0	Publicado	Marcela Tello-ElDia	Convenio Dabed, solicitado por MKT	2018-3-10 00:00:00	
+151567	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x3	03	0	Publicado	Marcela Tello-ElDia		2018-3-10 00:00:00	
+151754	JUAN PABLO CORRAL	Par	Blanco y negro	Generales	5x2	05	27.071	Publicado	Karina Rivera	abogado	2018-3-10 00:00:00	
+151697	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	12x6	08	0	Publicado	Marcela Tello-ElDia	Avant Premiere - Club de Lectores	2018-3-10 00:00:00	
+151341	DABED Y CIA. LTDA., SELIM	Par	Cuatricromia	Generales	6x6	09	23.076	Publicado	Karina Rivera	1 ra EDO	2018-3-10 00:00:00	
+151472	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	11	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2018-3-10 00:00:00	
+151770	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x6	12	0	Publicado	Marcela Tello-ElDia	En la comodidad de su hogar...	2018-3-10 00:00:00	
+150544	VELIZ CORTES JOSE A.			UIP	5x2	15	4.695	Publicado	Pedro Cortes		2018-3-10 00:00:00	
+151769	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	6x6	15	0	Publicado	Marcela Tello-ElDia		2018-3-10 00:00:00	

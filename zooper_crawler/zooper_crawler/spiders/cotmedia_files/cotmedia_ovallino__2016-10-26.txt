@@ -1,0 +1,14 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+113679	SOCIEDAD DE RENTAS FALABELLA S.A	Par	Cuatricromia	Generales	8x6	01	50.980	Publicado	M Cristina Puga	Huincha open 	2016-10-26 00:00:00	
+114223	Pedro Andres Monardez Elguet			UIP	17x2	03	13.970	Publicado	Karina Rivera	Restaurant Riquisimo	2016-10-26 00:00:00	
+114592	PABLO CORRAL			UIP	5x2	05	2.808	Publicado	Karina Rivera		2016-10-26 00:00:00	
+113405	castillo si			UIP	10x2	05	5.630	Publicado	Karina Rivera	servicios dentales	2016-10-26 00:00:00	
+113032	AGRICOLA NORTE TALINAY LTDA	Par	Blanco y negro	Generales	5x2	05	1.666	Publicado	Paola Marquez	UIP VENTA ALFALFA	2016-10-26 00:00:00	
+114829	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x3	06	0	Arte	Marcela Tello-ElDia	VEA EN CINEMARK EL CONTADOR	2016-10-26 00:00:00	
+114734	EMPRESA PERIODISTICA EL NORTE S.A.	Par	Blanco y negro	Medios Regionales	6x3	06	26.010	Publicado	Medios Regionales		2016-10-26 00:00:00	
+113633	sandra paola 			UIP	17x2	07	9.211	Publicado	Karina Rivera	Reserva Temporada Piscina El Eden de la Chimba	2016-10-26 00:00:00	
+114447	OVALLE CASINO RESORT S.A	Par	Cuatricromia	Generales	25x4	08	0	Publicado	Paola Marquez	OCR Enfrentada a su otra media	2016-10-26 00:00:00	
+114158	OVALLE CASINO RESORT S.A	Par	Cuatricromia	Generales	25x4	09	0	Publicado	Paola Marquez	OCR Impar si se puede	2016-10-26 00:00:00	
+112769	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	6x6	11	0	Publicado	Claudio Romero	Muebles Alpina	2016-10-26 00:00:00	
+113203	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	13	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2016-10-26 00:00:00	
+114866	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	6x6	14	0	Arte	Marcela Tello-ElDia		2016-10-26 00:00:00	

@@ -1,0 +1,13 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+71231	CALLEGARI LTDA.	Par	Cuatricromia	Generales	6x6	01	100.000	Publicado	Marcela Tello-ElDia	Kia	2015-3-15 00:00:00	
+71235	HERMANAS CALLEGARI LTDA.	Par	Cuatricromia	Generales	17x6	03	174.777	Publicado	Marcela Tello-ElDia	Ssang Yong	2015-3-15 00:00:00	
+70082	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	10x3	04	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2015-3-15 00:00:00	
+71234	CALLEGARI LTDA.	Par	Cuatricromia	Generales	17x6	05	174.777	Publicado	Marcela Tello-ElDia	Ford	2015-3-15 00:00:00	
+71233	HERMANAS CALLEGARI LTDA.	Par	Cuatricromia	Generales	6x6	06	61.686	Publicado	Marcela Tello-ElDia	MG	2015-3-15 00:00:00	
+71224	CAMAL MUSALEM TAPIA Y CIA.	Par	Blanco y negro	Generales	18x4	07	88.128	Publicado	Marcela Tello-ElDia	Toyota RAV4	2015-3-15 00:00:00	
+70999	DABED Y CIA. LTDA., SELIM	Impar	Cuatricromia	Generales	6x6	08	23.077	Publicado	Italo Retamal	DABED	2015-3-15 00:00:00	
+70704	AGUAS DEL VALLE S.A.	Impar	Cuatricromia	Generales	17x6	09	220.000	Publicado	Italo Retamal	cuidar el agua	2015-3-15 00:00:00	
+71237	LA ELEGANTE	Par	Blanco y negro	Generales	17x3	10	0	Publicado	Patricia Villena		2015-3-15 00:00:00	
+71232	CALLEGARI LTDA.	Par	Cuatricromia	Generales	17x6	11	174.777	Publicado	Marcela Tello-ElDia	Mitsubishi - Repite 08/2	2015-3-15 00:00:00	
+71031	ACADEMIA DE GIMNASIO FITNET LIMITAD	Par	Cuatricromia	Generales	17x6	12	0	Publicado	Miguel Apey	GIMNASIO SPORTLIFE	2015-3-15 00:00:00	
+71223	CAMAL MUSALEM TAPIA Y CIA.	Par	Blanco y negro	Generales	22x3	13	80.784	Publicado	Marcela Tello-ElDia		2015-3-15 00:00:00	

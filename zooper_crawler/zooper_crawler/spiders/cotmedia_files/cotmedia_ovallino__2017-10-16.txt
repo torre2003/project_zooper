@@ -1,0 +1,18 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+138293	CENTRO DE SALUD PORTALES LTDA	Par	Cuatricromia	Generales	6x6	01	25.000	Publicado	Karina Rivera	SALUD, BIENESTAR Y CALIDAD DE VIDA A TU ALCANCE	2017-10-16 00:00:00	
+141065	HANNA JARUFE HAUNE	Par	Cuatricromia	Generales	17x3	03	117.653	Publicado	Claudio Romero		2017-10-16 00:00:00	
+137232	TEODORO AGUIRRE ALVAREZ			UIP	5x2	05	2.808	Publicado	Karina Rivera	REGIONALISTA VERDE SOCIAL	2017-10-16 00:00:00	
+140594	ESTUDIO JURIDICO OLIVARES Y CIA. SP	Par	Blanco y negro	Generales	5x2	05	2.000	Publicado	Jacqueline Torres	ESTUDIO JURIDICO OLIVARES	2017-10-16 00:00:00	
+140518	JACQUELINE JOFRE VILLANUEVA			UIP	5x2	05	2.808	Publicado	Karina Rivera	CORTINAS ROLLER OVALLE	2017-10-16 00:00:00	
+141263	SOC. SOSTENEDORA EDUCACIONAL SANTA 	Par	Blanco y negro	Generales	35x6	06	226.558	Publicado	Karina Rivera	DISCURSO ANIVERSARIO COLEGIO SANTA TERESA	2017-10-16 00:00:00	
+140189	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	08	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2017-10-16 00:00:00	
+139880	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	6x6	09	16.065	Publicado	Claudio Romero	Muebles Alpina	2017-10-16 00:00:00	
+140682	HOSTAL VILLA LO ARAYA	Par	Blanco y negro	Generales	7x2	13	32.956	Publicado	Karina Rivera		2017-10-16 00:00:00	
+140959	MOP OOPP	189 Palabras		Legal	x	14	46.872	Publicado	Karina Rivera		2017-10-16 00:00:00	
+140958	MOP OOPP	197 Palabras		Legal	x	14	48.856	Publicado	Karina Rivera		2017-10-16 00:00:00	
+140952	MOP OOPP	224 Palabras		Legal	x	14	55.552	Publicado	Karina Rivera		2017-10-16 00:00:00	
+140949	MOP OOPP	258 Palabras		Legal	x	14	63.984	Publicado	Karina Rivera		2017-10-16 00:00:00	
+140948	MOP OOPP	210 Palabras		Legal	x	14	52.080	Publicado	Karina Rivera		2017-10-16 00:00:00	
+140947	MOP OOPP	258 Palabras		Legal	x	14	63.984	Publicado	Karina Rivera		2017-10-16 00:00:00	
+140921	VELIZ CORTES JOSE A.			UIP	5x2	14	3.919	Publicado	Pedro Cortes		2017-10-16 00:00:00	
+141281	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	34x6	19	0	Arte	Marcela Tello-ElDia		2017-10-16 00:00:00	

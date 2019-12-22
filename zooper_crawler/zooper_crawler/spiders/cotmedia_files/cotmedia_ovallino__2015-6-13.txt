@@ -1,0 +1,13 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+77604	AET CHILE SPA	Par	Cuatricromia	Generales	6x6	01	0	Publicado	Marcela Tello-ElDia	Muestra Bodies 	2015-6-13 00:00:00	
+77878	ILUSTRE MUNICIPALIDAD DE OVALLE	Impar	Blanco y negro	Generales	20x3	05	136.438	Publicado	Italo Retamal		2015-6-13 00:00:00	
+76287	brillador			UIP	17x2	07	9.211	Publicado	Italo Retamal	alto brillador 	2015-6-13 00:00:00	
+77107	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	10x3	07	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2015-6-13 00:00:00	
+77741	DABED Y CIA. LTDA., SELIM	Impar	Cuatricromia	Generales	6x6	09	23.077	Publicado	Italo Retamal	Superlight	2015-6-13 00:00:00	
+77971	PRENSA DEL LIMARI LTDA.	Par	Blanco y negro	Generales	17x6	11	0	Publicado	Marcela Tello-ElDia		2015-6-13 00:00:00	
+77650	SOCIEDAD DE SERVICIOS MEDICOS DO?A 	Par	Blanco y negro	Generales	8x2	13	43.314	Publicado	Leonel Pizarro-Ovalle	centro medico	2015-6-13 00:00:00	
+77876	PRENSA DEL LIMARI LTDA.	Par	Blanco y negro	Generales	6x2	13	0	Publicado	Marcela Tello-ElDia	Hoy Circulan - Economicos	2015-6-13 00:00:00	
+76646	sociedad m			UIP	5x2	13	2.808	Publicado	Italo Retamal	talhuen	2015-6-13 00:00:00	
+76689	LARA Y CIA. AGUILAS TOCANDO EL CIEL			UIP	10x6	14	16.260	Publicado	Italo Retamal	tcm lara y cia	2015-6-13 00:00:00	
+77959	CORP. JUAN SUBERCASEAUX	Par	Blanco y negro	Generales	12x2	15	64.971	Publicado	Leonel Pizarro-Ovalle	citacion	2015-6-13 00:00:00	
+77777	EMPRESAS LA POLAR S.A.			Inserto	x	INS	180.000	Publicado	Patricia Villena		2015-6-13 00:00:00	

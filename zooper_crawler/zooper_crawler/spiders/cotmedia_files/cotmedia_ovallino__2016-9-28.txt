@@ -1,0 +1,13 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+112415	SANTO TOMAS S.A.	Par	Cuatricromia	Generales	17x3		141.184	Arte	Claudio Romero	saludo 411 monte patria....(OVALLINO)	2016-9-28 00:00:00	
+112520	DABED Y CIA. LTDA., SELIM	Par	Cuatricromia	Generales	6x6	01	23.076	Publicado	Marcela Tello-ElDia	Dabed Motos - Vive la Primavera	2016-9-28 00:00:00	
+112517	ABRIL PUBLICIDAD INVERSIONES Y ASES	Impar	Cuatricromia	Generales	17x6	03	216.330	Publicado	Patricia Villena		2016-9-28 00:00:00	
+112404	OVALLE CASINO RESORT S.A	Par	Cuatricromia	Generales	25x4	04	0	Publicado	Paola Marquez		2016-9-28 00:00:00	
+112402	OVALLE CASINO RESORT S.A	Par	Cuatricromia	Generales	35x6	05	0	Publicado	Paola Marquez		2016-9-28 00:00:00	
+112539	ILUSTRE MUNICIPALIDAD DE OVALLE	Par	Cuatricromia	Generales	17x6	06	166.666	Publicado	Marcela Tello-ElDia	Homenaje a Vicente Bianchi	2016-9-28 00:00:00	
+110515	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	07	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2016-9-28 00:00:00	
+112412	HANNA JARUFE HAUNE	Par	Cuatricromia	Generales	10x3	09	35.000	Publicado	Claudio Romero	saludo 411 monte patria....(OVALLINO)	2016-9-28 00:00:00	
+112535	MIGUEL GUZMAN YURI	Par	Blanco y negro	Generales	10x2	11	37.664	Publicado	Leonel Pizarro-Ovalle	remates en ovalle	2016-9-28 00:00:00	
+112662	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	6x6	12	0	Arte	Marcela Tello-ElDia		2016-9-28 00:00:00	
+110822	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	6x6	14	16.065	Publicado	Claudio Romero	Muebles Alpina	2016-9-28 00:00:00	
+112513	LEYLA RAMIREZ	321 Palabras		Legal	x	14	81.807	Publicado	Pedro Cortes		2016-9-28 00:00:00	

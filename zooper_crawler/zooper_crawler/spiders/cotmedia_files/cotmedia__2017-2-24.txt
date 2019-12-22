@@ -1,0 +1,38 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+122449	CHRISTIAN LAUNITZ MARIN SERVICIOS M	Par	Blanco y negro	Generales	4x2	04	6.464	Publicado	Jacqueline Torres	2017-2-24 00:00:00	
+123420	EMPRESAS LA POLAR S.A.	Impar	Cuatricromia	Generales	34x6	05	504.000	Publicado	Patricia Villena	2017-2-24 00:00:00	
+122043	OVALLE CASINO RESORT S.A	Par	Cuatricromia	Generales	25x4	07	205.072	Publicado	Paola Marquez	2017-2-24 00:00:00	
+123423	ILUSTRE MUNICIPALIDAD DE COQUIMBO	Par	Blanco y negro	Generales	10x6	10	153.804	Publicado	Miguel Apey	2017-2-24 00:00:00	
+123426	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Cuatricromia	Medios Regionales	34x6	11	518.048	Arte	Medios Regionales	2017-2-24 00:00:00	
+123368	CLUB DE DEPORTES LA SERENA	Par	Cuatricromia	Generales	17x3	12	0	Publicado	Marcela Tello-ElDia	2017-2-24 00:00:00	
+123430	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	6x2	12	26.088	Arte	Medios Regionales	2017-2-24 00:00:00	
+122781	CURIFOR S.A.	Impar	Blanco y negro	Generales	18x3	13	189.839	Publicado	Pedro Jaime	2017-2-24 00:00:00	
+121972	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	5x2	14	0	Publicado	Miguel Apey	2017-2-24 00:00:00	
+122261	DIARIO EL DIA	Par	Blanco y negro	Generales	5x2	14	0	Publicado	Marcela Tello-ElDia	2017-2-24 00:00:00	
+122463	ARZOBISPADO DE LA SERENA	Par	Blanco y negro	Generales	5x2	14	0	Publicado	Marcela Tello-ElDia	2017-2-24 00:00:00	
+123366	SOC. EDUCACIONAL ANDRES BELLO LTDA.	Par	Blanco y negro	Generales	5x2	15	36.620	Publicado	Pedro Jaime	2017-2-24 00:00:00	
+123229	SANBERT LTDA.	Par	Blanco y negro	Generales	7x2	15	17.875	Publicado	Miguel Apey	2017-2-24 00:00:00	
+123257	SERNAC IV REGION	Par	Blanco y negro	Generales	12x2	15	134.748	Publicado	Jacqueline Torres	2017-2-24 00:00:00	
+121822	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	16	8.306	Publicado	Miguel Apey	2017-2-24 00:00:00	
+123422	ILUSTRE MUNICIPALIDAD DE MONTE PATR	Par	Cuatricromia	Generales	13x4	17	178.000	Publicado	Jacqueline Torres	2017-2-24 00:00:00	
+123419	DIARIO EL DIA	Par	Blanco y negro	Generales	35x6	22	0	Arte	Carolina Naranjo	2017-2-24 00:00:00	
+121769	BAKULIC RESTAURANT	Par	Cuatricromia	Generales	10x2	23	24.609	Publicado	Miguel Apey	2017-2-24 00:00:00	
+121879	HOTEL COSTA REAL	Par	Cuatricromia	Generales	10x2	23	30.761	Publicado	Miguel Apey	2017-2-24 00:00:00	
+122320	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	23	0	Publicado	Marcela Tello-ElDia	2017-2-24 00:00:00	
+122404	MARTIN JURE PATRICIA	Par	Cuatricromia	Generales	5x3	23	0	Publicado	Marcela Tello-ElDia	2017-2-24 00:00:00	
+122400	PILLA LA VACA	Par	Cuatricromia	Generales	5x2	23	0	Publicado	Marcela Tello-ElDia	2017-2-24 00:00:00	
+122361	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	23	0	Publicado	Marcela Tello-ElDia	2017-2-24 00:00:00	
+122303	SOC. HOTELERA VICHUQUEN LTDA.	Par	Cuatricromia	Generales	5x3	23	0	Publicado	Marcela Tello-ElDia	2017-2-24 00:00:00	
+121837	JOAQUIN GASTON MALUENDA	Par	Cuatricromia	Generales	5x6	28	69.508	Publicado	Pedro Jaime	2017-2-24 00:00:00	
+123285	arevalo carmen			UIP	5x1	29	8.937	Publicado	Pedro Jaime	2017-2-24 00:00:00	
+122953	sercomp ruiz			UIP	5x2	29	8.936	Publicado	Marcela Tello-ElDia	2017-2-24 00:00:00	
+121159	ARMAQ			UIP	5x1	29	8.937	Publicado	Claudio Romero	2017-2-24 00:00:00	
+121780	SOC. DE GES			UIP	5x1	29	8.937	Publicado	Miguel Apey	2017-2-24 00:00:00	
+121863	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	4x5	29	20.508	Publicado	Miguel Apey	2017-2-24 00:00:00	
+120948	CERNA E HIJOS CIA. LTDA.	Par	Blanco y negro	Generales	5x1	29	4.468	Publicado	Nadia Randolph	2017-2-24 00:00:00	
+122618	SOC. COM. CENTRO NORTE LTDA.			UIP	5x1	30	7.596	Publicado	Pedro Cortes	2017-2-24 00:00:00	
+123384	FUNDACION EDUCACIONAL COLEGIO SANTA	Par	Blanco y negro	Generales	5x2	30	36.620	Publicado	Karina Rivera	2017-2-24 00:00:00	
+123377	CLUB DEPORTES COQUIMBO UNIDO	Par	Cuatricromia	Generales	17x3	30	0	Publicado	Marcela Tello-ElDia	2017-2-24 00:00:00	
+122869	VELIZ CORTES JOSE A.	Par	Blanco y negro	Generales	3x2	31	13.403	Publicado	Pedro Cortes	2017-2-24 00:00:00	
+122144	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Generales	5x1	EC-20	6.043	Publicado	Rene Pizarro	2017-2-24 00:00:00	
+123431	DIARIO EL DIA	Par	Cuatricromia	Generales	17x6	EC-20	0	Arte	Marcela Tello-ElDia	2017-2-24 00:00:00	

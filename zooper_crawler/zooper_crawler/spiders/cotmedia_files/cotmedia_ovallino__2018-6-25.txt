@@ -1,0 +1,8 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+158557	ERICH UGARTE HALYBURTON	Par	Blanco y negro	Generales	15x3	05	36.843	Publicado	Karina Rivera	CEMENTERIO PARROQUIAL PUNITAQUI	2018-6-25 00:00:00	
+157758	ESTUDIO JURIDICO POLO & CONTADOR	Par	Cuatricromia	Generales	5x2	08	3.931	Publicado	Karina Rivera	ESTUDIO JURIDICO POLO & CONTADOR (GUIA PROFESIONAL)	2018-6-25 00:00:00	
+158113	DANIELA MORALES			UIP	5x2	08	3.333	Publicado	Karina Rivera	FONOAUDIOLOGIA INFANTIL	2018-6-25 00:00:00	
+156675	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	12x3	09	16.065	Publicado	Claudio Romero	Muebles alpina..	2018-6-25 00:00:00	
+157224	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	11	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2018-6-25 00:00:00	
+158724	PRENSA DEL LIMARI LTDA.	Par	Blanco y negro	Generales	6x6	12	0	Arte	Marcela Tello-ElDia		2018-6-25 00:00:00	
+158725	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	6x6	14	0	Arte	Marcela Tello-ElDia		2018-6-25 00:00:00	

@@ -1,0 +1,13 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+65590	SOCIEDAD DE RENTAS FALABELLA S.A	Par	Cuatricromia	Generales	8x6	01	50.980	Publicado	M Cristina Puga	open Plaza/portada	2015-1-23 00:00:00	
+66597	ABRIL PUBLICIDAD INVERSIONES Y ASES	Impar	Cuatricromia	Generales	17x6	03	216.329	Publicado	Patricia Villena		2015-1-23 00:00:00	
+66905	rio hurta			UIP	10x6	05	0	Publicado	Italo Retamal	2 feria costumbrista 	2015-1-23 00:00:00	
+67509	PARQUES DE CHILE S.A	Par	Cuatricromia	Generales	17x3	06	168.076	Publicado	Rene Pizarro	Parques de Chile...( nuevo )	2015-1-23 00:00:00	
+67180	INVERSIONES SAN FRAN			UIP	5x2	07	2.808	Publicado	Leonel Pizarro-Ovalle	AGUAS SAN FRANCISCO	2015-1-23 00:00:00	
+66372	SOCIEDAD COMERCIAL TREMENDO			UIP	10x2	07	0	Publicado	Italo Retamal	Tremendo Restaurante	2015-1-23 00:00:00	
+66401	Marcela Burgos Robles			UIP	10x2	07	0	Arte	Italo Retamal	agrogranjalosacacios	2015-1-23 00:00:00	
+65408	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	6x6	08	16.065	Publicado	Claudio Romero	Muebles Alpina	2015-1-23 00:00:00	
+66335	INMOBILIARIA NUEVA SERENA	Par	Cuatricromia	Generales	17x6	09	0	Publicado	Claudio Romero	proyecto san luis....nuevo...primeras paginas..	2015-1-23 00:00:00	
+67320	SOC. HOTELERA VICHUQUEN LTDA.	Par	Cuatricromia	Generales	10x3	10	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2015-1-23 00:00:00	
+66805	ALVI SUPERMERCADOS MAYORISTAS S.A.	Impar	Cuatricromia	Generales	35x3	11	207.623	Publicado	Italo Retamal	mayorista 10 v23	2015-1-23 00:00:00	
+67214	DABED Y CIA. LTDA., SELIM	Impar	Cuatricromia	Generales	6x6	14	23.077	Publicado	Italo Retamal	expres dabed	2015-1-23 00:00:00	

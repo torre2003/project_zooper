@@ -1,0 +1,40 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+122748	CHRISTIAN LAUNITZ MARIN SERVICIOS M	Par	Blanco y negro	Generales	4x2	04	6.464	Publicado	Jacqueline Torres	2017-2-25 00:00:00	
+123200	VTR COMUNICACIONES SPA	Impar	Cuatricromia	Generales	35x6	05	1.000.000	Publicado	M Cristina Puga	2017-2-25 00:00:00	
+123472	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	08	0	Arte	Marcela Tello-ElDia	2017-2-25 00:00:00	
+123443	INMOBIL. LA SERENA GOLF S.A.	Impar	Cuatricromia	Generales	17x6	09	288.660	Publicado	Patricia Villena	2017-2-25 00:00:00	
+122769	DABED Y CIA. LTDA., SELIM	Par	Blanco y negro	Generales	6x6	10	27.690	Publicado	Karina Rivera	2017-2-25 00:00:00	
+123209	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Cuatricromia	Medios Regionales	32x6	11	554.336	Publicado	Medios Regionales	2017-2-25 00:00:00	
+123230	SANBERT LTDA.	Par	Blanco y negro	Generales	7x2	12	17.875	Publicado	Miguel Apey	2017-2-25 00:00:00	
+122262	DIARIO EL DIA	Par	Blanco y negro	Generales	5x2	12	0	Publicado	Marcela Tello-ElDia	2017-2-25 00:00:00	
+121973	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	5x2	12	0	Publicado	Miguel Apey	2017-2-25 00:00:00	
+123364	AUTOMOTORES GILDEMEISTER S.A.	Impar	Cuatricromia	Generales	25x5	13	751.718	Publicado	Kathine Soto-Stgo	2017-2-25 00:00:00	
+123246	INMOBILIARIA RENVAL SPA	Par	Cuatricromia	Generales	34x6	14	781.786	Publicado	Rene Pizarro	2017-2-25 00:00:00	
+121823	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	15	8.306	Publicado	Miguel Apey	2017-2-25 00:00:00	
+121031	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	6x6	15	51.666	Publicado	Claudio Romero	2017-2-25 00:00:00	
+122324	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	16	0	Publicado	Marcela Tello-ElDia	2017-2-25 00:00:00	
+123369	CLUB DE DEPORTES LA SERENA	Par	Cuatricromia	Generales	17x3	23	0	Publicado	Marcela Tello-ElDia	2017-2-25 00:00:00	
+121798	BAKULIC RESTAURANT	Par	Cuatricromia	Generales	15x3	23	40.092	Publicado	Miguel Apey	2017-2-25 00:00:00	
+121838	JOAQUIN GASTON MALUENDA	Par	Cuatricromia	Generales	5x6	28	69.508	Publicado	Pedro Jaime	2017-2-25 00:00:00	
+123286	arevalo carmen			UIP	5x1	29	8.937	Publicado	Pedro Jaime	2017-2-25 00:00:00	
+120949	CERNA E HIJOS CIA. LTDA.	Par	Blanco y negro	Generales	5x1	29	4.468	Publicado	Nadia Randolph	2017-2-25 00:00:00	
+122954	sercomp ruiz			UIP	5x2	29	8.936	Publicado	Marcela Tello-ElDia	2017-2-25 00:00:00	
+121781	SOC. DE GES			UIP	5x1	29	8.937	Publicado	Miguel Apey	2017-2-25 00:00:00	
+121160	ARMAQ			UIP	5x1	29	8.937	Publicado	Claudio Romero	2017-2-25 00:00:00	
+122619	SOC. COM. CENTRO NORTE LTDA.			UIP	5x1	29	7.596	Publicado	Pedro Cortes	2017-2-25 00:00:00	
+122392	PILLA LA VACA	Par	Blanco y negro	Generales	5x2	29	0	Publicado	Marcela Tello-ElDia	2017-2-25 00:00:00	
+122365	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	29	0	Publicado	Marcela Tello-ElDia	2017-2-25 00:00:00	
+121864	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	4x5	29	20.508	Publicado	Miguel Apey	2017-2-25 00:00:00	
+123467	CORP. MUNICIPAL G. G. VIDELA	Par	Blanco y negro	Generales	12x2	30	68.729	Publicado	Jacqueline Torres	2017-2-25 00:00:00	
+122870	VELIZ CORTES JOSE A.	Par	Blanco y negro	Generales	3x2	30	13.403	Publicado	Pedro Cortes	2017-2-25 00:00:00	
+123424	JESSICA GERALDO	Par	Blanco y negro	Generales	12x2	30	65.697	Publicado	Pedro Jaime	2017-2-25 00:00:00	
+123302	BANCO FALABELLA	Impar	Cuatricromia	Generales	35x6	32	600.000	Publicado	M Cristina Puga	2017-2-25 00:00:00	
+123473	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	EC-17	0	Arte	Marcela Tello-ElDia	2017-2-25 00:00:00	
+123479	DIARIO EL DIA	Par	Cuatricromia	Generales	17x6	EC-18	0	Arte	Marcela Tello-ElDia	2017-2-25 00:00:00	
+123447	CONSTRUCTORA EL CANELO S.A.	Par	Blanco y negro	Generales	5x2	EC-19	42.113	Publicado	Rene Pizarro	2017-2-25 00:00:00	
+123450	PADRES FRANCISCANOS DEL NORTE	Par	Blanco y negro	Generales	5x2	EC-19	42.113	Publicado	Rene Pizarro	2017-2-25 00:00:00	
+123465	CIA. DE LEASING TATTERSALL S.A.	Par	Blanco y negro	Generales	11x2	EC-19	69.487	Publicado	Pedro Jaime	2017-2-25 00:00:00	
+122145	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Generales	5x1	EC-20	6.043	Publicado	Rene Pizarro	2017-2-25 00:00:00	
+123456	CORPBANCA	719 Palabras		Legal	x	EC-20	178.487	Publicado	Pedro Jaime	2017-2-25 00:00:00	
+123480	DIARIO EL DIA	Par	Cuatricromia	Generales	17x6	EC-20	0	Arte	Marcela Tello-ElDia	2017-2-25 00:00:00	
+122705	COMERCIAL E.C.C.S.A.  S.A.		9 a 24 pag.	Inserto	x	INS	459.000	Publicado	M Cristina Puga	2017-2-25 00:00:00	

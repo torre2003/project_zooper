@@ -1,0 +1,13 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+82823	CALLEGARI LTDA.	Par	Cuatricromia	Generales	23x6	03	0	Arte	Marcela Tello-ElDia	Ford - Rep. 16/8	2015-8-23 00:00:00	
+82748	EMPRESA PERIODISTICA EL NORTE S.A.	Par	Blanco y negro	Medios Regionales	6x2	05	17.340	Publicado	Medios Regionales	Empresa de Transp. - Conductor y Asistente Norte - (180970)	2015-8-23 00:00:00	
+81969	JORGE ALVARADO RAMIREZ	Par	Blanco y negro	Generales	5x2	05	0	Publicado	Italo Retamal	abogado	2015-8-23 00:00:00	
+82600	SANTO TOMAS S.A.	Par	Blanco y negro	Generales	12x2	05	55.084	Publicado	Claudio Romero	COORDINADOR VESPERTINO...REPITE MISMO AVISO EN DIARIO EL DIA...	2015-8-23 00:00:00	
+80826	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	10x3	06	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2015-8-23 00:00:00	
+81173	FLORENCIA CONTADOR ORTIZ	Par	Blanco y negro	Generales	10x2	06	0	Publicado	Italo Retamal	tienda exotica	2015-8-23 00:00:00	
+82519	SERVICIO DE SALUD COQBO. IV REGION	Par	Blanco y negro	Generales	10x3	07	62.429	Publicado	Jacqueline Torres		2015-8-23 00:00:00	
+82826	CAMAL MUSALEM TAPIA Y CIA.	Par	Blanco y negro	Generales	21x3	07	77.112	Publicado	Marcela Tello-ElDia	Toyota Factory Sale - Nuevo	2015-8-23 00:00:00	
+82532	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	12x6	08	0	Publicado	Marcela Tello-ElDia	Avant Premiere - Club de Lectores	2015-8-23 00:00:00	
+82824	CALLEGARI LTDA.	Par	Cuatricromia	Generales	17x6	09	174.777	Publicado	Marcela Tello-ElDia	Mitsubishi L-200 - Nuevo	2015-8-23 00:00:00	
+82812	MIGUEL GUZMAN YURI	Par	Blanco y negro	Generales	5x2	10	30.603	Publicado	Leonel Pizarro-Ovalle	remates en ovalle	2015-8-23 00:00:00	
+82825	HERMANAS CALLEGARI LTDA.	Par	Cuatricromia	Generales	17x6	11	100.000	Publicado	Marcela Tello-ElDia	Chery	2015-8-23 00:00:00	

@@ -1,0 +1,35 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+171278	CARAT CHILE S.A.	Impar	Cuatricromia	Generales	17x6	07	322.706	Publicado	Kathine Soto-Stgo	2018-12-4 00:00:00	
+171211	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Cuatricromia	Medios Regionales	16x6	09	324.840	Arte	Medios Regionales	2018-12-4 00:00:00	
+171287	UNIVERSIDAD SANTO TOMAS	Impar	Cuatricromia	Generales	25x5	11	534.969	Publicado	Patricia Villena	2018-12-4 00:00:00	
+170736	ARMAQ SUBIRI S.A.			UIP	5x1	13	8.937	Publicado	Claudio Romero	2018-12-4 00:00:00	
+170978	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	5x2	13	0	Publicado	Miguel Apey	2018-12-4 00:00:00	
+170889	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	13	8.306	Publicado	Miguel Apey	2018-12-4 00:00:00	
+168830	PAMELA B. GONZALEZ LIZAMA COMERCIAL	Par	Blanco y negro	Generales	5x2	13	0	Publicado	Marcela Tello-ElDia	2018-12-4 00:00:00	
+171316	DIARIO EL DIA	Par	Blanco y negro	Generales	5x1	13	0	Arte	Marcela Tello-ElDia	2018-12-4 00:00:00	
+170159	SOC. DE INVERSIONES LAS VEGAS LTDA.	Par	Blanco y negro	Generales	8x3	15	0	Publicado	Marcela Tello-ElDia	2018-12-4 00:00:00	
+171209	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	17	0	Arte	Marcela Tello-ElDia	2018-12-4 00:00:00	
+170704	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	12x3	17	0	Publicado	Claudio Romero	2018-12-4 00:00:00	
+171169	DEL RIO VARELA JORGE	Par	Blanco y negro	Generales	10x4	19	102.536	Publicado	Pedro Jaime	2018-12-4 00:00:00	
+170942	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	4x5	23	20.508	Publicado	Miguel Apey	2018-12-4 00:00:00	
+168724	INVERSIONES ALTA CRUZ LTDA	Par	Blanco y negro	Generales	5x2	23	0	Publicado	Marcela Tello-ElDia	2018-12-4 00:00:00	
+168662	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	23	0	Publicado	Marcela Tello-ElDia	2018-12-4 00:00:00	
+171186	C.M. SOC. GASTRONOMICA LTDA.			UIP	5x2	23	7.208	Publicado		2018-12-4 00:00:00	
+168532	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	25	0	Publicado	Marcela Tello-ElDia	2018-12-4 00:00:00	
+171280	DIARIO EL DIA	Par	Cuatricromia	Generales	13x6	27	0	Arte	Marcela Tello-ElDia	2018-12-4 00:00:00	
+171312	DIARIO EL DIA	Par	Blanco y negro	Generales	35x6	28	0	Arte	Carolina Naranjo	2018-12-4 00:00:00	
+171318	DIARIO EL DIA	Par	Blanco y negro	Generales	4x6	29	0	Arte	Marcela Tello-ElDia	2018-12-4 00:00:00	
+169587	SERVICIOS GENERALES GUAYACAN S.A	Par	Blanco y negro	Generales	3x2	29	6.812	Publicado	Jacqueline Torres	2018-12-4 00:00:00	
+171241	MARIA JOSE ROJAS ERBETTA	572 Palabras		Legal	x	EC	142.017	Publicado	Pedro Jaime	2018-12-4 00:00:00	
+171233	MIBE E.I. R. L	166 Palabras		Legal	x	EC	41.176	Publicado	Pedro Jaime	2018-12-4 00:00:00	
+171094	SERCOMAG SPA			UIP	5x1	EC-20	8.937	Publicado	Pedro Jaime	2018-12-4 00:00:00	
+171079	SANTANDER G.R.C.	Par	Blanco y negro	Generales	10x2	EC-20	83.824	Publicado	Pedro Jaime	2018-12-4 00:00:00	
+171102	SANTANDER G.R.C.	Par	Blanco y negro	Generales	10x2	EC-20	83.823	Publicado	Pedro Jaime	2018-12-4 00:00:00	
+171286	SANTANDER G.R.C.	864 Palabras		Legal	x	EC-21	214.286	Publicado	Pedro Jaime	2018-12-4 00:00:00	
+171317	DIARIO EL DIA	Par	Cuatricromia	Generales	17x6	EC-21	0	Arte	Marcela Tello-ElDia	2018-12-4 00:00:00	
+166185	HOTELERIA LUIS ALBERTO BERETTA KIEK	Par	Blanco y negro	Generales	5x2	EC-21	6.061	Publicado	Patricia Villena	2018-12-4 00:00:00	
+169529	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Generales	5x2	EC-21	7.003	Publicado	Rene Pizarro	2018-12-4 00:00:00	
+171268	INMOBILIARIA PROWISE SPA	645 Palabras		Propiedades	x	PROP	0	Arte	Pedro Jaime	2018-12-4 00:00:00	
+171248	COMERCIAL AUTOKARINO LTDA.	404 Palabras		Propiedades	x	PROP	64.706	Publicado	Pedro Jaime	2018-12-4 00:00:00	
+171234	CARMEN AREVALO ROMERO	315 Palabras		Propiedades	x	PROP	50.420	Publicado	Pedro Jaime	2018-12-4 00:00:00	
+171360	CALLEGARI LTDA.		74 Frases	Radio	x	RAD	220.000	Publicado		2018-12-4 00:00:00	

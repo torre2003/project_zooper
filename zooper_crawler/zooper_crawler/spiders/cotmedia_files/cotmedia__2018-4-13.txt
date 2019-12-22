@@ -1,0 +1,47 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+154131	DIARIO EL DIA	Par	Blanco y negro	Generales	3x3	03	0	Publicado	Marcela Tello-ElDia	2018-4-13 00:00:00	
+153931	ARZOBISPADO DE LA SERENA	Par	Blanco y negro	Generales	5x2	04	0	Publicado	Marcela Tello-ElDia	2018-4-13 00:00:00	
+153958	DIARIO EL DIA	Par	Blanco y negro	Generales	5x2	04	0	Publicado	Marcela Tello-ElDia	2018-4-13 00:00:00	
+152952	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	5x2	04	0	Publicado	Miguel Apey	2018-4-13 00:00:00	
+154096	OMD CHILE S.P.A.	Impar	Cuatricromia	Generales	35x6	05	824.511	Publicado	Patricia Villena	2018-4-13 00:00:00	
+153952	SERVICIOS DE TRANSPORTES DE PASAJER	Par	Blanco y negro	Generales	7x2	06	46.142	Publicado	Miguel Apey	2018-4-13 00:00:00	
+154118	CORPORACION REGIONAL DE DESARROLLO 	Par	Blanco y negro	Generales	10x2	06	58.592	Publicado	Patricia Villena	2018-4-13 00:00:00	
+153983	EMPRESAS LA POLAR S.A.	Par	Cuatricromia	Contraportada	35x6	07	504.000	Publicado	Patricia Villena	2018-4-13 00:00:00	
+153937	ILUSTRE MUNICIPALIDAD DE MONTE PATR	Par	Blanco y negro	Generales	35x3	08	269.157	Publicado	Claudio Romero	2018-4-13 00:00:00	
+151377	UNIVERSIDAD CENTRAL DE CHILE	Impar	Cuatricromia	Generales	17x6	09	376.512	Publicado	Jacqueline Torres	2018-4-13 00:00:00	
+154132	DIARIO EL DIA	Par	Cuatricromia	Generales	3x3	11	0	Publicado	Marcela Tello-ElDia	2018-4-13 00:00:00	
+152743	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	11	8.306	Publicado	Miguel Apey	2018-4-13 00:00:00	
+153910	DIARIO EL DIA	Par	Cuatricromia	Generales	6x6	12	0	Publicado	Marcela Tello-ElDia	2018-4-13 00:00:00	
+153664	ADMINISTRADORA CLUB DE GOLF LA SERE	Par	Blanco y negro	Generales	8x3	16	74.705	Publicado	Patricia Villena	2018-4-13 00:00:00	
+153911	DIARIO EL DIA	Par	Cuatricromia	Generales	6x3	16	0	Publicado	Marcela Tello-ElDia	2018-4-13 00:00:00	
+153901	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	16	0	Publicado	Marcela Tello-ElDia	2018-4-13 00:00:00	
+154117	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Cuatricromia	Medios Regionales	32x6	17	544.008	Publicado	Medios Regionales	2018-4-13 00:00:00	
+152817	SOC. DE GES			UIP	5x1	22	8.937	Publicado	Miguel Apey	2018-4-13 00:00:00	
+153832	CARLOS GALLEGUILLOS CARVAJAL			UIP	5x1	22	8.937	Publicado	Jacqueline Torres	2018-4-13 00:00:00	
+148646	CERNA E HIJOS CIA. LTDA.	Par	Blanco y negro	Generales	5x1	22	7.797	Publicado	Nadia Randolph	2018-4-13 00:00:00	
+152787	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	4x5	22	20.508	Publicado	Miguel Apey	2018-4-13 00:00:00	
+153371	C.M. SOC. GASTRONOMICA LTDA.			UIP	5x2	22	7.208	Publicado		2018-4-13 00:00:00	
+153098	ARMAQ SUBIRI S.A.			UIP	5x1	22	8.937	Publicado	Claudio Romero	2018-4-13 00:00:00	
+153274	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	25	0	Publicado	Marcela Tello-ElDia	2018-4-13 00:00:00	
+153211	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	25	0	Publicado	Marcela Tello-ElDia	2018-4-13 00:00:00	
+153292	PILLA LA VACA	Par	Cuatricromia	Generales	5x2	25	0	Publicado	Marcela Tello-ElDia	2018-4-13 00:00:00	
+153306	MARTIN JURE PATRICIA	Par	Cuatricromia	Generales	5x3	25	0	Publicado	Marcela Tello-ElDia	2018-4-13 00:00:00	
+153190	SOC. HOTELERA VICHUQUEN LTDA.	Par	Cuatricromia	Generales	5x3	25	0	Publicado	Marcela Tello-ElDia	2018-4-13 00:00:00	
+153883	DIARIO EL DIA	Par	Blanco y negro	Generales	35x6	26	0	Publicado	Carolina Naranjo	2018-4-13 00:00:00	
+153545	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	27	0	Publicado	Marcela Tello-ElDia	2018-4-13 00:00:00	
+153484	CAMPOS DEL NORTE S.A.	Par	Cuatricromia	Generales	17x3	27	0	Publicado	Patricia Villena	2018-4-13 00:00:00	
+154119	CLUB DEPORTES COQUIMBO UNIDO	Par	Cuatricromia	Generales	17x3	28	0	Publicado	Marcela Tello-ElDia	2018-4-13 00:00:00	
+154134	DIARIO EL DIA	Par	Blanco y negro	Generales	5x6	29	0	Publicado	Marcela Tello-ElDia	2018-4-13 00:00:00	
+153977	EMPRESAS LA POLAR S.A.	Impar	Cuatricromia	Generales	35x6	32	504.000	Publicado	Patricia Villena	2018-4-13 00:00:00	
+154032	BANCO DE CREDITO E INVERSIONES	965 Palabras		Legal	x	EC	239.496	Publicado	Pedro Jaime	2018-4-13 00:00:00	
+154029	BANCO DE CREDITO E INVERSIONES	935 Palabras		Legal	x	EC	231.933	Publicado	Pedro Jaime	2018-4-13 00:00:00	
+154091	MADEMET MANUFACTURA DE METALES Y CI	Par	Blanco y negro	Generales	3x2	EC-18	21.972	Publicado	Pedro Jaime	2018-4-13 00:00:00	
+154081	FRANCISCO JAVIER GARCIA GARCIA	548 Palabras		Legal	x	EC-19	135.904	Publicado	Pedro Jaime	2018-4-13 00:00:00	
+153047	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Economico	5x2	EC-19	15.161	Publicado	Rene Pizarro	2018-4-13 00:00:00	
+152891	SOC. COMERCIAL VARGAS Y GIACOMET			UIP	5x1	EC-19	7.149	Publicado	Rene Pizarro	2018-4-13 00:00:00	
+154133	DIARIO EL DIA	Par	Blanco y negro	Generales	17x6	EC-19	0	Publicado	Marcela Tello-ElDia	2018-4-13 00:00:00	
+152033	HOTELERIA LUIS ALBERTO BERETTA KIEK	Par	Blanco y negro	Generales	5x2	EC-19	6.061	Publicado	Patricia Villena	2018-4-13 00:00:00	
+153498	AUTOMOTRIZ CARMONA			Revista Cosas	x	RC	320.000	Publicado	Paola Marquez	2018-4-13 00:00:00	
+153499	COMERCIAL VALENTINI E HIJOS LTDA.			Revista Cosas	x	RC	293.658	Publicado	Paola Marquez	2018-4-13 00:00:00	
+154044	ILUSTRE MUNICIPALIDAD DE VICUNA	Par	Blanco y negro	Generales	10x4	SUS	141.176	Publicado	Heinger Vega Torres	2018-4-13 00:00:00	
+154124	SOCIEDAD DE RENTAS FALABELLA S.A	Home	Banner Cabecera	Web	x	WEB	500.000	Publicado		2018-4-13 00:00:00	

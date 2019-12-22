@@ -1,0 +1,17 @@
+- Hacer un vista desde donde se puedan cargar el detalle de cada producto mediante ajax en cualquier vista
+
+- Hacer una vista de lista de productos con filtros
+    -se debe llamar al detalle de los productos 
+
+- Hacer un framework general para la gestión de productos
+    - generar JSON para ecommerce
+    - rescatar productos asociados con producto Zooper 
+
+- estandarizar el formato de precio de los productos
+- Resolver tema de imagenes en el servidor ecommerce
+
+- Friamberia y carniceria tiene precio por Kilo 
+
+- mejorar el algoritmo de alctualizacion de precios para que sea distribuido
+
+- extraer verdaderos link en productos telemercado

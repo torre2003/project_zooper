@@ -1,0 +1,6 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+72441	SOC. AUTOMOTRIZ COVALSA CENTER LTDA	Par	Cuatricromia	Generales	5x6	01	51.405	Publicado	Claudio Romero	PORTADA ..COVALSA	2015-4-6 00:00:00	
+71810	marcelo corral			UIP	5x2	07	2.808	Publicado	Leonel Pizarro-Ovalle	arrienda	2015-4-6 00:00:00	
+72347	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	10x3	07	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2015-4-6 00:00:00	
+72451	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	6x6	09	16.065	Publicado	Claudio Romero	Muebles Alpina	2015-4-6 00:00:00	
+72909	CENCOSUD ADMINISTRADORAS DE TARJETA	Impar	Cuatricromia	Generales	35x6	16	500.000	Publicado	M Cristina Puga	Cencosud	2015-4-6 00:00:00	

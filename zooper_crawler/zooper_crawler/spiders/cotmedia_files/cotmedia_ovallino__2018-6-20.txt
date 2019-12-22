@@ -1,0 +1,10 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+158340	EMPRESA PERIODISTICA EL NORTE S.A.	Par	Cuatricromia	Medios Regionales	32x6	03	367.130	Arte	Medios Regionales		2018-6-20 00:00:00	
+158387	PRENSA DEL LIMARI LTDA.	Par	Blanco y negro	Generales	3x6	04	0	Arte	Marcela Tello-ElDia		2018-6-20 00:00:00	
+157231	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	06	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2018-6-20 00:00:00	
+158111	DANIELA MORALES			UIP	5x2	08	3.333	Publicado	Karina Rivera	FONOAUDIOLOGIA INFANTIL	2018-6-20 00:00:00	
+156673	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	12x3	09	0	Publicado	Claudio Romero	Muebles alpina..	2018-6-20 00:00:00	
+157495	DABED Y CIA. LTDA., SELIM	Par	Cuatricromia	Generales	6x6	11	23.076	Publicado	Karina Rivera	O1	2018-6-20 00:00:00	
+158388	PRENSA DEL LIMARI LTDA.	Par	Blanco y negro	Generales	17x6	12	0	Arte	Marcela Tello-ElDia		2018-6-20 00:00:00	
+158389	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	6x6	14	0	Arte	Marcela Tello-ElDia	Cupones Descuentos Cinemark	2018-6-20 00:00:00	
+158344	ORIGEN COMUNICACIONES S.P.A	Home	Banner Cabecera	Web	x	WEB	1.812.495	Publicado		Publicicidad Sup diarioeldia.cl	2018-6-20 00:00:00	

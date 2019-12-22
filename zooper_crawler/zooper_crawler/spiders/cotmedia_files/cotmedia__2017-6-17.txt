@@ -1,0 +1,53 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+130963	CHRISTIAN LAUNITZ MARIN SERVICIOS M	Par	Blanco y negro	Generales	8x2	04	5.000	Publicado	Heinger Vega Torres	2017-6-17 00:00:00	
+131873	ARMAS GESTION LTDA	Impar	Cuatricromia	Generales	17x6	05	574.843	Publicado	M Cristina Puga	2017-6-17 00:00:00	
+131901	ENTEL PCS	Impar	Cuatricromia	Generales	25x5	07	442.187	Publicado	Kathine Soto-Stgo	2017-6-17 00:00:00	
+131967	DIARIO EL DIA	Par	Cuatricromia	Generales	10x6	08	0	Arte	Marcela Tello-ElDia	2017-6-17 00:00:00	
+132024	SOCIEDAD MECANICA EDUARDO ASPILLAGA	Par	Cuatricromia	Generales	35x6	09	400.000	Publicado	Miguel Apey	2017-6-17 00:00:00	
+132045	UNIVERSIDAD CENTRAL DE CHILE	Par	Blanco y negro	Generales	17x6	10	336.172	Publicado	Pedro Cortes	2017-6-17 00:00:00	
+131992	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	5x2	11	0	Arte	Miguel Apey	2017-6-17 00:00:00	
+131603	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	10x2	11	47.260	Publicado	Medios Regionales	2017-6-17 00:00:00	
+130770	DIARIO EL DIA	Par	Blanco y negro	Generales	5x2	11	0	Publicado	Marcela Tello-ElDia	2017-6-17 00:00:00	
+131146	INMOBILIARIA RENVAL SPA	Par	Cuatricromia	Generales	34x6	12	721.649	Publicado	Rene Pizarro	2017-6-17 00:00:00	
+131611	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Cuatricromia	Medios Regionales	20x6	13	384.200	Publicado	Medios Regionales	2017-6-17 00:00:00	
+131877	ILUSTRE MUNICIPALIDAD DE MONTE PATR	Par	Blanco y negro	Generales	18x2	14	103.093	Publicado	Jacqueline Torres	2017-6-17 00:00:00	
+131899	SERVICIO ELECTORAL	Par	Blanco y negro	Generales	17x3	14	0	Publicado	Jacqueline Torres	2017-6-17 00:00:00	
+132008	INDUSTRIA AUTOMOTRIZ FRANCO MECANIC	Impar	Cuatricromia	Generales	17x6	15	360.825	Publicado	Kathine Soto-Stgo	2017-6-17 00:00:00	
+131883	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	16	0	Arte	Marcela Tello-ElDia	2017-6-17 00:00:00	
+131970	DIARIO EL DIA	Par	Cuatricromia	Generales	6x3	16	0	Arte	Marcela Tello-ElDia	2017-6-17 00:00:00	
+131682	DIARIO EL DIA	Par	Cuatricromia	Generales	10x3	16	0	Publicado	Marcela Tello-ElDia	2017-6-17 00:00:00	
+131935	AUTOMOTORES GILDEMEISTER S.A.	Impar	Cuatricromia	Generales	35x6	17	1.262.885	Publicado	Kathine Soto-Stgo	2017-6-17 00:00:00	
+130846	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	18	8.306	Publicado	Miguel Apey	2017-6-17 00:00:00	
+131389	DABED Y CIA. LTDA., SELIM	Par	Cuatricromia	Generales	6x6	18	27.690	Publicado	Karina Rivera	2017-6-17 00:00:00	
+130653	INMOBIL. PY  S.A.	Impar	Cuatricromia	Generales	17x6	19	469.072	Publicado	Claudio Romero	2017-6-17 00:00:00	
+131755	SERVICIO ELECTORAL	Par	Blanco y negro	Generales	35x6	20	601.374	Publicado	Jacqueline Torres	2017-6-17 00:00:00	
+131754	SERVICIO ELECTORAL	Impar	Blanco y negro	Generales	35x6	21	691.579	Publicado	Jacqueline Torres	2017-6-17 00:00:00	
+131757	SERVICIO ELECTORAL	Par	Blanco y negro	Generales	35x6	22	601.374	Publicado	Jacqueline Torres	2017-6-17 00:00:00	
+131756	SERVICIO ELECTORAL	Impar	Blanco y negro	Generales	35x6	23	697.306	Publicado	Jacqueline Torres	2017-6-17 00:00:00	
+130941	DIARIO EL DIA	Par	Cuatricromia	Generales	17x6	24	0	Publicado	Marcela Tello-ElDia	2017-6-17 00:00:00	
+132054	SERVICIO ELECTORAL	Par	Blanco y negro	Generales	17x6	24	292.096	Publicado	Jacqueline Torres	2017-6-17 00:00:00	
+131833	AUTOMOTRIZ CARMONA	Par	Cuatricromia	Generales	35x6	29	250.000	Publicado	Pedro Cortes	2017-6-17 00:00:00	
+131368	INMOBIL. LA SERENA GOLF S.A.	Impar	Cuatricromia	Generales	17x6	31	278.660	Publicado	Patricia Villena	2017-6-17 00:00:00	
+132081	DIARIO EL DIA	Par	Cuatricromia	Generales	34x6	33	0	Arte	Marcela Tello-ElDia	2017-6-17 00:00:00	
+130615	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	6x6	35	51.666	Publicado	Claudio Romero	2017-6-17 00:00:00	
+130375	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	36	0	Publicado	Marcela Tello-ElDia	2017-6-17 00:00:00	
+130635	armaq			UIP	5x1	37	8.937	Publicado	Claudio Romero	2017-6-17 00:00:00	
+131169	SOC. DE GES			UIP	5x1	37	8.937	Publicado	Miguel Apey	2017-6-17 00:00:00	
+130435	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	37	0	Publicado	Marcela Tello-ElDia	2017-6-17 00:00:00	
+131905	SERVICIOS GASTRON?MICOS LA CASONA D	Par	Blanco y negro	Generales	5x2	37	10.725	Publicado	Miguel Apey	2017-6-17 00:00:00	
+128010	cern			UIP	5x1	37	8.937	Publicado	Nadia Randolph	2017-6-17 00:00:00	
+131547	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	4x5	37	20.508	Publicado	Miguel Apey	2017-6-17 00:00:00	
+130453	PILLA LA VACA	Par	Blanco y negro	Generales	5x2	37	0	Publicado	Marcela Tello-ElDia	2017-6-17 00:00:00	
+130734	SERVICIOS GENERALES GUAYACAN S.A	Par	Blanco y negro	Generales	4x2	38	6.666	Publicado	Jacqueline Torres	2017-6-17 00:00:00	
+131802	VELIZ CORTES JOSE A.	Par	Blanco y negro	Generales	3x2	38	13.403	Publicado	Pedro Cortes	2017-6-17 00:00:00	
+122510	FALABELLA RETAIL S.A.	Impar	Cuatricromia	Contraportada	35x6	40	600.000	Publicado	M Cristina Puga	2017-6-17 00:00:00	
+131949	TRANSPORTES ALBERTO DIAZ PARRAGUEZ 	Par	Blanco y negro	Generales	4x2	EC-26	33.691	Publicado	Pedro Jaime	2017-6-17 00:00:00	
+132016	CIA. DE LEASING TATTERSALL S.A.	Par	Blanco y negro	Generales	11x2	EC-26	69.487	Publicado	Pedro Jaime	2017-6-17 00:00:00	
+132007	BANCO DE CHILE	750 Palabras		Legal	x	EC-27	186.000	Publicado	Pedro Jaime	2017-6-17 00:00:00	
+131848	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Economico	5x2	EC-27	17.212	Publicado	Rene Pizarro	2017-6-17 00:00:00	
+131888	AGRICOLA MARIA EUGENIA LIMITADA	410 Palabras		Legal	x	EC-27	101.680	Publicado	Pedro Jaime	2017-6-17 00:00:00	
+132038	HORMIGONES READY MIX NORTE LTDA.	Par	Blanco y negro	Generales	5x2	EC-27	35.797	Publicado	Patricia Villena	2017-6-17 00:00:00	
+132041	CORPORACION REGIONAL DE DESARROLLO 	Impar	Blanco y negro	Generales	7x2	EC-27	49.525	Publicado	Patricia Villena	2017-6-17 00:00:00	
+123845	HOTELERIA LUIS ALBERTO BERETTA KIEK	Par	Blanco y negro	Generales	5x2	EC-27	6.061	Publicado	Patricia Villena	2017-6-17 00:00:00	
+131943	SANTANDER G.R.C.	Par	Blanco y negro	Generales	35x6	EC-28	608.683	Publicado	Pedro Jaime	2017-6-17 00:00:00	
+131953	COMERCIAL E.C.C.S.A.  S.A.		9 a 24 pag.	Inserto	x	INS	459.000	Publicado	M Cristina Puga	2017-6-17 00:00:00	

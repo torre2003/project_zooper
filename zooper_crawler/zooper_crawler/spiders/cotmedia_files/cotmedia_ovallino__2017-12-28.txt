@@ -1,0 +1,9 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+146599	ALVARO ITURRA			UIP	5x2	04	2.808	Arte	Karina Rivera	VENDE CASA TERRENO EMBALSE	2017-12-28 00:00:00	
+143488	INSTITUTO DE PREVISION SOCIAL	Par	Blanco y negro	Generales	17x3	05	120.054	Arte	Karina Rivera	APORTE PREVISIONAL SOLIDARIO	2017-12-28 00:00:00	
+146580	SERVICIOS TASUI S.A.	Par	Blanco y negro	Generales	10x3	05	70.620	Arte	Rene Pizarro	TARIFARIO 2018 ..SERVICIOS TASUI	2017-12-28 00:00:00	
+146612	SERVICIOS TASUI S.A.	Par	Blanco y negro	Generales	8x2	07	23.352	Arte	Leonel Pizarro-Ovalle	TASUI INFORMA	2017-12-28 00:00:00	
+145691	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	08	0	Arte	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2017-12-28 00:00:00	
+145951	DABED Y CIA. LTDA., SELIM	Par	Cuatricromia	Generales	6x6	09	23.076	Arte	Karina Rivera	GRAF. 4 EL OVALLINO	2017-12-28 00:00:00	
+146484	UNIVERSIDAD BOLIVARIANA			UIP	10x2	11	7.882	Arte	Karina Rivera	CARRERAS UB Y VC	2017-12-28 00:00:00	
+145999	VELIZ CORTES JOSE A.			UIP	5x2	14	4.695	Arte	Pedro Cortes		2017-12-28 00:00:00	

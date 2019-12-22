@@ -1,0 +1,9 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+140285	DABED Y CIA. LTDA., SELIM	Par	Cuatricromia	Generales	6x6	01	23.076	Publicado	Karina Rivera	EXPO DABED OCTUBRE	2017-10-10 00:00:00	
+136072	INVERSIONES TANGUEMAR LIMITADA			UIP	5x2	05	2.808	Publicado	Patricia Villena	Tanguemar	2017-10-10 00:00:00	
+138324	CENTRO DE SALUD PORTALES LTDA			UIP	5x4	05	4.504	Publicado	Karina Rivera		2017-10-10 00:00:00	
+137227	TEODORO AGUIRRE ALVAREZ			UIP	5x2	07	2.808	Publicado	Karina Rivera	REGIONALISTA VERDE SOCIAL	2017-10-10 00:00:00	
+140513	JACQUELINE JOFRE VILLANUEVA			UIP	5x2	07	2.808	Publicado	Karina Rivera	CORTINAS ROLLER OVALLE	2017-10-10 00:00:00	
+140588	ESTUDIO JURIDICO OLIVARES Y CIA. SP	Par	Blanco y negro	Generales	5x2	07	2.000	Publicado	Jacqueline Torres	ESTUDIO JURIDICO OLIVARES	2017-10-10 00:00:00	
+140192	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	09	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2017-10-10 00:00:00	
+140810	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	6x6	14	0	Arte	Marcela Tello-ElDia		2017-10-10 00:00:00	

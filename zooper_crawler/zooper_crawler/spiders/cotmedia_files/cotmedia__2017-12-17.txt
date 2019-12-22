@@ -1,0 +1,102 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+143840	VTR COMUNICACIONES SPA	Impar	Cuatricromia	Generales	35x6	03	1.000.000	Arte	M Cristina Puga	2017-12-17 00:00:00	
+146078	COMERCIALIZADORA S.A.	Par	Cuatricromia	Generales	35x6	05	500.000	Arte	Kathine Soto-Stgo	2017-12-17 00:00:00	
+146145	AUTOMOTRIZ CARMONA	Par	Cuatricromia	Generales	34x6	07	570.996	Arte	Marcela Tello-ElDia	2017-12-17 00:00:00	
+144005	UNIVERSIDAD CATOLICA DEL NORTE	Par	Cuatricromia	Generales	8x6	08	239.935	Arte	Miguel Apey	2017-12-17 00:00:00	
+146146	AUTOMOTRIZ CARMONA	Par	Cuatricromia	Generales	17x6	09	570.996	Arte	Marcela Tello-ElDia	2017-12-17 00:00:00	
+146087	FUNDACION EDUCACIONAL THE INTERNATI	Impar	Cuatricromia	Generales	6x2	11	97.451	Arte	Patricia Villena	2017-12-17 00:00:00	
+146129	JAVIER CERPA CORTES	Par	Blanco y negro	Generales	8x1	11	25.048	Arte	Marcela Tello-ElDia	2017-12-17 00:00:00	
+146136	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	20x3	11	170.100	Arte	Medios Regionales	2017-12-17 00:00:00	
+146163	BUALE GRUP LTDA.	Par	Cuatricromia	Generales	15x3	12	131.503	Arte	Marcela Tello-ElDia	2017-12-17 00:00:00	
+146075	MALL PLAZA LA SERENA	Impar	Cuatricromia	Generales	35x6	13	687.098	Arte	M Cristina Puga	2017-12-17 00:00:00	
+145765	ARZOBISPADO DE LA SERENA	Par	Blanco y negro	Generales	5x2	14	0	Arte	Marcela Tello-ElDia	2017-12-17 00:00:00	
+146019	COLEGIO INGLES CATOLICO DE LA SEREN	Par	Blanco y negro	Generales	5x2	14	54.930	Arte	Rene Pizarro	2017-12-17 00:00:00	
+146164	VIGIL LTDA.	Par	Blanco y negro	Generales	5x2	14	43.944	Arte	Rene Pizarro	2017-12-17 00:00:00	
+145585	INMOBIL. LA SERENA GOLF S.A.	Par	Cuatricromia	Generales	17x6	15	348.316	Arte	Patricia Villena	2017-12-17 00:00:00	
+144773	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	6x6	16	51.666	Arte	Claudio Romero	2017-12-17 00:00:00	
+144694	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	17	8.306	Arte	Miguel Apey	2017-12-17 00:00:00	
+144939	HABITA INMOBILIARIA SA	Par	Cuatricromia	Generales	34x3	17	486.329	Arte	Miguel Apey	2017-12-17 00:00:00	
+145099	CONSTRUCTORA CADEL LTDA.	Par	Cuatricromia	Generales	17x6	18	500.000	Arte	Rene Pizarro	2017-12-17 00:00:00	
+142723	UNIVERSIDAD SANTO TOMAS	Par	Cuatricromia	Generales	17x6	19	549.081	Arte	Patricia Villena	2017-12-17 00:00:00	
+146109	CORPORACION EDUCACIONAL COLEGIADA T	Par	Cuatricromia	Generales	5x6	20	115.353	Arte	Heinger Vega Torres	2017-12-17 00:00:00	
+145909	CORP. COLEGIO ALEMAN DE ELQUI	Par	Blanco y negro	Generales	10x2	21	98.874	Arte	Miguel Apey	2017-12-17 00:00:00	
+146050	INMOBILIARIA PAN DE AZUCAR LTDA	Par	Blanco y negro	Generales	5x1	21	27.465	Arte	Pedro Jaime	2017-12-17 00:00:00	
+146079	INMOBILIARIA OVCO	Par	Blanco y negro	Generales	7x1	21	34.606	Arte	Miguel Apey	2017-12-17 00:00:00	
+146137	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	16x2	21	90.720	Arte	Medios Regionales	2017-12-17 00:00:00	
+146107	DIARIO EL DIA	Par	Cuatricromia	Generales	34x4	24	0	Arte	Marcela Tello-ElDia	2017-12-17 00:00:00	
+146108	DIARIO EL DIA	Par	Cuatricromia	Generales	34x2	24	0	Arte	Marcela Tello-ElDia	2017-12-17 00:00:00	
+146090	INMOBILIARIA E INVERSIONES ESPACIO 	Par	Cuatricromia	Generales	34x6	25	0	Arte	Marcela Tello-ElDia	2017-12-17 00:00:00	
+141834	CHRISTIAN LAUNITZ MARIN SERVICIOS M	Par	Blanco y negro	Generales	5x2	26	5.000	Arte	Heinger Vega Torres	2017-12-17 00:00:00	
+146166	CALLEGARI LTDA.	Par	Cuatricromia	Generales	17x6	27	285.498	Arte	Marcela Tello-ElDia	2017-12-17 00:00:00	
+146142	DIARIO EL DIA	Par	Cuatricromia	Generales	17x6	28	0	Arte	Marcela Tello-ElDia	2017-12-17 00:00:00	
+145946	ASOCIACION DE EXPORTADORES DE FRUTA	Par	Blanco y negro	Generales	10x3	29	164.790	Arte	Pedro Jaime	2017-12-17 00:00:00	
+146143	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	29	0	Arte	Marcela Tello-ElDia	2017-12-17 00:00:00	
+146116	SOC. AGRICOLA HACIENDA MANANTIALES	Par	Cuatricromia	Generales	10x2	30	115.353	Arte	Karina Rivera	2017-12-17 00:00:00	
+146174	CAMAL MUSALEM TAPIA Y CIA.	Par	Cuatricromia	Generales	34x4	30	380.664	Arte	Marcela Tello-ElDia	2017-12-17 00:00:00	
+146072	VERITAS PUBLICIDAD S.A.	Impar	Cuatricromia	Generales	17x6	31	146.071	Arte	Jacqueline Torres	2017-12-17 00:00:00	
+142256	PILLA LA VACA	Par	Blanco y negro	Generales	5x2	33	0	Arte	Marcela Tello-ElDia	2017-12-17 00:00:00	
+142317	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	33	0	Arte	Marcela Tello-ElDia	2017-12-17 00:00:00	
+142819	LAS GREDAS LTDA.	Par	Blanco y negro	Generales	5x2	33	20.378	Arte	Jacqueline Torres	2017-12-17 00:00:00	
+144732	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	4x5	33	20.508	Arte	Miguel Apey	2017-12-17 00:00:00	
+145104	CONSTRUCTORA CADEL LTDA.	Par	Cuatricromia	Generales	17x6	34	0	Arte	Rene Pizarro	2017-12-17 00:00:00	
+146093	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	10x2	35	56.700	Arte	Medios Regionales	2017-12-17 00:00:00	
+146131	CONSTRUCTORA MAP LTDA.	Par	Blanco y negro	Generales	10x2	35	57.200	Arte	Claudio Romero	2017-12-17 00:00:00	
+146132	INMOBILIARIA SERENA S.A.	Par	Blanco y negro	Generales	10x2	35	57.200	Arte	Claudio Romero	2017-12-17 00:00:00	
+146173	AGENCIA PUBLICITARIA OREL ALI E.I.R	Par	Cuatricromia	Generales	17x6	36	0	Arte	Marcela Tello-ElDia	2017-12-17 00:00:00	
+143012	CENTRO DE EDUC.CAP.Y FORMACION LABO	Par	Blanco y negro	Generales	5x2	37	4.666	Arte	Jacqueline Torres	2017-12-17 00:00:00	
+144910	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	5x2	37	0	Arte	Miguel Apey	2017-12-17 00:00:00	
+146125	SOC. EDUCACIONAL ANGELUS LTDA.	Par	Blanco y negro	Generales	5x2	37	54.930	Arte	Rene Pizarro	2017-12-17 00:00:00	
+145877	UNIVERSIDAD CATOLICA DEL NORTE	Par	Blanco y negro	Generales	12x2	38	98.874	Arte	Miguel Apey	2017-12-17 00:00:00	
+146065	MOLINERA COQUIMBO	Par	Blanco y negro	Generales	8x2	38	47.925	Arte	Heinger Vega Torres	2017-12-17 00:00:00	
+146159	HABITA INMOBILIARIA SA	Par	Blanco y negro	Generales	20x2	38	197.748	Arte	Miguel Apey	2017-12-17 00:00:00	
+145419	MARTIN JURE PATRICIA	Par	Cuatricromia	Generales	12x3	40	0	Arte	Marcela Tello-ElDia	2017-12-17 00:00:00	
+145238	CAMPOS DEL NORTE S.A.	Impar	Cuatricromia	Generales	17x6	41	611.833	Arte	Patricia Villena	2017-12-17 00:00:00	
+146124	SOC. EDUCACIONAL ANDRES BELLO LTDA.	Par	Blanco y negro	Generales	34x6	42	728.372	Arte	Pedro Jaime	2017-12-17 00:00:00	
+142923	SERVICIOS GENERALES GUAYACAN S.A	Par	Blanco y negro	Generales	4x2	45	4.264	Arte	Jacqueline Torres	2017-12-17 00:00:00	
+145959	VELIZ CORTES JOSE A.	Par	Blanco y negro	Generales	3x2	45	13.403	Arte	Pedro Cortes	2017-12-17 00:00:00	
+146171	SOC. EDUCACIONAL MIGUEL DE CERVANTE	Par	Blanco y negro	Generales	12x2	45	146.171	Arte	Jacqueline Torres	2017-12-17 00:00:00	
+145195	INMOBILIARIA ELQUI S.A.	Impar	Cuatricromia	Contraportada	35x6	48	900.000	Arte	M Cristina Puga	2017-12-17 00:00:00	
+145944	OXIDO CREATIVE STUDIO	Par	Cuatricromia	Generales	35x6	CEN	584.454	Arte	Miguel Apey	2017-12-17 00:00:00	
+145945	UNIVERSIDAD CATOLICA DEL NORTE	Par	Cuatricromia	Generales	35x6	CEN	1.179.063	Arte	Miguel Apey	2017-12-17 00:00:00	
+144930	INMOBIL. E INVERSIONES AREYUNA E HI	Par	Cuatricromia	Generales	12x6	EC01	326.680	Arte	Claudio Romero	2017-12-17 00:00:00	
+146017	AUTOMOTRIZ CARMONA	Par	Cuatricromia	Generales	35x6	EC02	350.000	Arte	Pedro Cortes	2017-12-17 00:00:00	
+124044	HOTELERIA LUIS ALBERTO BERETTA KIEK	Par	Blanco y negro	Generales	5x2	EC03	6.061	Arte	Patricia Villena	2017-12-17 00:00:00	
+146141	DIARIO EL DIA	Par	Blanco y negro	Generales	7x2	EC04	76.902	Arte	Pedro Jaime	2017-12-17 00:00:00	
+146139	KARIN ALEJANDRA GUTIERREZ TRUJILLO	Par	Blanco y negro	Generales	7x2	EC05	76.902	Arte	Pedro Jaime	2017-12-17 00:00:00	
+146100	HIDROCENTRO LTDA.	Par	Blanco y negro	Generales	4x2	EC06	43.944	Arte	Pedro Jaime	2017-12-17 00:00:00	
+146121	CIA. DE LEASING TATTERSALL S.A.	Par	Blanco y negro	Generales	11x2	EC07	96.677	Arte	Pedro Jaime	2017-12-17 00:00:00	
+146123	ESCUELA INDUSTRIAL SALESIANOS SAN R	Par	Blanco y negro	Generales	6x2	EC08	65.916	Arte	Pedro Jaime	2017-12-17 00:00:00	
+146086	CORP. COLEGIO ALEMAN DE ELQUI	Par	Blanco y negro	Generales	4x2	EC09	43.944	Arte	Pedro Jaime	2017-12-17 00:00:00	
+146167	SANTANDER G.R.C.	Par	Blanco y negro	Generales	10x2	EC10	83.824	Arte	Pedro Jaime	2017-12-17 00:00:00	
+146172	MLF MAQUINARIA Y EQUIPOS LTDA.	Par	Blanco y negro	Generales	7x2	EC11	76.902	Arte	Pedro Jaime	2017-12-17 00:00:00	
+146085	CORP. COLEGIO ALEMAN DE ELQUI	Par	Blanco y negro	Generales	3x2	EC12	32.958	Arte	Pedro Jaime	2017-12-17 00:00:00	
+145921	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	10x2	EC13	56.700	Arte	Medios Regionales	2017-12-17 00:00:00	
+145940	OSVALDO ESPEJO	Par	Blanco y negro	Generales	4x2	EC14	43.944	Arte	Pedro Jaime	2017-12-17 00:00:00	
+142049	CERNA E HIJOS CIA. LTDA.	Par	Blanco y negro	Generales	5x1	EC15	3.574	Arte	Nadia Randolph	2017-12-17 00:00:00	
+145841	CONSTRUCCIONES ALBERTO A.MOUKARZEP 	Par	Blanco y negro	Generales	3x2	EC16	32.958	Arte	Pedro Jaime	2017-12-17 00:00:00	
+145042	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Economico	5x2	EC17	15.161	Arte	Rene Pizarro	2017-12-17 00:00:00	
+146062	CONSTRUCTORA PRODELCA S.A.	Par	Blanco y negro	Generales	7x2	EC18	76.902	Arte	Pedro Jaime	2017-12-17 00:00:00	
+146068	SANTANDER G.R.C.	Par	Blanco y negro	Generales	10x2	EC19	83.824	Arte	Pedro Jaime	2017-12-17 00:00:00	
+143130	INMOBILIARIA JCE S.A	Impar	Blanco y negro	Generales	5x1	EC20	21.423	Arte	M Cristina Puga	2017-12-17 00:00:00	
+144617	INVERSIONES VEINTINUEVE GRADOS	Par	Blanco y negro	Economico	10x2	EC21	29.663	Arte	Jacqueline Torres	2017-12-17 00:00:00	
+145658	GASCO GLP S.A.		9 a 24 pag.	Inserto	x	INS	1.600.000	Arte	Patricia Villena	2017-12-17 00:00:00	
+131240	SOCIEDAD MEDICA Y CONSULTORA ESTETI		Cuatricromia	Guia	5x2	VS	16.666	Arte	Maria_Amelia Hermosilla	2017-12-17 00:00:00	
+131435	MARIA CECILIA GONZALEZ RIVERA		Cuatricromia	Guia	5x2	VS	16.666	Arte	Maria_Amelia Hermosilla	2017-12-17 00:00:00	
+132168	ROBINSON LENIN MARIN PIZARRO		Cuatricromia	Guia	5x2	VS	16.666	Arte	Maria_Amelia Hermosilla	2017-12-17 00:00:00	
+132240	SERVICIO ODONTOLOGICO JAIME MAURICI		Cuatricromia	Guia	5x2	VS	16.666	Arte	Maria_Amelia Hermosilla	2017-12-17 00:00:00	
+132363	SOC. MEDICA E INVERSIONES MOL Y MOL		Cuatricromia	Guia	5x2	VS	16.666	Arte	Maria_Amelia Hermosilla	2017-12-17 00:00:00	
+133072	MARIA CATALINA JULIA GARAU		Cuatricromia	Guia	5x2	VS	16.666	Arte	Maria_Amelia Hermosilla	2017-12-17 00:00:00	
+133218	LASER PIEL		Cuatricromia	Guia	5x2	VS	16.666	Arte	Maria_Amelia Hermosilla	2017-12-17 00:00:00	
+133414	SERVICIO DE CIRUGIA LASER LIMITADA		Cuatricromia	Guia	5x2	VS	16.666	Arte	Maria_Amelia Hermosilla	2017-12-17 00:00:00	
+134476	SOCIEDAD FLOR DEL CIRUELO LTDA.		Cuatricromia	Guia	5x2	VS	16.666	Arte	Marcela Tello-ElDia	2017-12-17 00:00:00	
+134927	CENTRO OFTALMOLOGICO PASTEUR IV REG		Cuatricromia	Guia	5x2	VS	16.666	Arte	Maria_Amelia Hermosilla	2017-12-17 00:00:00	
+136767	SERVICIOS MEDICOS SANTA VALENTINA L		Cuatricromia	Guia	5x2	VS	16.666	Arte	Maria_Amelia Hermosilla	2017-12-17 00:00:00	
+137414	GIANNINA POMAROLLI RIZZOLI		Cuatricromia	Guia	5x2	VS	16.666	Arte	Maria_Amelia Hermosilla	2017-12-17 00:00:00	
+138670	LILIANA SANABRIA POVEDA		Cuatricromia	Guia	5x2	VS	16.666	Arte	Maria_Amelia Hermosilla	2017-12-17 00:00:00	
+138699	SERVICIOS MEDICOS E INMOBILIAR NAXA		Cuatricromia	Guia	10x2	VS	33.333	Arte	Maria_Amelia Hermosilla	2017-12-17 00:00:00	
+138724	EDGAR QUEVEDO TORRES		Cuatricromia	Guia	5x2	VS	16.666	Arte	Maria_Amelia Hermosilla	2017-12-17 00:00:00	
+139212	SOCIEDAD MEDICA Y ODONTOLOGICA LOS 		Cuatricromia	Guia	10x2	VS	33.333	Arte	Maria_Amelia Hermosilla	2017-12-17 00:00:00	
+139513	CENTRO DE ESTETICA INTEGRAL MI ESPA		Cuatricromia	Guia	10x2	VS	33.333	Arte	Maria_Amelia Hermosilla	2017-12-17 00:00:00	
+141691	SERVICIO DE CIRUGIA LASER LIMITADA		Cuatricromia	Guia	5x2	VS	16.666	Arte	Maria_Amelia Hermosilla	2017-12-17 00:00:00	
+143850	SALUD MENTAL MEDICINA TRADICIONAL C		Cuatricromia	Guia	5x2	VS	16.666	Arte	Maria_Amelia Hermosilla	2017-12-17 00:00:00	
+145552	DIARIO EL DIA	Par	Blanco y negro	Generales	35x6	XX	0	Publicado	Carolina Naranjo	2017-12-17 00:00:00	

@@ -1,0 +1,16 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+138129	CENTRO DE SALUD PORTALES LTDA	Par	Cuatricromia	Generales	6x6	01	25.000	Publicado	Karina Rivera	SALUD, BIENESTAR Y CALIDAD DE VIDA A TU ALCANCE	2017-9-6 00:00:00	
+137271	OVALLE CASINO RESORT S.A	Par	Cuatricromia	Generales	25x4	03	0	Publicado	Paola Marquez	OCR Eventos sept.	2017-9-6 00:00:00	
+138249	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	7x3	06	0	Arte	Marcela Tello-ElDia	Dabed - Exije tu ejemplar...	2017-9-6 00:00:00	
+137658	INMOBILIARIA NUEVA SERENA			UIP	10x6	07	16.260	Publicado	Claudio Romero	proyecto empresa serena...(ovalle)	2017-9-6 00:00:00	
+137596	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	6x6	08	0	Publicado	Claudio Romero	Muebles Alpina	2017-9-6 00:00:00	
+138084	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x3	09	0	Publicado	Marcela Tello-ElDia	Vea en Cinemark - IT (Eso)	2017-9-6 00:00:00	
+138015	ESTUDIO JURIDICO OLIVARES Y CIA. SP	Par	Blanco y negro	Generales	5x2	10	2.000	Publicado	Jacqueline Torres	ESTUDIO JURIDICO OLIVARES	2017-9-6 00:00:00	
+137446	JACQUELINE JOFRE VILLANUEVA			UIP	5x2	10	2.808	Publicado	Karina Rivera	CORTINAS ROLLER OVALLE	2017-9-6 00:00:00	
+137201	TEODORO AGUIRRE ALVAREZ			UIP	5x2	10	2.808	Publicado	Karina Rivera	REGIONALISTA VERDE SOCIAL	2017-9-6 00:00:00	
+137770	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	11	0	Arte	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2017-9-6 00:00:00	
+137258	EMPRESA PERIODISTICA EL NORTE S.A.	Par	Blanco y negro	Medios Regionales	10x4	12	57.800	Publicado	Medios Regionales		2017-9-6 00:00:00	
+138094	GOTTREUX SALAS RUBEN	Par	Blanco y negro	Generales	15x3	13	71.214	Publicado	Karina Rivera	REMATE JUDICIAL DE VEHICULOS Y ESPECIES EN OVALLE	2017-9-6 00:00:00	
+136362	FERNANDO YOANOVICH			UIP	5x2	13	2.247	Publicado	Karina Rivera	TAROT SRA SOFIA	2017-9-6 00:00:00	
+136600	VELIZ CORTES JOSE A.			UIP	5x2	14	3.919	Publicado	Pedro Cortes		2017-9-6 00:00:00	
+138230	DABED Y CIA. LTDA., SELIM	Par	Cuatricromia	Generales	6x6	14	23.076	Publicado	Karina Rivera	O3	2017-9-6 00:00:00	

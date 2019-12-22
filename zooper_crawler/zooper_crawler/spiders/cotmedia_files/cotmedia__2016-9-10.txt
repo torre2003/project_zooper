@@ -1,0 +1,71 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+111506	COMERCIAL CHRYSLER S.A.	Impar	Cuatricromia	Generales	35x6	05	750.000	Publicado	Kathine Soto-Stgo	2016-9-10 00:00:00	
+111570	CARAT CHILE S.A.	Impar	Cuatricromia	Generales	17x6	07	300.000	Publicado	Kathine Soto-Stgo	2016-9-10 00:00:00	
+111522	CENCOSUD RETAIL S.A.	Impar	Cuatricromia	Generales	35x6	09	600.000	Publicado	Patricia Villena	2016-9-10 00:00:00	
+111496	INMOBILIARIA ELQUI S.A.	Par	Cuatricromia	Generales	17x3	10	223.555	Publicado	M Cristina Puga	2016-9-10 00:00:00	
+111631	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	10	0	Arte	Marcela Tello-ElDia	2016-9-10 00:00:00	
+110460	SONIA NATALIA TUPAYACHI MU?OZ	Par	Blanco y negro	Generales	13x3	11	0	Publicado	Marcela Tello-ElDia	2016-9-10 00:00:00	
+111567	CURIFOR S.A.	Impar	Blanco y negro	Generales	17x3	11	199.000	Publicado	Pedro Jaime	2016-9-10 00:00:00	
+111632	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	12	0	Arte	Marcela Tello-ElDia	2016-9-10 00:00:00	
+111497	INMOBILIARIA ELQUI S.A.	Par	Cuatricromia	Generales	17x3	12	223.555	Publicado	M Cristina Puga	2016-9-10 00:00:00	
+111375	CENCOSUD RETAIL S.A.	Impar	Cuatricromia	Generales	35x6	13	650.000	Publicado	Kathine Soto-Stgo	2016-9-10 00:00:00	
+111564	SERV. VIVIENDA Y URBANIZACION IV RE	Par	Blanco y negro	Generales	10x2	14	58.989	Publicado	Marcela Tello-ElDia	2016-9-10 00:00:00	
+111565	SERV. VIVIENDA Y URBANIZACION IV RE	Par	Blanco y negro	Generales	10x2	14	58.989	Publicado	Marcela Tello-ElDia	2016-9-10 00:00:00	
+111563	SERV. VIVIENDA Y URBANIZACION IV RE	Par	Blanco y negro	Generales	10x2	14	58.989	Publicado	Marcela Tello-ElDia	2016-9-10 00:00:00	
+111557	CALLEGARI LTDA.	Par	Cuatricromia	Generales	34x6	15	570.996	Publicado	Marcela Tello-ElDia	2016-9-10 00:00:00	
+110927	CAI GESTION INMOBILIARIA	Impar	Cuatricromia	Generales	35x6	17	965.736	Publicado	Patricia Villena	2016-9-10 00:00:00	
+111261	OVALLE CASINO RESORT S.A	Par	Cuatricromia	Generales	6x6	18	33.000	Publicado	Paola Marquez	2016-9-10 00:00:00	
+111542	SOCIEDAD COMERCIAL DE VEHICULOS S.A	Impar	Cuatricromia	Generales	17x6	19	360.825	Publicado	Kathine Soto-Stgo	2016-9-10 00:00:00	
+111633	DIARIO EL DIA	Par	Cuatricromia	Generales	12x6	20	0	Arte	Marcela Tello-ElDia	2016-9-10 00:00:00	
+111507	AUTOMOTORES GILDEMEISTER S.A.	Impar	Cuatricromia	Generales	25x5	21	751.718	Publicado	Kathine Soto-Stgo	2016-9-10 00:00:00	
+110290	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	23	8.306	Publicado	Miguel Apey	2016-9-10 00:00:00	
+111069	DIARIO EL DIA	Par	Blanco y negro	Generales	5x2	23	0	Publicado	Marcela Tello-ElDia	2016-9-10 00:00:00	
+110415	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	5x2	23	0	Publicado	Miguel Apey	2016-9-10 00:00:00	
+111076	DIARIO EL DIA	Par	Blanco y negro	Generales	5x2	23	0	Publicado	Marcela Tello-ElDia	2016-9-10 00:00:00	
+110652	INMOBILIARIA RENVAL SPA	Par	Cuatricromia	Generales	25x4	24	471.666	Publicado	Rene Pizarro	2016-9-10 00:00:00	
+109959	SERVICIO NACIONAL DE MENORES	Par	Cuatricromia	Generales	35x6	25	841.924	Publicado	Jacqueline Torres	2016-9-10 00:00:00	
+108445	CERNA E HIJOS CIA. LTDA.	Par	Blanco y negro	Generales	5x1	26	4.468	Publicado	Nadia Randolph	2016-9-10 00:00:00	
+111109	AREVALO CARMEN 			UIP	5x1	26	8.937	Publicado	Pedro Jaime	2016-9-10 00:00:00	
+109840	SOC. DE GES			UIP	5x1	26	8.937	Publicado	Miguel Apey	2016-9-10 00:00:00	
+107444	INV. GASTRONOMICAS PATRICIA TORO EI	Par	Blanco y negro	Generales	5x2	26	8.973	Publicado	Nadia Randolph	2016-9-10 00:00:00	
+110560	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	26	0	Publicado	Marcela Tello-ElDia	2016-9-10 00:00:00	
+110580	PILLA LA VACA	Par	Blanco y negro	Generales	5x2	26	0	Publicado	Marcela Tello-ElDia	2016-9-10 00:00:00	
+110829	ARMAQ			UIP	5x1	26	8.937	Publicado	Claudio Romero	2016-9-10 00:00:00	
+110690	SERVICIOS GASTRON?MICOS LA CASONA D	Par	Blanco y negro	Generales	5x2	26	10.725	Publicado	Miguel Apey	2016-9-10 00:00:00	
+110320	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	4x5	26	20.508	Publicado	Miguel Apey	2016-9-10 00:00:00	
+111256	WALMART CHILE COMERCIAL LTDA.	Impar	Cuatricromia	Generales	17x6	27	300.000	Publicado	M Cristina Puga	2016-9-10 00:00:00	
+109904	DIARIO EL DIA	Par	Cuatricromia	Generales	12x6	34	0	Publicado	Marcela Tello-ElDia	2016-9-10 00:00:00	
+110494	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	35	0	Publicado	Marcela Tello-ElDia	2016-9-10 00:00:00	
+110278	BAKULIC RESTAURANT	Par	Cuatricromia	Generales	15x3	36	40.092	Publicado	Miguel Apey	2016-9-10 00:00:00	
+106985	SOC.COMERCIAL ALTOS LA SERENA LTDA	Par	Blanco y negro	Generales	5x2	36	8.973	Publicado	Nadia Randolph	2016-9-10 00:00:00	
+110447	DIARIO EL DIA	Par	Blanco y negro	Generales	35x6	38	0	Publicado	Carolina Naranjo	2016-9-10 00:00:00	
+92910	INMOBILIARIA POCURO LTDA.	Impar	Cuatricromia	Generales	17x6	41	0	Publicado	Jacqueline Torres	2016-9-10 00:00:00	
+111653	INMOBIL. LA SERENA GOLF S.A.	Impar	Cuatricromia	Generales	17x6	43	288.975	Publicado	Patricia Villena	2016-9-10 00:00:00	
+111383	DIARIO EL DIA	Par	Cuatricromia	Generales	34x6	44	0	Publicado	Marcela Tello-ElDia	2016-9-10 00:00:00	
+111198	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Cuatricromia	Medios Regionales	16x6	45	327.488	Publicado	Medios Regionales	2016-9-10 00:00:00	
+110128	SERVICIOS GENERALES GUAYACAN S.A	Par	Blanco y negro	Generales	4x2	46	6.666	Publicado	Jacqueline Torres	2016-9-10 00:00:00	
+109457	VELIZ CORTES JOSE A.	Par	Blanco y negro	Generales	3x2	46	13.403	Publicado	Pedro Cortes	2016-9-10 00:00:00	
+110806	BANCO FALABELLA	Impar	Cuatricromia	Generales	35x6	48	600.000	Publicado	M Cristina Puga	2016-9-10 00:00:00	
+111659	CIA. DE LEASING TATTERSALL S.A.	Par	Blanco y negro	Generales	11x2	EC-29	69.487	Publicado	Pedro Jaime	2016-9-10 00:00:00	
+111553	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	8x2	EC-30	37.808	Arte	Medios Regionales	2016-9-10 00:00:00	
+108858	HOTELERIA LUIS ALBERTO BERETTA KIEK	Par	Blanco y negro	Generales	5x2	EC-31	6.994	Publicado	Patricia Villena	2016-9-10 00:00:00	
+110608	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Generales	5x1	EC-31	5.860	Publicado	Rene Pizarro	2016-9-10 00:00:00	
+111713	DIARIO EL DIA	Par	Cuatricromia	Generales	17x6	EC-31	0	Arte	Marcela Tello-ElDia	2016-9-10 00:00:00	
+111521	SCOTIABANK CHILE S.A.	476 Palabras		Legal	x	EC-32	118.151	Publicado	Pedro Jaime	2016-9-10 00:00:00	
+111533	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	10x2	EC-32	47.260	Arte	Medios Regionales	2016-9-10 00:00:00	
+111656	BANCO DE CHILE	675 Palabras		Legal	x	EC-32	167.563	Publicado	Pedro Jaime	2016-9-10 00:00:00	
+111249	BANCO DE CREDITO E INVERSIONES	Par	Blanco y negro	Generales	13x1	EC-32	47.754	Publicado	Pedro Jaime	2016-9-10 00:00:00	
+110649	INMOBIL. SANTA CATALINA E.I.R.L.	Par	Cuatricromia	Ed.Especial	17x6	IMB	481.099	Publicado	Rene Pizarro	2016-9-10 00:00:00	
+110800	HABITA INMOBILIARIA SA	Par	Cuatricromia	Generales	35x6	IMB	900.000	Publicado	Miguel Apey	2016-9-10 00:00:00	
+110804	INVERSIONES E INMOBILIARIA P.A.T.  	Par	Cuatricromia	Generales	17x6	IMB	450.000	Publicado	Miguel Apey	2016-9-10 00:00:00	
+110807	INMOBILIARIA OVCO	Par	Cuatricromia	Generales	17x6	IMB	450.000	Publicado	Miguel Apey	2016-9-10 00:00:00	
+111029	ASESORIAS EN COMPRAVENTA DE INMUEBL	Par	Cuatricromia	Generales	17x6	IMB	390.893	Publicado	Miguel Apey	2016-9-10 00:00:00	
+110911	FUNDACION INVICA	Par	Cuatricromia	Ed.Especial	34x6	IMB	850.000	Publicado	Rene Pizarro	2016-9-10 00:00:00	
+110914	SOC. INMOBILIARIA E INVERSIONES CHI	Par	Cuatricromia	Generales	17x6	IMB	500.000	Publicado	Claudio Romero	2016-9-10 00:00:00	
+110916	CONSTRUCTORA DESCO S.A	Par	Cuatricromia	Ed.Especial	17x6	IMB	450.000	Publicado	Jacqueline Torres	2016-9-10 00:00:00	
+110994	INMOBIL. E INVERSIONES AREYUNA E HI	Impar	Cuatricromia	Generales	25x4	IMB	550.000	Publicado	Claudio Romero	2016-9-10 00:00:00	
+111028	CONSTRUCTORA SAMCO LTDA	Par	Cuatricromia	Generales	17x6	IMB	390.893	Publicado	Miguel Apey	2016-9-10 00:00:00	
+111038	INMOBILIARIA GUCAM LTDA.	Par	Cuatricromia	Ed.Especial	35x6	IMB	850.000	Publicado	Jacqueline Torres	2016-9-10 00:00:00	
+111056	INMOBILIARIA VIVIENDAS 2000 LIMITAD	Par	Cuatricromia	Ed.Especial	35x6	IMB	854.305	Publicado	Jacqueline Torres	2016-9-10 00:00:00	
+110808	INMOBILIARIA OVCO	Par	Cuatricromia	Generales	17x6	IMB	450.000	Publicado	Miguel Apey	2016-9-10 00:00:00	
+111243	COMERCIAL E.C.C.S.A.  S.A.		9 a 24 pag.	Inserto	x	INS	459.000	Publicado	M Cristina Puga	2016-9-10 00:00:00	

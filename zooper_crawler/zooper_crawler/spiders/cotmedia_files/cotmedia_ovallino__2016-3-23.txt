@@ -1,0 +1,9 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+97956	SOCIEDAD DE RENTAS FALABELLA S.A	Par	Cuatricromia	Generales	8x6	01	50.980	Publicado	M Cristina Puga	Open plazs	2016-3-23 00:00:00	
+97791	AUTOMOTRIZ CARMONA	Par	Cuatricromia	Generales	6x6	03	23.076	Publicado	Marcela Tello-ElDia	Nissan Versa - Portada (si hay disponibilidad)	2016-3-23 00:00:00	
+97917	parques			UIP	10x2	05	9.765	Publicado	Rene Pizarro	Tu tranquilidad Familiar...Parque de Ovalle ....Parques de Chile	2016-3-23 00:00:00	
+98172	AGRICOLA NORTE TALINAY LTDA	Par	Blanco y negro	Generales	5x2	05	1.667	Publicado	Paola Marquez	UIP VENTA ALFALFA	2016-3-23 00:00:00	
+98346	EMPRESA PERIODISTICA EL NORTE S.A.	Par	Blanco y negro	Medios Regionales	6x2	05	17.340	Arte	Medios Regionales	Empresa Periodistica El Norte - Extracto - (53203)	2016-3-23 00:00:00	
+97105	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	6x6	06	0	Publicado	Claudio Romero	Muebles Alpina	2016-3-23 00:00:00	
+96827	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	07	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2016-3-23 00:00:00	
+98452	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x6	14	0	Arte	Marcela Tello-ElDia		2016-3-23 00:00:00	

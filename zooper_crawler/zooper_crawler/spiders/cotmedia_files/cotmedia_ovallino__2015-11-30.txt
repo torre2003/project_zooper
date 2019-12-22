@@ -1,0 +1,10 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+84108	ILUSTRE MUNICIPALIDAD DE OVALLE	Impar	Cuatricromia	Generales	6x6	03	83.333	Publicado	Italo Retamal	festival de cine 	2015-11-30 00:00:00	
+87972	AUTOMOTRIZ CARMONA	Par	Cuatricromia	Generales	17x3	04	23.088	Publicado	Marcela Tello-ElDia	Nissan - Servicio Gratuito en Automotriz Carmona	2015-11-30 00:00:00	
+89333	JUAN CARLOS AQUEZ JILES	Par	Blanco y negro	Generales	5x2	05	1.429	Publicado	Italo Retamal	Capacitaciones 	2015-11-30 00:00:00	
+89520	PAMELA HARDER SANTOS	Par	Blanco y negro	Generales	5x2	05	1.428	Publicado	Italo Retamal	venta de casa harder	2015-11-30 00:00:00	
+90106	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	12x6	06	0	Publicado	Marcela Tello-ElDia	AVANT PREMIERE MOBY DICK	2015-11-30 00:00:00	
+87710	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	10x3	07	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2015-11-30 00:00:00	
+88710	ADA D?AZ ARAYA	Par	Blanco y negro	Generales	5x2	07	1.428	Publicado	Italo Retamal	zona ganjah	2015-11-30 00:00:00	
+87325	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	6x6	08	16.065	Publicado	Claudio Romero	Muebles Alpina	2015-11-30 00:00:00	
+89094	RIO L			UIP	10x6	09	16.260	Publicado	Claudio Romero	PROYECTO MIRADOR OVALLE..	2015-11-30 00:00:00	

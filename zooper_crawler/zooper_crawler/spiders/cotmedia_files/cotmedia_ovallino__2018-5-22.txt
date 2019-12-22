@@ -1,0 +1,5 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+154974	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	06	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2018-5-22 00:00:00	
+156405	EMPRESA PERIODISTICA EL NORTE S.A.	Par	Blanco y negro	Medios Regionales	8x2	08	24.272	Arte	Medios Regionales	BBVA - Rol C-8765-2016 - (77116)	2018-5-22 00:00:00	
+156459	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	12x6	09	0	Arte	Marcela Tello-ElDia	Vive la experiencia de estar bien informado...	2018-5-22 00:00:00	
+156460	PRENSA DEL LIMARI LTDA.	Par	Blanco y negro	Generales	8x6	15	0	Arte	Marcela Tello-ElDia		2018-5-22 00:00:00	

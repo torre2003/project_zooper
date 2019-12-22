@@ -1,0 +1,12 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+146073	VERITAS PUBLICIDAD S.A.	Impar	Cuatricromia	Generales	17x6	03	544.387	Publicado	Jacqueline Torres		2017-12-16 00:00:00	
+145616	INMOBILIARIA NUEVA SERENA			UIP	10x6	05	16.260	Publicado	Claudio Romero	LLANOS DE SAN LUIS..DEPARTAMENTOS..	2017-12-16 00:00:00	
+145679	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	06	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2017-12-16 00:00:00	
+136057	INVERSIONES TANGUEMAR LIMITADA			UIP	5x2	07	2.812	Publicado	Patricia Villena	Tanguemar	2017-12-16 00:00:00	
+145594	LUIS MUNDACA URQUIETA			UIP	10x2	07	5.630	Publicado	Claudio Romero		2017-12-16 00:00:00	
+144404	AGRICOLA NORTE TALINAY LTDA	Par	Blanco y negro	Generales	5x2	07	1.666	Publicado	Paola Marquez	UIP VENTA ALFALFA	2017-12-16 00:00:00	
+145640	UNIVERSIDAD BOLIVARIANA			UIP	10x2	08	7.882	Publicado	Karina Rivera	BENEFICIOS U.  BOIVARIANA V. CENTRAL	2017-12-16 00:00:00	
+145235	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Cuatricromia	Medios Regionales	10x3	09	115.603	Publicado	Medios Regionales		2017-12-16 00:00:00	
+145865	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x6	11	0	Publicado	Marcela Tello-ElDia	Vota completa cobertura - Segunda vuelta...	2017-12-16 00:00:00	
+145987	VELIZ CORTES JOSE A.			UIP	5x2	14	4.695	Publicado	Pedro Cortes		2017-12-16 00:00:00	
+145926	FALABELLA RETAIL S.A.	Impar	Cuatricromia	Generales	35x6	16	400.000	Publicado	M Cristina Puga	SIBILLA /PRIMERA IMPAR  O CONTRACOLOR	2017-12-16 00:00:00	

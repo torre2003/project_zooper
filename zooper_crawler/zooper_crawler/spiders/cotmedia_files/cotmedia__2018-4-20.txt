@@ -1,0 +1,41 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+152959	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	5x2	04	0	Publicado	Miguel Apey	2018-4-20 00:00:00	
+154496	ARZOBISPADO DE LA SERENA	Par	Blanco y negro	Generales	5x2	04	0	Publicado	Marcela Tello-ElDia	2018-4-20 00:00:00	
+154509	DIARIO EL DIA	Par	Blanco y negro	Generales	5x2	04	0	Publicado	Marcela Tello-ElDia	2018-4-20 00:00:00	
+154434	DIARIO EL DIA	Par	Blanco y negro	Generales	5x2	04	0	Publicado	Marcela Tello-ElDia	2018-4-20 00:00:00	
+154524	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	10x2	04	45.660	Publicado	Medios Regionales	2018-4-20 00:00:00	
+153907	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	6x2	04	27.396	Publicado	Medios Regionales	2018-4-20 00:00:00	
+153705	SODIMAC	Impar	Cuatricromia	Generales	35x6	05	594.299	Publicado	M Cristina Puga	2018-4-20 00:00:00	
+154523	CLARO CHILE S.A.	Impar	Cuatricromia	Generales	35x6	07	646.000	Publicado	Kathine Soto-Stgo	2018-4-20 00:00:00	
+153104	ARMAQ SUBIRI S.A.			UIP	5x1	08	8.937	Publicado	Claudio Romero	2018-4-20 00:00:00	
+154344	CERNA E HIJOS CIA. LTDA.	Par	Blanco y negro	Generales	5x1	08	3.566	Publicado	Nadia Randolph	2018-4-20 00:00:00	
+152823	SOC. DE GES			UIP	5x1	08	8.937	Publicado	Miguel Apey	2018-4-20 00:00:00	
+152794	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	4x5	08	20.508	Publicado	Miguel Apey	2018-4-20 00:00:00	
+153377	C.M. SOC. GASTRONOMICA LTDA.			UIP	5x2	08	7.208	Publicado		2018-4-20 00:00:00	
+154502	HIPERMERCADOS TOTTUS S.A	Impar	Cuatricromia	Generales	35x6	09	594.299	Publicado	M Cristina Puga	2018-4-20 00:00:00	
+152750	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	11	8.306	Publicado	Miguel Apey	2018-4-20 00:00:00	
+154338	TOYOTA CHILE S.A.	Impar	Cuatricromia	Generales	17x6	11	350.000	Publicado	Kathine Soto-Stgo	2018-4-20 00:00:00	
+154311	ADMINISTRADORA CLUB DE GOLF LA SERE	Par	Blanco y negro	Generales	13x3	12	114.255	Publicado	Patricia Villena	2018-4-20 00:00:00	
+153920	DIARIO EL DIA	Par	Cuatricromia	Generales	6x3	16	0	Publicado	Marcela Tello-ElDia	2018-4-20 00:00:00	
+154252	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	16	0	Publicado	Marcela Tello-ElDia	2018-4-20 00:00:00	
+154260	OMD CHILE S.P.A.	Impar	Cuatricromia	Generales	17x6	17	336.535	Publicado	Patricia Villena	2018-4-20 00:00:00	
+153293	PILLA LA VACA	Par	Cuatricromia	Generales	5x2	22	0	Publicado	Marcela Tello-ElDia	2018-4-20 00:00:00	
+153307	MARTIN JURE PATRICIA	Par	Cuatricromia	Generales	5x3	22	0	Publicado	Marcela Tello-ElDia	2018-4-20 00:00:00	
+153191	SOC. HOTELERA VICHUQUEN LTDA.	Par	Cuatricromia	Generales	5x3	22	0	Publicado	Marcela Tello-ElDia	2018-4-20 00:00:00	
+153212	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	22	0	Publicado	Marcela Tello-ElDia	2018-4-20 00:00:00	
+153275	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	22	0	Publicado	Marcela Tello-ElDia	2018-4-20 00:00:00	
+154522	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Cuatricromia	Medios Regionales	32x6	23	544.008	Publicado	Medios Regionales	2018-4-20 00:00:00	
+152552	COMERCIAL DUOMO LTDA.	Par	Cuatricromia	Generales	17x3	25	130.000	Publicado	Paola Marquez	2018-4-20 00:00:00	
+154296	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	26	0	Publicado	Marcela Tello-ElDia	2018-4-20 00:00:00	
+153488	CAMPOS DEL NORTE S.A.	Par	Cuatricromia	Generales	17x3	26	0	Publicado	Patricia Villena	2018-4-20 00:00:00	
+154129	UNIVERSIDAD TECNOLOGICA DE CHILE	Impar	Cuatricromia	Generales	35x6	27	968.966	Publicado	Patricia Villena	2018-4-20 00:00:00	
+153915	DIARIO EL DIA	Par	Cuatricromia	Generales	6x6	28	0	Publicado	Marcela Tello-ElDia	2018-4-20 00:00:00	
+154527	DIARIO EL DIA	Par	Blanco y negro	Generales	12x6	29	0	Publicado	Marcela Tello-ElDia	2018-4-20 00:00:00	
+154337	EMPRESAS LA POLAR S.A.	Impar	Cuatricromia	Generales	35x6	32	504.000	Publicado	Patricia Villena	2018-4-20 00:00:00	
+154341	HERMANAS FRANCISCANAS DE GANTE	Par	Blanco y negro	Generales	6x3	EC-18	65.916	Publicado	Pedro Jaime	2018-4-20 00:00:00	
+154313	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	6x2	EC-18	27.396	Publicado	Medios Regionales	2018-4-20 00:00:00	
+154272	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	8x2	EC-18	36.528	Publicado	Medios Regionales	2018-4-20 00:00:00	
+154513	DEL RIO VARELA JORGE	Par	Blanco y negro	Generales	13x2	EC-18	66.649	Publicado	Pedro Jaime	2018-4-20 00:00:00	
+153054	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Economico	5x2	EC-19	15.161	Publicado	Rene Pizarro	2018-4-20 00:00:00	
+152898	SOC. COMERCIAL VARGAS Y GIACOMET			UIP	5x1	EC-19	7.149	Publicado	Rene Pizarro	2018-4-20 00:00:00	
+152040	HOTELERIA LUIS ALBERTO BERETTA KIEK	Par	Blanco y negro	Generales	5x2	EC-19	6.061	Publicado	Patricia Villena	2018-4-20 00:00:00	

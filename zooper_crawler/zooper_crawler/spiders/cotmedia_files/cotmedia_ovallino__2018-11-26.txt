@@ -1,0 +1,10 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+169247	CAMPOS DEL NORTE S.A.	Par	Cuatricromia	Generales	5x6	01	23.333	Arte	Patricia Villena	Franja Enjoy Portada EL Ovallino	2018-11-26 00:00:00	
+170495	SOC. SERVICIOS TECNOLOGICOS Y TELCO			UIP	10x6	05	16.260	Arte	Claudio Romero	TELCONOR..AHORA EN OVALLE	2018-11-26 00:00:00	
+170357	OSVALDO PIZARRO	Par	Cuatricromia	Generales	7x2	06	3.931	Arte	Karina Rivera	CONSTRUCTOR CIVIL	2018-11-26 00:00:00	
+168561	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	08	0	Arte	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2018-11-26 00:00:00	
+168243	SOCIEDAD DE SERVICIOS MEDICOS E INV			UIP	17x2	09	8.403	Arte	Karina Rivera	CENTRO IMAGEN OVALLE	2018-11-26 00:00:00	
+169766	FUNERARIA ALVARO MAYA TABILO E.I.R.			UIP	5x2	09	3.931	Arte	Karina Rivera	FUNERARIA SANTA ROSA	2018-11-26 00:00:00	
+170414	INMOBILIARIA COSTA DORADA LTDA.			UIP	10x2	09	6.756	Arte	Karina Rivera	COSTA DORADA	2018-11-26 00:00:00	
+170429	CENTRO ESTETICA MATIZ LTDA.	Par	Blanco y negro	Generales	5x1	10	15.302	Arte	Paola Marquez	Matiz busca estilista	2018-11-26 00:00:00	
+170254	SOCIEDAD DE SERVICIOS MEDICOS E INV			UIP	17x2	XX	8.403	Arte	Karina Rivera	CENTRO IMAGEN OVALLE	2018-11-26 00:00:00	

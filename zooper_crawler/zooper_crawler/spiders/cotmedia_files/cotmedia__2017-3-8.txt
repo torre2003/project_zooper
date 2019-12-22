@@ -1,0 +1,36 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+124624	CHRISTIAN LAUNITZ MARIN SERVICIOS M	Par	Blanco y negro	Generales	8x2	04	0	Publicado	Heinger Vega Torres	2017-3-8 00:00:00	
+124602	BANCO ESTADO DE CHILE	Impar	Cuatricromia	Generales	35x6	05	600.000	Publicado	Kathine Soto-Stgo	2017-3-8 00:00:00	
+124834	ILUSTRE MUNICIPALIDAD DE CANELA	Par	Blanco y negro	Generales	17x3	06	126.999	Publicado	Jacqueline Torres	2017-3-8 00:00:00	
+124857	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	06	0	Publicado	Marcela Tello-ElDia	2017-3-8 00:00:00	
+124826	ENTEL PCS	Impar	Cuatricromia	Generales	35x6	07	904.000	Publicado	Kathine Soto-Stgo	2017-3-8 00:00:00	
+124830	ENTEL PCS	Impar	Cuatricromia	Generales	25x5	09	384.510	Publicado	Kathine Soto-Stgo	2017-3-8 00:00:00	
+124740	DIARIO EL DIA	Par	Cuatricromia	Generales	12x6	11	0	Publicado	Marcela Tello-ElDia	2017-3-8 00:00:00	
+124793	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	12	0	Publicado	Marcela Tello-ElDia	2017-3-8 00:00:00	
+124856	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	12	0	Publicado	Marcela Tello-ElDia	2017-3-8 00:00:00	
+124836	DIARIO EL DIA	Par	Blanco y negro	Generales	6x1	13	0	Publicado	Marcela Tello-ElDia	2017-3-8 00:00:00	
+124835	ILUSTRE MUNICIPALIDAD DE CANELA	Par	Blanco y negro	Generales	10x3	13	74.705	Publicado	Jacqueline Torres	2017-3-8 00:00:00	
+124790	SERVICIOS DE TRANSPORTES DE PASAJER	Par	Blanco y negro	Generales	7x2	13	51.268	Publicado	Miguel Apey	2017-3-8 00:00:00	
+124778	ARZOBISPADO DE LA SERENA	Par	Blanco y negro	Generales	5x2	13	0	Publicado	Marcela Tello-ElDia	2017-3-8 00:00:00	
+124597	CONSTRUCTORA CARRAN S.A.	Par	Blanco y negro	Generales	6x2	14	39.550	Publicado	Claudio Romero	2017-3-8 00:00:00	
+124508	CENTRO TECNICO ACUARELA LTDA.	Par	Blanco y negro	Generales	5x2	14	20.874	Publicado	Rene Pizarro	2017-3-8 00:00:00	
+124750	DIARIO EL DIA	Par	Blanco y negro	Generales	5x2	14	0	Publicado	Marcela Tello-ElDia	2017-3-8 00:00:00	
+124831	ASOC. GREMIAL MINERA LA SERENA A.G.	Impar	Blanco y negro	Generales	17x6	15	373.950	Publicado	Jacqueline Torres	2017-3-8 00:00:00	
+124581	FAISAL HARCHA LASEN	Par	Cuatricromia	Generales	17x6	17	0	Publicado	Paola Marquez	2017-3-8 00:00:00	
+124832	CIA. MINERA TECK CARMEN DE ANDACOLL	Par	Cuatricromia	Ed.Especial	17x3	18	261.467	Publicado	Jacqueline Torres	2017-3-8 00:00:00	
+124604	OVALLE CASINO RESORT S.A	Par	Cuatricromia	Generales	17x3	18	104.587	Publicado	Paola Marquez	2017-3-8 00:00:00	
+124653	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	19	0	Publicado	Marcela Tello-ElDia	2017-3-8 00:00:00	
+123517	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	19	8.306	Publicado	Miguel Apey	2017-3-8 00:00:00	
+124218	OVALLE CASINO RESORT S.A	Par	Cuatricromia	Generales	25x4	25	0	Publicado	Paola Marquez	2017-3-8 00:00:00	
+124603	SOC. COM. CENTRO NORTE LTDA.			UIP	5x1	29	0	Arte	Pedro Cortes	2017-3-8 00:00:00	
+120958	CERNA E HIJOS CIA. LTDA.	Par	Blanco y negro	Generales	5x1	29	4.468	Publicado	Nadia Randolph	2017-3-8 00:00:00	
+121790	SOC. DE GES			UIP	5x1	30	8.937	Publicado	Miguel Apey	2017-3-8 00:00:00	
+124707	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	30	0	Publicado	Marcela Tello-ElDia	2017-3-8 00:00:00	
+123034	sercomp ruiz			UIP	5x2	30	8.952	Publicado	Marcela Tello-ElDia	2017-3-8 00:00:00	
+123125	armaq			UIP	5x1	30	8.937	Publicado	Claudio Romero	2017-3-8 00:00:00	
+122881	VELIZ CORTES JOSE A.	Par	Blanco y negro	Generales	3x2	31	13.403	Publicado	Pedro Cortes	2017-3-8 00:00:00	
+124471	SERVICIOS GENERALES GUAYACAN S.A	Par	Blanco y negro	Generales	4x2	31	6.666	Publicado	Jacqueline Torres	2017-3-8 00:00:00	
+123674	ADMINISTR. CMR FALABELLA LTDA.	Impar	Cuatricromia	Contraportada	35x6	32	550.000	Publicado	M Cristina Puga	2017-3-8 00:00:00	
+124859	DIARIO EL DIA	Par	Cuatricromia	Generales	17x6	EC-22	0	Publicado	Marcela Tello-ElDia	2017-3-8 00:00:00	
+124361	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Generales	5x1	EC-22	6.043	Publicado	Rene Pizarro	2017-3-8 00:00:00	
+123742	HOTELERIA LUIS ALBERTO BERETTA KIEK	Par	Blanco y negro	Generales	5x2	EC-22	6.061	Publicado	Patricia Villena	2017-3-8 00:00:00	

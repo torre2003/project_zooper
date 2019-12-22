@@ -1,0 +1,9 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+80972	SOCIEDAD DE RENTAS FALABELLA S.A	Impar	Cuatricromia	Generales	35x3	03	200.000	Publicado	M Cristina Puga	OPEN Plaza /	2015-8-20 00:00:00	
+81884	centro de co			UIP	10x2	05	5.630	Publicado	Italo Retamal	centro colina	2015-8-20 00:00:00	
+81980	jorge alva			UIP	5x2	05	2.808	Publicado	Italo Retamal	abogado	2015-8-20 00:00:00	
+80812	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	10x3	07	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2015-8-20 00:00:00	
+81161	florencia			UIP	10x2	07	5.630	Publicado	Italo Retamal	tienda exotica	2015-8-20 00:00:00	
+82208	SOCIEDAD COMERCIAL KATANKURA LTDA	Par	Cuatricromia	Generales	6x6	09	25.000	Publicado	Italo Retamal	evento katankura 	2015-8-20 00:00:00	
+81381	tanguemar			UIP	5x2	10	2.808	Publicado	Patricia Villena	Tanguemar	2015-8-20 00:00:00	
+82472	GOTTREUX SALAS RUBEN	Par	Blanco y negro	Generales	6x2	10	28.248	Publicado	Leonel Pizarro-Ovalle	remates en ovalle	2015-8-20 00:00:00	

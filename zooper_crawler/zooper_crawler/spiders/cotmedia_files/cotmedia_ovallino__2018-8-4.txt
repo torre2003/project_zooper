@@ -1,0 +1,10 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+160956	FERNANDO GARCIA GARCIA			UIP	5x2	05	2.808	Publicado	Karina Rivera	ARRIENDO PARCELA	2018-8-4 00:00:00	
+161214	CORP. JUAN SUBERCASEAUX	Par	Blanco y negro	Generales	5x2	05	27.071	Publicado	Claudio Romero		2018-8-4 00:00:00	
+160586	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	06	0	Arte	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2018-8-4 00:00:00	
+159388	JONATHAN CLAUDIO SANHUEZA OJEDA	Par	Cuatricromia	Generales	5x2	09	0	Publicado	Karina Rivera	TRAUMATOLOGO SANHUEZA (GUIA PROFESIONAL)	2018-8-4 00:00:00	
+159405	SERVICIOS MEDICOS INVERSIONES E INM	Par	Cuatricromia	Generales	10x2	09	5.912	Publicado	Karina Rivera	CENTRO MEDICO CIM	2018-8-4 00:00:00	
+161204	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	12x6	11	0	Arte	Marcela Tello-ElDia	Avant Premier	2018-8-4 00:00:00	
+161344	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x6	12	0	Arte	Marcela Tello-ElDia	Reportero Ciudadano - El Ovallino	2018-8-4 00:00:00	
+161238	SCOTIABANK CHILE S.A.	399 Palabras		Legal	x	14	99.160	Publicado	Pedro Jaime	AVISO DE REMATE ROL 976-2016, SCOTIABANK CON MAJMUD 	2018-8-4 00:00:00	
+161345	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	8x6	14	0	Arte	Marcela Tello-ElDia		2018-8-4 00:00:00	

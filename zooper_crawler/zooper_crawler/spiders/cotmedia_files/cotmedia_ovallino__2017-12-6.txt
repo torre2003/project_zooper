@@ -1,0 +1,14 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+145288	DABED Y CIA. LTDA., SELIM	Par	Cuatricromia	Generales	6x6	01	23.076	Publicado	Karina Rivera	FELIZ NAVIDAD MAT. PARA LA CONST.	2017-12-6 00:00:00	
+145309	OMD CHILE S.P.A.	Impar	Cuatricromia	Generales	17x6	03	216.330	Publicado	Patricia Villena		2017-12-6 00:00:00	
+136079	INVERSIONES TANGUEMAR LIMITADA			UIP	5x2	05	2.808	Publicado	Patricia Villena	Tanguemar	2017-12-6 00:00:00	
+138369	CENTRO DE SALUD PORTALES LTDA			UIP	5x4	05	4.504	Publicado	Karina Rivera		2017-12-6 00:00:00	
+144784	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	6x6	06	0	Publicado	Claudio Romero	Muebles Alpina	2017-12-6 00:00:00	
+145174	SOCIEDAD DE RENTAS FALABELLA S.A	Par	Cuatricromia	Generales	17x6	07	200.000	Publicado	M Cristina Puga	Open Plaza - Mall Ovalle	2017-12-6 00:00:00	
+143407	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	08	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2017-12-6 00:00:00	
+145361	EMPRESA PERIODISTICA EL NORTE S.A.	Par	Cuatricromia	Medios Regionales	32x6	09	349.693	Arte	Medios Regionales		2017-12-6 00:00:00	
+144751	OVALLE CASINO RESORT S.A	Par	Cuatricromia	Generales	25x4	11	0	Arte	Paola Marquez	OCR EVentos diciembre	2017-12-6 00:00:00	
+145068	UNIVERSIDAD BOLIVARIANA			UIP	10x2	11	7.882	Publicado	Karina Rivera	BENEFICIOS DEL VALLE Y BOLIVARIANA	2017-12-6 00:00:00	
+144395	AGRICOLA NORTE TALINAY LTDA	Par	Blanco y negro	Generales	5x2	12	1.666	Publicado	Paola Marquez	UIP VENTA ALFALFA	2017-12-6 00:00:00	
+143978	VELIZ CORTES JOSE A.			UIP	5x2	14	4.695	Publicado	Pedro Cortes		2017-12-6 00:00:00	
+145397	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	6x6	14	0	Arte	Marcela Tello-ElDia		2017-12-6 00:00:00	

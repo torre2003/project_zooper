@@ -1,0 +1,10 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+104594	SOCIEDAD DE RENTAS FALABELLA S.A	Par	Cuatricromia	Generales	8x6	01	50.980	Publicado	M Cristina Puga	Open	2016-6-29 00:00:00	
+104947	OVALLE CASINO RESORT S.A	Par	Cuatricromia	Generales	6x6	03	21.333	Publicado	Paola Marquez	Auspicio Casino Ovalle Impar	2016-6-29 00:00:00	
+104523	AGRICOLA NORTE TALINAY LTDA	Par	Blanco y negro	Generales	5x2	05	1.666	Publicado	Paola Marquez	UIP VENTA ALFALFA	2016-6-29 00:00:00	
+103680	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	07	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2016-6-29 00:00:00	
+103977	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	6x6	08	16.065	Publicado	Claudio Romero	Muebles Alpina	2016-6-29 00:00:00	
+104476	AUTOMOTRIZ CARMONA	Par	Cuatricromia	Generales	6x6	09	23.077	Publicado	Marcela Tello-ElDia	Nissan Qashqai - Portada (Si hay disponibilidad)	2016-6-29 00:00:00	
+105666	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	6x6	11	0	Arte	Marcela Tello-ElDia		2016-6-29 00:00:00	
+105667	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x6	14	0	Arte	Marcela Tello-ElDia	www.elovallino.cl	2016-6-29 00:00:00	
+105516	INMOBILIARIA RENVAL SPA	Par	Cuatricromia	Generales	34x6	16	0	Publicado	Rene Pizarro	Islas del Pacifico.....	2016-6-29 00:00:00	

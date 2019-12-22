@@ -1,0 +1,31 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+92972	CHRISTIAN LAURITZ MARIN	Par	Blanco y negro	Generales	4x2	04	6.667	Publicado	Jacqueline Torres	2016-1-12 00:00:00	
+93347	CLARO CHILE S.A.	Impar	Cuatricromia	Generales	25x5	05	373.600	Publicado	Kathine Soto-Stgo	2016-1-12 00:00:00	
+93312	SKY AIRLINE S.A.	Impar	Cuatricromia	Generales	17x6	07	439.000	Publicado	M Cristina Puga	2016-1-12 00:00:00	
+93348	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	20x3	13	130.440	Publicado	Medios Regionales	2016-1-12 00:00:00	
+93275	DIARIO EL DIA	Par	Blanco y negro	Generales	5x2	15	0	Publicado	Marcela Tello-ElDia	2016-1-12 00:00:00	
+93311	FUNDACION EDUCACIONAL SCUOLA ITALIA	Par	Blanco y negro	Generales	4x2	15	14.648	Publicado	Jacqueline Torres	2016-1-12 00:00:00	
+92320	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	5x2	15	0	Publicado	Miguel Apey	2016-1-12 00:00:00	
+92116	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	16	8.306	Publicado	Miguel Apey	2016-1-12 00:00:00	
+93354	DIARIO EL DIA	Par	Blanco y negro	Generales	34x6	20	0	Publicado	Marcela Tello-ElDia	2016-1-12 00:00:00	
+15418	DIARIO EL DIA	Par	Blanco y negro	Generales	35x6	25	0	Publicado	Carolina Naranjo	2016-1-12 00:00:00	
+92525	MAQUINARIA DE 			UIP	17x1	29	29.333	Publicado	Rene Pizarro	2016-1-12 00:00:00	
+92159	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	4x5	30	20.508	Publicado	Miguel Apey	2016-1-12 00:00:00	
+87449	GUERRERO SERANTONI Y CIA. LTDA.	Par	Blanco y negro	Generales	5x1	30	5.527	Publicado	Pedro Jaime	2016-1-12 00:00:00	
+91059	CERNA E HIJOS CIA. LTDA.	Par	Blanco y negro	Generales	5x1	30	4.492	Publicado	Nadia Randolph	2016-1-12 00:00:00	
+91277	Alejandro ra			UIP	5x1	30	4.467	Publicado	M Cristina Puga	2016-1-12 00:00:00	
+91354	SOC. RAMON MOYA FUENTES 			UIP	10x1	30	8.938	Publicado	Miguel Apey	2016-1-12 00:00:00	
+91403	oasis			UIP	5x1	30	8.937	Publicado	Italo Retamal	2016-1-12 00:00:00	
+92674	SOC. DE GESTION MEDITERRANEA			UIP	5x1	30	8.937	Publicado	Miguel Apey	2016-1-12 00:00:00	
+93260	AREVALO CARMEN 			UIP	5x1	30	8.937	Publicado	Pedro Jaime	2016-1-12 00:00:00	
+93159	faisal			UIP	5x2	30	0	Publicado	Paola Marquez	2016-1-12 00:00:00	
+92062	DIARIO EL DIA	Par	Blanco y negro	Generales	5x2	30	0	Publicado	Marcela Tello-ElDia	2016-1-12 00:00:00	
+92462	ARMAQ			UIP	5x1	30	8.937	Publicado	Claudio Romero	2016-1-12 00:00:00	
+91996	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	30	0	Publicado	Marcela Tello-ElDia	2016-1-12 00:00:00	
+92935	CARLOS DAVILA			UIP	5x1	30	8.937	Publicado	Pedro Jaime	2016-1-12 00:00:00	
+91590	SOC. COMERCIAL ALCAPARRA LTDA.	Par	Blanco y negro	Generales	5x2	30	10.440	Publicado	Patricia Villena	2016-1-12 00:00:00	
+93314	SERVICIOS GENERALES GUAYACAN S.A	Par	Blanco y negro	Generales	3x2	31	6.667	Publicado	Jacqueline Torres	2016-1-12 00:00:00	
+92374	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Generales	5x1	EC-19	5.860	Publicado	Rene Pizarro	2016-1-12 00:00:00	
+93353	DIARIO EL DIA	Par	Blanco y negro	Generales	17x6	EC-19	0	Publicado	Marcela Tello-ElDia	2016-1-12 00:00:00	
+93266	AREVALO CARMEN			UIP	5x1	EC-19	8.937	Publicado	Pedro Jaime	2016-1-12 00:00:00	
+93310	GOBIERNO REGIONAL - REGION DE COQUI	Home	Box Derecho	Web	x	WEB	0	Publicado	Jacqueline Torres	2016-1-12 00:00:00	

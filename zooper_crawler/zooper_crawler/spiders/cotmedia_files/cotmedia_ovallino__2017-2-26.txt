@@ -1,0 +1,9 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+123489	ILUSTRE MUNICIPALIDAD DE OVALLE	Par	Cuatricromia	Generales	6x6	01	0	Arte	Karina Rivera	Portada Fiesta de la Vendimia	2017-2-26 00:00:00	
+122055	OVALLE CASINO RESORT S.A	Par	Cuatricromia	Generales	25x4	03	171.372	Publicado	Paola Marquez	OCR Eventos verano	2017-2-26 00:00:00	
+123493	CAMAL MUSALEM TAPIA Y CIA.	Par	Blanco y negro	Generales	33x4	05	161.568	Publicado	Marcela Tello-ElDia		2017-2-26 00:00:00	
+103067	SOCIEDAD MEDICA Y CONSULTORA ESTETI		Cuatricromia	Guia	5x2	06	13.333	Publicado	Maria_Amelia Hermosilla	Diego Polanco	2017-2-26 00:00:00	
+122353	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	07	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2017-2-26 00:00:00	
+123495	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	10x6	08	0	Arte	Marcela Tello-ElDia		2017-2-26 00:00:00	
+122760	DABED Y CIA. LTDA., SELIM	Par	Cuatricromia	Generales	6x6	09	23.077	Publicado	Karina Rivera	2AC	2017-2-26 00:00:00	
+123496	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	5x6	14	0	Arte	Marcela Tello-ElDia		2017-2-26 00:00:00	

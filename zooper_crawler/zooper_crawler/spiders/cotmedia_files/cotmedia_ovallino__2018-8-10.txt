@@ -1,0 +1,16 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+160897	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	12x3	03	16.065	Publicado	Claudio Romero	Muebles alpina..	2018-8-10 00:00:00	
+161586	SOCIEDAD DE RENTAS FALABELLA S.A	Par	Cuatricromia	Generales	8x6	03	50.980	Publicado	M Cristina Puga	HUINCHA Open Plaza - primera impar	2018-8-10 00:00:00	
+161473	FL SECURITY AND SERVICE FRANCISCO L			UIP	5x2	06	3.931	Publicado	Karina Rivera		2018-8-10 00:00:00	
+160582	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	06	0	Arte	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2018-8-10 00:00:00	
+161396	OSSANDON PRESTACIONES MEDICAS Y OTR			UIP	5x2	06	3.879	Publicado	Karina Rivera	MEDICO CIRUJANO ALEJANDRO MANRIQUEZ	2018-8-10 00:00:00	
+161517	CENTRO DE EST?TICA INTEGRAL CARLA L			UIP	10x2	06	25.000	Publicado	Karina Rivera		2018-8-10 00:00:00	
+161626	ILUSTRE MUNICIPALIDAD DE OVALLE	Par	Cuatricromia	Generales	17x6	08	182.073	Publicado	Karina Rivera		2018-8-10 00:00:00	
+161261	EMPRESA PERIODISTICA EL NORTE S.A.	Par	Blanco y negro	Medios Regionales	16x3	09	72.816	Publicado	Medios Regionales	PHD CHILE - ASAMBLEA - IMPAR - (116783)	2018-8-10 00:00:00	
+161625	ILUSTRE MUNICIPALIDAD DE MONTE PATR	Par	Cuatricromia	Generales	17x3	09	83.333	Publicado	Karina Rivera		2018-8-10 00:00:00	
+161511	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x3	11	0	Arte	Marcela Tello-ElDia	Provincial Ovalle Vs. Club Municipal Santiago	2018-8-10 00:00:00	
+160298	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x3	11	0	Publicado	Marcela Tello-ElDia	Vea en Cinemark - Megalodon	2018-8-10 00:00:00	
+161659	PRENSA DEL LIMARI LTDA.	Par	Blanco y negro	Generales	17x6	13	0	Arte	Marcela Tello-ElDia		2018-8-10 00:00:00	
+161286	DABED Y CIA. LTDA., SELIM	Par	Cuatricromia	Generales	6x6	14	23.076	Publicado	Karina Rivera	OVA 002	2018-8-10 00:00:00	
+161558	EMPRESAS LA POLAR S.A.	Par	Cuatricromia	Contraportada	35x6	16	0	Arte	Patricia Villena	Contraportada La Polar	2018-8-10 00:00:00	
+161531	SOC. SERVICIOS TECNOLOGICOS Y TELCO		1 pag.	Inserto	x	INS	180.000	Publicado	Claudio Romero	TELCONOR..AHORA EN OVALLE	2018-8-10 00:00:00	

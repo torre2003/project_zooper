@@ -1,0 +1,44 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+66555	CARAT CHILE S.A.	Impar	Cuatricromia	Generales	17x6	05	330.000	Publicado	Kathine Soto-Stgo	2015-1-10 00:00:00	
+66323	CENCOSUD RETAIL S.A.	Impar	Cuatricromia	Generales	35x6	07	742.874	Publicado	Kathine Soto-Stgo	2015-1-10 00:00:00	
+66585	CHRISTIAN LAURITZ MARIN	Par	Blanco y negro	Generales	5x2	08	24.023	Publicado	Jacqueline Torres	2015-1-10 00:00:00	
+66553	DIARIO EL DIA	Par	Cuatricromia	Generales	17x2	08	0	Publicado	M Cristina Puga	2015-1-10 00:00:00	
+66554	O-TECK SERVICIOS CHILE	Par	Blanco y negro	Generales	5x2	08	28.006	Publicado	Jacqueline Torres	2015-1-10 00:00:00	
+66311	ENTEL PCS	Impar	Cuatricromia	Generales	25x5	09	460.000	Publicado	Kathine Soto-Stgo	2015-1-10 00:00:00	
+65890	DIARIO EL DIA	Par	Cuatricromia	Generales	12x2	12	0	Publicado	Marcela Tello-ElDia	2015-1-10 00:00:00	
+66239	SINDY GONZALEZ MARCHANT	Par	Blanco y negro	Generales	10x2	12	0	Publicado	Marcela Tello-ElDia	2015-1-10 00:00:00	
+66208	GEOVANNA PAOLA MAUREIRA ALVAREZ EIR	Par	Blanco y negro	Generales	5x2	12	34.533	Publicado	Pedro Jaime	2015-1-10 00:00:00	
+66152	jorge crovetto castillo			UIP	5x2	12	17.875	Publicado	Miguel Apey	2015-1-10 00:00:00	
+66136	SOCIEDAD COMERCIAL DE VEHICULOS S.A	Impar	Cuatricromia	Generales	25x5	13	442.187	Publicado	Kathine Soto-Stgo	2015-1-10 00:00:00	
+66404	RENDIC HNOS. S.A.	Impar	Cuatricromia	Generales	34x3	15	658.897	Publicado	Patricia Villena	2015-1-10 00:00:00	
+62742	UNIVERSIDAD CENTRAL DE CHILE	Impar	Cuatricromia	Generales	17x6	17	577.319	Publicado	Jacqueline Torres	2015-1-10 00:00:00	
+65284	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	19	8.306	Publicado	Miguel Apey	2015-1-10 00:00:00	
+66543	DIARIO EL DIA	Par	Cuatricromia	Generales	17x6	19	0	Publicado	Marcela Tello-ElDia	2015-1-10 00:00:00	
+65417	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Blanco y negro	Generales	6x6	21	58.905	Publicado	Claudio Romero	2015-1-10 00:00:00	
+66048	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	35	0	Publicado	Marcela Tello-ElDia	2015-1-10 00:00:00	
+65177	SITRANS LTDA.	Par	Cuatricromia	Generales	10x3	35	0	Publicado	Miguel Apey	2015-1-10 00:00:00	
+65328	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	4x5	36	20.508	Publicado	Miguel Apey	2015-1-10 00:00:00	
+65380	armaq			UIP	5x1	37	8.937	Publicado	Claudio Romero	2015-1-10 00:00:00	
+66216	GEOVANNA PAOLA MAUREIRA ALVAREZ EIR	Par	Blanco y negro	Generales	5x2	37	34.533	Publicado	Pedro Jaime	2015-1-10 00:00:00	
+66199	SOC. BERMUDEZ INGENIERIA Y CONSTRUC	Par	Blanco y negro	Generales	5x1	37	14.740	Publicado	Miguel Apey	2015-1-10 00:00:00	
+66464	SOC. INMOBILIARIA DE INVERSIONES RE	Par	Blanco y negro	Generales	5x1	37	7.427	Publicado	Miguel Apey	2015-1-10 00:00:00	
+65920	DIARIO EL DIA	Par	Blanco y negro	Generales	5x2	37	0	Publicado	Marcela Tello-ElDia	2015-1-10 00:00:00	
+65565	SOC. COMERCIAL ALCAPARRA LTDA.	Par	Blanco y negro	Generales	5x2	37	10.440	Publicado	Patricia Villena	2015-1-10 00:00:00	
+66067	vargas 			UIP	5x1	37	8.935	Publicado	Rene Pizarro	2015-1-10 00:00:00	
+66001	CLINICA SIMOLAB LTDA.	Par	Blanco y negro	Generales	5x2	37	8.936	Publicado	Nadia Randolph	2015-1-10 00:00:00	
+65855	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	37	0	Publicado	Marcela Tello-ElDia	2015-1-10 00:00:00	
+65829	PILLA LA VACA	Par	Blanco y negro	Generales	5x2	37	0	Publicado	Marcela Tello-ElDia	2015-1-10 00:00:00	
+65190	SOC. DE GESTION MEDITERRANEA			UIP	5x1	37	8.937	Publicado	Miguel Apey	2015-1-10 00:00:00	
+65464	MAQUINARIAS RB  LTDA.	Par	Blanco y negro	Generales	5x1	37	15.793	Publicado	Claudio Romero	2015-1-10 00:00:00	
+65525	SERVICIOS GENERALES GUAYACAN S.A	Par	Blanco y negro	Generales	3x2	39	6.666	Publicado	Jacqueline Torres	2015-1-10 00:00:00	
+66325	ENTEL PCS	Impar	Cuatricromia	Generales	35x6	40	521.960	Publicado	Kathine Soto-Stgo	2015-1-10 00:00:00	
+65810	ROSA MARIA FERNANDEZ COBO	Par	Blanco y negro	Generales	7x2	EC-22	37.734	Publicado	M Cristina Puga	2015-1-10 00:00:00	
+66080	INMOBILIARIA CHRISTIAN ALFREDO MEND	Par	Cuatricromia	Generales	15x2	EC-22	0	Publicado	Claudio Romero	2015-1-10 00:00:00	
+66584	BISCONT			UIP	5x1	EC-22	10.725	Publicado	Jacqueline Torres	2015-1-10 00:00:00	
+66569	DIARIO EL DIA	Par	Blanco y negro	Generales	6x2	EC-23	0	Publicado	Marcela Tello-ElDia	2015-1-10 00:00:00	
+66332	TURISMO BAHIA MAGICA LTDA.	Par	Blanco y negro	Generales	7x2	EC-23	58.959	Publicado	Pedro Jaime	2015-1-10 00:00:00	
+66618	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Generales	5x1	EC-23	21.057	Publicado	Pedro Jaime	2015-1-10 00:00:00	
+66611	COLEGIO DE CONTADORES DE CHILE A.G.	Par	Blanco y negro	Generales	10x2	EC-24	67.381	Publicado	Pedro Jaime	2015-1-10 00:00:00	
+65694	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Generales	5x1	EC-25	5.860	Publicado	Rene Pizarro	2015-1-10 00:00:00	
+65723	SOC. COMERCIAL VARGAS Y GIACOMET	Par	Blanco y negro	Generales	5x1	EC-25	5.860	Publicado	Rene Pizarro	2015-1-10 00:00:00	
+66177	COMERCIAL E.C.C.S.A.  S.A.		9 a 24 pag.	Inserto	x	INS	459.000	Publicado	M Cristina Puga	2015-1-10 00:00:00	

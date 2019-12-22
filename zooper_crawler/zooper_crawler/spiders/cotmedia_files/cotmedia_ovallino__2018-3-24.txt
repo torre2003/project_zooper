@@ -1,0 +1,11 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+151941	SOCIEDAD DE RENTAS FALABELLA S.A	Par	Cuatricromia	Generales	8x6	03	50.980	Publicado	M Cristina Puga	HUINCHA Open Plaza - primera impar	2018-3-24 00:00:00	
+152517	JORGE CANEO NU?EZ			UIP	5x2	04	2.808	Publicado	Patricia Villena	Casas bychome	2018-3-24 00:00:00	
+152611	AGRICOLA NORTE TALINAY LTDA	Par	Blanco y negro	Generales	5x2	04	1.666	Publicado	Paola Marquez	UIP VENTA ALFALFA	2018-3-24 00:00:00	
+151911	INMOBILIARIA NUEVA SERENA			UIP	10x6	05	16.260	Publicado	Claudio Romero	proyecto empresa serena.(.2 AVISOS NUEVO)" DEPARTAMENTOS.".." CASAS"...ALTERNAR LOS AVISOS TODOS LOS	2018-3-24 00:00:00	
+152695	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	12x6	06	0	Publicado	Marcela Tello-ElDia	El Ovallino - www.elovallino.cl	2018-3-24 00:00:00	
+152608	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x6	08	0	Publicado	Marcela Tello-ElDia	Suscribete a El Ovallino	2018-3-24 00:00:00	
+152598	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	12x6	09	0	Publicado	Marcela Tello-ElDia	Avant Premiere - Diario El Ovallino	2018-3-24 00:00:00	
+151898	GASTON MALUENDA GONZALEZ	Par	Cuatricromia	Generales	17x3	11	0	Arte	Karina Rivera	circo los maluenda	2018-3-24 00:00:00	
+152696	PRENSA DEL LIMARI LTDA.	Par	Blanco y negro	Generales	17x6	12	0	Publicado	Marcela Tello-ElDia	Nos trasladamos para ofrecerles un mejor servicio... El Ovallino	2018-3-24 00:00:00	
+152697	PRENSA DEL LIMARI LTDA.	Par	Blanco y negro	Generales	6x6	15	0	Publicado	Marcela Tello-ElDia		2018-3-24 00:00:00	

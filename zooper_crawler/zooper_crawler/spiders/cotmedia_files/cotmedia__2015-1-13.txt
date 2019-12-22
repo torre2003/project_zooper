@@ -1,0 +1,29 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+66772	SUBSECRETARIA DEL MINISTERIO DE MIN	Par	Blanco y negro	Generales	17x6	05	0	Publicado	Jacqueline Torres	2015-1-13 00:00:00	
+65419	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Blanco y negro	Generales	6x6	09	0	Publicado	Claudio Romero	2015-1-13 00:00:00	
+66606	ILUSTRE MUNICIPALIDAD DE LA SERENA	Par	Blanco y negro	Generales	17x3	11	128.119	Publicado	M Cristina Puga	2015-1-13 00:00:00	
+65287	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	13	8.306	Publicado	Miguel Apey	2015-1-13 00:00:00	
+66732	SINDY GONZALEZ MARCHANT	Par	Blanco y negro	Generales	10x2	15	0	Publicado	Marcela Tello-ElDia	2015-1-13 00:00:00	
+66506	PARROQUIA SAN PEDRO			UIP	5x2	15	17.875	Publicado	Miguel Apey	2015-1-13 00:00:00	
+66144	jorge crovetto castillo			UIP	5x2	15	17.875	Publicado	Miguel Apey	2015-1-13 00:00:00	
+54593	ILUSTRE MUNICIPALIDAD DE LA SERENA	Par	Cuatricromia	Generales	5x6	16	37.500	Publicado	Jacqueline Torres	2015-1-13 00:00:00	
+54719	ILUSTRE MUNICIPALIDAD DE VICUNA	Par	Cuatricromia	Generales	15x2	17	29.808	Publicado	Jacqueline Torres	2015-1-13 00:00:00	
+56150	ILUSTRE MUNICIPALIDAD DE COQUIMBO	Par	Cuatricromia	Generales	10x6	17	39.130	Publicado	Paola Marquez	2015-1-13 00:00:00	
+66382	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	32x6	20	397.440	Publicado	Medios Regionales	2015-1-13 00:00:00	
+66385	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	32x6	21	397.440	Publicado	Medios Regionales	2015-1-13 00:00:00	
+66389	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	32x6	22	397.440	Publicado	Medios Regionales	2015-1-13 00:00:00	
+65331	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	4x5	29	20.508	Publicado	Miguel Apey	2015-1-13 00:00:00	
+66424	SERENA NORTE			UIP	5x1	30	8.937	Publicado	Pedro Jaime	2015-1-13 00:00:00	
+65192	SOC. DE GESTION MEDITERRANEA			UIP	5x1	30	8.937	Publicado	Miguel Apey	2015-1-13 00:00:00	
+66754	BISCONT			UIP	5x2	30	10.725	Publicado	Jacqueline Torres	2015-1-13 00:00:00	
+66467	SOC. INMOBILIARIA DE INVERSIONES RE	Par	Blanco y negro	Generales	5x1	30	7.427	Publicado	Miguel Apey	2015-1-13 00:00:00	
+65492	MAQUINARIAS RB  LTDA.	Par	Blanco y negro	Generales	5x1	30	0	Publicado	Claudio Romero	2015-1-13 00:00:00	
+66003	CLINICA SIMOLAB LTDA.	Par	Blanco y negro	Generales	5x2	30	8.936	Publicado	Nadia Randolph	2015-1-13 00:00:00	
+65912	DIARIO EL DIA	Par	Blanco y negro	Generales	5x2	30	0	Publicado	Marcela Tello-ElDia	2015-1-13 00:00:00	
+65382	armaq			UIP	5x1	30	8.937	Publicado	Claudio Romero	2015-1-13 00:00:00	
+65838	PILLA LA VACA	Par	Blanco y negro	Generales	5x2	30	0	Publicado	Marcela Tello-ElDia	2015-1-13 00:00:00	
+65568	SOC. COMERCIAL ALCAPARRA LTDA.	Par	Blanco y negro	Generales	5x2	30	10.440	Publicado	Patricia Villena	2015-1-13 00:00:00	
+65868	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	30	0	Publicado	Marcela Tello-ElDia	2015-1-13 00:00:00	
+65528	SERVICIOS GENERALES GUAYACAN S.A	Par	Blanco y negro	Generales	3x2	31	6.666	Publicado	Jacqueline Torres	2015-1-13 00:00:00	
+65727	SOC. COMERCIAL VARGAS Y GIACOMET	Par	Blanco y negro	Generales	5x1	EC-19	5.860	Publicado	Rene Pizarro	2015-1-13 00:00:00	
+65697	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Generales	5x1	EC-19	5.860	Publicado	Rene Pizarro	2015-1-13 00:00:00	

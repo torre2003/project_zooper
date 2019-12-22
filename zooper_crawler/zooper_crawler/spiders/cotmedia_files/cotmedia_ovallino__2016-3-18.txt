@@ -1,0 +1,10 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+97790	AUTOMOTRIZ CARMONA	Par	Cuatricromia	Generales	6x6	01	23.076	Publicado	Marcela Tello-ElDia	Nissan Versa - Portada (si hay disponibilidad)	2016-3-18 00:00:00	
+98207	SALINAS Y FABRES S.A.	Impar	Cuatricromia	Generales	17x6	03	242.029	Publicado	M Cristina Puga	Salfa GM	2016-3-18 00:00:00	
+97945	parques			UIP	10x2	05	9.765	Publicado	Rene Pizarro	TU TRANQUILIDAD FAMILIAR...PARQUE DE OVALLE...PARQUES DE CHILE...	2016-3-18 00:00:00	
+98168	AGRICOLA NORTE TALINAY LTDA	Par	Blanco y negro	Generales	5x2	05	1.667	Publicado	Paola Marquez	UIP VENTA ALFALFA	2016-3-18 00:00:00	
+97239	DABED Y CIA. LTDA., SELIM	Par	Cuatricromia	Generales	6x6	06	23.076	Publicado	Nadia Randolph	ofertas marzo 1	2016-3-18 00:00:00	
+96836	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	07	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2016-3-18 00:00:00	
+97103	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	6x6	08	16.065	Publicado	Claudio Romero	Muebles Alpina	2016-3-18 00:00:00	
+97727	INMOBILIARIA NUEVA SERENA	Par	Blanco y negro	Generales	17x6	14	0	Publicado	Claudio Romero		2016-3-18 00:00:00	
+98249	EMPRESAS LA POLAR S.A.	Impar	Cuatricromia	Generales	34x6	16	252.000	Publicado	Patricia Villena	Jeans y Polerones	2016-3-18 00:00:00	

@@ -1,0 +1,11 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+154262	OMD CHILE S.P.A.	Impar	Cuatricromia	Generales	17x6	03	216.330	Publicado	Patricia Villena		2018-4-25 00:00:00	
+153516	INMOBILIARIA NUEVA SERENA			UIP	10x6	05	16.260	Publicado	Claudio Romero	proyecto empresas serena - SE CONFIRMARA SI REPITE O ES NUEVO	2018-4-25 00:00:00	
+154665	DEL RIO VARELA JORGE	Par	Blanco y negro	Generales	12x3	06	59.321	Publicado	Pedro Jaime	JDV REMATE 27 ABRIL - AUTOMOVIL GREAT WALL, 13 X  4 , LIGHTS, 	2018-4-25 00:00:00	
+153927	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	6x3	06	0	Publicado	Marcela Tello-ElDia	Convenio Dabed y Diario El Ovallino	2018-4-25 00:00:00	
+153146	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	8x4	08	0	Publicado	Claudio Romero	Muebles alpina..	2018-4-25 00:00:00	
+154083	JORGE CANEO NU?EZ			UIP	5x2	08	2.808	Publicado	Patricia Villena	Casas bychome	2018-4-25 00:00:00	
+153553	DABED Y CIA. LTDA., SELIM	Par	Cuatricromia	Generales	6x6	09	23.076	Publicado	Karina Rivera	G2	2018-4-25 00:00:00	
+153238	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	11	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2018-4-25 00:00:00	
+154742	PRENSA DEL LIMARI LTDA.	Par	Blanco y negro	Generales	6x6	15	0	Arte	Marcela Tello-ElDia		2018-4-25 00:00:00	
+154722	EMPRESA PERIODISTICA EL NORTE S.A.	Par	Cuatricromia	Medios Regionales	32x6	16	367.130	Arte	Medios Regionales		2018-4-25 00:00:00	

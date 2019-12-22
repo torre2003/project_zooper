@@ -1,0 +1,12 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+172167	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x3	03	0	Publicado	Marcela Tello-ElDia	Navidad en Cinemark	2018-12-23 00:00:00	
+172314	PRENSA DEL LIMARI LTDA.	Par	Blanco y negro	Generales	3x6	04	0	Arte	Marcela Tello-ElDia	Periodismo en todos los sentidos...	2018-12-23 00:00:00	
+172119	INSTITUTO DE DESARROLLO AGROPECUARI	Par	Blanco y negro	Generales	19x3	05	118.614	Publicado	Jacqueline Torres	CONCURSO/REPITE DEL JUEVES 20 DICIEMBRE	2018-12-23 00:00:00	
+158770	SOCIEDAD MEDICA Y CONSULTORA ESTETI		Cuatricromia	Guia	5x2	06	13.333	Publicado	Paola Marquez	Diego Polanco	2018-12-23 00:00:00	
+172210	SERVICIOS TASUI S.A.	Par	Blanco y negro	Generales	6x2	06	28.248	Publicado	Pedro Jaime	SERVICIOS TASUI- TARIFADO 	2018-12-23 00:00:00	
+172270	CHRISTIAN LOYOLA ESPINOZA			UIP	10x2	06	7.882	Publicado	Karina Rivera	CELE CONSTRUCTORA	2018-12-23 00:00:00	
+168617	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	08	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2018-12-23 00:00:00	
+172219	DABED Y CIA. LTDA., SELIM	Par	Cuatricromia	Generales	6x6	09	23.076	Publicado	Karina Rivera	JUGUETES	2018-12-23 00:00:00	
+172315	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	34x6	11	0	Arte	Marcela Tello-ElDia		2018-12-23 00:00:00	
+172316	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	6x6	14	0	Arte	Marcela Tello-ElDia	Cupones Descuentos Cinemark	2018-12-23 00:00:00	
+172258	CAMAL MUSALEM TAPIA Y CIA.	Par	Blanco y negro	Generales	34x6	16	349.656	Publicado	Marcela Tello-ElDia		2018-12-23 00:00:00	

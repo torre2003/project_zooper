@@ -1,0 +1,42 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+117034	BANCO DE CREDITO E INVERSIONES	360 Palabras		Legal	x		89.496	Arte	Pedro Jaime	2016-11-23 00:00:00	
+115757	SOCIEDAD DE RENTAS FALABELLA S.A	Impar	Cuatricromia	Generales	5x2	01	52.000	Arte	M Cristina Puga	2016-11-23 00:00:00	
+117040	SIGDOTEK S.A.	Par	Cuatricromia	Generales	17x6	05	402.659	Arte	Rene Pizarro	2016-11-23 00:00:00	
+117050	DIARIO EL DIA	Par	Cuatricromia	Generales	10x3	07	0	Arte	Marcela Tello-ElDia	2016-11-23 00:00:00	
+117048	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Cuatricromia	Medios Regionales	32x3	07	309.344	Arte	Medios Regionales	2016-11-23 00:00:00	
+116919	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Cuatricromia	Medios Regionales	16x6	09	309.344	Arte	Medios Regionales	2016-11-23 00:00:00	
+117038	SERV. VIVIENDA Y URBANIZACION IV RE	Par	Blanco y negro	Generales	12x2	10	59.764	Arte	Jacqueline Torres	2016-11-23 00:00:00	
+117046	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	6x2	10	26.088	Arte	Medios Regionales	2016-11-23 00:00:00	
+117041	ARZOBISPADO DE LA SERENA	Par	Blanco y negro	Generales	5x2	10	0	Arte	Marcela Tello-ElDia	2016-11-23 00:00:00	
+116694	OVALLE CASINO RESORT S.A	Par	Cuatricromia	Generales	25x4	11	0	Arte	Paola Marquez	2016-11-23 00:00:00	
+115374	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	12	0	Arte	Marcela Tello-ElDia	2016-11-23 00:00:00	
+115118	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	5x2	13	0	Arte	Miguel Apey	2016-11-23 00:00:00	
+115521	CENTRO TECNICO ACUARELA LTDA.	Par	Blanco y negro	Generales	5x2	13	20.141	Arte	Rene Pizarro	2016-11-23 00:00:00	
+116508	DIARIO EL DIA	Par	Blanco y negro	Generales	5x2	13	0	Arte	Marcela Tello-ElDia	2016-11-23 00:00:00	
+116791	BERTOLINO RENDIC MARIO	Par	Blanco y negro	Generales	6x3	14	59.325	Arte	Claudio Romero	2016-11-23 00:00:00	
+114297	GESTION NORTE	Par	Blanco y negro	Generales	5x2	14	9.280	Arte	Patricia Villena	2016-11-23 00:00:00	
+116997	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	10x6	15	130.440	Arte	Medios Regionales	2016-11-23 00:00:00	
+116166	DIARIO EL DIA	Par	Cuatricromia	Generales	8x6	16	0	Arte	Marcela Tello-ElDia	2016-11-23 00:00:00	
+117061	DIARIO EL DIA	Par	Cuatricromia	Generales	35x6	17	0	Arte	Marcela Tello-ElDia	2016-11-23 00:00:00	
+114929	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	18	8.306	Arte	Miguel Apey	2016-11-23 00:00:00	
+117039	DIARIO EL DIA	Par	Cuatricromia	Generales	35x6	24-25	0	Arte	Jacqueline Torres	2016-11-23 00:00:00	
+116101	AGUAS DEL VALLE S.A.	Par	Cuatricromia	Generales	5x6	25	49.218	Arte	Jacqueline Torres	2016-11-23 00:00:00	
+115512	MAQUINARIA DE PANADERIA INDUSTRIA Y	Par	Blanco y negro	Generales	17x1	29	0	Arte	Rene Pizarro	2016-11-23 00:00:00	
+117007	AREVALO CARMEN 			UIP	5x1	30	8.937	Arte	Pedro Jaime	2016-11-23 00:00:00	
+114960	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	4x5	30	20.508	Arte	Miguel Apey	2016-11-23 00:00:00	
+115160	SERVICIOS GASTRON?MICOS LA CASONA D	Par	Blanco y negro	Generales	5x2	30	10.725	Arte	Miguel Apey	2016-11-23 00:00:00	
+116874	SOC. DE GES			UIP	5x1	30	8.937	Arte	Miguel Apey	2016-11-23 00:00:00	
+115668	ICEFOOD LIMITADA	Par	Blanco y negro	Generales	5x2	30	8.925	Arte	Patricia Villena	2016-11-23 00:00:00	
+115550	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	30	0	Arte	Marcela Tello-ElDia	2016-11-23 00:00:00	
+115298	ARMAQ			UIP	5x1	30	8.937	Arte	Claudio Romero	2016-11-23 00:00:00	
+111918	INVERSIONES VEINTINUEVE GRADOS	Par	Blanco y negro	Generales	5x2	30	9.280	Arte	Patricia Villena	2016-11-23 00:00:00	
+114773	CERNA E HIJOS CIA. LTDA.	Par	Blanco y negro	Generales	5x1	30	4.468	Arte	Nadia Randolph	2016-11-23 00:00:00	
+115213	SERVICIOS GENERALES GUAYACAN S.A	Par	Blanco y negro	Generales	4x2	31	6.666	Arte	Jacqueline Torres	2016-11-23 00:00:00	
+116277	VELIZ CORTES JOSE A.	Par	Blanco y negro	Generales	3x2	31	13.403	Arte	Pedro Cortes	2016-11-23 00:00:00	
+116456	DAVILA CARLOS 			UIP	5x1	32	8.937	Arte	Pedro Jaime	2016-11-23 00:00:00	
+117003	CORP. CLUB DE LA SERENA	Par	Blanco y negro	Generales	5x2	A/EC	36.620	Arte	Pedro Jaime	2016-11-23 00:00:00	
+117037	SANTANDER G.R.C.	771 Palabras		Legal	x	A/LEG	191.208	Arte	Pedro Jaime	2016-11-23 00:00:00	
+117043	SOC. EDUCACIONAL SENDEROS LTDA.	Par	Blanco y negro	Generales	10x3	EC-20	51.268	Arte	Pedro Jaime	2016-11-23 00:00:00	
+117035	INMOBILIARIA LAS PALOMAS LTDA	Par	Blanco y negro	Generales	4x2	EC-20	29.296	Arte	Pedro Jaime	2016-11-23 00:00:00	
+115466	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Generales	5x1	EC-21	5.860	Arte	Rene Pizarro	2016-11-23 00:00:00	
+108960	HOTELERIA LUIS ALBERTO BERETTA KIEK	Par	Blanco y negro	Generales	5x2	EC-21	6.994	Arte	Patricia Villena	2016-11-23 00:00:00	

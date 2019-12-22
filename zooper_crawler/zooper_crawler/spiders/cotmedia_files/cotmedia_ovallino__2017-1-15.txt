@@ -1,0 +1,10 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+121289	CAMAL MUSALEM TAPIA Y CIA.	Par	Blanco y negro	Generales	34x6	03	249.696	Publicado	Marcela Tello-ElDia	Toyota New Corolla	2017-1-15 00:00:00	
+120829	SOCIEDAD COMERCIAL Y AGRICOLA CARVA	Par	Blanco y negro	Generales	5x1	05	15.302	Publicado	Karina Rivera	Asesora de hogar	2017-1-15 00:00:00	
+121216	EMPRESA PERIODISTICA EL NORTE S.A.	Par	Blanco y negro	Medios Regionales	4x2	05	11.560	Publicado	Medios Regionales		2017-1-15 00:00:00	
+121247	EMPRESA PERIODISTICA EL NORTE S.A.	Par	Blanco y negro	Medios Regionales	6x2	05	17.340	Publicado	Medios Regionales	Asercop - Chofer Tolva 8x4 - (235870)	2017-1-15 00:00:00	
+103061	SOCIEDAD MEDICA Y CONSULTORA ESTETI		Cuatricromia	Guia	5x2	06	13.333	Publicado	Maria_Amelia Hermosilla	Diego Polanco	2017-1-15 00:00:00	
+120711	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	08	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2017-1-15 00:00:00	
+120190	OVALLE CASINO RESORT S.A	Par	Cuatricromia	Generales	25x4	09	171.372	Publicado	Paola Marquez	OCR Eventos verano	2017-1-15 00:00:00	
+121292	ALEJANDRO HERNAN AZUA VEGA	Par	Blanco y negro	Generales	17x3	13	93.643	Publicado	Karina Rivera	Agradecimientos Armando Carlos salamanca	2017-1-15 00:00:00	
+121291	CARLOS ?LAMO PIZARRO	Par	Cuatricromia	Generales	12x2	14	0	Publicado	Karina Rivera		2017-1-15 00:00:00	

@@ -1,0 +1,7 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+83751	DABED Y CIA. LTDA., SELIM	Impar	Cuatricromia	Generales	6x6	03	23.077	Publicado	Italo Retamal	Expo del maestro	2015-9-5 00:00:00	
+81389	Tanguemar			UIP	5x2	05	2.808	Publicado	Patricia Villena	Tanguemar	2015-9-5 00:00:00	
+83580	ADA diaz araya			UIP	10x2	05	5.630	Publicado	Italo Retamal	machi zona ganja	2015-9-5 00:00:00	
+83642	SOCIEDAD DE INVERSIONES Y ASESORIAS			UIP	17x2	05	9.211	Publicado	Italo Retamal	ingles	2015-9-5 00:00:00	
+83441	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	10x3	07	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2015-9-5 00:00:00	
+83785	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	11	0	Publicado	Marcela Tello-ElDia	Arak Pacha & Encanto Andino	2015-9-5 00:00:00	

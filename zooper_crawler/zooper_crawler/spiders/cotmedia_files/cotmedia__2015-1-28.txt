@@ -1,0 +1,40 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+67492	LATAM AIRLINES GROUP S.A.	Impar	Cuatricromia	Generales	35x6	05	620.000	Publicado	Patricia Villena	2015-1-28 00:00:00	
+67844	CHRISTIAN LAUNITZ MARIN SERVICIOS M	Par	Blanco y negro	Generales	3x2	08	6.452	Publicado	Jacqueline Torres	2015-1-28 00:00:00	
+67737	MALL PLAZA LA SERENA	Par	Cuatricromia	Generales	34x6	09	0	Publicado	Marcela Tello-ElDia	2015-1-28 00:00:00	
+63852	SKY AIRLINE S.A.	Impar	Cuatricromia	Generales	10x4	11	124.371	Publicado	M Cristina Puga	2015-1-28 00:00:00	
+65906	DIARIO EL DIA	Par	Cuatricromia	Generales	10x2	11	0	Publicado	Marcela Tello-ElDia	2015-1-28 00:00:00	
+67759	DIARIO EL DIA	Par	Cuatricromia	Generales	17x6	12	0	Publicado	Marcela Tello-ElDia	2015-1-28 00:00:00	
+67613	MILKO LEGUAS	Par	Blanco y negro	Generales	5x1	13	18.310	Publicado	Jacqueline Torres	2015-1-28 00:00:00	
+66989	INMOBILIARIA DOMINGA NORTE LTDA	Par	Blanco y negro	Generales	5x2	13	22.631	Publicado	Pedro Jaime	2015-1-28 00:00:00	
+65750	CENTRO TECNICO ACUARELA LTDA.	Par	Blanco y negro	Generales	5x2	14	19.409	Publicado	Rene Pizarro	2015-1-28 00:00:00	
+65302	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	14	8.306	Publicado	Miguel Apey	2015-1-28 00:00:00	
+64936	EMPRESA EL MERCURIO S.A.P.	Par	Blanco y negro	Medios Regionales	10x2	14	41.400	Publicado	Medios Regionales	2015-1-28 00:00:00	
+46273	SOCIEDAD MEDICA Y CONSULTORA ESTETI	Par	Cuatricromia	Generales	5x2	14	35.888	Publicado	Maria_Amelia Hermosilla	2015-1-28 00:00:00	
+67474	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	32x6	17	397.440	Publicado	Medios Regionales	2015-1-28 00:00:00	
+67476	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	32x6	18	397.440	Publicado	Medios Regionales	2015-1-28 00:00:00	
+67478	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	32x6	19	397.440	Publicado	Medios Regionales	2015-1-28 00:00:00	
+67756	SOCIEDAD PATRIMONIAL PEDRO PABLO MU	Par	Cuatricromia	Generales	10x2	21	84.080	Publicado	Pedro Jaime	2015-1-28 00:00:00	
+67754	DIARIO EL DIA	Impar	Cuatricromia	Generales	17x3	21	0	Publicado	Patricia Villena	2015-1-28 00:00:00	
+67245	IMPLEMENTA MARKETING DEPORTIVO SPA	Par	Cuatricromia	Generales	17x6	23	192.956	Publicado	Marcela Tello-ElDia	2015-1-28 00:00:00	
+66807	SOCIEDAD LA CONSTRUCCION LTDA.	Par	Cuatricromia	Generales	20x3	27	209.174	Publicado	Jacqueline Torres	2015-1-28 00:00:00	
+67315	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	10x3	27	0	Publicado	Marcela Tello-ElDia	2015-1-28 00:00:00	
+65345	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	4x5	28	20.508	Publicado	Miguel Apey	2015-1-28 00:00:00	
+67601	SOC. INMOBILIARIA DE INVERSIONES RE	Par	Blanco y negro	Generales	5x1	29	7.427	Publicado	Miguel Apey	2015-1-28 00:00:00	
+67683	SOCIEDAD RES			UIP	5x1	29	17.875	Publicado	Jacqueline Torres	2015-1-28 00:00:00	
+65844	PILLA LA VACA	Par	Blanco y negro	Generales	5x2	29	0	Publicado	Marcela Tello-ElDia	2015-1-28 00:00:00	
+65395	armaq			UIP	5x1	29	8.937	Publicado	Claudio Romero	2015-1-28 00:00:00	
+65874	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	29	0	Publicado	Marcela Tello-ElDia	2015-1-28 00:00:00	
+66016	CLINICA SIMOLAB LTDA.	Par	Blanco y negro	Generales	5x2	29	8.936	Publicado	Nadia Randolph	2015-1-28 00:00:00	
+66161	CROVETTO CASTILLO JORGE			UIP	5x2	29	17.875	Publicado	Miguel Apey	2015-1-28 00:00:00	
+66437	SERENA NOR			UIP	5x1	29	8.937	Publicado	Pedro Jaime	2015-1-28 00:00:00	
+66943	DIARIO EL DIA	Par	Blanco y negro	Generales	5x1	29	0	Publicado	Marcela Tello-ElDia	2015-1-28 00:00:00	
+66958	DIARIO EL DIA	Par	Blanco y negro	Generales	5x1	29	0	Publicado	Marcela Tello-ElDia	2015-1-28 00:00:00	
+65583	SOC. COMERCIAL ALCAPARRA LTDA.	Par	Blanco y negro	Generales	5x2	29	10.440	Publicado	Patricia Villena	2015-1-28 00:00:00	
+67749	CARAT CHILE S.A.	Impar	Cuatricromia	Generales	35x6	32	600.000	Publicado	Kathine Soto-Stgo	2015-1-28 00:00:00	
+66871	DIARIO EL DIA	Par	Cuatricromia	Generales	8x6	EC-15	0	Publicado	Marcela Tello-ElDia	2015-1-28 00:00:00	
+67894	SOCIEDAD EDUCACIONAL MONTEVERDI LTD	Par	Blanco y negro	Generales	8x2	EC-16	49.804	Publicado	Patricia Villena	2015-1-28 00:00:00	
+65712	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Generales	5x1	EC-16	5.860	Publicado	Rene Pizarro	2015-1-28 00:00:00	
+65742	SOC. COMERCIAL VARGAS Y GIACOMET	Par	Blanco y negro	Generales	5x1	EC-16	5.860	Publicado	Rene Pizarro	2015-1-28 00:00:00	
+67033	ILUSTRE MUNICIPALIDAD DE COQUIMBO	Par	Blanco y negro	Generales	12x2	EC-16	61.522	Publicado	Miguel Apey	2015-1-28 00:00:00	
+67895	CONDOMINIO EDIFICIO OCEANIC	Par	Blanco y negro	Generales	5x1	EC-16	18.310	Publicado	Claudio Romero	2015-1-28 00:00:00	

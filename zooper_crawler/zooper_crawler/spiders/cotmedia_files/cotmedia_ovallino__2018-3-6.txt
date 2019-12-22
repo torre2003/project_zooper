@@ -1,0 +1,6 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+151466	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	4x6	04	0	Publicado	Marcela Tello-ElDia	Cupones de Descuentos - Cinemark	2018-3-6 00:00:00	
+151468	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	12x6	08	0	Publicado	Marcela Tello-ElDia	Vive la experiencia de estar bien...	2018-3-6 00:00:00	
+151467	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x6	12	0	Publicado	Marcela Tello-ElDia	En la comodidad de su hogar...	2018-3-6 00:00:00	
+150540	VELIZ CORTES JOSE A.			UIP	5x2	15	4.695	Publicado	Pedro Cortes		2018-3-6 00:00:00	
+151465	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	6x6	15	0	Publicado	Marcela Tello-ElDia		2018-3-6 00:00:00	

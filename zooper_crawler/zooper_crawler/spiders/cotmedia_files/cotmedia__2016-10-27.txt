@@ -1,0 +1,37 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+114902	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	10x2	04	43.480	Publicado	Medios Regionales	2016-10-27 00:00:00	
+113732	CARAT CHILE S.A.	Impar	Cuatricromia	Generales	35x6	05	620.000	Publicado	Kathine Soto-Stgo	2016-10-27 00:00:00	
+114445	OVALLE CASINO RESORT S.A	Par	Cuatricromia	Generales	25x4	07	205.072	Publicado	Paola Marquez	2016-10-27 00:00:00	
+107401	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Cuatricromia	Medios Regionales	16x6	09	309.344	Publicado	Medios Regionales	2016-10-27 00:00:00	
+112874	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	6x6	10	51.666	Publicado	Claudio Romero	2016-10-27 00:00:00	
+115013	DIARIO EL DIA	Par	Cuatricromia	Generales	34x6	11	0	Publicado	Marcela Tello-ElDia	2016-10-27 00:00:00	
+114890	SERVICIOS TASUI S.A.	Par	Blanco y negro	Generales	5x2	12	36.620	Publicado	Rene Pizarro	2016-10-27 00:00:00	
+114620	GOTTREUX SALAS RUBEN	Par	Blanco y negro	Generales	12x2	12	74.705	Publicado	Karina Rivera	2016-10-27 00:00:00	
+112618	LABORATORIO CLINICO STA. MARIA LA S	Par	Blanco y negro	Generales	6x2	12	7.470	Publicado	Miguel Apey	2016-10-27 00:00:00	
+114032	JUNTA NACIONAL DE AUXILIO ESCOLAR Y	Par	Blanco y negro	Generales	35x6	13	507.993	Publicado	Jacqueline Torres	2016-10-27 00:00:00	
+111895	INVERSIONES VEINTINUEVE GRADOS	Par	Blanco y negro	Generales	5x2	14	9.280	Publicado	Patricia Villena	2016-10-27 00:00:00	
+114274	GESTION NORTE	Par	Blanco y negro	Generales	5x2	14	9.280	Publicado	Patricia Villena	2016-10-27 00:00:00	
+112693	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	5x2	14	0	Publicado	Miguel Apey	2016-10-27 00:00:00	
+114750	CERNA E HIJOS CIA. LTDA.	Par	Blanco y negro	Generales	5x1	15	4.468	Publicado	Nadia Randolph	2016-10-27 00:00:00	
+114540	SOC. DE GES			UIP	5x1	15	8.937	Publicado	Miguel Apey	2016-10-27 00:00:00	
+114644	soc.inmob			UIP	5x2	15	0	Publicado	Marcela Tello-ElDia	2016-10-27 00:00:00	
+112870	ARMAQ			UIP	5x1	15	8.937	Publicado	Claudio Romero	2016-10-27 00:00:00	
+112606	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	4x5	15	20.508	Publicado	Miguel Apey	2016-10-27 00:00:00	
+113435	SERVICIOS GASTRON?MICOS LA CASONA D	Par	Blanco y negro	Generales	5x2	15	10.725	Publicado	Miguel Apey	2016-10-27 00:00:00	
+113262	PILLA LA VACA	Par	Blanco y negro	Generales	5x2	15	0	Publicado	Marcela Tello-ElDia	2016-10-27 00:00:00	
+113244	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	15	0	Publicado	Marcela Tello-ElDia	2016-10-27 00:00:00	
+114825	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	16	0	Publicado	Marcela Tello-ElDia	2016-10-27 00:00:00	
+113071	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Cuatricromia	Medios Regionales	16x6	17	309.344	Publicado	Medios Regionales	2016-10-27 00:00:00	
+112575	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	19	8.306	Publicado	Miguel Apey	2016-10-27 00:00:00	
+114745	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	16x3	20	104.352	Publicado	Medios Regionales	2016-10-27 00:00:00	
+113187	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	24	0	Publicado	Marcela Tello-ElDia	2016-10-27 00:00:00	
+114865	DIARIO EL DIA	Par	Blanco y negro	Generales	35x6	25	0	Publicado	Carolina Naranjo	2016-10-27 00:00:00	
+112628	CASA DEL PERNO	Par	Blanco y negro	Generales	5x3	28	23.071	Publicado	Miguel Apey	2016-10-27 00:00:00	
+113122	SERVICIOS GENERALES GUAYACAN S.A	Par	Blanco y negro	Generales	4x2	30	6.666	Publicado	Jacqueline Torres	2016-10-27 00:00:00	
+114061	VELIZ CORTES JOSE A.	Par	Blanco y negro	Generales	3x2	30	13.403	Publicado	Pedro Cortes	2016-10-27 00:00:00	
+114153	DAVILA CARLOS 			UIP	5x1	31	8.937	Publicado	Pedro Jaime	2016-10-27 00:00:00	
+114861	INMOBIL. E INVERSIONES AREYUNA E HI	Par	Cuatricromia	Generales	35x6	32	333.333	Publicado	Claudio Romero	2016-10-27 00:00:00	
+114739	CHRISTIAN EDUARDO BRAVO BUSTOS	809 Palabras		Legal	x	EC-22	200.840	Publicado	Pedro Jaime	2016-10-27 00:00:00	
+112903	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Generales	5x1	EC-22	5.860	Publicado	Rene Pizarro	2016-10-27 00:00:00	
+108929	HOTELERIA LUIS ALBERTO BERETTA KIEK	Par	Blanco y negro	Generales	5x2	EC-22	6.994	Publicado	Patricia Villena	2016-10-27 00:00:00	
+114604	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	8x2	EC-22	34.784	Publicado	Medios Regionales	2016-10-27 00:00:00	

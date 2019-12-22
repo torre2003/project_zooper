@@ -1,0 +1,33 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+163320	DIARIO EL DIA	Par	Cuatricromia	Generales	13x6	05	0	Arte	Marcela Tello-ElDia	2018-9-4 00:00:00	
+162656	ARENA CHILE S.A.	Impar	Cuatricromia	Generales	17x6	07	340.000	Publicado	M Cristina Puga	2018-9-4 00:00:00	
+163304	INMOBIL. CLUB DE LA SERENA S.A.	Par	Blanco y negro	Generales	7x1	08	25.634	Publicado	Pedro Jaime	2018-9-4 00:00:00	
+162557	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	12x3	08	51.666	Publicado	Claudio Romero	2018-9-4 00:00:00	
+163153	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Cuatricromia	Medios Regionales	32x6	09	544.008	Arte	Medios Regionales	2018-9-4 00:00:00	
+163318	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Cuatricromia	Medios Regionales	16x6	11	324.840	Arte	Medios Regionales	2018-9-4 00:00:00	
+162886	AGRICOLA UAC LTDA.			UIP	5x2	13	17.875	Publicado	Miguel Apey	2018-9-4 00:00:00	
+163248	PAMELA B. GONZALEZ LIZAMA COMERCIAL	Par	Blanco y negro	Generales	5x2	13	0	Arte	Marcela Tello-ElDia	2018-9-4 00:00:00	
+163054	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	5x2	13	0	Publicado	Miguel Apey	2018-9-4 00:00:00	
+162669	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	15	8.306	Publicado	Miguel Apey	2018-9-4 00:00:00	
+163111	MOP OOPP	Par	Blanco y negro	Generales	18x2	19	131.832	Publicado	Jacqueline Torres	2018-9-4 00:00:00	
+162399	C.M. SOC. GASTRONOMICA LTDA.			UIP	5x2	19	7.208	Publicado		2018-9-4 00:00:00	
+163110	MOP OOPP	Par	Blanco y negro	Generales	18x2	19	131.832	Publicado	Jacqueline Torres	2018-9-4 00:00:00	
+162824	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	23	0	Arte	Marcela Tello-ElDia	2018-9-4 00:00:00	
+162958	INVERSIONES ALTA CRUZ LTDA	Par	Blanco y negro	Generales	5x2	25	0	Arte	Marcela Tello-ElDia	2018-9-4 00:00:00	
+162930	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	25	0	Arte	Marcela Tello-ElDia	2018-9-4 00:00:00	
+162704	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	4x5	25	20.508	Publicado	Miguel Apey	2018-9-4 00:00:00	
+162435	SOC. DE GES			UIP	5x1	25	8.937	Publicado	Miguel Apey	2018-9-4 00:00:00	
+162526	ARMAQ SUBIRI S.A.			UIP	5x1	25	8.937	Publicado	Claudio Romero	2018-9-4 00:00:00	
+163340	DIARIO EL DIA	Par	Cuatricromia	Generales	6x6	27	0	Arte	Marcela Tello-ElDia	2018-9-4 00:00:00	
+163333	DIARIO EL DIA	Par	Blanco y negro	Generales	35x6	28	0	Arte	Carolina Naranjo	2018-9-4 00:00:00	
+163221	DIARIO EL DIA	Par	Blanco y negro	Generales	12x2	29	0	Arte	Pedro Jaime	2018-9-4 00:00:00	
+163341	DIARIO EL DIA	Par	Blanco y negro	Generales	5x4	29	0	Arte	Marcela Tello-ElDia	2018-9-4 00:00:00	
+162788	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Generales	5x2	EC-21	7.003	Publicado	Rene Pizarro	2018-9-4 00:00:00	
+163338	DIARIO EL DIA	Par	Blanco y negro	Generales	17x6	EC-21	0	Arte	Marcela Tello-ElDia	2018-9-4 00:00:00	
+152179	HOTELERIA LUIS ALBERTO BERETTA KIEK	Par	Blanco y negro	Generales	5x2	EC-21	6.061	Publicado	Patricia Villena	2018-9-4 00:00:00	
+163339	DIARIO EL DIA	Par	Cuatricromia	Generales	17x6	EC-22	0	Arte	Marcela Tello-ElDia	2018-9-4 00:00:00	
+163270	LILIAN ELIZABETH OLIVARES LANAS	694 Palabras		Propiedades	x	PROP	111.040	Publicado	Pedro Jaime	2018-9-4 00:00:00	
+163271	FRANCISCO CORVETTO MIRANDA PROPIEDA	3729 Palabras		Propiedades	x	PROP	596.640	Publicado	Pedro Jaime	2018-9-4 00:00:00	
+163278	GONZALEZ ADAROS MARIA SOLEDAD	216 Palabras		Propiedades	x	PROP	34.560	Publicado	Pedro Jaime	2018-9-4 00:00:00	
+163277	GONZALEZ RIVERA MANUEL RICARDO	594 Palabras		Propiedades	x	PROP	95.040	Publicado	Pedro Jaime	2018-9-4 00:00:00	
+163276	RODRIGUEZ ROJAS MARCELO	678 Palabras		Propiedades	x	PROP	108.480	Publicado	Pedro Jaime	2018-9-4 00:00:00	

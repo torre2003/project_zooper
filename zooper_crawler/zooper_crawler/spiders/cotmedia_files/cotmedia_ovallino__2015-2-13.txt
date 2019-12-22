@@ -1,0 +1,16 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+68760	SOCIEDAD DE RENTAS FALABELLA S.A	Par	Cuatricromia	Generales	8x6	01	50.980	Publicado	M Cristina Puga	open Plaza/portada	2015-2-13 00:00:00	
+68824	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	34x6	03	0	Publicado	Marcela Tello-ElDia		2015-2-13 00:00:00	
+69181	ILUSTRE MUNICIPALIDAD DE OVALLE	Par	Blanco y negro	Generales	10x2	04	32.956	Publicado	Jacqueline Torres	bicicleta oxfor	2015-2-13 00:00:00	
+69180	ILUSTRE MUNICIPALIDAD DE OVALLE	Par	Blanco y negro	Generales	10x2	04	32.956	Publicado	Jacqueline Torres	CONSOLA VIDEO	2015-2-13 00:00:00	
+68254	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	10x3	05	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2015-2-13 00:00:00	
+69108	INMOBILIARIA NUEVA SERENA	Par	Cuatricromia	Generales	17x6	06	125.000	Publicado	Claudio Romero	proyecto don luis....	2015-2-13 00:00:00	
+69173	ILUSTRE MUNICIPALIDAD DE LA SERENA	Par	Blanco y negro	Generales	17x6	07	243.076	Publicado	Jacqueline Torres	FERIA DEL LIBRO	2015-2-13 00:00:00	
+69038	SOC. HOTELERA VICHUQUEN LTDA.	Par	Cuatricromia	Generales	10x3	08	0	Publicado	Marcela Tello-ElDia		2015-2-13 00:00:00	
+68831	UNIVERSIDAD DE LA SERENA	Par	Cuatricromia	Generales	17x3	08	108.902	Publicado	Claudio Romero	SALUDO DI	2015-2-13 00:00:00	
+69176	ILUSTRE MUNICIPALIDAD DE LA SERENA	Par	Cuatricromia	Generales	17x6	09	393.508	Publicado	M Cristina Puga	Bulevar del amor 	2015-2-13 00:00:00	
+68695	reyes m			UIP	10x6	10	0	Publicado	Italo Retamal	hotel monte cordillera 	2015-2-13 00:00:00	
+68699	ALVI SUPERMERCADOS MAYORISTAS S.A.	Impar	Cuatricromia	Generales	35x3	11	207.623	Publicado	Italo Retamal	mayorista 10 v13	2015-2-13 00:00:00	
+69163	PRENSA DEL LIMARI LTDA.	Par	Blanco y negro	Generales	6x2	13	0	Publicado	Marcela Tello-ElDia	Hoy Circulan - Economicos	2015-2-13 00:00:00	
+68347	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	6x6	14	16.065	Publicado	Claudio Romero	Muebles Alpina	2015-2-13 00:00:00	
+69159	EMPRESA PERIODISTICA EL NORTE S.A.	Par	Blanco y negro	MR: Inserto	x	INS	198.258	Publicado	Medios Regionales	Dijon - Inserto - (33012)	2015-2-13 00:00:00	

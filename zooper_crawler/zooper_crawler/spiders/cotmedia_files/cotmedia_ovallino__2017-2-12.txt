@@ -1,0 +1,8 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+122053	OVALLE CASINO RESORT S.A	Par	Cuatricromia	Generales	25x4	03	171.372	Publicado	Paola Marquez	OCR Eventos verano	2017-2-12 00:00:00	
+122957	CAMAL MUSALEM TAPIA Y CIA.	Par	Blanco y negro	Generales	30x4	05	146.880	Publicado	Marcela Tello-ElDia	Toyota	2017-2-12 00:00:00	
+122339	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	06	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2017-2-12 00:00:00	
+103065	SOCIEDAD MEDICA Y CONSULTORA ESTETI		Cuatricromia	Guia	5x2	08	13.333	Publicado	Maria_Amelia Hermosilla	Diego Polanco	2017-2-12 00:00:00	
+122720	SOC. HOTELERA VICHUQUEN LTDA.	Par	Cuatricromia	Generales	10x2	09	0	Arte	Karina Rivera		2017-2-12 00:00:00	
+122965	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	5x6	11	0	Arte	Marcela Tello-ElDia		2017-2-12 00:00:00	
+122966	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	5x6	14	0	Arte	Marcela Tello-ElDia		2017-2-12 00:00:00	

@@ -1,0 +1,12 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+106751	AUTOMOTRIZ CARMONA	Par	Cuatricromia	Generales	6x6	01	23.076	Publicado	Marcela Tello-ElDia	Nissan Qashqai - Portada (Si hay disponibilidad)	2016-7-24 00:00:00	
+106874	OVALLE CASINO RESORT S.A	Par	Cuatricromia	Generales	6x6	03	21.333	Publicado	Paola Marquez	Auspicio Casino Ovalle Impar	2016-7-24 00:00:00	
+107532	EMPRESA PERIODISTICA EL NORTE S.A.	Par	Blanco y negro	Medios Regionales	8x2	05	23.120	Arte	Medios Regionales	Empresa de Transportes Rurales - Conductores y Asistentes Tur Bus - (139746)	2016-7-24 00:00:00	
+105444	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	10x2	05	28.900	Publicado	Medios Regionales	Tattersal - Remate Prop. BCI - (121879)	2016-7-24 00:00:00	
+107493	INSTITUTO INV. AGROPECUARIA, CRI. I	Par	Blanco y negro	Generales	5x2	05	30.603	Publicado	Leonel Pizarro-Ovalle	INIA	2016-7-24 00:00:00	
+95391	SOCIEDAD BUSTOS Y PROCURIZA LTDA.	Par	Blanco y negro	Generales	10x2	06	27.542	Publicado	Maria_Amelia Hermosilla	Cento	2016-7-24 00:00:00	
+102991	SOCIEDAD MEDICA Y CONSULTORA ESTETI		Cuatricromia	Guia	5x2	06	13.333	Publicado	Maria_Amelia Hermosilla	Diego Polanco	2016-7-24 00:00:00	
+107537	CAMAL MUSALEM TAPIA Y CIA.	Par	Blanco y negro	Generales	31x4	07	151.776	Publicado	Marcela Tello-ElDia	Toyota Factory Sale - Nuevo	2016-7-24 00:00:00	
+105899	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	09	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2016-7-24 00:00:00	
+107535	CAMAL MUSALEM TAPIA Y CIA.	Par	Blanco y negro	Generales	17x6	11	124.848	Publicado	Marcela Tello-ElDia		2016-7-24 00:00:00	
+107555	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	6x6	14	0	Arte	Marcela Tello-ElDia		2016-7-24 00:00:00	

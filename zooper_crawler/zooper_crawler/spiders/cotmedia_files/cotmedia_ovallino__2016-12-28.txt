@@ -1,0 +1,15 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+117596	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	6x6	01	16.065	Publicado	Claudio Romero	Muebles Alpina	2016-12-28 00:00:00	
+119301	UNIVERSIDAD TECNOLOGICA DE CHILE	Impar	Cuatricromia	Generales	17x6	03	302.537	Publicado	Patricia Villena	Aviso Gratuidad Inacap	2016-12-28 00:00:00	
+119630	CENTRO DE FORMACION TECNICA SANTO T	Par	Blanco y negro	Generales	35x6	05	300.000	Publicado	Claudio Romero		2016-12-28 00:00:00	
+119662	SOCIEDAD E			UIP	10x2	06	7.882	Publicado	Karina Rivera		2016-12-28 00:00:00	
+117867	OVALLEMAR			UIP	5x2	06	3.958	Publicado	Karina Rivera	OVALLE MAR	2016-12-28 00:00:00	
+118321	COMERCIAL AVA 			UIP	10x2	06	7.882	Publicado	Karina Rivera	E BODY OVALLE	2016-12-28 00:00:00	
+119467	tanguemar			UIP	5x2	07	2.808	Publicado	Patricia Villena	Tanguemar	2016-12-28 00:00:00	
+119248	AGRICOLA NORTE TALINAY LTDA	Par	Blanco y negro	Generales	5x2	07	1.666	Publicado	Paola Marquez	UIP VENTA ALFALFA	2016-12-28 00:00:00	
+118716	DABED Y CIA. LTDA., SELIM	Par	Cuatricromia	Generales	6x6	08	23.077	Publicado	Karina Rivera	VARIOS 1	2016-12-28 00:00:00	
+115501	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	09	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2016-12-28 00:00:00	
+116738	OVALLE CASINO RESORT S.A	Par	Cuatricromia	Generales	25x4	11	0	Publicado	Paola Marquez	OCR Eventos diciembre	2016-12-28 00:00:00	
+118703	CENTRO DE ESTETICA INTEGRAL CARLA			UIP	10x2	13	5.630	Publicado	Karina Rivera	ESTETICA CARLA FIGUEROA	2016-12-28 00:00:00	
+119672	EMPRESA PERIODISTICA EL NORTE S.A.	Par	Blanco y negro	Medios Regionales	10x3	13	43.350	Publicado	Medios Regionales	Tattersall Gestion - Remate Prop. Ovalle - (241789)	2016-12-28 00:00:00	
+118593	CABARET Y SALON DE ESPECTACULOS ART			UIP	10x2	14	5.517	Publicado	Karina Rivera	PARADISE CLUB	2016-12-28 00:00:00	

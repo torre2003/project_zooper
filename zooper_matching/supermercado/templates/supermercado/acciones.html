@@ -1,0 +1,26 @@
+{% extends 'base.html' %}
+{% load staticfiles %}
+
+{% block titulo_head %}Acciones supermercado{% endblock %}
+{% block titulo %}Acciones supermercado{% endblock %}
+
+{% block contenido %}
+
+<div class="row clearfix">
+    <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+        <div class="card">
+            <div class="header">
+                <h2 id="">
+                    Acciones
+                </h2>
+            </div>
+            <div class="body">
+                
+            </div>
+        </div>
+    </div>
+</div>
+<form>
+    {% csrf_token %}
+</form>
+{% endblock %}

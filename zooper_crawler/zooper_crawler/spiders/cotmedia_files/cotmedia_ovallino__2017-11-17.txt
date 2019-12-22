@@ -1,0 +1,22 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+144020	SOCIEDAD DE RENTAS FALABELLA S.A	Par	Cuatricromia	Generales	8x6	01	50.980	Arte	M Cristina Puga	HUINCHA PORTADAOpen Plaza - COLLOKY	2017-11-17 00:00:00	
+144140	OMD CHILE S.P.A.	Impar	Cuatricromia	Generales	35x6	03	445.386	Arte	Patricia Villena		2017-11-17 00:00:00	
+136044	INVERSIONES TANGUEMAR LIMITADA			UIP	5x2	04	2.808	Arte	Patricia Villena	Tanguemar	2017-11-17 00:00:00	
+138352	CENTRO DE SALUD PORTALES LTDA			UIP	5x4	04	4.504	Arte	Karina Rivera		2017-11-17 00:00:00	
+142573	OVALLE CASINO RESORT S.A	Par	Cuatricromia	Generales	25x4	05	131.824	Arte	Paola Marquez	OCR Eventos Noviembre	2017-11-17 00:00:00	
+143891	DABED Y CIA. LTDA., SELIM	Par	Cuatricromia	Generales	6x6	06	23.076	Arte	Karina Rivera	CURSOS EDO	2017-11-17 00:00:00	
+143907	INMOBILIARIA NUEVA SERENA			UIP	10x6	07	16.260	Arte	Claudio Romero	 "LLANOS DE SAN LUIS III ( SE CONFIRMARA SI REPITE) CASAS Y DEPARTAMENTOS..	2017-11-17 00:00:00	
+143706	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x3	08	0	Arte	Marcela Tello-ElDia	Vea en Cinemark - La Liga de la Justicia	2017-11-17 00:00:00	
+144162	SOCIEDAD DE RENTAS FALABELLA S.A	Par	Cuatricromia	Generales	17x6	09	200.000	Arte	M Cristina Puga	Open Plaza - Mall Ovalle	2017-11-17 00:00:00	
+143080	CAMPOS DEL NORTE S.A.	Par	Cuatricromia	Generales	17x6	10	218.499	Arte	Patricia Villena	Aviso Enjoy	2017-11-17 00:00:00	
+144115	AUTOMOTORES GILDEMEISTER S.A.	Impar	Cuatricromia	Generales	35x6	11	705.918	Arte	Kathine Soto-Stgo	GILDEMEISTER FAVOR UBICAR PRIMERAS IMPARES	2017-11-17 00:00:00	
+143585	AUTOMOTORA INDEPENDENCIA LTDA.			UIP	10x6	12	22.764	Arte	Karina Rivera	AUTOMOTORA INDEPENDENCIA	2017-11-17 00:00:00	
+142674	INMOBILIARIA CALEUCHE LTDA	Par	Cuatricromia	Generales	8x6	13	102.823	Arte	Paola Marquez	Beltec IMPAR si se puede	2017-11-17 00:00:00	
+143505	CARLOS CASTILLO			UIP	5x2	13	2.808	Arte	Karina Rivera	DR CARLOS CASTILLO ODONTOLOGO	2017-11-17 00:00:00	
+143817	ADOLFO HADLER BARRERA			UIP	5x2	13	2.808	Arte	Karina Rivera	SE VENDE 5 SITIOS	2017-11-17 00:00:00	
+143959	VELIZ CORTES JOSE A.			UIP	5x2	14	4.695	Arte	Pedro Cortes		2017-11-17 00:00:00	
+142417	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	6x6	14	16.065	Arte	Claudio Romero	Muebles Alpina	2017-11-17 00:00:00	
+144131	EMPRESAS LA POLAR S.A.	Par	Cuatricromia	Generales	35x6	16	252.000	Arte	Patricia Villena	La polar	2017-11-17 00:00:00	
+143388	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	XX	0	Arte	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2017-11-17 00:00:00	
+143881	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	34x6	XX	0	Arte	Marcela Tello-ElDia	Elecciones Presidenciales - 2017	2017-11-17 00:00:00	
+144036	EMPRESAS LA POLAR S.A.		9 a 24 pag.	Inserto	x	Xx	160.000	Arte	Patricia Villena	Especial Descanso	2017-11-17 00:00:00	

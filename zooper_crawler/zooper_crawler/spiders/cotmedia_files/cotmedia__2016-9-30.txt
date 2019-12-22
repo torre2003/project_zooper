@@ -1,0 +1,60 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+110118	CHRISTIAN LAUNITZ MARIN SERVICIOS M	Par	Blanco y negro	Generales	4x2	04	6.464	Publicado	Jacqueline Torres	2016-9-30 00:00:00	
+111046	PARQUE ARAUCO S.A.	Impar	Cuatricromia	Generales	17x6	05	470.641	Publicado	Patricia Villena	2016-9-30 00:00:00	
+113043	DIARIO EL DIA	Par	Cuatricromia	Generales	17x6	07	0	Publicado	Marcela Tello-ElDia	2016-9-30 00:00:00	
+112013	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Cuatricromia	Medios Regionales	17x6	09	322.388	Publicado	Medios Regionales	2016-9-30 00:00:00	
+112461	SINDY GONZALEZ MARCHANT	Par	Blanco y negro	Generales	8x2	10	0	Publicado	Marcela Tello-ElDia	2016-9-30 00:00:00	
+112457	SINDY GONZALEZ MARCHANT	Par	Blanco y negro	Generales	12x2	10	0	Publicado	Marcela Tello-ElDia	2016-9-30 00:00:00	
+112514	DIRECCION GENERAL DEL CREDITO PREND	Par	Blanco y negro	Generales	15x2	10	76.902	Publicado	Jacqueline Torres	2016-9-30 00:00:00	
+110435	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	5x2	10	0	Publicado	Miguel Apey	2016-9-30 00:00:00	
+112066	SOC. COMERCIAL NAPOLEON LTDA.	Impar	Blanco y negro	Generales	5x6	11	11.538	Publicado	Patricia Villena	2016-9-30 00:00:00	
+112406	OVALLE CASINO RESORT S.A	Par	Cuatricromia	Generales	25x4	12	205.072	Publicado	Paola Marquez	2016-9-30 00:00:00	
+112268	OVALLE CASINO RESORT S.A	Par	Cuatricromia	Generales	35x6	13	430.652	Publicado	Paola Marquez	2016-9-30 00:00:00	
+111819	INVERSIONES VEINTINUEVE GRADOS	Par	Blanco y negro	Generales	5x2	14	9.280	Publicado	Patricia Villena	2016-9-30 00:00:00	
+112281	ARZOBISPADO DE LA SERENA	Par	Blanco y negro	Generales	5x2	14	0	Publicado	Marcela Tello-ElDia	2016-9-30 00:00:00	
+111096	DIARIO EL DIA	Par	Blanco y negro	Generales	5x2	14	0	Publicado	Marcela Tello-ElDia	2016-9-30 00:00:00	
+113149	DIARIO EL DIA	Par	Cuatricromia	Generales	17x6	15	0	Publicado	Marcela Tello-ElDia	2016-9-30 00:00:00	
+112409	CALZADOS LA ESTRELLA ALPINA	Par	Cuatricromia	Generales	10x4	16	102.536	Publicado	M Cristina Puga	2016-9-30 00:00:00	
+112470	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	17	0	Publicado	Marcela Tello-ElDia	2016-9-30 00:00:00	
+112475	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	17	0	Publicado	Marcela Tello-ElDia	2016-9-30 00:00:00	
+110310	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	24	8.306	Publicado	Miguel Apey	2016-9-30 00:00:00	
+110492	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	25	0	Publicado	Marcela Tello-ElDia	2016-9-30 00:00:00	
+113056	EMPRESAS LA POLAR S.A.	Impar	Cuatricromia	Generales	35x6	26	504.000	Publicado	Patricia Villena	2016-9-30 00:00:00	
+110354	HOTEL COSTA REAL	Par	Cuatricromia	Generales	10x2	31	30.761	Publicado	Miguel Apey	2016-9-30 00:00:00	
+110276	BAKULIC RESTAURANT	Par	Cuatricromia	Generales	10x2	31	24.609	Publicado	Miguel Apey	2016-9-30 00:00:00	
+107663	SOC HOTELERA Y DE TURISMO HACIENDA 	Par	Cuatricromia	Generales	5x6	31	9.063	Publicado	Patricia Villena	2016-9-30 00:00:00	
+110572	PILLA LA VACA	Par	Cuatricromia	Generales	5x2	31	0	Publicado	Marcela Tello-ElDia	2016-9-30 00:00:00	
+110468	SOC. HOTELERA VICHUQUEN LTDA.	Par	Cuatricromia	Generales	5x3	31	0	Publicado	Marcela Tello-ElDia	2016-9-30 00:00:00	
+110591	MARTIN JURE PATRICIA	Par	Cuatricromia	Generales	5x3	31	0	Publicado	Marcela Tello-ElDia	2016-9-30 00:00:00	
+110707	SERVICIOS GASTRON?MICOS LA CASONA D	Par	Blanco y negro	Generales	5x2	31	10.725	Publicado	Miguel Apey	2016-9-30 00:00:00	
+113092	DIARIO EL DIA	Par	Blanco y negro	Generales	35x6	33	0	Publicado	Carolina Naranjo	2016-9-30 00:00:00	
+110886	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	6x6	35	51.666	Publicado	Claudio Romero	2016-9-30 00:00:00	
+110542	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	36	0	Publicado	Marcela Tello-ElDia	2016-9-30 00:00:00	
+112756	CLUB DEPORTES COQUIMBO UNIDO	Par	Cuatricromia	Generales	17x3	36	0	Publicado	Marcela Tello-ElDia	2016-9-30 00:00:00	
+107461	INV. GASTRONOMICAS PATRICIA TORO EI	Par	Blanco y negro	Generales	5x2	37	8.973	Publicado	Nadia Randolph	2016-9-30 00:00:00	
+113060	CARMEN AREVALO ROMERO	Par	Blanco y negro	Generales	5x1	37	0	Publicado	Pedro Jaime	2016-9-30 00:00:00	
+112316	SAN AGUSTIN S.A			UIP	5x1	37	8.937	Publicado	Pedro Jaime	2016-9-30 00:00:00	
+108462	CERNA E HIJOS CIA. LTDA.	Par	Blanco y negro	Generales	5x1	37	4.468	Publicado	Nadia Randolph	2016-9-30 00:00:00	
+111950	MINERA CHINA			UIP	5x2	37	17.875	Publicado	Pedro Jaime	2016-9-30 00:00:00	
+107002	SOC.COMERCIAL ALTOS LA SERENA LTDA	Par	Blanco y negro	Generales	5x2	37	8.973	Publicado	Nadia Randolph	2016-9-30 00:00:00	
+112298	EMBOTELLADORA			UIP	5x1	37	8.937	Publicado	Paola Marquez	2016-9-30 00:00:00	
+110846	ARMAQ			UIP	5x1	37	8.937	Publicado	Claudio Romero	2016-9-30 00:00:00	
+112021	SOC. DE GES			UIP	5x1	37	8.937	Publicado	Miguel Apey	2016-9-30 00:00:00	
+110340	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	4x5	37	20.508	Publicado	Miguel Apey	2016-9-30 00:00:00	
+113082	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	10x3	38	65.220	Publicado	Medios Regionales	2016-9-30 00:00:00	
+110148	SERVICIOS GENERALES GUAYACAN S.A	Par	Blanco y negro	Generales	4x2	38	6.666	Publicado	Jacqueline Torres	2016-9-30 00:00:00	
+111610	VELIZ CORTES JOSE A.	Par	Blanco y negro	Generales	3x2	38	13.403	Publicado	Pedro Cortes	2016-9-30 00:00:00	
+112495	CALLEGARI LTDA.	Par	Cuatricromia	Generales	34x6	40	0	Publicado	Marcela Tello-ElDia	2016-9-30 00:00:00	
+113063	IP PROYECTOS INDUSTRIALES LTDA.	Par	Blanco y negro	Generales	3x2	EC-27	0	Publicado	Pedro Jaime	2016-9-30 00:00:00	
+110628	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Generales	5x1	EC-28	5.860	Publicado	Rene Pizarro	2016-9-30 00:00:00	
+108877	HOTELERIA LUIS ALBERTO BERETTA KIEK	Par	Blanco y negro	Generales	5x2	EC-28	6.994	Publicado	Patricia Villena	2016-9-30 00:00:00	
+113059	INVERSIONES TANGUEMAR LIMITADA	Par	Cuatricromia	Generales	10x6	EE-18	153.804	Publicado	Paola Marquez	2016-9-30 00:00:00	
+112746	BENITO ARRA?O GONZALEZ	Par	Cuatricromia	Generales	17x6	EE-19	200.000	Publicado	Paola Marquez	2016-9-30 00:00:00	
+112939	ALALUF PROPIEDADES S.A.	Par	Cuatricromia	Ed.Especial	17x3	EE-20	202.635	Publicado	Jacqueline Torres	2016-9-30 00:00:00	
+112747	CASAS ARBOLITO LA SERENA	Par	Cuatricromia	Generales	10x3	EE-21	92.283	Publicado	Paola Marquez	2016-9-30 00:00:00	
+112322	FERNANDO J. CORTES ALCAPIO SERV. DE	Par	Cuatricromia	Generales	17x6	EE-22	300.000	Publicado	Paola Marquez	2016-9-30 00:00:00	
+112745	EMPRESA CONSTRUCTORA CASAS FLORIDA 	Par	Cuatricromia	Generales	34x6	EE-23	543.851	Publicado	Jacqueline Torres	2016-9-30 00:00:00	
+112660	INVERSIONES SAN JAVIER LTDA.	760 Palabras		Propiedades	x	PROP	121.600	Publicado	Rene Pizarro	2016-9-30 00:00:00	
+112656	ACADEMIA DE DACTILOGRAFIA FUTURO	262 Palabras		Propiedades	x	PROP	42.017	Publicado	Rene Pizarro	2016-9-30 00:00:00	
+112826	BRAVO DE VON TROTT CARMEN	943 Palabras		Propiedades	x	PROP	150.880	Publicado	Claudio Romero	2016-9-30 00:00:00	
+112825	MONSERRAT NU?EZ PROPIEDADES LTDA.	355 Palabras		Propiedades	x	PROP	56.800	Publicado	Claudio Romero	2016-9-30 00:00:00	

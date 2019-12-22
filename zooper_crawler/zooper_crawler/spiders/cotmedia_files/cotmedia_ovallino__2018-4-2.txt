@@ -1,0 +1,14 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+153309	CONSTRUCTORA PACAL S.A.	Impar	Cuatricromia	Generales	17x6	03	255.846	Publicado	Paola Marquez	Pacal Camino de Luna 	2018-4-2 00:00:00	
+152537	JORGE CANEO NU?EZ			UIP	5x2	05	2.808	Publicado	Patricia Villena	Casas bychome	2018-4-2 00:00:00	
+152618	AGRICOLA NORTE TALINAY LTDA	Par	Blanco y negro	Generales	5x2	05	1.666	Publicado	Paola Marquez	UIP VENTA ALFALFA	2018-4-2 00:00:00	
+153226	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	06	0	Arte	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2018-4-2 00:00:00	
+153121	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	8x4	08	16.065	Publicado	Claudio Romero	Muebles alpina..	2018-4-2 00:00:00	
+153360	SOCIEDAD DE RENTAS FALABELLA S.A	Par	Cuatricromia	Generales	17x6	09	200.000	Publicado	M Cristina Puga	Open Plaza - Mall Ovalle	2018-4-2 00:00:00	
+153453	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	5x2	11	0	Arte	Marcela Tello-ElDia		2018-4-2 00:00:00	
+151896	GASTON MALUENDA GONZALEZ	Par	Cuatricromia	Generales	17x3	11	0	Publicado	Karina Rivera	circo los maluenda	2018-4-2 00:00:00	
+153454	PRENSA DEL LIMARI LTDA.	Par	Blanco y negro	Generales	17x6	12	0	Arte	Marcela Tello-ElDia	Nos trasladamos para ofrecerles un mejor servicio... El Ovallino	2018-4-2 00:00:00	
+152475	MOP OOPP	233 Palabras		Legal	x	15	57.784	Publicado	Karina Rivera		2018-4-2 00:00:00	
+152474	MOP OOPP	228 Palabras		Legal	x	15	56.544	Publicado	Karina Rivera		2018-4-2 00:00:00	
+153455	PRENSA DEL LIMARI LTDA.	Par	Blanco y negro	Generales	6x6	15	0	Arte	Marcela Tello-ElDia		2018-4-2 00:00:00	
+152855	INMOBILIARIA CALEUCHE LTDA	Home	Box Derecho	Web	x	WEB	200.000	Publicado	Paola Marquez	Beltec banner elovallino.cl	2018-4-2 00:00:00	

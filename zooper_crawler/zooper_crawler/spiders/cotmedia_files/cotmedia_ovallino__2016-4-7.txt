@@ -1,0 +1,8 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+99574	SOC. EDUCACIONAL SOSTENEDORA STA. M	Par	Blanco y negro	Generales	8x2	05	37.664	Publicado	Claudio Romero	COLEGIO SANTA MARIA..CITACION REPITE DEL 6 DE ABRIL...	2016-4-7 00:00:00	
+99604	INMOBILIARIA AYLLU S.A	Par	Blanco y negro	Generales	8x2	05	37.664	Publicado	Claudio Romero		2016-4-7 00:00:00	
+99607	INMOBILIARIA E INVERSIONES EL CHA?A	Par	Blanco y negro	Generales	8x2	05	37.664	Publicado	Claudio Romero		2016-4-7 00:00:00	
+98185	AGRICOLA NORTE TALINAY LTDA	Par	Blanco y negro	Generales	5x2	06	1.666	Publicado	Paola Marquez	UIP VENTA ALFALFA	2016-4-7 00:00:00	
+99090	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	07	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2016-4-7 00:00:00	
+99700	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x6	14	0	Arte	Marcela Tello-ElDia		2016-4-7 00:00:00	
+99644	SOCIEDAD DE RENTAS FALABELLA S.A	Impar	Cuatricromia	Generales	35x6	16	400.000	Publicado	M Cristina Puga	Open 	2016-4-7 00:00:00	

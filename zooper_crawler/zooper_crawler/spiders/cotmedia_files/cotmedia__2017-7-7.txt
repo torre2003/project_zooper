@@ -1,0 +1,31 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+132512	CHRISTIAN LAUNITZ MARIN SERVICIOS M	Par	Blanco y negro	Generales	8x2	04	5.000	Publicado	Heinger Vega Torres	2017-7-7 00:00:00	
+133193	ADMINISTR. CMR FALABELLA LTDA.	Impar	Cuatricromia	Contraportada	35x6	05	550.000	Publicado	M Cristina Puga	2017-7-7 00:00:00	
+133611	EMPRESAS LA POLAR S.A.	Impar	Cuatricromia	Generales	35x6	07	504.000	Publicado	Patricia Villena	2017-7-7 00:00:00	
+133420	MULTITIENDAS CORONA S.A.	Impar	Cuatricromia	Generales	35x6	09	400.000	Publicado	M Cristina Puga	2017-7-7 00:00:00	
+132728	INMOBILIARIA CONPACES S.A.	Par	Cuatricromia	Generales	34x6	11	690.273	Publicado	Paola Marquez	2017-7-7 00:00:00	
+133573	SOC. CONSTRUCTORA RIO LIMARI LTDA.	Par	Blanco y negro	Generales	10x2	13	0	Arte	Claudio Romero	2017-7-7 00:00:00	
+133652	PERSIANAS ANDINA LTDA	Par	Blanco y negro	Generales	10x3	13	139.776	Publicado	Pedro Jaime	2017-7-7 00:00:00	
+132198	EFRAIN PALMA KUHNOW	Par	Blanco y negro	Generales	6x6	14	40.657	Publicado	Karina Rivera	2017-7-7 00:00:00	
+132847	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	5x2	15	0	Publicado	Miguel Apey	2017-7-7 00:00:00	
+130790	DIARIO EL DIA	Par	Blanco y negro	Generales	5x2	15	0	Publicado	Marcela Tello-ElDia	2017-7-7 00:00:00	
+132598	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	16	8.306	Publicado	Miguel Apey	2017-7-7 00:00:00	
+133651	INMOBILIARIA VIVIENDAS 2000 LIMITAD	Par	Cuatricromia	Generales	17x6	17	0	Publicado	Jacqueline Torres	2017-7-7 00:00:00	
+133146	ELEODORO GODOY SALINAS	Par	Cuatricromia	Generales	6x6	22	78.031	Publicado	M Cristina Puga	2017-7-7 00:00:00	
+133686	CALLEGARI LTDA.	Par	Cuatricromia	Generales	34x6	23	570.996	Publicado	Marcela Tello-ElDia	2017-7-7 00:00:00	
+133684	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	24	0	Arte	Marcela Tello-ElDia	2017-7-7 00:00:00	
+133021	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	24	0	Arte	Marcela Tello-ElDia	2017-7-7 00:00:00	
+133005	PILLA LA VACA	Par	Cuatricromia	Generales	5x2	24	0	Arte	Marcela Tello-ElDia	2017-7-7 00:00:00	
+133001	MARTIN JURE PATRICIA	Par	Cuatricromia	Generales	5x3	24	0	Publicado	Marcela Tello-ElDia	2017-7-7 00:00:00	
+133083	SOC. HOTELERA VICHUQUEN LTDA.	Par	Cuatricromia	Generales	5x3	24	0	Arte	Marcela Tello-ElDia	2017-7-7 00:00:00	
+133685	DIARIO EL DIA	Par	Cuatricromia	Generales	17x6	28	0	Arte	Marcela Tello-ElDia	2017-7-7 00:00:00	
+128027	cern			UIP	5x1	29	8.937	Publicado	Nadia Randolph	2017-7-7 00:00:00	
+132570	SOC. DE GES			UIP	5x1	29	8.937	Publicado	Miguel Apey	2017-7-7 00:00:00	
+132642	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	4x5	29	20.508	Publicado	Miguel Apey	2017-7-7 00:00:00	
+132750	ARMAQ			UIP	5x1	29	8.937	Publicado	Claudio Romero	2017-7-7 00:00:00	
+132813	SOC. AGRICOLA HACIENDA 			UIP	5x1	29	8.937	Publicado	Karina Rivera	2017-7-7 00:00:00	
+131822	VELIZ CORTES JOSE A.	Par	Blanco y negro	Generales	3x2	30	13.403	Publicado	Pedro Cortes	2017-7-7 00:00:00	
+132881	SERVICIOS GENERALES GUAYACAN S.A	Par	Blanco y negro	Generales	4x2	30	6.666	Publicado	Jacqueline Torres	2017-7-7 00:00:00	
+133639	EMPRESAS LA POLAR S.A.	Par	Cuatricromia	Contraportada	35x6	32	504.000	Publicado	Patricia Villena	2017-7-7 00:00:00	
+132928	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Economico	5x2	EC-19	16.774	Publicado	Rene Pizarro	2017-7-7 00:00:00	
+123865	HOTELERIA LUIS ALBERTO BERETTA KIEK	Par	Blanco y negro	Generales	5x2	EC-19	6.061	Publicado	Patricia Villena	2017-7-7 00:00:00	

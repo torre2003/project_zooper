@@ -1,0 +1,8 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+130144	PEDRO ANDRES MONARDEZ ELGUETA	Par	Cuatricromia	Generales	6x6	01	25.000	Publicado	Karina Rivera	Restaurant Riquisimo	2017-5-25 00:00:00	
+130070	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x3	03	0	Arte	Marcela Tello-ElDia		2017-5-25 00:00:00	
+129854	JACQUELINE JOFRE VILLANUEVA			UIP	5x2	05	2.808	Publicado	Karina Rivera	Cortinas Rollers	2017-5-25 00:00:00	
+129957	CENTRO DE SALUD			UIP	5x4	05	5.630	Publicado	Karina Rivera	CENTRO DE SALUD PORTALES	2017-5-25 00:00:00	
+130159	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	5x6	11	0	Arte	Marcela Tello-ElDia		2017-5-25 00:00:00	
+130160	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	5x6	14	0	Arte	Marcela Tello-ElDia		2017-5-25 00:00:00	
+129907	HSCHILE S.A.	Impar	Cuatricromia	Generales	35x6	16	360.000	Publicado	Patricia Villena	Aiep	2017-5-25 00:00:00	

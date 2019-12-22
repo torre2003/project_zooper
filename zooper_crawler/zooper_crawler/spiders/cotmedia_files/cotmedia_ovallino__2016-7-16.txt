@@ -1,0 +1,7 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+104964	OVALLE CASINO RESORT S.A	Par	Cuatricromia	Generales	6x6	01	21.343	Publicado	Paola Marquez	Auspicio Casino Ovalle Impar	2016-7-16 00:00:00	
+106151	EMPRESA PERIODISTICA EL NORTE S.A.	Par	Cuatricromia	Medios Regionales	16x3	03	141.613	Publicado	Medios Regionales	Parques de Chile S.A. - (125682)	2016-7-16 00:00:00	
+107073	SOC. LIMARI COMERCIALIZADORA DEL AG	Par	Blanco y negro	Generales	15x2	05	81.213	Publicado	Rene Pizarro		2016-7-16 00:00:00	
+105893	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	09	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2016-7-16 00:00:00	
+107218	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	6x6	14	0	Arte	Marcela Tello-ElDia		2016-7-16 00:00:00	
+107216	EMPRESA PERIODISTICA EL NORTE S.A.	Par	Cuatricromia	Medios Regionales	32x6	16	349.693	Arte	Medios Regionales		2016-7-16 00:00:00	

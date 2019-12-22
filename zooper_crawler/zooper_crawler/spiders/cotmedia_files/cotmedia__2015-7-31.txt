@@ -1,0 +1,48 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+79561	CHRISTIAN LAUNITZ MARIN SERVICIOS M	Par	Blanco y negro	Generales	3x2	04	6.800	Publicado	Jacqueline Torres	2015-7-31 00:00:00	
+80944	INMOBILIARIA ECOMAC SANTIAGO S.A.	Impar	Cuatricromia	Generales	35x6	05	0	Arte	M Cristina Puga	2015-7-31 00:00:00	
+80924	ARMAQ SUBIRI S.A.	Par	Cuatricromia	Generales	17x3	08	0	Publicado	Claudio Romero	2015-7-31 00:00:00	
+79010	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	10x3	08	0	Publicado	Marcela Tello-ElDia	2015-7-31 00:00:00	
+81309	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	09	0	Publicado	Marcela Tello-ElDia	2015-7-31 00:00:00	
+81293	ILUSTRE MUNICIPALIDAD DE COMBARBALA	Par	Blanco y negro	Generales	17x3	09	126.998	Publicado	Jacqueline Torres	2015-7-31 00:00:00	
+81035	HERMANAS CALLEGARI LTDA.	Par	Cuatricromia	Generales	18x6	10	302.292	Publicado	Marcela Tello-ElDia	2015-7-31 00:00:00	
+80438	FARMACIAS CRUZ VERDE S.A.	Impar	Cuatricromia	Generales	34x3	11	439.265	Publicado	Patricia Villena	2015-7-31 00:00:00	
+81297	CLUB DEPORTES COQUIMBO UNIDO	Par	Blanco y negro	Generales	10x2	11	0	Publicado	Marcela Tello-ElDia	2015-7-31 00:00:00	
+80949	DIARIO EL DIA	Par	Blanco y negro	Generales	10x2	12	0	Publicado	Marcela Tello-ElDia	2015-7-31 00:00:00	
+79133	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	12-14	8.306	Publicado	Miguel Apey	2015-7-31 00:00:00	
+81108	DABED Y CIA. LTDA., SELIM	Par	Blanco y negro	Generales	17x6	13	0	Publicado	Italo Retamal	2015-7-31 00:00:00	
+81047	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	6x3	15	39.132	Publicado	Medios Regionales	2015-7-31 00:00:00	
+81044	CALLEGARI LTDA.	Par	Cuatricromia	Generales	17x6	21	0	Publicado	Marcela Tello-ElDia	2015-7-31 00:00:00	
+80525	TURISMO Y GASTRONOMIA EL ESTABLO	Par	Cuatricromia	Generales	10x2	22	61.522	Publicado	Miguel Apey	2015-7-31 00:00:00	
+79143	HOTEL COSTA REAL	Par	Cuatricromia	Generales	10x2	22	30.761	Publicado	Miguel Apey	2015-7-31 00:00:00	
+79138	BAKULIC RESTAURANT	Par	Cuatricromia	Generales	10x2	22	24.609	Publicado	Miguel Apey	2015-7-31 00:00:00	
+78985	SOC. HOTELERA VICHUQUEN LTDA.	Par	Cuatricromia	Generales	5x3	22	0	Publicado	Marcela Tello-ElDia	2015-7-31 00:00:00	
+78954	PILLA LA VACA	Par	Cuatricromia	Generales	5x2	22	0	Publicado	Marcela Tello-ElDia	2015-7-31 00:00:00	
+78923	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Cuatricromia	Generales	5x2	22	0	Publicado	Marcela Tello-ElDia	2015-7-31 00:00:00	
+78918	MARTIN JURE PATRICIA	Par	Cuatricromia	Generales	5x3	22	0	Publicado	Marcela Tello-ElDia	2015-7-31 00:00:00	
+78913	DIARIO EL DIA	Par	Cuatricromia	Generales	10x2	22	0	Publicado	Marcela Tello-ElDia	2015-7-31 00:00:00	
+78031	SOCIEDAD RESTAURANTE JIN HAI WAN Y 	Par	Cuatricromia	Generales	10x2	22	17.875	Publicado	Jacqueline Torres	2015-7-31 00:00:00	
+80965	CONSTRUCTORA SERENA LTDA.	Par	Cuatricromia	Generales	35x6	23	0	Publicado	Claudio Romero	2015-7-31 00:00:00	
+80957	CAMAL MUSALEM TAPIA Y CIA.	Par	Cuatricromia	Generales	25x3	27	209.925	Publicado	Marcela Tello-ElDia	2015-7-31 00:00:00	
+81311	CLUB DE DEPORTES LA SERENA	Par	Cuatricromia	Generales	17x3	28	0	Publicado	Marcela Tello-ElDia	2015-7-31 00:00:00	
+81027	hugo walter			UIP	5x1	29	8.937	Publicado	Nadia Randolph	2015-7-31 00:00:00	
+79360	ECHEVERRI			UIP	5x1	29	8.937	Publicado	Pedro Jaime	2015-7-31 00:00:00	
+80144	SOC. DE GESTION MEDITERRANEA			UIP	5x1	29	8.937	Publicado	Miguel Apey	2015-7-31 00:00:00	
+80601	Agro-Frio La Garza s.p.a.			UIP	5x2	29	17.875	Publicado	Claudio Romero	2015-7-31 00:00:00	
+80590	BERM			UIP	5x1	29	8.937	Publicado	Miguel Apey	2015-7-31 00:00:00	
+79181	SOC. COMERCIAL ALCAPARRA LTDA.	Par	Blanco y negro	Generales	5x2	29	10.440	Publicado	Patricia Villena	2015-7-31 00:00:00	
+79745	beltrami raul 			UIP	5x1	29	8.937	Publicado	Pedro Jaime	2015-7-31 00:00:00	
+80420	agroplastic			UIP	17x1	29	0	Publicado	Claudio Romero	2015-7-31 00:00:00	
+79579	SERVICIOS GENERALES GUAYACAN S.A	Par	Blanco y negro	Generales	3x2	30	6.448	Publicado	Jacqueline Torres	2015-7-31 00:00:00	
+80395	WALMART CHILE COMERCIAL LTDA.	Impar	Cuatricromia	Contraportada	35x6	32	607.219	Publicado	M Cristina Puga	2015-7-31 00:00:00	
+79258	SOC. COMERCIAL VARGAS Y GIACOMET	Par	Blanco y negro	Generales	5x1	EC-16	5.860	Publicado	Rene Pizarro	2015-7-31 00:00:00	
+81111	JUAN LUIS BERGER MERCADO	7305 Palabras		Legal	x	EC-17	1.811.640	Publicado	Pedro Jaime	2015-7-31 00:00:00	
+79224	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Generales	5x1	EC-17	5.860	Publicado	Rene Pizarro	2015-7-31 00:00:00	
+81277	DIARIO EL DIA	Par	Blanco y negro	Generales	8x2	EC-17	0	Publicado	Marcela Tello-ElDia	2015-7-31 00:00:00	
+80914	PAULA ACEVEDO			UIP	5x1	EC-17	8.937	Publicado	Pedro Jaime	2015-7-31 00:00:00	
+81310	DIARIO EL DIA	Par	Blanco y negro	Generales	10x6	EC-18	0	Publicado	Marcela Tello-ElDia	2015-7-31 00:00:00	
+81088	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	MR: Inserto	x	INS	279.557	Publicado	Medios Regionales	2015-7-31 00:00:00	
+81242	DABED Y CIA. LTDA., SELIM		1 pag.	Inserto	x	INS	26.891	Publicado	Italo Retamal	2015-7-31 00:00:00	
+81182	COMISION NACIONAL DE RIEGO	Impar	Cuatricromia	Contraportada	35x6	INS	1.764.706	Publicado	Jacqueline Torres	2015-7-31 00:00:00	
+80293	GOBIERNO REGIONAL - REGION DE COQUI	Impar	Cuatricromia	Contraportada	35x6	INS	2.500.000	Publicado	Jacqueline Torres	2015-7-31 00:00:00	
+81610	INVERSIONES SAN JAVIER LTDA.	550 Palabras		Propiedades	x	PROP	88.000	Publicado	Rene Pizarro	2015-7-31 00:00:00	

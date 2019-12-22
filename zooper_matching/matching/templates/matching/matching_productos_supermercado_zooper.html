@@ -1,0 +1,379 @@
+{% extends 'base.html' %}
+{% load staticfiles %}
+{% load common_tags %}
+
+{% block titulo_head %}Matching productos{% endblock %}
+
+{% block titulo %}
+    Matching productos
+{% endblock %}
+
+{% block css %}
+    {% css_dataTable %}
+    <link href="{% static '/plugins/bootstrap-select/css/bootstrap-select.min.css' %}" rel="stylesheet" type="text/css" />
+{% endblock %}
+
+{% block contenido %}
+
+
+<div class="row clearfix">
+    <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+        <div class="card">
+            <div class="header">
+                <h2>
+                    Parámetros de matching 
+                </h2>
+            </div>
+            <div class="body">
+                <label >Id zooper <input id="zooper_id" type="number" min="0" ><label>
+                <button type="button" id="consultar_producto" class="btn bg-cyan btn-block btn-lg waves-effect">Siguiente producto</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+<div class="row clearfix">
+    <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+        <div class="card">
+            <div class="header">
+                <h2 id="titulo_producto">
+                    Producto zooper
+                </h2>
+            </div>
+            <div id="container_tabla_ProductoZooper"class="body">
+                
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="row clearfix">
+    <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+        <div class="card">
+            <div class="header">
+                <h2 id="titulo_producto">
+                    Producto Jumbo
+                </h2>
+                <p>
+                    <input name="ProductoJumbo" id="ProductoJumbo_vacio" class="with-gap radio-col-lime" value="" checked="" type="radio">
+                    <label for="ProductoJumbo_vacio"></label>
+                    Sin producto asociado
+                </p>
+            </div>
+            <div id="container_tabla_ProductoJumbo"class="body">
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="row clearfix">
+    <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+        <div class="card">
+            <div class="header">
+                <h2 id="titulo_producto">
+                    Producto Telemercado
+                </h2>
+                <p>
+                    <input name="ProductoTelemercado" id="ProductoTelemercado_vacio" class="with-gap radio-col-lime" value="" checked="" type="radio">
+                    <label for="ProductoTelemercado_vacio"></label>
+                    Sin producto asociado
+                </p>
+            </div>
+            <div id="container_tabla_ProductoTelemercado"class="body">
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="row clearfix">
+    <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+        <div class="card">
+            <div class="header">
+                <h2 id="titulo_producto">
+                    Producto Tottus
+                </h2>
+                <p>
+                    <input name="ProductoTottus" id="ProductoTottus_vacio" class="with-gap radio-col-lime" value="" checked="" type="radio">
+                    <label for="ProductoTottus_vacio"></label>
+                    Sin producto asociado
+                </p>
+            </div>
+            <div id="container_tabla_ProductoTottus"class="body">
+
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="row clearfix">
+    <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+        <div class="card">
+            <div class="header">
+                <h2 id="titulo_producto">
+                    Producto Lider
+                </h2>
+                <p>
+                    <input name="ProductoLider" id="ProductoLider_vacio" class="with-gap radio-col-lime" value="" checked="" type="radio">
+                    <label for="ProductoLider_vacio"></label>
+                    Sin producto asociado
+                </p>
+            </div>
+            <div id="container_tabla_ProductoLider"class="body">
+                
+            </div>
+        </div>
+    </div>
+</div>
+
+<button type="button" id="vincular_productos" class="btn bg-green btn-block btn-lg waves-effect">Vincular productos</button>
+<form>
+    {% csrf_token %}
+</form>
+{% endblock %}
+
+
+{% block scripts %}
+<script src="{% static '/plugins/bootstrap-select/js/bootstrap-select.min.js' %}"></script>
+{% js_dataTable False %}
+{% django_ajax %}
+<script>
+var html_table = '<div class="table-responsive"><table id="tabla_producto_id" class="table responsive table-hover table-striped dataTable js-exportable"></table></div>'
+
+var default_paramsSparseTabla = {
+    id: "",
+    //clases: "col-md-6", 
+    titulo: '',
+    setAllButtons: true,
+    "autoWidht": false,
+    "widht": "100%",
+    'scrollX':true,
+    "scrollY":'500px',
+    "scrollCollapse": true,
+    "paging": false,
+    searching:false,
+    columnas: [],
+    data: [],
+};
+
+var repositorio_sparseTabla = {
+    'ProductoZooper':null,
+    'ProductoJumbo':null,
+    'ProductoTelemercado':null,
+    'ProductoTottus':null,
+    'ProductoLider':null,
+}
+
+var productozooper_actual = null;
+
+/*
+var sparseTabla_productos = null;
+var params_productos = {
+    id : 'tabla_producto_id',
+    url : "{% url 'matching:consulta-producto-supermercado-especifico-json' %}", 
+    ajax: true,
+    ajaxData : {
+        'csrfmiddlewaretoken':$('csrfmiddlewaretoken').val(),
+    },
+    setAllButtons:true,
+    preProcess:CustomPreProccesDatatable,
+  };
+
+
+
+function CustomPreProccesDatatable(respuesta) {
+    if (respuesta.status == 'error'){
+        swal({
+            title: "Mensaje",
+            text: respuesta.mensaje.text,
+            icon: respuesta.mensaje.type,
+        });
+    }
+    else{
+        $('h2[id=titulo_producto]').text(respuesta.info_producto.titulo);
+        $('div[id=info_producto]').text("");
+        for (var i = 0; i < respuesta.info_producto.info.length; i++) {
+            $('div[id=info_producto]').append('<p>'+respuesta.info_producto.info[i]+'</p>');
+        };
+    }
+    return respuesta
+}
+/**/
+
+$(document).on('click','button[id=consultar_producto]',function (){
+    var supermercado = $('#select_supermercado option:selected').attr('value');
+    console.log(supermercado);
+    ajaxRecuperarProductos();
+})
+
+$(document).on('click','button[id=vincular_productos]',function (){
+    ajaxVincularProducto ()
+})
+
+function limpiarTablas(){
+    $('.tabla').remove()
+    $('div.card').find('.header').removeClass('bg-green')
+    $("input[id$='_vacio']").prop('checked',true)
+}
+function ajaxRecuperarProductos (){
+    limpiarTablas();
+
+    datos_ajax = {}
+    //{'zooper_id':$('input[id=zooper_id]').val()};
+    productozooper_actual = $('input[id=zooper_id]').val()
+    if (isNaN(productozooper_actual) || productozooper_actual == ''){
+        swal({
+          title: "Mensaje",
+          text: "Id producto Zooper, faltante o erronea.",
+          icon: 'error',
+        });
+        productozooper_actual = null;
+        return;
+    }
+    var data = {
+        'csrfmiddlewaretoken':$('csrfmiddlewaretoken').val(),
+        'datos':JSON.stringify(datos_ajax),
+        'zooper_id':productozooper_actual,
+    };
+    blockpage(true)
+    $.ajax({
+        method: "POST",
+        url : "{% url 'matching:consulta-producto-supermercado-zooper-json' %}", 
+        data: data
+    }).done(function( response ) {
+        console.log(response)
+        if (response.state == 'success'){
+            params = default_paramsSparseTabla;
+            params.id = 'tabla_'+response.tabla_zooper.nombre_tabla
+            params.titulo = response.tabla_zooper.titulo
+            params.columnas = response.tabla_zooper.columnas
+            params.data = response.tabla_zooper.datos
+
+            if (repositorio_sparseTabla[response.tabla_zooper.nombre_tabla] == null)
+                repositorio_sparseTabla[response.tabla_zooper.nombre_tabla] = $("#container_"+params.id).sparseDataTable(params)
+            else
+                repositorio_sparseTabla[response.tabla_zooper.nombre_tabla].recargar(params)
+            $("#container_"+params.id).parent().find('h2').text(params.titulo)
+            for (var i = 0; i < response.tablas_coincidencias.length; i++){
+
+                var params_coincidencias  = default_paramsSparseTabla;
+                params_coincidencias.id = 'tabla_'+response.tablas_coincidencias[i].nombre_tabla
+                params_coincidencias.titulo = response.tablas_coincidencias[i].titulo
+                params_coincidencias.columnas = response.tablas_coincidencias[i].columnas
+                params_coincidencias.data = response.tablas_coincidencias[i].datos
+                if (repositorio_sparseTabla[response.tablas_coincidencias[i].nombre_tabla] == null)
+                    repositorio_sparseTabla[response.tablas_coincidencias[i].nombre_tabla] = $("#container_"+params.id).sparseDataTable(params)
+                else
+                    repositorio_sparseTabla[response.tablas_coincidencias[i].nombre_tabla].recargar(params)
+                $("#container_"+params_coincidencias.id).parent().find('h2').text(params_coincidencias.titulo)
+            };
+            
+            
+            setTimeout(function(){ 
+                var inputs = $('input[type=radio]:checked')
+                for (var i = 0; i < inputs.length; i++) {
+                    if ($(inputs[i]).val() > 0){
+                        $(inputs[i]).parents(".card").find('.header').addClass('bg-green');
+                        $(inputs[i]).parents("tr").addClass('bg-lime');
+                    }
+                };
+            }, 100);
+        }
+        else{
+            productozooper_actual = null;
+            swal({
+              title: "Mensaje",
+              text: response.messages[0].text,
+              icon: response.messages[0].type,
+            });
+        }
+            
+    }).fail(function(response) {
+        console.log(response);
+        productozooper_actual = null;
+        swal({
+              title: "Servidor",
+              text: "Error en la petición",
+              icon: "error",
+        });
+    }).complete(function(){
+        blockpage(false);
+    });
+}
+
+
+function ajaxVincularProducto (){
+    if (productozooper_actual == null){
+        swal({
+              title: "Vincular",
+              text: "No hay producto zoooper a vincular",
+              icon: "error",
+        });
+        return;
+    }
+    datos_ajax = {}
+    datos_ajax.productozooper_id = productozooper_actual
+    datos_ajax.supermercados = {}
+
+    for (var key in repositorio_sparseTabla)
+        if ($('input[name='+key+']:checked').length > 0)
+            datos_ajax.supermercados[key] = $('input[name='+key+']:checked').val()
+        else
+            datos_ajax.supermercados[key] = ''
+
+    var data = {
+        'csrfmiddlewaretoken':$('csrfmiddlewaretoken').val(),
+        'datos':JSON.stringify(datos_ajax),
+    };
+    blockpage(true)
+    limpiarTablas();
+    $.ajax({
+        method: "POST",
+        url : "{% url 'matching:vincular-producto-supermercado-zooper-json' %}", 
+        data: data
+    }).done(function( response ) {
+        console.log(response)
+        if (response.state == 'success'){
+            swal({
+              title: "Vinculación",
+              text: 'Producto vinculado correctamente.',
+              icon: 'success',
+            });
+            $('.tabla').remove();
+        }
+        else
+            swal({
+              title: "Mensaje",
+              text: response.messages[0].text,
+              icon: response.messages[0].type,
+            });
+    }).fail(function(response) {
+        console.log(response);
+        swal({
+              title: "Servidor",
+              text: "Error en la petición",
+              icon: "error",
+        });
+    }).complete(function(){
+        blockpage(false);
+    });
+}
+
+
+
+//sparseTabla_cliente.recargar(params_productos);
+
+/*
+  select_personas = $('#select_personas').selectpicker({
+      showTick:true,
+      width:"100%",
+    });
+*/
+
+//$('input[name=ProductoJumbo]:checked').parents(".card").find('.header').addClass('bg-green')
+//$('input[name=ProductoJumbo]:checked').parents("tr").addClass('bg-lime')
+</script>
+
+{% endblock %}

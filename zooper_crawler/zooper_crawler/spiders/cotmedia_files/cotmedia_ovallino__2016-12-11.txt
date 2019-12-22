@@ -1,0 +1,9 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+118760	CONSTRUCTORA CADEL LTDA.	Par	Cuatricromia	Generales	34x6	03	500.000	Publicado	Rene Pizarro		2016-12-11 00:00:00	
+118783	CAMAL MUSALEM TAPIA Y CIA.	Par	Blanco y negro	Generales	35x6	05	249.696	Publicado	Marcela Tello-ElDia	TOYOTA NEW COROLLA 	2016-12-11 00:00:00	
+118785	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	6x6	06	0	Publicado	Marcela Tello-ElDia		2016-12-11 00:00:00	
+118745	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	6x2	07	17.340	Publicado	Medios Regionales	MELON S.A (  231076  ) 	2016-12-11 00:00:00	
+103056	SOCIEDAD MEDICA Y CONSULTORA ESTETI		Cuatricromia	Guia	5x2	08	13.333	Publicado	Maria_Amelia Hermosilla	Diego Polanco	2016-12-11 00:00:00	
+116730	OVALLE CASINO RESORT S.A	Par	Cuatricromia	Generales	25x4	09	171.372	Publicado	Paola Marquez	OCR Eventos Noviembre	2016-12-11 00:00:00	
+115484	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	11	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2016-12-11 00:00:00	
+118782	CAMAL MUSALEM TAPIA Y CIA.	Par	Blanco y negro	Generales	15x6	13	110.160	Publicado	Marcela Tello-ElDia	TOYOTA CHRISTMAS 	2016-12-11 00:00:00	

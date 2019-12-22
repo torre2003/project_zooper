@@ -1,0 +1,5 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+78224	gatica briones spa			UIP	5x4	05	5.630	Publicado	Italo Retamal	promo hamburguesa 	2015-7-7 00:00:00	
+78835	Inversiones Punta Blanca SpA			UIP	5x2	05	2.808	Publicado	Italo Retamal	oferta de trabajo 	2015-7-7 00:00:00	
+79021	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	10x3	07	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2015-7-7 00:00:00	
+79405	lara			UIP	10x6	10	16.260	Publicado	Italo Retamal	tcm lara y cia	2015-7-7 00:00:00	

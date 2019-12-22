@@ -1,0 +1,37 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+143001	CENTRO DE EDUC.CAP.Y FORMACION LABO	Par	Blanco y negro	Generales	5x2	04	4.666	Publicado	Jacqueline Torres	2017-12-6 00:00:00	
+144899	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	5x2	04	0	Arte	Miguel Apey	2017-12-6 00:00:00	
+145123	C.M. SOC. GASTRONOMICA LTDA.			UIP	5x2	04	7.208	Publicado		2017-12-6 00:00:00	
+143537	OMD CHILE S.P.A.	Impar	Cuatricromia	Generales	17x6	05	336.535	Publicado	Patricia Villena	2017-12-6 00:00:00	
+145360	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Cuatricromia	Medios Regionales	32x6	07	518.048	Publicado	Medios Regionales	2017-12-6 00:00:00	
+145375	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Cuatricromia	Medios Regionales	16x6	09	309.344	Publicado	Medios Regionales	2017-12-6 00:00:00	
+144683	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	11	8.306	Publicado	Miguel Apey	2017-12-6 00:00:00	
+145367	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	11	0	Publicado	Marcela Tello-ElDia	2017-12-6 00:00:00	
+145000	SOSTENEDOR EDUCACIONAL MARIA LUZ A.			UIP	5x2	12	17.875	Publicado		2017-12-6 00:00:00	
+145378	ARZOBISPADO DE LA SERENA	Par	Blanco y negro	Generales	5x2	12	0	Publicado	Marcela Tello-ElDia	2017-12-6 00:00:00	
+141823	CHRISTIAN LAUNITZ MARIN SERVICIOS M	Par	Blanco y negro	Generales	5x2	15	5.000	Publicado	Heinger Vega Torres	2017-12-6 00:00:00	
+145072	FUNDACION SOCIAL POR EL DESARROLLO 	Par	Blanco y negro	Generales	17x3	16	67.235	Publicado	Jacqueline Torres	2017-12-6 00:00:00	
+145334	C.P.E.I.P - MINEDUC	Impar	Cuatricromia	Generales	17x3	17	288.660	Publicado	Jacqueline Torres	2017-12-6 00:00:00	
+145399	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	17	0	Publicado	Marcela Tello-ElDia	2017-12-6 00:00:00	
+142039	CERNA E HIJOS CIA. LTDA.	Par	Blanco y negro	Generales	5x1	23	3.574	Publicado	Nadia Randolph	2017-12-6 00:00:00	
+142302	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	23	0	Publicado	Marcela Tello-ElDia	2017-12-6 00:00:00	
+144468	CARLOS DAVILA BRAVO			UIP	5x1	23	8.937	Publicado	Pedro Jaime	2017-12-6 00:00:00	
+144722	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	4x5	23	20.508	Arte	Miguel Apey	2017-12-6 00:00:00	
+144799	ARMAQ SUBIRI S.A.			UIP	5x1	23	8.937	Publicado	Claudio Romero	2017-12-6 00:00:00	
+144266	SOC. DE GES			UIP	5x1	23	8.937	Publicado	Miguel Apey	2017-12-6 00:00:00	
+145282	AGUAS DEL VALLE S.A.	Par	Cuatricromia	Generales	5x6	25	50.000	Publicado	Heinger Vega Torres	2017-12-6 00:00:00	
+145153	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	27	0	Publicado	Marcela Tello-ElDia	2017-12-6 00:00:00	
+144870	CAMPOS DEL NORTE S.A.	Par	Cuatricromia	Generales	17x3	27	0	Publicado	Patricia Villena	2017-12-6 00:00:00	
+145291	DIARIO EL DIA	Par	Blanco y negro	Generales	35x6	28	0	Publicado	Carolina Naranjo	2017-12-6 00:00:00	
+143949	VELIZ CORTES JOSE A.	Par	Blanco y negro	Generales	3x2	29	13.403	Publicado	Pedro Cortes	2017-12-6 00:00:00	
+142912	SERVICIOS GENERALES GUAYACAN S.A	Par	Blanco y negro	Generales	4x2	29	6.686	Publicado	Jacqueline Torres	2017-12-6 00:00:00	
+145326	CENCOSUD RETAIL S.A.	Impar	Cuatricromia	Generales	35x6	32	600.000	Publicado	M Cristina Puga	2017-12-6 00:00:00	
+145346	BANCO DE CHILE	945 Palabras		Legal	x	EC	234.454	Publicado	Pedro Jaime	2017-12-6 00:00:00	
+145347	BANCO ESTADO DE CHILE	1189 Palabras		Legal	x	EC	294.958	Publicado	Pedro Jaime	2017-12-6 00:00:00	
+144980	DEL RIO VARELA JORGE	Par	Blanco y negro	Generales	7x2	EC-18	35.888	Publicado	Pedro Jaime	2017-12-6 00:00:00	
+145257	DEL RIO VARELA JORGE	Par	Blanco y negro	Generales	7x2	EC-18	35.888	Publicado	Pedro Jaime	2017-12-6 00:00:00	
+145398	DIARIO EL DIA	Par	Blanco y negro	Generales	17x6	EC-19	0	Publicado	Marcela Tello-ElDia	2017-12-6 00:00:00	
+145387	SANTANDER G.R.C.	Par	Blanco y negro	Generales	10x2	EC-19	83.824	Publicado	Pedro Jaime	2017-12-6 00:00:00	
+124033	HOTELERIA LUIS ALBERTO BERETTA KIEK	Par	Blanco y negro	Generales	5x2	EC-19	6.061	Publicado	Patricia Villena	2017-12-6 00:00:00	
+145032	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Economico	5x2	EC-19	15.161	Publicado	Rene Pizarro	2017-12-6 00:00:00	
+145547	INVERSIONES SAN JAVIER LTDA.	896 Palabras		Propiedades	x	PROP	143.360	Publicado	Rene Pizarro	2017-12-6 00:00:00	

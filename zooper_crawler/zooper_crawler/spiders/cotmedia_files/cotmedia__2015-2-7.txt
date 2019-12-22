@@ -1,0 +1,65 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+66834	PORSCHE CHILE SPA	Impar	Cuatricromia	Generales	17x6	05	300.000	Publicado	M Cristina Puga	2015-2-7 00:00:00	
+67854	CHRISTIAN LAUNITZ MARIN SERVICIOS M	Par	Blanco y negro	Generales	3x2	08	6.452	Publicado	Jacqueline Torres	2015-2-7 00:00:00	
+68366	TRANSBANK S.A.	Impar	Cuatricromia	Generales	17x6	09	360.825	Publicado	Kathine Soto-Stgo	2015-2-7 00:00:00	
+68817	DIARIO EL DIA	Par	Cuatricromia	Generales	17x6	10	0	Arte	Marcela Tello-ElDia	2015-2-7 00:00:00	
+66999	INMOBILIARIA DOMINGA NORTE LTDA	Par	Blanco y negro	Generales	5x2	11	22.631	Publicado	Pedro Jaime	2015-2-7 00:00:00	
+67924	SUPERINTENDENCIA DE SALUD	Par	Blanco y negro	Generales	14x3	11	132.701	Publicado	Pedro Jaime	2015-2-7 00:00:00	
+67962	INSTITUTO INV. AGROPECUARIA, CRI. I	Par	Blanco y negro	Generales	6x1	11	21.478	Publicado	Pedro Jaime	2015-2-7 00:00:00	
+66297	ILUSTRE MUNICIPALIDAD DE LA SERENA	Par	Cuatricromia	Generales	17x6	12	412.772	Publicado	M Cristina Puga	2015-2-7 00:00:00	
+68828	UNILEVER CHILE S.A.	Impar	Cuatricromia	Generales	17x6	15	250.000	Publicado	Italo Retamal	2015-2-7 00:00:00	
+68650	DIARIO EL DIA	Par	Blanco y negro	Generales	5x1	16	0	Arte	Marcela Tello-ElDia	2015-2-7 00:00:00	
+68100	DIARIO EL DIA	Par	Cuatricromia	Generales	12x2	16	0	Arte	Marcela Tello-ElDia	2015-2-7 00:00:00	
+68638	DIARIO EL DIA	Par	Blanco y negro	Generales	5x1	16	0	Arte	Marcela Tello-ElDia	2015-2-7 00:00:00	
+67748	SITRANS LTDA.	Par	Cuatricromia	Generales	10x3	16	0	Publicado	Miguel Apey	2015-2-7 00:00:00	
+68865	SOCIEDAD COMERCIAL DE VEHICULOS S.A	Impar	Cuatricromia	Generales	25x5	17	442.187	Publicado	Kathine Soto-Stgo	2015-2-7 00:00:00	
+68763	MUTUAL DE SEGURIDAD C.CH.C.	Par	Blanco y negro	Generales	34x6	18	585.714	Publicado	Pedro Jaime	2015-2-7 00:00:00	
+67384	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	19	8.306	Publicado	Miguel Apey	2015-2-7 00:00:00	
+68688	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	20	0	Arte	Marcela Tello-ElDia	2015-2-7 00:00:00	
+68220	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	10x3	20	0	Publicado	Marcela Tello-ElDia	2015-2-7 00:00:00	
+69073	DIARIO EL DIA	Par	Cuatricromia	Generales	12x6	21	0	Arte	Marcela Tello-ElDia	2015-2-7 00:00:00	
+69074	DIARIO EL DIA	Par	Cuatricromia	Generales	34x6	25	0	Arte	Marcela Tello-ElDia	2015-2-7 00:00:00	
+69071	DIARIO EL DIA	Par	Blanco y negro	Generales	35x6	27	0	Arte	Carolina Naranjo	2015-2-7 00:00:00	
+66850	DIARIO EL DIA	Par	Cuatricromia	Generales	8x6	28	0	Arte	Marcela Tello-ElDia	2015-2-7 00:00:00	
+69016	DIARIO EL DIA	Par	Blanco y negro	Generales	5x1	29	0	Arte	Marcela Tello-ElDia	2015-2-7 00:00:00	
+67588	PRODUCCIONES ALVAREZ LTDA	Par	Cuatricromia	Generales	17x3	29	0	Publicado	M Cristina Puga	2015-2-7 00:00:00	
+68832	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	4x2	29	18.000	Publicado	Medios Regionales	2015-2-7 00:00:00	
+68840	DIARIO EL DIA	Par	Cuatricromia	Generales	5x6	31	0	Arte	Marcela Tello-ElDia	2015-2-7 00:00:00	
+69075	DIARIO EL DIA	Par	Cuatricromia	Generales	15x4	34	0	Arte	Marcela Tello-ElDia	2015-2-7 00:00:00	
+68786	INMOBILIARIA CHRISTIAN ALFREDO MEND	Par	Cuatricromia	Generales	15x2	34	0	Publicado	Claudio Romero	2015-2-7 00:00:00	
+68841	CLUB DEPORTES COQUIMBO UNIDO	Par	Cuatricromia	Generales	17x3	35	0	Publicado	Marcela Tello-ElDia	2015-2-7 00:00:00	
+68864	LEONARDO PINO	Par	Cuatricromia	Generales	17x3	35	130.734	Publicado	Marcela Tello-ElDia	2015-2-7 00:00:00	
+66212	GEOVANNA PAOLA MAUREIRA ALVAREZ EIR	Par	Blanco y negro	Generales	5x2	36	34.533	Publicado	Pedro Jaime	2015-2-7 00:00:00	
+67426	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	4x5	36	20.508	Publicado	Miguel Apey	2015-2-7 00:00:00	
+68764	CONSORCIO AEROPORTUARIO DE LA SEREN	Par	Blanco y negro	Generales	5x2	36	42.113	Publicado	Pedro Jaime	2015-2-7 00:00:00	
+68272	MAQUINARIAS RB  LTDA.	Par	Blanco y negro	Generales	5x1	37	15.793	Publicado	Claudio Romero	2015-2-7 00:00:00	
+66220	GEOVANNA PAOLA MAUREIRA ALVAREZ EIR	Par	Blanco y negro	Generales	5x2	37	34.533	Publicado	Pedro Jaime	2015-2-7 00:00:00	
+68298	DIARIO EL DIA	Par	Blanco y negro	Generales	5x2	37	0	Arte	Marcela Tello-ElDia	2015-2-7 00:00:00	
+67346	SOC. DE GESTION MEDITERRANEA			UIP	5x1	37	8.937	Publicado	Miguel Apey	2015-2-7 00:00:00	
+67448	SOC. BERMUDEZ INGENIERIA Y CONSTRUC	Par	Blanco y negro	Generales	5x1	37	14.740	Publicado	Miguel Apey	2015-2-7 00:00:00	
+67703	SOCIEDAD RESTAURA			UIP	5x2	37	17.875	Publicado	Jacqueline Torres	2015-2-7 00:00:00	
+68714	SOC. INMOBILIARIA DE INVERSIONES RE	Par	Blanco y negro	Generales	5x1	37	7.427	Publicado	Miguel Apey	2015-2-7 00:00:00	
+68124	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	37	0	Publicado	Marcela Tello-ElDia	2015-2-7 00:00:00	
+68175	ARMAQ			UIP	5x1	37	8.937	Publicado	Claudio Romero	2015-2-7 00:00:00	
+68150	PILLA LA VACA	Par	Blanco y negro	Generales	5x2	37	0	Publicado	Marcela Tello-ElDia	2015-2-7 00:00:00	
+68409	SOC. COMERCIAL ALCAPARRA LTDA.	Par	Blanco y negro	Generales	5x2	37	10.440	Publicado	Patricia Villena	2015-2-7 00:00:00	
+68016	morales aguilera segundo			UIP	5x1	37	8.937	Publicado	Miguel Apey	2015-2-7 00:00:00	
+67983	SERVICIOS GENERALES GUAYACAN S.A	Par	Blanco y negro	Generales	3x2	38	6.666	Publicado	Jacqueline Torres	2015-2-7 00:00:00	
+69069	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	6x2	38	27.000	Publicado	Medios Regionales	2015-2-7 00:00:00	
+69041	SERVICIOS INMOBILIARIOS ECOMAC S.A	Impar	Cuatricromia	Generales	35x6	40	906.306	Publicado	M Cristina Puga	2015-2-7 00:00:00	
+68768	BANCO DEL ESTADO DE CHILE	784 Palabras		Legal	x	EC	194.621	Publicado	Pedro Jaime	2015-2-7 00:00:00	
+68858	DIARIO EL DIA	Par	Blanco y negro	Generales	8x2	EC-22	0	Arte	Marcela Tello-ElDia	2015-2-7 00:00:00	
+69064	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	6x2	EC-23	27.000	Publicado	Medios Regionales	2015-2-7 00:00:00	
+67801	SOC. COMERCIAL VARGAS Y GIACOMET	Par	Blanco y negro	Generales	5x1	EC-23	5.860	Publicado	Rene Pizarro	2015-2-7 00:00:00	
+69042	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Cuatricromia	Medios Regionales	16x2	EC-23	167.847	Publicado	Medios Regionales	2015-2-7 00:00:00	
+69008	DIARIO EL DIA	Par	Blanco y negro	Generales	17x3	EC-24	0	Arte	Marcela Tello-ElDia	2015-2-7 00:00:00	
+67773	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Generales	5x1	EC-24	5.860	Publicado	Rene Pizarro	2015-2-7 00:00:00	
+69025	SOC. HOTELERA VICHUQUEN LTDA.	Par	Cuatricromia	Generales	10x3	EC-24	0	Publicado	Marcela Tello-ElDia	2015-2-7 00:00:00	
+66300	UNIVERSIDAD TECNOLOGICA DE CHILE	Par	Cuatricromia	Ed.Especial	34x6	EE-05	805.841	Publicado	Paola Marquez	2015-2-7 00:00:00	
+66407	SOC VITIVINICOLA DALBOSCO LTDA	Par	Cuatricromia	Ed.Especial	17x6	EE-06	601.374	Publicado	Paola Marquez	2015-2-7 00:00:00	
+66739	DANIELA ARANCIBIA	Par	Cuatricromia	Ed.Especial	17x6	EE-10	250.000	Publicado	Paola Marquez	2015-2-7 00:00:00	
+66336	COOP. AGRICOLA PISQUERA ELQUI LTDA.	Par	Cuatricromia	Ed.Especial	17x6	EE-11	550.000	Publicado	Paola Marquez	2015-2-7 00:00:00	
+66343	HABITA INMOBILIARIA SA	Par	Cuatricromia	Ed.Especial	34x6	EE-13	700.000	Publicado	Paola Marquez	2015-2-7 00:00:00	
+68434	INMOBILIARIA VIVIENDAS 2000 LIMITAD	Par	Cuatricromia	Ed.Especial	35x6	EE-15	875.000	Publicado	Jacqueline Torres	2015-2-7 00:00:00	
+68355	INMOBILIARIA ECOMAC SANTIAGO S.A.	Par	Cuatricromia	Ed.Especial	34x6	EE-16	750.000	Publicado	Paola Marquez	2015-2-7 00:00:00	
+68746	INMOBIL. SOCOVESA SANTIAGO S.A.		Hasta 8 pag.	Inserto	x	INS	715.000	Publicado	M Cristina Puga	2015-2-7 00:00:00	

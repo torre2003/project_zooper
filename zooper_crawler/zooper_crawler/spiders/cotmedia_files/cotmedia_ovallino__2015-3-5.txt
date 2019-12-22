@@ -1,0 +1,4 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+70072	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	10x3	05	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2015-3-5 00:00:00	
+70468	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	6x2	08	0	Publicado	Marcela Tello-ElDia	Publique ahora - ventas comerciales	2015-3-5 00:00:00	
+70505	renacer 			UIP	5x2	13	2.808	Publicado	Leonel Pizarro-Ovalle	arrienda	2015-3-5 00:00:00	

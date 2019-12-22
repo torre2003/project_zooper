@@ -1,0 +1,37 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+135368	CHRISTIAN LAUNITZ MARIN SERVICIOS M	Par	Blanco y negro	Generales	8x2	04	5.000	Publicado	Heinger Vega Torres	2017-8-29 00:00:00	
+137188	CLARO CHILE S.A.	Impar	Cuatricromia	Generales	35x6	05	646.000	Publicado	Kathine Soto-Stgo	2017-8-29 00:00:00	
+134962	UNIVERSIDAD CENTRAL DE CHILE	Impar	Cuatricromia	Generales	35x6	07	1.291.253	Publicado	Jacqueline Torres	2017-8-29 00:00:00	
+137159	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	09	0	Publicado	Marcela Tello-ElDia	2017-8-29 00:00:00	
+135050	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	10	0	Publicado	Marcela Tello-ElDia	2017-8-29 00:00:00	
+136329	DABED Y CIA. LTDA., SELIM	Par	Cuatricromia	Generales	6x6	11	27.690	Publicado	Karina Rivera	2017-8-29 00:00:00	
+135433	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	6x6	12	51.666	Publicado	Claudio Romero	2017-8-29 00:00:00	
+136924	DIARIO EL DIA	Par	Cuatricromia	Generales	35x6	13	0	Publicado	Patricia Villena	2017-8-29 00:00:00	
+136242	DIARIO EL DIA	Par	Blanco y negro	Generales	17x6	14	0	Publicado	Marcela Tello-ElDia	2017-8-29 00:00:00	
+135410	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	5x2	15	0	Publicado	Miguel Apey	2017-8-29 00:00:00	
+136523	ESTUDIO JURIDICO OLIVARES Y CIA. SP	Par	Blanco y negro	Generales	5x2	15	2.666	Publicado	Jacqueline Torres	2017-8-29 00:00:00	
+135187	DIARIO EL DIA	Par	Blanco y negro	Generales	5x2	15	0	Publicado	Marcela Tello-ElDia	2017-8-29 00:00:00	
+135279	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	16	8.306	Publicado	Miguel Apey	2017-8-29 00:00:00	
+137191	GOBIERNO REGIONAL - REGION DE COQUI	Impar	Blanco y negro	Generales	20x3	17	179.292	Publicado	Jacqueline Torres	2017-8-29 00:00:00	
+137253	DIARIO EL DIA	Par	Blanco y negro	Generales	6x6	18	0	Arte	Marcela Tello-ElDia	2017-8-29 00:00:00	
+137254	DIARIO EL DIA	Par	Blanco y negro	Generales	6x6	19	0	Arte	Marcela Tello-ElDia	2017-8-29 00:00:00	
+137164	DIARIO EL DIA	Par	Cuatricromia	Generales	17x6	23	0	Publicado	Marcela Tello-ElDia	2017-8-29 00:00:00	
+106692	DIARIO EL DIA	Par	Cuatricromia	Generales	34x6	24	0	Arte	Carolina Naranjo	2017-8-29 00:00:00	
+137256	DIARIO EL DIA	Par	Cuatricromia	Generales	34x6	25	0	Arte	Carolina Naranjo	2017-8-29 00:00:00	
+137113	DIARIO EL DIA	Par	Cuatricromia	Generales	17x6	28	0	Publicado	Marcela Tello-ElDia	2017-8-29 00:00:00	
+135118	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	30	0	Publicado	Marcela Tello-ElDia	2017-8-29 00:00:00	
+136937	SOC. DE GES			UIP	5x1	30	8.937	Publicado	Miguel Apey	2017-8-29 00:00:00	
+133542	SOCIEDAD MEDICA  Y CONSULTORA ESTET			UIP	5x1	30	8.937	Publicado	Maria_Amelia Hermosilla	2017-8-29 00:00:00	
+134560	CERNA E HIJOS CIA. LTDA.	Par	Blanco y negro	Generales	5x1	30	3.574	Publicado	Nadia Randolph	2017-8-29 00:00:00	
+135334	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	4x5	30	20.508	Publicado	Miguel Apey	2017-8-29 00:00:00	
+136558	VELIZ CORTES JOSE A.	Par	Blanco y negro	Generales	3x2	31	13.403	Publicado	Pedro Cortes	2017-8-29 00:00:00	
+135485	SERVICIOS GENERALES GUAYACAN S.A	Par	Blanco y negro	Generales	4x2	31	6.686	Publicado	Jacqueline Torres	2017-8-29 00:00:00	
+137219	RECAUDACIONES Y COBRANZA S.A	406 Palabras		Legal	x	EC	100.840	Publicado	Pedro Jaime	2017-8-29 00:00:00	
+137190	SANTANDER G.R.C.	853 Palabras		Legal	x	EC	211.861	Publicado	Pedro Jaime	2017-8-29 00:00:00	
+137152	MARTIN JURE PATRICIA	Par	Blanco y negro	Generales	5x2	EC-20	0	Publicado	Marcela Tello-ElDia	2017-8-29 00:00:00	
+137255	DIARIO EL DIA	Par	Cuatricromia	Generales	17x6	EC-21	0	Arte	Marcela Tello-ElDia	2017-8-29 00:00:00	
+123917	HOTELERIA LUIS ALBERTO BERETTA KIEK	Par	Blanco y negro	Generales	5x2	EC-21	6.061	Publicado	Patricia Villena	2017-8-29 00:00:00	
+137012	CAMILO LEDEZMA ARAYA	182 Palabras		Legal	x	EC-21	45.136	Publicado	Karina Rivera	2017-8-29 00:00:00	
+135572	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Economico	5x2	EC-21	16.774	Publicado	Rene Pizarro	2017-8-29 00:00:00	
+137189	MONSERRAT NU?EZ PROPIEDADES LTDA.	375 Palabras		Propiedades	x	PROP	60.000	Publicado	Claudio Romero	2017-8-29 00:00:00	
+137184	BRAVO DE VON TROTT CARMEN	529 Palabras		Propiedades	x	PROP	84.640	Publicado	Claudio Romero	2017-8-29 00:00:00	

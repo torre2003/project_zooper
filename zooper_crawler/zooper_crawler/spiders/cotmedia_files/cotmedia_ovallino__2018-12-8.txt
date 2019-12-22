@@ -1,0 +1,12 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+171545	ILUSTRE MUNICIPALIDAD DE MONTE PATR	Impar	Cuatricromia	Generales	17x3	03	125.000	Publicado	Karina Rivera	MUNICIPIO MONTE PATRIA	2018-12-8 00:00:00	
+171613	EMPRESA PERIODISTICA EL NORTE S.A.	Par	Cuatricromia	Medios Regionales	10x3	03	121.376	Arte	Medios Regionales	Impar - Parques de Chile - (185830)	2018-12-8 00:00:00	
+171543	TESORERIA PROVINCIAL DEL LIMARI OVA	Par	Blanco y negro	Generales	10x3	05	0	Publicado	Marcela Tello-ElDia		2018-12-8 00:00:00	
+171237	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	12x6	06	0	Arte	Marcela Tello-ElDia	Avant Premiere - Club de Lectores	2018-12-8 00:00:00	
+171537	CHRISTIAN LOYOLA ESPINOZA			UIP	10x2	08	7.882	Publicado	Karina Rivera	CELE CONSTRUCTORA	2018-12-8 00:00:00	
+168610	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	09	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2018-12-8 00:00:00	
+171632	PRENSA DEL LIMARI LTDA.	Par	Blanco y negro	Generales	6x6	10	0	Arte	Marcela Tello-ElDia		2018-12-8 00:00:00	
+171633	PRENSA DEL LIMARI LTDA.	Par	Blanco y negro	Generales	17x6	12	0	Arte	Marcela Tello-ElDia	Reportero Ciudadano - El Ovallino	2018-12-8 00:00:00	
+171634	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	8x6	14	0	Arte	Marcela Tello-ElDia		2018-12-8 00:00:00	
+171574	ILUSTRE MUNICIPALIDAD DE OVALLE	Par	Cuatricromia	Generales	6x6	16	37.500	Publicado	Karina Rivera	FOMENTO PRODUCTIVO (PAG 16)	2018-12-8 00:00:00	
+171511	INMOBILIARIA CALEUCHE LTDA	Home	Box Derecho	Web	x	WEB	200.000	Publicado	Paola Marquez	Banner El Ovallino Beltec	2018-12-8 00:00:00	

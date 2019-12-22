@@ -1,0 +1,11 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+164480	CAMPOS DEL NORTE S.A.	Par	Cuatricromia	Generales	5x6	01	23.333	Publicado	Patricia Villena	Franja Enjoy Portada EL Ovallino	2018-10-5 00:00:00	
+167362	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	34x6	03	0	Arte	Marcela Tello-ElDia		2018-10-5 00:00:00	
+167219	HOSPITAL DE OVALLE	Par	Blanco y negro	Generales	10x2	05	47.080	Publicado	Karina Rivera	HOSPITAL DE OVALLE	2018-10-5 00:00:00	
+164699	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	08	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2018-10-5 00:00:00	
+167285	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	6x3	09	0	Arte	Marcela Tello-ElDia	Convenio Dabed y Diario El Ovallino	2018-10-5 00:00:00	
+164516	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	12x3	09	0	Publicado	Claudio Romero	Muebles alpina..	2018-10-5 00:00:00	
+167363	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x3	11	0	Arte	Marcela Tello-ElDia	Provincial Ovalle Vs. Provincial Osorno	2018-10-5 00:00:00	
+167364	PRENSA DEL LIMARI LTDA.	Par	Blanco y negro	Generales	3x6	13	0	Arte	Marcela Tello-ElDia	Periodismo en todos los sentidos...	2018-10-5 00:00:00	
+167365	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	8x6	14	0	Arte	Marcela Tello-ElDia		2018-10-5 00:00:00	
+164258	EMPRESAS LA POLAR S.A.	Par	Cuatricromia	Contraportada	35x6	16	252.000	Publicado	Patricia Villena	Contraportada La Polar	2018-10-5 00:00:00	

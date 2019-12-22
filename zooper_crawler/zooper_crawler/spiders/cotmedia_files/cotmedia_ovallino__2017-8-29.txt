@@ -1,0 +1,11 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+137252	DIARIO EL DIA	Par	Blanco y negro	Generales	34x6	03	0	Publicado	Marcela Tello-ElDia		2017-8-29 00:00:00	
+137250	PRENSA DEL LIMARI LTDA.	Par	Blanco y negro	Generales	17x6	07	0	Arte	Marcela Tello-ElDia	En la	2017-8-29 00:00:00	
+136539	ESTUDIO JURIDICO OLIVARES Y CIA. SP	Par	Blanco y negro	Generales	5x2	07	2.000	Publicado	Jacqueline Torres	ESTUDIO JURIDICO OLIVARES	2017-8-29 00:00:00	
+137193	TEODORO AGUIRRE ALVAREZ			UIP	5x2	07	2.808	Publicado	Karina Rivera	REGIONALISTA VERDE SOCIAL	2017-8-29 00:00:00	
+136631	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	6x3	08	0	Arte	Marcela Tello-ElDia		2017-8-29 00:00:00	
+135083	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	09	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2017-8-29 00:00:00	
+136355	FERNANDO YOANOVICH			UIP	5x2	13	2.247	Publicado	Karina Rivera	TAROT SRA SOFIA	2017-8-29 00:00:00	
+136592	VELIZ CORTES JOSE A.			UIP	5x2	14	2.808	Publicado	Pedro Cortes		2017-8-29 00:00:00	
+137251	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	6x6	14	0	Arte	Marcela Tello-ElDia		2017-8-29 00:00:00	
+137118	CORP. JUAN SUBERCASEAUX	162 Palabras		Legal	x	14	40.176	Publicado	Karina Rivera		2017-8-29 00:00:00	

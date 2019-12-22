@@ -1,0 +1,10 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+126243	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	01	0	Arte	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2017-4-30 00:00:00	
+125940	OVALLE CASINO RESORT S.A	Par	Cuatricromia	Generales	25x4	03	171.372	Arte	Paola Marquez	OCR Eventos verano	2017-4-30 00:00:00	
+128676	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	35x6	06	0	Arte	Marcela Tello-ElDia	Portadas Antiguas 	2017-4-30 00:00:00	
+103076	SOCIEDAD MEDICA Y CONSULTORA ESTETI		Cuatricromia	Guia	5x2	08	13.333	Arte	Maria_Amelia Hermosilla	Diego Polanco	2017-4-30 00:00:00	
+128679	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	10x2	08	28.900	Arte	Medios Regionales	Original 10 - Parques de Chile (71482)	2017-4-30 00:00:00	
+128657	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x3	09	0	Arte	Marcela Tello-ElDia	Cinemark Abierto - 01 de mayo 	2017-4-30 00:00:00	
+127884	DABED Y CIA. LTDA., SELIM	Par	Cuatricromia	Generales	6x6	11	23.076	Arte	Karina Rivera	01	2017-4-30 00:00:00	
+128504	CARVAJAL OPAZO LUPE	Par	Blanco y negro	Generales	12x2	14	36.723	Arte	Pedro Cortes	inmemoria Raul Armando Salamanca Jorquera.	2017-4-30 00:00:00	
+128626	INMOBILIARIA RENVAL SPA	Par	Cuatricromia	Generales	34x6	16	500.000	Arte	Rene Pizarro		2017-4-30 00:00:00	

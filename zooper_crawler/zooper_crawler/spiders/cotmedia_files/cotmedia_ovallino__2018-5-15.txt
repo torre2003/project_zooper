@@ -1,0 +1,6 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+156204	PRENSA DEL LIMARI LTDA.	Par	Blanco y negro	Generales	17x3	04	0	Arte	Marcela Tello-ElDia	www.elovallino.cl - Vive la experiencia	2018-5-15 00:00:00	
+154973	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	06	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2018-5-15 00:00:00	
+154867	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	6x2	09	18.204	Publicado	Medios Regionales	Remate - Banco Santander GRC Ltda. - (64439)	2018-5-15 00:00:00	
+155941	MIGUEL GUZMAN YURI	Par	Blanco y negro	Generales	8x2	11	30.132	Publicado	Leonel Pizarro-Ovalle	remates en ovalle	2018-5-15 00:00:00	
+156205	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	8x6	14	0	Arte	Marcela Tello-ElDia		2018-5-15 00:00:00	

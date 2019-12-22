@@ -1,0 +1,9 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+131020	PEDRO ANDRES MONARDEZ ELGUETA	Par	Cuatricromia	Generales	6x6	01	25.000	Publicado	Karina Rivera	Restaurant Riquisimo	2017-6-12 00:00:00	
+131384	CLAUDIA TORRES			UIP	10x2	03	6.306	Publicado	Karina Rivera	GRUPO ANANDA OVALLE	2017-6-12 00:00:00	
+129972	CENTRO DE SALUD PORTALES LTDA			UIP	5x4	05	5.630	Publicado	Karina Rivera	CENTRO DE SALUD PORTALES	2017-6-12 00:00:00	
+131001	JACQUELINE JOFRE VILLANUEVA			UIP	5x2	05	2.808	Publicado	Karina Rivera	CORTINAS ROLLER OVALLE	2017-6-12 00:00:00	
+131394	DABED Y CIA. LTDA., SELIM	Par	Cuatricromia	Generales	6x6	08	23.076	Publicado	Karina Rivera	ANIVERSARIO LIBERTAD	2017-6-12 00:00:00	
+130597	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	6x6	09	16.065	Publicado	Claudio Romero	Muebles Alpina	2017-6-12 00:00:00	
+130382	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	11	0	Arte	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2017-6-12 00:00:00	
+131664	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	6x6	14	0	Arte	Marcela Tello-ElDia		2017-6-12 00:00:00	

@@ -1,0 +1,10 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+133183	SOCIEDAD DE RENTAS FALABELLA S.A	Par	Cuatricromia	Generales	17x6	03	200.000	Publicado	M Cristina Puga	Open Plaza - Mall Ovalle	2017-7-8 00:00:00	
+132832	INMOBILIARIA NUEVA SERENA S.A			UIP	10x6	05	16.260	Publicado	Claudio Romero	proyecto empresa serena...(ovalle)	2017-7-8 00:00:00	
+133595	JACQUELINE JOFRE VILLANUEVA			UIP	5x2	07	2.808	Publicado	Karina Rivera	CORTINAS ROLLER OVALLE	2017-7-8 00:00:00	
+133656	PERSIANAS ANDINA LTDA	Par	Blanco y negro	Generales	10x3	07	103.641	Publicado	Pedro Jaime		2017-7-8 00:00:00	
+133131	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	08	0	Arte	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2017-7-8 00:00:00	
+133660	ILUSTRE MUNICIPALIDAD DE MONTE PATR	Par	Cuatricromia	Generales	17x6	09	250.000	Publicado	Karina Rivera	ACT. VACACIONES INVIERNO MONTE PATRIA	2017-7-8 00:00:00	
+133661	DABED Y CIA. LTDA., SELIM	Par	Cuatricromia	Generales	6x6	11	23.076	Publicado	Karina Rivera	SALUDO INSTITUCIONAL ANIVERSARIO 51	2017-7-8 00:00:00	
+133725	PRENSA DEL LIMARI LTDA.	Par	Blanco y negro	Generales	5x2	12	0	Arte	Leonel Pizarro-Ovalle	se necesita repartidor	2017-7-8 00:00:00	
+133781	SANTA CLARA SPA.	Par	Cuatricromia	Generales	6x6	14	13.889	Publicado	Karina Rivera	LOTEO VILLASECA	2017-7-8 00:00:00	

@@ -1,0 +1,13 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+66722	CALLEGARI LTDA.	Par	Cuatricromia	Generales	6x6	01	30.000	Publicado	Marcela Tello-ElDia	Portada - Kia - Nuevo	2015-1-18 00:00:00	
+67142	HERMANAS CALLEGARI LTDA.	Par	Cuatricromia	Generales	17x6	03	174.777	Publicado	Marcela Tello-ElDia	Ssang Yong	2015-1-18 00:00:00	
+67191	HERMANAS CALLEGARI LTDA.	Par	Cuatricromia	Generales	17x6	04	174.777	Publicado	Marcela Tello-ElDia	Fiat	2015-1-18 00:00:00	
+66910	ACADEMIA DE GIMNASIO FITNET LIMITAD	Par	Cuatricromia	Generales	17x6	06	0	Publicado	Miguel Apey	SPORTLIFE	2015-1-18 00:00:00	
+67190	CAMAL MUSALEM TAPIA Y CIA.	Par	Blanco y negro	Generales	14x3	07	51.408	Publicado	Marcela Tello-ElDia	Toyota	2015-1-18 00:00:00	
+67156	EMPRESA PERIODISTICA EL NORTE S.A.	Par	Blanco y negro	Medios Regionales	6x2	08	16.512	Publicado	Medios Regionales	Emp. Transportes Rurales - Conductores y Asistentes - (12006)	2015-1-18 00:00:00	
+67143	CALLEGARI LTDA.	Par	Cuatricromia	Generales	17x4	08	116.518	Publicado	Marcela Tello-ElDia	Mitsubishi	2015-1-18 00:00:00	
+67137	MARIA ANTONIETA JADUE	Par	Blanco y negro	Generales	5x2	08	27.542	Publicado	Leonel Pizarro-Ovalle	remate ovalle	2015-1-18 00:00:00	
+67140	HERMANAS CALLEGARI LTDA.	Par	Cuatricromia	Generales	17x6	09	174.777	Publicado	Marcela Tello-ElDia	Chery	2015-1-18 00:00:00	
+67141	HERMANAS CALLEGARI LTDA.	Par	Cuatricromia	Generales	17x6	11	174.777	Publicado	Marcela Tello-ElDia	MG	2015-1-18 00:00:00	
+67068	DABED Y CIA. LTDA., SELIM	Impar	Cuatricromia	Generales	6x6	14	23.077	Publicado	Italo Retamal	Dabed moto	2015-1-18 00:00:00	
+67155	LA ELEGANTE	Par	Cuatricromia	Contraportada	35x6	16	0	Publicado	Patricia Villena	La elegante	2015-1-18 00:00:00	

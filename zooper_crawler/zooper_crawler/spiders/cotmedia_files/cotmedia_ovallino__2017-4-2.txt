@@ -1,0 +1,10 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+126532	INMOBIL. LA SERENA GOLF S.A.	Par	Cuatricromia	Generales	17x6	03	0	Publicado	Patricia Villena	Serena Golf	2017-4-2 00:00:00	
+103072	SOCIEDAD MEDICA Y CONSULTORA ESTETI		Cuatricromia	Guia	5x2	06	13.333	Publicado	Maria_Amelia Hermosilla	Diego Polanco	2017-4-2 00:00:00	
+126504	MARIA ANTONIETA JADUE	Par	Blanco y negro	Generales	10x2	07	42.843	Publicado	Leonel Pizarro-Ovalle	remates en ovalle	2017-4-2 00:00:00	
+126524	EMPRESA PERIODISTICA EL NORTE S.A.	Par	Blanco y negro	Medios Regionales	10x2	07	28.900	Arte	Medios Regionales	Parques de Chile S.A. - (54661)	2017-4-2 00:00:00	
+126561	EMPRESA PERIODISTICA EL NORTE S.A.	Par	Blanco y negro	Medios Regionales	10x2	07	28.900	Arte	Medios Regionales	Parques de Chile S.A. - (45364)	2017-4-2 00:00:00	
+126662	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x6	08	0	Arte	Marcela Tello-ElDia		2017-4-2 00:00:00	
+125936	OVALLE CASINO RESORT S.A	Par	Cuatricromia	Generales	25x4	09	171.372	Publicado	Paola Marquez	OCR Eventos verano	2017-4-2 00:00:00	
+125628	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	34x6	11	0	Arte	Marcela Tello-ElDia		2017-4-2 00:00:00	
+126663	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	5x6	14	0	Arte	Marcela Tello-ElDia		2017-4-2 00:00:00	

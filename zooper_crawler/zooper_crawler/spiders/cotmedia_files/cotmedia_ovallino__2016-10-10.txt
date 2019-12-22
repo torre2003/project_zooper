@@ -1,0 +1,10 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+113682	SOCIEDAD DE RENTAS FALABELLA S.A	Par	Cuatricromia	Generales	17x6	03	200.000	Publicado	M Cristina Puga	Open Plaza - Mall Ovalle	2016-10-10 00:00:00	
+113018	AGRICOLA NORTE TALINAY LTDA	Par	Blanco y negro	Generales	5x2	05	1.666	Publicado	Paola Marquez	UIP VENTA ALFALFA	2016-10-10 00:00:00	
+113390	castillo s			UIP	10x2	05	5.630	Publicado	Karina Rivera	servicios dentales	2016-10-10 00:00:00	
+112762	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	6x6	06	16.065	Publicado	Claudio Romero	Muebles Alpina	2016-10-10 00:00:00	
+113619	sandra paola			UIP	17x2	07	9.211	Publicado	Karina Rivera	Reserva Temporada Piscina El Eden de la Chimba	2016-10-10 00:00:00	
+113004	PUBLICIDAD Y MARKETING EDUARDO ALEG			UIP	17x2	08	9.211	Publicado	Claudio Romero	FERIA DE LA VIVIENDA OVALLE..	2016-10-10 00:00:00	
+113193	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	10	0	Arte	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2016-10-10 00:00:00	
+113869	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x3	11	0	Arte	Marcela Tello-ElDia	Mes del 3D	2016-10-10 00:00:00	
+113931	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	6x6	14	0	Arte	Marcela Tello-ElDia		2016-10-10 00:00:00	

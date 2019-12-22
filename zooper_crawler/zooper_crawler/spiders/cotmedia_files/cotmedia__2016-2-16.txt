@@ -1,0 +1,33 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+94683	CHRISTIAN LAURITZ MARIN	Par	Blanco y negro	Generales	4x2	04	6.667	Publicado	Jacqueline Torres	2016-2-16 00:00:00	
+96145	CORP. DE FOMENTO DE LA PRODUCCION	Impar	Cuatricromia	Generales	17x3	05	219.633	Publicado	Jacqueline Torres	2016-2-16 00:00:00	
+96143	GEODRILL SONDAJES S.A.	Par	Blanco y negro	Generales	8x2	07	61.849	Publicado	Pedro Jaime	2016-2-16 00:00:00	
+96147	DIARIO EL DIA	Par	Cuatricromia	Generales	34x6	12	0	Publicado	Marcela Tello-ElDia	2016-2-16 00:00:00	
+95077	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	10x3	14	0	Publicado	Marcela Tello-ElDia	2016-2-16 00:00:00	
+94490	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	5x2	14	0	Publicado	Miguel Apey	2016-2-16 00:00:00	
+94306	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	16	8.306	Publicado	Miguel Apey	2016-2-16 00:00:00	
+96136	ILUSTRE MUNICIPALIDAD DE LA SERENA	Par	Blanco y negro	Generales	17x6	24	0	Publicado	Jacqueline Torres	2016-2-16 00:00:00	
+95599	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	6x3	28	39.132	Publicado	Medios Regionales	2016-2-16 00:00:00	
+95624	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	28	0	Publicado	Marcela Tello-ElDia	2016-2-16 00:00:00	
+95674	GALLARDO Y OTRO 			UIP	5x1	29	8.937	Publicado	Pedro Jaime	2016-2-16 00:00:00	
+95712	MINERA ATACAMA 			UIP	5x1	29	8.937	Publicado	Pedro Jaime	2016-2-16 00:00:00	
+95252	MAURICIO ALEJANDRO BUGUENO CONTRERA	Par	Blanco y negro	Generales	5x1	29	4.468	Publicado	Nadia Randolph	2016-2-16 00:00:00	
+95199	SOC. COMERCIAL ALCAPARRA LTDA.	Par	Blanco y negro	Generales	5x2	29	10.440	Publicado	Patricia Villena	2016-2-16 00:00:00	
+91308	Alejandro ra			UIP	5x1	29	4.467	Publicado	M Cristina Puga	2016-2-16 00:00:00	
+94259	SOC. DE GESTION MEDITERRANEA			UIP	5x1	29	8.937	Publicado	Miguel Apey	2016-2-16 00:00:00	
+94349	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	4x5	29	20.508	Publicado	Miguel Apey	2016-2-16 00:00:00	
+94649	CAMPODONICO			UIP	5x1	29	8.937	Publicado	Pedro Jaime	2016-2-16 00:00:00	
+94711	ARMAQ			UIP	5x1	29	8.937	Publicado	Claudio Romero	2016-2-16 00:00:00	
+95033	DIARIO EL DIA	Par	Blanco y negro	Generales	5x2	29	0	Publicado	Marcela Tello-ElDia	2016-2-16 00:00:00	
+95131	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	29	0	Publicado	Marcela Tello-ElDia	2016-2-16 00:00:00	
+95805	CERNA E HIJOS CIA. LTDA.	Par	Blanco y negro	Generales	5x1	30	4.467	Publicado	Nadia Randolph	2016-2-16 00:00:00	
+96140	GLORIA ESPINOZA	Par	Blanco y negro	Generales	5x2	30	25.210	Publicado	Pedro Jaime	2016-2-16 00:00:00	
+96019	RIVERA CONTRERAS CRISTIAN			UIP	5x1	30	8.937	Publicado	Pedro Jaime	2016-2-16 00:00:00	
+96117	AREVALO CARMEN			UIP	5x1	30	8.937	Publicado	Pedro Jaime	2016-2-16 00:00:00	
+95167	SERVICIOS GENERALES GUAYACAN S.A	Par	Blanco y negro	Generales	3x2	30	6.667	Publicado	Jacqueline Torres	2016-2-16 00:00:00	
+95413	BANCO FALABELLA	Impar	Cuatricromia	Contraportada	35x6	32	550.000	Publicado	M Cristina Puga	2016-2-16 00:00:00	
+96123	AREVALO CARMEN			UIP	5x1	EC-19	8.937	Publicado	Pedro Jaime	2016-2-16 00:00:00	
+95961	barboza santander 			UIP	5x1	EC-19	8.937	Publicado	Pedro Jaime	2016-2-16 00:00:00	
+94943	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Generales	5x1	EC-19	5.860	Publicado	Rene Pizarro	2016-2-16 00:00:00	
+94772	HOTELERIA LUIS ALBERTO BERETTA KIEK	Par	Blanco y negro	Generales	5x2	EC-19	8.937	Publicado	Patricia Villena	2016-2-16 00:00:00	
+96148	DIARIO EL DIA	Par	Blanco y negro	Generales	17x6	EC-19	0	Publicado	Marcela Tello-ElDia	2016-2-16 00:00:00	

@@ -1,0 +1,10 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+112148	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x3	03	0	Publicado	Marcela Tello-ElDia		2016-9-25 00:00:00	
+112394	CAMAL MUSALEM TAPIA Y CIA.	Par	Blanco y negro	Generales	19x3	05	69.768	Publicado	Marcela Tello-ElDia	Toyota New Rush - Rep. 18/9	2016-9-25 00:00:00	
+103000	SOCIEDAD MEDICA Y CONSULTORA ESTETI		Cuatricromia	Guia	5x2	06	13.333	Publicado	Maria_Amelia Hermosilla	Diego Polanco	2016-9-25 00:00:00	
+111197	EMPRESA PERIODISTICA EL NORTE S.A.	Par	Blanco y negro	Medios Regionales	10x2	07	28.900	Publicado	Medios Regionales	Revisiones Serviden - Serviden - (167579)	2016-9-25 00:00:00	
+112211	OVALLE CASINO RESORT S.A	Par	Cuatricromia	Generales	25x4	08	171.372	Publicado	Paola Marquez	Casino O valle 	2016-9-25 00:00:00	
+112273	OVALLE CASINO RESORT S.A	Par	Cuatricromia	Generales	35x6	09	359.880	Publicado	Paola Marquez	Ovalle Casino enfrentada a su media 25x4	2016-9-25 00:00:00	
+110533	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	10	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2016-9-25 00:00:00	
+112392	CAMAL MUSALEM TAPIA Y CIA.	Par	Blanco y negro	Generales	17x3	11	62.424	Publicado	Marcela Tello-ElDia	Gran Remate de Bodega - Toyota - Rep. 18/9	2016-9-25 00:00:00	
+112395	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	6x6	14	0	Arte	Marcela Tello-ElDia		2016-9-25 00:00:00	

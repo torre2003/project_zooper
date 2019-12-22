@@ -1,0 +1,22 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+73790	DIARIO EL DIA	Par	Cuatricromia	Generales	17x6	03	0	Publicado	Marcela Tello-ElDia	Saludo a la ciudad de Ovalle	2015-4-21 00:00:00	
+72353	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	10x3	07	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2015-4-21 00:00:00	
+73814	AGUAS DEL VALLE S.A.	Par	Cuatricromia	Generales	17x3	09	100.846	Publicado	Jacqueline Torres		2015-4-21 00:00:00	
+73813	MARIA PAZ CARRILLO	Par	Blanco y negro	Generales	8x2	11	18.832	Publicado	Italo Retamal	DF Adriana Salinas  Hijos 	2015-4-21 00:00:00	
+73812	MARIA PAZ CARRILLO	Par	Blanco y negro	Generales	8x2	11	18.832	Publicado	Italo Retamal	DF Adriana Salinas S Nietos 	2015-4-21 00:00:00	
+73811	MARIA PAZ CARRILLO	Par	Blanco y negro	Generales	8x2	11	18.832	Publicado	Italo Retamal	DF Adriana Salinas S Amigos 	2015-4-21 00:00:00	
+73818	altos 			UIP	17x2	13	9.211	Publicado	Italo Retamal	alto brillador 	2015-4-21 00:00:00	
+73682	SOCIEDAD DE RENTAS FALABELLA S.A	Impar	Cuatricromia	Generales	35x6	EE-03	300.000	Publicado	M Cristina Puga	Open plaza /suplemento Ovalle	2015-4-21 00:00:00	
+73532	ILUSTRE MUNICIPALIDAD DE MONTE PATR	Impar	Cuatricromia	Ed.Especial	17x6	EE-05	201.691	Publicado	Italo Retamal	Saludo monte patria	2015-4-21 00:00:00	
+73535	ILUSTRE MUNICIPALIDAD DE RIO HURTAD	Par	Cuatricromia	Ed.Especial	10x3	EE-06	49.434	Publicado	Italo Retamal	saludo rio hurtado 	2015-4-21 00:00:00	
+73628	HANNA JARUFE HAUNE	Par	Blanco y negro	Generales	10x3	EE-06	30.000	Publicado	Claudio Romero	saludo Ovalle 2015...	2015-4-21 00:00:00	
+73533	ILUSTRE MUNICIPALIDAD DE OVALLE	Impar	Cuatricromia	Ed.Especial	17x6	EE-07	201.691	Publicado	Italo Retamal	Saludo m ovalle 	2015-4-21 00:00:00	
+73626	SOCIEDAD INMOBILIARIA Y DE INVERSIO	Par	Cuatricromia	Generales	17x3	EE-08	100.000	Publicado	Claudio Romero	saludo Ovalle 2015...	2015-4-21 00:00:00	
+73826	CONAFE	Par	Cuatricromia	Generales	17x3	EE-08	161.352	Publicado	Jacqueline Torres	AVISO SALUDO ANIVERSARIO OVALLE	2015-4-21 00:00:00	
+73563	SOC. AUTOMOTRIZ COVALSA CENTER LTDA	Par	Cuatricromia	Generales	17x6	EE-09	218.499	Publicado	Claudio Romero		2015-4-21 00:00:00	
+73528	INMOBIL. LA SERENA GOLF S.A.	Impar	Cuatricromia	Generales	17x6	EE-11	197.290	Publicado	Patricia Villena	Aniversario de Ovalle	2015-4-21 00:00:00	
+73827	MINERA LOS PELAMBRES	Impar	Cuatricromia	Generales	17x3	EE-13	201.691	Publicado	Jacqueline Torres	AVISO SALUDO ANIVERSARIO OVALLE	2015-4-21 00:00:00	
+73828	MUNOZ DALBORA ADRIANA	Impar	Cuatricromia	Generales	17x3	EE-13	179.505	Publicado	Jacqueline Torres	saludo aniversario ovalle	2015-4-21 00:00:00	
+73627	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	17x3	EE-15	150.000	Publicado	Claudio Romero	SALUDO OVALLE 2015	2015-4-21 00:00:00	
+73565	UNIVERSIDAD SANTO TOMAS	Par	Cuatricromia	Generales	17x3	EE-15	126.057	Publicado	Claudio Romero		2015-4-21 00:00:00	
+73629	DABED Y CIA. LTDA., SELIM	Impar	Cuatricromia	Ed.Especial	35x6	EE-16	168.067	Publicado	Italo Retamal	saludo dabed a ovalle	2015-4-21 00:00:00	

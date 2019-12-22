@@ -1,0 +1,46 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+87156	UNIVERSIDAD TECNOLOGICA DE CHILE	Impar	Cuatricromia	Generales	17x6	05	470.641	Publicado	Patricia Villena	2015-10-28 00:00:00	
+87625	DIARIO EL DIA	Par	Cuatricromia	Generales	35x6	08	0	Publicado	Marcela Tello-ElDia	2015-10-28 00:00:00	
+86621	SUBSECRETARIA DE PREVISION SOCIAL	Impar	Cuatricromia	Generales	17x6	09	355.595	Publicado	Jacqueline Torres	2015-10-28 00:00:00	
+87549	CONAFE	Par	Blanco y negro	Generales	17x3	11	186.762	Publicado	Jacqueline Torres	2015-10-28 00:00:00	
+85630	SERVICIO TRANSPORTES SERENA MAR CAR	Par	Cuatricromia	Generales	9x2	12	0	Publicado	Marcela Tello-ElDia	2015-10-28 00:00:00	
+85499	DIARIO EL DIA	Par	Cuatricromia	Generales	10x2	12	0	Publicado	Marcela Tello-ElDia	2015-10-28 00:00:00	
+85264	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	12	8.306	Publicado	Miguel Apey	2015-10-28 00:00:00	
+87458	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	4x2	13	17.392	Publicado	Medios Regionales	2015-10-28 00:00:00	
+84770	CENTRO TECNICO ACUARELA LTDA.	Par	Blanco y negro	Generales	5x2	13	19.409	Publicado	Rene Pizarro	2015-10-28 00:00:00	
+86423	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	5x2	13	0	Publicado	Miguel Apey	2015-10-28 00:00:00	
+86910	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	16x3	14	104.352	Publicado	Medios Regionales	2015-10-28 00:00:00	
+87547	JUNTA DE VIGILANCIA DEL RIO ELQUI Y	Par	Blanco y negro	Generales	10x2	14	73.240	Publicado	Pedro Jaime	2015-10-28 00:00:00	
+86548	INMOBIL. PY  S.A.	Par	Blanco y negro	Generales	10x1	14	9.804	Publicado	Claudio Romero	2015-10-28 00:00:00	
+87173	ILUSTRE MUNICIPALIDAD DE COQUIMBO	Par	Blanco y negro	Generales	15x2	15	76.902	Publicado	Miguel Apey	2015-10-28 00:00:00	
+87197	JDV REMATES S.A.	Par	Blanco y negro	Generales	8x2	15	58.592	Publicado	Marcela Tello-ElDia	2015-10-28 00:00:00	
+87465	DIARIO EL DIA	Par	Cuatricromia	Centrales	35x6	16	0	Publicado	Jacqueline Torres	2015-10-28 00:00:00	
+87464	DIARIO EL DIA	Par	Cuatricromia	Centrales	35x6	17	0	Publicado	Jacqueline Torres	2015-10-28 00:00:00	
+87526	UNIVERSIDAD TECNOLOGICA DE CHILE	Par	Blanco y negro	Generales	13x3	19	0	Publicado	Patricia Villena	2015-10-28 00:00:00	
+86901	SOC. DE EDUCACI?N SHALOM LTDA.	Par	Cuatricromia	Generales	35x6	25	322.989	Publicado	Paola Marquez	2015-10-28 00:00:00	
+85527	MARTIN JURE PATRICIA	Par	Cuatricromia	Generales	6x6	27	0	Publicado	Marcela Tello-ElDia	2015-10-28 00:00:00	
+87312	SEREMI MINVU IV REGION	Par	Cuatricromia	Generales	17x3	28	177.798	Publicado	Jacqueline Torres	2015-10-28 00:00:00	
+87237	AREVALO CARMEN			UIP	5x1	30	8.937	Publicado	Pedro Jaime	2015-10-28 00:00:00	
+86685	SOC. DE GESTION MEDITERRANEA			UIP	5x1	30	8.937	Publicado	Miguel Apey	2015-10-28 00:00:00	
+85320	SOC. COMERCIAL ALCAPARRA LTDA.	Par	Blanco y negro	Generales	5x2	30	10.440	Publicado	Patricia Villena	2015-10-28 00:00:00	
+87374	GUERRERO SERANTONI Y CIA. LTDA.	Par	Blanco y negro	Generales	5x1	30	5.527	Publicado	Pedro Jaime	2015-10-28 00:00:00	
+87163	MATII PERFORACIONES			UIP	5x1	30	8.937	Publicado	Pedro Jaime	2015-10-28 00:00:00	
+87116	c.p.c.			UIP	5x1	30	8.937	Publicado	Rene Pizarro	2015-10-28 00:00:00	
+85419	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	30	0	Publicado	Marcela Tello-ElDia	2015-10-28 00:00:00	
+84181	soc. comercial e inv. alto la seren			UIP	5x2	30	8.937	Publicado	Nadia Randolph	2015-10-28 00:00:00	
+86347	mihoc			UIP	5x1	30	8.937	Publicado	Claudio Romero	2015-10-28 00:00:00	
+86395	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	4x5	30	20.508	Publicado	Miguel Apey	2015-10-28 00:00:00	
+86781	SOC. RAMON MOYA FUENTES 			UIP	10x1	30	8.937	Publicado	Miguel Apey	2015-10-28 00:00:00	
+84669	CERNA E HIJOS CIA. LTDA.	Par	Blanco y negro	Generales	5x1	30	4.468	Publicado	Nadia Randolph	2015-10-28 00:00:00	
+87104	c.p.c.			UIP	5x1	30	8.937	Publicado	Rene Pizarro	2015-10-28 00:00:00	
+87110	c.p.c			UIP	5x1	30	8.937	Publicado	Rene Pizarro	2015-10-28 00:00:00	
+85555	ARMAQ			UIP	5x1	30	8.937	Publicado	Claudio Romero	2015-10-28 00:00:00	
+86593	SERVICIOS GENERALES GUAYACAN S.A	Par	Blanco y negro	Generales	3x2	31	6.451	Publicado	Jacqueline Torres	2015-10-28 00:00:00	
+87510	GREGORIO OTAROLA	Par	Blanco y negro	Generales	12x2	31	52.733	Publicado	Pedro Jaime	2015-10-28 00:00:00	
+87535	AUTOMOTORES DEL NORTE	Par	Blanco y negro	Generales	5x1	EC-20	7.427	Publicado	Miguel Apey	2015-10-28 00:00:00	
+84763	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Generales	5x1	EC-21	5.860	Publicado	Rene Pizarro	2015-10-28 00:00:00	
+87502	COOPEUCH LTDA.	549 Palabras		Legal	x	EC-21	136.387	Publicado	Pedro Jaime	2015-10-28 00:00:00	
+87243	AREVALO CARMEN			UIP	5x1	EC-21	8.937	Publicado	Pedro Jaime	2015-10-28 00:00:00	
+87626	DIARIO EL DIA	Par	Cuatricromia	Generales	17x6	EC-21	0	Publicado	Marcela Tello-ElDia	2015-10-28 00:00:00	
+87520	JORGE LLANOS TORRES	183 Palabras		Propiedades	x	PROP	29.280	Publicado	Pedro Jaime	2015-10-28 00:00:00	
+87508	THE HOUSE DREAM S.A.	1465 Palabras		Propiedades	x	PROP	234.400	Publicado	Pedro Jaime	2015-10-28 00:00:00	

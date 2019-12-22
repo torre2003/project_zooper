@@ -1,0 +1,13 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+171541	AUTOMOTRIZ CARMONA	Par	Cuatricromia	Generales	17x6	03	174.828	Publicado	Marcela Tello-ElDia		2018-12-9 00:00:00	
+171609	HERMANAS CALLEGARI LTDA.	Par	Cuatricromia	Generales	17x6	05	174.828	Publicado	Marcela Tello-ElDia	Ssan Yong Actyon Sports	2018-12-9 00:00:00	
+158768	SOCIEDAD MEDICA Y CONSULTORA ESTETI		Cuatricromia	Guia	5x2	06	13.333	Publicado	Paola Marquez	Diego Polanco	2018-12-9 00:00:00	
+171507	GASCO GLP S.A.	Par	Blanco y negro	Generales	17x3	06	0	Arte	Patricia Villena	Aviso Gasco anuncio Calendario	2018-12-9 00:00:00	
+170581	MACARENA TORRES			UIP	10x2	06	7.882	Publicado	Karina Rivera	NUTRICIONISTA MEDIFAM	2018-12-9 00:00:00	
+171238	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	12x6	08	0	Arte	Marcela Tello-ElDia	Avant Premiere - Club de Lectores	2018-12-9 00:00:00	
+171542	AUTOMOTRIZ CARMONA	Par	Cuatricromia	Generales	17x6	09	174.828	Publicado	Marcela Tello-ElDia		2018-12-9 00:00:00	
+171577	AGUAS DEL VALLE S.A.	Par	Cuatricromia	Generales	35x6	11	340.000	Publicado	Karina Rivera	SOCIALES AGUAS DEL VALLE	2018-12-9 00:00:00	
+171566	MIGUEL GUZMAN YURI	Par	Blanco y negro	Generales	8x2	12	0	Arte	Karina Rivera	REMATE JUDICIAL EN OVALLE	2018-12-9 00:00:00	
+171635	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	3x6	13	0	Arte	Marcela Tello-ElDia	Periodismo en todos los sentimos...	2018-12-9 00:00:00	
+168615	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	14	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2018-12-9 00:00:00	
+171501	CAMAL MUSALEM TAPIA Y CIA.	Par	Blanco y negro	Generales	34x6	16	349.656	Publicado	Marcela Tello-ElDia		2018-12-9 00:00:00	

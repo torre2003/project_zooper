@@ -1,0 +1,12 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+125334	PEDRO ANDRES MONARDEZ ELGUETA	Par	Cuatricromia	Generales	6x6	01	25.000	Publicado	Karina Rivera	Restaurant Riquisimo	2017-3-15 00:00:00	
+124224	OVALLE CASINO RESORT S.A	Par	Cuatricromia	Generales	25x4	03	0	Arte	Paola Marquez	OCR Eventos	2017-3-15 00:00:00	
+123722	JACQUELINE JOFRE VILLANUEVA			UIP	5x2	05	2.808	Publicado	Karina Rivera	Cortinas Rollers	2017-3-15 00:00:00	
+124432	MUNDACA			UIP	10x2	05	5.630	Publicado	Claudio Romero	EN LA SERENA ..PARA TODA LA IV REGION...COMERCIAL MUNDACA...SE REPITE PAUTA DE LA SEMANA ANTERIOR..	2017-3-15 00:00:00	
+125296	AGRICOLA NORTE TALINAY LTDA	Par	Blanco y negro	Generales	5x2	05	1.666	Publicado	Paola Marquez	UIP VENTA ALFALFA	2017-3-15 00:00:00	
+117933	OVALLEMAR			UIP	5x2	06	3.958	Publicado	Karina Rivera	OVALLE MAR	2017-3-15 00:00:00	
+124679	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	08	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2017-3-15 00:00:00	
+123147	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	6x6	09	0	Publicado	Claudio Romero	Muebles Alpina	2017-3-15 00:00:00	
+125057	DABED Y CIA. LTDA., SELIM	Par	Cuatricromia	Generales	6x6	11	23.077	Publicado	Karina Rivera	P1	2017-3-15 00:00:00	
+125350	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	5x6	14	0	Arte	Marcela Tello-ElDia		2017-3-15 00:00:00	
+124455	ARENA CHILE S.A.	Home	Banner Inf. Der	Web	x	WEB	0	Publicado	M Cristina Puga	VOLSWAGEN Banner	2017-3-15 00:00:00	

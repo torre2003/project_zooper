@@ -1,0 +1,28 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+123631	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Cuatricromia	Medios Regionales	16x6	07	309.344	Publicado	Medios Regionales	2017-2-28 00:00:00	
+123632	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Cuatricromia	Medios Regionales	32x6	11	518.048	Publicado	Medios Regionales	2017-2-28 00:00:00	
+123628	SOCIEDAD EDUCACIONAL SAN LUIS LIMIT	Par	Blanco y negro	Generales	17x4	12	0	Publicado	Patricia Villena	2017-2-28 00:00:00	
+123461	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	10x2	13	43.480	Publicado	Medios Regionales	2017-2-28 00:00:00	
+123486	CORP. JUAN SUBERCASEAUX	Par	Blanco y negro	Generales	8x2	14	52.733	Publicado	Claudio Romero	2017-2-28 00:00:00	
+121976	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	5x2	14	0	Publicado	Miguel Apey	2017-2-28 00:00:00	
+122265	DIARIO EL DIA	Par	Blanco y negro	Generales	5x2	14	0	Publicado	Marcela Tello-ElDia	2017-2-28 00:00:00	
+122311	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	16	0	Publicado	Marcela Tello-ElDia	2017-2-28 00:00:00	
+121826	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	16	8.306	Publicado	Miguel Apey	2017-2-28 00:00:00	
+121033	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	6x6	17	51.666	Publicado	Claudio Romero	2017-2-28 00:00:00	
+123663	DIARIO EL DIA	Par	Blanco y negro	Generales	6x6	20	0	Publicado	Marcela Tello-ElDia	2017-2-28 00:00:00	
+123665	DIARIO EL DIA	Par	Cuatricromia	Generales	34x6	25	0	Publicado	Marcela Tello-ElDia	2017-2-28 00:00:00	
+122771	DABED Y CIA. LTDA., SELIM	Par	Cuatricromia	Generales	6x6	28	27.690	Publicado	Karina Rivera	2017-2-28 00:00:00	
+122621	SOC. COM. CENTRO NORTE LTDA.			UIP	5x1	29	7.596	Publicado	Pedro Cortes	2017-2-28 00:00:00	
+123118	armaq			UIP	5x1	29	8.937	Publicado	Claudio Romero	2017-2-28 00:00:00	
+120951	CERNA E HIJOS CIA. LTDA.	Par	Blanco y negro	Generales	5x1	30	4.468	Publicado	Nadia Randolph	2017-2-28 00:00:00	
+123027	sercomp ruiz			UIP	5x2	30	8.936	Publicado	Marcela Tello-ElDia	2017-2-28 00:00:00	
+121783	SOC. DE GES			UIP	5x1	30	8.937	Publicado	Miguel Apey	2017-2-28 00:00:00	
+121867	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	4x5	30	20.508	Publicado	Miguel Apey	2017-2-28 00:00:00	
+122377	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	30	0	Publicado	Marcela Tello-ElDia	2017-2-28 00:00:00	
+123633	CLUB DEPORTIVO ATENAS	Par	Blanco y negro	Generales	12x2	31	61.522	Publicado	Miguel Apey	2017-2-28 00:00:00	
+123629	FUNDACION EDUCACIONAL THE INTERNATI	Par	Blanco y negro	Generales	5x2	31	25.210	Publicado	Patricia Villena	2017-2-28 00:00:00	
+122873	VELIZ CORTES JOSE A.	Par	Blanco y negro	Generales	3x2	31	13.403	Publicado	Pedro Cortes	2017-2-28 00:00:00	
+122148	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Generales	5x1	EC-22	6.043	Publicado	Rene Pizarro	2017-2-28 00:00:00	
+123664	DIARIO EL DIA	Par	Cuatricromia	Generales	17x6	EC-22	0	Publicado	Marcela Tello-ElDia	2017-2-28 00:00:00	
+123732	ACADEMIA DE DACTILOGRAFIA FUTURO	368 Palabras		Propiedades	x	PROP	58.824	Publicado	Rene Pizarro	2017-2-28 00:00:00	
+123733	INVERSIONES SAN JAVIER LTDA.	1036 Palabras		Propiedades	x	PROP	165.760	Publicado	Rene Pizarro	2017-2-28 00:00:00	

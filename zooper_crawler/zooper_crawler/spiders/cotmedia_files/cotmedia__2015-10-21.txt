@@ -1,0 +1,40 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+86924	GASCO GLP S.A.	Par	Cuatricromia	Generales	17x6	05	0	Publicado	Patricia Villena	2015-10-21 00:00:00	
+86662	CONSTRUCTORA POSEIDON LTDA.	Par	Cuatricromia	Generales	34x6	09	0	Publicado	Rene Pizarro	2015-10-21 00:00:00	
+86529	DIARIO EL DIA	Par	Cuatricromia	Generales	12x6	11	0	Publicado	Marcela Tello-ElDia	2015-10-21 00:00:00	
+85629	SERVICIO TRANSPORTES SERENA MAR CAR	Par	Cuatricromia	Generales	9x2	12	0	Publicado	Marcela Tello-ElDia	2015-10-21 00:00:00	
+85498	DIARIO EL DIA	Par	Cuatricromia	Generales	10x2	12	0	Publicado	Marcela Tello-ElDia	2015-10-21 00:00:00	
+85257	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	12-18	8.306	Publicado	Miguel Apey	2015-10-21 00:00:00	
+86541	INMOBIL. PY  S.A.	Par	Blanco y negro	Generales	10x1	13	9.804	Publicado	Claudio Romero	2015-10-21 00:00:00	
+84769	CENTRO TECNICO ACUARELA LTDA.	Par	Blanco y negro	Generales	5x2	13	19.409	Publicado	Rene Pizarro	2015-10-21 00:00:00	
+86417	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	5x2	13	0	Publicado	Miguel Apey	2015-10-21 00:00:00	
+86723	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	20x4	14	173.920	Publicado	Medios Regionales	2015-10-21 00:00:00	
+86846	CLUB DEPORTES COQUIMBO UNIDO	Par	Blanco y negro	Generales	10x2	14	0	Publicado	Marcela Tello-ElDia	2015-10-21 00:00:00	
+86963	CONICYT	Par	Blanco y negro	Generales	6x2	15	30.761	Publicado	Jacqueline Torres	2015-10-21 00:00:00	
+86905	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	16x3	15	104.352	Publicado	Medios Regionales	2015-10-21 00:00:00	
+86903	DIARIO EL DIA	Par	Cuatricromia	Centrales	35x6	16	0	Publicado	Jacqueline Torres	2015-10-21 00:00:00	
+86902	DIARIO EL DIA	Par	Cuatricromia	Centrales	35x6	17	0	Publicado	Jacqueline Torres	2015-10-21 00:00:00	
+86980	SINDY GONZALEZ MARCHANT	Par	Cuatricromia	Generales	17x3	23	0	Publicado	Marcela Tello-ElDia	2015-10-21 00:00:00	
+86894	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	23	0	Publicado	Marcela Tello-ElDia	2015-10-21 00:00:00	
+86719	DIARIO EL DIA	Par	Blanco y negro	Generales	35x6	24	0	Publicado	Carolina Naranjo	2015-10-21 00:00:00	
+85832	DIARIO EL DIA	Par	Cuatricromia	Generales	5x6	28	0	Publicado	Marcela Tello-ElDia	2015-10-21 00:00:00	
+86773	SOC. RAMON MOYA FUENTES 			UIP	10x1	30	8.937	Publicado	Miguel Apey	2015-10-21 00:00:00	
+86872	AREVALO CARMEN			UIP	5x1	30	8.937	Publicado	Pedro Jaime	2015-10-21 00:00:00	
+86679	SOC. DE GESTION MEDITERRANEA			UIP	5x1	30	8.937	Publicado	Miguel Apey	2015-10-21 00:00:00	
+86641	Lilian			UIP	5x2	30	17.875	Publicado	Rene Pizarro	2015-10-21 00:00:00	
+84175	soc. comercial e inv. alto la seren			UIP	5x2	30	8.937	Publicado	Nadia Randolph	2015-10-21 00:00:00	
+84663	CERNA E HIJOS CIA. LTDA.	Par	Blanco y negro	Generales	5x1	30	4.468	Publicado	Nadia Randolph	2015-10-21 00:00:00	
+85313	SOC. COMERCIAL ALCAPARRA LTDA.	Par	Blanco y negro	Generales	5x2	30	10.440	Publicado	Patricia Villena	2015-10-21 00:00:00	
+85418	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	30	0	Publicado	Marcela Tello-ElDia	2015-10-21 00:00:00	
+85549	ARMAQ			UIP	5x1	30	8.937	Publicado	Claudio Romero	2015-10-21 00:00:00	
+83915				UIP	5x2	30	17.875	Publicado	Pedro Jaime	2015-10-21 00:00:00	
+86388	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	4x5	30	20.508	Publicado	Miguel Apey	2015-10-21 00:00:00	
+86340	mihoc			UIP	5x1	30	8.937	Publicado	Claudio Romero	2015-10-21 00:00:00	
+86324	ECHEVERRI ELIZABETH			UIP	5x1	30	8.937	Publicado	Pedro Jaime	2015-10-21 00:00:00	
+86586	SERVICIOS GENERALES GUAYACAN S.A	Par	Blanco y negro	Generales	3x2	31	6.451	Publicado	Jacqueline Torres	2015-10-21 00:00:00	
+86960	SANTANDER G.R.C.	864 Palabras		Legal	x	EC	214.454	Publicado	Pedro Jaime	2015-10-21 00:00:00	
+86954	DIARIO EL DIA	Par	Blanco y negro	Generales	5x2	EC-20	0	Publicado	Marcela Tello-ElDia	2015-10-21 00:00:00	
+84756	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Generales	5x1	EC-21	5.860	Publicado	Rene Pizarro	2015-10-21 00:00:00	
+86900	BANCO DE CHILE	665 Palabras		Legal	x	EC-21	165.126	Publicado	Pedro Jaime	2015-10-21 00:00:00	
+86979	DIARIO EL DIA	Par	Cuatricromia	Generales	17x6	EC-21	0	Publicado	Marcela Tello-ElDia	2015-10-21 00:00:00	
+86878	AREVALO CARMEN			UIP	5x1	EC-21	8.937	Publicado	Pedro Jaime	2015-10-21 00:00:00	

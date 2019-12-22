@@ -1,0 +1,32 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+156882	CLARO CHILE S.A.	Impar	Cuatricromia	Generales	35x6	05	646.000	Publicado	Kathine Soto-Stgo	2018-5-29 00:00:00	
+156834	SANTANDER G.R.C.	Par	Blanco y negro	Generales	10x2	06	83.824	Publicado	Pedro Jaime	2018-5-29 00:00:00	
+156872	SANTANDER G.R.C.	Par	Blanco y negro	Generales	10x2	06	83.824	Publicado	Pedro Jaime	2018-5-29 00:00:00	
+156830	SANTANDER G.R.C.	Par	Blanco y negro	Generales	10x2	06	83.824	Publicado	Pedro Jaime	2018-5-29 00:00:00	
+156871	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Cuatricromia	Medios Regionales	16x6	07	324.840	Publicado	Medios Regionales	2018-5-29 00:00:00	
+154756	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	10	0	Publicado	Marcela Tello-ElDia	2018-5-29 00:00:00	
+156799	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	10	0	Publicado	Marcela Tello-ElDia	2018-5-29 00:00:00	
+156889	DIARIO EL DIA	Par	Cuatricromia	Generales	17x6	11	0	Publicado	Marcela Tello-ElDia	2018-5-29 00:00:00	
+155005	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	12	0	Publicado	Marcela Tello-ElDia	2018-5-29 00:00:00	
+155320	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	5x2	13	0	Publicado	Miguel Apey	2018-5-29 00:00:00	
+155361	C.M. SOC. GASTRONOMICA LTDA.			UIP	5x2	13	7.208	Publicado		2018-5-29 00:00:00	
+155590	DIARIO EL DIA	Par	Blanco y negro	Generales	5x2	13	0	Publicado	Marcela Tello-ElDia	2018-5-29 00:00:00	
+155259	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	15	8.306	Publicado	Miguel Apey	2018-5-29 00:00:00	
+156891	DIARIO EL DIA	Par	Blanco y negro	Generales	5x2	16	0	Publicado	Marcela Tello-ElDia	2018-5-29 00:00:00	
+156890	DIARIO EL DIA	Par	Cuatricromia	Generales	17x6	17	0	Publicado	Marcela Tello-ElDia	2018-5-29 00:00:00	
+155767	SOC. DE GES			UIP	5x1	18	8.937	Publicado	Miguel Apey	2018-5-29 00:00:00	
+155290	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	4x5	18	20.508	Publicado	Miguel Apey	2018-5-29 00:00:00	
+155040	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	18	0	Publicado	Marcela Tello-ElDia	2018-5-29 00:00:00	
+154382	CERNA E HIJOS CIA. LTDA.	Par	Blanco y negro	Generales	5x1	18	3.566	Publicado	Nadia Randolph	2018-5-29 00:00:00	
+156474	DABED Y CIA. LTDA., SELIM	Par	Cuatricromia	Generales	6x6	24	27.690	Publicado	Karina Rivera	2018-5-29 00:00:00	
+156896	DIARIO EL DIA	Par	Cuatricromia	Generales	34x6	28	0	Publicado	Carolina Naranjo	2018-5-29 00:00:00	
+156839	ANTONIO ADASME CRIADO	Par	Blanco y negro	Generales	10x2	29	58.592	Publicado	Pedro Jaime	2018-5-29 00:00:00	
+156894	DIARIO EL DIA	Par	Blanco y negro	Generales	4x6	29	0	Publicado	Marcela Tello-ElDia	2018-5-29 00:00:00	
+156892	DIARIO EL DIA	Par	Blanco y negro	Generales	10x2	EC-20	0	Publicado	Marcela Tello-ElDia	2018-5-29 00:00:00	
+156840	SANTANDER G.R.C.	Par	Blanco y negro	Generales	10x2	EC-20	83.824	Publicado	Pedro Jaime	2018-5-29 00:00:00	
+156797	SANTANDER G.R.C.	Par	Blanco y negro	Generales	10x2	EC-20	83.824	Publicado	Pedro Jaime	2018-5-29 00:00:00	
+154861	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Economico	5x2	EC-21	15.161	Publicado	Rene Pizarro	2018-5-29 00:00:00	
+156893	DIARIO EL DIA	Par	Cuatricromia	Generales	17x6	EC-21	0	Publicado	Marcela Tello-ElDia	2018-5-29 00:00:00	
+154825	SOC. COMERCIAL VARGAS Y GIACOMET			UIP	5x1	EC-21	7.149	Publicado	Rene Pizarro	2018-5-29 00:00:00	
+152080	HOTELERIA LUIS ALBERTO BERETTA KIEK	Par	Blanco y negro	Generales	5x2	EC-21	6.061	Publicado	Patricia Villena	2018-5-29 00:00:00	
+156883	UNIVERSIDAD CATOLICA DEL NORTE			Inserto	x	INS	1.310.400	Publicado	Miguel Apey	2018-5-29 00:00:00	

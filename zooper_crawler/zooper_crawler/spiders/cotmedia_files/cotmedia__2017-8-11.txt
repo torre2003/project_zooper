@@ -1,0 +1,42 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+135350	CHRISTIAN LAUNITZ MARIN SERVICIOS M	Par	Blanco y negro	Generales	8x2	04	5.000	Publicado	Heinger Vega Torres	2017-8-11 00:00:00	
+136173	INMOBIL. EL MIRADOR S.A.	Par	Cuatricromia	Generales	17x6	05	0	Publicado	Rene Pizarro	2017-8-11 00:00:00	
+135944	INMOBILIARIA OVCO	Par	Cuatricromia	Generales	10x6	07	0	Arte	Miguel Apey	2017-8-11 00:00:00	
+136206	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	08	0	Arte	Marcela Tello-ElDia	2017-8-11 00:00:00	
+135961	INMOBIL. PY  S.A.	Impar	Cuatricromia	Generales	17x6	09	407.889	Publicado	Claudio Romero	2017-8-11 00:00:00	
+136193	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	10	0	Arte	Marcela Tello-ElDia	2017-8-11 00:00:00	
+136002	DIARIO EL DIA	Par	Cuatricromia	Generales	18x3	10	0	Publicado	Marcela Tello-ElDia	2017-8-11 00:00:00	
+135943	INMOBILIARIA OVCO	Par	Cuatricromia	Generales	34x3	11	0	Arte	Miguel Apey	2017-8-11 00:00:00	
+136178	DABED Y CIA. LTDA., SELIM	Par	Cuatricromia	Generales	6x6	12	27.690	Publicado	Karina Rivera	2017-8-11 00:00:00	
+135169	DIARIO EL DIA	Par	Blanco y negro	Generales	5x2	13	0	Publicado	Marcela Tello-ElDia	2017-8-11 00:00:00	
+135392	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	5x2	13	0	Publicado	Miguel Apey	2017-8-11 00:00:00	
+135991	ARZOBISPADO DE LA SERENA	Par	Blanco y negro	Generales	5x2	13	0	Publicado	Marcela Tello-ElDia	2017-8-11 00:00:00	
+135261	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	14	8.306	Publicado	Miguel Apey	2017-8-11 00:00:00	
+136205	DIARIO EL DIA	Par	Blanco y negro	Generales	12x6	14	0	Arte	Marcela Tello-ElDia	2017-8-11 00:00:00	
+136086	DIARIO EL DIA	Par	Cuatricromia	Generales	35x6	15	0	Arte	Patricia Villena	2017-8-11 00:00:00	
+135982	MOP OOPP	Par	Blanco y negro	Generales	16x2	17	117.184	Publicado	Marcela Tello-ElDia	2017-8-11 00:00:00	
+136159	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	6x2	17	26.088	Arte	Medios Regionales	2017-8-11 00:00:00	
+136192	CORP. NACIONAL FORESTAL - CONAF	Par	Blanco y negro	Generales	6x2	17	37.422	Publicado	Jacqueline Torres	2017-8-11 00:00:00	
+135945	INMOBILIARIA OVCO	Par	Cuatricromia	Generales	10x6	21	0	Arte	Miguel Apey	2017-8-11 00:00:00	
+135967	CAMPOS DEL NORTE S.A.	Par	Cuatricromia	Generales	17x3	22	0	Arte	Patricia Villena	2017-8-11 00:00:00	
+135139	PILLA LA VACA	Par	Cuatricromia	Generales	5x2	23	0	Publicado	Marcela Tello-ElDia	2017-8-11 00:00:00	
+135107	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	23	0	Publicado	Marcela Tello-ElDia	2017-8-11 00:00:00	
+135037	SOC. HOTELERA VICHUQUEN LTDA.	Par	Cuatricromia	Generales	5x3	23	0	Publicado	Marcela Tello-ElDia	2017-8-11 00:00:00	
+135156	MARTIN JURE PATRICIA	Par	Cuatricromia	Generales	5x3	23	0	Publicado	Marcela Tello-ElDia	2017-8-11 00:00:00	
+135062	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	23	0	Publicado	Marcela Tello-ElDia	2017-8-11 00:00:00	
+136198	DIARIO EL DIA	Par	Blanco y negro	Generales	35x6	24	0	Arte	Carolina Naranjo	2017-8-11 00:00:00	
+136141	CLUB DE DEPORTES LA SERENA	Par	Cuatricromia	Generales	17x3	27	0	Publicado	Marcela Tello-ElDia	2017-8-11 00:00:00	
+135233	SOC. DE GES			UIP	5x1	29	8.937	Publicado	Miguel Apey	2017-8-11 00:00:00	
+133527	SOCIEDAD MEDICA  Y CONSULTORA ESTET			UIP	5x1	29	8.937	Publicado	Maria_Amelia Hermosilla	2017-8-11 00:00:00	
+134542	CERNA E HIJOS CIA. LTDA.	Par	Blanco y negro	Generales	5x1	29	3.574	Publicado	Nadia Randolph	2017-8-11 00:00:00	
+135702	ROJAS SOMERVILLE Y CIA LTDA			UIP	5x2	29	17.875	Publicado	M Cristina Puga	2017-8-11 00:00:00	
+135315	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	4x5	29	20.508	Publicado	Miguel Apey	2017-8-11 00:00:00	
+135513	ARMAQ SUBIRI S.A.			UIP	5x1	29	8.937	Publicado	Claudio Romero	2017-8-11 00:00:00	
+134294	VELIZ CORTES JOSE A.	Par	Blanco y negro	Generales	3x2	30	13.403	Publicado	Pedro Cortes	2017-8-11 00:00:00	
+135467	SERVICIOS GENERALES GUAYACAN S.A	Par	Blanco y negro	Generales	4x2	30	6.686	Publicado	Jacqueline Torres	2017-8-11 00:00:00	
+135953	EMPRESAS LA POLAR S.A.	Par	Cuatricromia	Contraportada	35x6	32	504.000	Publicado	Patricia Villena	2017-8-11 00:00:00	
+136185	SANTANDER G.R.C.	Par	Blanco y negro	Generales	10x2	EC-18	83.824	Publicado	Pedro Jaime	2017-8-11 00:00:00	
+135554	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Economico	5x2	EC-19	16.774	Publicado	Rene Pizarro	2017-8-11 00:00:00	
+123900	HOTELERIA LUIS ALBERTO BERETTA KIEK	Par	Blanco y negro	Generales	5x2	EC-19	6.061	Publicado	Patricia Villena	2017-8-11 00:00:00	
+135969	EMPRESAS LA POLAR S.A.		9 a 24 pag.	Inserto	x	INS	708.000	Publicado	Patricia Villena	2017-8-11 00:00:00	
+135605	AGROPLASTIC LTDA.			Revista Cosas	x	RC	500.000	Publicado	Claudio Romero	2017-8-11 00:00:00	

@@ -1,0 +1,85 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+172279	AUTOMOTRIZ CARMONA	Par	Cuatricromia	Generales	34x6	03	570.996	Publicado	Marcela Tello-ElDia	2018-12-23 00:00:00	
+172215	ILUSTRE MUNICIPALIDAD DE PAIHUANO	Impar	Cuatricromia	Generales	35x6	05	980.000	Publicado	Jacqueline Torres	2018-12-23 00:00:00	
+172302	DIARIO EL DIA	Par	Cuatricromia	Generales	6x6	06	0	Arte	Marcela Tello-ElDia	2018-12-23 00:00:00	
+172256	HERMANAS CALLEGARI LTDA.	Par	Cuatricromia	Generales	17x6	07	310.000	Publicado	Marcela Tello-ElDia	2018-12-23 00:00:00	
+172254	CALLEGARI LTDA.	Par	Cuatricromia	Generales	17x6	08	310.000	Publicado	Marcela Tello-ElDia	2018-12-23 00:00:00	
+172202	EMPRESA PORTUARIA COQUIMBO	Impar	Cuatricromia	Generales	18x6	09	680.672	Publicado	Pedro Jaime	2018-12-23 00:00:00	
+172255	HERMANAS CALLEGARI LTDA.	Par	Cuatricromia	Generales	17x6	10	310.000	Publicado	Marcela Tello-ElDia	2018-12-23 00:00:00	
+172150	MANUEL A. SANTANDER E. SERVICIOS ED	Par	Blanco y negro	Generales	17x3	11	196.101	Publicado	Miguel Apey	2018-12-23 00:00:00	
+172115	INSTITUTO DE DESARROLLO AGROPECUARI	Par	Blanco y negro	Generales	19x3	11	212.909	Publicado	Jacqueline Torres	2018-12-23 00:00:00	
+172231	DABED Y CIA. LTDA., SELIM	Par	Cuatricromia	Generales	6x6	12	27.690	Publicado	Karina Rivera	2018-12-23 00:00:00	
+171755	UNIVERSIDAD TECNOLOGICA DE CHILE	Impar	Cuatricromia	Generales	17x6	13	705.961	Publicado	Patricia Villena	2018-12-23 00:00:00	
+172184	ARZOBISPADO DE LA SERENA	Par	Blanco y negro	Generales	10x2	14	0	Publicado	Marcela Tello-ElDia	2018-12-23 00:00:00	
+172146	EMPRESA CONSTRUCTORA ELQUI LTDA.	Par	Blanco y negro	Generales	6x2	14	52.733	Publicado	M Cristina Puga	2018-12-23 00:00:00	
+172207	INVERSIONES PANUL LTDA	Par	Blanco y negro	Generales	7x2	14	51.268	Publicado	Pedro Jaime	2018-12-23 00:00:00	
+172253	CALLEGARI LTDA.	Par	Cuatricromia	Generales	17x6	15	310.000	Publicado	Marcela Tello-ElDia	2018-12-23 00:00:00	
+172281	UNIVERSIDAD CENTRAL DE CHILE	Par	Cuatricromia	Generales	35x6	16	1.614.942	Publicado	Jacqueline Torres	2018-12-23 00:00:00	
+171469	INMOBIL. LA SERENA GOLF S.A.	Impar	Cuatricromia	Generales	17x6	17	348.316	Publicado	Patricia Villena	2018-12-23 00:00:00	
+170788	UNIVERSIDAD PEDRO DE VALDIVIA	Par	Cuatricromia	Generales	17x6	18	509.861	Publicado	M Cristina Puga	2018-12-23 00:00:00	
+172311	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Impar	Cuatricromia	Generales	17x6	19	470.641	Publicado		2018-12-23 00:00:00	
+171872	SOC. DE TRANSPORTES ROMANI Y CIA. L	Par	Cuatricromia	Generales	15x3	20	242.242	Publicado	Pedro Jaime	2018-12-23 00:00:00	
+164970	SOC. EDUCACIONAL BASALDIAZ S.A.	Par	Cuatricromia	Generales	17x3	20	251.009	Publicado	Paola Marquez	2018-12-23 00:00:00	
+172205	BIG FLOWER LTDA.	Par	Cuatricromia	Generales	10x3	21	0	Arte	Jacqueline Torres	2018-12-23 00:00:00	
+172070	DEMARCO S.A.	Impar	Cuatricromia	Generales	17x3	21	352.981	Publicado	Patricia Villena	2018-12-23 00:00:00	
+170997	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	5x2	22	0	Arte	Miguel Apey	2018-12-23 00:00:00	
+170908	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	22	8.306	Publicado	Miguel Apey	2018-12-23 00:00:00	
+168682	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	22	0	Publicado	Marcela Tello-ElDia	2018-12-23 00:00:00	
+170961	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	4x5	22	20.508	Arte	Miguel Apey	2018-12-23 00:00:00	
+168800	PAMELA B. GONZALEZ LIZAMA COMERCIAL	Par	Blanco y negro	Generales	5x2	22	0	Publicado	Marcela Tello-ElDia	2018-12-23 00:00:00	
+168782	PILLA LA VACA	Par	Blanco y negro	Generales	5x2	22	0	Publicado	Marcela Tello-ElDia	2018-12-23 00:00:00	
+168691	INVERSIONES ALTA CRUZ LTDA	Par	Blanco y negro	Generales	5x2	22	0	Publicado	Marcela Tello-ElDia	2018-12-23 00:00:00	
+172143	INMOBILIARIA LAS PATAGUAS LTDA	Impar	Blanco y negro	Generales	5x1	23	27.465	Publicado	M Cristina Puga	2018-12-23 00:00:00	
+172319	DIARIO EL DIA	Par	Blanco y negro	Generales	5x1	23	0	Arte	Marcela Tello-ElDia	2018-12-23 00:00:00	
+172072	HOTEL COSTA REAL	Par	Blanco y negro	Generales	5x2	23	49.437	Publicado	Marcela Tello-ElDia	2018-12-23 00:00:00	
+172203	DIRECCION NACIONAL DEL SERVICIO CIV	Impar	Blanco y negro	Generales	16x2	23	125.504	Publicado	Jacqueline Torres	2018-12-23 00:00:00	
+172249	HERMANAS CALLEGARI LTDA.	Par	Cuatricromia	Generales	17x6	24	310.000	Publicado	Marcela Tello-ElDia	2018-12-23 00:00:00	
+172251	CALLEGARI LTDA.	Par	Cuatricromia	Generales	17x6	25	310.000	Publicado	Marcela Tello-ElDia	2018-12-23 00:00:00	
+172252	FUNDACI?N EDUCACIONAL SANTO TOMAS D	Par	Blanco y negro	Generales	18x2	26	177.973	Publicado	Miguel Apey	2018-12-23 00:00:00	
+172268	SOC. EDUCACIONAL ANDRES BELLO LTDA.	Par	Blanco y negro	Generales	7x2	26	76.902	Publicado	Pedro Jaime	2018-12-23 00:00:00	
+172267	SOC. EDUCACIONAL ANDRES BELLO LTDA.	Par	Blanco y negro	Generales	6x2	26	65.916	Publicado	Pedro Jaime	2018-12-23 00:00:00	
+172245	ASESORIAS SERENA LTDA.	Par	Blanco y negro	Generales	12x2	26	72.048	Publicado		2018-12-23 00:00:00	
+172280	AUTOMOTRIZ CARMONA	Par	Cuatricromia	Generales	17x6	27	285.498	Publicado	Marcela Tello-ElDia	2018-12-23 00:00:00	
+170973	INVERSIONES E INMOBILIARIA P.A.T.  	Par	Cuatricromia	Generales	17x6	28	509.861	Publicado	Miguel Apey	2018-12-23 00:00:00	
+171899	UNIVERSIDAD DE LA SERENA	Impar	Blanco y negro	Generales	17x6	35	380.994	Publicado	Jacqueline Torres	2018-12-23 00:00:00	
+167213	HABITA INMOBILIARIA SA	Par	Cuatricromia	Generales	17x6	36	509.861	Publicado	Miguel Apey	2018-12-23 00:00:00	
+171266	CAMPOS DEL NORTE S.A.	Impar	Cuatricromia	Generales	17x6	37	611.833	Publicado	Patricia Villena	2018-12-23 00:00:00	
+172250	CALLEGARI LTDA.	Par	Cuatricromia	Generales	17x6	39	310.000	Publicado	Marcela Tello-ElDia	2018-12-23 00:00:00	
+172069	DEMARCO S.A.	Impar	Cuatricromia	Generales	17x3	41	352.981	Publicado	Patricia Villena	2018-12-23 00:00:00	
+172284	DIARIO EL DIA	Par	Blanco y negro	Generales	35x6	42	0	Arte	Carolina Naranjo	2018-12-23 00:00:00	
+172285	DIARIO EL DIA	Impar	Blanco y negro	Generales	35x6	43	0	Arte	Carolina Naranjo	2018-12-23 00:00:00	
+172168	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	44	0	Arte	Marcela Tello-ElDia	2018-12-23 00:00:00	
+170714	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	12x3	44	51.666	Publicado	Claudio Romero	2018-12-23 00:00:00	
+169606	SERVICIOS GENERALES GUAYACAN S.A	Par	Blanco y negro	Generales	3x2	45	6.812	Publicado	Jacqueline Torres	2018-12-23 00:00:00	
+172318	DIARIO EL DIA	Par	Cuatricromia	Generales	6x6	45	0	Arte	Marcela Tello-ElDia	2018-12-23 00:00:00	
+171854	OMD CHILE S.P.A.	Impar	Cuatricromia	Generales	35x6	48	950.000	Publicado	M Cristina Puga	2018-12-23 00:00:00	
+170684	INMOBIL. E INVERSIONES AREYUNA E HI	Par	Cuatricromia	Generales	12x6	EC-01	326.680	Publicado	Claudio Romero	2018-12-23 00:00:00	
+172320	DIARIO EL DIA	Par	Cuatricromia	Generales	3x6	EC-02	0	Arte	Marcela Tello-ElDia	2018-12-23 00:00:00	
+172266	ACTIVATION GEOLOGICAL SERVICES SPA	Par	Blanco y negro	Generales	5x2	EC-03	54.930	Publicado	Pedro Jaime	2018-12-23 00:00:00	
+171180	INMOBILIARIA JCE S.A	Impar	Cuatricromia	Generales	5x1	EC-03	31.377	Publicado	M Cristina Puga	2018-12-23 00:00:00	
+172187	GESTORA DE AUTOPISTAS S.A.	Par	Blanco y negro	Economico	7x2	EC-03	76.000	Publicado	Jacqueline Torres	2018-12-23 00:00:00	
+172198	ESCUELA INDUSTRIAL SALESIANOS SAN R	Par	Blanco y negro	Economico	5x2	EC-03	54.930	Publicado	Jacqueline Torres	2018-12-23 00:00:00	
+172308	ARANDA CA?AS ALFONSO	Par	Blanco y negro	Generales	11x2	EC-04	90.691	Publicado	Pedro Jaime	2018-12-23 00:00:00	
+172216	AGUAS ALCALINAS CHILE SPA	Par	Blanco y negro	Generales	4x2	EC-04	36.975	Publicado	Pedro Jaime	2018-12-23 00:00:00	
+168556	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	EC-05	0	Publicado	Marcela Tello-ElDia	2018-12-23 00:00:00	
+172124	SOCIEDAD ORIETTA ARAYA PANGUE HIJOS	Par	Blanco y negro	Economico	4x2	EC-06	30.760	Publicado	Jacqueline Torres	2018-12-23 00:00:00	
+171381	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Generales	5x2	EC-07	7.003	Publicado	Rene Pizarro	2018-12-23 00:00:00	
+166204	HOTELERIA LUIS ALBERTO BERETTA KIEK	Par	Blanco y negro	Generales	5x2	EC-07	6.061	Publicado	Patricia Villena	2018-12-23 00:00:00	
+171919	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	10x2	EC-07	59.540	Publicado	Medios Regionales	2018-12-23 00:00:00	
+172321	DIARIO EL DIA	Par	Cuatricromia	Generales	5x6	EC-07	0	Arte	Marcela Tello-ElDia	2018-12-23 00:00:00	
+172257	CAMAL MUSALEM TAPIA Y CIA.	Impar	Cuatricromia	Generales	34x6	EC-08	570.996	Publicado	Marcela Tello-ElDia	2018-12-23 00:00:00	
+171947	ILUSTRE MUNICIPALIDAD DE COQUIMBO		9 a 24 pag.	Inserto	0x0	INS	1.870.000	Publicado	Miguel Apey	2018-12-23 00:00:00	
+151626	CIA. MINERA TECK CARMEN DE ANDACOLL	Impar	Cuatricromia	Contraportada	35x6	INS	3.100.689	Publicado	Jacqueline Torres	2018-12-23 00:00:00	
+164012	SERVICIOS MEDICOS E INMOBILIAR NAXA		Cuatricromia	Guia	10x2	VS	33.333	Publicado	Paola Marquez	2018-12-23 00:00:00	
+167682	LILIANA SANABRIA POVEDA		Cuatricromia	Guia	5x2	VS	16.666	Publicado	Paola Marquez	2018-12-23 00:00:00	
+170531	ARANCIBIA Y GUTIERREZ LTDA.		Cuatricromia	Guia	5x2	VS	16.666	Publicado	Paola Marquez	2018-12-23 00:00:00	
+165076	CARLOS ALBERTO ROBALINO SANTILLAN S		Cuatricromia	Guia	5x2	VS	16.666	Publicado	Paola Marquez	2018-12-23 00:00:00	
+158492	SOCIEDAD MEDICA Y CONSULTORA ESTETI		Cuatricromia	Guia	5x2	VS	16.666	Publicado	Paola Marquez	2018-12-23 00:00:00	
+164361	ESAPREV LTDA		Cuatricromia	Guia	5x2	VS	16.666	Publicado	Paola Marquez	2018-12-23 00:00:00	
+160378	AV CLINICA DENTAL ODONTOLOGICA SPA		Cuatricromia	Guia	10x2	VS	31.481	Publicado	Paola Marquez	2018-12-23 00:00:00	
+171120	SALUD MENTAL MEDICINA TRADICIONAL C		Cuatricromia	Guia	5x2	VS	16.666	Publicado	Paola Marquez	2018-12-23 00:00:00	
+171651	ODONTOLOG?A AVANZADA SONRIE SPA		Cuatricromia	Guia	10x2	VS	33.333	Publicado	Paola Marquez	2018-12-23 00:00:00	
+160413	SERVICIO DE CIRUGIA LASER LIMITADA		Cuatricromia	Guia	10x2	VS	33.333	Publicado	Paola Marquez	2018-12-23 00:00:00	
+164039	CENTRO ODONTOLOGICO NU?EZ Y SECCHI 		Cuatricromia	Guia	10x2	VS	33.333	Publicado	Paola Marquez	2018-12-23 00:00:00	
+161809	LASER PIEL		Cuatricromia	Guia	5x2	VS	16.666	Publicado	Paola Marquez	2018-12-23 00:00:00	
+169938	SERVICIO ODONTOLOGICO JAIME MAURICI		Cuatricromia	Guia	10x2	VS	33.333	Publicado	Paola Marquez	2018-12-23 00:00:00	

@@ -1,0 +1,80 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+119683	CHRISTIAN LAUNITZ MARIN SERVICIOS M	Par	Blanco y negro	Generales	4x2	04	6.464	Publicado	Jacqueline Torres	2016-12-30 00:00:00	
+119753	EMPRESAS LA POLAR S.A.	Impar	Cuatricromia	Generales	35x6	05	504.000	Publicado	Patricia Villena	2016-12-30 00:00:00	
+119315	AGROPLASTIC LTDA.	Par	Cuatricromia	Generales	17x6	07	275.000	Publicado	Claudio Romero	2016-12-30 00:00:00	
+119711	AUTOMOTORES GILDEMEISTER S.A.	Impar	Cuatricromia	Generales	35x6	09	1.098.161	Publicado	Kathine Soto-Stgo	2016-12-30 00:00:00	
+119949	INVERSIONES VEINTINUEVE GRADOS	Par	Cuatricromia	Generales	12x3	10	129.196	Publicado	Patricia Villena	2016-12-30 00:00:00	
+118138	SOC. COMERCIAL NAPOLEON LTDA.	Impar	Blanco y negro	Generales	5x6	11	11.538	Publicado	Patricia Villena	2016-12-30 00:00:00	
+119666	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Cuatricromia	Medios Regionales	16x6	13	309.344	Publicado	Medios Regionales	2016-12-30 00:00:00	
+117722	DIARIO EL DIA	Par	Blanco y negro	Generales	5x2	14	0	Publicado	Marcela Tello-ElDia	2016-12-30 00:00:00	
+117761	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	5x2	14	0	Publicado	Miguel Apey	2016-12-30 00:00:00	
+119625	ARZOBISPADO DE LA SERENA	Par	Blanco y negro	Generales	5x2	14	0	Publicado	Marcela Tello-ElDia	2016-12-30 00:00:00	
+118423	PABLO NU?EZ RENCORET	Par	Blanco y negro	Generales	5x2	15	0	Publicado	Pedro Jaime	2016-12-30 00:00:00	
+114329	GESTION NORTE	Par	Blanco y negro	Generales	5x2	15	9.280	Publicado	Patricia Villena	2016-12-30 00:00:00	
+119974	DIARIO EL DIA	Par	Cuatricromia	Generales	5x2	15	0	Publicado	Marcela Tello-ElDia	2016-12-30 00:00:00	
+119580	DIARIO EL DIA	Par	Cuatricromia	Generales	17x6	16	0	Publicado	Marcela Tello-ElDia	2016-12-30 00:00:00	
+116703	OVALLE CASINO RESORT S.A	Par	Cuatricromia	Generales	25x4	17	205.072	Publicado	Paola Marquez	2016-12-30 00:00:00	
+119728	MADERO COMUNICACIONES LTDA.	Par	Cuatricromia	Generales	17x6	19	0	Publicado	Marcela Tello-ElDia	2016-12-30 00:00:00	
+119096	UNIVERSIDAD TECNOLOGICA DE CHILE	Par	Cuatricromia	Generales	12x3	20	0	Publicado	Patricia Villena	2016-12-30 00:00:00	
+119973	DIARIO EL DIA	Par	Cuatricromia	Generales	20x3	20	0	Publicado	Marcela Tello-ElDia	2016-12-30 00:00:00	
+119337	INMOBIL. E INVERSIONES AREYUNA E HI	Par	Cuatricromia	Generales	35x6	21	333.334	Publicado	Claudio Romero	2016-12-30 00:00:00	
+117451	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	22	8.306	Publicado	Miguel Apey	2016-12-30 00:00:00	
+119958	COMUNICACION ESTRATEGICA LIMITDA	Impar	Cuatricromia	Generales	17x6	23	370.237	Publicado	Jacqueline Torres	2016-12-30 00:00:00	
+119968	INMOBIL. LA SERENA GOLF S.A.	Impar	Cuatricromia	Generales	17x6	25	288.975	Publicado	Patricia Villena	2016-12-30 00:00:00	
+118931	DIARIO EL DIA	Par	Cuatricromia	Generales	14x6	29	0	Publicado	Marcela Tello-ElDia	2016-12-30 00:00:00	
+115074	SOC. HOTELERA VICHUQUEN LTDA.	Par	Cuatricromia	Generales	5x3	31	0	Publicado	Marcela Tello-ElDia	2016-12-30 00:00:00	
+115412	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	31	0	Publicado	Marcela Tello-ElDia	2016-12-30 00:00:00	
+119598	SERVICIOS GASTRON?MICOS LA CASONA D	Par	Blanco y negro	Generales	5x2	31	10.725	Publicado	Miguel Apey	2016-12-30 00:00:00	
+115623	PILLA LA VACA	Par	Cuatricromia	Generales	5x2	31	0	Publicado	Marcela Tello-ElDia	2016-12-30 00:00:00	
+115684	MARTIN JURE PATRICIA	Par	Cuatricromia	Generales	5x3	31	0	Publicado	Marcela Tello-ElDia	2016-12-30 00:00:00	
+117416	BAKULIC RESTAURANT	Par	Cuatricromia	Generales	10x2	31	24.609	Publicado	Miguel Apey	2016-12-30 00:00:00	
+117497	HOTEL COSTA REAL	Par	Cuatricromia	Generales	10x2	31	30.761	Publicado	Miguel Apey	2016-12-30 00:00:00	
+119951	SOC. JULIA YOLANDA BURGOS ARAYA Y C	Par	Cuatricromia	Generales	34x6	32	570.171	Publicado	Carolina Naranjo	2016-12-30 00:00:00	
+119952	SOC. JULIA YOLANDA BURGOS ARAYA Y C	Impar	Cuatricromia	Contraportada	34x6	33	655.696	Publicado	Carolina Naranjo	2016-12-30 00:00:00	
+117620	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	6x6	35	51.666	Publicado	Claudio Romero	2016-12-30 00:00:00	
+119356	inversiones san			UIP	5x1	37	8.937	Publicado	Rene Pizarro	2016-12-30 00:00:00	
+119390	SOC.INMOBIL.Y DE INV.MORALES Y CIA.			UIP	5x2	37	0	Publicado	Marcela Tello-ElDia	2016-12-30 00:00:00	
+119274	CROVETTO			UIP	5x2	37	17.875	Publicado	Miguel Apey	2016-12-30 00:00:00	
+117527	SOC. DE GES			UIP	5x1	37	8.937	Publicado	Miguel Apey	2016-12-30 00:00:00	
+118102	ICEFOOD LIMITADA	Par	Blanco y negro	Generales	5x2	37	8.925	Publicado	Patricia Villena	2016-12-30 00:00:00	
+117482	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	4x5	37	20.508	Publicado	Miguel Apey	2016-12-30 00:00:00	
+115536	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	37	0	Publicado	Marcela Tello-ElDia	2016-12-30 00:00:00	
+114807	CERNA E HIJOS CIA. LTDA.	Par	Blanco y negro	Generales	5x1	37	4.468	Publicado	Nadia Randolph	2016-12-30 00:00:00	
+117694	armaq			UIP	5x1	37	8.937	Publicado	Claudio Romero	2016-12-30 00:00:00	
+118294	SERVICIOS GENERALES GUAYACAN S.A	Par	Blanco y negro	Generales	4x2	38	6.666	Publicado	Jacqueline Torres	2016-12-30 00:00:00	
+118806	VELIZ CORTES JOSE A.	Par	Blanco y negro	Generales	3x2	38	13.403	Publicado	Pedro Cortes	2016-12-30 00:00:00	
+117837	WALMART CHILE S.A	Par	Cuatricromia	Contraportada	35x6	40	600.000	Publicado	M Cristina Puga	2016-12-30 00:00:00	
+119637	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	10x2	EC-26	43.480	Publicado	Medios Regionales	2016-12-30 00:00:00	
+119708	AREYUNA AREYUNA NIBALDO	Par	Cuatricromia	Generales	8x3	EC-26	86.131	Publicado	Pedro Jaime	2016-12-30 00:00:00	
+119688	DIARIO EL DIA	Par	Blanco y negro	Generales	5x2	EC-27	0	Publicado	M Cristina Puga	2016-12-30 00:00:00	
+117650	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Generales	5x1	EC-27	5.860	Publicado	Rene Pizarro	2016-12-30 00:00:00	
+109000	HOTELERIA LUIS ALBERTO BERETTA KIEK	Par	Blanco y negro	Generales	5x2	EC-27	6.994	Publicado	Patricia Villena	2016-12-30 00:00:00	
+119224	SERVICIOS INMOBILIARIOS ECOMAC S.A	Impar	Cuatricromia	Generales	17x6	EE-03	382.788	Publicado	M Cristina Puga	2016-12-30 00:00:00	
+120063	SERVICIOS TASUI S.A.	Par	Cuatricromia	Generales	17x3	EE-04	251.008	Publicado	Rene Pizarro	2016-12-30 00:00:00	
+116987	INMOBIL. PY  S.A.	Par	Cuatricromia	Generales	35x6	EE-05	650.000	Publicado	Claudio Romero	2016-12-30 00:00:00	
+119226	COOP. AGRICOLA PISQUERA ELQUI LTDA.	Par	Cuatricromia	Generales	17x6	EE-09	0	Arte	M Cristina Puga	2016-12-30 00:00:00	
+117500	INVERSIONES E INMOBILIARIA P.A.T.  	Par	Cuatricromia	Generales	17x6	EE-10	243.165	Publicado	Miguel Apey	2016-12-30 00:00:00	
+98543	UNIVERSIDAD DE LA SERENA	Par	Cuatricromia	Ed.Especial	17x3	EE-12	177.797	Publicado	Jacqueline Torres	2016-12-30 00:00:00	
+119322	MINERA ALTOS DE PUNITAQUI  LTDA.	Par	Cuatricromia	Ed.Especial	17x3	EE-12	261.467	Publicado	Karina Rivera	2016-12-30 00:00:00	
+119207	SOC. DE INVERSIONES LAS VEGAS LTDA.	Par	Cuatricromia	Generales	34x6	EE-13	0	Publicado	Paola Marquez	2016-12-30 00:00:00	
+119225	CIA. MINERA SAN GERONIMO	Impar	Cuatricromia	Generales	17x3	EE-14	219.633	Publicado	M Cristina Puga	2016-12-30 00:00:00	
+119537	UNIVERSIDAD CENTRAL DE CHILE	Par	Cuatricromia	Ed.Especial	17x3	EE-14	183.000	Publicado	Jacqueline Torres	2016-12-30 00:00:00	
+118950	COMERCIAL VALENTINI E HIJOS LTDA.	Par	Cuatricromia	Generales	17x6	EE-15	263.755	Publicado	Paola Marquez	2016-12-30 00:00:00	
+119419	MINERA LOS PELAMBRES	Impar	Cuatricromia	Ed.Especial	35x3	EE-17	627.521	Publicado	Jacqueline Torres	2016-12-30 00:00:00	
+119221	INDUSTRIAS CELTA LIMITADA	Par	Cuatricromia	Generales	17x6	EE-18	366.054	Publicado	Miguel Apey	2016-12-30 00:00:00	
+119629	INMOBILIARIA NUEVA SERENA	Par	Cuatricromia	Generales	17x6	EE-20	230.769	Publicado	Claudio Romero	2016-12-30 00:00:00	
+119316	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	17x6	EE-21	250.000	Publicado	Claudio Romero	2016-12-30 00:00:00	
+119692	UNIVERSIDAD TECNOLOGICA DE CHILE	Par	Cuatricromia	Generales	17x6	EE-23	392.201	Publicado	Patricia Villena	2016-12-30 00:00:00	
+119203	INMOBIL. E INVERSIONES AREYUNA E HI	Par	Cuatricromia	Generales	35x6	EE-25	400.000	Publicado	Claudio Romero	2016-12-30 00:00:00	
+117579	SOC. AGRICOLA HACIENDA MAL PASO Y C	Impar	Cuatricromia	Generales	17x6	EE-27	0	Publicado	Paola Marquez	2016-12-30 00:00:00	
+119045	OVALLE CASINO RESORT S.A	Par	Cuatricromia	Generales	25x4	EE-29	205.072	Publicado	Paola Marquez	2016-12-30 00:00:00	
+119421	ILUSTRE MUNICIPALIDAD DE LA SERENA	Par	Cuatricromia	Generales	35x6	EE-31	732.108	Publicado	M Cristina Puga	2016-12-30 00:00:00	
+119734	INMOBILIARIA ELQUI S.A.	Par	Blanco y negro	Generales	17x3	EE-32	108.120	Publicado	M Cristina Puga	2016-12-30 00:00:00	
+119228	CALZADOS LA ESTRELLA ALPINA	Par	Cuatricromia	Generales	17x3	EE-32	160.000	Publicado	M Cristina Puga	2016-12-30 00:00:00	
+119269	NAZARIO NELSON ESPINOZA GONZALEZ	Par	Cuatricromia	Generales	17x3	EE-34	169.954	Publicado	Miguel Apey	2016-12-30 00:00:00	
+119589	DABED Y CIA. LTDA., SELIM	Par	Cuatricromia	Generales	17x6	EE-35	120.000	Publicado	Karina Rivera	2016-12-30 00:00:00	
+119658	SANTO TOMAS S.A.	Par	Cuatricromia	Generales	17x6	EE-36	392.201	Publicado	Patricia Villena	2016-12-30 00:00:00	
+119538	SOC. EDUCACIONAL JUAN BOHON S.A.	Par	Cuatricromia	Ed.Especial	17x6	EE-38	183.027	Publicado	Jacqueline Torres	2016-12-30 00:00:00	
+119427	ANDES IRON SPA	Impar	Cuatricromia	Ed.Especial	35x6	EE-40	904.368	Publicado	Jacqueline Torres	2016-12-30 00:00:00	
+119955	INVERSIONES SAN JAVIER LTDA.	837 Palabras		Propiedades	x	PROP	133.920	Publicado	Rene Pizarro	2016-12-30 00:00:00	
+119956	ACADEMIA DE DACTILOGRAFIA FUTURO	262 Palabras		Propiedades	x	PROP	42.017	Publicado	Rene Pizarro	2016-12-30 00:00:00	

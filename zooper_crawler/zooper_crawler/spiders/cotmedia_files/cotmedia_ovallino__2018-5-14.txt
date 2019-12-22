@@ -1,0 +1,7 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+154866	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	6x2	05	18.204	Publicado	Medios Regionales	Remate - Banco Santander GRC Ltda. - (64439)	2018-5-14 00:00:00	
+155900	ASOCIACION DE CANALISTA CANAL PALQU	Par	Blanco y negro	Generales	10x2	05	47.080	Publicado	Leonel Pizarro-Ovalle	CITACION	2018-5-14 00:00:00	
+155972	EMPRESA PERIODISTICA EL NORTE S.A.	Par	Blanco y negro	Medios Regionales	6x2	05	18.204	Arte	Medios Regionales	Remate Banco Santander - Santander GRC Ltda. - (71857)	2018-5-14 00:00:00	
+154969	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	06	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2018-5-14 00:00:00	
+155124	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	9x4	08	16.065	Publicado	Claudio Romero	Muebles alpina..	2018-5-14 00:00:00	
+155990	DABED Y CIA. LTDA., SELIM	Par	Cuatricromia	Generales	6x6	14	23.076	Publicado	Karina Rivera	graf. metro cuadrado	2018-5-14 00:00:00	

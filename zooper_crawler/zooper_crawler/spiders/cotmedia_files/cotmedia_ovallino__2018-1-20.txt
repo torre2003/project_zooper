@@ -1,0 +1,15 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+148825	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	6x6	03	0	Publicado	Marcela Tello-ElDia		2018-1-20 00:00:00	
+148548	INMOBILIARIA NUEVA SERENA			UIP	10x6	05	16.260	Publicado	Claudio Romero	proyecto empresa serena.(.2 AVISOS NUEVO)" DEPARTAMENTOS.".." CASAS"...ALTERNAR LOS AVISOS TODOS LOS	2018-1-20 00:00:00	
+147253	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	06	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2018-1-20 00:00:00	
+146944	DABED Y CIA. LTDA., SELIM	Par	Cuatricromia	Generales	6x6	08	23.076	Publicado	Karina Rivera	GRAF. OV-04	2018-1-20 00:00:00	
+147602	SOCIEDAD EDUCACIONL GALLARDO Y FIGU			UIP	10x2	09	6.306	Publicado	Karina Rivera	CENTRO DE FORMACION MATEMATICA	2018-1-20 00:00:00	
+147805	UNIVERSIDAD BOLIVARIANA			UIP	5x4	09	5.630	Publicado	Karina Rivera	U. Bolivariana y V. Central	2018-1-20 00:00:00	
+148524	PRENSA DEL LIMARI LTDA.	Par	Blanco y negro	Generales	5x2	10	0	Arte	Leonel Pizarro-Ovalle	repartidor	2018-1-20 00:00:00	
+148241	INVERSIONES TANGUEMAR LIMITADA			UIP	5x2	10	2.808	Publicado	Patricia Villena	Tanguemar 2	2018-1-20 00:00:00	
+147669	AGRICOLA NORTE TALINAY LTDA	Par	Blanco y negro	Generales	5x2	10	1.666	Publicado	Paola Marquez	UIP VENTA ALFALFA	2018-1-20 00:00:00	
+147770	CL?NICA VETERINARIA LOS MANCOS LTDA			UIP	10x2	11	5.630	Publicado	Karina Rivera	CLINICA VETERINARIA 	2018-1-20 00:00:00	
+148709	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	6x3	11	0	Publicado	Marcela Tello-ElDia	Convenio Dabed	2018-1-20 00:00:00	
+147867	VELIZ CORTES JOSE A.			UIP	5x2	15	4.695	Publicado	Pedro Cortes		2018-1-20 00:00:00	
+148944	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	6x6	15	0	Publicado	Marcela Tello-ElDia		2018-1-20 00:00:00	
+148307	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	34x6	16	0	Publicado	Marcela Tello-ElDia		2018-1-20 00:00:00	

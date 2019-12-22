@@ -1,0 +1,12 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+83709	SOCIEDAD DE RENTAS FALABELLA S.A	Par	Cuatricromia	Generales	8x6	01	50.980	Publicado	M Cristina Puga	Huincha portada Open Plaza	2015-9-3 00:00:00	
+83368	HSCHILE S.A.	Impar	Cuatricromia	Generales	17x6	03	210.000	Publicado	Marcela Tello-ElDia		2015-9-3 00:00:00	
+83578	ADA diaz araya			UIP	10x2	05	5.630	Publicado	Italo Retamal	machi zona ganja	2015-9-3 00:00:00	
+81992	jorge alvarado 			UIP	5x2	05	2.808	Publicado	Italo Retamal	abogado	2015-9-3 00:00:00	
+81387	Tanguemar			UIP	5x2	05	2.808	Publicado	Patricia Villena	Tanguemar	2015-9-3 00:00:00	
+83615	ILUSTRE MUNICIPALIDAD DE OVALLE	Par	Cuatricromia	Generales	10x6	06	50.000	Publicado	Italo Retamal		2015-9-3 00:00:00	
+83618	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	12x6	08	0	Arte	Marcela Tello-ElDia	Teatro en Ovalle - Solo Suscriptores	2015-9-3 00:00:00	
+83690	DABED Y CIA. LTDA., SELIM	Impar	Cuatricromia	Generales	6x6	09	23.077	Publicado	Italo Retamal	Expo del maestro	2015-9-3 00:00:00	
+83640	SOCIEDAD DE INVERSIONES Y ASESORIAS			UIP	17x2	10	9.211	Publicado	Italo Retamal	ingles	2015-9-3 00:00:00	
+82406	SOCIEDAD COMERCIAL KATANKURA LTDA	Par	Cuatricromia	Generales	6x6	11	25.000	Publicado	Italo Retamal	evento katankura 	2015-9-3 00:00:00	
+82947	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x3	14	0	Arte	Marcela Tello-ElDia	Vea en Cinemark - Agente CIPOL	2015-9-3 00:00:00	

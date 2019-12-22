@@ -1,0 +1,20 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+118029	SOCIEDAD DE RENTAS FALABELLA S.A	Par	Cuatricromia	Generales	8x6	01	50.980	Publicado	M Cristina Puga	Huincha open 	2016-12-16 00:00:00	
+118902	EMPRESAS LA POLAR S.A.	Impar	Cuatricromia	Generales	35x6	03	0	Arte	Patricia Villena	La Polar Contraportada o primera impar	2016-12-16 00:00:00	
+115489	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	04	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2016-12-16 00:00:00	
+118965	OMD CHILE S.A.	Impar	Cuatricromia	Generales	17x6	05	208.680	Publicado	Patricia Villena		2016-12-16 00:00:00	
+117591	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	6x6	06	0	Publicado	Claudio Romero	Muebles Alpina	2016-12-16 00:00:00	
+118052	ARENA CHILE S.A.	Impar	Cuatricromia	Generales	17x6	07	200.000	Publicado	M Cristina Puga	volkswagen/primeras impar	2016-12-16 00:00:00	
+119035	MOP OOPP	Impar	Blanco y negro		15x1	08	53.395	Publicado	Jacqueline Torres		2016-12-16 00:00:00	
+118311	COMERCIAL AVA 			UIP	10x2	08	7.882	Publicado	Karina Rivera	E BODY OVALLE	2016-12-16 00:00:00	
+117857	OVALLEMAR			UIP	5x2	08	3.958	Publicado	Karina Rivera	OVALLE MAR	2016-12-16 00:00:00	
+118980	CONSTRUCTORA CADEL LTDA.	Par	Cuatricromia	Generales	34x6	09	200.000	Publicado	Rene Pizarro		2016-12-16 00:00:00	
+118699				UIP	10x2	10	5.630	Publicado	Karina Rivera	ESTETICA CARLA FIGUEROA	2016-12-16 00:00:00	
+116707	OVALLE CASINO RESORT S.A	Par	Cuatricromia	Generales	25x4	10	131.824	Publicado	Paola Marquez	OCR Eventos Noviembre	2016-12-16 00:00:00	
+118987	AUTOMOTORES GILDEMEISTER S.A.	Impar	Cuatricromia	Generales	17x6	11	342.875	Publicado	Kathine Soto-Stgo	AUTOMOTORES GILDEMEISTER"MAHINDRA"	2016-12-16 00:00:00	
+118711	DABED Y CIA. LTDA., SELIM	Par	Cuatricromia	Generales	6x6	12	23.077	Publicado	Karina Rivera	NAVIDAD 1	2016-12-16 00:00:00	
+118986	AUTOMOTORES GILDEMEISTER S.A.	Impar	Cuatricromia	Generales	17x6	13	342.875	Publicado	Kathine Soto-Stgo	AUTOMOTORES GILDEMEISTER "HYUNDAI"	2016-12-16 00:00:00	
+118583	CABARET Y SALON DE ESPECTACULOS ART			UIP	10x2	14	5.517	Publicado	Karina Rivera	PARADISE CLUB	2016-12-16 00:00:00	
+119032	FALABELLA RETAIL S.A.	Impar	Cuatricromia	Contraportada	35x6	16	400.000	Publicado	M Cristina Puga	Falabella / contra	2016-12-16 00:00:00	
+119036	ESTEBAN ONOSTROZA MULET	169 Palabras		Legal	x	EC	41.933	Publicado	Pedro Jaime	EXTRACTO DE AGUAS 	2016-12-16 00:00:00	
+119049	INMOBILIARIA E INVERSIONES ALTOVALS		1 pag.	Inserto	x	INS	180.000	Publicado	Paola Marquez	Venta de terrenos	2016-12-16 00:00:00	

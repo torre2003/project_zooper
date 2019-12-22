@@ -1,0 +1,11 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+116731	OVALLE CASINO RESORT S.A	Par	Cuatricromia	Generales	25x4	03	171.372	Publicado	Paola Marquez	OCR Eventos Noviembre	2016-12-18 00:00:00	
+119153	SOCIEDAD CONCESIONARIA RUTA DEL LIM	Par	Blanco y negro	Generales	20x4	05	244.817	Publicado	Pedro Jaime	RUTA DEL LIMARI 	2016-12-18 00:00:00	
+119138	EMPRESA PERIODISTICA EL NORTE S.A.	Par	Blanco y negro	Medios Regionales	6x2	05	17.340	Publicado	Medios Regionales	Asercop - Administrador de Contrato - (235870)	2016-12-18 00:00:00	
+103057	SOCIEDAD MEDICA Y CONSULTORA ESTETI		Cuatricromia	Guia	5x2	06	13.333	Publicado	Maria_Amelia Hermosilla	Diego Polanco	2016-12-18 00:00:00	
+119179	CAMAL MUSALEM TAPIA Y CIA.	Par	Blanco y negro	Generales	15x6	07	110.160	Publicado	Marcela Tello-ElDia	TOYOTA CHRISTMAS 	2016-12-18 00:00:00	
+115491	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	08	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2016-12-18 00:00:00	
+118982	CONSTRUCTORA CADEL LTDA.	Par	Cuatricromia	Generales	34x6	09	550.000	Publicado	Rene Pizarro		2016-12-18 00:00:00	
+119163	EMPRESA PERIODISTICA EL NORTE S.A.	Par	Cuatricromia	Medios Regionales	10x3	11	115.603	Publicado	Medios Regionales	Impar - Empresa de Correos de Chile - Correos de Chile - (236092)	2016-12-18 00:00:00	
+119002	ACADEMIA DE GIMNASIO INTEGRAL FIT L	Par	Cuatricromia	Generales	17x3	11	0	Publicado	Miguel Apey	GIMNASIO SPORTLIFE	2016-12-18 00:00:00	
+119178	CAMAL MUSALEM TAPIA Y CIA.	Par	Blanco y negro	Generales	35x6	13	249.696	Publicado	Marcela Tello-ElDia	TOYOTA NEW COROLLA 	2016-12-18 00:00:00	

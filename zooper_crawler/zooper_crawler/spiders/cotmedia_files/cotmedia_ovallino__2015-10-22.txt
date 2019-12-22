@@ -1,0 +1,12 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+86852	SOCIEDAD DE RENTAS FALABELLA S.A	Impar	Cuatricromia	Generales	17x6	03	200.000	Publicado	M Cristina Puga	Open plaza	2015-10-22 00:00:00	
+81405	tanguemar			UIP	5x2	05	2.808	Publicado	Patricia Villena	Tanguemar	2015-10-22 00:00:00	
+87007	BIANCA DASOLI	Par	Blanco y negro	Generales	5x2	05	1.429	Publicado	Italo Retamal	tarot	2015-10-22 00:00:00	
+86994	FERNANDO SANCHEZ			UIP	5x2	05	2.808	Publicado	Italo Retamal	busca agua 	2015-10-22 00:00:00	
+86986	UNIVERSIDAD TECNOLOGICA DE CHILE	Par	Cuatricromia	Generales	15x6	06	0	Publicado	Patricia Villena		2015-10-22 00:00:00	
+86864	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x3	07	0	Publicado	Marcela Tello-ElDia		2015-10-22 00:00:00	
+86898	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x3	08	0	Publicado	Marcela Tello-ElDia	Vea en Cinemark - Pacto Criminal	2015-10-22 00:00:00	
+84112	ILUSTRE MUNICIPALIDAD DE OVALLE	Impar	Cuatricromia	Generales	6x6	09	83.333	Publicado	Italo Retamal	municipio en tu barrio 	2015-10-22 00:00:00	
+85972	SOCIEDAD COMERCIAL KATANKURA LTDA	Par	Cuatricromia	Generales	6x6	11	25.000	Publicado	Italo Retamal	evento katankura 	2015-10-22 00:00:00	
+86969	linea			UIP	10x2	12	5.630	Publicado	Italo Retamal	seguridad 	2015-10-22 00:00:00	
+87076	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x6	14	0	Publicado	Marcela Tello-ElDia	www.elovallino.cl	2015-10-22 00:00:00	

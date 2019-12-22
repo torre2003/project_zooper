@@ -1,0 +1,11 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+131337	SOCIEDAD DE RENTAS FALABELLA S.A	Par	Cuatricromia	Generales	8x6	01	50.980	Publicado	M Cristina Puga		2017-6-27 00:00:00	
+132440	INMOBILIARIA RENVAL SPA	Par	Cuatricromia	Generales	34x6	03	0	Publicado	Rene Pizarro		2017-6-27 00:00:00	
+131014	JACQUELINE JOFRE VILLANUEVA			UIP	5x2	05	2.808	Publicado	Karina Rivera	CORTINAS ROLLER OVALLE	2017-6-27 00:00:00	
+132180	SOC. AGRICOLA HACIENDA MANANTIALES			UIP	10x2	05	5.630	Publicado	Karina Rivera	VENDO TRACTOR	2017-6-27 00:00:00	
+132389	CAROLINA ZEPEDA			UIP	5x2	05	2.808	Publicado	Karina Rivera	ARRIENDO CASA	2017-6-27 00:00:00	
+132444	JDV REMATES S.A.	Par	Blanco y negro	Generales	10x3	07	49.580	Publicado	Pedro Jaime	JDV REMATES   12 X  4  LIGHTS  	2017-6-27 00:00:00	
+132441	JDV REMATES S.A.	Par	Blanco y negro	Generales	10x3	07	49.580	Publicado	Pedro Jaime	JDV REMATES   12 X  4  LIGHTS  	2017-6-27 00:00:00	
+130388	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	08	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2017-6-27 00:00:00	
+132466	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Cuatricromia	Medios Regionales	17x6	09	219.643	Publicado	Medios Regionales	COMERCIAL LA CASERITA (  107144  ) 	2017-6-27 00:00:00	
+132485	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	6x6	14	0	Publicado	Marcela Tello-ElDia		2017-6-27 00:00:00	

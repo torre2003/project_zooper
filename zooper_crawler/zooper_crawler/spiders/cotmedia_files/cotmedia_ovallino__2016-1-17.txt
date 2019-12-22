@@ -1,0 +1,9 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+93360	CALLEGARI LTDA.	Par	Cuatricromia	Generales	8x6	01	30.000	Publicado	Marcela Tello-ElDia	Repuestos Ford - Portada	2016-1-17 00:00:00	
+93798	GOBIERNO REGIONAL - REGION DE COQUI	Par	Cuatricromia	Generales	35x6	03	477.533	Publicado	Jacqueline Torres	Difusion medidas terremoto	2016-1-17 00:00:00	
+93728	CORPORACION CULTURAL BALMACEDA DOCE	Par	Cuatricromia	Generales	17x3	06	190.346	Publicado	Jacqueline Torres	FESTIVAL ARC/REVISA CALENDAR/UBICAR CULTURA Y ESEPCTACULO	2016-1-17 00:00:00	
+92440	AGRICOLA NORTE TALINAY LTDA	Par	Blanco y negro	Generales	5x2	07	1.428	Publicado	Italo Retamal	venta fardos	2016-1-17 00:00:00	
+92579	AGRICOLA NORTE TALINAY LTDA	Par	Blanco y negro	Generales	5x2	07	1.428	Publicado	Italo Retamal	Oferta de empleos	2016-1-17 00:00:00	
+93179	INVERSIONES AVANZADA LTDA	Par	Blanco y negro	Generales	5x2	07	0	Publicado	Jacqueline Torres	campo lindo valle	2016-1-17 00:00:00	
+92826	DABED Y CIA. LTDA., SELIM	Par	Cuatricromia	Generales	6x6	08	23.076	Publicado	Marcela Tello-ElDia	O. Verano 2	2016-1-17 00:00:00	
+93766	CALLEGARI LTDA.	Par	Cuatricromia	Generales	17x6	09	174.777	Publicado	Marcela Tello-ElDia	Mitsubishi L-200	2016-1-17 00:00:00	

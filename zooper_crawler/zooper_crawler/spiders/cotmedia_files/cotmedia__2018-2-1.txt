@@ -1,0 +1,85 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+149021	MIGUEL ANGEL PEREZ LANCELOTTI			UIP	5x2	04	17.880	Publicado	Pedro Jaime	2018-2-1 00:00:00	
+148446	LABORATORIO CLINICO STA. MARIA LA S	Par	Blanco y negro	Generales	6x2	04	7.470	Publicado	Miguel Apey	2018-2-1 00:00:00	
+148837	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	5x2	04	0	Publicado	Miguel Apey	2018-2-1 00:00:00	
+149491	ENTEL PCS	Impar	Cuatricromia	Generales	35x6	05	0	Publicado	Kathine Soto-Stgo	2018-2-1 00:00:00	
+149000	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Cuatricromia	Medios Regionales	16x6	07	324.811	Publicado	Medios Regionales	2018-2-1 00:00:00	
+149533	ORIGEN COMUNICACIONES S.P.A	Impar	Cuatricromia	Generales	17x6	09	439.265	Publicado	Patricia Villena	2018-2-1 00:00:00	
+148418	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	09	8.306	Publicado	Miguel Apey	2018-2-1 00:00:00	
+149450	CAMPOS DEL NORTE S.A.	Par	Blanco y negro	Generales	17x3	10	0	Publicado	Patricia Villena	2018-2-1 00:00:00	
+149443	SERVICIO NACIONAL DE CAPACITACION Y	Par	Blanco y negro	Generales	17x3	10	0	Publicado	Jacqueline Torres	2018-2-1 00:00:00	
+149008	ILUSTRE MUNICIPALIDAD DE LA SERENA	Par	Blanco y negro	Generales	17x6	11	253.997	Publicado	M Cristina Puga	2018-2-1 00:00:00	
+149463	C.M. SOC. GASTRONOMICA LTDA.			UIP	5x2	15	7.208	Publicado		2018-2-1 00:00:00	
+149245	SERVICIO DE REGISTRO CIVIL E IDENTI	Par	Blanco y negro	Generales	35x6	19-21	623.636	Publicado	Jacqueline Torres	2018-2-1 00:00:00	
+148060	SEREMI BIENES NACIONALES IV REGION	1300 Palabras		Legal	0x0	22	145.000	Publicado	Jacqueline Torres	2018-2-1 00:00:00	
+149097	MOP OOPP	219 Palabras		Legal	x	23	54.312	Publicado	Jacqueline Torres	2018-2-1 00:00:00	
+149208	MOP OOPP	219 Palabras		Legal	x	23	54.312	Publicado	Jacqueline Torres	2018-2-1 00:00:00	
+149204	MOP OOPP	219 Palabras		Legal	x	23	54.312	Publicado	Jacqueline Torres	2018-2-1 00:00:00	
+149090	MOP OOPP	219 Palabras		Legal	x	23	54.312	Publicado	Jacqueline Torres	2018-2-1 00:00:00	
+149203	MOP OOPP	219 Palabras		Legal	x	23	54.312	Publicado	Jacqueline Torres	2018-2-1 00:00:00	
+149091	MOP OOPP	219 Palabras		Legal	x	23	54.312	Publicado	Jacqueline Torres	2018-2-1 00:00:00	
+149092	MOP OOPP	219 Palabras		Legal	x	23	54.312	Publicado	Jacqueline Torres	2018-2-1 00:00:00	
+149199	MOP OOPP	219 Palabras		Legal	x	23	54.312	Publicado	Jacqueline Torres	2018-2-1 00:00:00	
+149094	MOP OOPP	219 Palabras		Legal	x	23	54.312	Publicado	Jacqueline Torres	2018-2-1 00:00:00	
+149098	MOP OOPP	219 Palabras		Legal	x	23	54.312	Publicado	Jacqueline Torres	2018-2-1 00:00:00	
+149095	MOP OOPP	219 Palabras		Legal	x	23	54.312	Publicado	Jacqueline Torres	2018-2-1 00:00:00	
+149096	MOP OOPP	219 Palabras		Legal	x	23	54.312	Publicado	Jacqueline Torres	2018-2-1 00:00:00	
+149206	MOP OOPP	219 Palabras		Legal	x	23	54.312	Publicado	Jacqueline Torres	2018-2-1 00:00:00	
+149213	MOP OOPP	219 Palabras		Legal	x	24	54.312	Publicado	Jacqueline Torres	2018-2-1 00:00:00	
+149253	MOP OOPP	219 Palabras		Legal	x	24	54.312	Publicado	Jacqueline Torres	2018-2-1 00:00:00	
+149259	MOP OOPP	219 Palabras		Legal	x	24	54.312	Publicado	Jacqueline Torres	2018-2-1 00:00:00	
+149258	MOP OOPP	219 Palabras		Legal	x	24	54.312	Publicado	Jacqueline Torres	2018-2-1 00:00:00	
+149257	MOP OOPP	219 Palabras		Legal	x	24	54.312	Publicado	Jacqueline Torres	2018-2-1 00:00:00	
+149254	MOP OOPP	219 Palabras		Legal	x	24	54.312	Publicado	Jacqueline Torres	2018-2-1 00:00:00	
+149252	MOP OOPP	219 Palabras		Legal	x	24	54.312	Publicado	Jacqueline Torres	2018-2-1 00:00:00	
+149211	MOP OOPP	219 Palabras		Legal	x	24	54.312	Publicado	Jacqueline Torres	2018-2-1 00:00:00	
+149212	MOP OOPP	219 Palabras		Legal	x	24	54.312	Publicado	Jacqueline Torres	2018-2-1 00:00:00	
+149247	MOP OOPP	219 Palabras		Legal	x	24	54.312	Publicado	Jacqueline Torres	2018-2-1 00:00:00	
+149248	MOP OOPP	219 Palabras		Legal	x	24	54.312	Publicado	Jacqueline Torres	2018-2-1 00:00:00	
+149437	ILUSTRE MUNICIPALIDAD DE COQUIMBO	Par	Blanco y negro	Generales	10x6	28	153.804	Publicado	Miguel Apey	2018-2-1 00:00:00	
+149160	DIARIO EL DIA	Par	Cuatricromia	Generales	17x6	29	0	Publicado	Marcela Tello-ElDia	2018-2-1 00:00:00	
+149536	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	30	0	Publicado	Marcela Tello-ElDia	2018-2-1 00:00:00	
+147910	SOC. DE GES			UIP	5x1	30	8.937	Publicado	Miguel Apey	2018-2-1 00:00:00	
+149281	ARMAQ SUBIRI S.A.			UIP	5x1	30	8.937	Publicado	Claudio Romero	2018-2-1 00:00:00	
+149105	LILIAN ROE LARRA?AGA			UIP	5x1	30	8.937	Publicado	Claudio Romero	2018-2-1 00:00:00	
+148582	CERNA E HIJOS CIA. LTDA.	Par	Blanco y negro	Generales	5x1	30	3.574	Publicado	Nadia Randolph	2018-2-1 00:00:00	
+148454	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	4x5	30	20.508	Publicado	Miguel Apey	2018-2-1 00:00:00	
+148808	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	33	0	Publicado	Marcela Tello-ElDia	2018-2-1 00:00:00	
+149393	DIARIO EL DIA	Par	Blanco y negro	Generales	17x3	33	0	Publicado	Marcela Tello-ElDia	2018-2-1 00:00:00	
+148538	ILUSTRE MUNICIPALIDAD DE LA SERENA	Par	Cuatricromia	Generales	17x6	35	355.595	Publicado	M Cristina Puga	2018-2-1 00:00:00	
+147849	VELIZ CORTES JOSE A.	Par	Blanco y negro	Generales	3x2	37	13.403	Publicado	Pedro Cortes	2018-2-1 00:00:00	
+149187	INMOBIL. PY  S.A.	Impar	Cuatricromia	Generales	35x6	40	0	Publicado	Claudio Romero	2018-2-1 00:00:00	
+149369	SANTANDER G.R.C.	1179 Palabras		Legal	x	EC	292.437	Publicado	Pedro Jaime	2018-2-1 00:00:00	
+149493	SANTANDER G.R.C.	403 Palabras		Legal	x	EC	100.000	Publicado	Pedro Jaime	2018-2-1 00:00:00	
+149494	BANCO DE CREDITO E INVERSIONES	935 Palabras		Legal	x	EC	231.933	Publicado	Pedro Jaime	2018-2-1 00:00:00	
+149227	PAOLA MILLA INVERNIZZI	Par	Blanco y negro	Generales	5x2	EC-17	0	Publicado	Marcela Tello-ElDia	2018-2-1 00:00:00	
+147715	INMOBILIARIA CHRISTIAN ALFREDO MEND			UIP	5x2	EC-17	17.875	Publicado	Claudio Romero	2018-2-1 00:00:00	
+147696	INMOBILIARIA CHRISTIAN ALFREDO MEND			UIP	5x2	EC-17	17.875	Publicado	Claudio Romero	2018-2-1 00:00:00	
+149422	SERV. VIVIENDA Y URBANIZACION IV RE	Impar	Blanco y negro	Generales	12x1	EC-17	52.733	Publicado	Jacqueline Torres	2018-2-1 00:00:00	
+149421	SERV. VIVIENDA Y URBANIZACION IV RE	Impar	Blanco y negro	Generales	12x1	EC-17	54.312	Publicado	Jacqueline Torres	2018-2-1 00:00:00	
+149553	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Economico	5x2	EC-18	15.161	Publicado	Rene Pizarro	2018-2-1 00:00:00	
+124094	HOTELERIA LUIS ALBERTO BERETTA KIEK	Par	Blanco y negro	Generales	5x2	EC-18	6.061	Publicado	Patricia Villena	2018-2-1 00:00:00	
+147485	SOC. AGRICOLA HACIENDA MAL PASO Y C	Par	Cuatricromia	Generales	17x6	PANO	225.000	Publicado	Paola Marquez	2018-2-1 00:00:00	
+149498	INMOBILIARIA NUEVA SERENA	Par	Cuatricromia	Generales	17x6	PANO	360.000	Publicado	Claudio Romero	2018-2-1 00:00:00	
+149461	ADMINISTRADORA HOTELERA LA SERENA S	Par	Cuatricromia	Generales	17x6	PANO	0	Publicado	Patricia Villena	2018-2-1 00:00:00	
+147468	AUTOMOTRIZ CARMONA	Par	Cuatricromia	Generales	10x6	PANO	212.250	Publicado	Paola Marquez	2018-2-1 00:00:00	
+149458	CORPORACION MUNICIPAL DE TURISMO - 	Par	Cuatricromia	Generales	17x6	PANO	366.054	Publicado	Patricia Villena	2018-2-1 00:00:00	
+147509	INMOBIL. SANTA CATALINA E.I.R.L.	Par	Cuatricromia	Generales	17x6	PANO	360.000	Publicado	Rene Pizarro	2018-2-1 00:00:00	
+148277	SERNATUR	Impar	Cuatricromia	Ed.Especial	17x6	PANO	450.000	Publicado	Jacqueline Torres	2018-2-1 00:00:00	
+148366	VIVOCORP S.A.	Impar	Cuatricromia	Generales	35x6	PANO	700.000	Publicado	Patricia Villena	2018-2-1 00:00:00	
+147996	INVERSIONES E INMOBILIARIA SANTO DO	Par	Cuatricromia	Generales	10x6	PANO	210.000	Publicado	Miguel Apey	2018-2-1 00:00:00	
+147993	INVERSIONES E INMOBILIARIA P.A.T.  	Par	Cuatricromia	Generales	34x3	PANO	360.000	Publicado	Miguel Apey	2018-2-1 00:00:00	
+149384	INMOBILIARIA ECASA CHILE S.A.	Par	Cuatricromia	Generales	34x6	PANO	400.000	Publicado	Paola Marquez	2018-2-1 00:00:00	
+148368	CAMPOS DEL NORTE S.A.	Impar	Cuatricromia	Generales	17x6	PANO	941.281	Publicado	Patricia Villena	2018-2-1 00:00:00	
+149524	INMOBILIARIA PROWISE SPA	205 Palabras		Propiedades	x	PROP	32.800	Publicado	Pedro Jaime	2018-2-1 00:00:00	
+149517	FRANCISCO CORVETTO MIRANDA PROPIEDA	2978 Palabras		Propiedades	x	PROP	476.480	Publicado	Pedro Jaime	2018-2-1 00:00:00	
+149510	FERES REBOLLEDO ANA ISABEL	221 Palabras		Propiedades	x	PROP	35.360	Publicado	Pedro Jaime	2018-2-1 00:00:00	
+149508	GONZALEZ RIVERA MANUEL RICARDO	572 Palabras		Propiedades	x	PROP	91.520	Publicado	Pedro Jaime	2018-2-1 00:00:00	
+149505	GABRIELA ARENAS O'RYAN	436 Palabras		Propiedades	x	PROP	69.760	Publicado	Pedro Jaime	2018-2-1 00:00:00	
+149503	YOLANDA ELIAS CAMBLOR	381 Palabras		Propiedades	x	PROP	60.960	Publicado	Pedro Jaime	2018-2-1 00:00:00	
+149502	GONZALEZ ADAROS MARIA SOLEDAD	292 Palabras		Propiedades	x	PROP	46.807	Publicado	Pedro Jaime	2018-2-1 00:00:00	
+149497	LILIAN ELIZABETH OLIVARES LANAS	871 Palabras		Propiedades	x	PROP	139.496	Publicado	Pedro Jaime	2018-2-1 00:00:00	
+149499	DANIELLA CARVAJAL VEGA	252 Palabras		Propiedades	x	PROP	40.320	Publicado	Pedro Jaime	2018-2-1 00:00:00	
+149256	INMOBILIARIA CONPACES S.A.		111 Frases	Radio	x	RAD	500.000	Publicado	Paola Marquez	2018-2-1 00:00:00	
+148192	INMOBILIARIA EURO AMH S.A.	Home	Banner Cabecera	Web	x	WEB	1.342.500	Publicado	Paola Marquez	2018-2-1 00:00:00	
+149462	CAMPOS DEL NORTE S.A.	Home	Banner Cabecera	Web	0x0	WEB	1.170.000	Publicado		2018-2-1 00:00:00	

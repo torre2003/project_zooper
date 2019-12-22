@@ -1,0 +1,9 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+74157	SOC. AUTOMOTRIZ COVALSA CENTER LTDA	Par	Cuatricromia	Generales	5x6	01	51.405	Publicado	Claudio Romero	PORTADA ..COVALSA	2015-5-4 00:00:00	
+74302	AGUAS DEL VALLE S.A.	Par	Cuatricromia	Generales	17x3	03	99.165	Publicado	Jacqueline Torres	DIFUSION CUIDEMOS EL AGUA	2015-5-4 00:00:00	
+73836	brillador			UIP	17x2	05	9.211	Publicado	Italo Retamal	alto brillador 	2015-5-4 00:00:00	
+75159	SOC. LIMARI COMERCIALIZADORA DEL AG	Par	Blanco y negro	Generales	12x2	06	56.496	Publicado	Rene Pizarro		2015-5-4 00:00:00	
+74501	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	10x3	07	0	Arte	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2015-5-4 00:00:00	
+74117	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	6x6	09	16.065	Publicado	Claudio Romero	Muebles Alpina	2015-5-4 00:00:00	
+74991	SANTO TOMAS S.A.	Par	Cuatricromia	Generales	35x6	11	519.057	Publicado	Claudio Romero	INAUGURACION NUEVA CEDE OVALLE...	2015-5-4 00:00:00	
+74048	FARMACIAS CRUZ VERDE S.A.	Impar	Cuatricromia	Generales	35x6	16	415.246	Publicado	Italo Retamal	cruz verde	2015-5-4 00:00:00	

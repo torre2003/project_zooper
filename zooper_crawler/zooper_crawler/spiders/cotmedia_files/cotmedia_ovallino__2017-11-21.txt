@@ -1,0 +1,8 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+144022	SOCIEDAD DE RENTAS FALABELLA S.A	Par	Cuatricromia	Generales	8x6	01	50.980	Arte	M Cristina Puga	HUINCHA PORTADAOpen-NOCHE DE BRUJAS	2017-11-21 00:00:00	
+144234	DERCOMAQ S.A.	Impar	Cuatricromia	Generales	17x6	03	342.875	Arte	Kathine Soto-Stgo	DERCOMAQ FAVOR UBICAR PAGINAS IMPARES	2017-11-21 00:00:00	
+136047	INVERSIONES TANGUEMAR LIMITADA			UIP	5x2	07	2.808	Arte	Patricia Villena	Tanguemar	2017-11-21 00:00:00	
+138357	CENTRO DE SALUD PORTALES LTDA			UIP	5x4	07	4.504	Arte	Karina Rivera		2017-11-21 00:00:00	
+143392	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	09	0	Arte	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2017-11-21 00:00:00	
+144291	ADOLFO HADLER BARRERA			UIP	5x2	11	2.808	Arte	Karina Rivera	SE VENDEN 5 SITIOS	2017-11-21 00:00:00	
+143963	VELIZ CORTES JOSE A.			UIP	5x2	14	4.695	Arte	Pedro Cortes		2017-11-21 00:00:00	

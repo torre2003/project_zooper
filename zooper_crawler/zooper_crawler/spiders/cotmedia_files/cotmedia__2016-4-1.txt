@@ -1,0 +1,90 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+100734	INMOBIL. ECOMAC S.A.	Home	Banner Cabecera	Web	0x0		700.000	Arte	M Cristina Puga	2016-4-1 00:00:00	
+97192	CHRISTIAN LAURITZ MARIN	Par	Blanco y negro	Generales	4x2	04	6.452	Publicado	Jacqueline Torres	2016-4-1 00:00:00	
+93996	CAI GESTION INMOBILIARIA	Impar	Cuatricromia	Generales	35x6	05	839.770	Publicado	Patricia Villena	2016-4-1 00:00:00	
+99048	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	07	0	Publicado	Marcela Tello-ElDia	2016-4-1 00:00:00	
+98592	SUBSECRETARIA DE PREVISION SOCIAL	Par	Cuatricromia	Generales	17x3	08	213.357	Publicado	Jacqueline Torres	2016-4-1 00:00:00	
+98691	AREYUNA AREYUNA NIBALDO	Par	Cuatricromia	Generales	7x3	09	0	Publicado	Pedro Jaime	2016-4-1 00:00:00	
+98845	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	12	8.306	Publicado	Miguel Apey	2016-4-1 00:00:00	
+98935	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	6x3	12	39.132	Publicado	Medios Regionales	2016-4-1 00:00:00	
+98802	ESPINOZA HNOS LTDA	Par	Blanco y negro	Generales	5x1	12	14.648	Publicado	Miguel Apey	2016-4-1 00:00:00	
+98734	SINDY GONZALEZ MARCHANT	Par	Blanco y negro	Generales	12x2	12	0	Publicado	Marcela Tello-ElDia	2016-4-1 00:00:00	
+98655	DIARIO EL DIA	Par	Blanco y negro	Generales	6x1	13	0	Publicado	Carolina Naranjo	2016-4-1 00:00:00	
+98972	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	5x2	13	0	Publicado	Miguel Apey	2016-4-1 00:00:00	
+97693	DIARIO EL DIA	Par	Blanco y negro	Generales	5x2	13	0	Publicado	Marcela Tello-ElDia	2016-4-1 00:00:00	
+98027	SEREMI BIENES NACIONALES IV REGION	Par	Blanco y negro	Generales	35x6	16	406.303	Publicado	Jacqueline Torres	2016-4-1 00:00:00	
+99034	SERVICIO DE REGISTRO CIVIL E IDENTI	Par	Blanco y negro	Generales	35x6	17-19	617.885	Publicado	Jacqueline Torres	2016-4-1 00:00:00	
+97736	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	22	0	Publicado	Marcela Tello-ElDia	2016-4-1 00:00:00	
+98479	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	22	0	Publicado	Marcela Tello-ElDia	2016-4-1 00:00:00	
+99043	SOC. HOTELERA VICHUQUEN LTDA.	Par	Cuatricromia	Generales	5x3	23	0	Publicado	Marcela Tello-ElDia	2016-4-1 00:00:00	
+98805	BAKULIC RESTAURANT	Par	Cuatricromia	Generales	10x2	23	24.609	Publicado	Miguel Apey	2016-4-1 00:00:00	
+99108	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Cuatricromia	Generales	5x2	23	0	Publicado	Marcela Tello-ElDia	2016-4-1 00:00:00	
+99143	PILLA LA VACA	Par	Cuatricromia	Generales	5x2	23	0	Publicado	Marcela Tello-ElDia	2016-4-1 00:00:00	
+99163	DIARIO EL DIA	Par	Cuatricromia	Generales	10x2	23	0	Publicado	Marcela Tello-ElDia	2016-4-1 00:00:00	
+98912	HOTEL COSTA REAL	Par	Cuatricromia	Generales	10x2	23	30.761	Publicado	Miguel Apey	2016-4-1 00:00:00	
+99198	MARTIN JURE PATRICIA	Par	Cuatricromia	Generales	5x3	23	0	Publicado	Marcela Tello-ElDia	2016-4-1 00:00:00	
+98484	arevalo CARMEN			UIP	5x1	29	8.937	Publicado	Pedro Jaime	2016-4-1 00:00:00	
+98875	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	4x5	29	20.508	Publicado	Miguel Apey	2016-4-1 00:00:00	
+95843	CERNA E HIJOS CIA. LTDA.	Par	Blanco y negro	Generales	5x1	29	4.467	Publicado	Nadia Randolph	2016-4-1 00:00:00	
+98697	SOC. COMERCIAL ALCAPARRA LTDA.	Par	Blanco y negro	Generales	5x2	29	10.440	Publicado	Patricia Villena	2016-4-1 00:00:00	
+98819	SOC. DE GESTION MEDITERRANEA			UIP	5x1	29	8.937	Publicado	Miguel Apey	2016-4-1 00:00:00	
+95291	MAURICIO ALEJANDRO BUGUENO CONTRERA	Par	Blanco y negro	Generales	5x1	29	4.468	Publicado	Nadia Randolph	2016-4-1 00:00:00	
+98644	Inmobiliaria cruz 			UIP	5x2	29	17.875	Publicado	Patricia Villena	2016-4-1 00:00:00	
+98604	ROSSI			UIP	5x2	29	17.875	Publicado	Pedro Jaime	2016-4-1 00:00:00	
+97159	SERVICIOS GENERALES GUAYACAN S.A	Par	Blanco y negro	Generales	4x2	30	6.452	Publicado	Jacqueline Torres	2016-4-1 00:00:00	
+99216	EMPRESAS LA POLAR S.A.	Impar	Cuatricromia	Generales	35x6	32	0	Publicado	Patricia Villena	2016-4-1 00:00:00	
+99323	DIARIO EL DIA	Par	Blanco y negro	Generales	5x2	EC-14	0	Publicado	Marcela Tello-ElDia	2016-4-1 00:00:00	
+98970	PESQUERA VILLA ALEGRE Y CIA. LTDA.	Par	Blanco y negro	Generales	4x2	EC-14	29.296	Publicado	Pedro Jaime	2016-4-1 00:00:00	
+99301	ANA CORTES CONTRERAS	Par	Blanco y negro	Generales	4x2	EC-14	29.296	Publicado	Pedro Jaime	2016-4-1 00:00:00	
+98490	AREVALO CARMEN			UIP	5x1	EC-15	8.937	Publicado	Pedro Jaime	2016-4-1 00:00:00	
+99221	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Generales	5x1	EC-15	5.860	Publicado	Rene Pizarro	2016-4-1 00:00:00	
+94811	HOTELERIA LUIS ALBERTO BERETTA KIEK	Par	Blanco y negro	Generales	5x2	EC-15	8.937	Publicado	Patricia Villena	2016-4-1 00:00:00	
+98013	SERVICIOS INMOBILIARIOS ECOMAC S.A	Impar	Cuatricromia	Generales	35x6	ED-03	450.000	Publicado	M Cristina Puga	2016-4-1 00:00:00	
+98757	SODIMAC	Par	Cuatricromia	Generales	17x6	ED-05	366.054	Publicado	Miguel Apey	2016-4-1 00:00:00	
+98771	UNIVERSIDAD TECNOLOGICA DE CHILE	Impar	Cuatricromia	Generales	17x6	ED-06	450.000	Publicado	Patricia Villena	2016-4-1 00:00:00	
+98769	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	35x6	ED-07	450.000	Publicado	Claudio Romero	2016-4-1 00:00:00	
+98751	CALZADOS LA ESTRELLA ALPINA	Par	Cuatricromia	Generales	17x3	ED-08	130.734	Publicado	M Cristina Puga	2016-4-1 00:00:00	
+98939	PROPAM LTDA	Par	Cuatricromia	Generales	17x6	ED-09	333.172	Publicado	Patricia Villena	2016-4-1 00:00:00	
+98557	INMOBIL. E INVERSIONES AREYUNA E HI	Par	Cuatricromia	Generales	35x6	ED-10	500.000	Publicado	Claudio Romero	2016-4-1 00:00:00	
+98773	INMOBIL. LA SERENA GOLF S.A.	Impar	Cuatricromia	Generales	17x6	ED-13	288.975	Publicado	Patricia Villena	2016-4-1 00:00:00	
+99214	COMERCIAL VALENTINI E HIJOS LTDA.	Par	Cuatricromia	Generales	17x6	ED-15	293.658	Publicado	Paola Marquez	2016-4-1 00:00:00	
+99265	INMOBILIARIA VIVIENDAS 2000 LIMITAD	Par	Cuatricromia	Ed.Especial	17x6	ED-16	238.533	Publicado	Jacqueline Torres	2016-4-1 00:00:00	
+98758	UNIVERSIDAD CATOLICA DEL NORTE	Par	Cuatricromia	Generales	17x3	ED-17	183.027	Publicado	Miguel Apey	2016-4-1 00:00:00	
+98547	ANDES IRON SPA	Par	Cuatricromia	Ed.Especial	17x3	ED-18	209.174	Publicado	Jacqueline Torres	2016-4-1 00:00:00	
+98546	MINERA LOS PELAMBRES	Impar	Cuatricromia	Ed.Especial	35x3	ED-19	627.521	Publicado	Jacqueline Torres	2016-4-1 00:00:00	
+98385	INMOBIL. PY  S.A.	Par	Cuatricromia	Generales	35x6	ED-23	645.977	Publicado	Claudio Romero	2016-4-1 00:00:00	
+98762	SOC. EDUCACIONAL SAN GUILLERMO LTDA	Par	Cuatricromia	Generales	17x3	ED-24	183.027	Publicado	Miguel Apey	2016-4-1 00:00:00	
+99325	CONAFE	Par	Cuatricromia	Ed.Especial	10x6	ED-25	261.467	Publicado	Jacqueline Torres	2016-4-1 00:00:00	
+97858	CAMARA CHILENA DE LA CONSTRUCCION A	Par	Cuatricromia	Ed.Especial	17x3	ED-26	183.027	Publicado	Jacqueline Torres	2016-4-1 00:00:00	
+98545	UNIVERSIDAD DE LA SERENA	Par	Cuatricromia	Ed.Especial	17x3	ED-26	177.797	Publicado	Jacqueline Torres	2016-4-1 00:00:00	
+98564	CONSTRUCTORA SERENA LTDA.	Par	Cuatricromia	Generales	35x6	ED-27	461.538	Publicado	Claudio Romero	2016-4-1 00:00:00	
+98760	CASA DEL PERNO	Par	Cuatricromia	Generales	17x3	ED-28	183.027	Publicado	Miguel Apey	2016-4-1 00:00:00	
+98756	TERMINAL PUERTO COQUIMBO S.A.	Par	Cuatricromia	Generales	17x6	ED-29	434.035	Publicado	Miguel Apey	2016-4-1 00:00:00	
+98454	INMOBILIARIA ECASA CHILE S.A.	Par	Cuatricromia	Generales	34x6	ED-31	300.000	Publicado	Paola Marquez	2016-4-1 00:00:00	
+98753	ILUSTRE MUNICIPALIDAD DE LA SERENA	Par	Cuatricromia	Generales	17x6	ED-32	0	Publicado	M Cristina Puga	2016-4-1 00:00:00	
+99326	AGUAS DEL VALLE S.A.	Par	Cuatricromia	Ed.Especial	17x6	ED-33	250.000	Publicado	Jacqueline Torres	2016-4-1 00:00:00	
+99324	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	ED-34	0	Publicado	Marcela Tello-ElDia	2016-4-1 00:00:00	
+98752	CIA. MINERA SAN GERONIMO	Impar	Cuatricromia	Generales	17x3	ED-34	219.633	Publicado	M Cristina Puga	2016-4-1 00:00:00	
+99264	MUNOZ DALBORA ADRIANA	Par	Cuatricromia	Ed.Especial	17x3	ED-35	183.027	Publicado	Jacqueline Torres	2016-4-1 00:00:00	
+98763	LABORATORIO CLINICO STA. MARIA LA S	Par	Blanco y negro	Generales	17x3	ED-35	74.705	Publicado	Miguel Apey	2016-4-1 00:00:00	
+99215	DABED Y CIA. LTDA., SELIM	Par	Cuatricromia	Generales	17x6	ED-36	110.000	Publicado	Paola Marquez	2016-4-1 00:00:00	
+98696	COOP. AGRICOLA PISQUERA ELQUI LTDA.	Par	Cuatricromia	Generales	17x3	ED-37	184.027	Publicado	M Cristina Puga	2016-4-1 00:00:00	
+98750	INMOBILIARIA ELQUI S.A.	Par	Cuatricromia	Generales	17x3	ED-37	108.120	Publicado	M Cristina Puga	2016-4-1 00:00:00	
+98755	ORIZON S.A.	Par	Cuatricromia	Generales	17x3	ED-38	130.734	Publicado	Miguel Apey	2016-4-1 00:00:00	
+97269	TRANSELEC S.A.	Par	Cuatricromia	Generales	35x6	ED-40	915.134	Publicado	Paola Marquez	2016-4-1 00:00:00	
+99306	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	MR: Inserto	x	INS	279.557	Publicado	Medios Regionales	2016-4-1 00:00:00	
+99206	YOLANDA ELIAS CAMBLOR	698 Palabras		Propiedades	x	PROP	111.680	Publicado	Pedro Jaime	2016-4-1 00:00:00	
+99138	JACQUELINE BARRERA BARRAZA	1017 Palabras		Propiedades	x	PROP	162.720	Publicado	Pedro Jaime	2016-4-1 00:00:00	
+99161	CLAUDIO JORQUERA Z.	426 Palabras		Propiedades	x	PROP	68.160	Publicado	Pedro Jaime	2016-4-1 00:00:00	
+99162	FERES REBOLLEDO ANA ISABEL	432 Palabras		Propiedades	x	PROP	69.120	Publicado	Pedro Jaime	2016-4-1 00:00:00	
+99311	CURIFOR S.A.	432 Palabras		Propiedades	x	PROP	69.244	Publicado	Pedro Jaime	2016-4-1 00:00:00	
+99177	GABRIELA ARENAS O'RYAN	429 Palabras		Propiedades	x	PROP	68.640	Publicado	Pedro Jaime	2016-4-1 00:00:00	
+99168	INMOBILIARIA PRO LIMITADA	480 Palabras		Propiedades	x	PROP	76.800	Publicado	Pedro Jaime	2016-4-1 00:00:00	
+99192	SOCIEDAD COMERCIAL MERINO LIMITADA	1080 Palabras		Propiedades	x	PROP	172.800	Publicado	Pedro Jaime	2016-4-1 00:00:00	
+99197	URBI LIMITADA	652 Palabras		Propiedades	x	PROP	104.320	Publicado	Pedro Jaime	2016-4-1 00:00:00	
+99203	JORGE LLANOS TORRES	529 Palabras		Propiedades	x	PROP	84.640	Publicado	Pedro Jaime	2016-4-1 00:00:00	
+99204	SOC. COMERCIAL LESSER Y CIA. LTDA.	578 Palabras		Propiedades	x	PROP	92.480	Publicado	Pedro Jaime	2016-4-1 00:00:00	
+99205	GONZALEZ ADAROS MARIA SOLEDAD	462 Palabras		Propiedades	x	PROP	73.920	Publicado	Pedro Jaime	2016-4-1 00:00:00	
+99207	LILIAN ELIZABETH OLIVARES LANAS	705 Palabras		Propiedades	x	PROP	112.800	Publicado	Pedro Jaime	2016-4-1 00:00:00	
+99178	SOC. COMERCIAL MERINO Y ARRIAGADA L	1214 Palabras		Propiedades	x	PROP	194.240	Publicado	Pedro Jaime	2016-4-1 00:00:00	
+98569	CAMPOS DEL NORTE S.A.	Home	Banner Cabecera	Web	0x0	WEB	900.000	Publicado	Patricia Villena	2016-4-1 00:00:00	

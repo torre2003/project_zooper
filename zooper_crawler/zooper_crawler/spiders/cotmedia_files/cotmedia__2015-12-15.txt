@@ -1,0 +1,45 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+91235	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Cuatricromia	Medios Regionales	32x3	05	208.704	Publicado	Medios Regionales	2015-12-15 00:00:00	
+90850	AGENCIA DE COMUNICACIONES Y PRODUCT	Impar	Cuatricromia	Generales	17x6	07	439.265	Publicado	Patricia Villena	2015-12-15 00:00:00	
+90949	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Cuatricromia	Medios Regionales	16x6	09	309.344	Publicado	Medios Regionales	2015-12-15 00:00:00	
+90657	DIARIO EL DIA	Par	Cuatricromia	Generales	12x3	12	0	Publicado	Marcela Tello-ElDia	2015-12-15 00:00:00	
+88484	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	10x3	12	0	Publicado	Marcela Tello-ElDia	2015-12-15 00:00:00	
+90125	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	5x2	13	0	Publicado	Miguel Apey	2015-12-15 00:00:00	
+89148	DIARIO EL DIA	Par	Blanco y negro	Generales	5x2	13	0	Publicado	Marcela Tello-ElDia	2015-12-15 00:00:00	
+91198	SAINT MARY SCHOOL S.A.	Par	Blanco y negro	Generales	17x3	14	0	Publicado	Claudio Romero	2015-12-15 00:00:00	
+89832	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	16	8.306	Publicado	Miguel Apey	2015-12-15 00:00:00	
+91242	SALINAS Y FABRES S.A.	Impar	Cuatricromia	Generales	17x6	17	251.009	Publicado	M Cristina Puga	2015-12-15 00:00:00	
+91156	SERVICIO DE REGISTRO CIVIL E IDENTI	Par	Blanco y negro	Generales	35x6	20-21	498.190	Publicado	Jacqueline Torres	2015-12-15 00:00:00	
+91213	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	23	0	Publicado	Patricia Villena	2015-12-15 00:00:00	
+91250	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	23	0	Publicado	Marcela Tello-ElDia	2015-12-15 00:00:00	
+88335	MARTIN JURE PATRICIA	Par	Cuatricromia	Generales	6x6	27	0	Publicado	Marcela Tello-ElDia	2015-12-15 00:00:00	
+91036	CERNA E HIJOS CIA. LTDA.	Par	Blanco y negro	Generales	5x1	30	4.492	Publicado	Nadia Randolph	2015-12-15 00:00:00	
+91176	AREVALO CARMEN			UIP	5x1	30	8.937	Publicado	Pedro Jaime	2015-12-15 00:00:00	
+90996	vargas co			UIP	5x1	30	8.937	Publicado	Rene Pizarro	2015-12-15 00:00:00	
+90970	NORMA CERDA			UIP	5x1	30	8.937	Publicado	Pedro Jaime	2015-12-15 00:00:00	
+91108	VALLEMAR			UIP	5x2	30	17.875	Publicado	Claudio Romero	2015-12-15 00:00:00	
+90884	SOC. DE GESTION MEDITERRANEA			UIP	5x1	30	8.937	Publicado	Miguel Apey	2015-12-15 00:00:00	
+89944	SOC. COMERCIAL ALCAPARRA LTDA.	Par	Blanco y negro	Generales	5x2	30	10.440	Publicado	Patricia Villena	2015-12-15 00:00:00	
+87422	GUERRERO SERANTONI Y CIA. LTDA.	Par	Blanco y negro	Generales	5x1	30	5.527	Publicado	Pedro Jaime	2015-12-15 00:00:00	
+90162	ARMAQ			UIP	5x1	30	8.937	Publicado	Claudio Romero	2015-12-15 00:00:00	
+89876	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	4x5	30	20.508	Publicado	Miguel Apey	2015-12-15 00:00:00	
+88443	DIARIO EL DIA	Par	Blanco y negro	Generales	5x2	30	0	Publicado	Marcela Tello-ElDia	2015-12-15 00:00:00	
+88368	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	30	0	Publicado	Marcela Tello-ElDia	2015-12-15 00:00:00	
+90707	Alejandro ra			UIP	5x1	30	4.467	Publicado	M Cristina Puga	2015-12-15 00:00:00	
+90614	SERVICIOS GENERALES GUAYACAN S.A	Par	Blanco y negro	Generales	3x2	31	6.470	Publicado	Jacqueline Torres	2015-12-15 00:00:00	
+91187	CLAUDIA GONZALEZ ROJAS	Par	Blanco y negro	Generales	12x2	31	52.733	Publicado	Pedro Jaime	2015-12-15 00:00:00	
+90557	LORENA YENNY	Par	Blanco y negro	Generales	5x1	32	8.283	Publicado	Pedro Jaime	2015-12-15 00:00:00	
+91207	BANCO DE CREDITO E INVERSIONES	819 Palabras		Legal	x	EC	203.277	Publicado	Pedro Jaime	2015-12-15 00:00:00	
+91206	SANTANDER G.R.C.	807 Palabras		Legal	x	EC	200.336	Publicado	Pedro Jaime	2015-12-15 00:00:00	
+91204	SANTANDER G.R.C.	534 Palabras		Legal	x	EC	132.437	Publicado	Pedro Jaime	2015-12-15 00:00:00	
+91203	SANTANDER G.R.C.	589 Palabras		Legal	x	EC	146.218	Publicado	Pedro Jaime	2015-12-15 00:00:00	
+91202	SANTANDER G.R.C.	596 Palabras		Legal	x	EC	147.899	Publicado	Pedro Jaime	2015-12-15 00:00:00	
+91174	DV DRILLING E.I.R.L.	Par	Blanco y negro	Generales	6x2	EC-18	25.268	Publicado	Pedro Jaime	2015-12-15 00:00:00	
+91182	AREVALO CARMEN			UIP	5x1	EC-18	8.937	Publicado	Pedro Jaime	2015-12-15 00:00:00	
+91229	MOP OOPP	Impar	Blanco y negro	Economico	12x1	EC-19	52.733	Publicado	Jacqueline Torres	2015-12-15 00:00:00	
+91230	MOP OOPP	Par	Blanco y negro	Generales	12x1	EC-19	0	Publicado	Jacqueline Torres	2015-12-15 00:00:00	
+91232	MOP OOPP	Par	Blanco y negro	Generales	12x1	EC-19	0	Publicado	Jacqueline Torres	2015-12-15 00:00:00	
+91147	JDV REMATES S.A.	Par	Blanco y negro	Generales	10x3	EC-19	103.468	Publicado	Marcela Tello-ElDia	2015-12-15 00:00:00	
+91249	DIARIO EL DIA	Par	Blanco y negro	Generales	17x6	EC-19	0	Publicado	Marcela Tello-ElDia	2015-12-15 00:00:00	
+91231	MOP OOPP	Par	Blanco y negro	Generales	12x1	EC-19	0	Publicado	Jacqueline Torres	2015-12-15 00:00:00	
+90593	DABED Y CIA. LTDA., SELIM		1 pag.	Inserto	x	INS	130.000	Publicado	Italo Retamal	2015-12-15 00:00:00	

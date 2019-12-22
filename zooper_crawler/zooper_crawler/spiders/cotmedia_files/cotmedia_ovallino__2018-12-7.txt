@@ -1,0 +1,13 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+167783	UNIVERSIDAD DE LA SERENA	Par	Cuatricromia	Generales	17x6	03	168.076	Publicado	Jacqueline Torres	ADMISION 2019/IMPAR	2018-12-7 00:00:00	
+171224	SOC. MEDICA HUGO VALDIVIA Y CIA. LT			UIP	10x2	06	6.812	Publicado	Karina Rivera		2018-12-7 00:00:00	
+170580	MACARENA TORRES			UIP	10x2	06	7.882	Publicado	Karina Rivera	NUTRICIONISTA MEDIFAM	2018-12-7 00:00:00	
+169771	FUNERARIA ALVARO MAYA TABILO E.I.R.			UIP	5x2	06	3.931	Publicado	Karina Rivera	FUNERARIA SANTA ROSA	2018-12-7 00:00:00	
+168605	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	08	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2018-12-7 00:00:00	
+171477	EMPRESA PERIODISTICA EL NORTE S.A.	Par	Cuatricromia	Medios Regionales	32x6	09	0	Arte	Medios Regionales		2018-12-7 00:00:00	
+170259	SOCIEDAD DE SERVICIOS MEDICOS E INV			UIP	17x2	11	8.403	Publicado	Karina Rivera	CENTRO IMAGEN OVALLE	2018-12-7 00:00:00	
+170692	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	12x3	11	16.065	Publicado	Claudio Romero	Muebles alpina..	2018-12-7 00:00:00	
+171522	PRENSA DEL LIMARI LTDA.	Par	Blanco y negro	Generales	6x6	12	0	Arte	Marcela Tello-ElDia		2018-12-7 00:00:00	
+171496	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	6x6	14	0	Arte	Marcela Tello-ElDia	Descuentos Entradas Cinemark - Diario El Ovallino	2018-12-7 00:00:00	
+171345	EMPRESAS LA POLAR S.A.	Par	Cuatricromia	Contraportada	35x6	16	252.000	Publicado	Patricia Villena	Contraportada La Polar	2018-12-7 00:00:00	
+171456	BANCO DE CHILE	674 Palabras		Legal	x	EC	167.227	Publicado	Pedro Jaime	EXTRACTO ROL C-119-2017, BANCO DE CHILE CON DIAZ 	2018-12-7 00:00:00	

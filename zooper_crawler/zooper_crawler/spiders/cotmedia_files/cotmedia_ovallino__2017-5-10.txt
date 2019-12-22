@@ -1,0 +1,15 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+129213	SOCIEDAD DE RENTAS FALABELLA S.A	Par	Cuatricromia	Generales	8x6	01	50.980	Publicado	M Cristina Puga		2017-5-10 00:00:00	
+129208	SOCIEDAD DE RENTAS FALABELLA S.A	Par	Cuatricromia	Generales	17x6	03	200.000	Publicado	M Cristina Puga	Open Plaza - Mall Ovalle	2017-5-10 00:00:00	
+129280	CALLEGARI LTDA.	Impar	Cuatricromia	Generales	35x6	05	349.554	Publicado	Marcela Tello-ElDia	DIA DE LA MADRE	2017-5-10 00:00:00	
+129033	EL RELAJO			UIP	5x4	06	16.531	Publicado	Karina Rivera		2017-5-10 00:00:00	
+128804	KH			UIP	5x2	06	2.808	Publicado	Miguel Apey	KHUYAY TRAVEL	2017-5-10 00:00:00	
+129190	GOTTREUX SALAS RUBEN	Par	Blanco y negro	Generales	10x3	07	56.496	Publicado	Karina Rivera	REMATE JUDICIAL AUNQUE LLUEVA	2017-5-10 00:00:00	
+128424	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	6x6	08	0	Publicado	Claudio Romero	Muebles Alpina	2017-5-10 00:00:00	
+128741	OVALLE CASINO RESORT S.A	Par	Cuatricromia	Generales	25x4	09	0	Publicado	Paola Marquez	OCR Eventos Mayo	2017-5-10 00:00:00	
+129225	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x3	11	0	Arte	Marcela Tello-ElDia	CINEMARK- REY ARTURO	2017-5-10 00:00:00	
+129246	SOC. HOTELERA VICHUQUEN LTDA.	Par	Cuatricromia	Generales	15x2	11	0	Arte	Karina Rivera	DIA DE LA MADRE HOTEL LIMARI	2017-5-10 00:00:00	
+128110	FERNANDO YOANOVICH			UIP	5x2	12	2.247	Publicado	Karina Rivera	COMPRA VEHICULOS	2017-5-10 00:00:00	
+127726	JACQUELINE JOFRE VILLANUEVA			UIP	5x2	12	2.808	Publicado	Karina Rivera	Cortinas Rollers	2017-5-10 00:00:00	
+127481	AGRICOLA NORTE TALINAY LTDA	Par	Blanco y negro	Generales	5x2	12	1.666	Publicado	Paola Marquez	UIP VENTA ALFALFA	2017-5-10 00:00:00	
+129255	DABED Y CIA. LTDA., SELIM	Par	Cuatricromia	Generales	6x6	14	23.076	Publicado	Karina Rivera	SALUDO DIA DE LA MADRE	2017-5-10 00:00:00	

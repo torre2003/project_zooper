@@ -1,0 +1,33 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+163904	INMOBIL. LA SERENA GOLF S.A.	Par	Cuatricromia	Generales	17x6	05	0	Publicado	Patricia Villena	2018-9-17 00:00:00	
+163877	OPTISTORE S.P.A	Impar	Cuatricromia	Generales	34x2	07	205.439	Publicado	Claudio Romero	2018-9-17 00:00:00	
+163732	ILUSTRE MUNICIPALIDAD DE LA SERENA	Par	Cuatricromia	Generales	17x3	08	0	Publicado	M Cristina Puga	2018-9-17 00:00:00	
+163680	BUALE GRUP LTDA.	Par	Cuatricromia	Generales	17x3	08	60.000	Publicado	Claudio Romero	2018-9-17 00:00:00	
+162783	CONSTRUCTORA CADEL LTDA.	Par	Cuatricromia	Generales	17x6	09	0	Publicado	Rene Pizarro	2018-9-17 00:00:00	
+163939	ILUSTRE MUNICIPALIDAD DE OVALLE	Par	Cuatricromia	Generales	17x6	10	273.109	Publicado	Jacqueline Torres	2018-9-17 00:00:00	
+162822	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	12	0	Publicado	Marcela Tello-ElDia	2018-9-17 00:00:00	
+162956	INVERSIONES ALTA CRUZ LTDA	Par	Blanco y negro	Generales	5x2	14	0	Publicado	Marcela Tello-ElDia	2018-9-17 00:00:00	
+162928	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	14	0	Publicado	Marcela Tello-ElDia	2018-9-17 00:00:00	
+162717	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	4x5	14	20.508	Publicado	Miguel Apey	2018-9-17 00:00:00	
+162537	ARMAQ SUBIRI S.A.			UIP	5x1	14	8.937	Publicado	Claudio Romero	2018-9-17 00:00:00	
+162446	SOC. DE GES			UIP	5x1	14	8.937	Publicado	Miguel Apey	2018-9-17 00:00:00	
+162735	LABORATORIO CLINICO STA. MARIA LA S	Par	Blanco y negro	Generales	6x2	18	7.470	Publicado	Miguel Apey	2018-9-17 00:00:00	
+163067	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	5x2	18	0	Publicado	Miguel Apey	2018-9-17 00:00:00	
+162410	C.M. SOC. GASTRONOMICA LTDA.			UIP	5x2	18	7.208	Publicado		2018-9-17 00:00:00	
+163907	ASTUDILLO Y URRUTIA LTDA.	Par	Blanco y negro	Generales	13x3	19	120.168	Publicado	Pedro Jaime	2018-9-17 00:00:00	
+163776	ARZOBISPADO DE LA SERENA	Par	Blanco y negro	Generales	10x2	20	0	Publicado	Marcela Tello-ElDia	2018-9-17 00:00:00	
+163258	PAMELA B. GONZALEZ LIZAMA COMERCIAL	Par	Blanco y negro	Generales	5x2	20	0	Publicado	Marcela Tello-ElDia	2018-9-17 00:00:00	
+162682	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	24	8.306	Publicado	Miguel Apey	2018-9-17 00:00:00	
+163083	HABITA INMOBILIARIA SA	Par	Cuatricromia	Generales	17x6	24	0	Publicado	Miguel Apey	2018-9-17 00:00:00	
+163953	DIARIO EL DIA	Par	Blanco y negro	Generales	8x6	29	0	Arte	Marcela Tello-ElDia	2018-9-17 00:00:00	
+163629	INMOBILIARIA ELQUI S.A.	Impar	Cuatricromia	Generales	35x6	32	0	Publicado	M Cristina Puga	2018-9-17 00:00:00	
+163936	BANCO DE CHILE	664 Palabras		Legal	x	EC	164.706	Publicado	Pedro Jaime	2018-9-17 00:00:00	
+163935	BANCO DE CHILE	491 Palabras		Legal	x	EC	121.849	Publicado	Pedro Jaime	2018-9-17 00:00:00	
+163917	AREYUNA AREYUNA NIBALDO	Par	Cuatricromia	Generales	7x3	EC-21	120.168	Publicado	Pedro Jaime	2018-9-17 00:00:00	
+163937	BANCO DE CHILE	623 Palabras		Legal	x	EC-22	154.622	Publicado	Pedro Jaime	2018-9-17 00:00:00	
+163940	BANCO DE CHILE	643 Palabras		Legal	x	EC-22	159.664	Publicado	Pedro Jaime	2018-9-17 00:00:00	
+152193	HOTELERIA LUIS ALBERTO BERETTA KIEK	Par	Blanco y negro	Generales	5x2	EC-22	6.061	Publicado	Patricia Villena	2018-9-17 00:00:00	
+162801	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Generales	5x2	EC-22	7.003	Publicado	Rene Pizarro	2018-9-17 00:00:00	
+163905	KOE FAST & EASY CAPACITACION PARA C		15 Frases	Radio	x	RAD	67.500	Publicado		2018-9-17 00:00:00	
+163618	HACIENDA VENUS S.A.		48 Frases	Radio	x	RAD	150.000	Publicado	Paola Marquez	2018-9-17 00:00:00	
+163432	INVERSIONES ECOMAC S.A.	Home	Banner Cabecera	Web	x	WEB	611.833	Publicado	M Cristina Puga	2018-9-17 00:00:00	

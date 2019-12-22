@@ -1,0 +1,18 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+142415	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	6x6	01	16.065	Publicado	Claudio Romero	Muebles Alpina	2017-11-13 00:00:00	
+143221	EMPRESA PERIODISTICA EL NORTE S.A.	Par	Cuatricromia	Medios Regionales	32x6	03	349.693	Publicado	Medios Regionales		2017-11-13 00:00:00	
+143384	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	05	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2017-11-13 00:00:00	
+143469	INMOBILIARIA NUEVA SERENA	Par	Cuatricromia	Generales	17x3	06	65.625	Publicado	Claudio Romero	LLANOS DE SAN LUIS...NUEVO..AGENCIA ENVIARA AVISO.	2017-11-13 00:00:00	
+141069	HANNA JARUFE HAUNE	Par	Cuatricromia	Generales	17x3	06	117.653	Publicado	Claudio Romero		2017-11-13 00:00:00	
+143813	ADOLFO HADLER BARRERA			UIP	5x2	07	2.808	Publicado	Karina Rivera	SE VENDE 5 SITIOS	2017-11-13 00:00:00	
+138348	CENTRO DE SALUD PORTALES LTDA			UIP	5x4	07	4.504	Publicado	Karina Rivera		2017-11-13 00:00:00	
+143790	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x6	08	0	Publicado	Marcela Tello-ElDia		2017-11-13 00:00:00	
+143787	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	12x6	09	0	Publicado	Marcela Tello-ElDia	Avant Premiere - Club de Lectores	2017-11-13 00:00:00	
+143720	MIGUEL GUZMAN YURI	Par	Blanco y negro	Generales	8x2	10	37.664	Publicado	Karina Rivera	REMATE JUDICIAL OVALLE	2017-11-13 00:00:00	
+136040	INVERSIONES TANGUEMAR LIMITADA			UIP	5x2	10	2.808	Publicado	Patricia Villena	Tanguemar	2017-11-13 00:00:00	
+143581	AUTOMOTORA INDEPENDENCIA LTDA.			UIP	10x6	11	22.764	Publicado	Karina Rivera	AUTOMOTORA INDEPENDENCIA	2017-11-13 00:00:00	
+143501	CARLOS CASTILLO			UIP	5x2	13	2.808	Publicado	Karina Rivera	DR CARLOS CASTILLO ODONTOLOGO	2017-11-13 00:00:00	
+143200	TEODORO AGUIRRE ALVAREZ			UIP	5x4	13	4.920	Publicado	Karina Rivera	REGIONALISTA VERDE SOCIAL	2017-11-13 00:00:00	
+143889	DABED Y CIA. LTDA., SELIM	Par	Cuatricromia	Generales	6x6	14	23.076	Publicado	Karina Rivera	ESCUELA DE OFICIOS	2017-11-13 00:00:00	
+141748	VELIZ CORTES JOSE A.			UIP	5x2	14	3.919	Publicado	Pedro Cortes		2017-11-13 00:00:00	
+143877	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	34x6	16	0	Publicado	Marcela Tello-ElDia	Elecciones Presidenciales - 2017	2017-11-13 00:00:00	

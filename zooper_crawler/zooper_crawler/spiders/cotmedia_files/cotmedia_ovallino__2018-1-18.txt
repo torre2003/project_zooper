@@ -1,0 +1,13 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+148239	INVERSIONES TANGUEMAR LIMITADA			UIP	5x2	04	2.808	Publicado	Patricia Villena	Tanguemar 2	2018-1-18 00:00:00	
+147667	AGRICOLA NORTE TALINAY LTDA	Par	Blanco y negro	Generales	5x2	04	1.666	Publicado	Paola Marquez	UIP VENTA ALFALFA	2018-1-18 00:00:00	
+148522	PRENSA DEL LIMARI LTDA.	Par	Blanco y negro	Generales	5x2	04	0	Arte	Leonel Pizarro-Ovalle	repartidor	2018-1-18 00:00:00	
+148546	INMOBILIARIA NUEVA SERENA			UIP	10x6	05	16.260	Publicado	Claudio Romero	proyecto empresa serena.(.2 AVISOS NUEVO)" DEPARTAMENTOS.".." CASAS"...ALTERNAR LOS AVISOS TODOS LOS	2018-1-18 00:00:00	
+147768	CL?NICA VETERINARIA LOS MANCOS LTDA			UIP	10x2	06	5.630	Publicado	Karina Rivera	CLINICA VETERINARIA 	2018-1-18 00:00:00	
+148306	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	34x6	08	0	Publicado	Marcela Tello-ElDia		2018-1-18 00:00:00	
+147600	SOCIEDAD EDUCACIONL GALLARDO Y FIGU			UIP	10x2	09	6.306	Publicado	Karina Rivera	CENTRO DE FORMACION MATEMATICA	2018-1-18 00:00:00	
+147803	UNIVERSIDAD BOLIVARIANA			UIP	5x4	09	5.630	Publicado	Karina Rivera	U. Bolivariana y V. Central	2018-1-18 00:00:00	
+147245	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	11	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2018-1-18 00:00:00	
+148673	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x6	12	0	Publicado	Marcela Tello-ElDia		2018-1-18 00:00:00	
+147865	VELIZ CORTES JOSE A.			UIP	5x2	15	4.695	Publicado	Pedro Cortes		2018-1-18 00:00:00	
+148672	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	6x6	15	0	Publicado	Marcela Tello-ElDia		2018-1-18 00:00:00	

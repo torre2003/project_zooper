@@ -1,0 +1,12 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+151939	SOCIEDAD DE RENTAS FALABELLA S.A	Par	Cuatricromia	Generales	8x6	03	50.980	Publicado	M Cristina Puga	HUINCHA Open Plaza - primera impar	2018-3-18 00:00:00	
+152361	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	6x6	05	0	Publicado	Marcela Tello-ElDia	Cupones de Descuentos - Cinemark	2018-3-18 00:00:00	
+152278	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	12x6	06	0	Publicado	Marcela Tello-ElDia	Circo para el Club El Ovallino	2018-3-18 00:00:00	
+151598	UNIVERSIDAD DE LA SERENA	Par	Blanco y negro	Generales	12x3	08	93.643	Publicado	Karina Rivera	ULS DIPLOMADO	2018-3-18 00:00:00	
+152322	DEL RIO VARELA JORGE	Par	Blanco y negro	Generales	12x3	08	77.118	Publicado	Pedro Jaime		2018-3-18 00:00:00	
+152320	EMPRESA PERIODISTICA EL NORTE S.A.	Par	Cuatricromia	Medios Regionales	32x6	09	367.130	Publicado	Medios Regionales		2018-3-18 00:00:00	
+151105	OVALLE CASINO RESORT S.A	Par	Cuatricromia	Generales	25x4	11	171.372	Publicado	Paola Marquez	OCR Panoramas marzo	2018-3-18 00:00:00	
+131307	SOCIEDAD MEDICA Y CONSULTORA ESTETI		Cuatricromia	Guia	5x2	11	13.333	Publicado	Maria_Amelia Hermosilla	Diego Polanco	2018-3-18 00:00:00	
+152360	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x6	12	0	Publicado	Marcela Tello-ElDia	Nos trasladamos para prestarles un mejor servicio...	2018-3-18 00:00:00	
+150552	VELIZ CORTES JOSE A.			UIP	5x2	15	4.695	Publicado	Pedro Cortes		2018-3-18 00:00:00	
+152359	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	8x6	15	0	Publicado	Marcela Tello-ElDia		2018-3-18 00:00:00	

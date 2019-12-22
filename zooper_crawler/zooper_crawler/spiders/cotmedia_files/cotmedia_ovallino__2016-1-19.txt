@@ -1,0 +1,5 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+92442	AGRICOLA NORTE TALINAY LTDA	Par	Blanco y negro	Generales	5x2	07	1.428	Publicado	Italo Retamal	venta fardos	2016-1-19 00:00:00	
+92581	AGRICOLA NORTE TALINAY LTDA	Par	Blanco y negro	Generales	5x2	07	1.428	Publicado	Italo Retamal	Oferta de empleos	2016-1-19 00:00:00	
+93040	dominga			UIP	10x2	07	3.378	Publicado	Leonel Pizarro-Ovalle	laboratorio clinico	2016-1-19 00:00:00	
+93844	PRENSA DEL LIMARI LTDA.	Par	Blanco y negro	Generales	17x6	14	0	Arte	Marcela Tello-ElDia		2016-1-19 00:00:00	

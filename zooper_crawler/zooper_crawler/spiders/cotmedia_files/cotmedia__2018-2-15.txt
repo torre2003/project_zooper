@@ -1,0 +1,88 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+149593	PILLA LA VACA	Par	Blanco y negro	Generales	5x2	04	0	Publicado	Marcela Tello-ElDia	2018-2-15 00:00:00	
+149475	C.M. SOC. GASTRONOMICA LTDA.			UIP	5x2	04	7.208	Publicado		2018-2-15 00:00:00	
+148851	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	5x2	04	0	Publicado	Miguel Apey	2018-2-15 00:00:00	
+150396	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Cuatricromia	Medios Regionales	16x6	05	324.811	Publicado	Medios Regionales	2018-2-15 00:00:00	
+145474	INMOBILIARIA CONPACES S.A.	Par	Cuatricromia	Generales	17x6	07	0	Publicado	Paola Marquez	2018-2-15 00:00:00	
+148450	LABORATORIO CLINICO STA. MARIA LA S	Par	Blanco y negro	Generales	6x2	08	7.470	Publicado	Miguel Apey	2018-2-15 00:00:00	
+149428	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Cuatricromia	Medios Regionales	16x6	09	324.811	Publicado	Medios Regionales	2018-2-15 00:00:00	
+148432	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	13	8.306	Publicado	Miguel Apey	2018-2-15 00:00:00	
+150364	SERV. DE REGISTRO CIVIL E IDENTIFIC	Par	Blanco y negro	Generales	17x3	13	0	Arte	Jacqueline Torres	2018-2-15 00:00:00	
+150360	CONSEJO NACIONAL DE EDUCACI?N	Par	Blanco y negro	Generales	11x3	13	150.360	Publicado	Jacqueline Torres	2018-2-15 00:00:00	
+150341	CAMPOS DEL NORTE S.A.	Par	Cuatricromia	Generales	17x3	14	0	Publicado	Patricia Villena	2018-2-15 00:00:00	
+150218	CORPORACION REGIONAL DE DESARROLLO 	Impar	Cuatricromia	Generales	5x6	15	129.196	Publicado	Patricia Villena	2018-2-15 00:00:00	
+150408	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	17	0	Publicado	Marcela Tello-ElDia	2018-2-15 00:00:00	
+150405	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	17	0	Publicado	Marcela Tello-ElDia	2018-2-15 00:00:00	
+150079	MOP OOPP	219 Palabras		Legal	x	20	54.312	Publicado	Jacqueline Torres	2018-2-15 00:00:00	
+150078	MOP OOPP	219 Palabras		Legal	x	20	54.312	Publicado	Jacqueline Torres	2018-2-15 00:00:00	
+150066	MOP OOPP	219 Palabras		Legal	x	20	54.312	Publicado	Jacqueline Torres	2018-2-15 00:00:00	
+150067	MOP OOPP	219 Palabras		Legal	x	20	54.312	Publicado	Jacqueline Torres	2018-2-15 00:00:00	
+150068	MOP OOPP	219 Palabras		Legal	x	20	54.312	Publicado	Jacqueline Torres	2018-2-15 00:00:00	
+150070	MOP OOPP	219 Palabras		Legal	x	20	54.312	Publicado	Jacqueline Torres	2018-2-15 00:00:00	
+150071	MOP OOPP	219 Palabras		Legal	x	20	54.312	Publicado	Jacqueline Torres	2018-2-15 00:00:00	
+150072	MOP OOPP	219 Palabras		Legal	x	20	54.312	Publicado	Jacqueline Torres	2018-2-15 00:00:00	
+150075	MOP OOPP	219 Palabras		Legal	x	20	54.312	Publicado	Jacqueline Torres	2018-2-15 00:00:00	
+150074	MOP OOPP	219 Palabras		Legal	x	20	54.312	Publicado	Jacqueline Torres	2018-2-15 00:00:00	
+150077	MOP OOPP	219 Palabras		Legal	x	20	54.312	Publicado	Jacqueline Torres	2018-2-15 00:00:00	
+150073	MOP OOPP	219 Palabras		Legal	x	20	54.312	Publicado	Jacqueline Torres	2018-2-15 00:00:00	
+150076	MOP OOPP	219 Palabras		Legal	x	20	54.312	Publicado	Jacqueline Torres	2018-2-15 00:00:00	
+150081	MOP OOPP	219 Palabras		Legal	x	21	54.312	Publicado	Jacqueline Torres	2018-2-15 00:00:00	
+150132	MOP OOPP	219 Palabras		Legal	x	21	54.312	Publicado	Jacqueline Torres	2018-2-15 00:00:00	
+150131	MOP OOPP	219 Palabras		Legal	x	21	54.312	Publicado	Jacqueline Torres	2018-2-15 00:00:00	
+150130	MOP OOPP	219 Palabras		Legal	x	21	54.312	Publicado	Jacqueline Torres	2018-2-15 00:00:00	
+150129	MOP OOPP	219 Palabras		Legal	x	21	54.312	Publicado	Jacqueline Torres	2018-2-15 00:00:00	
+150128	MOP OOPP	219 Palabras		Legal	x	21	54.312	Publicado	Jacqueline Torres	2018-2-15 00:00:00	
+150127	MOP OOPP	219 Palabras		Legal	x	21	54.312	Publicado	Jacqueline Torres	2018-2-15 00:00:00	
+150124	MOP OOPP	219 Palabras		Legal	x	21	54.312	Publicado	Jacqueline Torres	2018-2-15 00:00:00	
+150134	MOP OOPP	219 Palabras		Legal	x	21	54.312	Publicado	Jacqueline Torres	2018-2-15 00:00:00	
+150084	MOP OOPP	219 Palabras		Legal	x	21	54.312	Publicado	Jacqueline Torres	2018-2-15 00:00:00	
+150133	MOP OOPP	219 Palabras		Legal	x	21	54.312	Publicado	Jacqueline Torres	2018-2-15 00:00:00	
+150082	MOP OOPP	219 Palabras		Legal	x	21	54.312	Publicado	Jacqueline Torres	2018-2-15 00:00:00	
+150083	MOP OOPP	219 Palabras		Legal	x	21	54.312	Publicado	Jacqueline Torres	2018-2-15 00:00:00	
+150125	MOP OOPP	219 Palabras		Legal	x	21	54.312	Publicado	Jacqueline Torres	2018-2-15 00:00:00	
+150080	MOP OOPP	219 Palabras		Legal	x	21	54.312	Publicado	Jacqueline Torres	2018-2-15 00:00:00	
+150141	MOP OOPP	219 Palabras		Legal	x	22	54.312	Publicado	Jacqueline Torres	2018-2-15 00:00:00	
+150149	MOP OOPP	219 Palabras		Legal	x	22	54.312	Publicado	Jacqueline Torres	2018-2-15 00:00:00	
+150148	MOP OOPP	219 Palabras		Legal	x	22	54.312	Publicado	Jacqueline Torres	2018-2-15 00:00:00	
+150147	MOP OOPP	219 Palabras		Legal	x	22	54.312	Publicado	Jacqueline Torres	2018-2-15 00:00:00	
+150146	MOP OOPP	219 Palabras		Legal	x	22	54.312	Publicado	Jacqueline Torres	2018-2-15 00:00:00	
+150137	MOP OOPP	219 Palabras		Legal	x	22	54.312	Publicado	Jacqueline Torres	2018-2-15 00:00:00	
+150145	MOP OOPP	219 Palabras		Legal	x	22	54.312	Publicado	Jacqueline Torres	2018-2-15 00:00:00	
+150144	MOP OOPP	219 Palabras		Legal	x	22	54.312	Publicado	Jacqueline Torres	2018-2-15 00:00:00	
+150143	MOP OOPP	219 Palabras		Legal	x	22	54.312	Publicado	Jacqueline Torres	2018-2-15 00:00:00	
+150142	MOP OOPP	219 Palabras		Legal	x	22	54.312	Publicado	Jacqueline Torres	2018-2-15 00:00:00	
+150140	MOP OOPP	219 Palabras		Legal	x	22	54.312	Publicado	Jacqueline Torres	2018-2-15 00:00:00	
+150139	MOP OOPP	219 Palabras		Legal	x	22	54.312	Publicado	Jacqueline Torres	2018-2-15 00:00:00	
+150138	MOP OOPP	219 Palabras		Legal	x	22	54.312	Publicado	Jacqueline Torres	2018-2-15 00:00:00	
+150136	MOP OOPP	219 Palabras		Legal	x	22	54.312	Publicado	Jacqueline Torres	2018-2-15 00:00:00	
+150363	SERV. DE REGISTRO CIVIL E IDENTIFIC	Par	Blanco y negro	Generales	35x6	23-24	470.340	Publicado	Jacqueline Torres	2018-2-15 00:00:00	
+149658	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	26	0	Publicado	Marcela Tello-ElDia	2018-2-15 00:00:00	
+149355	INMOBIL. E INVERSIONES AREYUNA E HI	Par	Cuatricromia	Generales	12x6	27	0	Publicado	Claudio Romero	2018-2-15 00:00:00	
+149329	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	6x6	28	51.666	Publicado	Claudio Romero	2018-2-15 00:00:00	
+148467	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	4x5	30	20.508	Publicado	Miguel Apey	2018-2-15 00:00:00	
+148594	CERNA E HIJOS CIA. LTDA.	Par	Blanco y negro	Generales	5x1	30	3.574	Publicado	Nadia Randolph	2018-2-15 00:00:00	
+149293	ARMAQ SUBIRI S.A.			UIP	5x1	30	8.937	Publicado	Claudio Romero	2018-2-15 00:00:00	
+148484	SOC. DE GES			UIP	5x1	30	8.937	Publicado	Miguel Apey	2018-2-15 00:00:00	
+149614	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	30	0	Publicado	Marcela Tello-ElDia	2018-2-15 00:00:00	
+150406	DIARIO EL DIA	Par	Cuatricromia	Generales	17x6	31	0	Publicado	Marcela Tello-ElDia	2018-2-15 00:00:00	
+150003	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	34	0	Publicado	Marcela Tello-ElDia	2018-2-15 00:00:00	
+150157	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	34	0	Publicado	Marcela Tello-ElDia	2018-2-15 00:00:00	
+150441	DIARIO EL DIA	Par	Cuatricromia	Generales	34x6	36	0	Publicado	Carolina Naranjo	2018-2-15 00:00:00	
+148800	INMOBILIARIA CHRISTIAN ALFREDO MEND			UIP	5x2	EC-18	17.875	Publicado	Claudio Romero	2018-2-15 00:00:00	
+148791	INMOBILIARIA CHRISTIAN ALFREDO MEND			UIP	5x2	EC-18	17.875	Publicado	Claudio Romero	2018-2-15 00:00:00	
+150333	GOTTREUX SALAS RUBEN	Par	Blanco y negro	Generales	8x2	EC-19	58.592	Publicado	Karina Rivera	2018-2-15 00:00:00	
+150095	SOC. COMERCIAL VARGAS Y GIACOMET			UIP	5x1	EC-19	7.149	Publicado	Rene Pizarro	2018-2-15 00:00:00	
+124108	HOTELERIA LUIS ALBERTO BERETTA KIEK	Par	Blanco y negro	Generales	5x2	EC-19	6.061	Publicado	Patricia Villena	2018-2-15 00:00:00	
+149567	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Economico	5x2	EC-19	15.161	Publicado	Rene Pizarro	2018-2-15 00:00:00	
+146561	INMOBILIARIA NOLLAGAM LTDA.	Impar	Cuatricromia	Generales	17x6	PANO	450.000	Publicado	Paola Marquez	2018-2-15 00:00:00	
+147469	AUTOMOTRIZ CARMONA	Par	Cuatricromia	Generales	10x6	PANO	212.250	Publicado	Paola Marquez	2018-2-15 00:00:00	
+147510	INMOBIL. SANTA CATALINA E.I.R.L.	Par	Cuatricromia	Generales	17x6	PANO	360.000	Publicado	Rene Pizarro	2018-2-15 00:00:00	
+147994	INVERSIONES E INMOBILIARIA P.A.T.  	Par	Cuatricromia	Generales	34x3	PANO	360.000	Publicado	Miguel Apey	2018-2-15 00:00:00	
+147997	INVERSIONES E INMOBILIARIA SANTO DO	Par	Cuatricromia	Generales	10x6	PANO	210.000	Publicado	Miguel Apey	2018-2-15 00:00:00	
+148278	SERNATUR	Impar	Cuatricromia	Ed.Especial	17x6	PANO	450.000	Publicado	Jacqueline Torres	2018-2-15 00:00:00	
+150349	SOCIEDAD HOTELERA AUSTRAL SANTIAGO 	Par	Cuatricromia	Generales	17x6	PANO	0	Arte	Patricia Villena	2018-2-15 00:00:00	
+148367	VIVOCORP S.A.	Impar	Cuatricromia	Generales	35x6	PANO	720.000	Publicado	Patricia Villena	2018-2-15 00:00:00	
+149504	INMOBILIARIA SERENA S.A.	Par	Cuatricromia	Generales	17x6	PANO	360.000	Publicado	Claudio Romero	2018-2-15 00:00:00	
+149457	INMOBILIARIA ECASA CHILE S.A.	Par	Cuatricromia	Generales	34x6	PANO	400.000	Publicado	Paola Marquez	2018-2-15 00:00:00	
+148369	CAMPOS DEL NORTE S.A.	Impar	Cuatricromia	Generales	17x6	PANO	941.281	Publicado	Patricia Villena	2018-2-15 00:00:00	
+150339	ADMINISTRADORA HOTELERA LA SERENA S	Par	Cuatricromia	Generales	17x6	PANO	0	Arte	Patricia Villena	2018-2-15 00:00:00	

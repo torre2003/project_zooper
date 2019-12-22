@@ -1,0 +1,9 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+169226	CAMPOS DEL NORTE S.A.	Par	Cuatricromia	Generales	5x6	01	23.333	Publicado	Patricia Villena	Franja Enjoy Portada EL Ovallino	2018-11-5 00:00:00	
+169169	UNIVERSIDAD SANTO TOMAS	Impar	Cuatricromia	Generales	25x5	03	265.110	Publicado	Patricia Villena		2018-11-5 00:00:00	
+168558	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	06	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2018-11-5 00:00:00	
+169203	DABED Y CIA. LTDA., SELIM	Par	Cuatricromia	Generales	6x6	08	23.076	Publicado	Karina Rivera	O2	2018-11-5 00:00:00	
+169000	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	12x3	09	16.065	Publicado	Claudio Romero	Muebles alpina..	2018-11-5 00:00:00	
+168237	SOCIEDAD DE SERVICIOS MEDICOS E INV			UIP	17x2	11	8.403	Publicado	Karina Rivera	CENTRO IMAGEN OVALLE	2018-11-5 00:00:00	
+169445	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x6	16	0	Arte	Marcela Tello-ElDia		2018-11-5 00:00:00	
+169374	SCOTIABANK CHILE S.A.	582 Palabras		Legal	x	EC	144.538	Publicado	Pedro Jaime	AVISO DE REMATE ROL 1228-2017, SCOTIABANK CON MALUENDA  	2018-11-5 00:00:00	

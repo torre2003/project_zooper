@@ -1,0 +1,14 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+137037	INMOBILIARIA NUEVA SERENA	Home	Banner Cabecera	Web	x		150.000	Arte		150.000 + IVA	2017-7-17 00:00:00	
+134114	DABED Y CIA. LTDA., SELIM	Par	Cuatricromia	Generales	6x6	01	23.076	Publicado	Karina Rivera	V1	2017-7-17 00:00:00	
+134211	CORP. DE DESARROLLO SOCIAL DEL SECT	Par	Cuatricromia	Generales	17x3	03	134.461	Publicado	Karina Rivera	CODESER	2017-7-17 00:00:00	
+134225	ESTUDIO JURIDICO OLIVARES Y CIA. SP	Par	Blanco y negro	Generales	5x2	05	2.000	Publicado	Jacqueline Torres	ESTUDIO JURIDICO OLIVARES	2017-7-17 00:00:00	
+133754	JACQUELINE JOFRE VILLANUEVA			UIP	5x2	05	2.808	Publicado	Karina Rivera	CORTINAS ROLLER OVALLE	2017-7-17 00:00:00	
+134054	FERNANDO YOANOVICH			UIP	5x2	05	2.247	Publicado	Karina Rivera		2017-7-17 00:00:00	
+134082	FERNANDO YOANOVICH			UIP	5x2	07	2.247	Publicado	Karina Rivera	TAROT SRA SOFIA	2017-7-17 00:00:00	
+133112	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	08	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2017-7-17 00:00:00	
+132787	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	6x6	09	16.065	Publicado	Claudio Romero	Muebles Alpina	2017-7-17 00:00:00	
+133629	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	6x3	11	0	Publicado	Marcela Tello-ElDia	PROMOCION CENTRO MOTOR 	2017-7-17 00:00:00	
+133949	VELIZ CORTES JOSE A.			UIP	5x2	14	2.808	Publicado	Pedro Cortes		2017-7-17 00:00:00	
+134045	SANTA CLARA SPA.	Par	Cuatricromia	Generales	6x6	14	13.889	Publicado	Karina Rivera	LOTEO VILLASECA	2017-7-17 00:00:00	
+134683	INMOBILIARIA NUEVA SERENA	Home	Banner Cabecera	Web	x	WEB	150.000	Publicado		Banners web el Ovallino.	2017-7-17 00:00:00	

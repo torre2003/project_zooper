@@ -1,0 +1,42 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+115852	CHRISTIAN LAUNITZ MARIN SERVICIOS M	Par	Blanco y negro	Generales	4x2	04	6.464	Publicado	Jacqueline Torres	2016-11-11 00:00:00	
+115976	UNIVERSIDAD TECNOLOGICA DE CHILE	Par	Cuatricromia	Generales	35x6	05	0	Publicado	Patricia Villena	2016-11-11 00:00:00	
+116249	CARAT CHILE S.A.	Impar	Cuatricromia	Generales	35x6	07	330.000	Publicado	Kathine Soto-Stgo	2016-11-11 00:00:00	
+115362	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	08	0	Publicado	Marcela Tello-ElDia	2016-11-11 00:00:00	
+116239	TODO ARAUCO S.A.	Impar	Cuatricromia	Generales	17x6	09	470.611	Publicado	Patricia Villena	2016-11-11 00:00:00	
+116054	OVALLE CASINO RESORT S.A	Par	Cuatricromia	Generales	25x4	11	205.072	Publicado	Paola Marquez	2016-11-11 00:00:00	
+116190	CAMAL MUSALEM TAPIA Y CIA.	Par	Cuatricromia	Generales	18x3	12	276.848	Publicado	Marcela Tello-ElDia	2016-11-11 00:00:00	
+116070	LA GARZA S.A	Par	Blanco y negro	Generales	5x1	13	19.000	Publicado	Marcela Tello-ElDia	2016-11-11 00:00:00	
+115877	ARZOBISPADO DE LA SERENA	Par	Blanco y negro	Generales	5x2	13	0	Publicado	Marcela Tello-ElDia	2016-11-11 00:00:00	
+115106	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	5x2	15	0	Publicado	Miguel Apey	2016-11-11 00:00:00	
+114917	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	15	8.306	Publicado	Miguel Apey	2016-11-11 00:00:00	
+114287	GESTION NORTE	Par	Blanco y negro	Generales	5x2	15	9.280	Publicado	Patricia Villena	2016-11-11 00:00:00	
+116045	UNIVERSIDAD DE LA SERENA	Par	Cuatricromia	Generales	17x6	16	355.595	Publicado	Jacqueline Torres	2016-11-11 00:00:00	
+116134	DIARIO EL DIA	Par	Cuatricromia	Generales	34x6	17	0	Publicado	Marcela Tello-ElDia	2016-11-11 00:00:00	
+116250	ENTEL PCS	Impar	Cuatricromia	Generales	35x6	23	0	Publicado	Kathine Soto-Stgo	2016-11-11 00:00:00	
+115616	PILLA LA VACA	Par	Cuatricromia	Generales	5x2	24	0	Publicado	Marcela Tello-ElDia	2016-11-11 00:00:00	
+115150	SERVICIOS GASTRON?MICOS LA CASONA D	Par	Blanco y negro	Generales	5x2	24	10.725	Publicado	Miguel Apey	2016-11-11 00:00:00	
+114977	HOTEL COSTA REAL	Par	Cuatricromia	Generales	10x2	24	30.761	Publicado	Miguel Apey	2016-11-11 00:00:00	
+114899	BAKULIC RESTAURANT	Par	Cuatricromia	Generales	10x2	24	24.609	Publicado	Miguel Apey	2016-11-11 00:00:00	
+115677	MARTIN JURE PATRICIA	Par	Cuatricromia	Generales	5x3	24	0	Publicado	Marcela Tello-ElDia	2016-11-11 00:00:00	
+115065	SOC. HOTELERA VICHUQUEN LTDA.	Par	Cuatricromia	Generales	5x3	24	0	Publicado	Marcela Tello-ElDia	2016-11-11 00:00:00	
+116264	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	27	0	Publicado	Marcela Tello-ElDia	2016-11-11 00:00:00	
+116253	CORP. DE FOMENTO DE LA PRODUCCION	Impar	Cuatricromia	Generales	17x3	27	213.357	Publicado	Jacqueline Torres	2016-11-11 00:00:00	
+115999	AREVALO CARMEN			UIP	5x1	29	8.937	Publicado	Pedro Jaime	2016-11-11 00:00:00	
+115698	SOC.INMOBIL.Y DE INV.MORALES Y CIA.			UIP	5x2	29	0	Publicado	Marcela Tello-ElDia	2016-11-11 00:00:00	
+114763	CERNA E HIJOS CIA. LTDA.	Par	Blanco y negro	Generales	5x1	29	4.468	Publicado	Nadia Randolph	2016-11-11 00:00:00	
+115658	ICEFOOD LIMITADA	Par	Blanco y negro	Generales	5x2	29	8.925	Publicado	Patricia Villena	2016-11-11 00:00:00	
+115529	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	29	0	Publicado	Marcela Tello-ElDia	2016-11-11 00:00:00	
+111908	INVERSIONES VEINTINUEVE GRADOS	Par	Blanco y negro	Generales	5x2	29	9.280	Publicado	Patricia Villena	2016-11-11 00:00:00	
+115288	ARMAQ			UIP	5x1	29	8.937	Publicado	Claudio Romero	2016-11-11 00:00:00	
+114948	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	4x5	29	20.508	Publicado	Miguel Apey	2016-11-11 00:00:00	
+114554	SOC. DE GES			UIP	5x1	29	8.937	Publicado	Miguel Apey	2016-11-11 00:00:00	
+116204	HUGO GONZALEZ FRANETOVIC	Par	Blanco y negro	Generales	15x2	30	65.916	Publicado	Claudio Romero	2016-11-11 00:00:00	
+114076	VELIZ CORTES JOSE A.	Par	Blanco y negro	Generales	3x2	30	13.403	Publicado	Pedro Cortes	2016-11-11 00:00:00	
+115201	SERVICIOS GENERALES GUAYACAN S.A	Par	Blanco y negro	Generales	4x2	30	6.666	Publicado	Jacqueline Torres	2016-11-11 00:00:00	
+116161	EMPRESAS LA POLAR S.A.	Impar	Cuatricromia	Generales	35x6	32	504.000	Publicado	Patricia Villena	2016-11-11 00:00:00	
+116244	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	10x2	EC-18	43.480	Publicado	Medios Regionales	2016-11-11 00:00:00	
+116240	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	10x2	EC-18	43.480	Publicado	Medios Regionales	2016-11-11 00:00:00	
+108946	HOTELERIA LUIS ALBERTO BERETTA KIEK	Par	Blanco y negro	Generales	5x2	EC-19	6.994	Publicado	Patricia Villena	2016-11-11 00:00:00	
+115454	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Generales	5x1	EC-19	5.860	Publicado	Rene Pizarro	2016-11-11 00:00:00	
+116194	ILUSTRE MUNICIPALIDAD DE VICUNA	Par	Cuatricromia	Generales	35x6	IMPR	506.016	Publicado	Jacqueline Torres	2016-11-11 00:00:00	

@@ -1,0 +1,10 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+161877	EMPRESA PERIODISTICA EL NORTE S.A.	Par	Blanco y negro	Medios Regionales	8x2	03	24.272	Publicado	Medios Regionales		2018-8-15 00:00:00	
+161521	SOC. SERVICIOS TECNOLOGICOS Y TELCO			UIP	10x6	05	16.260	Publicado	Claudio Romero	TELCONOR..AHORA EN OVALLE	2018-8-15 00:00:00	
+161401	OSSANDON PRESTACIONES MEDICAS Y OTR			UIP	5x2	08	3.879	Publicado	Karina Rivera	MEDICO CIRUJANO ALEJANDRO MANRIQUEZ	2018-8-15 00:00:00	
+161827	FL SECURITY AND SERVICE FRANCISCO L			UIP	5x2	08	3.931	Publicado	Karina Rivera		2018-8-15 00:00:00	
+160899	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	12x3	09	0	Publicado	Claudio Romero	Muebles alpina..	2018-8-15 00:00:00	
+161915	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	7x6	09	0	Arte	Marcela Tello-ElDia		2018-8-15 00:00:00	
+160573	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	11	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2018-8-15 00:00:00	
+161916	PRENSA DEL LIMARI LTDA.	Par	Blanco y negro	Generales	17x6	12	0	Arte	Marcela Tello-ElDia	Nos trasladamos para ofrecerles un mejor servicio... El Ovallino	2018-8-15 00:00:00	
+161917	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	6x6	14	0	Arte	Marcela Tello-ElDia		2018-8-15 00:00:00	

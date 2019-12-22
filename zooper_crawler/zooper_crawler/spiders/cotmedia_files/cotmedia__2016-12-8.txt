@@ -1,0 +1,45 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+118195	ARENA CHILE S.A.	Impar	Cuatricromia	Generales	17x6	05	0	Publicado	M Cristina Puga	2016-12-8 00:00:00	
+118681	DIARIO EL DIA	Par	Cuatricromia	Generales	17x6	08	0	Publicado	Marcela Tello-ElDia	2016-12-8 00:00:00	
+118682	DIARIO EL DIA	Par	Cuatricromia	Generales	35x6	09	0	Publicado	Marcela Tello-ElDia	2016-12-8 00:00:00	
+117989	MARTIN JURE PATRICIA	Par	Cuatricromia	Generales	12x3	11	0	Publicado	Marcela Tello-ElDia	2016-12-8 00:00:00	
+118683	DIARIO EL DIA	Par	Cuatricromia	Generales	8x1	11	0	Publicado	Marcela Tello-ElDia	2016-12-8 00:00:00	
+118451	SOC. INMOBILIARIA E INVERSIONES CHI	Par	Cuatricromia	Generales	10x2	11	92.283	Publicado	Claudio Romero	2016-12-8 00:00:00	
+118653	CLUB DE DEPORTES LA SERENA	Par	Cuatricromia	Generales	17x3	12	0	Publicado	Marcela Tello-ElDia	2016-12-8 00:00:00	
+118684	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	12	0	Publicado	Marcela Tello-ElDia	2016-12-8 00:00:00	
+117739	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	5x2	13	0	Publicado	Miguel Apey	2016-12-8 00:00:00	
+114310	GESTION NORTE	Par	Blanco y negro	Generales	5x2	13	9.280	Publicado	Patricia Villena	2016-12-8 00:00:00	
+117706	DIARIO EL DIA	Par	Blanco y negro	Generales	5x2	13	0	Publicado	Marcela Tello-ElDia	2016-12-8 00:00:00	
+117486	LABORATORIO CLINICO STA. MARIA LA S	Par	Blanco y negro	Generales	6x2	14	7.470	Publicado	Miguel Apey	2016-12-8 00:00:00	
+117776	AUTOMOTORES DEL NORTE	Par	Blanco y negro	Generales	5x1	14	7.427	Publicado	Miguel Apey	2016-12-8 00:00:00	
+116887	SOC. DE GES			UIP	5x1	14	8.937	Publicado	Miguel Apey	2016-12-8 00:00:00	
+117333	MARIA VARAS			UIP	5x1	14	8.937	Publicado	Pedro Jaime	2016-12-8 00:00:00	
+118111	SOC. COMERCIAL NAPOLEON LTDA.	Impar	Blanco y negro	Generales	5x6	15	11.538	Publicado	Patricia Villena	2016-12-8 00:00:00	
+118355	DIARIO EL DIA	Par	Cuatricromia	Generales	6x6	16	0	Publicado	Marcela Tello-ElDia	2016-12-8 00:00:00	
+117608	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	6x6	17	51.666	Publicado	Claudio Romero	2016-12-8 00:00:00	
+117429	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	18	8.306	Publicado	Miguel Apey	2016-12-8 00:00:00	
+115390	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	18	0	Publicado	Marcela Tello-ElDia	2016-12-8 00:00:00	
+118563	HELLEMA HOLLAND ENGINEERING LTDA.	Par	Blanco y negro	Generales	10x2	19	51.268	Publicado	M Cristina Puga	2016-12-8 00:00:00	
+118652	TASUI NORTE SUR S.A.	Par	Blanco y negro	Generales	4x2	19	29.296	Publicado	Marcela Tello-ElDia	2016-12-8 00:00:00	
+118607	DIARIO EL DIA	Par	Blanco y negro	Generales	5x2	19	0	Publicado	M Cristina Puga	2016-12-8 00:00:00	
+118627	FUNDACION EDUCACIONAL SCUOLA ITALIA	Par	Blanco y negro	Generales	12x2	19	61.522	Publicado	Jacqueline Torres	2016-12-8 00:00:00	
+118338	DIARIO EL DIA	Par	Blanco y negro	Generales	35x6	24	0	Publicado	Carolina Naranjo	2016-12-8 00:00:00	
+118339	DIARIO EL DIA	Impar	Blanco y negro	Generales	35x6	25	0	Publicado	Carolina Naranjo	2016-12-8 00:00:00	
+118649	DABED Y CIA. LTDA., SELIM	Par	Blanco y negro	Generales	6x6	28	27.690	Publicado	Karina Rivera	2016-12-8 00:00:00	
+117508	CASA DEL PERNO	Par	Blanco y negro	Generales	5x3	29	23.071	Publicado	Miguel Apey	2016-12-8 00:00:00	
+115595	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	30	0	Publicado	Marcela Tello-ElDia	2016-12-8 00:00:00	
+111931	INVERSIONES VEINTINUEVE GRADOS	Par	Blanco y negro	Generales	5x2	30	9.280	Publicado	Patricia Villena	2016-12-8 00:00:00	
+117675	armaq			UIP	5x1	30	8.937	Publicado	Claudio Romero	2016-12-8 00:00:00	
+114787	CERNA E HIJOS CIA. LTDA.	Par	Blanco y negro	Generales	5x1	30	4.468	Publicado	Nadia Randolph	2016-12-8 00:00:00	
+115639	PILLA LA VACA	Par	Blanco y negro	Generales	5x2	30	0	Publicado	Marcela Tello-ElDia	2016-12-8 00:00:00	
+118084	ICEFOOD LIMITADA	Par	Blanco y negro	Generales	5x2	30	8.925	Publicado	Patricia Villena	2016-12-8 00:00:00	
+117285	SERVICIOS GASTRON?MICOS LA CASONA D	Par	Blanco y negro	Generales	5x2	30	10.725	Publicado	Miguel Apey	2016-12-8 00:00:00	
+117460	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	4x5	30	20.508	Publicado	Miguel Apey	2016-12-8 00:00:00	
+116292	VELIZ CORTES JOSE A.	Par	Blanco y negro	Generales	3x2	31	13.403	Publicado	Pedro Cortes	2016-12-8 00:00:00	
+118638	PEDRO PATRICIO JAIME DIAZ	Par	Blanco y negro	Generales	12x2	31	58.007	Publicado	Pedro Jaime	2016-12-8 00:00:00	
+118272	SERVICIOS GENERALES GUAYACAN S.A	Par	Blanco y negro	Generales	4x2	31	6.666	Publicado	Jacqueline Torres	2016-12-8 00:00:00	
+118365	davila carlos 			UIP	5x1	32	8.937	Publicado	Pedro Jaime	2016-12-8 00:00:00	
+118634	MOP OOPP	Par	Blanco y negro	Generales	15x1	EC-20	54.930	Publicado	Jacqueline Torres	2016-12-8 00:00:00	
+118481	ALTAMAR SPA			UIP	5x1	EC-20	8.937	Publicado	Pedro Cortes	2016-12-8 00:00:00	
+108978	HOTELERIA LUIS ALBERTO BERETTA KIEK	Par	Blanco y negro	Generales	5x2	EC-21	6.994	Publicado	Patricia Villena	2016-12-8 00:00:00	
+117628	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Generales	5x1	EC-21	5.860	Publicado	Rene Pizarro	2016-12-8 00:00:00	

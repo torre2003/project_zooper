@@ -1,0 +1,11 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+161941	CAMAL MUSALEM TAPIA Y CIA.	Par	Cuatricromia	Generales	34x6	03	349.656	Publicado	Marcela Tello-ElDia	Toyota - Factor Sale - Rep. 12/08	2018-8-19 00:00:00	
+162073	PRENSA DEL LIMARI LTDA.	Par	Blanco y negro	Generales	17x6	04	0	Arte	Marcela Tello-ElDia	Reportero Ciudadano	2018-8-19 00:00:00	
+162044	DEL RIO VARELA JORGE	Par	Blanco y negro	Generales	12x3	05	77.118	Publicado	Pedro Jaime	JDV-REMATES-MAQUINAS AGRICOLAS, 13 X  4 , LIGHTS 	2018-8-19 00:00:00	
+161938	INSTITUTO DE DESARROLLO AGROPECUARI	Par	Blanco y negro	Generales	17x3	05	106.128	Publicado	Jacqueline Torres	CONCURSO	2018-8-19 00:00:00	
+158752	SOCIEDAD MEDICA Y CONSULTORA ESTETI		Cuatricromia	Guia	5x2	06	13.333	Publicado	Paola Marquez	Diego Polanco	2018-8-19 00:00:00	
+161405	OSSANDON PRESTACIONES MEDICAS Y OTR			UIP	5x2	06	3.879	Publicado	Karina Rivera	MEDICO CIRUJANO ALEJANDRO MANRIQUEZ	2018-8-19 00:00:00	
+162074	PRENSA DEL LIMARI LTDA.	Par	Blanco y negro	Generales	8x3	07	0	Arte	Marcela Tello-ElDia	Nos trasladamos para ofrecerles un mejor servicio... El Ovallino	2018-8-19 00:00:00	
+161167	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	6x6	08	0	Publicado	Marcela Tello-ElDia	Descuentos Entradas Cinemark	2018-8-19 00:00:00	
+160592	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	11	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2018-8-19 00:00:00	
+162075	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	7x6	14	0	Arte	Marcela Tello-ElDia		2018-8-19 00:00:00	

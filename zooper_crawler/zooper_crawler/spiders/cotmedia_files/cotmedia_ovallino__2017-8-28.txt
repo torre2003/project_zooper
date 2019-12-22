@@ -1,0 +1,13 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+137129	SOCIEDAD GASTRONOMICA EL RELAJO LTD	Par	Cuatricromia	Generales	6x6	01	30.000	Publicado	Karina Rivera	PORTADA RESTAURANTE EL RELAJO	2017-8-28 00:00:00	
+136202	OMD CHILE S.P.A.	Impar	Cuatricromia	Generales	35x6	03	445.386	Publicado	Patricia Villena		2017-8-28 00:00:00	
+136538	ESTUDIO JURIDICO OLIVARES Y CIA. SP	Par	Blanco y negro	Generales	5x2	05	2.000	Publicado	Jacqueline Torres	ESTUDIO JURIDICO OLIVARES	2017-8-28 00:00:00	
+137125	JACQUELINE JOFRE VILLANUEVA			UIP	5x2	05	2.808	Publicado	Karina Rivera	CORTINAS ROLLER OVALLE	2017-8-28 00:00:00	
+135078	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	06	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2017-8-28 00:00:00	
+136354	FERNANDO YOANOVICH			UIP	5x2	07	2.247	Publicado	Karina Rivera	TAROT SRA SOFIA	2017-8-28 00:00:00	
+136318	DABED Y CIA. LTDA., SELIM	Par	Cuatricromia	Generales	6x6	08	23.076	Publicado	Karina Rivera	S 3	2017-8-28 00:00:00	
+136882	SALINAS Y FABRES S.A.	Impar	Cuatricromia	Generales	17x3	09	110.000	Publicado	M Cristina Puga	Salfa	2017-8-28 00:00:00	
+135446	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	6x6	11	16.065	Publicado	Claudio Romero	Muebles Alpina	2017-8-28 00:00:00	
+137119	CORP. JUAN SUBERCASEAUX	162 Palabras		Legal	x	14	40.176	Publicado	Karina Rivera		2017-8-28 00:00:00	
+136591	VELIZ CORTES JOSE A.			UIP	5x2	14	2.808	Publicado	Pedro Cortes		2017-8-28 00:00:00	
+137182	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	6x6	14	0	Arte	Marcela Tello-ElDia		2017-8-28 00:00:00	

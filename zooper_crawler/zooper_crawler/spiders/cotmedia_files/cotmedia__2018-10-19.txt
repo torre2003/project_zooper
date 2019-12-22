@@ -1,0 +1,39 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+168045	AUTOMOTORES GILDEMEISTER S.A.	Impar	Cuatricromia	Generales	35x6	05	998.520	Publicado	Kathine Soto-Stgo	2018-10-19 00:00:00	
+168046	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Cuatricromia	Medios Regionales	32x6	07	544.008	Publicado	Medios Regionales	2018-10-19 00:00:00	
+167629	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Cuatricromia	Medios Regionales	32x2	09	251.784	Publicado	Medios Regionales	2018-10-19 00:00:00	
+167433	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	10	0	Publicado	Marcela Tello-ElDia	2018-10-19 00:00:00	
+171040	OMD CHILE S.P.A.	Impar	Cuatricromia	Generales	17x6	11	400.000	Publicado	M Cristina Puga	2018-10-19 00:00:00	
+168014	COMERCIALIZADORA Y REMATES LABBE Y 	Impar	Blanco y negro	Generales	6x6	13	0	Publicado	Kathine Soto-Stgo	2018-10-19 00:00:00	
+164399	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	13	8.306	Publicado	Miguel Apey	2018-10-19 00:00:00	
+167816	MLF MAQUINARIA Y EQUIPOS LTDA.			UIP	5x2	14	17.875	Publicado	Paola Marquez	2018-10-19 00:00:00	
+163559	C.M. SOC. GASTRONOMICA LTDA.			UIP	5x2	14	7.208	Publicado		2018-10-19 00:00:00	
+168063	DIARIO EL DIA	Par	Blanco y negro	Generales	5x2	14	0	Publicado	Marcela Tello-ElDia	2018-10-19 00:00:00	
+164939	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	5x2	14	0	Publicado	Miguel Apey	2018-10-19 00:00:00	
+164198	SOC. DE GES			UIP	5x1	14	8.937	Publicado	Miguel Apey	2018-10-19 00:00:00	
+164338	ARMAQ SUBIRI S.A.			UIP	5x1	14	8.937	Publicado	Claudio Romero	2018-10-19 00:00:00	
+164430	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	4x5	14	20.508	Publicado	Miguel Apey	2018-10-19 00:00:00	
+164775	INVERSIONES ALTA CRUZ LTDA	Par	Blanco y negro	Generales	5x2	14	0	Publicado	Marcela Tello-ElDia	2018-10-19 00:00:00	
+164670	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	16	0	Publicado	Marcela Tello-ElDia	2018-10-19 00:00:00	
+168066	CLUB DEPORTES COQUIMBO UNIDO	Par	Cuatricromia	Generales	17x3	17	0	Publicado	Marcela Tello-ElDia	2018-10-19 00:00:00	
+168050	WOLF ASESORES SPA	Impar	Cuatricromia	Generales	18x3	17	217.647	Publicado	Pedro Jaime	2018-10-19 00:00:00	
+167851	ARZOBISPADO DE LA SERENA	Par	Blanco y negro	Generales	10x2	18	0	Publicado	Marcela Tello-ElDia	2018-10-19 00:00:00	
+167375	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	6x2	18	27.396	Publicado	Medios Regionales	2018-10-19 00:00:00	
+167534	CULTURA CIUDADANA S.P.A.	Impar	Cuatricromia	Generales	34x6	25	800.000	Publicado	Patricia Villena	2018-10-19 00:00:00	
+164635	PAMELA B. GONZALEZ LIZAMA COMERCIAL	Par	Blanco y negro	Generales	5x2	26	0	Publicado	Marcela Tello-ElDia	2018-10-19 00:00:00	
+164796	MARTIN JURE PATRICIA	Par	Cuatricromia	Generales	5x3	26	0	Publicado	Marcela Tello-ElDia	2018-10-19 00:00:00	
+164647	SOC. HOTELERA VICHUQUEN LTDA.	Par	Cuatricromia	Generales	5x3	26	0	Publicado	Marcela Tello-ElDia	2018-10-19 00:00:00	
+167648	JOS? AGUILERA SALINAS	Par	Cuatricromia	Generales	5x3	26	30.252	Publicado	Pedro Jaime	2018-10-19 00:00:00	
+164780	PILLA LA VACA	Par	Cuatricromia	Generales	5x2	26	0	Publicado	Marcela Tello-ElDia	2018-10-19 00:00:00	
+164713	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	26	0	Publicado	Marcela Tello-ElDia	2018-10-19 00:00:00	
+168059	UNIVERSIDAD CENTRAL DE CHILE	Par	Blanco y negro	Generales	17x3	27	0	Publicado	Jacqueline Torres	2018-10-19 00:00:00	
+165028	CAMPOS DEL NORTE S.A.	Par	Cuatricromia	Generales	17x3	27	0	Publicado	Patricia Villena	2018-10-19 00:00:00	
+168061	DIARIO EL DIA	Par	Blanco y negro	Generales	35x6	28	0	Publicado	Carolina Naranjo	2018-10-19 00:00:00	
+168065	DIARIO EL DIA	Par	Blanco y negro	Generales	5x6	29	0	Publicado	Marcela Tello-ElDia	2018-10-19 00:00:00	
+167463	DIARIO EL DIA	Par	Cuatricromia	Generales	34x6	32	0	Publicado	Marcela Tello-ElDia	2018-10-19 00:00:00	
+167352	ALEJANDRA GONZALEZ JURE	Par	Blanco y negro	Economico	5x2	EC-18	9.333	Publicado	Jacqueline Torres	2018-10-19 00:00:00	
+167882	ARANDA CA?AS ALFONSO	Par	Blanco y negro	Generales	13x3	EC-18	129.832	Publicado	Pedro Jaime	2018-10-19 00:00:00	
+164903	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Generales	5x2	EC-19	7.003	Publicado	Rene Pizarro	2018-10-19 00:00:00	
+168064	DIARIO EL DIA	Par	Blanco y negro	Generales	17x6	EC-19	0	Publicado	Marcela Tello-ElDia	2018-10-19 00:00:00	
+164851	HOTELERIA LUIS ALBERTO BERETTA KIEK	Par	Blanco y negro	Generales	5x2	EC-19	6.061	Publicado	Patricia Villena	2018-10-19 00:00:00	
+167953	WALMART CHILE S.A			Inserto	x	INS	2.200.000	Publicado	M Cristina Puga	2018-10-19 00:00:00	

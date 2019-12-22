@@ -1,0 +1,39 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+116984	INMOBILIARIA NUEVA SERENA	Home	Banner Cabecera	Web	x		500.000	Arte	Claudio Romero	2016-11-21 00:00:00	
+115857	CHRISTIAN LAUNITZ MARIN SERVICIOS M	Par	Blanco y negro	Generales	4x2	04	6.464	Arte	Jacqueline Torres	2016-11-21 00:00:00	
+116470	ARENA CHILE S.A.	Impar	Cuatricromia	Generales	17x6	05	340.000	Arte	M Cristina Puga	2016-11-21 00:00:00	
+116968	DIARIO EL DIA	Par	Cuatricromia	Generales	6x6	06	0	Arte	Marcela Tello-ElDia	2016-11-21 00:00:00	
+115127	HABITA INMOBILIARIA SA	Par	Cuatricromia	Generales	34x3	07	0	Arte	Miguel Apey	2016-11-21 00:00:00	
+115130	INMOBILIARIA KUPAL LTDA.	Par	Cuatricromia	Generales	17x3	09	0	Arte	Miguel Apey	2016-11-21 00:00:00	
+116969	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	09	0	Arte	Marcela Tello-ElDia	2016-11-21 00:00:00	
+116970	DIARIO EL DIA	Par	Cuatricromia	Generales	34x6	11	0	Arte	Marcela Tello-ElDia	2016-11-21 00:00:00	
+114841	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	8x2	13	34.784	Arte	Medios Regionales	2016-11-21 00:00:00	
+116923	ARZOBISPADO DE LA SERENA	Par	Blanco y negro	Generales	5x2	13	0	Arte	Marcela Tello-ElDia	2016-11-21 00:00:00	
+114973	LABORATORIO CLINICO STA. MARIA LA S	Par	Blanco y negro	Generales	6x2	13	7.470	Arte	Miguel Apey	2016-11-21 00:00:00	
+116506	DIARIO EL DIA	Par	Blanco y negro	Generales	5x2	14	0	Arte	Marcela Tello-ElDia	2016-11-21 00:00:00	
+111916	INVERSIONES VEINTINUEVE GRADOS	Par	Blanco y negro	Generales	5x2	14	9.280	Arte	Patricia Villena	2016-11-21 00:00:00	
+115116	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	5x2	14	0	Arte	Miguel Apey	2016-11-21 00:00:00	
+114927	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	14	8.306	Arte	Miguel Apey	2016-11-21 00:00:00	
+115372	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	16	0	Arte	Marcela Tello-ElDia	2016-11-21 00:00:00	
+116831	UNIVERSIDAD DE LA SERENA	Par	Cuatricromia	Generales	17x6	21	355.595	Arte	Jacqueline Torres	2016-11-21 00:00:00	
+116779	CAMARA CHILENA DE LA CONSTRUCCION A	Par	Blanco y negro	Generales	35x6	22	461.412	Arte	Jacqueline Torres	2016-11-21 00:00:00	
+115069	INVERSIONES E INMOBILIARIA P.A.T.  	Par	Cuatricromia	Generales	34x3	25	0	Arte	Miguel Apey	2016-11-21 00:00:00	
+116901	CALZADOS LA ESTRELLA ALPINA	Par	Cuatricromia	Generales	10x4	26	0	Arte	M Cristina Puga	2016-11-21 00:00:00	
+114295	GESTION NORTE	Par	Blanco y negro	Generales	5x2	26	9.280	Arte	Patricia Villena	2016-11-21 00:00:00	
+115666	ICEFOOD LIMITADA	Par	Blanco y negro	Generales	5x2	26	8.925	Arte	Patricia Villena	2016-11-21 00:00:00	
+116942	ARMAQ SUBIRI S.A.	Par	Blanco y negro	Generales	5x1	27	8.937	Arte	Claudio Romero	2016-11-21 00:00:00	
+115507	MAQUINARIA DE PANADERIA INDUSTRIA Y	Par	Blanco y negro	Generales	17x1	27	0	Arte	Rene Pizarro	2016-11-21 00:00:00	
+115548	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	30	0	Arte	Marcela Tello-ElDia	2016-11-21 00:00:00	
+114771	CERNA E HIJOS CIA. LTDA.	Par	Blanco y negro	Generales	5x1	30	4.468	Arte	Nadia Randolph	2016-11-21 00:00:00	
+116872	SOC. DE GES			UIP	5x1	30	8.937	Arte	Miguel Apey	2016-11-21 00:00:00	
+114958	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	4x5	30	20.508	Arte	Miguel Apey	2016-11-21 00:00:00	
+115158	SERVICIOS GASTRON?MICOS LA CASONA D	Par	Blanco y negro	Generales	5x2	30	10.725	Arte	Miguel Apey	2016-11-21 00:00:00	
+115211	SERVICIOS GENERALES GUAYACAN S.A	Par	Blanco y negro	Generales	4x2	31	6.666	Arte	Jacqueline Torres	2016-11-21 00:00:00	
+116275	VELIZ CORTES JOSE A.	Par	Blanco y negro	Generales	3x2	31	13.403	Arte	Pedro Cortes	2016-11-21 00:00:00	
+116454	DAVILA CARLOS 			UIP	5x1	32	8.937	Arte	Pedro Jaime	2016-11-21 00:00:00	
+116945	JDV REMATES S.A.	Par	Blanco y negro	Generales	6x3	EC-18	43.505	Arte	Pedro Jaime	2016-11-21 00:00:00	
+108956	HOTELERIA LUIS ALBERTO BERETTA KIEK	Par	Blanco y negro	Generales	5x2	EC-18	6.994	Arte	Patricia Villena	2016-11-21 00:00:00	
+115464	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Generales	5x1	EC-18	5.860	Arte	Rene Pizarro	2016-11-21 00:00:00	
+116917	SANTANDER G.R.C.	Par	Blanco y negro	Generales	34x4	EC-19	375.089	Arte	Pedro Jaime	2016-11-21 00:00:00	
+116962	CORPBANCA	659 Palabras		Legal	x	PROP	163.432	Arte	Pedro Jaime	2016-11-21 00:00:00	
+116828	INVERSIONES SAN JAVIER LTDA.	813 Palabras		Propiedades	x	PROP	130.080	Arte	Rene Pizarro	2016-11-21 00:00:00	

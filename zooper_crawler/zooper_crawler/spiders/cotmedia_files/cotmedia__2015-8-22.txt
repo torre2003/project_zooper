@@ -1,0 +1,41 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+81713	CHRISTIAN LAUNITZ MARIN SERVICIOS M	Par	Blanco y negro	Generales	3x2	04	6.440	Publicado	Jacqueline Torres	2015-8-22 00:00:00	
+82669	IMPORTADORA TRENTO LTDA.	Par	Cuatricromia	Generales	25x6	07	419.850	Publicado	Marcela Tello-ElDia	2015-8-22 00:00:00	
+82554	CAMARA CHILENA DE LA CONSTRUCCION A	Impar	Cuatricromia	Generales	35x6	09	891.448	Publicado	Kathine Soto-Stgo	2015-8-22 00:00:00	
+82747	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	10	0	Publicado	Marcela Tello-ElDia	2015-8-22 00:00:00	
+82446	CONSTRUCTORA HERMAN ROBLEDO CASTILL	Par	Cuatricromia	Generales	17x3	11	264.605	Publicado	Maria_Amelia Hermosilla	2015-8-22 00:00:00	
+82671	AUTOMOTORES GILDEMEISTER S.A.	Impar	Cuatricromia	Generales	17x3	11	180.413	Publicado	Kathine Soto-Stgo	2015-8-22 00:00:00	
+80676	DIARIO EL DIA	Par	Cuatricromia	Generales	12x2	12	0	Publicado	Marcela Tello-ElDia	2015-8-22 00:00:00	
+82562	SERV. VIVIENDA Y URBANIZACION IV RE	Par	Blanco y negro	Generales	10x2	12	58.989	Publicado	Marcela Tello-ElDia	2015-8-22 00:00:00	
+80876	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	12-15	8.306	Publicado	Miguel Apey	2015-8-22 00:00:00	
+80790	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	10x3	14	0	Publicado	Marcela Tello-ElDia	2015-8-22 00:00:00	
+82325	CENTRO MEDICO DENTAL STO. TOMAS LTD	Par	Blanco y negro	Generales	5x2	14	0	Publicado	Rene Pizarro	2015-8-22 00:00:00	
+82581	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	16	0	Publicado	Marcela Tello-ElDia	2015-8-22 00:00:00	
+82478	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	16	0	Publicado	Marcela Tello-ElDia	2015-8-22 00:00:00	
+82813	DIARIO EL DIA	Par	Blanco y negro	Generales	35x6	22	0	Publicado	Carolina Naranjo	2015-8-22 00:00:00	
+82666	DIARIO EL DIA	Par	Cuatricromia	Generales	34x6	23	0	Publicado	Marcela Tello-ElDia	2015-8-22 00:00:00	
+82552	CLUB DE DEPORTES LA SERENA	Par	Cuatricromia	Generales	17x3	26	0	Publicado	Marcela Tello-ElDia	2015-8-22 00:00:00	
+82670	AUTOMOTORES GILDEMEISTER S.A.	Impar	Cuatricromia	Generales	17x6	27	360.825	Publicado	Kathine Soto-Stgo	2015-8-22 00:00:00	
+79720	DIARIO EL DIA	Par	Cuatricromia	Generales	5x6	28	0	Publicado	Marcela Tello-ElDia	2015-8-22 00:00:00	
+81068	armaq			UIP	5x1	29	8.937	Publicado	Claudio Romero	2015-8-22 00:00:00	
+81024	hugo walter Tramujo Briosso			UIP	5x1	29	8.937	Publicado	Nadia Randolph	2015-8-22 00:00:00	
+80751	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	29	0	Publicado	Marcela Tello-ElDia	2015-8-22 00:00:00	
+80724	PILLA LA VACA	Par	Blanco y negro	Generales	5x2	29	0	Publicado	Marcela Tello-ElDia	2015-8-22 00:00:00	
+82732	AUTOMOTORES DEL NORTE	Par	Blanco y negro	Generales	5x1	29	7.427	Publicado	Miguel Apey	2015-8-22 00:00:00	
+80711	DIARIO EL DIA	Par	Blanco y negro	Generales	5x2	29	0	Publicado	Marcela Tello-ElDia	2015-8-22 00:00:00	
+77389	sociedad restau			UIP	5x2	29	17.875	Publicado	Jacqueline Torres	2015-8-22 00:00:00	
+82172	SOC. DE GESTION MEDITERRANEA			UIP	5x1	29	8.937	Publicado	Miguel Apey	2015-8-22 00:00:00	
+82347	LLANOS TORRES			UIP	5x1	29	8.937	Publicado	Pedro Jaime	2015-8-22 00:00:00	
+81232	SOC. COMERCIAL ALCAPARRA LTDA.	Par	Blanco y negro	Generales	5x2	29	10.440	Publicado	Patricia Villena	2015-8-22 00:00:00	
+82412	AREVALO CARMEN			UIP	5x1	29	8.937	Publicado	Pedro Jaime	2015-8-22 00:00:00	
+81673	SERVICIOS GENERALES GUAYACAN S.A	Par	Blanco y negro	Generales	3x2	30	6.451	Publicado	Jacqueline Torres	2015-8-22 00:00:00	
+82524	FALABELLA RETAIL S.A.	Impar	Cuatricromia	Contraportada	35x6	32	600.000	Publicado	M Cristina Puga	2015-8-22 00:00:00	
+82667	DIARIO EL DIA	Par	Blanco y negro	Generales	7x2	EC-17	0	Publicado	Marcela Tello-ElDia	2015-8-22 00:00:00	
+82544	HORMIGONES BICENTENARIO S.A.	Par	Blanco y negro	Generales	6x2	EC-17	50.536	Publicado	Pedro Jaime	2015-8-22 00:00:00	
+82683	GEOTEC BOYLES BROS S.A.	Par	Blanco y negro	Generales	13x2	EC-18	113.445	Publicado	Pedro Jaime	2015-8-22 00:00:00	
+81507	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Generales	5x1	EC-19	5.860	Publicado	Rene Pizarro	2015-8-22 00:00:00	
+81539	SOC. COMERCIAL VARGAS Y GIACOMET	Par	Blanco y negro	Generales	5x1	EC-19	5.860	Publicado	Rene Pizarro	2015-8-22 00:00:00	
+82523	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	6x2	EC-19	28.356	Publicado	Medios Regionales	2015-8-22 00:00:00	
+82418	AREVALO CARMEN			UIP	5x1	EC-19	8.937	Publicado	Pedro Jaime	2015-8-22 00:00:00	
+82624	GUILLERMO AHUMADA S.A.		1 pag.	Inserto	x	INS	600.000	Publicado	Patricia Villena	2015-8-22 00:00:00	
+82495	COMERCIAL E.C.C.S.A.  S.A.		9 a 24 pag.	Inserto	x	INS	459.000	Publicado	M Cristina Puga	2015-8-22 00:00:00	

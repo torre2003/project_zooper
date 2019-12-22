@@ -1,0 +1,9 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+124447	ARENA CHILE S.A.	Impar	Cuatricromia	Generales	17x6	03	230.000	Publicado	M Cristina Puga	VOLSWAGEN 	2017-3-5 00:00:00	
+124579	CAMAL MUSALEM TAPIA Y CIA.	Par	Blanco y negro	Generales	24x3	05	88.128	Publicado	Marcela Tello-ElDia		2017-3-5 00:00:00	
+103068	SOCIEDAD MEDICA Y CONSULTORA ESTETI		Cuatricromia	Guia	5x2	06	13.333	Publicado	Maria_Amelia Hermosilla	Diego Polanco	2017-3-5 00:00:00	
+124582	PRENSA DEL LIMARI LTDA.	Par	Blanco y negro	Generales	17x6	07	0	Arte	Marcela Tello-ElDia		2017-3-5 00:00:00	
+124428	LUIS MUNDACA URQUIETA	Par	Blanco y negro	Generales	10x2	08	25.000	Publicado	Claudio Romero	EN LA SERENA ..PARA TODA LA IV REGION...COMERCIAL MUNDACA...	2017-3-5 00:00:00	
+124211	OVALLE CASINO RESORT S.A	Par	Cuatricromia	Generales	25x4	09	171.372	Publicado	Paola Marquez	OCR Eventos verano	2017-3-5 00:00:00	
+124551	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	12x6	11	0	Publicado	Marcela Tello-ElDia	Avant Premiere - Club de Lectores	2017-3-5 00:00:00	
+124583	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	5x6	14	0	Arte	Marcela Tello-ElDia		2017-3-5 00:00:00	

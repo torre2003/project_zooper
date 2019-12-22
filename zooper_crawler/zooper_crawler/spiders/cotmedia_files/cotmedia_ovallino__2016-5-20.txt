@@ -1,0 +1,12 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+102339	AUTOMOTRIZ CARMONA	Par	Cuatricromia	Generales	6x6	01	23.076	Publicado	Marcela Tello-ElDia	Nissan March Active - Portada (si hay disponibilidad)	2016-5-20 00:00:00	
+102654	INMOBILIARIA NUEVA SERENA	Par	Cuatricromia	Generales	17x6	03	125.000	Publicado	Claudio Romero	PROYECTO EMPRESAS SERENA..REPITE DEL 18 DE MAYO.....	2016-5-20 00:00:00	
+101605	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	05	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2016-5-20 00:00:00	
+102621	DABED Y CIA. LTDA., SELIM	Par	Cuatricromia	Generales	6x6	06	23.076	Publicado	Nadia Randolph	ceramicas	2016-5-20 00:00:00	
+102844	SOC PERIODISTICA BANIC Y LANCCELOTT	Par	Blanco y negro	Generales	10x6	07	105.930	Publicado	Leonel Pizarro-Ovalle	seminario	2016-5-20 00:00:00	
+100225	SOC HOTELERA Y DE TURISMO HACIENDA 	Par	Cuatricromia	Generales	5x6	08	11.299	Publicado	Patricia Villena	Hacienda Juntas	2016-5-20 00:00:00	
+101451	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	6x6	09	16.065	Publicado	Claudio Romero	Muebles Alpina	2016-5-20 00:00:00	
+103016	INMOBILIARIA NUEVA SERENA	Par	Cuatricromia	Generales	17x6	11	0	Publicado	Claudio Romero	NOTA DE APOYO......LLANOS DE SAN LUIS..	2016-5-20 00:00:00	
+103082	PRENSA DEL LIMARI LTDA.	Par	Blanco y negro	Generales	6x6	13	0	Arte	Marcela Tello-ElDia		2016-5-20 00:00:00	
+101845	VALENTINA ANDREA PIZARRO VIERA			UIP	5x2	14	2.808	Publicado	Leonel Pizarro-Ovalle		2016-5-20 00:00:00	
+102982	EMPRESAS LA POLAR S.A.	Impar	Cuatricromia	Generales	35x6	16	252.000	Publicado	Patricia Villena	La Polar	2016-5-20 00:00:00	

@@ -1,0 +1,10 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+70639	SOCIEDAD DE RENTAS FALABELLA S.A	Impar	Cuatricromia	Generales	8x6	01	50.980	Publicado	M Cristina Puga	Open : huincha portada	2015-3-13 00:00:00	
+70567	ALVI SUPERMERCADOS MAYORISTAS S.A.	Impar	Cuatricromia	Generales	35x3	03	207.623	Publicado	Italo Retamal	m10 v13	2015-3-13 00:00:00	
+70080	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	10x3	05	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2015-3-13 00:00:00	
+70805	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x3	06	0	Publicado	Marcela Tello-ElDia		2015-3-13 00:00:00	
+69899	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	6x6	08	16.065	Publicado	Claudio Romero	Muebles Alpina	2015-3-13 00:00:00	
+70820	INMOBILIARIA NUEVA SERENA	Par	Cuatricromia	Generales	17x6	09	125.000	Publicado	Claudio Romero	proyecto san luis...nuevo...	2015-3-13 00:00:00	
+70997	DABED Y CIA. LTDA., SELIM	Impar	Cuatricromia	Generales	6x6	11	23.077	Publicado	Italo Retamal	DABED	2015-3-13 00:00:00	
+70512	renacer			UIP	5x2	12	2.808	Publicado	Leonel Pizarro-Ovalle	arrienda	2015-3-13 00:00:00	
+70850	MARIA ANTONIETA JADUE	Par	Blanco y negro	Economico	6x2	12	25.424	Publicado	Leonel Pizarro-Ovalle	remate ovalle	2015-3-13 00:00:00	

@@ -1,0 +1,34 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+151159	OVCO LTDA.	Par	Blanco y negro	Generales	5x1	06	21.057	Publicado	Miguel Apey	2018-3-3 00:00:00	
+151182	PILLA LA VACA	Par	Blanco y negro	Generales	5x2	06	0	Publicado	Marcela Tello-ElDia	2018-3-3 00:00:00	
+151347	JUAN PABLO CORRAL	Par	Blanco y negro	Generales	5x2	06	42.113	Publicado	Karina Rivera	2018-3-3 00:00:00	
+150956	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	5x2	06	0	Publicado	Miguel Apey	2018-3-3 00:00:00	
+151388	DIARIO EL DIA	Par	Cuatricromia	Generales	17x6	07	0	Publicado	Marcela Tello-ElDia	2018-3-3 00:00:00	
+151256	UNIVERSIDAD PEDRO DE VALDIVIA	Par	Blanco y negro	Generales	17x6	09	1.396.050	Publicado	M Cristina Puga	2018-3-3 00:00:00	
+150797	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	10	8.306	Publicado	Miguel Apey	2018-3-3 00:00:00	
+151318	DABED Y CIA. LTDA., SELIM	Par	Cuatricromia	Generales	6x6	10	27.690	Publicado	Karina Rivera	2018-3-3 00:00:00	
+150433	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Cuatricromia	Medios Regionales	16x3	11	224.767	Publicado	Medios Regionales	2018-3-3 00:00:00	
+151167	CIDERE IV REGION	Impar	Blanco y negro	Generales	16x3	11	164.949	Publicado	Pedro Jaime	2018-3-3 00:00:00	
+151259	INMOBILIARIA ELQUI S.A.	Par	Cuatricromia	Generales	9x6	12	0	Arte	M Cristina Puga	2018-3-3 00:00:00	
+151258	INMOBILIARIA ELQUI S.A.	Par	Cuatricromia	Generales	9x6	16	0	Arte	M Cristina Puga	2018-3-3 00:00:00	
+151376	FONDO DE SOLIDARIDAD E INVERSION SO	Impar	Cuatricromia	Generales	17x3	17	223.711	Publicado	Jacqueline Torres	2018-3-3 00:00:00	
+151389	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	17	0	Publicado	Marcela Tello-ElDia	2018-3-3 00:00:00	
+150924	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	6x6	23	51.666	Publicado	Claudio Romero	2018-3-3 00:00:00	
+148499	SOC. DE GES			UIP	5x1	24	8.937	Publicado	Miguel Apey	2018-3-3 00:00:00	
+148608	CERNA E HIJOS CIA. LTDA.	Par	Blanco y negro	Generales	5x1	24	3.574	Publicado	Nadia Randolph	2018-3-3 00:00:00	
+151289	C.M. SOC. GASTRONOMICA LTDA.			UIP	5x2	24	7.208	Publicado		2018-3-3 00:00:00	
+150767	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	4x5	24	20.508	Publicado	Miguel Apey	2018-3-3 00:00:00	
+151195	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	24	0	Publicado	Marcela Tello-ElDia	2018-3-3 00:00:00	
+151155	ILUSTRE MUNICIPALIDAD DE MONTE PATR	Par	Blanco y negro	Generales	18x2	25	103.093	Publicado	Jacqueline Torres	2018-3-3 00:00:00	
+151323	ASOC. GREMIAL MINERA LA HIGUERA	Par	Blanco y negro	Generales	6x2	25	50.536	Publicado	Pedro Jaime	2018-3-3 00:00:00	
+151078	SERV. VIVIENDA Y URBANIZACION IV RE	Par	Blanco y negro	Generales	10x2	25	57.274	Publicado	Jacqueline Torres	2018-3-3 00:00:00	
+151081	CAMPOS DEL NORTE S.A.	Par	Cuatricromia	Generales	17x3	27	0	Publicado	Patricia Villena	2018-3-3 00:00:00	
+150711	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	27	0	Publicado	Marcela Tello-ElDia	2018-3-3 00:00:00	
+151171	RIVANO MILCIADES	Par	Blanco y negro	Generales	2x2	EC-18	16.846	Publicado	Pedro Jaime	2018-3-3 00:00:00	
+151227	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	EC-19	0	Publicado	Marcela Tello-ElDia	2018-3-3 00:00:00	
+151331	CIA. DE LEASING TATTERSALL S.A.	Par	Blanco y negro	Generales	11x2	EC-20	69.487	Publicado	Pedro Jaime	2018-3-3 00:00:00	
+151017	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Economico	5x2	EC-20	15.161	Publicado	Rene Pizarro	2018-3-3 00:00:00	
+150112	SOC. COMERCIAL VARGAS Y GIACOMET			UIP	5x1	EC-20	7.149	Publicado	Rene Pizarro	2018-3-3 00:00:00	
+151014	Easy Retail S.A.			Inserto	x	INS	981.720	Publicado	Patricia Villena	2018-3-3 00:00:00	
+148956	COMERCIAL E.C.C.S.A.  S.A.		9 a 24 pag.	Inserto	x	INS	579.600	Publicado	M Cristina Puga	2018-3-3 00:00:00	
+151365	GONZALEZ RIVERA MANUEL RICARDO	578 Palabras		Propiedades	x	PROP	0	Arte	Pedro Jaime	2018-3-3 00:00:00	

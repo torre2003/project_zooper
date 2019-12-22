@@ -1,0 +1,9 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+102301	ILUSTRE MUNICIPALIDAD DE OVALLE	Par	Cuatricromia	Generales	34x6	03	0	Publicado	Marcela Tello-ElDia		2016-5-7 00:00:00	
+101861	PARQUES DE CHILE S.A	Par	Blanco y negro	Generales	17x3	05	138.062	Publicado	Rene Pizarro	Parques de Chile...( nuevo )	2016-5-7 00:00:00	
+100661	AGRICOLA NORTE TALINAY LTDA	Par	Blanco y negro	Generales	5x2	06	1.666	Publicado	Paola Marquez	UIP VENTA ALFALFA	2016-5-7 00:00:00	
+102211	CIA. MINERA SAN GERONIMO	Par	Blanco y negro	Generales	10x3	06	56.850	Publicado	M Cristina Puga	San geronimo	2016-5-7 00:00:00	
+101607	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	07	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2016-5-7 00:00:00	
+102179	SERVICIOS MEDICOS JOSE MIGUEL NU?EZ	Par	Blanco y negro	Generales	5x2	12	27.071	Publicado	Leonel Pizarro-Ovalle	provincial Ovalle FC	2016-5-7 00:00:00	
+100626	VALENTINA ANDREA PIZARRO VIERA			UIP	5x2	14	2.808	Publicado	Leonel Pizarro-Ovalle		2016-5-7 00:00:00	
+101736	SOCIEDAD DE RENTAS FALABELLA S.A	Impar	Cuatricromia	Generales	35x6	16	400.000	Publicado	M Cristina Puga	Open 	2016-5-7 00:00:00	

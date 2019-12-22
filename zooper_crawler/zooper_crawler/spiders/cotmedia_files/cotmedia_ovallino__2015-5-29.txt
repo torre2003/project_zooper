@@ -1,0 +1,9 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+75543	ALVI SUPERMERCADOS MAYORISTAS S.A.	Impar	Cuatricromia	Generales	35x3	03	207.623	Publicado	Italo Retamal	m10	2015-5-29 00:00:00	
+74520	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	10x3	07	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2015-5-29 00:00:00	
+76299	brillador			UIP	17x2	07	9.211	Publicado	Italo Retamal	alto brillador 	2015-5-29 00:00:00	
+76251	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x3	08	0	Publicado	Marcela Tello-ElDia	Vea terremoto en Cinemark	2015-5-29 00:00:00	
+74128	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	6x6	09	16.065	Publicado	Claudio Romero	Muebles Alpina	2015-5-29 00:00:00	
+76143	HIPERMERCADOS TOTTUS S.A	Impar	Cuatricromia	Generales	35x6	11	400.000	Publicado	M Cristina Puga	Tottus	2015-5-29 00:00:00	
+76786	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x6	11	0	Publicado	Marcela Tello-ElDia		2015-5-29 00:00:00	
+75085	SOCIEDAD DE RENTAS FALABELLA S.A	Impar	Cuatricromia	Contraportada	35x6	16	400.000	Publicado	M Cristina Puga	Open Plaza /	2015-5-29 00:00:00	

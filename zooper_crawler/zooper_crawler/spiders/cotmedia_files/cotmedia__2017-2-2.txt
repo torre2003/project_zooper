@@ -1,0 +1,32 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+122221	OMD CHILE S.A.	Impar	Cuatricromia	Generales	34x6	07	824.511	Publicado	Patricia Villena	2017-2-2 00:00:00	
+122115	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	08	0	Arte	Marcela Tello-ElDia	2017-2-2 00:00:00	
+122067	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Cuatricromia	Medios Regionales	32x6	09	518.048	Arte	Medios Regionales	2017-2-2 00:00:00	
+122155	DIARIO EL DIA	Par	Cuatricromia	Generales	10x3	10	0	Arte	Marcela Tello-ElDia	2017-2-2 00:00:00	
+122292	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	10	0	Arte	Marcela Tello-ElDia	2017-2-2 00:00:00	
+121748	DIARIO EL DIA	Par	Cuatricromia	Generales	34x6	11	0	Arte	Marcela Tello-ElDia	2017-2-2 00:00:00	
+122213	UNIVERSIDAD PEDRO DE VALDIVIA	Par	Cuatricromia	Generales	17x6	12	0	Publicado	M Cristina Puga	2017-2-2 00:00:00	
+121950	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	5x2	13	0	Publicado	Miguel Apey	2017-2-2 00:00:00	
+122293	PILLA LA VACA	Par	Blanco y negro	Generales	5x2	13	0	Arte	Marcela Tello-ElDia	2017-2-2 00:00:00	
+121868	LABORATORIO CLINICO STA. MARIA LA S	Par	Blanco y negro	Generales	6x2	13	7.470	Publicado	Miguel Apey	2017-2-2 00:00:00	
+121882	CASA DEL PERNO	Par	Blanco y negro	Generales	5x3	14	23.071	Publicado	Miguel Apey	2017-2-2 00:00:00	
+120528	SOC. COM. CENTRO NORTE LTDA.			UIP	5x1	14	7.600	Publicado	Pedro Cortes	2017-2-2 00:00:00	
+122241	DIARIO EL DIA	Par	Blanco y negro	Generales	5x2	14	0	Arte	Marcela Tello-ElDia	2017-2-2 00:00:00	
+122282	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	10x2	15	43.480	Arte	Medios Regionales	2017-2-2 00:00:00	
+122294	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	16	0	Arte	Marcela Tello-ElDia	2017-2-2 00:00:00	
+121800	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	16	8.306	Publicado	Miguel Apey	2017-2-2 00:00:00	
+122270	DIARIO EL DIA	Par	Cuatricromia	Generales	14x6	21	0	Arte	Marcela Tello-ElDia	2017-2-2 00:00:00	
+122268	DIARIO EL DIA	Par	Cuatricromia	Generales	35x6	24-25	0	Arte	Jacqueline Torres	2017-2-2 00:00:00	
+120930	CERNA E HIJOS CIA. LTDA.	Par	Blanco y negro	Generales	5x1	30	4.468	Publicado	Nadia Randolph	2017-2-2 00:00:00	
+121679	Rojas son			UIP	5x1	30	8.937	Publicado	M Cristina Puga	2017-2-2 00:00:00	
+119890	SOC. DE GES			UIP	5x1	30	8.937	Publicado	Miguel Apey	2017-2-2 00:00:00	
+122219	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	30	0	Arte	Marcela Tello-ElDia	2017-2-2 00:00:00	
+121841	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	4x5	30	20.508	Publicado	Miguel Apey	2017-2-2 00:00:00	
+121140	ARMAQ			UIP	5x1	30	8.937	Publicado	Claudio Romero	2017-2-2 00:00:00	
+122180	SERVICIOS GENERALES GUAYACAN S.A	Par	Blanco y negro	Generales	4x2	31	6.666	Publicado	Jacqueline Torres	2017-2-2 00:00:00	
+121100	VELIZ CORTES JOSE A.	Par	Blanco y negro	Generales	3x2	31	13.403	Publicado	Pedro Cortes	2017-2-2 00:00:00	
+122122	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Generales	5x1	EC-19	6.043	Publicado	Rene Pizarro	2017-2-2 00:00:00	
+109037	HOTELERIA LUIS ALBERTO BERETTA KIEK	Par	Blanco y negro	Generales	5x2	EC-19	6.994	Publicado	Patricia Villena	2017-2-2 00:00:00	
+122295	DIARIO EL DIA	Par	Blanco y negro	Generales	17x6	EC-19	0	Arte	Marcela Tello-ElDia	2017-2-2 00:00:00	
+122284	MONSERRAT NU?EZ PROPIEDADES LTDA.	470 Palabras		Propiedades	x	PROP	75.200	Publicado	Claudio Romero	2017-2-2 00:00:00	
+122283	BRAVO DE VON TROTT CARMEN	505 Palabras		Propiedades	x	PROP	80.800	Publicado	Claudio Romero	2017-2-2 00:00:00	

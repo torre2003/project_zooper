@@ -1,0 +1,7 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+158003	PRENSA DEL LIMARI LTDA.	Par	Blanco y negro	Generales	17x6	04	0	Arte	Marcela Tello-ElDia		2018-6-11 00:00:00	
+158004	PRENSA DEL LIMARI LTDA.	Par	Blanco y negro	Generales	6x6	05	0	Arte	Marcela Tello-ElDia		2018-6-11 00:00:00	
+156669	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	12x3	09	16.065	Publicado	Claudio Romero	Muebles alpina..	2018-6-11 00:00:00	
+157222	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	11	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2018-6-11 00:00:00	
+158005	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	6x6	14	0	Arte	Marcela Tello-ElDia	Cupones Descuentos Cinemark	2018-6-11 00:00:00	
+157995	SOCIEDAD EDUCACIONAL AGUAYMANTO LTD	Par	Cuatricromia	Generales	3x6	16	60.000	Publicado	Karina Rivera	AGUAYMANTO OVALLE (ZONA ESCOLAR)	2018-6-11 00:00:00	

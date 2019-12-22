@@ -1,0 +1,34 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+160432	CLARO CHILE S.A.	Impar	Cuatricromia	Generales	35x6	05	646.000	Publicado	Kathine Soto-Stgo	2018-7-30 00:00:00	
+160321	DIARIO EL DIA	Par	Cuatricromia	Generales	17x6	06	0	Publicado	Marcela Tello-ElDia	2018-7-30 00:00:00	
+159935	SANTO TOMAS S.A.	Impar	Cuatricromia	Generales	17x6	07	336.535	Publicado	Patricia Villena	2018-7-30 00:00:00	
+158599	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	08	0	Publicado	Marcela Tello-ElDia	2018-7-30 00:00:00	
+159607	INMOBIL. LA SERENA GOLF S.A.	Par	Cuatricromia	Generales	17x6	09	0	Publicado	Patricia Villena	2018-7-30 00:00:00	
+160303	ILUSTRE MUNICIPALIDAD DE COQUIMBO	Par	Blanco y negro	Generales	15x2	10	76.902	Publicado	Miguel Apey	2018-7-30 00:00:00	
+159809	MAX HERNANDEZ GALLARDO	Par	Cuatricromia	Generales	5x2	10	19.663	Publicado	Miguel Apey	2018-7-30 00:00:00	
+160481	FISCALIA REGIONAL DE COQUIMBO	Par	Blanco y negro	Generales	27x4	10	276.847	Publicado	Jacqueline Torres	2018-7-30 00:00:00	
+159168	HABITA INMOBILIARIA SA	Par	Cuatricromia	Generales	17x6	12	0	Publicado	Miguel Apey	2018-7-30 00:00:00	
+160026	INVERSIONES ALTA CRUZ LTDA	Par	Blanco y negro	Generales	5x2	13	0	Publicado	Marcela Tello-ElDia	2018-7-30 00:00:00	
+158664	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	13	0	Publicado	Marcela Tello-ElDia	2018-7-30 00:00:00	
+159055	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	4x5	13	20.508	Publicado	Miguel Apey	2018-7-30 00:00:00	
+160711	DIARIO EL DIA	Par	Blanco y negro	Generales	5x1	13	0	Publicado	Marcela Tello-ElDia	2018-7-30 00:00:00	
+158988	SOC. DE GES			UIP	5x1	13	8.937	Publicado	Miguel Apey	2018-7-30 00:00:00	
+159088	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	5x2	15	0	Publicado	Miguel Apey	2018-7-30 00:00:00	
+159749	DIARIO EL DIA	Par	Blanco y negro	Generales	5x2	15	0	Publicado	Marcela Tello-ElDia	2018-7-30 00:00:00	
+159098	LABORATORIO CLINICO STA. MARIA LA S	Par	Blanco y negro	Generales	6x2	15	7.470	Publicado	Miguel Apey	2018-7-30 00:00:00	
+160504	INMOBIL. LA SERENA GOLF S.A.	Par	Blanco y negro	Generales	5x2	18	0	Arte	Patricia Villena	2018-7-30 00:00:00	
+158372	C.M. SOC. GASTRONOMICA LTDA.			UIP	5x2	18	7.208	Publicado		2018-7-30 00:00:00	
+160135	ARZOBISPADO DE LA SERENA	Par	Blanco y negro	Generales	5x2	18	0	Publicado	Marcela Tello-ElDia	2018-7-30 00:00:00	
+159436	DIARIO EL DIA	Par	Cuatricromia	Generales	6x6	21	0	Publicado	Marcela Tello-ElDia	2018-7-30 00:00:00	
+159022	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	26	8.306	Publicado	Miguel Apey	2018-7-30 00:00:00	
+160490	BUALE GRUP LTDA.	Par	Cuatricromia	Generales	17x3	26	60.000	Publicado	Claudio Romero	2018-7-30 00:00:00	
+160473	MADERO COMUNICACIONES LTDA.	Par	Cuatricromia	Generales	17x3	26	0	Publicado	Marcela Tello-ElDia	2018-7-30 00:00:00	
+160716	DIARIO EL DIA	Par	Blanco y negro	Generales	10x6	29	0	Publicado	Marcela Tello-ElDia	2018-7-30 00:00:00	
+159776	TOYOTA CHILE S.A.	Impar	Cuatricromia	Generales	35x6	32	650.000	Publicado	Kathine Soto-Stgo	2018-7-30 00:00:00	
+160495	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	10x3	EC-23	68.490	Arte	Medios Regionales	2018-7-30 00:00:00	
+160423	CIDERE IV REGION	Par	Blanco y negro	Generales	12x2	EC-24	59.244	Publicado	Pedro Jaime	2018-7-30 00:00:00	
+160422	CIDERE IV REGION	Par	Blanco y negro	Generales	12x2	EC-24	59.244	Publicado	Pedro Jaime	2018-7-30 00:00:00	
+152141	HOTELERIA LUIS ALBERTO BERETTA KIEK	Par	Blanco y negro	Generales	5x2	EC-24	6.061	Publicado	Patricia Villena	2018-7-30 00:00:00	
+157715	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Generales	5x2	EC-24	7.003	Publicado	Rene Pizarro	2018-7-30 00:00:00	
+160470	INVERSIONES SAN JAVIER LTDA.	1167 Palabras		Propiedades	x	PROP	186.720	Publicado	Rene Pizarro	2018-7-30 00:00:00	
+160859	SOC. EDUCACIONAL GERONIMO RENDIC LT	Home	Banner Cabecera	Web	x	WEB	200.000	Publicado	Jacqueline Torres	2018-7-30 00:00:00	

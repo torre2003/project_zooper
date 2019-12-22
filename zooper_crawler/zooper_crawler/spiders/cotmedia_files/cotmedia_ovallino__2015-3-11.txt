@@ -1,0 +1,9 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+69872	SOC. AUTOMOTRIZ COVALSA CENTER LTDA	Par	Cuatricromia	Generales	5x6	01	51.405	Publicado	Claudio Romero	PORTADA ..COVALSA	2015-3-11 00:00:00	
+70078	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	10x3	05	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2015-3-11 00:00:00	
+70474	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	6x2	05	0	Publicado	Marcela Tello-ElDia	Publique ahora - ventas comerciales	2015-3-11 00:00:00	
+70510	renacer			UIP	5x2	07	2.808	Publicado	Leonel Pizarro-Ovalle	arrienda	2015-3-11 00:00:00	
+70779	GOTTREUX SALAS RUBEN	Par	Blanco y negro	Generales	8x2	07	32.015	Publicado	Leonel Pizarro-Ovalle	remate ovalle	2015-3-11 00:00:00	
+69898	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	6x6	09	0	Publicado	Claudio Romero	Muebles Alpina	2015-3-11 00:00:00	
+70858	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	34x6	11	0	Publicado	Marcela Tello-ElDia		2015-3-11 00:00:00	
+70849	MARIA ANTONIETA JADUE	Par	Blanco y negro	Economico	6x2	14	25.424	Publicado	Leonel Pizarro-Ovalle	remate ovalle	2015-3-11 00:00:00	

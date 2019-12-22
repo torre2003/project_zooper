@@ -1,0 +1,41 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+171354	CLARO CHILE S.A.	Impar	Cuatricromia	Generales	35x6	05	646.000	Publicado	Kathine Soto-Stgo	2018-12-5 00:00:00	
+171411	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	06	0	Arte	Marcela Tello-ElDia	2018-12-5 00:00:00	
+171356	ILUSTRE MUNICIPALIDAD DE ILLAPEL	Impar	Blanco y negro	Generales	18x3	06	161.363	Publicado	Pedro Jaime	2018-12-5 00:00:00	
+171346	TRANSBANK S.A.	Impar	Cuatricromia	Generales	17x6	07	313.167	Publicado	Kathine Soto-Stgo	2018-12-5 00:00:00	
+171401	DIARIO EL DIA	Par	Cuatricromia	Generales	3x6	08	0	Arte	Marcela Tello-ElDia	2018-12-5 00:00:00	
+170381	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	6x6	10	82.188	Arte	Medios Regionales	2018-12-5 00:00:00	
+170595	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Cuatricromia	Medios Regionales	16x6	11	324.840	Arte	Medios Regionales	2018-12-5 00:00:00	
+171402	DIARIO EL DIA	Par	Blanco y negro	Generales	5x1	13	0	Arte	Marcela Tello-ElDia	2018-12-5 00:00:00	
+170979	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	5x2	13	0	Publicado	Miguel Apey	2018-12-5 00:00:00	
+170890	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	13	8.306	Publicado	Miguel Apey	2018-12-5 00:00:00	
+170737	ARMAQ SUBIRI S.A.			UIP	5x1	13	8.937	Publicado	Claudio Romero	2018-12-5 00:00:00	
+168831	PAMELA B. GONZALEZ LIZAMA COMERCIAL	Par	Blanco y negro	Generales	5x2	13	0	Publicado	Marcela Tello-ElDia	2018-12-5 00:00:00	
+171199	PAMELA ASTORGA PAEZ	Par	Blanco y negro	Generales	5x2	14	0	Publicado		2018-12-5 00:00:00	
+171281	DIARIO EL DIA	Par	Cuatricromia	Generales	13x6	16	0	Arte	Marcela Tello-ElDia	2018-12-5 00:00:00	
+171404	DIARIO EL DIA	Par	Cuatricromia	Generales	17x6	17	0	Arte	Marcela Tello-ElDia	2018-12-5 00:00:00	
+168536	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	21	0	Publicado	Marcela Tello-ElDia	2018-12-5 00:00:00	
+168666	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	22	0	Publicado	Marcela Tello-ElDia	2018-12-5 00:00:00	
+170943	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	4x5	22	20.508	Publicado	Miguel Apey	2018-12-5 00:00:00	
+171187	C.M. SOC. GASTRONOMICA LTDA.			UIP	5x2	22	7.208	Publicado		2018-12-5 00:00:00	
+168725	INVERSIONES ALTA CRUZ LTDA	Par	Blanco y negro	Generales	5x2	22	0	Publicado	Marcela Tello-ElDia	2018-12-5 00:00:00	
+171319	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Cuatricromia	Medios Regionales	6x6	23	187.860	Arte	Medios Regionales	2018-12-5 00:00:00	
+171407	AGUAS DEL VALLE S.A.	Par	Cuatricromia	Generales	5x6	25	50.000	Publicado	Heinger Vega Torres	2018-12-5 00:00:00	
+171210	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	27	0	Arte	Marcela Tello-ElDia	2018-12-5 00:00:00	
+171250	CAMPOS DEL NORTE S.A.	Par	Cuatricromia	Generales	17x3	27	0	Arte	Patricia Villena	2018-12-5 00:00:00	
+171362	ARZOBISPADO DE LA SERENA	Par	Blanco y negro	Generales	10x2	28	0	Arte	Marcela Tello-ElDia	2018-12-5 00:00:00	
+171361	DIARIO EL DIA	Par	Blanco y negro	Generales	25x4	28	251.260	Publicado	Pedro Jaime	2018-12-5 00:00:00	
+171406	DIARIO EL DIA	Par	Blanco y negro	Generales	4x6	29	0	Arte	Marcela Tello-ElDia	2018-12-5 00:00:00	
+169588	SERVICIOS GENERALES GUAYACAN S.A	Par	Blanco y negro	Generales	3x2	29	6.812	Publicado	Jacqueline Torres	2018-12-5 00:00:00	
+171331	EMPRESAS LA POLAR S.A.	Impar	Cuatricromia	Generales	35x6	32	0	Arte	Patricia Villena	2018-12-5 00:00:00	
+171405	DIARIO EL DIA	Par	Blanco y negro	Generales	6x6	EC-18	0	Arte	Marcela Tello-ElDia	2018-12-5 00:00:00	
+171095	SERCOMAG SPA			UIP	5x1	EC-18	8.937	Publicado	Pedro Jaime	2018-12-5 00:00:00	
+171363	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Generales	5x2	EC-19	7.003	Publicado	Rene Pizarro	2018-12-5 00:00:00	
+166186	HOTELERIA LUIS ALBERTO BERETTA KIEK	Par	Blanco y negro	Generales	5x2	EC-19	6.061	Publicado	Patricia Villena	2018-12-5 00:00:00	
+171274	FERES REBOLLEDO ANA ISABEL	308 Palabras		Propiedades	x	PROP	49.328	Publicado	Pedro Jaime	2018-12-5 00:00:00	
+171273	GONZALEZ RIVERA MANUEL RICARDO	892 Palabras		Propiedades	x	PROP	142.857	Publicado	Pedro Jaime	2018-12-5 00:00:00	
+171272	RODRIGUEZ ROJAS MARCELO	661 Palabras		Propiedades	x	PROP	105.882	Publicado	Pedro Jaime	2018-12-5 00:00:00	
+171271	GONZALEZ ADAROS MARIA SOLEDAD	372 Palabras		Propiedades	x	PROP	59.664	Publicado	Pedro Jaime	2018-12-5 00:00:00	
+171270	LILIAN ELIZABETH OLIVARES LANAS	950 Palabras		Propiedades	x	PROP	152.101	Publicado	Pedro Jaime	2018-12-5 00:00:00	
+171269	FRANCISCO CORVETTO MIRANDA PROPIEDA	2699 Palabras		Propiedades	x	PROP	431.933	Publicado	Pedro Jaime	2018-12-5 00:00:00	
+171429	SALINAS Y FABRES S.A.	Home	Banner Cabecera	Web	x	WEB	500.000	Publicado	M Cristina Puga	2018-12-5 00:00:00	

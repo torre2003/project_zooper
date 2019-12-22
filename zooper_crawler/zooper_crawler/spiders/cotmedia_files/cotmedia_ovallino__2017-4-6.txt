@@ -1,0 +1,10 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+126702	SOCIEDAD DE RENTAS FALABELLA S.A	Par	Cuatricromia	Generales	8x6	01	50.980	Publicado	M Cristina Puga		2017-4-6 00:00:00	
+126705	SOCIEDAD DE RENTAS FALABELLA S.A	Par	Cuatricromia	Generales	17x6	03	200.000	Publicado	M Cristina Puga	Open Plaza - Mall Ovalle	2017-4-6 00:00:00	
+125315	AGRICOLA NORTE TALINAY LTDA	Par	Blanco y negro	Generales	5x2	07	1.666	Publicado	Paola Marquez	UIP VENTA ALFALFA	2017-4-6 00:00:00	
+126765	SOC. LIMARI COMERCIALIZADORA DEL AG	Par	Blanco y negro	Generales	15x2	07	70.620	Publicado	Rene Pizarro	SOLCOAGRO....Junta General Ordinaria de Accionistas....	2017-4-6 00:00:00	
+126770	FERNANDO SANCH			UIP	5x2	07	2.808	Publicado	Karina Rivera	AGUAS SUBTERRANEAS 	2017-4-6 00:00:00	
+126858	EMPRESA PERIODISTICA EL NORTE S.A.	Par	Blanco y negro	Medios Regionales	4x2	08	11.560	Arte	Medios Regionales	BBVA - Rol 8765-2016 - (57330)	2017-4-6 00:00:00	
+126882	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x6	09	0	Arte	Marcela Tello-ElDia		2017-4-6 00:00:00	
+126226	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	11	0	Arte	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2017-4-6 00:00:00	
+126881	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	5x6	14	0	Arte	Marcela Tello-ElDia		2017-4-6 00:00:00	

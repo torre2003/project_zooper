@@ -1,0 +1,24 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+59963	FORD MOTOR COMPANY CHILE LTDA.	Impar	Cuatricromia	Generales	17x6	05	376.513	Publicado	Kathine Soto-Stgo	2015-1-6 00:00:00	
+65430	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Blanco y negro	Generales	6x6	09	0	Publicado	Claudio Romero	2015-1-6 00:00:00	
+64407	AYEL LTDA.	Par	Cuatricromia	Generales	5x2	10	0	Publicado	Maria_Amelia Hermosilla	2015-1-6 00:00:00	
+66176	ENTEL PCS	Impar	Cuatricromia	Generales	25x5	11	384.510	Publicado	Kathine Soto-Stgo	2015-1-6 00:00:00	
+65280	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	13	8.306	Publicado	Miguel Apey	2015-1-6 00:00:00	
+66021	CLINICA SIMOLAB LTDA.	Par	Blanco y negro	Generales	5x2	15	8.936	Publicado	Nadia Randolph	2015-1-6 00:00:00	
+66103	TURISMO BAHIA MAGICA LTDA.	Par	Blanco y negro	Generales	7x2	15	51.268	Publicado	Pedro Jaime	2015-1-6 00:00:00	
+54592	ILUSTRE MUNICIPALIDAD DE LA SERENA	Par	Cuatricromia	Generales	5x6	16	0	Arte	Jacqueline Torres	2015-1-6 00:00:00	
+56151	ILUSTRE MUNICIPALIDAD DE COQUIMBO	Par	Cuatricromia	Generales	10x6	17	39.130	Publicado	Paola Marquez	2015-1-6 00:00:00	
+54718	ILUSTRE MUNICIPALIDAD DE VICUNA	Par	Cuatricromia	Generales	15x2	17	29.808	Publicado	Jacqueline Torres	2015-1-6 00:00:00	
+66194	DIARIO EL DIA	Par	Cuatricromia	Generales	35x6	21	0	Publicado	Marcela Tello-ElDia	2015-1-6 00:00:00	
+65324	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	4x5	29	20.508	Publicado	Miguel Apey	2015-1-6 00:00:00	
+65561	SOC. COMERCIAL ALCAPARRA LTDA.	Par	Blanco y negro	Generales	5x2	30	10.440	Publicado	Patricia Villena	2015-1-6 00:00:00	
+65186	SOC. DE GESTION MEDITERRANEA			UIP	5x1	30	8.937	Publicado	Miguel Apey	2015-1-6 00:00:00	
+66063	vargas 			UIP	5x1	30	8.937	Publicado	Rene Pizarro	2015-1-6 00:00:00	
+65376	armaq			UIP	5x1	30	8.937	Publicado	Claudio Romero	2015-1-6 00:00:00	
+65911	DIARIO EL DIA	Par	Blanco y negro	Generales	5x2	30	0	Publicado	Marcela Tello-ElDia	2015-1-6 00:00:00	
+65867	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	30	0	Publicado	Marcela Tello-ElDia	2015-1-6 00:00:00	
+65837	PILLA LA VACA	Par	Blanco y negro	Generales	5x2	30	0	Publicado	Marcela Tello-ElDia	2015-1-6 00:00:00	
+65521	SERVICIOS GENERALES GUAYACAN S.A	Par	Blanco y negro	Generales	3x2	31	6.666	Publicado	Jacqueline Torres	2015-1-6 00:00:00	
+65806	ROSA MARIA FERNANDEZ COBO	Par	Blanco y negro	Generales	7x2	EC-19	32.812	Publicado	M Cristina Puga	2015-1-6 00:00:00	
+65720	SOC. COMERCIAL VARGAS Y GIACOMET	Par	Blanco y negro	Generales	5x1	EC-19	5.860	Publicado	Rene Pizarro	2015-1-6 00:00:00	
+65690	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Generales	5x1	EC-19	5.860	Publicado	Rene Pizarro	2015-1-6 00:00:00	

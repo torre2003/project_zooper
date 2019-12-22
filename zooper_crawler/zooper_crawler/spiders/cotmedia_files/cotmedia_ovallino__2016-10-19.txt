@@ -1,0 +1,14 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+113678	SOCIEDAD DE RENTAS FALABELLA S.A	Par	Cuatricromia	Generales	8x6	01	50.980	Publicado	M Cristina Puga	Huincha open 	2016-10-19 00:00:00	
+114413	INVERSIONES PUNTA BLANCA SPA	Par	Blanco y negro	Generales	17x3	05	120.054	Publicado	Karina Rivera	Expo Navidad Ovalle	2016-10-19 00:00:00	
+114264	MARIA ANTONIETA JADUE	Par	Blanco y negro	Generales	12x2	05	45.197	Publicado	Leonel Pizarro-Ovalle	remates 	2016-10-19 00:00:00	
+112766	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	6x6	06	0	Publicado	Claudio Romero	Muebles Alpina	2016-10-19 00:00:00	
+113026	AGRICOLA NORTE TALINAY LTDA	Par	Blanco y negro	Generales	5x2	07	1.666	Publicado	Paola Marquez	UIP VENTA ALFALFA	2016-10-19 00:00:00	
+113398	castillo silva			UIP	10x2	07	5.630	Publicado	Karina Rivera	servicios dentales	2016-10-19 00:00:00	
+113627	sandra paola			UIP	17x2	07	9.211	Publicado	Karina Rivera	Reserva Temporada Piscina El Eden de la Chimba	2016-10-19 00:00:00	
+114216	Pedro Andres Monardez Elgueta			UIP	17x2	08	13.970	Publicado	Karina Rivera	Restaurant Riquisimo	2016-10-19 00:00:00	
+114140	OVALLE CASINO RESORT S.A	Par	Cuatricromia	Generales	25x4	08	0	Publicado	Paola Marquez	OCR Impar si se puede	2016-10-19 00:00:00	
+114448	OVALLE CASINO RESORT S.A	Par	Cuatricromia	Generales	25x4	09	0	Publicado	Paola Marquez	OCR Enfrentada a su otra media	2016-10-19 00:00:00	
+113202	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	10	0	Arte	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2016-10-19 00:00:00	
+114486	ISAAC VERGARA MILLA	Par	Cuatricromia	Generales	17x3	13	70.620	Publicado	Karina Rivera		2016-10-19 00:00:00	
+114481	DABED Y CIA. LTDA., SELIM	Par	Cuatricromia	Generales	6x6	14	23.076	Publicado	Marcela Tello-ElDia	Imperdibles Semana de Aniversario	2016-10-19 00:00:00	

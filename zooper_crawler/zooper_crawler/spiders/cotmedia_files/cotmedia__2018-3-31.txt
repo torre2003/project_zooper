@@ -1,0 +1,48 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+150984	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	5x2	04	0	Publicado	Miguel Apey	2018-3-31 00:00:00	
+151313	C.M. SOC. GASTRONOMICA LTDA.			UIP	5x2	04	7.208	Publicado		2018-3-31 00:00:00	
+151194	PILLA LA VACA	Par	Blanco y negro	Generales	5x2	04	0	Publicado	Marcela Tello-ElDia	2018-3-31 00:00:00	
+153350	DIARIO EL DIA	Par	Blanco y negro	Generales	8x6	04	0	Arte	Marcela Tello-ElDia	2018-3-31 00:00:00	
+153426	COMERCIALIZADORA S.A.	Impar	Cuatricromia	Generales	35x6	05	400.000	Publicado	Kathine Soto-Stgo	2018-3-31 00:00:00	
+152494	INMOBILIARIA S.M.C.	Par	Cuatricromia	Generales	9x6	06	206.944	Publicado	Miguel Apey	2018-3-31 00:00:00	
+153390	INMOBIL. LA SERENA GOLF S.A.	Par	Cuatricromia	Generales	17x6	07	288.660	Publicado	Patricia Villena	2018-3-31 00:00:00	
+151664	DABED Y CIA. LTDA., SELIM	Par	Cuatricromia	Generales	6x6	08	27.700	Publicado	Karina Rivera	2018-3-31 00:00:00	
+153412	ILUSTRE MUNICIPALIDAD DE PUNITAQUI	Par	Blanco y negro	Generales	15x3	10	128.865	Publicado	Jacqueline Torres	2018-3-31 00:00:00	
+152840	DIRECCION GENERAL DEL CREDITO PREND	Par	Blanco y negro	Generales	18x2	10	106.125	Publicado	Jacqueline Torres	2018-3-31 00:00:00	
+150823	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	11	8.306	Publicado	Miguel Apey	2018-3-31 00:00:00	
+153402	HERMANAS CALLEGARI LTDA.	Par	Cuatricromia	Generales	17x6	11	310.000	Publicado	Marcela Tello-ElDia	2018-3-31 00:00:00	
+151255	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	12	0	Publicado	Marcela Tello-ElDia	2018-3-31 00:00:00	
+151880	ILUSTRE MUNICIPALIDAD DE LA SERENA	Par	Blanco y negro	Generales	17x3	16	126.999	Publicado	M Cristina Puga	2018-3-31 00:00:00	
+153395		Par	Blanco y negro	Generales	6x1	16	25.268	Publicado	Marcela Tello-ElDia	2018-3-31 00:00:00	
+153443	DIARIO EL DIA	Par	Blanco y negro	Generales	34x6	20	0	Arte	Marcela Tello-ElDia	2018-3-31 00:00:00	
+152997	LUIS NAVARRO YA?EZ			UIP	5x1	22	8.937	Publicado	Pedro Jaime	2018-3-31 00:00:00	
+150910	ARMAQ SUBIRI S.A.			UIP	5x1	22	8.929	Publicado	Claudio Romero	2018-3-31 00:00:00	
+148635	CERNA E HIJOS CIA. LTDA.	Par	Blanco y negro	Generales	5x1	22	3.574	Publicado	Nadia Randolph	2018-3-31 00:00:00	
+151225	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	22	0	Publicado	Marcela Tello-ElDia	2018-3-31 00:00:00	
+150842	SOC. DE GES			UIP	5x1	22	8.937	Publicado	Miguel Apey	2018-3-31 00:00:00	
+150794	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	4x5	22	20.508	Publicado	Miguel Apey	2018-3-31 00:00:00	
+151407	DIARIO EL DIA	Par	Cuatricromia	Generales	17x6	23	0	Publicado	Marcela Tello-ElDia	2018-3-31 00:00:00	
+153314	CLUB DEPORTES COQUIMBO UNIDO	Par	Cuatricromia	Generales	17x3	24	0	Publicado	Marcela Tello-ElDia	2018-3-31 00:00:00	
+153073	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	25	0	Publicado	Marcela Tello-ElDia	2018-3-31 00:00:00	
+151097	CAMPOS DEL NORTE S.A.	Par	Cuatricromia	Generales	17x3	25	0	Publicado	Patricia Villena	2018-3-31 00:00:00	
+153387	REALE CHILE SEGUROS GENERALES S.A	Impar	Cuatricromia	Generales	35x6	27	1.000.000	Publicado	M Cristina Puga	2018-3-31 00:00:00	
+152273	DIARIO EL DIA	Par	Blanco y negro	Generales	12x2	28	0	Publicado	Pedro Jaime	2018-3-31 00:00:00	
+153338	JUAN SEBASTIAN BOU LAGUNAS	Par	Blanco y negro	Generales	5x2	31	13.750	Publicado	Heinger Vega Torres	2018-3-31 00:00:00	
+151797	ANDREA YAZIGI SFEIR	Par	Blanco y negro	Generales	5x2	31	8.404	Publicado	Heinger Vega Torres	2018-3-31 00:00:00	
+152909	FALABELLA RETAIL S.A.	Impar	Cuatricromia	Contraportada	35x6	32	600.000	Publicado	M Cristina Puga	2018-3-31 00:00:00	
+152722	FRANCISCO PIZARRO	Par	Blanco y negro	Generales	4x2	EC-17	33.691	Publicado	Pedro Jaime	2018-3-31 00:00:00	
+153404	AREYUNA AREYUNA NIBALDO	Par	Cuatricromia	Generales	8x3	EC-17	125.630	Publicado	Pedro Jaime	2018-3-31 00:00:00	
+153347	CIA. DE LEASING TATTERSALL S.A.	Par	Blanco y negro	Generales	11x2	EC-18	69.487	Publicado	Pedro Jaime	2018-3-31 00:00:00	
+151077	SOC. COMERCIAL VARGAS Y GIACOMET			UIP	5x1	EC-18	1.382	Publicado	Rene Pizarro	2018-3-31 00:00:00	
+153353	INVERSIONES VEINTINUEVE GRADOS	Par	Blanco y negro	Economico	10x2	EC-18	25.268	Publicado	Jacqueline Torres	2018-3-31 00:00:00	
+151045	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Economico	5x2	EC-19	15.170	Publicado	Rene Pizarro	2018-3-31 00:00:00	
+153442	DIARIO EL DIA	Par	Blanco y negro	Generales	12x6	EC-19	0	Arte	Marcela Tello-ElDia	2018-3-31 00:00:00	
+151686	HOTELERIA LUIS ALBERTO BERETTA KIEK	Par	Blanco y negro	Generales	5x2	EC-19	6.061	Publicado	Patricia Villena	2018-3-31 00:00:00	
+151884	COMERCIAL E.C.C.S.A.  S.A.		9 a 24 pag.	Inserto	x	INS	459.000	Publicado	M Cristina Puga	2018-3-31 00:00:00	
+153026	MONSERRAT NU?EZ PROPIEDADES LTDA.	120 Palabras		Legal	x	PROP	25.008	Publicado	Claudio Romero	2018-3-31 00:00:00	
+153027	BRAVO DE VON TROTT CARMEN	495 Palabras		Propiedades	x	PROP	79.200	Publicado	Claudio Romero	2018-3-31 00:00:00	
+152457	HABITA INMOBILIARIA SA	Par	Cuatricromia	Generales	34x6	RI-03	890.000	Publicado	Paola Marquez	2018-3-31 00:00:00	
+152642	INMOBILIARIA ELQUI S.A.	Impar	Cuatricromia	Generales	25x4	RI-04	500.000	Publicado	M Cristina Puga	2018-3-31 00:00:00	
+152636	INMOBILIARIA ECASA CHILE S.A.	Par	Cuatricromia	Generales	34x6	RI-05	850.000	Publicado	Paola Marquez	2018-3-31 00:00:00	
+152491	INMOBILIARIA GUZMAN LA VARILLA LTDA	Impar	Cuatricromia	Generales	35x6	RI-07	890.001	Publicado	M Cristina Puga	2018-3-31 00:00:00	
+151839	INMOBILIARIA NOVA S.A.	Par	Cuatricromia	Generales	34x6	RI-08	890.000	Publicado	Paola Marquez	2018-3-31 00:00:00	

@@ -1,0 +1,34 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+96690	CHRISTIAN LAURITZ MARIN	Par	Blanco y negro	Generales	4x2	05	0	Arte	Jacqueline Torres	2016-3-2 00:00:00	
+96951	DIARIO EL DIA	Par	Cuatricromia	Generales	13x6	08	0	Publicado	Marcela Tello-ElDia	2016-3-2 00:00:00	
+97026	DIARIO EL DIA	Par	Cuatricromia	Generales	12x6	10	0	Publicado	Marcela Tello-ElDia	2016-3-2 00:00:00	
+96749	DIARIO EL DIA	Par	Cuatricromia	Generales	17x6	11	0	Publicado	Marcela Tello-ElDia	2016-3-2 00:00:00	
+96614	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	12-17	8.306	Publicado	Miguel Apey	2016-3-2 00:00:00	
+96717	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	5x2	15	0	Publicado	Miguel Apey	2016-3-2 00:00:00	
+96333	SINDY GONZALEZ MARCHANT	Par	Blanco y negro	Generales	12x2	15	0	Publicado	Marcela Tello-ElDia	2016-3-2 00:00:00	
+96419	DIARIO EL DIA	Par	Blanco y negro	Generales	5x2	15	0	Publicado	Marcela Tello-ElDia	2016-3-2 00:00:00	
+96433	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	16	0	Publicado	Marcela Tello-ElDia	2016-3-2 00:00:00	
+96785	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	10x3	19	0	Publicado	Marcela Tello-ElDia	2016-3-2 00:00:00	
+96687	SOC. COMERCIAL ALCAPARRA LTDA.	Par	Blanco y negro	Generales	5x2	19	10.440	Publicado	Patricia Villena	2016-3-2 00:00:00	
+96775	DIARIO EL DIA	Par	Blanco y negro	Generales	35x6	24	0	Publicado	Carolina Naranjo	2016-3-2 00:00:00	
+96854	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	30	0	Publicado	Marcela Tello-ElDia	2016-3-2 00:00:00	
+96983	DIARIO EL DIA	Par	Cuatricromia	Generales	10x2	30	0	Publicado	Marcela Tello-ElDia	2016-3-2 00:00:00	
+96693	arm			UIP	5x1	30	8.937	Publicado	Claudio Romero	2016-3-2 00:00:00	
+91321	Alejandro ra			UIP	5x1	30	4.467	Publicado	M Cristina Puga	2016-3-2 00:00:00	
+96388	GALLARDO Y OTRO			UIP	5x1	30	8.937	Publicado	Pedro Jaime	2016-3-2 00:00:00	
+94272	SOC. DE GESTION MEDITERRANEA			UIP	5x1	30	8.937	Publicado	Miguel Apey	2016-3-2 00:00:00	
+96645	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	4x5	30	20.508	Publicado	Miguel Apey	2016-3-2 00:00:00	
+95265	MAURICIO ALEJANDRO BUGUENO CONTRERA	Par	Blanco y negro	Generales	5x1	30	4.468	Publicado	Nadia Randolph	2016-3-2 00:00:00	
+96603	arevalo CARMEN			UIP	5x1	30	8.937	Publicado	Pedro Jaime	2016-3-2 00:00:00	
+95817	CERNA E HIJOS CIA. LTDA.	Par	Blanco y negro	Generales	5x1	30	4.467	Publicado	Nadia Randolph	2016-3-2 00:00:00	
+96689	SERVICIOS GENERALES GUAYACAN S.A	Par	Blanco y negro	Generales	4x2	31	6.452	Publicado	Jacqueline Torres	2016-3-2 00:00:00	
+97036	FUNDACION EDUCACIONAL THE INTERNATI	Par	Blanco y negro	Generales	5x2	31	25.210	Publicado	Patricia Villena	2016-3-2 00:00:00	
+96683	CORPBANCA	529 Palabras		Legal	x	EC	131.428	Publicado	Pedro Jaime	2016-3-2 00:00:00	
+97023	CHRISTIAN EDUARDO BRAVO BUSTOS	817 Palabras		Legal	x	EC-21	202.773	Publicado	Pedro Jaime	2016-3-2 00:00:00	
+94785	HOTELERIA LUIS ALBERTO BERETTA KIEK	Par	Blanco y negro	Generales	5x2	EC-21	8.937	Publicado	Patricia Villena	2016-3-2 00:00:00	
+96904	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Generales	5x1	EC-21	5.860	Publicado	Rene Pizarro	2016-3-2 00:00:00	
+96609	AREVALO CARMEN			UIP	5x1	EC-21	8.937	Publicado	Pedro Jaime	2016-3-2 00:00:00	
+97084	DIARIO EL DIA	Par	Cuatricromia	Generales	17x6	EC-21	0	Publicado	Marcela Tello-ElDia	2016-3-2 00:00:00	
+97073	ASESORIAS E INVERSIONES HUNTER SPAS	119 Palabras		Propiedades	x	PROP	19.040	Publicado	Pedro Jaime	2016-3-2 00:00:00	
+97074	JACQUELINE BARRERA BARRAZA	1013 Palabras		Propiedades	x	PROP	162.080	Publicado	Pedro Jaime	2016-3-2 00:00:00	
+97083	BAKULIC RESTAURANT	65 Palabras		Propiedades	x	PROP	10.210	Publicado	Miguel Apey	2016-3-2 00:00:00	

@@ -1,0 +1,18 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+113156	ILUSTRE MUNICIPALIDAD DE OVALLE	Par	Cuatricromia	Generales	34x6	03	250.003	Publicado	Marcela Tello-ElDia		2016-10-1 00:00:00	
+113011	AGRICOLA NORTE TALINAY LTDA	Par	Blanco y negro	Generales	5x2	05	1.666	Publicado	Paola Marquez	UIP VENTA ALFALFA	2016-10-1 00:00:00	
+112729	OVALLE CASINO RESORT S.A	Par	Cuatricromia	Generales	25x4	06	151.598	Publicado	Paola Marquez		2016-10-1 00:00:00	
+112732	OVALLE CASINO RESORT S.A	Par	Cuatricromia	Generales	35x6	07	318.355	Publicado	Paola Marquez		2016-10-1 00:00:00	
+112940	SERVICIO ELECTORAL	Impar	Blanco y negro	Generales	35x6	09	511.047	Publicado	Jacqueline Torres	LISTADO VOCALES DE MESA	2016-10-1 00:00:00	
+112947	SERVICIO ELECTORAL	Par	Blanco y negro	Generales	35x6	10	433.732	Publicado	Jacqueline Torres	LISTADO VOCALES DE MESA-LIMARI	2016-10-1 00:00:00	
+112946	SERVICIO ELECTORAL	Impar	Blanco y negro	Generales	35x6	11	511.047	Publicado	Jacqueline Torres	LISTADO VOCALES DE MESA-LIMARI	2016-10-1 00:00:00	
+112945	SERVICIO ELECTORAL	Par	Blanco y negro	Generales	35x6	12	433.731	Publicado	Jacqueline Torres	LISTADO VOCALES DE MESA-LIMARI	2016-10-1 00:00:00	
+112944	SERVICIO ELECTORAL	Impar	Blanco y negro	Generales	35x6	13	511.047	Publicado	Jacqueline Torres	LISTADO VOCALES DE MESA	2016-10-1 00:00:00	
+112943	SERVICIO ELECTORAL	Par	Blanco y negro	Generales	35x6	14	433.731	Publicado	Jacqueline Torres	LISTADO VOCALES DE MESA	2016-10-1 00:00:00	
+112942	SERVICIO ELECTORAL	Impar	Blanco y negro	Generales	35x6	15	511.047	Publicado	Jacqueline Torres	LISTADO VOCALES DE MESA	2016-10-1 00:00:00	
+112941	SERVICIO ELECTORAL	Par	Blanco y negro	Generales	35x6	16	433.731	Publicado	Jacqueline Torres	LISTADO VOCALES DE MESA-LIMARI	2016-10-1 00:00:00	
+113212	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	18	0	Arte	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2016-10-1 00:00:00	
+113382	castillo silva			UIP	10x2	19	5.630	Publicado	Karina Rivera	servicios dentales	2016-10-1 00:00:00	
+113296	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	15x6	20	0	Arte	Marcela Tello-ElDia	Festival Aereo	2016-10-1 00:00:00	
+113453	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x6	21	0	Arte	Marcela Tello-ElDia		2016-10-1 00:00:00	
+113332	DIAZ ACEVEDO HECTOR	20  Palabras		Propiedades	x	PROP	3.361	Publicado	Kathine Soto-Stgo	$21.000.000, CALLE LIBERTAD, 225M2	2016-10-1 00:00:00	

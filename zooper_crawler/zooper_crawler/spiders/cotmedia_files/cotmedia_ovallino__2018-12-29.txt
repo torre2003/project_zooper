@@ -1,0 +1,11 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+172702	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	3x6	03	0	Arte	Marcela Tello-ElDia	Periodismo en todos los sentidos...	2018-12-29 00:00:00	
+172700	PRENSA DEL LIMARI LTDA.	Par	Blanco y negro	Generales	17x6	05	0	Arte	Marcela Tello-ElDia		2018-12-29 00:00:00	
+172263	EMPRESA PERIODISTICA EL NORTE S.A.	Par	Blanco y negro	Medios Regionales	10x2	06	30.340	Publicado	Medios Regionales	Remate Rol C-8765-2016 - Scotiabank Chile - (192847)	2018-12-29 00:00:00	
+172271	CHRISTIAN LOYOLA ESPINOZA			UIP	10x2	06	7.882	Publicado	Karina Rivera	CELE CONSTRUCTORA	2018-12-29 00:00:00	
+172276	INSTITUTO DE DESARROLLO AGROPECUARI	Par	Blanco y negro	Generales	17x6	08	187.764	Publicado	Jacqueline Torres	DIFUSION PROGRAMA ALIANZAS PRODUCTIVAS	2018-12-29 00:00:00	
+172598	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x3	09	0	Arte	Marcela Tello-ElDia		2018-12-29 00:00:00	
+172121	INSTITUTO DE DESARROLLO AGROPECUARI	Par	Blanco y negro	Generales	19x3	09	95.799	Publicado	Jacqueline Torres	CONCURSO/REPITE DEL JUEVES 27 DICIEMBRE	2018-12-29 00:00:00	
+172229	DABED Y CIA. LTDA., SELIM	Par	Cuatricromia	Generales	6x6	11	23.076	Publicado	Karina Rivera	O4	2018-12-29 00:00:00	
+168613	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	14	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2018-12-29 00:00:00	
+172701	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	34x6	16	0	Arte	Marcela Tello-ElDia		2018-12-29 00:00:00	

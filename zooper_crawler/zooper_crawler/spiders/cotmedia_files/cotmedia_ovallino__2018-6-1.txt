@@ -1,0 +1,17 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+157390	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	6x3	03	0	Publicado	Marcela Tello-ElDia	Convenio Dabed y Diario El Ovallino	2018-6-1 00:00:00	
+157167	CORP. JUAN SUBERCASEAUX	Par	Blanco y negro	Generales	8x2	04	32.015	Publicado	Claudio Romero	COLEGIO DE EXCELENCIA..	2018-6-1 00:00:00	
+156917	FERNANDO DOMINGUEZ	Par	Blanco y negro	Generales	8x2	04	34.044	Publicado	Karina Rivera	COMITE RURAL AGUA POTABLE CAREN	2018-6-1 00:00:00	
+157366	JUNTA DE VIGILANCIA DEL RIO RAPEL Y	Par	Blanco y negro	Generales	8x2	05	0	Arte	Karina Rivera	CITACION EXTRAORDINARIA RIO MOSTAZAL	2018-6-1 00:00:00	
+157367	JUNTA DE VIGILANCIA DEL RIO RAPEL Y	Par	Blanco y negro	Generales	8x2	05	32.015	Publicado	Karina Rivera	CITACION ORDINARIA RIO MOSTAZAL	2018-6-1 00:00:00	
+157400	ANDREA YAZIGI SFEIR	Par	Blanco y negro	Generales	5x2	05	2.360	Publicado	Heinger Vega Torres	UIP  Abogada Yazigi Sfeir	2018-6-1 00:00:00	
+156651	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Blanco y negro	Generales	12x3	06	16.065	Publicado	Claudio Romero	Muebles alpina..	2018-6-1 00:00:00	
+157237	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	08	0	Arte	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2018-6-1 00:00:00	
+156950	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x3	09	0	Publicado	Marcela Tello-ElDia	Cartelera Cinemark	2018-6-1 00:00:00	
+156928	DABED Y CIA. LTDA., SELIM	Par	Cuatricromia	Generales	6x6	11	23.076	Publicado	Karina Rivera	HELECTRICA 2	2018-6-1 00:00:00	
+157427	PRENSA DEL LIMARI LTDA.	Par	Blanco y negro	Generales	6x6	12	0	Arte	Marcela Tello-ElDia		2018-6-1 00:00:00	
+156924	MOP OOPP	227 Palabras		Legal	x	14	56.296	Publicado	Karina Rivera		2018-6-1 00:00:00	
+156923	MOP OOPP	222 Palabras		Legal	x	14	55.056	Publicado	Karina Rivera		2018-6-1 00:00:00	
+156922	MOP OOPP	227 Palabras		Legal	x	14	56.296	Publicado	Karina Rivera		2018-6-1 00:00:00	
+156941	EMPRESAS LA POLAR S.A.	Par	Cuatricromia	Contraportada	35x6	16	252.000	Publicado	Patricia Villena	Contraportada La Polar	2018-6-1 00:00:00	
+155324	INMOBILIARIA CALEUCHE LTDA	Home	Box Derecho	Web	x	WEB	200.000	Publicado	Paola Marquez	Box Beltec	2018-6-1 00:00:00	

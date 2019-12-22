@@ -1,0 +1,42 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+100750	SOCIEDAD DE RENTAS FALABELLA S.A	Par	Cuatricromia	Generales	8x2	01	52.000	Publicado	M Cristina Puga	2016-4-28 00:00:00	
+99420	CHRISTIAN LAURITZ MARIN	Par	Blanco y negro	Generales	4x2	04	8.062	Publicado	Jacqueline Torres	2016-4-28 00:00:00	
+100751	SOCIEDAD DE RENTAS FALABELLA S.A	Impar	Cuatricromia	Generales	5x6	05	85.715	Publicado	M Cristina Puga	2016-4-28 00:00:00	
+98399	CAMARA CHILENA DE LA CONSTRUCCION A	Impar	Cuatricromia	Generales	35x6	09	645.977	Publicado	Jacqueline Torres	2016-4-28 00:00:00	
+100329	DIARIO EL DIA	Par	Cuatricromia	Generales	10x6	10	0	Publicado	Marcela Tello-ElDia	2016-4-28 00:00:00	
+101257	JUNTA NACIONAL DE JARDINES INF. REG	Impar	Cuatricromia	Generales	35x6	11	732.107	Publicado	Jacqueline Torres	2016-4-28 00:00:00	
+101254	SERVICIO ELECTORAL	Par	Blanco y negro	Generales	23x3	12	176.875	Publicado	Jacqueline Torres	2016-4-28 00:00:00	
+99000	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	5x2	13	0	Publicado	Miguel Apey	2016-4-28 00:00:00	
+98911	LABORATORIO CLINICO STA. MARIA LA S	Par	Blanco y negro	Generales	6x2	13	7.470	Publicado	Miguel Apey	2016-4-28 00:00:00	
+97720	DIARIO EL DIA	Par	Blanco y negro	Generales	5x2	13	0	Publicado	Marcela Tello-ElDia	2016-4-28 00:00:00	
+101260	COMUNIDAD DE AGUAS CANAL RINCON O M	Par	Blanco y negro	Generales	6x2	14	37.353	Publicado	Pedro Jaime	2016-4-28 00:00:00	
+101262	TESORERIA REGIONAL DE LA SERENA	Par	Blanco y negro	Generales	10x2	14	73.240	Publicado	Marcela Tello-ElDia	2016-4-28 00:00:00	
+99142	JUAN LUIS NARANJO DE LA RIVERA	Par	Blanco y negro	Generales	10x2	15	0	Publicado	Marcela Tello-ElDia	2016-4-28 00:00:00	
+98920	CASA DEL PERNO	Par	Blanco y negro	Generales	5x3	15	23.071	Publicado	Miguel Apey	2016-4-28 00:00:00	
+101070	DIARIO EL DIA	Par	Cuatricromia	Generales	17x6	16	0	Publicado	Marcela Tello-ElDia	2016-4-28 00:00:00	
+101277	INMOBIL. LA SERENA GOLF S.A.	Impar	Cuatricromia	Generales	17x6	17	0	Publicado	Patricia Villena	2016-4-28 00:00:00	
+98872	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	18	8.306	Publicado	Miguel Apey	2016-4-28 00:00:00	
+99066	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	18	0	Publicado	Marcela Tello-ElDia	2016-4-28 00:00:00	
+100165	SOC HOTELERA Y DE TURISMO HACIENDA 	Par	Cuatricromia	Generales	5x6	23	0	Publicado	Patricia Villena	2016-4-28 00:00:00	
+101054	DIARIO EL DIA	Par	Blanco y negro	Generales	35x6	24	0	Publicado	Carolina Naranjo	2016-4-28 00:00:00	
+100152	DABED Y CIA. LTDA., SELIM	Par	Cuatricromia	Generales	7x6	27	27.691	Publicado	Marcela Tello-ElDia	2016-4-28 00:00:00	
+101010	AREVALO CARMEN 			UIP	5x1	28	8.937	Publicado	Pedro Jaime	2016-4-28 00:00:00	
+95867	CERNA E HIJOS CIA. LTDA.	Par	Blanco y negro	Generales	5x1	28	4.467	Publicado	Nadia Randolph	2016-4-28 00:00:00	
+98901	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	4x5	28	20.508	Publicado	Miguel Apey	2016-4-28 00:00:00	
+98842	SOC. DE GESTION MEDITERRANEA			UIP	5x1	28	8.937	Publicado	Miguel Apey	2016-4-28 00:00:00	
+98961	armaq			UIP	5x1	28	8.937	Publicado	Claudio Romero	2016-4-28 00:00:00	
+99128	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	29	0	Publicado	Marcela Tello-ElDia	2016-4-28 00:00:00	
+99931	SERVICIOS GASTRON?MICOS LA CASONA D	Par	Blanco y negro	Generales	5x2	29	10.725	Publicado	Miguel Apey	2016-4-28 00:00:00	
+99151	PILLA LA VACA	Par	Blanco y negro	Generales	5x2	29	0	Publicado	Marcela Tello-ElDia	2016-4-28 00:00:00	
+99196	DIARIO EL DIA	Par	Blanco y negro	Generales	5x2	29	0	Publicado	Marcela Tello-ElDia	2016-4-28 00:00:00	
+98724	SOC. COMERCIAL ALCAPARRA LTDA.	Par	Blanco y negro	Generales	5x2	29	10.440	Publicado	Patricia Villena	2016-4-28 00:00:00	
+100514	SOC.COMERCIAL ALTOS LA SERENA LTDA	Par	Blanco y negro	Generales	5x2	29	8.937	Publicado	Nadia Randolph	2016-4-28 00:00:00	
+101274	ILUSTRE MUNICIPALIDAD DE COQUIMBO	Par	Blanco y negro	Generales	12x2	30	61.522	Publicado	Miguel Apey	2016-4-28 00:00:00	
+99391	SERVICIOS GENERALES GUAYACAN S.A	Par	Blanco y negro	Generales	4x2	30	8.062	Publicado	Jacqueline Torres	2016-4-28 00:00:00	
+101024	INMOBIL. E INVERSIONES AREYUNA E HI	Par	Cuatricromia	Generales	35x6	32	500.000	Publicado	Claudio Romero	2016-4-28 00:00:00	
+101266	SANTANDER G.R.C.	973 Palabras		Legal	x	EC	241.513	Publicado	Pedro Jaime	2016-4-28 00:00:00	
+101267	SANTANDER G.R.C.	721 Palabras		Legal	x	EC	178.992	Publicado	Pedro Jaime	2016-4-28 00:00:00	
+100378	DIARIO EL DIA	Par	Blanco y negro	Generales	5x2	EC-20	0	Publicado	Marcela Tello-ElDia	2016-4-28 00:00:00	
+100889	HOTELERIA LUIS ALBERTO BERETTA KIEK	Par	Blanco y negro	Generales	5x2	EC-21	8.937	Publicado	Patricia Villena	2016-4-28 00:00:00	
+99248	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Generales	5x1	EC-21	5.860	Publicado	Rene Pizarro	2016-4-28 00:00:00	
+99659	DABED Y CIA. LTDA., SELIM		1 pag.	Inserto	x	INS	62.118	Publicado	Marcela Tello-ElDia	2016-4-28 00:00:00	

@@ -1,0 +1,13 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+140539	EMPRESA PERIODISTICA EL NORTE S.A.	Par	Cuatricromia	Medios Regionales	32x6	03	349.693	Publicado	Medios Regionales		2017-10-12 00:00:00	
+136074	INVERSIONES TANGUEMAR LIMITADA			UIP	5x2	05	2.808	Publicado	Patricia Villena	Tanguemar	2017-10-12 00:00:00	
+138326	CENTRO DE SALUD PORTALES LTDA			UIP	5x4	05	4.504	Publicado	Karina Rivera		2017-10-12 00:00:00	
+140861	CORP. JUAN SUBERCASEAUX	Par	Blanco y negro	Generales	5x2	06	23.540	Publicado	Claudio Romero	AUXILIAR DE ASEO....REPITE DEL 11/10..	2017-10-12 00:00:00	
+140515	JACQUELINE JOFRE VILLANUEVA			UIP	5x2	07	2.808	Publicado	Karina Rivera	CORTINAS ROLLER OVALLE	2017-10-12 00:00:00	
+137229	TEODORO AGUIRRE ALVAREZ			UIP	5x2	07	2.808	Publicado	Karina Rivera	REGIONALISTA VERDE SOCIAL	2017-10-12 00:00:00	
+140590	ESTUDIO JURIDICO OLIVARES Y CIA. SP	Par	Blanco y negro	Generales	5x2	07	2.000	Publicado	Jacqueline Torres	ESTUDIO JURIDICO OLIVARES	2017-10-12 00:00:00	
+140913	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x3	08	0	Arte	Marcela Tello-ElDia	Vea en Cinemark - Condorito	2017-10-12 00:00:00	
+139918	EMPRESA PERIODISTICA EL NORTE S.A.	Par	Cuatricromia	Medios Regionales	16x6	09	210.973	Publicado	Medios Regionales	Impar - Banco Central de Chile - (166633)	2017-10-12 00:00:00	
+140953	SALINAS Y FABRES S.A.	Impar	Cuatricromia	Generales	17x6	11	218.000	Publicado	M Cristina Puga	salfa 	2017-10-12 00:00:00	
+140201	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	14	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2017-10-12 00:00:00	
+140917	VELIZ CORTES JOSE A.			UIP	5x2	14	3.919	Publicado	Pedro Cortes		2017-10-12 00:00:00	

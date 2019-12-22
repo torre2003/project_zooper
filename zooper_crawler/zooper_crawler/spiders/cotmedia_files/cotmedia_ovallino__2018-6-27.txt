@@ -1,0 +1,11 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+158494	ILUSTRE MUNICIPALIDAD DE OVALLE	Par	Cuatricromia	Generales	17x3	03	182.073	Publicado	Karina Rivera	RECICLAJE BOTELLAS DE VIDRIO	2018-6-27 00:00:00	
+158858	PRENSA DEL LIMARI LTDA.	Par	Blanco y negro	Generales	6x6	04	0	Arte	Marcela Tello-ElDia		2018-6-27 00:00:00	
+158114	DANIELA MORALES			UIP	5x2	06	3.333	Publicado	Karina Rivera	FONOAUDIOLOGIA INFANTIL	2018-6-27 00:00:00	
+158834	MARIO HERNAN ZAMBRA ROJAS			UIP	5x4	06	20.000	Publicado	Karina Rivera	RESTAURANT EL MUELLE	2018-6-27 00:00:00	
+157232	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	08	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2018-6-27 00:00:00	
+156676	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	12x3	09	0	Publicado	Claudio Romero	Muebles alpina..	2018-6-27 00:00:00	
+158558	ERICH UGARTE HALYBURTON	Par	Blanco y negro	Generales	15x3	09	36.843	Publicado	Karina Rivera	CEMENTERIO PARROQUIAL PUNITAQUI	2018-6-27 00:00:00	
+158793	OSSANDON PRESTACIONES MEDICAS Y OTR			UIP	5x2	11	3.879	Publicado	Karina Rivera	MEDICO CIRUJANO ALEJANDRO MANRIQUEZ	2018-6-27 00:00:00	
+158859	PRENSA DEL LIMARI LTDA.	Par	Blanco y negro	Generales	17x6	12	0	Arte	Marcela Tello-ElDia		2018-6-27 00:00:00	
+158860	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	6x6	14	0	Arte	Marcela Tello-ElDia	Cupones Descuentos Cinemark	2018-6-27 00:00:00	

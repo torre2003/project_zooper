@@ -1,0 +1,12 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+126993	SOCIEDAD DE RENTAS FALABELLA S.A	Par	Cuatricromia	Generales	8x6	01	0	Publicado	M Cristina Puga		2017-4-8 00:00:00	
+126985	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x3	03	0	Arte	Marcela Tello-ElDia		2017-4-8 00:00:00	
+125317	AGRICOLA NORTE TALINAY LTDA	Par	Blanco y negro	Generales	5x2	05	1.666	Publicado	Paola Marquez	UIP VENTA ALFALFA	2017-4-8 00:00:00	
+126860	EMPRESA PERIODISTICA EL NORTE S.A.	Par	Blanco y negro	Medios Regionales	4x2	05	11.560	Arte	Medios Regionales	BBVA - Rol 8765-2016 - (57330)	2017-4-8 00:00:00	
+126933	INMOBILIARIA E INVERSIONES EL CHA?A	Par	Blanco y negro	Generales	8x2	07	43.314	Publicado	Claudio Romero		2017-4-8 00:00:00	
+126930	INMOBILIARIA AYLLU S.A	Par	Blanco y negro	Generales	8x2	07	43.314	Publicado	Claudio Romero	CITACION....."AYLLU...	2017-4-8 00:00:00	
+126772	FERNANDO SANCH			UIP	5x2	07	2.808	Publicado	Karina Rivera	AGUAS SUBTERRANEAS 	2017-4-8 00:00:00	
+127078	EMPRESA PERIODISTICA EL NORTE S.A.	Par	Blanco y negro	Medios Regionales	10x2	08	28.900	Arte	Medios Regionales	Parques de Chile - (59646)	2017-4-8 00:00:00	
+126235	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	09	0	Arte	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2017-4-8 00:00:00	
+127093	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	5x6	11	0	Arte	Marcela Tello-ElDia		2017-4-8 00:00:00	
+127094	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	5x6	14	0	Arte	Marcela Tello-ElDia		2017-4-8 00:00:00	

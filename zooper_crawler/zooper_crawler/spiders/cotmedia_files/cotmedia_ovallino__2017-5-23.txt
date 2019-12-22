@@ -1,0 +1,9 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+130024	PEDRO ANDRES MONARDEZ ELGUETA	Par	Cuatricromia	Generales	6x6	01	25.000	Publicado	Karina Rivera	Restaurant Riquisimo	2017-5-23 00:00:00	
+130021	EMPRESA PERIODISTICA EL NORTE S.A.	Par	Cuatricromia	Medios Regionales	16x6	03	210.973	Publicado	Medios Regionales		2017-5-23 00:00:00	
+129852	JACQUELINE JOFRE VILLANUEVA			UIP	5x2	05	2.808	Publicado	Karina Rivera	Cortinas Rollers	2017-5-23 00:00:00	
+129955	CENTRO DE SALUD			UIP	5x4	05	5.630	Publicado	Karina Rivera	CENTRO DE SALUD PORTALES	2017-5-23 00:00:00	
+128121	FERNANDO YOANOVICH			UIP	5x2	07	2.247	Publicado	Karina Rivera	COMPRA VEHICULOS	2017-5-23 00:00:00	
+129891	EMPRESA PERIODISTICA EL NORTE S.A.	Par	Blanco y negro	Medios Regionales	8x2	07	23.120	Publicado	Medios Regionales	BBVA - Rol C-8765-2016 - (84236)	2017-5-23 00:00:00	
+130029	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x6	11	0	Arte	Marcela Tello-ElDia	www.elovallino.cl - Vive la experiencia	2017-5-23 00:00:00	
+130030	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	5x6	14	0	Arte	Marcela Tello-ElDia		2017-5-23 00:00:00	

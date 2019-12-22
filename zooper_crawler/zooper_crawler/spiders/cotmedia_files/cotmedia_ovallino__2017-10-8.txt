@@ -1,0 +1,14 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+139750	INMOBILIARIA CALEUCHE LTDA	Par	Cuatricromia	Generales	8x6	01	133.670	Publicado	Paola Marquez	Beltec IMPAR si se puede	2017-10-8 00:00:00	
+139502	OVALLE CASINO RESORT S.A	Par	Cuatricromia	Generales	25x4	03	171.372	Publicado	Paola Marquez	OCR Eventos Octubre	2017-10-8 00:00:00	
+131284	SOCIEDAD MEDICA Y CONSULTORA ESTETI		Cuatricromia	Guia	5x2	05	13.333	Publicado	Maria_Amelia Hermosilla	Diego Polanco	2017-10-8 00:00:00	
+140467	ESTUDIO JURIDICO OLIVARES Y CIA. SP	Par	Blanco y negro	Generales	5x2	05	2.000	Publicado	Jacqueline Torres	ESTUDIO JURIDICO OLIVARES	2017-10-8 00:00:00	
+136100	INVERSIONES TANGUEMAR LIMITADA	Par	Blanco y negro	Generales	5x2	05	21.422	Publicado	Patricia Villena	Tanguemar	2017-10-8 00:00:00	
+140808	PRENSA DEL LIMARI LTDA.	Par	Blanco y negro	Generales	6x6	07	0	Arte	Marcela Tello-ElDia		2017-10-8 00:00:00	
+140657	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	12x6	08	0	Publicado	Marcela Tello-ElDia	Avant Premiere - Club de Lectores	2017-10-8 00:00:00	
+140644	FRANCESCA FIGARI SCHENCK	Impar	Cuatricromia	Generales	17x6	09	336.134	Publicado	Marcela Tello-ElDia	Diputada Francesca Figari - Vota P-91	2017-10-8 00:00:00	
+140537	DIRECCION DE BIBLIOTECAS, ARCHIVOS 	Impar	Cuatricromia	Generales	17x3	11	176.809	Publicado	Jacqueline Torres	DIFUSION	2017-10-8 00:00:00	
+140645	ACADEMIA DE GIMNASIO INTEGRAL FIT L	Par	Cuatricromia	Generales	17x3	11	0	Publicado	Miguel Apey	gimnasio sportlife	2017-10-8 00:00:00	
+140458	SECRETARIA REGIONAL MINIST. DE EDUC	Impar	Cuatricromia	Generales	35x6	13	611.796	Publicado	Jacqueline Torres		2017-10-8 00:00:00	
+140213	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	14	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2017-10-8 00:00:00	
+140806	CAMAL MUSALEM TAPIA Y CIA.	Par	Cuatricromia	Generales	34x6	16	349.554	Publicado	Marcela Tello-ElDia	Toyota - en Camal Musalem te llevamos a Brasil	2017-10-8 00:00:00	

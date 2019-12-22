@@ -1,0 +1,33 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+130960	CHRISTIAN LAUNITZ MARIN SERVICIOS M	Par	Blanco y negro	Generales	8x2	04	5.000	Publicado	Heinger Vega Torres	2017-6-14 00:00:00	
+131758	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Cuatricromia	Medios Regionales	35x6	05	557.180	Publicado	Medios Regionales	2017-6-14 00:00:00	
+131741	DABED Y CIA. LTDA., SELIM	Par	Cuatricromia	Generales	6x6	08	27.690	Publicado	Karina Rivera	2017-6-14 00:00:00	
+130501	OVALLE CASINO RESORT S.A	Par	Cuatricromia	Generales	25x4	09	0	Publicado	Paola Marquez	2017-6-14 00:00:00	
+131759	FUNDACION EDUCACIONAL COLEGIO SAN J	Par	Blanco y negro	Generales	10x2	10	73.240	Publicado	Karina Rivera	2017-6-14 00:00:00	
+131701	ENTEL PCS	Impar	Cuatricromia	Generales	25x5	11	384.510	Publicado	Kathine Soto-Stgo	2017-6-14 00:00:00	
+131771	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	10x2	12	43.480	Publicado	Medios Regionales	2017-6-14 00:00:00	
+131690	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	12	0	Publicado	Marcela Tello-ElDia	2017-6-14 00:00:00	
+131576	ARZOBISPADO DE LA SERENA	Par	Blanco y negro	Generales	5x2	13	0	Publicado	Marcela Tello-ElDia	2017-6-14 00:00:00	
+131151	CENTRO TECNICO ACUARELA LTDA.	Par	Blanco y negro	Generales	5x2	13	20.874	Publicado	Rene Pizarro	2017-6-14 00:00:00	
+130767	DIARIO EL DIA	Par	Blanco y negro	Generales	5x2	13	0	Publicado	Marcela Tello-ElDia	2017-6-14 00:00:00	
+131687	SUBSIDIO NACIONAL TRANSPORTE PUBLIC	Par	Blanco y negro	Generales	15x2	15	76.902	Publicado	Jacqueline Torres	2017-6-14 00:00:00	
+131652	SUBSIDIO NACIONAL TRANSPORTE PUBLIC	Par	Blanco y negro	Generales	15x2	15	76.902	Publicado	Jacqueline Torres	2017-6-14 00:00:00	
+131148	INMOBILIARIA RENVAL SPA	Par	Cuatricromia	Generales	34x6	16	0	Publicado	Rene Pizarro	2017-6-14 00:00:00	
+131072	DIARIO EL DIA	Par	Cuatricromia	Generales	34x6	16	0	Publicado	Marcela Tello-ElDia	2017-6-14 00:00:00	
+130084	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Cuatricromia	Medios Regionales	16x6	17	309.344	Publicado	Medios Regionales	2017-6-14 00:00:00	
+130843	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	18	8.306	Publicado	Miguel Apey	2017-6-14 00:00:00	
+131761	MINERA LOS PELAMBRES	Impar	Cuatricromia	Generales	17x6	23	627.521	Publicado	Jacqueline Torres	2017-6-14 00:00:00	
+129140	AGUAS DEL VALLE S.A.	Par	Cuatricromia	Generales	5x6	25	50.000	Publicado	Heinger Vega Torres	2017-6-14 00:00:00	
+130360	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	28	0	Publicado	Marcela Tello-ElDia	2017-6-14 00:00:00	
+130425	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	30	0	Publicado	Marcela Tello-ElDia	2017-6-14 00:00:00	
+128007	cern			UIP	5x1	30	8.937	Publicado	Nadia Randolph	2017-6-14 00:00:00	
+129723	SERVICIOS GASTRON?MICOS LA CASONA D	Par	Blanco y negro	Generales	5x2	30	10.725	Publicado	Miguel Apey	2017-6-14 00:00:00	
+131166	SOC. DE GES			UIP	5x1	30	8.937	Publicado	Miguel Apey	2017-6-14 00:00:00	
+130632	armaq			UIP	5x1	30	8.937	Publicado	Claudio Romero	2017-6-14 00:00:00	
+129678	VELIZ CORTES JOSE A.	Par	Blanco y negro	Generales	3x2	31	13.403	Publicado	Pedro Cortes	2017-6-14 00:00:00	
+130731	SERVICIOS GENERALES GUAYACAN S.A	Par	Blanco y negro	Generales	4x2	31	6.666	Publicado	Jacqueline Torres	2017-6-14 00:00:00	
+131663	SANTANDER G.R.C.	Par	Blanco y negro	Generales	10x2	EC-20	83.824	Publicado	Pedro Jaime	2017-6-14 00:00:00	
+131660	SANTANDER G.R.C.	Par	Blanco y negro	Generales	10x2	EC-20	83.824	Publicado	Pedro Jaime	2017-6-14 00:00:00	
+131697	BANCO DE CHILE	843 Palabras		Legal	x	EC-21	209.064	Publicado	Pedro Jaime	2017-6-14 00:00:00	
+130697	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Generales	5x1	EC-21	6.043	Publicado	Rene Pizarro	2017-6-14 00:00:00	
+123842	HOTELERIA LUIS ALBERTO BERETTA KIEK	Par	Blanco y negro	Generales	5x2	EC-21	6.061	Publicado	Patricia Villena	2017-6-14 00:00:00	

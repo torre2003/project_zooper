@@ -1,0 +1,22 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+162483	SOCIEDAD DE RENTAS FALABELLA S.A	Impar	Cuatricromia	Generales	17x6	03	200.000	Publicado	M Cristina Puga	Open Plaza	2018-8-31 00:00:00	
+161122	EMPRESA PERIODISTICA EL NORTE S.A.	Par	Cuatricromia	Medios Regionales	32x6	05	367.130	Publicado	Medios Regionales		2018-8-31 00:00:00	
+162318	DABED Y CIA. LTDA., SELIM	Par	Cuatricromia	Generales	6x6	15	23.082	Publicado	Karina Rivera	OVA 003	2018-8-31 00:00:00	
+163019	ILUSTRE MUNICIPALIDAD DE MONTE PATR	Par	Cuatricromia	Generales	17x6	16	83.334	Publicado	Karina Rivera	ANIVERSARIO MONTE PATRIA	2018-8-31 00:00:00	
+162486	SOCIEDAD DE RENTAS FALABELLA S.A	Par	Cuatricromia	Generales	17x6	17	0	Publicado	M Cristina Puga	Nota periodista /OPEN PLAZA	2018-8-31 00:00:00	
+163038	EMPRESA PERIODISTICA EL NORTE S.A.	Par	Blanco y negro	Medios Regionales	10x2	18	30.340	Publicado	Medios Regionales	Enami - Servicio de Monitoreo - 	2018-8-31 00:00:00	
+161417	OSSANDON PRESTACIONES MEDICAS Y OTR			UIP	5x2	18	3.879	Publicado	Karina Rivera	MEDICO CIRUJANO ALEJANDRO MANRIQUEZ	2018-8-31 00:00:00	
+161529	SOC. SERVICIOS TECNOLOGICOS Y TELCO			UIP	10x6	19	16.260	Publicado	Claudio Romero	TELCONOR..AHORA EN OVALLE / REPITE DE LA SEMANA DEL 13 AGOSTO	2018-8-31 00:00:00	
+161170	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	6x6	20	0	Publicado	Marcela Tello-ElDia	Descuentos Entradas Cinemark	2018-8-31 00:00:00	
+160585	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	23	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2018-8-31 00:00:00	
+162523	EMPRESAS LA POLAR S.A.	Par	Cuatricromia	Contraportada	35x6	24	252.000	Publicado	Patricia Villena	Contraportada La Polar	2018-8-31 00:00:00	
+162382	SOC. EDUCACIONAL PARVUS LTDA.	Par	Cuatricromia	Ed.Especial	6x6	ED-08	80.000	Publicado	Karina Rivera	JARDIN PARVUS (EE EDUCACION)	2018-8-31 00:00:00	
+162251	SOC. SOSTENEDORA EDUCACIONAL SANTA 	Par	Cuatricromia	Ed.Especial	17x6	ED-09	250.000	Publicado	Karina Rivera	COLEGIO SANTA TERESA(EE EDUCAVION)	2018-8-31 00:00:00	
+162600	CENTRO DE FORMACION TECNICA SANTO T	Par	Cuatricromia	Ed.Especial	17x3	ED-10	140.000	Publicado	Karina Rivera		2018-8-31 00:00:00	
+162584	CENTRO DE EST?TICA INTEGRAL CARLA L	Par	Cuatricromia	Ed.Especial	17x3	ED-10	140.000	Publicado	Karina Rivera	ESCUELA ESTETICA CARLA FIGUEROA	2018-8-31 00:00:00	
+162661	SOST. EDUC. ROSANA SANTIBA?EZ E.I.R	Par	Cuatricromia	Ed.Especial	17x6	ED-11	200.000	Publicado	Karina Rivera	JARDIN GREEN GARDEN (EE EDUCACION)	2018-8-31 00:00:00	
+162383	MUSICA Y SONIDO MICHEL OJEDA E.I.R.	Par	Cuatricromia	Ed.Especial	6x6	ED-12	80.000	Publicado	Karina Rivera	ACADEMIA STUDIOS MOD (EE EDUCACION)	2018-8-31 00:00:00	
+162659	FUNDACI?N EDUCACIONAL PUCARA	Par	Cuatricromia	Ed.Especial	12x3	ED-13	80.000	Publicado	Karina Rivera	COLEGIO TAMELCURA (EE EDUCACION)	2018-8-31 00:00:00	
+162381	ANA MARIA GOMEZ HUERTA	Par	Cuatricromia	Ed.Especial	10x2	ED-13	55.000	Publicado	Karina Rivera	GUARDERIA MENGO ( EE EDUCACION)	2018-8-31 00:00:00	
+162601	STHEFANIE ADONIS CORTES	Par	Cuatricromia	Ed.Especial	10x2	ED-14	55.000	Publicado	Karina Rivera	JARDIN ECO GARDEN	2018-8-31 00:00:00	
+162660	FUNDACI?N EDUCACIONAL PUCARA	Par	Cuatricromia	Ed.Especial	12x3	ED-14	80.000	Publicado	Karina Rivera	COLEGIO PUCARA (EE EDUCACION)	2018-8-31 00:00:00	

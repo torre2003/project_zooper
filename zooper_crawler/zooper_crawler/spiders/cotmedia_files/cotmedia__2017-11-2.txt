@@ -1,0 +1,73 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+143071	SOC. EDUCACIONAL JUAN BOHON S.A.		1 Frases	Radio	x		300.000	Arte	Jacqueline Torres	2017-11-2 00:00:00	
+141534	CHRISTIAN LAUNITZ MARIN SERVICIOS M	Par	Blanco y negro	Generales	5x2	04	5.000	Publicado	Heinger Vega Torres	2017-11-2 00:00:00	
+142748	CLARO CHILE S.A.	Impar	Cuatricromia	Generales	35x6	05	646.000	Publicado	Kathine Soto-Stgo	2017-11-2 00:00:00	
+142777	CENCOSUD ADMINISTRADORAS DE TARJETA	Impar	Cuatricromia	Generales	35x6	07	645.997	Publicado	M Cristina Puga	2017-11-2 00:00:00	
+142423	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	6x6	08	51.666	Publicado	Claudio Romero	2017-11-2 00:00:00	
+142530	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Cuatricromia	Medios Regionales	32x6	09	518.048	Arte	Medios Regionales	2017-11-2 00:00:00	
+142780	MOP OOPP	Impar	Blanco y negro	Generales	12x1	10	54.312	Publicado	Jacqueline Torres	2017-11-2 00:00:00	
+142680	SUBSIDIO NACIONAL TRANSPORTE PUBLIC	Par	Blanco y negro	Generales	13x2	10	66.649	Publicado	Jacqueline Torres	2017-11-2 00:00:00	
+141962	SERV. AGRICOLA Y GANADERO	Par	Blanco y negro	Generales	20x3	10	149.410	Publicado	Jacqueline Torres	2017-11-2 00:00:00	
+139746	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Cuatricromia	Medios Regionales	32x6	11	518.048	Publicado	Medios Regionales	2017-11-2 00:00:00	
+142366	LABORATORIO CLINICO STA. MARIA LA S	Par	Blanco y negro	Generales	6x2	12	7.470	Publicado	Miguel Apey	2017-11-2 00:00:00	
+141860	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	12	0	Publicado	Marcela Tello-ElDia	2017-11-2 00:00:00	
+142336	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	13	8.306	Publicado	Miguel Apey	2017-11-2 00:00:00	
+142677	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	13	0	Arte	Marcela Tello-ElDia	2017-11-2 00:00:00	
+142540	C.M. SOC. GASTRONOMICA LTDA.			UIP	5x2	14	7.208	Publicado		2017-11-2 00:00:00	
+142232	PILLA LA VACA	Par	Blanco y negro	Generales	5x2	14	0	Arte	Marcela Tello-ElDia	2017-11-2 00:00:00	
+142149	CENTRO DE EDUC.CAP.Y FORMACION LABO	Par	Blanco y negro	Generales	5x2	14	4.666	Publicado	Jacqueline Torres	2017-11-2 00:00:00	
+142747	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	5x2	14	0	Publicado	Miguel Apey	2017-11-2 00:00:00	
+142713	ARZOBISPADO DE LA SERENA	Par	Blanco y negro	Generales	5x2	14	0	Arte	Marcela Tello-ElDia	2017-11-2 00:00:00	
+142144	TRANSPORTES LUIS ITURRIETA E.I.R.L			UIP	5x2	14	17.875	Publicado	Pedro Jaime	2017-11-2 00:00:00	
+142657	MOP OOPP	219 Palabras		Legal	x	17	54.312	Publicado	Jacqueline Torres	2017-11-2 00:00:00	
+142656	MOP OOPP	219 Palabras		Legal	x	17	54.312	Publicado	Jacqueline Torres	2017-11-2 00:00:00	
+142655	MOP OOPP	219 Palabras		Legal	x	17	54.312	Publicado	Jacqueline Torres	2017-11-2 00:00:00	
+142654	MOP OOPP	219 Palabras		Legal	x	17	54.312	Publicado	Jacqueline Torres	2017-11-2 00:00:00	
+142645	MOP OOPP	219 Palabras		Legal	x	17	54.312	Publicado	Jacqueline Torres	2017-11-2 00:00:00	
+142658	MOP OOPP	219 Palabras		Legal	x	17	54.312	Publicado	Jacqueline Torres	2017-11-2 00:00:00	
+142659	MOP OOPP	219 Palabras		Legal	x	17	54.312	Publicado	Jacqueline Torres	2017-11-2 00:00:00	
+142660	MOP OOPP	219 Palabras		Legal	x	17	54.312	Publicado	Jacqueline Torres	2017-11-2 00:00:00	
+142661	MOP OOPP	219 Palabras		Legal	x	17	54.312	Publicado	Jacqueline Torres	2017-11-2 00:00:00	
+142664	MOP OOPP	219 Palabras		Legal	x	17	54.312	Publicado	Jacqueline Torres	2017-11-2 00:00:00	
+142665	MOP OOPP	219 Palabras		Legal	x	17	54.312	Publicado	Jacqueline Torres	2017-11-2 00:00:00	
+142666	MOP OOPP	219 Palabras		Legal	x	17	54.312	Publicado	Jacqueline Torres	2017-11-2 00:00:00	
+142667	MOP OOPP	219 Palabras		Legal	x	17	54.312	Publicado	Jacqueline Torres	2017-11-2 00:00:00	
+142644	MOP OOPP	219 Palabras		Legal	x	17	54.312	Publicado	Jacqueline Torres	2017-11-2 00:00:00	
+142662	MOP OOPP	219 Palabras		Legal	x	17	54.312	Publicado	Jacqueline Torres	2017-11-2 00:00:00	
+142610	MOP OOPP	219 Palabras		Legal	x	17	54.312	Publicado	Jacqueline Torres	2017-11-2 00:00:00	
+142611	MOP OOPP	219 Palabras		Legal	x	17	54.312	Publicado	Jacqueline Torres	2017-11-2 00:00:00	
+142642	MOP OOPP	219 Palabras		Legal	x	18	54.312	Publicado	Jacqueline Torres	2017-11-2 00:00:00	
+142612	MOP OOPP	219 Palabras		Legal	x	18	54.312	Publicado	Jacqueline Torres	2017-11-2 00:00:00	
+142613	MOP OOPP	219 Palabras		Legal	x	18	54.312	Publicado	Jacqueline Torres	2017-11-2 00:00:00	
+142614	MOP OOPP	219 Palabras		Legal	x	18	54.312	Publicado	Jacqueline Torres	2017-11-2 00:00:00	
+142627	MOP OOPP	219 Palabras		Legal	x	18	54.312	Publicado	Jacqueline Torres	2017-11-2 00:00:00	
+142653	MOP OOPP	219 Palabras		Legal	x	18	54.312	Publicado	Jacqueline Torres	2017-11-2 00:00:00	
+142651	MOP OOPP	219 Palabras		Legal	x	18	54.312	Publicado	Jacqueline Torres	2017-11-2 00:00:00	
+142650	MOP OOPP	219 Palabras		Legal	x	18	54.312	Publicado	Jacqueline Torres	2017-11-2 00:00:00	
+142643	MOP OOPP	219 Palabras		Legal	x	18	54.312	Publicado	Jacqueline Torres	2017-11-2 00:00:00	
+142641	MOP OOPP	219 Palabras		Legal	x	18	54.312	Publicado	Jacqueline Torres	2017-11-2 00:00:00	
+142640	MOP OOPP	219 Palabras		Legal	x	18	54.312	Publicado	Jacqueline Torres	2017-11-2 00:00:00	
+142646	MOP OOPP	219 Palabras		Legal	x	18	54.312	Publicado	Jacqueline Torres	2017-11-2 00:00:00	
+142647	MOP OOPP	219 Palabras		Legal	x	18	54.312	Publicado	Jacqueline Torres	2017-11-2 00:00:00	
+142648	MOP OOPP	219 Palabras		Legal	x	18	54.312	Publicado	Jacqueline Torres	2017-11-2 00:00:00	
+142649	MOP OOPP	219 Palabras		Legal	x	18	54.312	Publicado	Jacqueline Torres	2017-11-2 00:00:00	
+142663	MOP OOPP	219 Palabras		Legal	x	18	54.312	Publicado	Jacqueline Torres	2017-11-2 00:00:00	
+142521	SERVICIO DE REGISTRO CIVIL E IDENTI	Par	Blanco y negro	Generales	35x6	19-21	651.508	Publicado	Jacqueline Torres	2017-11-2 00:00:00	
+142705	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Cuatricromia	Generales	16x6	23	492.173	Arte	Marcela Tello-ElDia	2017-11-2 00:00:00	
+141663	SOC. DE GES			UIP	5x1	29	8.937	Publicado	Miguel Apey	2017-11-2 00:00:00	
+142376	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	4x5	29	20.508	Publicado	Miguel Apey	2017-11-2 00:00:00	
+142281	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	29	0	Arte	Marcela Tello-ElDia	2017-11-2 00:00:00	
+142180	INVERSIONES SAN MATIAS LTDA.			UIP	5x1	29	8.937	Publicado	Claudio Romero	2017-11-2 00:00:00	
+142005	CERNA E HIJOS CIA. LTDA.	Par	Blanco y negro	Generales	5x1	29	3.574	Publicado	Nadia Randolph	2017-11-2 00:00:00	
+141202	VELIZ CORTES JOSE A.	Par	Blanco y negro	Generales	3x2	30	13.403	Publicado	Pedro Cortes	2017-11-2 00:00:00	
+142782	SERVICIOS GENERALES GUAYACAN S.A	Par	Blanco y negro	Generales	4x2	31	6.686	Publicado	Jacqueline Torres	2017-11-2 00:00:00	
+142715	EMPRESAS LA POLAR S.A.	Par	Cuatricromia	Contraportada	35x6	32	504.000	Publicado	Patricia Villena	2017-11-2 00:00:00	
+142581	SANTANDER G.R.C.	Par	Blanco y negro	Generales	10x2	EC-15 	83.824	Publicado	Pedro Jaime	2017-11-2 00:00:00	
+142456	H20 ABOGADOS LTDA.	Par	Blanco y negro	Generales	15x2	EC-15	76.902	Publicado	Jacqueline Torres	2017-11-2 00:00:00	
+142682	SANTANDER G.R.C.	Impar	Blanco y negro	Generales	20x6	EC-16	529.412	Publicado	Pedro Jaime	2017-11-2 00:00:00	
+123994	HOTELERIA LUIS ALBERTO BERETTA KIEK	Par	Blanco y negro	Generales	5x2	EC-16	6.061	Publicado	Patricia Villena	2017-11-2 00:00:00	
+141603	MOP OOPP	233 Palabras		Legal	x	EC-16	57.784	Publicado	Karina Rivera	2017-11-2 00:00:00	
+141602	MOP OOPP	199 Palabras		Legal	x	EC-16	49.352	Publicado	Karina Rivera	2017-11-2 00:00:00	
+142467	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Economico	5x2	EC-16	15.161	Publicado	Rene Pizarro	2017-11-2 00:00:00	
+142458	H20 ABOGADOS LTDA.		3 Frases	Radio	x	RAD	140.000	Publicado	Jacqueline Torres	2017-11-2 00:00:00	
+143016	INMOBILIARIA NOVA S.A.		55 Frases	Radio	x	RAD	247.500	Publicado	Paola Marquez	2017-11-2 00:00:00	

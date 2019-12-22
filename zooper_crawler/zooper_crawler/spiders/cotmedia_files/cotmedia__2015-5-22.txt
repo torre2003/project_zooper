@@ -1,0 +1,43 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+75113	CHRISTIAN LAUNITZ MARIN SERVICIOS M	Par	Blanco y negro	Generales	3x2	04	6.667	Publicado	Jacqueline Torres	2015-5-22 00:00:00	
+75659	SERVICIOS INMOBILIARIOS ECOMAC S.A	Impar	Cuatricromia	Generales	35x6	05	0	Publicado	M Cristina Puga	2015-5-22 00:00:00	
+75954	CONSTRUCTORA SAMCO LTDA	Par	Cuatricromia	Generales	9x6	06	0	Publicado	Miguel Apey	2015-5-22 00:00:00	
+75592	INMOBILIARIA GUZMAN LTDA	Impar	Cuatricromia	Generales	35x3	07	0	Publicado	M Cristina Puga	2015-5-22 00:00:00	
+76055	INMOBILIARIA KUPAL LTDA.	Par	Cuatricromia	Generales	17x3	08	0	Publicado	Miguel Apey	2015-5-22 00:00:00	
+76141	BANCO DE CHILE	Impar	Cuatricromia	Generales	34x6	09	881.800	Publicado	Patricia Villena	2015-5-22 00:00:00	
+75897	DIARIO EL DIA	Par	Cuatricromia	Generales	17x6	10	0	Publicado	Marcela Tello-ElDia	2015-5-22 00:00:00	
+76100	CLARO CHILE S.A.	Impar	Cuatricromia	Generales	35x6	11	500.000	Publicado	Kathine Soto-Stgo	2015-5-22 00:00:00	
+75737	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	6x2	13	26.088	Publicado	Medios Regionales	2015-5-22 00:00:00	
+76052	COOPERATIVA AGRICOLA PRESIDENTE GAB	Par	Blanco y negro	Generales	6x2	13	43.944	Publicado	Pedro Jaime	2015-5-22 00:00:00	
+76008	TRANSPORTES CALLEGARI LTDA	Par	Blanco y negro	Generales	4x2	13	29.296	Publicado	Pedro Jaime	2015-5-22 00:00:00	
+76150	ILUSTRE MUNICIPALIDAD DE COQUIMBO	Par	Blanco y negro	Generales	10x6	14	153.804	Publicado	Miguel Apey	2015-5-22 00:00:00	
+74489	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	10x3	15	0	Publicado	Marcela Tello-ElDia	2015-5-22 00:00:00	
+76049	INMOBIL. E INVERSIONES AREYUNA E HI	Par	Cuatricromia	Generales	35x6	16	0	Publicado	Claudio Romero	2015-5-22 00:00:00	
+74854	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	17	8.306	Publicado	Miguel Apey	2015-5-22 00:00:00	
+75908	INMOBILIARIA CLUB PY - CATALINA S.A	Impar	Cuatricromia	Generales	17x6	17	407.889	Publicado	Claudio Romero	2015-5-22 00:00:00	
+74870	HOTEL COSTA REAL	Par	Cuatricromia	Generales	10x2	23	30.761	Publicado	Miguel Apey	2015-5-22 00:00:00	
+74409	PILLA LA VACA	Par	Cuatricromia	Generales	5x2	23	0	Publicado	Marcela Tello-ElDia	2015-5-22 00:00:00	
+74405	MARTIN JURE PATRICIA	Par	Cuatricromia	Generales	5x3	23	0	Publicado	Marcela Tello-ElDia	2015-5-22 00:00:00	
+74439	DIARIO EL DIA	Par	Cuatricromia	Generales	10x2	23	0	Publicado	Marcela Tello-ElDia	2015-5-22 00:00:00	
+74469	SOC. HOTELERA VICHUQUEN LTDA.	Par	Cuatricromia	Generales	5x3	23	0	Publicado	Marcela Tello-ElDia	2015-5-22 00:00:00	
+74375	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Cuatricromia	Generales	5x2	23	0	Publicado	Marcela Tello-ElDia	2015-5-22 00:00:00	
+69768	SOCIEDAD RESTAURANTE JIN HAI WAN Y 	Par	Cuatricromia	Generales	10x2	23	17.875	Publicado	Jacqueline Torres	2015-5-22 00:00:00	
+74866	BAKULIC RESTAURANT	Par	Cuatricromia	Generales	10x2	23	24.609	Publicado	Miguel Apey	2015-5-22 00:00:00	
+76013	DIARIO EL DIA	Par	Blanco y negro	Generales	35x6	24	0	Publicado	Carolina Naranjo	2015-5-22 00:00:00	
+75595	CORP. DE FOMENTO DE LA PRODUCCION	Impar	Cuatricromia	Generales	17x3	27	196.288	Publicado	Jacqueline Torres	2015-5-22 00:00:00	
+75371	SKY AIRLINE S.A.	Impar	Cuatricromia	Generales	17x6	28	269.464	Publicado	M Cristina Puga	2015-5-22 00:00:00	
+74894	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	4x5	29	20.508	Publicado	Miguel Apey	2015-5-22 00:00:00	
+75987	desiderio			UIP	5x2	29	17.875	Publicado	Claudio Romero	2015-5-22 00:00:00	
+75715	SOC. INMOBILIARIA DE INVERSIONES RE	Par	Blanco y negro	Generales	5x1	29	7.427	Publicado	Miguel Apey	2015-5-22 00:00:00	
+75945	AREVALO CARMEN			UIP	5x1	29	8.937	Publicado	Pedro Jaime	2015-5-22 00:00:00	
+74196	ARMAQ			UIP	5x1	29	8.937	Publicado	Claudio Romero	2015-5-22 00:00:00	
+74730	SOC. COMERCIAL ALCAPARRA LTDA.	Par	Blanco y negro	Generales	5x2	29	10.440	Publicado	Patricia Villena	2015-5-22 00:00:00	
+73596	SOC. DE GESTION MEDITERRANEA			UIP	5x1	29	8.937	Publicado	Miguel Apey	2015-5-22 00:00:00	
+75142	SERVICIOS GENERALES GUAYACAN S.A	Par	Blanco y negro	Generales	3x2	30	6.667	Publicado	Jacqueline Torres	2015-5-22 00:00:00	
+76002	INMOBIL. LOS ANDES LTDA.	Par	Blanco y negro	Generales	16x2	30	82.029	Publicado	Miguel Apey	2015-5-22 00:00:00	
+75644	WALMART CHILE COMERCIAL LTDA.	Impar	Cuatricromia	Generales	35x6	32	607.219	Publicado	M Cristina Puga	2015-5-22 00:00:00	
+75850	ARANDA CA?AS ALFONSO	Par	Blanco y negro	Generales	11x2	EC-20	64.452	Publicado	Pedro Jaime	2015-5-22 00:00:00	
+75939	arevalo carmen			UIP	5x1	EC-21	8.937	Publicado	Pedro Jaime	2015-5-22 00:00:00	
+74633	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Generales	5x1	EC-21	5.860	Publicado	Rene Pizarro	2015-5-22 00:00:00	
+74662	SOC. COMERCIAL VARGAS Y GIACOMET	Par	Blanco y negro	Generales	5x1	EC-21	5.860	Publicado	Rene Pizarro	2015-5-22 00:00:00	
+76051	SOC. INMOBILIARIA E INVERSIONES CHI	857 Palabras		Propiedades	x	PROP	137.120	Publicado	Claudio Romero	2015-5-22 00:00:00	

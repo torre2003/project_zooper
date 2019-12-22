@@ -1,0 +1,106 @@
+<div class="menu">
+    <div style="position: relative; overflow: hidden; width: auto; height: 690px;" class="slimScrollDiv">
+    <ul class="list" style="overflow: hidden; width: auto; height: 690px;">
+        <li class="header">Navegación</li>
+        <li id="index" >
+            <a href="" class=" waves-effect waves-block">
+                <i class="material-icons">home</i>
+                <span>Inicio</span>
+            </a>
+        </li>
+        <li>
+            <a href="javascript:void(0);" class="menu-toggle waves-effect waves-block">
+                <i class="material-icons">shopping_cart</i>
+                <span>Matching</span>
+            </a>
+            <ul class="ml-menu" style="display: none;">
+                <li>
+                    <a href="" class=" waves-effect waves-block">
+                        <i class="material-icons">shopping_cart</i>
+                        <span>Matching</span>
+                    </a>
+                </li>
+                <li>
+                    <a href="{% url 'matching:matching-productos-supermercado-especifico-view' %}" class=" waves-effect waves-block">
+                        <i class="material-icons">shopping_cart</i>
+                        <span>Desde supermercado especifico</span>
+                    </a>
+                </li>
+                <li>
+                    <a href="{% url 'matching:matching-productos-supermercado-zooper-view' %}" class=" waves-effect waves-block">
+                        <i class="material-icons">shopping_cart</i>
+                        <span>Desde Zooper</span>
+                    </a>
+                </li>
+            </ul>
+        </li>
+        <li>
+            <a href="javascript:void(0);" class="menu-toggle waves-effect waves-block">
+                <i class="material-icons">shopping_basket</i>
+                <span>Producto</span>
+            </a>
+            <ul class="ml-menu" style="display: none;">
+                <li>
+                    <a href="" class=" waves-effect waves-block">
+                        <i class="material-icons">shopping_basket</i>
+                        <span>Producto</span>
+                    </a>
+                </li>
+                <li>
+                    <a href="{% url 'producto:productos-con-codigo-zooper' %}" class=" waves-effect waves-block">
+                        <i class="material-icons">shopping_basket</i>
+                        <span>Productos con código zooper</span>
+                    </a>
+                </li>
+            </ul>
+        </li>
+        <li>
+            <a href="javascript:void(0);" class="menu-toggle waves-effect waves-block">
+                <i class="material-icons">shopping_basket</i>
+                <span>Supermercado</span>
+            </a>
+            <ul class="ml-menu" style="display: none;">
+                       <li>
+                    <a href="{% url 'supermercado:acciones' %}" class=" waves-effect waves-block">
+                        <i class="material-icons">shopping_basket</i>
+                        <span>Acciones</span>
+                    </a>
+                </li>
+                <li>
+                    <a href="{% url 'supermercado:configuraciones' %}" class=" waves-effect waves-block">
+                        <i class="material-icons">shopping_basket</i>
+                        <span>Configuraciones</span>
+                    </a>
+                </li>
+                <li>
+                    <a href="{% url 'supermercado:logsupermercado' %}" class=" waves-effect waves-block">
+                        <i class="material-icons">shopping_basket</i>
+                        <span>Logs supermercado</span>
+                    </a>
+                </li>
+                <li>
+                    <a href="javascript:void(0);" class="menu-toggle waves-effect waves-block">
+                        <i class="material-icons">shopping_basket</i>
+                        <span>Jumbo</span>
+                    </a>
+                    <ul class="ml-menu" style="display: none;">
+                        <li>
+                            <a href="{% url 'supermercado:jumbo:lista-articulos' %}" class=" waves-effect waves-block">
+                                <i class="material-icons">shopping_basket</i>
+                                <span>Lista articulos</span>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="{% url 'supermercado:jumbo:lista-promociones' %}" class=" waves-effect waves-block">
+                                <i class="material-icons">shopping_basket</i>
+                                <span>Lista promociones</span>
+                            </a>
+                        </li>
+                    </ul>
+                </li>
+            </ul>
+        </li>
+    </ul>
+    <div class="slimScrollBar" style="background: rgba(0, 0, 0, 0.5) none repeat scroll 0% 0%; width: 4px; position: absolute; top: 229px; opacity: 0.4; display: none; border-radius: 0px; z-index: 99; right: 1px; height: 511.936px;"></div><div class="slimScrollRail" style="width: 4px; height: 100%; position: absolute; top: 0px; display: none; border-radius: 0px; background: rgb(51, 51, 51) none repeat scroll 0% 0%; opacity: 0.2; z-index: 90; right: 1px;"></div></div>
+</div>
+

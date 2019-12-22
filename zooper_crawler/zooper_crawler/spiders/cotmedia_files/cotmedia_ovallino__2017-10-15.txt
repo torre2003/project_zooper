@@ -1,0 +1,16 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+140687	AGUAS DEL VALLE S.A.	Impar	Cuatricromia	Generales	17x6	03	367.078	Publicado	Jacqueline Torres	difusion	2017-10-15 00:00:00	
+141223	EMPRESA PERIODISTICA EL NORTE S.A.	Par	Cuatricromia	Medios Regionales	16x3	05	141.613	Arte	Medios Regionales	Impar - Parques de Chile - (175805)	2017-10-15 00:00:00	
+139501	OVALLE CASINO RESORT S.A	Par	Cuatricromia	Generales	25x4	06	171.372	Publicado	Paola Marquez	OCR Eventos Octubre	2017-10-15 00:00:00	
+141244	UNIVERSIDAD SANTO TOMAS	Impar	Cuatricromia	Generales	35x6	07	668.079	Publicado	Patricia Villena		2017-10-15 00:00:00	
+131285	SOCIEDAD MEDICA Y CONSULTORA ESTETI		Cuatricromia	Guia	5x2	08	13.333	Publicado	Maria_Amelia Hermosilla	Diego Polanco	2017-10-15 00:00:00	
+140916	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x3	08	0	Arte	Marcela Tello-ElDia	Vea en Cinemark - Condorito	2017-10-15 00:00:00	
+141257	CAMAL MUSALEM TAPIA Y CIA.	Par	Cuatricromia	Generales	34x4	09	233.036	Publicado	Marcela Tello-ElDia	Camal Musalem Te lleva a Brasil - Toyota	2017-10-15 00:00:00	
+141218	EMPRESA PERIODISTICA EL NORTE S.A.	Par	Blanco y negro	Medios Regionales	16x4	10	92.480	Arte	Medios Regionales		2017-10-15 00:00:00	
+140593	ESTUDIO JURIDICO OLIVARES Y CIA. SP	Par	Blanco y negro	Generales	5x2	10	2.000	Publicado	Jacqueline Torres	ESTUDIO JURIDICO OLIVARES	2017-10-15 00:00:00	
+141227	SOC. DE SERV. DE MARKETING EVENTOS 	Impar	Blanco y negro	Generales	18x6	11	296.639	Publicado	Pedro Jaime	VELASCO DIPUTADO, IMPAR 	2017-10-15 00:00:00	
+141237	HERMANAS CALLEGARI LTDA.	Par	Cuatricromia	Generales	20x4	12	137.080	Publicado	Marcela Tello-ElDia	Ssang Yong	2017-10-15 00:00:00	
+141241	AGUAS DEL VALLE S.A.	Impar	Cuatricromia	Generales	17x6	13	304.150	Publicado	Jacqueline Torres	ENTREVISTA	2017-10-15 00:00:00	
+140920	VELIZ CORTES JOSE A.			UIP	5x2	14	3.919	Publicado	Pedro Cortes		2017-10-15 00:00:00	
+140217	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	14	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2017-10-15 00:00:00	
+141149	CALLEGARI LTDA.	Par	Cuatricromia	Generales	34x6	16	349.554	Publicado	Marcela Tello-ElDia		2017-10-15 00:00:00	

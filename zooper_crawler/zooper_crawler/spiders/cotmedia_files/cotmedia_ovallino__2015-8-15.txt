@@ -1,0 +1,10 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+82301	DABED Y CIA. LTDA., SELIM	Impar	Cuatricromia	Generales	6x6	03	23.077	Publicado	Italo Retamal	(15) Dabed Motos	2015-8-15 00:00:00	
+81880	centro de co			UIP	10x2	05	5.630	Publicado	Italo Retamal	centro colina	2015-8-15 00:00:00	
+81976	jorge alvara			UIP	5x2	05	2.808	Publicado	Italo Retamal	abogado	2015-8-15 00:00:00	
+82218	matiz			UIP	5x2	05	2.808	Publicado	Italo Retamal	busca personal 	2015-8-15 00:00:00	
+80820	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	10x3	07	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2015-8-15 00:00:00	
+81157	florenc			UIP	10x2	07	5.630	Publicado	Italo Retamal	tienda exotica	2015-8-15 00:00:00	
+82266	PE?A Y LILLO MORA GUILLERMO	Par	Blanco y negro	Generales	5x1	07	13.536	Publicado	Leonel Pizarro-Ovalle	FIERROS POR KILOS	2015-8-15 00:00:00	
+80519	cesar o			UIP	5x4	10	5.630	Publicado	Italo Retamal	mov de tierra	2015-8-15 00:00:00	
+82001	ADA d			UIP	10x2	10	5.630	Publicado	Italo Retamal	zona ganya	2015-8-15 00:00:00	

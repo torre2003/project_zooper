@@ -1,0 +1,14 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+129847	PEDRO ANDRES MONARDEZ ELGUETA	Par	Cuatricromia	Generales	6x6	01	25.000	Publicado	Karina Rivera	Restaurant Riquisimo	2017-5-19 00:00:00	
+128761	SALINAS Y FABRES S.A.	Impar	Cuatricromia	Generales	17x6	03	218.000	Publicado	M Cristina Puga	salfa 	2017-5-19 00:00:00	
+129660	SAKATA 			UIP	5x2	05	6.120	Publicado	Karina Rivera		2017-5-19 00:00:00	
+128118	FERNANDO YOANOVICH			UIP	5x2	05	2.247	Publicado	Karina Rivera	COMPRA VEHICULOS	2017-5-19 00:00:00	
+128812	KH			UIP	5x2	05	2.808	Publicado	Miguel Apey	KHUYAY TRAVEL	2017-5-19 00:00:00	
+129828	JUNTA DE VIGILANCIA RIO GRANDE LIMA	Par	Blanco y negro	Generales	15x2	06	70.620	Publicado	Karina Rivera	Citacion	2017-5-19 00:00:00	
+129652	RODRIGO DONOSO CASTILLO	Par	Blanco y negro	Generales	5x2	06	23.540	Publicado	Karina Rivera	Venta acciones de agua 	2017-5-19 00:00:00	
+128428	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	6x6	08	16.065	Publicado	Claudio Romero	Muebles Alpina	2017-5-19 00:00:00	
+128745	OVALLE CASINO RESORT S.A	Par	Cuatricromia	Generales	25x4	09	131.824	Publicado	Paola Marquez	OCR Eventos mayo	2017-5-19 00:00:00	
+129783	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x3	11	0	Arte	Marcela Tello-ElDia	Vea en Cinemark - Alien - El octavo pasajero	2017-5-19 00:00:00	
+129632	DABED Y CIA. LTDA., SELIM	Par	Cuatricromia	Generales	6x6	14	23.076	Publicado	Karina Rivera	M2	2017-5-19 00:00:00	
+129825	EMPRESA PERIODISTICA EL NORTE S.A.	Par	Blanco y negro	Medios Regionales	8x2	14	23.120	Arte	Medios Regionales		2017-5-19 00:00:00	
+129822	EMPRESAS LA POLAR S.A.	Par	Cuatricromia	Contraportada	35x6	16	0	Arte	Patricia Villena	Belleza	2017-5-19 00:00:00	

@@ -1,0 +1,9 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+159343	INMOBILIARIA ECASA CHILE S.A.	Par	Cuatricromia	Generales	34x6	03	360.000	Publicado	Paola Marquez	Ecasa Oficinas HA	2018-7-28 00:00:00	
+158650	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	08	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2018-7-28 00:00:00	
+159377	ANDRES AGUILERA CASTILLO	Par	Cuatricromia	Generales	10x2	09	6.813	Publicado	Karina Rivera		2018-7-28 00:00:00	
+159385	JONATHAN CLAUDIO SANHUEZA OJEDA	Par	Cuatricromia	Generales	5x2	09	2.950	Publicado	Karina Rivera	TRAUMATOLOGO SANHUEZA (GUIA PROFESIONAL)	2018-7-28 00:00:00	
+159396	ESTUDIO JURIDICO POLO & CONTADOR	Par	Cuatricromia	Generales	5x2	09	3.931	Publicado	Karina Rivera	ESTUDIO JURIDICO POLO & CONTADOR (GUIA PROFESIONAL)	2018-7-28 00:00:00	
+159403	SERVICIOS MEDICOS INVERSIONES E INM	Par	Cuatricromia	Generales	10x2	09	5.912	Publicado	Karina Rivera	CENTRO MEDICO CIM	2018-7-28 00:00:00	
+160520	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x6	12	0	Arte	Marcela Tello-ElDia	Nos trasladamos para ofrecerles un mejor servicio... El Ovallino	2018-7-28 00:00:00	
+160521	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	8x6	14	0	Arte	Marcela Tello-ElDia		2018-7-28 00:00:00	

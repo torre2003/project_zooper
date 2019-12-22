@@ -1,0 +1,145 @@
+{% extends 'base.html' %}
+{% load staticfiles %}
+{% load common_tags %}
+
+{% block titulo_head %}Matching productos{% endblock %}
+
+{% block titulo %}
+    Matching productos
+{% endblock %}
+
+{% block css %}
+    {% css_dataTable %}
+    <link href="{% static '/plugins/bootstrap-select/css/bootstrap-select.min.css' %}" rel="stylesheet" type="text/css" />
+{% endblock %}
+
+{% block contenido %}
+
+
+<div class="row clearfix">
+    <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+        <div class="card">
+            <div class="header">
+                <h2>
+                    Parámetros de matching 
+                </h2>
+            </div>
+            <div class="body">
+                <select id="select_supermercado" class="selectpicker show-tick" tabindex="-98" data-width="50%">
+                    <option value="-1" selected>Seleccionar</option>
+                    <option value="jumbo">Jumbo</option>
+                    <option value="tottus">Tottus</option>
+                    <option value="telemercado">Telemercado</option>
+                    <option value="lider">Lider</option>
+                </select> 
+                <button type="button" id="consultar_producto" class="btn bg-cyan btn-block btn-lg waves-effect">Siguiente producto</button>
+
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+<div class="row clearfix">
+    <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+        <div class="card">
+            <div class="header">
+                <h2 id="titulo_producto">
+
+                </h2>
+            </div>
+            <div id="info_producto"class="body">
+                
+            </div>
+            <hr />
+            <div id="container_tabla_producto"class="body">
+                {% div_dataTable 'tabla_producto_id' %} 
+            </div>
+        </div>
+    </div>
+</div>
+
+<form>
+    {% csrf_token %}
+</form>
+{% endblock %}
+
+
+{% block scripts %}
+<script src="{% static '/plugins/bootstrap-select/js/bootstrap-select.min.js' %}"></script>
+
+
+{% js_dataTable False %}
+{% django_ajax %}
+<script>
+
+
+
+
+
+var sparseTabla_productos = null;
+
+var params_productos = {
+    id : 'tabla_producto_id',
+    url : "{% url 'matching:consulta-producto-supermercado-especifico-json' %}", 
+    ajax: true,
+    ajaxData : {
+        'csrfmiddlewaretoken':$('csrfmiddlewaretoken').val(),
+    },
+    setAllButtons:true,
+    preProcess:CustomPreProccesDatatable,
+  };
+
+
+
+function CustomPreProccesDatatable(respuesta) {
+    if (respuesta.status == 'error'){
+        swal({
+            title: "Mensaje",
+            text: respuesta.mensaje.text,
+            icon: respuesta.mensaje.type,
+        });
+    }
+    else{
+        $('h2[id=titulo_producto]').text(respuesta.info_producto.titulo);
+        $('div[id=info_producto]').text("");
+        for (var i = 0; i < respuesta.info_producto.info.length; i++) {
+            $('div[id=info_producto]').append('<p>'+respuesta.info_producto.info[i]+'</p>');
+        };
+    }
+    return respuesta
+}
+
+
+$(document).on('click','button[id=consultar_producto]',function (){
+    var supermercado = $('#select_supermercado option:selected').attr('value');
+    console.log(supermercado);
+    if (supermercado == "-1"){
+        swal({
+          title: "Zooper",
+          text: "No se ha seleccionado un supermercado",
+          icon: "error",
+        })
+        return;
+    }
+    params_productos.ajaxData['supermercado'] = supermercado
+    if (sparseTabla_productos == null)
+        sparseTabla_productos = $('#container_tabla_producto').sparseDataTable(params_productos);
+    else
+        sparseTabla_productos.recargar(params_productos);
+})
+//sparseTabla_cliente.recargar(params_productos);
+
+/*
+  select_personas = $('#select_personas').selectpicker({
+      showTick:true,
+      width:"100%",
+    });
+*/
+
+
+</script>
+
+{% endblock %}

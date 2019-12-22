@@ -1,0 +1,34 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+75117	CHRISTIAN LAUNITZ MARIN SERVICIOS M	Par	Blanco y negro	Generales	3x2	04	6.667	Publicado	Jacqueline Torres	2015-5-26 00:00:00	
+74143	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Blanco y negro	Generales	6x6	07	0	Publicado	Claudio Romero	2015-5-26 00:00:00	
+75695	CARAT CHILE S.A.	Impar	Cuatricromia	Generales	17x6	09	300.000	Publicado	Kathine Soto-Stgo	2015-5-26 00:00:00	
+76256	DIARIO EL DIA	Par	Cuatricromia	Generales	34x5	11	0	Publicado	Marcela Tello-ElDia	2015-5-26 00:00:00	
+74858	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	12-19	8.306	Publicado	Miguel Apey	2015-5-26 00:00:00	
+76192	SUBSIDIO NACIONAL TRANSPORTE PUBLIC	Par	Blanco y negro	Generales	12x2	13	61.522	Publicado	Jacqueline Torres	2015-5-26 00:00:00	
+74478	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	10x3	13	0	Publicado	Marcela Tello-ElDia	2015-5-26 00:00:00	
+76135	RENDIC HNOS. S.A.	Impar	Cuatricromia	Centrales	35x6	16	979.732	Publicado	Patricia Villena	2015-5-26 00:00:00	
+76133	RENDIC HNOS. S.A.	Par	Cuatricromia	Generales	35x6	17	979.732	Publicado	Patricia Villena	2015-5-26 00:00:00	
+76243	UNIVERSIDAD CATOLICA DEL NORTE	Par	Blanco y negro	Generales	17x6	24	0	Publicado	Miguel Apey	2015-5-26 00:00:00	
+74898	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	4x5	28	20.508	Publicado	Miguel Apey	2015-5-26 00:00:00	
+76210	AREVALO CARMEN			UIP	5x1	29	8.937	Publicado	Pedro Jaime	2015-5-26 00:00:00	
+75719	SOC. INMOBILIARIA DE INVERSIONES RE	Par	Blanco y negro	Generales	5x1	29	7.427	Publicado	Miguel Apey	2015-5-26 00:00:00	
+76230	DESIDERIO			UIP	5x2	29	17.875	Publicado	Claudio Romero	2015-5-26 00:00:00	
+69712	sociedad restau			UIP	5x2	29	17.875	Publicado	Jacqueline Torres	2015-5-26 00:00:00	
+74418	PILLA LA VACA	Par	Blanco y negro	Generales	5x2	29	0	Publicado	Marcela Tello-ElDia	2015-5-26 00:00:00	
+74199	ARMAQ			UIP	5x1	29	8.937	Publicado	Claudio Romero	2015-5-26 00:00:00	
+74813	SOC. DE GESTION MEDITERRANEA			UIP	5x1	29	8.937	Publicado	Miguel Apey	2015-5-26 00:00:00	
+74734	SOC. COMERCIAL ALCAPARRA LTDA.	Par	Blanco y negro	Generales	5x2	29	10.440	Publicado	Patricia Villena	2015-5-26 00:00:00	
+74384	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	29	0	Publicado	Marcela Tello-ElDia	2015-5-26 00:00:00	
+74457	DIARIO EL DIA	Par	Blanco y negro	Generales	5x2	29	0	Publicado	Marcela Tello-ElDia	2015-5-26 00:00:00	
+76244	ANDRES ALVAREZ TOLMOS	Par	Blanco y negro	Generales	12x2	30	43.944	Publicado	Pedro Jaime	2015-5-26 00:00:00	
+75146	SERVICIOS GENERALES GUAYACAN S.A	Par	Blanco y negro	Generales	3x2	30	6.667	Publicado	Jacqueline Torres	2015-5-26 00:00:00	
+76245	CENCOSUD RETAIL S.A.	Impar	Cuatricromia	Contraportada	35x6	32	744.166	Publicado	Kathine Soto-Stgo	2015-5-26 00:00:00	
+76227	SANTANDER G.R.C.	872 Palabras		Legal	x	EC	216.470	Publicado	Pedro Jaime	2015-5-26 00:00:00	
+76236	SANTANDER G.R.C.	772 Palabras		Legal	x	EC	191.596	Publicado	Pedro Jaime	2015-5-26 00:00:00	
+76239	SANTANDER G.R.C.	561 Palabras		Legal	x	EC	139.327	Publicado	Pedro Jaime	2015-5-26 00:00:00	
+76240	SANTANDER G.R.C.	561 Palabras		Legal	x	EC	139.327	Publicado	Pedro Jaime	2015-5-26 00:00:00	
+76226	SANTANDER G.R.C.	856 Palabras		Legal	x	EC	212.436	Publicado	Pedro Jaime	2015-5-26 00:00:00	
+74666	SOC. COMERCIAL VARGAS Y GIACOMET	Par	Blanco y negro	Generales	5x1	EC-22	5.860	Publicado	Rene Pizarro	2015-5-26 00:00:00	
+74637	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Generales	5x1	EC-22	5.860	Publicado	Rene Pizarro	2015-5-26 00:00:00	
+76257	DIARIO EL DIA	Par	Cuatricromia	Generales	10x6	EC-22	0	Publicado	Marcela Tello-ElDia	2015-5-26 00:00:00	
+76228	CARMEN AREVALO ROMERO	199 Palabras		Propiedades	x	PROP	31.840	Publicado	Pedro Jaime	2015-5-26 00:00:00	

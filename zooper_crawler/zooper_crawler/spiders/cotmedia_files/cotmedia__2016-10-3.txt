@@ -1,0 +1,42 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+113128	CHRISTIAN LAUNITZ MARIN SERVICIOS M	Par	Blanco y negro	Generales	4x2	04	6.464	Publicado	Jacqueline Torres	2016-10-3 00:00:00	
+113413	CARAT CHILE S.A.	Impar	Cuatricromia	Generales	35x6	05	620.000	Publicado	Kathine Soto-Stgo	2016-10-3 00:00:00	
+112698	HABITA INMOBILIARIA SA	Par	Cuatricromia	Generales	34x3	07	0	Publicado	Miguel Apey	2016-10-3 00:00:00	
+113163	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	08	0	Arte	Marcela Tello-ElDia	2016-10-3 00:00:00	
+113451	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Cuatricromia	Medios Regionales	32x6	09	518.048	Arte	Medios Regionales	2016-10-3 00:00:00	
+113323	SEREMI BIENES NACIONALES IV REGION	Par	Blanco y negro	Generales	12x2	10	61.526	Publicado	Jacqueline Torres	2016-10-3 00:00:00	
+113333	ARZOBISPADO DE LA SERENA	Par	Blanco y negro	Generales	5x2	10	0	Publicado	Marcela Tello-ElDia	2016-10-3 00:00:00	
+113335	ARZOBISPADO DE LA SERENA	Par	Blanco y negro	Generales	34x6	11	0	Publicado	Marcela Tello-ElDia	2016-10-3 00:00:00	
+113325	SEREMI BIENES NACIONALES IV REGION	Par	Blanco y negro	Generales	12x2	12	61.526	Publicado	Jacqueline Torres	2016-10-3 00:00:00	
+113444	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	10x4	12	86.960	Arte	Medios Regionales	2016-10-3 00:00:00	
+112699	INMOBILIARIA KUPAL LTDA.	Par	Cuatricromia	Generales	17x3	13	0	Publicado	Miguel Apey	2016-10-3 00:00:00	
+112473	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	13	0	Publicado	Marcela Tello-ElDia	2016-10-3 00:00:00	
+112667	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	5x2	14	0	Publicado	Miguel Apey	2016-10-3 00:00:00	
+112611	LABORATORIO CLINICO STA. MARIA LA S	Par	Blanco y negro	Generales	6x2	14	7.470	Publicado	Miguel Apey	2016-10-3 00:00:00	
+111872	INVERSIONES VEINTINUEVE GRADOS	Par	Blanco y negro	Generales	5x2	14	9.280	Publicado	Patricia Villena	2016-10-3 00:00:00	
+112068	SOC. COMERCIAL NAPOLEON LTDA.	Impar	Blanco y negro	Generales	5x6	15	11.538	Publicado	Patricia Villena	2016-10-3 00:00:00	
+112551	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	15	8.306	Publicado	Miguel Apey	2016-10-3 00:00:00	
+113465	BAUERSACHS 			UIP	5x1	16	8.937	Publicado	Pedro Jaime	2016-10-3 00:00:00	
+112980	DAVILA CARLOS			UIP	5x1	16	8.937	Publicado	Pedro Jaime	2016-10-3 00:00:00	
+112914	MAQUINARIA DE PANADERIA INDUSTRIA Y	Par	Blanco y negro	Generales	17x1	16	37.353	Publicado	Rene Pizarro	2016-10-3 00:00:00	
+112484	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	16	0	Arte	Marcela Tello-ElDia	2016-10-3 00:00:00	
+113093	SERVICIO DE REGISTRO CIVIL E IDENTI	Par	Blanco y negro	Generales	35x6	19-21	713.550	Publicado	Jacqueline Torres	2016-10-3 00:00:00	
+112988	ADMINISTRADORA HOTELERA LA SERENA S	Par	Cuatricromia	Generales	12x6	23	184.565	Publicado	Patricia Villena	2016-10-3 00:00:00	
+112703	SOCOR LTDA.	Par	Cuatricromia	Generales	10x6	26	0	Publicado	Miguel Apey	2016-10-3 00:00:00	
+112700	INVERSIONES E INMOBILIARIA P.A.T.  	Par	Cuatricromia	Generales	34x3	27	0	Publicado	Miguel Apey	2016-10-3 00:00:00	
+113316	AREVALO CARMEN 			UIP	5x1	30	8.937	Publicado	Pedro Jaime	2016-10-3 00:00:00	
+112023	SOC. DE GES			UIP	5x1	30	8.937	Publicado	Miguel Apey	2016-10-3 00:00:00	
+107004	SOC.COMERCIAL ALTOS LA SERENA LTDA	Par	Blanco y negro	Generales	5x2	30	8.334	Publicado	Nadia Randolph	2016-10-3 00:00:00	
+108464	CERNA E HIJOS CIA. LTDA.	Par	Blanco y negro	Generales	5x1	30	4.468	Publicado	Nadia Randolph	2016-10-3 00:00:00	
+113228	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	30	0	Arte	Marcela Tello-ElDia	2016-10-3 00:00:00	
+112582	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	4x5	30	20.508	Publicado	Miguel Apey	2016-10-3 00:00:00	
+107463	INV. GASTRONOMICAS PATRICIA TORO EI	Par	Blanco y negro	Generales	5x2	30	8.973	Publicado	Nadia Randolph	2016-10-3 00:00:00	
+112849	ARMAQ			UIP	5x1	30	8.937	Publicado	Claudio Romero	2016-10-3 00:00:00	
+113414	SERVICIOS GASTRON?MICOS LA CASONA D	Par	Blanco y negro	Generales	5x2	30	10.725	Publicado	Miguel Apey	2016-10-3 00:00:00	
+113098	SERVICIOS GENERALES GUAYACAN S.A	Par	Blanco y negro	Generales	4x2	31	6.666	Publicado	Jacqueline Torres	2016-10-3 00:00:00	
+111613	VELIZ CORTES JOSE A.	Par	Blanco y negro	Generales	3x2	31	13.403	Publicado	Pedro Cortes	2016-10-3 00:00:00	
+113064	IP PROYECTOS INDUSTRIALES LTDA.	Par	Blanco y negro	Generales	3x2	EC-17	21.972	Publicado	Pedro Jaime	2016-10-3 00:00:00	
+108905	HOTELERIA LUIS ALBERTO BERETTA KIEK	Par	Blanco y negro	Generales	5x2	EC-18	6.994	Publicado	Patricia Villena	2016-10-3 00:00:00	
+112880	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Generales	5x1	EC-18	5.860	Publicado	Rene Pizarro	2016-10-3 00:00:00	
+113151	CORPBANCA	Par	Blanco y negro	Generales	14x1	EC-18	36.398	Publicado	Pedro Jaime	2016-10-3 00:00:00	
+113504	DIARIO EL DIA	Par	Cuatricromia	Generales	17x6	EC-18	0	Arte	Marcela Tello-ElDia	2016-10-3 00:00:00	

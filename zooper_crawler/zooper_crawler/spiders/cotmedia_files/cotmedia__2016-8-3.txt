@@ -1,0 +1,55 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+108512	CLARO CHILE S.A.	Impar	Cuatricromia	Generales	35x6	05	0	Publicado	Kathine Soto-Stgo	2016-8-3 00:00:00	
+107764	ILUSTRE MUNICIPALIDAD DE LA SERENA	Par	Cuatricromia	Generales	17x6	09	0	Publicado	M Cristina Puga	2016-8-3 00:00:00	
+108551	DIARIO EL DIA	Par	Cuatricromia	Generales	34x6	11	0	Arte	Marcela Tello-ElDia	2016-8-3 00:00:00	
+108492	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	12	0	Arte	Marcela Tello-ElDia	2016-8-3 00:00:00	
+108548	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	12	0	Arte	Marcela Tello-ElDia	2016-8-3 00:00:00	
+108104	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	5x2	13	0	Publicado	Miguel Apey	2016-8-3 00:00:00	
+108329	DIARIO EL DIA	Par	Blanco y negro	Generales	5x2	13	0	Arte	Marcela Tello-ElDia	2016-8-3 00:00:00	
+108024	CENTRO TECNICO ACUARELA LTDA.	Par	Blanco y negro	Generales	5x2	13	20.141	Publicado	Rene Pizarro	2016-8-3 00:00:00	
+108532	ARZOBISPADO DE LA SERENA	Par	Blanco y negro	Generales	5x2	14	0	Arte	Marcela Tello-ElDia	2016-8-3 00:00:00	
+108535	DIARIO EL DIA	Par	Blanco y negro	Generales	5x2	14	0	Arte	Marcela Tello-ElDia	2016-8-3 00:00:00	
+108164	TRANSPORTES SUPERTRANS LTDA	Par	Blanco y negro	Generales	4x2	15	0	Publicado	Pedro Jaime	2016-8-3 00:00:00	
+107950	MAQUINARIAS TANNY NOGALES BELTRAN E	Par	Blanco y negro	Generales	5x3	15	0	Arte	Pedro Jaime	2016-8-3 00:00:00	
+108063	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	16	0	Arte	Marcela Tello-ElDia	2016-8-3 00:00:00	
+108367	SERVICIO TRANSPORTES SERENA MAR CAR	Par	Cuatricromia	Generales	17x3	16	0	Publicado	Marcela Tello-ElDia	2016-8-3 00:00:00	
+107695	DIARIO EL DIA	Par	Cuatricromia	Generales	17x6	17	0	Publicado	Marcela Tello-ElDia	2016-8-3 00:00:00	
+107870	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	18	8.306	Publicado	Miguel Apey	2016-8-3 00:00:00	
+108210	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	23	0	Arte	Marcela Tello-ElDia	2016-8-3 00:00:00	
+107618	AGUAS DEL VALLE S.A.	Par	Cuatricromia	Generales	5x6	24	49.218	Publicado	Jacqueline Torres	2016-8-3 00:00:00	
+108555	INMOBILIARIA E INVERSIONES ESPACIO 	Par	Cuatricromia	Generales	5x6	25	0	Publicado	Patricia Villena	2016-8-3 00:00:00	
+107792	MAQUINARIA DE PANADERIA INDUSTRIA Y	Par	Blanco y negro	Generales	17x1	29	0	Publicado	Rene Pizarro	2016-8-3 00:00:00	
+107410	INV. GASTRONOMICAS PATRICIA TORO EI	Par	Blanco y negro	Generales	5x2	30	8.973	Publicado	Nadia Randolph	2016-8-3 00:00:00	
+108536	CERNA E HIJOS CIA. LTDA.	Par	Blanco y negro	Generales	5x1	30	4.468	Publicado	Nadia Randolph	2016-8-3 00:00:00	
+108324	AREVALO CARMEN			UIP	5x1	30	8.937	Publicado	Pedro Jaime	2016-8-3 00:00:00	
+108276	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	30	0	Arte	Marcela Tello-ElDia	2016-8-3 00:00:00	
+107799	ARMAQ			UIP	5x1	30	8.937	Publicado	Claudio Romero	2016-8-3 00:00:00	
+106603	SERVICIOS GASTRON?MICOS LA CASONA D	Par	Blanco y negro	Generales	5x2	30	10.725	Publicado	Miguel Apey	2016-8-3 00:00:00	
+107840	SOC. DE GES			UIP	5x1	30	8.937	Publicado	Miguel Apey	2016-8-3 00:00:00	
+106939	SOC.COMERCIAL ALTOS LA SERENA LTDA	Par	Blanco y negro	Generales	5x2	30	8.973	Publicado	Nadia Randolph	2016-8-3 00:00:00	
+107903	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	4x5	30	20.508	Publicado	Miguel Apey	2016-8-3 00:00:00	
+106308	SERVICIOS GENERALES GUAYACAN S.A	Par	Blanco y negro	Generales	4x2	31	6.666	Publicado	Jacqueline Torres	2016-8-3 00:00:00	
+106563	VELIZ CORTES JOSE A.	Par	Blanco y negro	Generales	3x2	31	13.403	Publicado	Pedro Cortes	2016-8-3 00:00:00	
+108383	DIARIO EL DIA	Par	Blanco y negro	Generales	5x2	EC-20	0	Arte	Marcela Tello-ElDia	2016-8-3 00:00:00	
+108388	SOTRALITUR S.A.	Par	Blanco y negro	Generales	6x2	EC-20	43.944	Publicado	Pedro Jaime	2016-8-3 00:00:00	
+107995	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Generales	5x1	EC-21	5.860	Publicado	Rene Pizarro	2016-8-3 00:00:00	
+100978	HOTELERIA LUIS ALBERTO BERETTA KIEK	Par	Blanco y negro	Generales	5x2	EC-21	8.937	Publicado	Patricia Villena	2016-8-3 00:00:00	
+108552	DIARIO EL DIA	Par	Cuatricromia	Generales	17x6	EC-21	0	Arte	Marcela Tello-ElDia	2016-8-3 00:00:00	
+108509	AUTOMOTRIZ PEDREGAL LTDA.	431 Palabras		Propiedades	x	PRO	68.960	Publicado	Pedro Jaime	2016-8-3 00:00:00	
+108508	COMERCIAL AUTOKARINO LTDA.	316 Palabras		Propiedades	x	PRO	50.560	Publicado	Pedro Jaime	2016-8-3 00:00:00	
+108507	JACQUELINE BARRERA BARRAZA	977 Palabras		Propiedades	x	PRO	156.320	Publicado	Pedro Jaime	2016-8-3 00:00:00	
+108506	GONZALEZ RIVERA MANUEL RICARDO	930 Palabras		Propiedades	x	PRO	148.800	Publicado	Pedro Jaime	2016-8-3 00:00:00	
+108510	SOC. AMENABAR REYES Y AMENABAR LTDA	325 Palabras		Propiedades	x	PRO	52.000	Publicado	Pedro Jaime	2016-8-3 00:00:00	
+108504	ESTAY BRAVO CESAR	326 Palabras		Propiedades	x	PRO	52.160	Publicado	Pedro Jaime	2016-8-3 00:00:00	
+108412	THE HOUSE DREAM S.A.	939 Palabras		Propiedades	x	PRO	150.240	Publicado	Pedro Jaime	2016-8-3 00:00:00	
+108413	CONSULTORIAS AGRICOLAS RICARDO SEPU	800 Palabras		Propiedades	x	PRO	128.000	Publicado	Pedro Jaime	2016-8-3 00:00:00	
+108414	RODRIGUEZ ROJAS MARCELO	601 Palabras		Propiedades	x	PRO	96.160	Publicado	Pedro Jaime	2016-8-3 00:00:00	
+108415	SOBERANIA SPA	283 Palabras		Propiedades	x	PRO	45.280	Publicado	Pedro Jaime	2016-8-3 00:00:00	
+108441	INMOBILIARIA PRO LIMITADA	1014 Palabras		Propiedades	x	PRO	162.240	Publicado	Pedro Jaime	2016-8-3 00:00:00	
+108442	YOLANDA ELIAS CAMBLOR	441 Palabras		Propiedades	x	PRO	70.560	Publicado	Pedro Jaime	2016-8-3 00:00:00	
+108467	GONZALEZ ADAROS MARIA SOLEDAD	727 Palabras		Propiedades	x	PRO	116.320	Publicado	Pedro Jaime	2016-8-3 00:00:00	
+108493	FERES REBOLLEDO ANA ISABEL	467 Palabras		Propiedades	x	PRO	74.720	Publicado	Pedro Jaime	2016-8-3 00:00:00	
+108501	JANIER MUNDACA ALBI?A	560 Palabras		Propiedades	x	PRO	89.600	Publicado	Pedro Jaime	2016-8-3 00:00:00	
+108502	LILIAN ELIZABETH OLIVARES LANAS	727 Palabras		Propiedades	x	PRO	116.320	Publicado	Pedro Jaime	2016-8-3 00:00:00	
+108503	GABRIELA ARENAS O'RYAN	281 Palabras		Propiedades	x	PRO	44.960	Publicado	Pedro Jaime	2016-8-3 00:00:00	
+108505	MARIANA ROMERO RIVEROS	531 Palabras		Propiedades	x	PRO	84.960	Publicado	Pedro Jaime	2016-8-3 00:00:00	

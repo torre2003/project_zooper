@@ -1,0 +1,10 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+96050	AUTOMOTRIZ CARMONA	Par	Cuatricromia	Generales	6x6	01	23.076	Publicado	Marcela Tello-ElDia	Nissan Xtrail - Portada (si hay disponibilidad)	2016-2-22 00:00:00	
+95739	ABRIL PUBLICIDAD INVERSIONES Y ASES	Par	Cuatricromia	Generales	35x6	03	445.386	Publicado	Patricia Villena		2016-2-22 00:00:00	
+95485	AGRICOLA NORTE TALINAY LTDA	Par	Blanco y negro	Generales	5x2	05	1.666	Publicado	Paola Marquez	UIP JEFE TERRENO 	2016-2-22 00:00:00	
+95514	AGRICOLA NORTE TALINAY LTDA	Par	Blanco y negro	Generales	5x2	05	1.666	Publicado	Paola Marquez	UIP VENTA ALFALFA	2016-2-22 00:00:00	
+96135	SOC. EDUCACIONAL DALMACIA LTDA.	Par	Blanco y negro	Generales	8x2	05	30.132	Publicado	Nadia Randolph		2016-2-22 00:00:00	
+95093	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	07	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2016-2-22 00:00:00	
+94735	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	6x6	09	16.065	Publicado	Claudio Romero	Muebles Alpina	2016-2-22 00:00:00	
+96319	PRENSA DEL LIMARI LTDA.	Par	Blanco y negro	Generales	17x6	13	0	Arte	Marcela Tello-ElDia		2016-2-22 00:00:00	
+95661	DABED Y CIA. LTDA., SELIM	Par	Cuatricromia	Generales	6x6	14	23.076	Publicado	Nadia Randolph	o.febrero 1	2016-2-22 00:00:00	

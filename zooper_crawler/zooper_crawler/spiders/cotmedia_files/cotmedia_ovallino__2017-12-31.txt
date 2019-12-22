@@ -1,0 +1,10 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+147136	CAMAL MUSALEM TAPIA Y CIA.	Impar	Cuatricromia	Generales	34x4	03	233.036	Publicado	Marcela Tello-ElDia	Toyota Fortuner - Camal Musalem - Impar	2017-12-31 00:00:00	
+147260	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	6x6	05	0	Publicado	Marcela Tello-ElDia		2017-12-31 00:00:00	
+145954	DABED Y CIA. LTDA., SELIM	Par	Cuatricromia	Generales	6x6	06	23.076	Publicado	Karina Rivera	GRAF. NAVIDAD EL OVALLINO	2017-12-31 00:00:00	
+145694	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	08	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2017-12-31 00:00:00	
+144763	OVALLE CASINO RESORT S.A	Par	Cuatricromia	Generales	25x4	09	171.372	Publicado	Paola Marquez	OCR Eventos diciembre	2017-12-31 00:00:00	
+131296	SOCIEDAD MEDICA Y CONSULTORA ESTETI		Cuatricromia	Guia	5x2	11	13.333	Publicado	Maria_Amelia Hermosilla	Diego Polanco	2017-12-31 00:00:00	
+146663	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x3	11	0	Publicado	Marcela Tello-ElDia		2017-12-31 00:00:00	
+146002	VELIZ CORTES JOSE A.			UIP	5x2	14	4.695	Publicado	Pedro Cortes		2017-12-31 00:00:00	
+147261	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	6x6	14	0	Publicado	Marcela Tello-ElDia		2017-12-31 00:00:00	

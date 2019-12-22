@@ -1,0 +1,15 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+88232	DABED Y CIA. LTDA., SELIM	Impar	Cuatricromia	Generales	6x6	03	23.077	Publicado	Italo Retamal		2015-11-14 00:00:00	
+87048	BIANCA DASOLI	Par	Blanco y negro	Generales	5x2	05	1.429	Publicado	Italo Retamal	tarot	2015-11-14 00:00:00	
+87067	linea			UIP	10x2	05	5.630	Publicado	Italo Retamal	seguridad 	2015-11-14 00:00:00	
+87150	socinget			UIP	10x2	05	5.630	Publicado	Italo Retamal		2015-11-14 00:00:00	
+88049	JOSE CONTADOR DURAN	Par	Blanco y negro	Generales	5x2	05	1.428	Publicado	Italo Retamal	arriendo local	2015-11-14 00:00:00	
+88915	SANDRA PAOLA 			UIP	10x2	06	5.630	Publicado	Italo Retamal	BRISTO Y BAR 	2015-11-14 00:00:00	
+81413	tanguemar			UIP	5x2	07	2.808	Publicado	Patricia Villena	Tanguemar	2015-11-14 00:00:00	
+88694	ADA D?AZ ARAYA	Par	Blanco y negro	Generales	5x2	07	1.428	Publicado	Italo Retamal	zona ganjah	2015-11-14 00:00:00	
+87720	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	10x3	07	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2015-11-14 00:00:00	
+88778	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	15x6	09	0	Publicado	Marcela Tello-ElDia	HAROLD MAYNE NICHOLLS	2015-11-14 00:00:00	
+89000	ILUSTRE MUNICIPALIDAD DE OVALLE	Impar	Cuatricromia	Generales	12x3	11	83.333	Publicado	Italo Retamal	6 carnaval primavera 	2015-11-14 00:00:00	
+89040	CONAFE	Par	Blanco y negro	Generales	17x3	11	138.063	Publicado	Jacqueline Torres	CORTE 	2015-11-14 00:00:00	
+89178	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	34x6	16	0	Publicado	Marcela Tello-ElDia	SUSCRIBETE Y LLEVATE DOS ENTRADAS A ROMEO SANTOS	2015-11-14 00:00:00	
+88805	EMPRESAS LA POLAR S.A.			Inserto	x	XX	180.000	Publicado	Patricia Villena	Sandalias	2015-11-14 00:00:00	

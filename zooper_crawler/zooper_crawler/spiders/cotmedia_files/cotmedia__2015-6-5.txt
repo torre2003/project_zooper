@@ -1,0 +1,38 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+76894	CHRISTIAN LAUNITZ MARIN SERVICIOS M	Par	Blanco y negro	Generales	3x2	04	6.440	Publicado	Jacqueline Torres	2015-6-5 00:00:00	
+75483	SKY AIRLINE S.A.	Impar	Cuatricromia	Generales	17x6	05	404.196	Publicado	M Cristina Puga	2015-6-5 00:00:00	
+77385	ILUSTRE MUNICIPALIDAD DE LA SERENA	Par	Blanco y negro	Generales	17x3	07	156.881	Publicado	M Cristina Puga	2015-6-5 00:00:00	
+77218	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	09	0	Publicado	Marcela Tello-ElDia	2015-6-5 00:00:00	
+77273	SOCIEDAD CONCESIONARIA RUTAS DEL AL	Impar	Cuatricromia	Generales	18x3	09	335.294	Publicado	Pedro Jaime	2015-6-5 00:00:00	
+76517	DIARIO EL DIA	Par	Cuatricromia	Generales	10x3	11	0	Publicado	Marcela Tello-ElDia	2015-6-5 00:00:00	
+76096	DIARIO EL DIA	Par	Cuatricromia	Generales	20x3	11	0	Publicado	Marcela Tello-ElDia	2015-6-5 00:00:00	
+77248	ROSA MARIA FERNANDEZ COBO	Par	Blanco y negro	Generales	5x2	13	36.620	Publicado	M Cristina Puga	2015-6-5 00:00:00	
+77433	PADRES FRANCISCANOS DEL NORTE	Par	Blanco y negro	Generales	5x1	13	18.310	Publicado	Rene Pizarro	2015-6-5 00:00:00	
+77073	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	10x3	13	0	Publicado	Marcela Tello-ElDia	2015-6-5 00:00:00	
+76858	SERV. NACIONAL DE LA MUJER	Impar	Cuatricromia	Generales	5x6	15	53.625	Publicado	Jacqueline Torres	2015-6-5 00:00:00	
+77436	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	16	0	Publicado	Marcela Tello-ElDia	2015-6-5 00:00:00	
+77201	INMOBILIARIA KUPAL LTDA.	Par	Cuatricromia	Generales	17x3	16	0	Arte	Miguel Apey	2015-6-5 00:00:00	
+76596	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	17	8.306	Publicado	Miguel Apey	2015-6-5 00:00:00	
+77410	DIARIO EL DIA	Par	Blanco y negro	Generales	35x6	22	0	Publicado	Carolina Naranjo	2015-6-5 00:00:00	
+77023	DIARIO EL DIA	Par	Cuatricromia	Generales	10x2	23	0	Publicado	Marcela Tello-ElDia	2015-6-5 00:00:00	
+77019	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Cuatricromia	Generales	5x2	23	0	Publicado	Marcela Tello-ElDia	2015-6-5 00:00:00	
+76990	PILLA LA VACA	Par	Cuatricromia	Generales	5x2	23	0	Publicado	Marcela Tello-ElDia	2015-6-5 00:00:00	
+77052	SOC. HOTELERA VICHUQUEN LTDA.	Par	Cuatricromia	Generales	5x3	23	0	Publicado	Marcela Tello-ElDia	2015-6-5 00:00:00	
+76961	MARTIN JURE PATRICIA	Par	Cuatricromia	Generales	5x3	23	0	Publicado	Marcela Tello-ElDia	2015-6-5 00:00:00	
+77405	SOCIEDAD RESTAURANTE JIN HAI WAN Y 	Par	Cuatricromia	Generales	10x2	23	17.875	Publicado	Jacqueline Torres	2015-6-5 00:00:00	
+76669	HOTEL COSTA REAL	Par	Cuatricromia	Generales	10x2	23	30.761	Publicado	Miguel Apey	2015-6-5 00:00:00	
+76665	BAKULIC RESTAURANT	Par	Cuatricromia	Generales	10x2	23	24.609	Publicado	Miguel Apey	2015-6-5 00:00:00	
+76465	ARMAQ			UIP	5x1	29	8.937	Publicado	Claudio Romero	2015-6-5 00:00:00	
+76560	SOC. DE GESTION MEDITERRANEA			UIP	5x1	29	8.937	Publicado	Miguel Apey	2015-6-5 00:00:00	
+76626	DANIELA PINTO			UIP	5x1	29	8.937	Publicado	Pedro Jaime	2015-6-5 00:00:00	
+77178	DESI			UIP	5x2	29	17.875	Publicado	Claudio Romero	2015-6-5 00:00:00	
+77125	SOC. COMERCIAL ALCAPARRA LTDA.	Par	Blanco y negro	Generales	5x2	29	10.440	Publicado	Patricia Villena	2015-6-5 00:00:00	
+76707	lara y cia			UIP	5x1	29	8.937	Publicado	Italo Retamal	2015-6-5 00:00:00	
+76867	AREVALO CARMEN			UIP	5x1	29	8.937	Publicado	Pedro Jaime	2015-6-5 00:00:00	
+76924	SERVICIOS GENERALES GUAYACAN S.A	Par	Blanco y negro	Generales	3x2	30	6.666	Publicado	Jacqueline Torres	2015-6-5 00:00:00	
+77437	DIARIO EL DIA	Par	Cuatricromia	Generales	34x6	32	0	Publicado	Marcela Tello-ElDia	2015-6-5 00:00:00	
+77409	DIARIO EL DIA	Par	Blanco y negro	Generales	6x2	EC-19	0	Publicado	Marcela Tello-ElDia	2015-6-5 00:00:00	
+76873	AREVALO CARMEN			UIP	5x1	EC-20	8.937	Publicado	Pedro Jaime	2015-6-5 00:00:00	
+76360	SOC. COMERCIAL VARGAS Y GIACOMET	Par	Blanco y negro	Generales	5x1	EC-20	5.860	Publicado	Rene Pizarro	2015-6-5 00:00:00	
+76330	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Generales	5x1	EC-20	5.860	Publicado	Rene Pizarro	2015-6-5 00:00:00	
+77422	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	MR: Inserto	x	INS	279.557	Publicado	Medios Regionales	2015-6-5 00:00:00	

@@ -1,0 +1,44 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+94689	CHRISTIAN LAURITZ MARIN	Par	Blanco y negro	Generales	4x2	04	6.667	Publicado	Jacqueline Torres	2016-2-22 00:00:00	
+95736	ABRIL PUBLICIDAD INVERSIONES Y ASES	Impar	Cuatricromia	Generales	35x6	05	824.511	Publicado	Patricia Villena	2016-2-22 00:00:00	
+95316	MANANTIAL S.A	Impar	Cuatricromia	Generales	17x6	07	407.889	Publicado	Kathine Soto-Stgo	2016-2-22 00:00:00	
+93940	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Cuatricromia	Medios Regionales	6x6	08	178.904	Publicado	Medios Regionales	2016-2-22 00:00:00	
+96039	DABED Y CIA. LTDA., SELIM	Par	Cuatricromia	Generales	7x6	10	39.920	Publicado	Marcela Tello-ElDia	2016-2-22 00:00:00	
+94507	HABITA INMOBILIARIA SA	Par	Cuatricromia	Generales	35x3	11	0	Publicado	Miguel Apey	2016-2-22 00:00:00	
+94312	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	11-12	8.306	Publicado	Miguel Apey	2016-2-22 00:00:00	
+94510	INVERSIONES E INMOBILIARIA P.A.T.  	Par	Cuatricromia	Generales	10x6	12	0	Publicado	Miguel Apey	2016-2-22 00:00:00	
+94170	PARQUES DE CHILE S.A.	Impar	Blanco y negro	Generales	5x2	13	37.520	Publicado	Rene Pizarro	2016-2-22 00:00:00	
+94976	UNIVERSIDAD DE ACONCAGUA	Par	Blanco y negro	Generales	10x3	13	146.480	Publicado	Rene Pizarro	2016-2-22 00:00:00	
+96306	AREVALO CARMEN			UIP	5x1	13	8.937	Publicado	Pedro Jaime	2016-2-22 00:00:00	
+94285	LABORATORIO CLINICO STA. MARIA LA S	Par	Blanco y negro	Generales	6x2	14	7.470	Publicado	Miguel Apey	2016-2-22 00:00:00	
+96243	CARNEGIE INSTITUTION OF WASHINGTON	Par	Blanco y negro	Generales	8x2	14	58.592	Publicado	Pedro Jaime	2016-2-22 00:00:00	
+94496	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	5x2	14	0	Publicado	Miguel Apey	2016-2-22 00:00:00	
+96176	INMOBIL. LA SERENA GOLF S.A.	Impar	Cuatricromia	Generales	17x6	21	0	Publicado	Patricia Villena	2016-2-22 00:00:00	
+95227	PRODUCCIONES KALEY LTDA	Par	Cuatricromia	Generales	17x3	22	35.714	Publicado	Paola Marquez	2016-2-22 00:00:00	
+96298	DIARIO EL DIA	Par	Cuatricromia	Generales	20x3	22	0	Publicado	Marcela Tello-ElDia	2016-2-22 00:00:00	
+95064	MARTIN JURE PATRICIA	Par	Cuatricromia	Generales	6x6	27	0	Publicado	Marcela Tello-ElDia	2016-2-22 00:00:00	
+95602	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	6x3	28	39.132	Publicado	Medios Regionales	2016-2-22 00:00:00	
+94528	NAZARIO NELSON ESPINOZA GONZALEZ	Par	Blanco y negro	Generales	7x3	28	0	Publicado	Miguel Apey	2016-2-22 00:00:00	
+96162	ALLTIME SOCIEDAD			UIP	5x1	29	8.937	Publicado	Pedro Jaime	2016-2-22 00:00:00	
+96261	leon leon soc. ltda.			UIP	5x2	29	17.875	Publicado	Jacqueline Torres	2016-2-22 00:00:00	
+96189	ILUSTRE MUNICIPALIDAD DE RIO HURTAD	Par	Blanco y negro	Generales	15x3	29	115.353	Publicado	Jacqueline Torres	2016-2-22 00:00:00	
+94654	CAMPODONICO			UIP	5x1	30	8.937	Publicado	Pedro Jaime	2016-2-22 00:00:00	
+94355	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	4x5	30	20.508	Publicado	Miguel Apey	2016-2-22 00:00:00	
+94716	ARMAQ			UIP	5x1	30	8.937	Publicado	Claudio Romero	2016-2-22 00:00:00	
+95801	CERNA E HIJOS CIA. LTDA.	Par	Blanco y negro	Generales	5x1	30	4.467	Publicado	Nadia Randolph	2016-2-22 00:00:00	
+95205	SOC. COMERCIAL ALCAPARRA LTDA.	Par	Blanco y negro	Generales	5x2	30	10.440	Publicado	Patricia Villena	2016-2-22 00:00:00	
+94264	SOC. DE GESTION MEDITERRANEA			UIP	5x1	30	8.937	Publicado	Miguel Apey	2016-2-22 00:00:00	
+95257	MAURICIO ALEJANDRO BUGUENO CONTRERA	Par	Blanco y negro	Generales	5x1	30	4.468	Publicado	Nadia Randolph	2016-2-22 00:00:00	
+95029	DIARIO EL DIA	Par	Blanco y negro	Generales	5x2	30	0	Publicado	Marcela Tello-ElDia	2016-2-22 00:00:00	
+95127	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	30	0	Publicado	Marcela Tello-ElDia	2016-2-22 00:00:00	
+91313	Alejandro ra			UIP	5x1	30	4.467	Publicado	M Cristina Puga	2016-2-22 00:00:00	
+95173	SERVICIOS GENERALES GUAYACAN S.A	Par	Blanco y negro	Generales	3x2	31	6.667	Publicado	Jacqueline Torres	2016-2-22 00:00:00	
+96254	CAMAL MUSALEM TAPIA Y CIA.	Par	Blanco y negro	Generales	5x2	EC-17	29.296	Publicado	Marcela Tello-ElDia	2016-2-22 00:00:00	
+96285	SOCIEDAD ALLTIME	Par	Blanco y negro	Generales	3x2	EC-17	21.972	Publicado	Pedro Jaime	2016-2-22 00:00:00	
+94777	HOTELERIA LUIS ALBERTO BERETTA KIEK	Par	Blanco y negro	Generales	5x2	EC-17	8.937	Publicado	Patricia Villena	2016-2-22 00:00:00	
+96324	DIARIO EL DIA	Par	Blanco y negro	Generales	17x6	EC-18	0	Publicado	Marcela Tello-ElDia	2016-2-22 00:00:00	
+94949	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Generales	5x1	EC-18	5.860	Publicado	Rene Pizarro	2016-2-22 00:00:00	
+96312	AREVALO CARMEN			UIP	5x1	EC-18	8.937	Publicado	Pedro Jaime	2016-2-22 00:00:00	
+95872	LOS NIETOS INVERSIONES LTDA.	Par	Cuatricromia	Generales	10x6	EE-03	199.946	Publicado	Paola Marquez	2016-2-22 00:00:00	
+96301	ILUSTRE MUNICIPALIDAD DE VICUNA		1 pag.	Inserto	x	EE-04	1.000.000	Publicado	Marcela Tello-ElDia	2016-2-22 00:00:00	
+96325	CALLEGARI LTDA.	Par	Cuatricromia	Generales	17x6	EE-07	285.498	Publicado	Marcela Tello-ElDia	2016-2-22 00:00:00	

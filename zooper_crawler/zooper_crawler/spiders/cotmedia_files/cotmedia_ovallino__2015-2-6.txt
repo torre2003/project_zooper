@@ -1,0 +1,11 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+68759	SOCIEDAD DE RENTAS FALABELLA S.A	Par	Cuatricromia	Generales	8x6	01	50.980	Publicado	M Cristina Puga	open Plaza/portada	2015-2-6 00:00:00	
+68749	ABRIL PUBLICIDAD INVERSIONES Y ASES	Impar	Cuatricromia	Generales	17x6	03	208.680	Publicado	Patricia Villena		2015-2-6 00:00:00	
+68247	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	10x3	05	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2015-2-6 00:00:00	
+68815	SOC. HOTELERA VICHUQUEN LTDA.	Par	Cuatricromia	Generales	10x3	06	0	Publicado	Marcela Tello-ElDia		2015-2-6 00:00:00	
+68774	LA ELEGANTE	Par	Blanco y negro	Generales	17x3	07	0	Publicado	Patricia Villena		2015-2-6 00:00:00	
+68700	ALVI SUPERMERCADOS MAYORISTAS S.A.	Impar	Cuatricromia	Generales	35x3	09	207.623	Publicado	Italo Retamal	mayorista 10 v6	2015-2-6 00:00:00	
+68320	ILUSTRE MUNICIPALIDAD DE PUNITAQUI	Par	Blanco y negro	Generales	15x2	10	70.620	Publicado	Leonel Pizarro-Ovalle	jefe tecnico	2015-2-6 00:00:00	
+68766	ILUSTRE MUNICIPALIDAD DE PUNITAQUI	Par	Blanco y negro	Generales	15x2	10	70.620	Publicado	Leonel Pizarro-Ovalle	asesor tecnico	2015-2-6 00:00:00	
+68344	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	6x6	11	16.065	Publicado	Claudio Romero	Muebles Alpina	2015-2-6 00:00:00	
+68384	reyes mor			UIP	10x6	12	16.260	Publicado	Italo Retamal	monte cordillera	2015-2-6 00:00:00	

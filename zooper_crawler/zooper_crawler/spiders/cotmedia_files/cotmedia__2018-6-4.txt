@@ -1,0 +1,30 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+154740	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Cuatricromia	Medios Regionales	16x6	05	324.840	Publicado	Medios Regionales	2018-6-4 00:00:00	
+157508	INMOBIL. LA SERENA GOLF S.A.	Par	Cuatricromia	Generales	17x6	07	0	Publicado	Patricia Villena	2018-6-4 00:00:00	
+157465	HABITA INMOBILIARIA SA	Par	Cuatricromia	Generales	17x6	09	0	Publicado	Miguel Apey	2018-6-4 00:00:00	
+157443	CAMARA CHILENA DE LA CONSTRUCCION A	Par	Cuatricromia	Generales	17x6	11	209.174	Publicado	Jacqueline Torres	2018-6-4 00:00:00	
+157041	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	11	8.306	Publicado	Miguel Apey	2018-6-4 00:00:00	
+156722	C.M. SOC. GASTRONOMICA LTDA.			UIP	5x2	13	7.208	Publicado		2018-6-4 00:00:00	
+157455	ARZOBISPADO DE LA SERENA	Par	Blanco y negro	Generales	5x2	13	0	Publicado	Marcela Tello-ElDia	2018-6-4 00:00:00	
+157102	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	5x2	13	0	Publicado	Miguel Apey	2018-6-4 00:00:00	
+157166	JORGE CARMONA PASTEN	Par	Blanco y negro	Generales	10x3	15	65.546	Publicado		2018-6-4 00:00:00	
+157452	ILUSTRE MUNICIPALIDAD DE PUNITAQUI	Par	Blanco y negro	Generales	12x2	15	74.705	Publicado	Karina Rivera	2018-6-4 00:00:00	
+157191	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	16	0	Arte	Marcela Tello-ElDia	2018-6-4 00:00:00	
+157600	DIARIO EL DIA	Par	Blanco y negro	Generales	5x1	22	0	Arte	Marcela Tello-ElDia	2018-6-4 00:00:00	
+157256	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	22	0	Arte	Marcela Tello-ElDia	2018-6-4 00:00:00	
+155772	SOC. DE GES			UIP	5x1	22	8.937	Publicado	Miguel Apey	2018-6-4 00:00:00	
+157071	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	4x5	22	20.508	Publicado	Miguel Apey	2018-6-4 00:00:00	
+154388	CERNA E HIJOS CIA. LTDA.	Par	Blanco y negro	Generales	5x1	22	3.566	Publicado	Nadia Randolph	2018-6-4 00:00:00	
+156841	ARMAQ SUBIRI S.A.			UIP	5x1	22	8.937	Publicado	Claudio Romero	2018-6-4 00:00:00	
+157129	LABORATORIO CLINICO STA. MARIA LA S	Par	Blanco y negro	Generales	6x2	24	7.470	Publicado	Miguel Apey	2018-6-4 00:00:00	
+156947	SOC. AGRICOLA HACIENDA MANANTIALES	Par	Cuatricromia	Generales	6x3	24	64.598	Publicado	Karina Rivera	2018-6-4 00:00:00	
+157536	AREYUNA AREYUNA NIBALDO	Par	Cuatricromia	Generales	6x3	25	0	Publicado	Pedro Jaime	2018-6-4 00:00:00	
+157376	DIARIO EL DIA	Par	Cuatricromia	Generales	6x6	26	0	Arte	Marcela Tello-ElDia	2018-6-4 00:00:00	
+157550	DIARIO EL DIA	Par	Cuatricromia	Generales	12x6	28	0	Arte	Marcela Tello-ElDia	2018-6-4 00:00:00	
+156963	WALMART CHILE S.A	Impar	Cuatricromia	Generales	35x6	32	600.000	Publicado	M Cristina Puga	2018-6-4 00:00:00	
+157480	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	10x3	EC-17	68.490	Arte	Medios Regionales	2018-6-4 00:00:00	
+157520	SANTANDER G.R.C.	Par	Blanco y negro	Generales	10x2	EC-17	83.824	Publicado	Pedro Jaime	2018-6-4 00:00:00	
+157474	SANTANDER G.R.C.	Par	Blanco y negro	Generales	10x2	EC-18	83.824	Publicado	Pedro Jaime	2018-6-4 00:00:00	
+152086	HOTELERIA LUIS ALBERTO BERETTA KIEK	Par	Blanco y negro	Generales	5x2	EC-18	6.061	Publicado	Patricia Villena	2018-6-4 00:00:00	
+157609	DIARIO EL DIA	Par	Cuatricromia	Generales	4x6	EC-18	0	Arte	Marcela Tello-ElDia	2018-6-4 00:00:00	
+157575	GESTION INMOBILIARIA KAREN FLORES A	105 Palabras		Propiedades	x	PROP	16.807	Publicado	Pedro Jaime	2018-6-4 00:00:00	

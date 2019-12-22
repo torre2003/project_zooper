@@ -1,0 +1,5 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+68242	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	10x3	07	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2015-2-1 00:00:00	
+68474	LA ELEGANTE	Par	Blanco y negro	Generales	17x3	08	0	Publicado	Patricia Villena		2015-2-1 00:00:00	
+67905	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x6	09	0	Publicado	Marcela Tello-ElDia		2015-2-1 00:00:00	
+68472	LA ELEGANTE	Par	Cuatricromia	Generales	35x6	16	0	Publicado	Patricia Villena		2015-2-1 00:00:00	

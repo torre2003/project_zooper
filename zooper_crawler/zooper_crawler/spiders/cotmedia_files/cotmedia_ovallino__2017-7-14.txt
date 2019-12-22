@@ -1,0 +1,18 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+133770	PEDRO ANDRES MONARDEZ ELGUETA	Par	Cuatricromia	Generales	6x6	01	25.000	Publicado	Karina Rivera	Restaurant Riquisimo	2017-7-14 00:00:00	
+133873	SOCIEDAD DE RENTAS FALABELLA S.A	Par	Cuatricromia	Generales	17x6	03	200.000	Publicado	M Cristina Puga	Open Plaza - Mall Ovalle	2017-7-14 00:00:00	
+132196	EFRAIN PALMA KUHNOW	Par	Blanco y negro	Generales	17x3	05	50.443	Publicado	Karina Rivera	ACADEMIA DE DANZA	2017-7-14 00:00:00	
+133752	JACQUELINE JOFRE VILLANUEVA			UIP	5x2	05	2.808	Publicado	Karina Rivera	CORTINAS ROLLER OVALLE	2017-7-14 00:00:00	
+134141	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x3	06	0	Arte	Marcela Tello-ElDia	Solo en Cines - El Planeta de los Simios - La guerra	2017-7-14 00:00:00	
+134046	DABED Y CIA. LTDA., SELIM	Par	Cuatricromia	Generales	6x6	06	23.076	Publicado	Karina Rivera	E1	2017-7-14 00:00:00	
+134052	FERNANDO YOANOVICH			UIP	5x2	07	2.247	Publicado	Karina Rivera		2017-7-14 00:00:00	
+132786	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	6x6	08	16.065	Publicado	Claudio Romero	Muebles Alpina	2017-7-14 00:00:00	
+132711	OVALLE CASINO RESORT S.A	Par	Cuatricromia	Generales	25x4	09	131.824	Publicado	Paola Marquez	Eventos Julio OCR	2017-7-14 00:00:00	
+134142	PRENSA DEL LIMARI LTDA.	Par	Blanco y negro	Generales	12x6	10	0	Arte	Marcela Tello-ElDia	Club de Lectores - El Planeta de los Simios - La guerra	2017-7-14 00:00:00	
+134013	INMOBILIARIA NUEVA SERENA	Par	Cuatricromia	Generales	17x3	11	65.625	Publicado	Claudio Romero	PROYECTO OVALLE ..NUEVO..)	2017-7-14 00:00:00	
+134080	FERNANDO YOANOVICH			UIP	5x2	12	2.247	Publicado	Karina Rivera	TAROT SRA SOFIA	2017-7-14 00:00:00	
+134122	EMPRESA PERIODISTICA EL NORTE S.A.	Par	Blanco y negro	Medios Regionales	6x2	12	17.340	Publicado	Medios Regionales	Enami - Servicio de Aseo - (118398)	2017-7-14 00:00:00	
+133128	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	13	0	Arte	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2017-7-14 00:00:00	
+134042	SANTA CLARA SPA.	Par	Cuatricromia	Generales	6x6	14	13.889	Publicado	Karina Rivera	LOTEO VILLASECA	2017-7-14 00:00:00	
+133943	VELIZ CORTES JOSE A.			UIP	5x2	14	2.808	Publicado	Pedro Cortes		2017-7-14 00:00:00	
+134027	EMPRESAS LA POLAR S.A.	Impar	Cuatricromia	Generales	35x6	16	0	Arte	Patricia Villena	La Polar Feria del Hogar	2017-7-14 00:00:00	

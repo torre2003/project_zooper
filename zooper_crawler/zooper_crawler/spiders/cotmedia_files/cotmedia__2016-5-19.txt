@@ -1,0 +1,41 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+101828	CHRISTIAN LAURITZ MARIN	Par	Blanco y negro	Generales	4x2	04	6.666	Publicado	Jacqueline Torres	2016-5-19 00:00:00	
+102928	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	08	0	Publicado	Marcela Tello-ElDia	2016-5-19 00:00:00	
+102920	ILUSTRE MUNICIPALIDAD DE LA SERENA	Par	Cuatricromia	Generales	17x6	09	0	Publicado	M Cristina Puga	2016-5-19 00:00:00	
+102470	DIARIO EL DIA	Par	Cuatricromia	Generales	34x6	11	0	Publicado	Marcela Tello-ElDia	2016-5-19 00:00:00	
+102938	TERAPIAS DE LUZ EIRL	Par	Cuatricromia	Generales	5x2	12	0	Publicado	Maria_Amelia Hermosilla	2016-5-19 00:00:00	
+101150	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	12-20	8.306	Publicado	Miguel Apey	2016-5-19 00:00:00	
+102840	SOC PERIODISTICA BANIC Y LANCCELOTT	Par	Blanco y negro	Generales	10x6	13	164.790	Publicado	Leonel Pizarro-Ovalle	2016-5-19 00:00:00	
+102891	TEFRA INGENIERIA SANITARIA SPA	Par	Blanco y negro	Generales	5x1	14	0	Arte	Pedro Jaime	2016-5-19 00:00:00	
+101647	JUAN LUIS NARANJO DE LA RIVERA	Par	Blanco y negro	Generales	10x2	14	0	Publicado	Marcela Tello-ElDia	2016-5-19 00:00:00	
+101198	LABORATORIO CLINICO STA. MARIA LA S	Par	Blanco y negro	Generales	6x2	14	7.470	Publicado	Miguel Apey	2016-5-19 00:00:00	
+102825	AREVALO CARMEN			UIP	5x1	14	8.937	Publicado	Pedro Jaime	2016-5-19 00:00:00	
+102669	SOC.INMOBIL.Y DE INV.MORALES Y CIA.	Par	Blanco y negro	Generales	5x2	15	0	Publicado	Marcela Tello-ElDia	2016-5-19 00:00:00	
+101957	DIARIO EL DIA	Par	Blanco y negro	Generales	5x2	15	0	Publicado	Marcela Tello-ElDia	2016-5-19 00:00:00	
+101333	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	5x2	15	0	Publicado	Miguel Apey	2016-5-19 00:00:00	
+102353	DIARIO EL DIA	Par	Cuatricromia	Generales	8x6	16	0	Publicado	Marcela Tello-ElDia	2016-5-19 00:00:00	
+102915	DIARIO EL DIA	Par	Cuatricromia	Generales	34x6	17	0	Publicado	Marcela Tello-ElDia	2016-5-19 00:00:00	
+102936	SERVICIO ELECTORAL	Par	Blanco y negro	Generales	23x3	18	176.875	Publicado	Jacqueline Torres	2016-5-19 00:00:00	
+100194	SOC HOTELERA Y DE TURISMO HACIENDA 	Par	Cuatricromia	Generales	5x6	23	9.063	Publicado	Patricia Villena	2016-5-19 00:00:00	
+102628	AGENCIA PUBLICITARIA OREL ALI E.I.R	Par	Cuatricromia	Generales	12x4	24	0	Publicado	Marcela Tello-ElDia	2016-5-19 00:00:00	
+102252	SINDY GONZALEZ MARCHANT	Par	Blanco y negro	Generales	12x2	24	0	Publicado	Marcela Tello-ElDia	2016-5-19 00:00:00	
+102848	DIARIO EL DIA	Par	Blanco y negro	Generales	17x6	25	0	Publicado	Carolina Naranjo	2016-5-19 00:00:00	
+102945	CLARO CHILE S.A.	Impar	Cuatricromia	Generales	17x6	25	313.760	Publicado	Kathine Soto-Stgo	2016-5-19 00:00:00	
+101567	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	27	0	Publicado	Marcela Tello-ElDia	2016-5-19 00:00:00	
+102110	CERNA E HIJOS CIA. LTDA.	Par	Blanco y negro	Generales	5x1	29	4.524	Publicado	Nadia Randolph	2016-5-19 00:00:00	
+101210	CASA DEL PERNO	Par	Blanco y negro	Generales	5x3	29	23.071	Publicado	Miguel Apey	2016-5-19 00:00:00	
+101245	ARMAQ			UIP	5x1	29	8.937	Publicado	Claudio Romero	2016-5-19 00:00:00	
+101105	SOC. DE GESTION MEDITERRANEA			UIP	5x1	29	8.937	Publicado	Miguel Apey	2016-5-19 00:00:00	
+102761	SERVICIOS GASTRON?MICOS LA CASONA D	Par	Blanco y negro	Generales	5x2	30	10.725	Publicado	Miguel Apey	2016-5-19 00:00:00	
+102741	DAVILA CARLOS 			UIP	5x1	30	8.937	Publicado	Pedro Jaime	2016-5-19 00:00:00	
+101631	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	30	0	Publicado	Marcela Tello-ElDia	2016-5-19 00:00:00	
+100532	SOC.COMERCIAL ALTOS LA SERENA LTDA	Par	Blanco y negro	Generales	5x2	30	8.937	Publicado	Nadia Randolph	2016-5-19 00:00:00	
+101651	PILLA LA VACA	Par	Blanco y negro	Generales	5x2	30	0	Publicado	Marcela Tello-ElDia	2016-5-19 00:00:00	
+101180	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	4x5	30	20.508	Publicado	Miguel Apey	2016-5-19 00:00:00	
+101298	SOC. COMERCIAL ALCAPARRA LTDA.	Par	Blanco y negro	Generales	5x2	30	10.440	Publicado	Patricia Villena	2016-5-19 00:00:00	
+101798	SERVICIOS GENERALES GUAYACAN S.A	Par	Blanco y negro	Generales	4x2	31	6.667	Publicado	Jacqueline Torres	2016-5-19 00:00:00	
+102919	BANCO DE CREDITO E INVERSIONES	709 Palabras		Legal	x	EC	176.050	Publicado	Pedro Jaime	2016-5-19 00:00:00	
+102864	DIARIO EL DIA	Par	Blanco y negro	Generales	5x2	EC-21	0	Publicado	Marcela Tello-ElDia	2016-5-19 00:00:00	
+100909	HOTELERIA LUIS ALBERTO BERETTA KIEK	Par	Blanco y negro	Generales	5x2	EC-22	8.937	Publicado	Patricia Villena	2016-5-19 00:00:00	
+101406	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Generales	5x1	EC-22	5.860	Publicado	Rene Pizarro	2016-5-19 00:00:00	
+102976	DIARIO EL DIA	Par	Cuatricromia	Generales	17x6	EC-22	0	Publicado	Marcela Tello-ElDia	2016-5-19 00:00:00	

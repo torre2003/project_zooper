@@ -1,0 +1,55 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+116131	INMOBILIARIA EURO AMH S.A.	Par	Cuatricromia	Generales	34x6	05	500.000	Arte	Paola Marquez	2016-11-12 00:00:00	
+114904	BAKULIC RESTAURANT	Par	Cuatricromia	Generales	15x3	06	40.092	Arte	Miguel Apey	2016-11-12 00:00:00	
+116312	ARENA CHILE S.A.	Impar	Cuatricromia	Generales	17x6	07	390.000	Arte	M Cristina Puga	2016-11-12 00:00:00	
+116185	COMERCIAL CHRYSLER S.A.	Impar	Cuatricromia	Generales	35x6	09	750.000	Arte	Kathine Soto-Stgo	2016-11-12 00:00:00	
+115107	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	5x2	10	0	Arte	Miguel Apey	2016-11-12 00:00:00	
+115524	INMOBILIARIA RENVAL SPA	Par	Cuatricromia	Generales	25x4	10	471.666	Arte	Rene Pizarro	2016-11-12 00:00:00	
+115659	ICEFOOD LIMITADA	Par	Blanco y negro	Generales	5x2	11	8.925	Arte	Patricia Villena	2016-11-12 00:00:00	
+114288	GESTION NORTE	Par	Blanco y negro	Generales	5x2	11	9.280	Arte	Patricia Villena	2016-11-12 00:00:00	
+111909	INVERSIONES VEINTINUEVE GRADOS	Par	Blanco y negro	Generales	5x2	11	9.280	Arte	Patricia Villena	2016-11-12 00:00:00	
+116214	INMOBIL. LA SERENA GOLF S.A.	Impar	Cuatricromia	Generales	17x6	12	288.975	Arte	Patricia Villena	2016-11-12 00:00:00	
+116328	IMPORTADORA TRENTO LTDA.	Par	Cuatricromia	Generales	34x6	13	570.996	Arte	Marcela Tello-ElDia	2016-11-12 00:00:00	
+116231	SERV. VIVIENDA Y URBANIZACION IV RE	Par	Blanco y negro	Generales	10x2	14	58.989	Arte	Marcela Tello-ElDia	2016-11-12 00:00:00	
+116241	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	10x2	14	47.260	Arte	Medios Regionales	2016-11-12 00:00:00	
+116230	SERV. VIVIENDA Y URBANIZACION IV RE	Par	Blanco y negro	Generales	10x2	14	58.989	Arte	Marcela Tello-ElDia	2016-11-12 00:00:00	
+116206	CARAT CHILE S.A.	Impar	Cuatricromia	Generales	17x6	15	330.000	Arte	Kathine Soto-Stgo	2016-11-12 00:00:00	
+116349	DIARIO EL DIA	Par	Cuatricromia	Generales	34x6	16	0	Arte	Marcela Tello-ElDia	2016-11-12 00:00:00	
+114842	TODO ARAUCO S.A.	Impar	Cuatricromia	Generales	17x6	17	0	Arte	Patricia Villena	2016-11-12 00:00:00	
+116344	CALLEGARI LTDA.	Par	Cuatricromia	Generales	34x6	18	570.996	Arte	Marcela Tello-ElDia	2016-11-12 00:00:00	
+116055	OVALLE CASINO RESORT S.A	Par	Cuatricromia	Generales	25x4	19	235.833	Arte	Paola Marquez	2016-11-12 00:00:00	
+116143	DIARIO EL DIA	Par	Cuatricromia	Generales	34x6	20	0	Arte	Marcela Tello-ElDia	2016-11-12 00:00:00	
+114918	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	21	8.306	Arte	Miguel Apey	2016-11-12 00:00:00	
+116118	DIARIO EL DIA	Par	Cuatricromia	Generales	12x6	22	0	Arte	Marcela Tello-ElDia	2016-11-12 00:00:00	
+115043	DIARIO EL DIA	Par	Blanco y negro	Generales	35x6	24	0	Arte	Carolina Naranjo	2016-11-12 00:00:00	
+116192	SERV. VIVIENDA Y URBANIZACION IV RE	Impar	Blanco y negro	Generales	35x6	27	721.649	Arte	Jacqueline Torres	2016-11-12 00:00:00	
+116191	SERV. VIVIENDA Y URBANIZACION IV RE	Par	Blanco y negro	Generales	35x6	28	601.374	Arte	Jacqueline Torres	2016-11-12 00:00:00	
+116348	DIARIO EL DIA	Par	Blanco y negro	Generales	17x3	30	0	Arte	Marcela Tello-ElDia	2016-11-12 00:00:00	
+116318	DIARIO EL DIA	Par	Blanco y negro	Generales	35x6	33	0	Arte	Carolina Naranjo	2016-11-12 00:00:00	
+116248	SOCIEDAD COMERCIAL DE VEHICULOS S.A	Impar	Cuatricromia	Generales	25x5	35	442.187	Arte	Kathine Soto-Stgo	2016-11-12 00:00:00	
+115151	SERVICIOS GASTRON?MICOS LA CASONA D	Par	Blanco y negro	Generales	5x2	37	10.725	Arte	Miguel Apey	2016-11-12 00:00:00	
+114553	SOC. DE GES			UIP	5x1	37	8.937	Arte	Miguel Apey	2016-11-12 00:00:00	
+115557	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	37	0	Arte	Marcela Tello-ElDia	2016-11-12 00:00:00	
+115699	SOC.INMOBIL.Y DE INV.MORALES Y CIA.			UIP	5x2	37	0	Arte	Marcela Tello-ElDia	2016-11-12 00:00:00	
+114949	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	4x5	37	20.508	Arte	Miguel Apey	2016-11-12 00:00:00	
+115628	PILLA LA VACA	Par	Blanco y negro	Generales	5x2	37	0	Arte	Marcela Tello-ElDia	2016-11-12 00:00:00	
+115289	ARMAQ			UIP	5x1	37	8.937	Arte	Claudio Romero	2016-11-12 00:00:00	
+116000	AREVALO CARMEN			UIP	5x1	37	8.937	Arte	Pedro Jaime	2016-11-12 00:00:00	
+114764	CERNA E HIJOS CIA. LTDA.	Par	Blanco y negro	Generales	5x1	37	4.468	Arte	Nadia Randolph	2016-11-12 00:00:00	
+114077	VELIZ CORTES JOSE A.	Par	Blanco y negro	Generales	3x2	38	13.403	Arte	Pedro Cortes	2016-11-12 00:00:00	
+115202	SERVICIOS GENERALES GUAYACAN S.A	Par	Blanco y negro	Generales	4x2	38	6.666	Arte	Jacqueline Torres	2016-11-12 00:00:00	
+116078	FALABELLA RETAIL S.A.	Impar	Cuatricromia	Contraportada	35x6	40	600.000	Arte	M Cristina Puga	2016-11-12 00:00:00	
+115363	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	EC-23	0	Arte	Marcela Tello-ElDia	2016-11-12 00:00:00	
+116306	CIA. DE LEASING TATTERSALL S.A.	Par	Blanco y negro	Generales	11x2	EC-24	69.487	Arte	Pedro Jaime	2016-11-12 00:00:00	
+116346	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	EC-24	0	Arte	Marcela Tello-ElDia	2016-11-12 00:00:00	
+116347	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	EC-25	0	Arte	Marcela Tello-ElDia	2016-11-12 00:00:00	
+116340	REMATES RINEL SPA	Par	Blanco y negro	Generales	7x3	EC-25	88.438	Arte	Pedro Jaime	2016-11-12 00:00:00	
+116334	INDUSTRIAS CELTA LIMITADA	Par	Blanco y negro	Generales	5x2	EC-25	37.902	Arte	Miguel Apey	2016-11-12 00:00:00	
+115455	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Generales	5x1	EC-25	5.860	Arte	Rene Pizarro	2016-11-12 00:00:00	
+116324	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	10x2	EC-26	47.260	Arte	Medios Regionales	2016-11-12 00:00:00	
+116342	SANTANDER G.R.C.	Par	Blanco y negro	Generales	17x1	EC-26	71.593	Arte	Pedro Jaime	2016-11-12 00:00:00	
+116245	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	10x2	EC-26	47.260	Arte	Medios Regionales	2016-11-12 00:00:00	
+108947	HOTELERIA LUIS ALBERTO BERETTA KIEK	Par	Blanco y negro	Generales	5x2	EC-26	6.994	Arte	Patricia Villena	2016-11-12 00:00:00	
+116341	SANTANDER G.R.C.	Par	Blanco y negro	Generales	17x1	EC-26	71.593	Arte	Pedro Jaime	2016-11-12 00:00:00	
+115871	Easy Retail S.A.		9 a 24 pag.	Inserto	x	INSER	884.487	Arte	Patricia Villena	2016-11-12 00:00:00	
+116266	SOC. INMOBILIARIA E INVERSIONES CHI	220 Palabras		Propiedades	x	PROP	35.193	Arte	Claudio Romero	2016-11-12 00:00:00	

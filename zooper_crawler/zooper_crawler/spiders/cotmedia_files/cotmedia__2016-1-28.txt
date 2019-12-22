@@ -1,0 +1,43 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+92988	CHRISTIAN LAURITZ MARIN	Par	Blanco y negro	Generales	4x2	04	6.667	Publicado	Jacqueline Torres	2016-1-28 00:00:00	
+94563	CLARO CHILE S.A.	Impar	Cuatricromia	Generales	25x5	05	373.600	Publicado	Kathine Soto-Stgo	2016-1-28 00:00:00	
+94423	SOC. DE SER.COMERC Y APOYO FIN Y GE	Impar	Cuatricromia	Generales	17x6	07	282.385	Publicado	M Cristina Puga	2016-1-28 00:00:00	
+94399	DIARIO EL DIA	Par	Cuatricromia	Generales	17x6	08	0	Publicado	Marcela Tello-ElDia	2016-1-28 00:00:00	
+94578	RENDIC HNOS. S.A.	Par	Cuatricromia	Generales	35x6	09	979.932	Publicado	Patricia Villena	2016-1-28 00:00:00	
+94453	DIARIO EL DIA	Par	Cuatricromia	Generales	6x6	10	0	Publicado	Marcela Tello-ElDia	2016-1-28 00:00:00	
+94408	DIARIO EL DIA	Par	Cuatricromia	Generales	34x6	11	0	Publicado	Marcela Tello-ElDia	2016-1-28 00:00:00	
+94562	ILUSTRE MUNICIPALIDAD DE PUNITAQUI	Par	Blanco y negro	Generales	28x4	12	278.898	Publicado	Jacqueline Torres	2016-1-28 00:00:00	
+94569	SOC. EDUCACIONAL SAN GUILLERMO LTDA	Par	Blanco y negro	Generales	4x2	12	23.437	Publicado	Miguel Apey	2016-1-28 00:00:00	
+92336	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	5x2	13	0	Publicado	Miguel Apey	2016-1-28 00:00:00	
+92096	LABORATORIO CLINICO STA. MARIA LA S	Par	Blanco y negro	Generales	6x2	13	7.470	Publicado	Miguel Apey	2016-1-28 00:00:00	
+93291	DIARIO EL DIA	Par	Blanco y negro	Generales	5x2	13	0	Publicado	Marcela Tello-ElDia	2016-1-28 00:00:00	
+92142	CASA DEL PERNO	Par	Blanco y negro	Generales	5x3	15	23.071	Publicado	Miguel Apey	2016-1-28 00:00:00	
+92016	JUAN LUIS NARANJO DE LA RIVERA	Par	Blanco y negro	Generales	10x2	15	0	Publicado	Marcela Tello-ElDia	2016-1-28 00:00:00	
+92132	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	16	8.306	Publicado	Miguel Apey	2016-1-28 00:00:00	
+93869	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Cuatricromia	Medios Regionales	16x6	17	309.344	Publicado	Medios Regionales	2016-1-28 00:00:00	
+92966	DIARIO EL DIA	Par	Blanco y negro	Generales	8x6	22	0	Publicado	Marcela Tello-ElDia	2016-1-28 00:00:00	
+94387	SOC. DE CREACIONES LITERARIAS REGIO	Par	Cuatricromia	Generales	15x3	23	168.067	Publicado	Pedro Jaime	2016-1-28 00:00:00	
+94333	UNIVERSIDAD CENTRAL DE CHILE	Par	Blanco y negro	Generales	17x6	24	0	Publicado	Jacqueline Torres	2016-1-28 00:00:00	
+94514	DIARIO EL DIA	Par	Cuatricromia	Generales	6x6	26	0	Publicado	Marcela Tello-ElDia	2016-1-28 00:00:00	
+94102	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	27	0	Publicado	Marcela Tello-ElDia	2016-1-28 00:00:00	
+93873	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	27	0	Publicado	Marcela Tello-ElDia	2016-1-28 00:00:00	
+94373	PRODUCCIONES KALEY LTDA	Par	Cuatricromia	Generales	17x3	28	35.714	Publicado	Paola Marquez	2016-1-28 00:00:00	
+93907	AUTOMOTORES DEL NORTE	Par	Blanco y negro	Generales	5x1	29	7.427	Publicado	Miguel Apey	2016-1-28 00:00:00	
+91073	CERNA E HIJOS CIA. LTDA.	Par	Blanco y negro	Generales	5x1	29	4.492	Publicado	Nadia Randolph	2016-1-28 00:00:00	
+91291	Alejandro ra			UIP	5x1	29	4.467	Publicado	M Cristina Puga	2016-1-28 00:00:00	
+91606	SOC. COMERCIAL ALCAPARRA LTDA.	Par	Blanco y negro	Generales	5x2	29	10.440	Publicado	Patricia Villena	2016-1-28 00:00:00	
+92024	PILLA LA VACA	Par	Blanco y negro	Generales	5x2	29	0	Publicado	Marcela Tello-ElDia	2016-1-28 00:00:00	
+92010	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	29	0	Publicado	Marcela Tello-ElDia	2016-1-28 00:00:00	
+92068	DIARIO EL DIA	Par	Blanco y negro	Generales	5x2	29	0	Publicado	Marcela Tello-ElDia	2016-1-28 00:00:00	
+92175	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	4x5	29	20.508	Publicado	Miguel Apey	2016-1-28 00:00:00	
+92949	CARLOS DAVILA			UIP	5x1	29	8.937	Publicado	Pedro Jaime	2016-1-28 00:00:00	
+92476	ARMAQ			UIP	5x1	29	8.937	Publicado	Claudio Romero	2016-1-28 00:00:00	
+93920	royal pe			UIP	5x2	29	17.875	Publicado	Paola Marquez	2016-1-28 00:00:00	
+92688	SOC. DE GESTION MEDITERRANEA			UIP	5x1	29	8.937	Publicado	Miguel Apey	2016-1-28 00:00:00	
+94222	deside			UIP	5x2	29	17.875	Publicado	Claudio Romero	2016-1-28 00:00:00	
+94068	BALSA			UIP	5x2	29	17.875	Publicado	Claudio Romero	2016-1-28 00:00:00	
+93330	SERVICIOS GENERALES GUAYACAN S.A	Par	Blanco y negro	Generales	3x2	30	6.470	Publicado	Jacqueline Torres	2016-1-28 00:00:00	
+94403	INMOBIL. E INVERSIONES AREYUNA E HI	Par	Cuatricromia	Generales	35x6	32	500.000	Publicado	Claudio Romero	2016-1-28 00:00:00	
+94565	CORPBANCA	493 Palabras		Legal	x	EC-19	122.437	Publicado	Pedro Jaime	2016-1-28 00:00:00	
+92390	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Generales	5x1	EC-19	5.860	Publicado	Rene Pizarro	2016-1-28 00:00:00	
+93052	DABED Y CIA. LTDA., SELIM		1 pag.	Inserto	x	INS	62.118	Publicado	Marcela Tello-ElDia	2016-1-28 00:00:00	

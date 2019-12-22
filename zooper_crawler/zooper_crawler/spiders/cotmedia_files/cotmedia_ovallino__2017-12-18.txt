@@ -1,0 +1,13 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+145179	SOCIEDAD DE RENTAS FALABELLA S.A	Par	Cuatricromia	Generales	8x6	01	50.980	Publicado	M Cristina Puga	HUINCHA PORTADAOpen Plaza - 	2017-12-18 00:00:00	
+145785	OMD CHILE S.P.A.	Impar	Cuatricromia	Generales	35x6	03	445.386	Publicado	Patricia Villena		2017-12-18 00:00:00	
+145618	INMOBILIARIA NUEVA SERENA			UIP	10x6	05	16.260	Publicado	Claudio Romero	LLANOS DE SAN LUIS..CASAS.....	2017-12-18 00:00:00	
+144405	AGRICOLA NORTE TALINAY LTDA	Par	Blanco y negro	Generales	5x2	07	1.666	Publicado	Paola Marquez	UIP VENTA ALFALFA	2017-12-18 00:00:00	
+145595	LUIS MUNDACA URQUIETA			UIP	10x2	07	5.630	Publicado	Claudio Romero	COMERCIAL MUNDACA ( NUEVO)	2017-12-18 00:00:00	
+145930	DABED Y CIA. LTDA., SELIM	Par	Cuatricromia	Generales	6x6	08	23.076	Publicado	Karina Rivera	GRAF. 3	2017-12-18 00:00:00	
+146130	SOC. AGRICOLA DEL NORTE AG.	Par	Cuatricromia	Generales	17x3	09	100.840	Publicado	Jacqueline Torres	DIFUSION	2017-12-18 00:00:00	
+145086	UNIVERSIDAD BOLIVARIANA			UIP	10x2	09	7.882	Publicado	Karina Rivera	VALLE CENTRAL Y BOLIVARIANA	2017-12-18 00:00:00	
+144789	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	6x6	11	16.065	Publicado	Claudio Romero	Muebles Alpina	2017-12-18 00:00:00	
+145989	VELIZ CORTES JOSE A.			UIP	5x2	14	4.695	Publicado	Pedro Cortes		2017-12-18 00:00:00	
+145681	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	14	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2017-12-18 00:00:00	
+146060	EMPRESAS LA POLAR S.A.	Impar	Cuatricromia	Generales	35x6	16	252.000	Publicado	Patricia Villena	Primera impar Navidad	2017-12-18 00:00:00	

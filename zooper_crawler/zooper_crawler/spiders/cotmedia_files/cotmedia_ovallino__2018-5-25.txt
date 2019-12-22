@@ -1,0 +1,10 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+156524	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x6	03	0	Arte	Marcela Tello-ElDia		2018-5-25 00:00:00	
+156408	EMPRESA PERIODISTICA EL NORTE S.A.	Par	Blanco y negro	Medios Regionales	8x2	05	24.272	Arte	Medios Regionales	BBVA - Rol C-8765-2016 - (77116)	2018-5-25 00:00:00	
+156570	ASOCIACION DE CANALISTA CANAL PALQU	Par	Blanco y negro	Generales	5x2	05	16.807	Publicado	Karina Rivera	CITACION COMUNEROS CANAL PALQUI	2018-5-25 00:00:00	
+155129	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	9x4	06	16.065	Publicado	Claudio Romero	Muebles alpina..	2018-5-25 00:00:00	
+156590	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x3	06	0	Arte	Marcela Tello-ElDia		2018-5-25 00:00:00	
+154989	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	08	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2018-5-25 00:00:00	
+156607	DIEGO VIVES	Par	Cuatricromia	Generales	6x6	09	0	Publicado	Karina Rivera	BALLER NACIONAL RUSO	2018-5-25 00:00:00	
+156635	PRENSA DEL LIMARI LTDA.	Par	Blanco y negro	Generales	17x6	12	0	Arte	Marcela Tello-ElDia		2018-5-25 00:00:00	
+156243	DABED Y CIA. LTDA., SELIM	Par	Cuatricromia	Generales	6x6	14	23.076	Publicado	Karina Rivera	HELECTRICA 2	2018-5-25 00:00:00	

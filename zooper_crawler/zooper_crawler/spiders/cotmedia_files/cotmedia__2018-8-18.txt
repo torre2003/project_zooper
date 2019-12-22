@@ -1,0 +1,57 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+161178	COMERCIAL E.C.C.S.A.  S.A.	Impar	Cuatricromia	Contraportada	35x6	05	556.758	Publicado	M Cristina Puga	2018-8-18 00:00:00	
+161998	CLARO CHILE S.A.	Impar	Cuatricromia	Generales	35x6	07	742.874	Publicado	Kathine Soto-Stgo	2018-8-18 00:00:00	
+161927	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Cuatricromia	Medios Regionales	10x2	08	155.292	Arte	Medios Regionales	2018-8-18 00:00:00	
+162006	SOC. EDUCACIONAL SAN GUILLERMO LTDA	Par	Blanco y negro	Generales	5x2	08	37.902	Publicado	Miguel Apey	2018-8-18 00:00:00	
+161859	BUALE GRUP LTDA.	Par	Cuatricromia	Generales	17x6	09	90.000	Publicado	Claudio Romero	2018-8-18 00:00:00	
+161743	DIARIO EL DIA	Par	Cuatricromia	Generales	17x6	10	0	Publicado	Marcela Tello-ElDia	2018-8-18 00:00:00	
+161984	INMOBILIARIA ELQUI S.A.	Par	Cuatricromia	Generales	17x3	11	300.687	Publicado	M Cristina Puga	2018-8-18 00:00:00	
+161041	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	12	0	Publicado	Marcela Tello-ElDia	2018-8-18 00:00:00	
+161962	SERV. VIVIENDA Y URBANIZACION IV RE	Par	Blanco y negro	Generales	10x2	13	57.274	Publicado	Jacqueline Torres	2018-8-18 00:00:00	
+161963	SERV. VIVIENDA Y URBANIZACION IV RE	Par	Blanco y negro	Generales	10x2	13	57.274	Publicado	Jacqueline Torres	2018-8-18 00:00:00	
+161945	UNIVERSIDAD DE LA SERENA	Par	Blanco y negro	Generales	10x2	13	42.113	Publicado	Jacqueline Torres	2018-8-18 00:00:00	
+161763				UIP	5x1	14	8.937	Publicado	Carolina Naranjo	2018-8-18 00:00:00	
+161570	DIARIO EL DIA	Par	Blanco y negro	Generales	5x2	14	0	Publicado	Marcela Tello-ElDia	2018-8-18 00:00:00	
+160754	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	14	8.306	Publicado	Miguel Apey	2018-8-18 00:00:00	
+160917	ARMAQ SUBIRI S.A.			UIP	5x1	14	8.937	Publicado	Claudio Romero	2018-8-18 00:00:00	
+160458	C.M. SOC. GASTRONOMICA LTDA.			UIP	5x2	14	7.208	Publicado		2018-8-18 00:00:00	
+160620	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	14	0	Publicado	Marcela Tello-ElDia	2018-8-18 00:00:00	
+160638	PILLA LA VACA	Par	Blanco y negro	Generales	5x2	14	0	Publicado	Marcela Tello-ElDia	2018-8-18 00:00:00	
+160677	INVERSIONES ALTA CRUZ LTDA	Par	Blanco y negro	Generales	5x2	14	0	Publicado	Marcela Tello-ElDia	2018-8-18 00:00:00	
+160703	SOC. DE GES			UIP	5x1	14	8.937	Publicado	Miguel Apey	2018-8-18 00:00:00	
+160785	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	4x5	14	20.508	Publicado	Miguel Apey	2018-8-18 00:00:00	
+160842	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	5x2	14	0	Publicado	Miguel Apey	2018-8-18 00:00:00	
+161952	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	10x2	15	49.620	Arte	Medios Regionales	2018-8-18 00:00:00	
+161932	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	16	0	Arte	Marcela Tello-ElDia	2018-8-18 00:00:00	
+161095	DIARIO EL DIA	Par	Cuatricromia	Generales	6x3	16	0	Publicado	Marcela Tello-ElDia	2018-8-18 00:00:00	
+161846	INMOBIL. LA SERENA GOLF S.A.	Impar	Cuatricromia	Generales	17x6	17	288.660	Publicado	Patricia Villena	2018-8-18 00:00:00	
+161100	DIARIO EL DIA	Par	Cuatricromia	Generales	6x6	22	0	Publicado	Marcela Tello-ElDia	2018-8-18 00:00:00	
+162013	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	10x2	23	49.620	Arte	Medios Regionales	2018-8-18 00:00:00	
+161104	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	25	0	Publicado	Marcela Tello-ElDia	2018-8-18 00:00:00	
+160966	CAMPOS DEL NORTE S.A.	Par	Cuatricromia	Generales	17x3	25	0	Publicado	Patricia Villena	2018-8-18 00:00:00	
+161150	DIARIO EL DIA	Par	Cuatricromia	Generales	17x6	26	0	Publicado	Marcela Tello-ElDia	2018-8-18 00:00:00	
+162065	CIDERE IV REGION	Par	Cuatricromia	Generales	34x6	27	154.000	Publicado	Carolina Naranjo	2018-8-18 00:00:00	
+161855	LUISA RAQUEL LEFENDA	Par	Blanco y negro	Generales	10x3	28	105.042	Publicado	Pedro Jaime	2018-8-18 00:00:00	
+162077	DIARIO EL DIA	Par	Cuatricromia	Generales	5x6	28	0	Arte	Marcela Tello-ElDia	2018-8-18 00:00:00	
+161607	JUAN SEBASTIAN BOU LAGUNAS	Par	Blanco y negro	Generales	5x2	31	13.750	Publicado	Heinger Vega Torres	2018-8-18 00:00:00	
+161604	ANDREA YAZIGI SFEIR	Par	Blanco y negro	Generales	5x2	31	8.403	Publicado	Heinger Vega Torres	2018-8-18 00:00:00	
+161997	ENTEL PCS	Impar	Cuatricromia	Generales	35x6	32	600.000	Publicado	Kathine Soto-Stgo	2018-8-18 00:00:00	
+161992	SANTANDER G.R.C.	653 Palabras		Legal	x	EC	162.185	Publicado	Pedro Jaime	2018-8-18 00:00:00	
+161991	BANCO DE CHILE	552 Palabras		Legal	x	EC	136.975	Publicado	Pedro Jaime	2018-8-18 00:00:00	
+161993	SANTANDER G.R.C.	650 Palabras		Legal	x	EC	161.345	Publicado	Pedro Jaime	2018-8-18 00:00:00	
+161897	SANTANDER G.R.C.	Par	Blanco y negro	Generales	10x2	EC-18	83.824	Publicado	Pedro Jaime	2018-8-18 00:00:00	
+162008	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	10x2	EC-19	49.620	Arte	Medios Regionales	2018-8-18 00:00:00	
+162018	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	10x2	EC-19	49.620	Arte	Medios Regionales	2018-8-18 00:00:00	
+162023	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	10x2	EC-19	49.620	Arte	Medios Regionales	2018-8-18 00:00:00	
+162039	BANCO DE CHILE	582 Palabras		Legal	x	EC-20	144.538	Publicado	Pedro Jaime	2018-8-18 00:00:00	
+162051	SCOTIABANK CHILE S.A.	440 Palabras		Legal	x	EC-20	109.244	Publicado	Pedro Jaime	2018-8-18 00:00:00	
+162027	BANCO DE CHILE	636 Palabras		Legal	x	EC-20	157.983	Publicado	Pedro Jaime	2018-8-18 00:00:00	
+162022	BANCO DE CHILE	582 Palabras		Legal	x	EC-20	144.538	Publicado	Pedro Jaime	2018-8-18 00:00:00	
+160265	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Generales	5x2	EC-20	7.003	Publicado	Rene Pizarro	2018-8-18 00:00:00	
+161994	CIA. DE LEASING TATTERSALL S.A.	Par	Blanco y negro	Generales	11x2	EC-20	69.487	Publicado	Pedro Jaime	2018-8-18 00:00:00	
+152162	HOTELERIA LUIS ALBERTO BERETTA KIEK	Par	Blanco y negro	Generales	5x2	EC-20	6.061	Publicado	Patricia Villena	2018-8-18 00:00:00	
+161983	ROJAS COVARRUBIAS, EGA?A & COMPA?IA	775 Palabras		Legal	x	EC-20	192.437	Publicado	Pedro Jaime	2018-8-18 00:00:00	
+162029	SANTANDER G.R.C.	623 Palabras		Legal	x	EC-20	154.622	Publicado	Pedro Jaime	2018-8-18 00:00:00	
+162047	CONSTRUCTORA SERENA LTDA.	Home	Banner Cabecera	Web	0x0	WEB	200.000	Publicado		2018-8-18 00:00:00	
+162048	INMOBILIARIA NUEVA SERENA	Home	Banner Cabecera	Web	0x0	WEB	200.000	Publicado		2018-8-18 00:00:00	
+162049	INMOBILIARIA SERENA S.A.	Home	Banner Cabecera	Web	0x0	WEB	200.000	Publicado		2018-8-18 00:00:00	

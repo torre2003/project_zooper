@@ -1,0 +1,53 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+119371	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Cuatricromia	Medios Regionales	16x6	05	309.344	Arte	Medios Regionales	2016-12-22 00:00:00	
+119321	TERMINAL PUERTO COQUIMBO S.A.	Par	Cuatricromia	Generales	17x6	07	418.347	Publicado	Miguel Apey	2016-12-22 00:00:00	
+119379	DIARIO EL DIA	Par	Cuatricromia	Generales	12x6	09	0	Arte	Marcela Tello-ElDia	2016-12-22 00:00:00	
+119304	UNIVERSIDAD CENTRAL DE CHILE	Par	Blanco y negro	Generales	17x6	10	0	Publicado	Jacqueline Torres	2016-12-22 00:00:00	
+118131	SOC. COMERCIAL NAPOLEON LTDA.	Impar	Blanco y negro	Generales	5x6	11	11.538	Publicado	Patricia Villena	2016-12-22 00:00:00	
+117716	DIARIO EL DIA	Par	Blanco y negro	Generales	5x2	12	0	Publicado	Marcela Tello-ElDia	2016-12-22 00:00:00	
+117753	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	5x2	12	0	Publicado	Miguel Apey	2016-12-22 00:00:00	
+114316	GESTION NORTE	Par	Blanco y negro	Generales	5x2	12	9.280	Publicado	Patricia Villena	2016-12-22 00:00:00	
+117615	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	6x6	13	51.666	Publicado	Claudio Romero	2016-12-22 00:00:00	
+119380	DIARIO EL DIA	Par	Cuatricromia	Generales	17x6	15	0	Arte	Marcela Tello-ElDia	2016-12-22 00:00:00	
+118936	DIARIO EL DIA	Par	Cuatricromia	Generales	34x6	17	0	Publicado	Marcela Tello-ElDia	2016-12-22 00:00:00	
+117999	MARTIN JURE PATRICIA	Par	Cuatricromia	Generales	12x3	18	0	Publicado	Marcela Tello-ElDia	2016-12-22 00:00:00	
+119346	inversiones san javier			UIP	5x1	18	8.937	Publicado	Rene Pizarro	2016-12-22 00:00:00	
+118826	DIARIO EL DIA	Par	Cuatricromia	Generales	8x6	19	0	Publicado	Marcela Tello-ElDia	2016-12-22 00:00:00	
+117443	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	19	8.306	Publicado	Miguel Apey	2016-12-22 00:00:00	
+115404	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	20	0	Publicado	Marcela Tello-ElDia	2016-12-22 00:00:00	
+119213	SANTANDER G.R.C.	Par	Blanco y negro	Generales	34x6	23	747.048	Publicado	Pedro Jaime	2016-12-22 00:00:00	
+119064	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	27	0	Publicado	Marcela Tello-ElDia	2016-12-22 00:00:00	
+117177	GOBERNACION PROVINCIAL DE ELQUI	Par	Blanco y negro	Generales	17x3	27	126.999	Publicado	Jacqueline Torres	2016-12-22 00:00:00	
+118967	DIARIO EL DIA	Par	Blanco y negro	Generales	35x6	28	0	Arte	Carolina Naranjo	2016-12-22 00:00:00	
+118968	DIARIO EL DIA	Impar	Blanco y negro	Generales	35x6	29	0	Arte	Carolina Naranjo	2016-12-22 00:00:00	
+119318	CLUB DE DEPORTES LA SERENA	Par	Cuatricromia	Generales	11x6	31	0	Publicado	Marcela Tello-ElDia	2016-12-22 00:00:00	
+117490	LABORATORIO CLINICO STA. MARIA LA S	Par	Blanco y negro	Generales	6x2	32	7.470	Publicado	Miguel Apey	2016-12-22 00:00:00	
+117510	CASA DEL PERNO	Par	Blanco y negro	Generales	5x3	32	23.071	Publicado	Miguel Apey	2016-12-22 00:00:00	
+117520	SOC. DE GES			UIP	5x1	32	8.937	Publicado	Miguel Apey	2016-12-22 00:00:00	
+119106	AUTOMOTORES DEL NORTE	Par	Blanco y negro	Generales	5x1	33	7.427	Publicado	Miguel Apey	2016-12-22 00:00:00	
+118096	ICEFOOD LIMITADA	Par	Blanco y negro	Generales	5x2	33	8.925	Publicado	Patricia Villena	2016-12-22 00:00:00	
+117297	SERVICIOS GASTRON?MICOS LA CASONA D	Par	Blanco y negro	Generales	5x2	33	10.725	Publicado	Miguel Apey	2016-12-22 00:00:00	
+117474	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	4x5	33	20.508	Publicado	Miguel Apey	2016-12-22 00:00:00	
+115645	PILLA LA VACA	Par	Blanco y negro	Generales	5x2	33	0	Publicado	Marcela Tello-ElDia	2016-12-22 00:00:00	
+117345	MARIA VARAS			UIP	5x1	33	8.937	Publicado	Pedro Jaime	2016-12-22 00:00:00	
+117687	armaq			UIP	5x1	33	8.937	Publicado	Claudio Romero	2016-12-22 00:00:00	
+115607	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	33	0	Publicado	Marcela Tello-ElDia	2016-12-22 00:00:00	
+114800	CERNA E HIJOS CIA. LTDA.	Par	Blanco y negro	Generales	5x1	33	4.468	Publicado	Nadia Randolph	2016-12-22 00:00:00	
+119365	SOC. EDUCACIONAL ANDRES BELLO LTDA.	Par	Blanco y negro	Generales	10x3	34	81.297	Publicado	Pedro Jaime	2016-12-22 00:00:00	
+119364	SOC. EDUCACIONAL ANDRES BELLO LTDA.	Par	Blanco y negro	Generales	10x3	34	81.297	Publicado	Pedro Jaime	2016-12-22 00:00:00	
+119339	ALDECIRA CUELLAR ROJAS	Par	Blanco y negro	Generales	12x2	34	58.007	Publicado	Pedro Jaime	2016-12-22 00:00:00	
+118798	VELIZ CORTES JOSE A.	Par	Blanco y negro	Generales	3x2	34	13.403	Publicado	Pedro Cortes	2016-12-22 00:00:00	
+119363	SOC. EDUCACIONAL ANDRES BELLO LTDA.	Par	Blanco y negro	Generales	10x3	34	81.297	Publicado	Pedro Jaime	2016-12-22 00:00:00	
+118286	SERVICIOS GENERALES GUAYACAN S.A	Par	Blanco y negro	Generales	4x2	34	6.666	Publicado	Jacqueline Torres	2016-12-22 00:00:00	
+119334	CARAT CHILE S.A.	Impar	Cuatricromia	Generales	35x6	36	620.000	Publicado	Kathine Soto-Stgo	2016-12-22 00:00:00	
+119309	BANCO ESTADO DE CHILE	Par	Blanco y negro	Generales	14x1	EC-21	0	Publicado	Pedro Jaime	2016-12-22 00:00:00	
+119220	DIARIO EL DIA	Par	Blanco y negro	Generales	5x2	EC-21	0	Publicado	M Cristina Puga	2016-12-22 00:00:00	
+117642	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Generales	5x1	EC-22	5.860	Publicado	Rene Pizarro	2016-12-22 00:00:00	
+119361	TURISMO BAHIA MAGICA LTDA.	Par	Blanco y negro	Generales	10x2	EC-22	73.240	Publicado	Pedro Jaime	2016-12-22 00:00:00	
+108992	HOTELERIA LUIS ALBERTO BERETTA KIEK	Par	Blanco y negro	Generales	5x2	EC-22	6.994	Publicado	Patricia Villena	2016-12-22 00:00:00	
+119230	INTERCHILE S.A.	Par	Cuatricromia	Ed.Especial	10x3	EH-02	126.120	Publicado	Jacqueline Torres	2016-12-22 00:00:00	
+119342	ANDRES ALFARO Y JUAN SEURA CIA. LTD	Par	Cuatricromia	Ed.Especial	10x3	EH-02	126.050	Publicado	Jacqueline Torres	2016-12-22 00:00:00	
+119229	CONSTRUCTORA CAROLINA LTDA.	Par	Cuatricromia	Ed.Especial	10x3	EH-03	126.050	Publicado	Jacqueline Torres	2016-12-22 00:00:00	
+119333	BIG FLOWER LTDA.	Par	Cuatricromia	Ed.Especial	10x3	EH-03	126.050	Publicado	Jacqueline Torres	2016-12-22 00:00:00	
+119048	ANDES IRON SPA	Impar	Cuatricromia	Ed.Especial	35x6	EH-04	1.259.655	Publicado	Jacqueline Torres	2016-12-22 00:00:00	
+119340	CONSULTORIAS AGRICOLAS RICARDO SEPU	150 Palabras		Propiedades	x	PROP	24.000	Publicado	Pedro Jaime	2016-12-22 00:00:00	

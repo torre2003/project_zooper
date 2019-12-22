@@ -1,0 +1,11 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+77232	SOCIEDAD DE RENTAS FALABELLA S.A	Par	Cuatricromia	Generales	5x6	01	50.980	Publicado	M Cristina Puga	Huincha portada Open Plaza	2015-6-5 00:00:00	
+76737	mujer			UIP	10x6	05	16.260	Publicado	Italo Retamal	sernan mujer uip	2015-6-5 00:00:00	
+76682	LARA Y CIA. AGUILAS TOCANDO EL CIEL			UIP	10x6	07	16.260	Publicado	Italo Retamal	tcm lara y cia	2015-6-5 00:00:00	
+76450	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	6x6	09	16.065	Publicado	Claudio Romero	Muebles Alpina	2015-6-5 00:00:00	
+76769	sociedad mi			UIP	5x2	10	2.808	Publicado	Italo Retamal	talhuen	2015-6-5 00:00:00	
+76632	sociedad mil			UIP	5x2	10	2.808	Publicado	Italo Retamal	venta casa	2015-6-5 00:00:00	
+77257	ALVI SUPERMERCADOS MAYORISTAS S.A.	Impar	Cuatricromia	Generales	35x3	11	207.623	Publicado	Italo Retamal	m10	2015-6-5 00:00:00	
+77102	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	10x3	13	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2015-6-5 00:00:00	
+76280	brilla			UIP	17x2	13	9.211	Publicado	Italo Retamal	alto brillador 	2015-6-5 00:00:00	
+77435	ILUSTRE MUNICIPALIDAD DE RIO HURTAD	Par	Blanco y negro	Generales	12x3	14	57.626	Publicado	Jacqueline Torres	LLAMADO CONCURSO	2015-6-5 00:00:00	

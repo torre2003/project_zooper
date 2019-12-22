@@ -1,0 +1,17 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+142673	INMOBILIARIA CALEUCHE LTDA	Par	Cuatricromia	Generales	8x6	01	102.823	Publicado	Paola Marquez	Beltec IMPAR si se puede	2017-11-10 00:00:00	
+143530	OMD CHILE S.P.A.	Impar	Cuatricromia	Generales	35x6	03	445.386	Publicado	Patricia Villena		2017-11-10 00:00:00	
+138355	CENTRO DE SALUD PORTALES LTDA			UIP	5x4	04	4.504	Publicado	Karina Rivera		2017-11-10 00:00:00	
+139903	TEODORO AGUIRRE ALVAREZ			UIP	5x2	04	2.808	Publicado	Karina Rivera	REGIONALISTA VERDE SOCIAL	2017-11-10 00:00:00	
+143079	CAMPOS DEL NORTE S.A.	Par	Cuatricromia	Generales	17x6	05	218.499	Publicado	Patricia Villena	Aviso Enjoy	2017-11-10 00:00:00	
+142572	OVALLE CASINO RESORT S.A	Par	Cuatricromia	Generales	25x4	06	131.824	Publicado	Paola Marquez	OCR Eventos Noviembre	2017-11-10 00:00:00	
+143687	SALINAS Y FABRES S.A.	Impar	Cuatricromia	Generales	17x6	07	0	Publicado	M Cristina Puga	salfa 	2017-11-10 00:00:00	
+143381	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	08	0	Arte	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2017-11-10 00:00:00	
+143648	UNIVERSIDAD DE LA SERENA	Par	Cuatricromia	Generales	17x6	09	168.076	Publicado	Jacqueline Torres	admision 2018/IMPAR	2017-11-10 00:00:00	
+142738	INMOBILIARIA NUEVA SERENA			UIP	10x6	10	16.260	Publicado	Claudio Romero	 "LLANOS DE SAN LUIS III ( SE CONFIRMARA SI REPITE) CASAS Y DEPARTAMENTOS..	2017-11-10 00:00:00	
+143220	EMPRESA PERIODISTICA EL NORTE S.A.	Par	Cuatricromia	Medios Regionales	32x6	11	349.693	Arte	Medios Regionales		2017-11-10 00:00:00	
+142414	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	6x6	12	16.065	Publicado	Claudio Romero	Muebles Alpina	2017-11-10 00:00:00	
+141068	HANNA JARUFE HAUNE	Par	Cuatricromia	Generales	17x3	13	117.653	Publicado	Claudio Romero		2017-11-10 00:00:00	
+140946	VELIZ CORTES JOSE A.			UIP	5x2	14	3.919	Publicado	Pedro Cortes		2017-11-10 00:00:00	
+143222	DABED Y CIA. LTDA., SELIM	Par	Cuatricromia	Generales	6x6	14	23.076	Publicado	Karina Rivera	ESCUELA DE OFICIOS	2017-11-10 00:00:00	
+143662	EMPRESAS LA POLAR S.A.	Par	Cuatricromia	Generales	35x6	16	252.000	Publicado	Patricia Villena	La polar	2017-11-10 00:00:00	

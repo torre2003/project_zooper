@@ -1,0 +1,50 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+101822	CHRISTIAN LAURITZ MARIN	Par	Blanco y negro	Generales	4x2	04	6.666	Publicado	Jacqueline Torres	2016-5-13 00:00:00	
+102610	EMPRESAS LA POLAR S.A.	Impar	Cuatricromia	Generales	35x6	05	0	Publicado	Patricia Villena	2016-5-13 00:00:00	
+102624	AGENCIA PUBLICITARIA OREL ALI E.I.R	Par	Cuatricromia	Generales	12x4	06	0	Publicado	Marcela Tello-ElDia	2016-5-13 00:00:00	
+102647	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Cuatricromia	Medios Regionales	32x6	09	518.048	Publicado	Medios Regionales	2016-5-13 00:00:00	
+102249	SINDY GONZALEZ MARCHANT	Par	Blanco y negro	Generales	12x2	10	0	Publicado	Marcela Tello-ElDia	2016-5-13 00:00:00	
+102663	SOC.INMOBIL.Y DE INV.MORALES Y CIA.	Par	Blanco y negro	Generales	5x2	10	0	Publicado	Marcela Tello-ElDia	2016-5-13 00:00:00	
+102361	DIARIO EL DIA	Par	Cuatricromia	Generales	14x2	10	0	Publicado	Marcela Tello-ElDia	2016-5-13 00:00:00	
+102483	UNIVERSIDAD CENTRAL DE CHILE	Impar	Blanco y negro	Generales	35x6	11	538.314	Publicado	Jacqueline Torres	2016-5-13 00:00:00	
+102433	MOP OOPP	Par	Blanco y negro	Generales	22x2	12	161.128	Publicado	Marcela Tello-ElDia	2016-5-13 00:00:00	
+101951	DIARIO EL DIA	Par	Blanco y negro	Generales	5x2	13	0	Publicado	Marcela Tello-ElDia	2016-5-13 00:00:00	
+102597	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	6x2	13	26.088	Publicado	Medios Regionales	2016-5-13 00:00:00	
+101327	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	5x2	13	0	Publicado	Miguel Apey	2016-5-13 00:00:00	
+101292	SOC. COMERCIAL ALCAPARRA LTDA.	Par	Blanco y negro	Generales	7x3	14	10.440	Publicado	Patricia Villena	2016-5-13 00:00:00	
+101376	SOC. COM. GALLARDO 			UIP	5x1	14	8.937	Publicado	Pedro Jaime	2016-5-13 00:00:00	
+102429	ILUSTRE MUNICIPALIDAD DE COQUIMBO	Par	Blanco y negro	Generales	10x6	15	153.804	Publicado	Miguel Apey	2016-5-13 00:00:00	
+102577	DABED Y CIA. LTDA., SELIM	Par	Cuatricromia	Generales	7x6	16	27.690	Publicado	Marcela Tello-ElDia	2016-5-13 00:00:00	
+101144	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	16	8.306	Publicado	Miguel Apey	2016-5-13 00:00:00	
+102676	SOCIEDAD COMERCIAL DE VEHICULOS S.A	Impar	Cuatricromia	Generales	17x6	17	313.761	Publicado	Kathine Soto-Stgo	2016-5-13 00:00:00	
+100172	SOC HOTELERA Y DE TURISMO HACIENDA 	Par	Cuatricromia	Generales	5x6	21	9.063	Publicado	Patricia Villena	2016-5-13 00:00:00	
+101666	MARTIN JURE PATRICIA	Par	Cuatricromia	Generales	5x3	22	0	Publicado	Marcela Tello-ElDia	2016-5-13 00:00:00	
+101582	SOC. HOTELERA VICHUQUEN LTDA.	Par	Cuatricromia	Generales	5x3	22	0	Publicado	Marcela Tello-ElDia	2016-5-13 00:00:00	
+101203	HOTEL COSTA REAL	Par	Cuatricromia	Generales	10x2	22	30.761	Publicado	Miguel Apey	2016-5-13 00:00:00	
+101662	PILLA LA VACA	Par	Cuatricromia	Generales	5x2	22	0	Publicado	Marcela Tello-ElDia	2016-5-13 00:00:00	
+101642	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Cuatricromia	Generales	5x2	22	0	Publicado	Marcela Tello-ElDia	2016-5-13 00:00:00	
+101121	BAKULIC RESTAURANT	Par	Cuatricromia	Generales	10x2	22	24.609	Publicado	Miguel Apey	2016-5-13 00:00:00	
+102604	AUTOMOTORES GILDEMEISTER S.A.	Impar	Cuatricromia	Generales	17x6	23	313.761	Publicado	Kathine Soto-Stgo	2016-5-13 00:00:00	
+102478	DIARIO EL DIA	Par	Blanco y negro	Generales	35x6	24	0	Publicado	Carolina Naranjo	2016-5-13 00:00:00	
+101570	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	26	0	Publicado	Marcela Tello-ElDia	2016-5-13 00:00:00	
+97742	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	28	0	Publicado	Marcela Tello-ElDia	2016-5-13 00:00:00	
+102673	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	28	0	Publicado	Marcela Tello-ElDia	2016-5-13 00:00:00	
+102125	CERNA E HIJOS CIA. LTDA.	Par	Blanco y negro	Generales	5x1	29	4.524	Publicado	Nadia Randolph	2016-5-13 00:00:00	
+101174	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	4x5	29	20.508	Publicado	Miguel Apey	2016-5-13 00:00:00	
+102386	AREVALO CARMEN 			UIP	5x1	29	8.937	Publicado	Pedro Jaime	2016-5-13 00:00:00	
+101100	SOC. DE GESTION MEDITERRANEA			UIP	5x1	29	8.937	Publicado	Miguel Apey	2016-5-13 00:00:00	
+100527	SOC.COMERCIAL ALTOS LA SERENA LTDA	Par	Blanco y negro	Generales	5x2	29	8.937	Publicado	Nadia Randolph	2016-5-13 00:00:00	
+101240	ARMAQ			UIP	5x1	29	8.937	Publicado	Claudio Romero	2016-5-13 00:00:00	
+101792	SERVICIOS GENERALES GUAYACAN S.A	Par	Blanco y negro	Generales	4x2	30	6.667	Publicado	Jacqueline Torres	2016-5-13 00:00:00	
+102008	INMOBILIARIA ECASA CHILE S.A.	Par	Cuatricromia	Generales	34x6	32	300.000	Publicado	Paola Marquez	2016-5-13 00:00:00	
+102688	PESQUERA VILLA ALEGRE Y CIA. LTDA.	Par	Blanco y negro	Generales	4x2	EC-18	29.296	Publicado	Pedro Jaime	2016-5-13 00:00:00	
+102677	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	8x2	EC-18	34.784	Publicado	Medios Regionales	2016-5-13 00:00:00	
+102190	RUTA DE			UIP	5x2	EC-18	17.875	Publicado	Claudio Romero	2016-5-13 00:00:00	
+101932	DIARIO EL DIA	Par	Blanco y negro	Generales	5x2	EC-18	0	Publicado	Marcela Tello-ElDia	2016-5-13 00:00:00	
+100904	HOTELERIA LUIS ALBERTO BERETTA KIEK	Par	Blanco y negro	Generales	5x2	EC-19	8.937	Publicado	Patricia Villena	2016-5-13 00:00:00	
+102649	MARIANO TORREALBA ZILIANI	Par	Blanco y negro	Generales	5x1	EC-19	18.310	Publicado	Miguel Apey	2016-5-13 00:00:00	
+101400	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Generales	5x1	EC-19	5.860	Publicado	Rene Pizarro	2016-5-13 00:00:00	
+102600	MONSALVES Y PINEDA INVERSIONES LTDA	1022 Palabras		Propiedades	x	PROP	163.613	Publicado	Rene Pizarro	2016-5-13 00:00:00	
+102075	INMOBILIARIA SERENA S.A.			Revista Cosas	x	RC	500.000	Publicado	Claudio Romero	2016-5-13 00:00:00	
+101858	INMOBIL. E INVERSIONES AREYUNA E HI			Revista Cosas	x	RC	350.000	Publicado	Claudio Romero	2016-5-13 00:00:00	
+102732	INMOBIL. SOCOVESA SANTIAGO S.A.	Home	Banner Cabecera	Web	0x0	Xx	900.000	Arte	M Cristina Puga	2016-5-13 00:00:00	

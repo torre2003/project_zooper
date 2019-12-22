@@ -1,0 +1,39 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+67481	DIARIO EL DIA	Par	Cuatricromia	Generales	17x6	05	0	Publicado	Marcela Tello-ElDia	2015-1-22 00:00:00	
+67331	CLARO CHILE S.A.	Impar	Cuatricromia	Generales	25x5	11	373.600	Publicado	Kathine Soto-Stgo	2015-1-22 00:00:00	
+65353	CASA DEL PERNO	Par	Blanco y negro	Generales	5x3	12	23.071	Publicado	Miguel Apey	2015-1-22 00:00:00	
+66983	INMOBILIARIA DOMINGA NORTE LTDA	Par	Blanco y negro	Generales	5x2	12	22.631	Publicado	Pedro Jaime	2015-1-22 00:00:00	
+66937	DIARIO EL DIA	Par	Blanco y negro	Generales	5x1	12	0	Publicado	Marcela Tello-ElDia	2015-1-22 00:00:00	
+66299	ILUSTRE MUNICIPALIDAD DE LA SERENA	Par	Blanco y negro	Generales	17x6	13	256.238	Publicado	M Cristina Puga	2015-1-22 00:00:00	
+67335	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	10x3	14	62.100	Publicado	Medios Regionales	2015-1-22 00:00:00	
+67332	MIGUEL NICOLODI CARVAJAL	Par	Blanco y negro	Generales	5x2	15	36.620	Publicado	Miguel Apey	2015-1-22 00:00:00	
+66814	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	6x2	15	24.840	Publicado	Medios Regionales	2015-1-22 00:00:00	
+65509	LABORATORIO CLINICO STA. MARIA LA S	Par	Blanco y negro	Generales	6x2	15	7.470	Publicado	Miguel Apey	2015-1-22 00:00:00	
+65423	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Blanco y negro	Generales	6x6	16	0	Publicado	Claudio Romero	2015-1-22 00:00:00	
+65296	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	16	8.306	Publicado	Miguel Apey	2015-1-22 00:00:00	
+67265	DIARIO EL DIA	Par	Cuatricromia	Generales	12x6	17	0	Publicado	Marcela Tello-ElDia	2015-1-22 00:00:00	
+67092	VICTOR ALEXSI ALVAREZ TALANDIANOS	Par	Cuatricromia	Generales	5x6	21	75.075	Publicado	Miguel Apey	2015-1-22 00:00:00	
+67046	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	22	0	Publicado	Marcela Tello-ElDia	2015-1-22 00:00:00	
+66797	LEONARDO PINO	Par	Cuatricromia	Generales	17x3	22	130.734	Publicado	Marcela Tello-ElDia	2015-1-22 00:00:00	
+67334	PRODUCCIONES ALVAREZ LTDA	Par	Cuatricromia	Generales	17x6	23	261.467	Publicado	M Cristina Puga	2015-1-22 00:00:00	
+67480	DIARIO EL DIA	Par	Blanco y negro	Generales	35x6	24	0	Publicado	Carolina Naranjo	2015-1-22 00:00:00	
+67309	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	10x3	27	0	Publicado	Marcela Tello-ElDia	2015-1-22 00:00:00	
+67161	DIARIO EL DIA	Par	Cuatricromia	Generales	17x6	27	0	Publicado	Marcela Tello-ElDia	2015-1-22 00:00:00	
+66846	DIARIO EL DIA	Par	Cuatricromia	Generales	8x6	28	0	Publicado	Marcela Tello-ElDia	2015-1-22 00:00:00	
+65339	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	4x5	29	20.508	Publicado	Miguel Apey	2015-1-22 00:00:00	
+65390	armaq			UIP	5x1	30	8.937	Publicado	Claudio Romero	2015-1-22 00:00:00	
+65847	PILLA LA VACA	Par	Blanco y negro	Generales	5x2	30	0	Publicado	Marcela Tello-ElDia	2015-1-22 00:00:00	
+65917	DIARIO EL DIA	Par	Blanco y negro	Generales	5x2	30	0	Publicado	Marcela Tello-ElDia	2015-1-22 00:00:00	
+67062	sercomp ruiz			UIP	5x2	30	17.875	Publicado	Marcela Tello-ElDia	2015-1-22 00:00:00	
+65877	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	30	0	Publicado	Marcela Tello-ElDia	2015-1-22 00:00:00	
+66011	CLINICA SIMOLAB LTDA.	Par	Blanco y negro	Generales	5x2	30	8.936	Publicado	Nadia Randolph	2015-1-22 00:00:00	
+66156	CROVETTO CASTILLO JORGE			UIP	5x2	30	17.875	Publicado	Miguel Apey	2015-1-22 00:00:00	
+66432	SERENA NOR			UIP	5x1	30	8.937	Publicado	Pedro Jaime	2015-1-22 00:00:00	
+66476	SOC. INMOBILIARIA DE INVERSIONES RE	Par	Blanco y negro	Generales	5x1	30	7.427	Publicado	Miguel Apey	2015-1-22 00:00:00	
+65577	SOC. COMERCIAL ALCAPARRA LTDA.	Par	Blanco y negro	Generales	5x2	30	10.440	Publicado	Patricia Villena	2015-1-22 00:00:00	
+66952	DIARIO EL DIA	Par	Blanco y negro	Generales	5x1	30	0	Publicado	Marcela Tello-ElDia	2015-1-22 00:00:00	
+65605	SERVICIOS GENERALES GUAYACAN S.A	Par	Blanco y negro	Generales	3x2	31	6.666	Publicado	Jacqueline Torres	2015-1-22 00:00:00	
+67365	SINDICATO TRABAJADORES THE INTERNAT	Par	Blanco y negro	Generales	5x2	31	25.210	Publicado	Patricia Villena	2015-1-22 00:00:00	
+67307	SEGUNDO JORGE MOLLO GUEVARA	Par	Blanco y negro	Generales	7x2	EC-19	44.091	Publicado	Pedro Jaime	2015-1-22 00:00:00	
+65706	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Generales	5x1	EC-19	5.860	Publicado	Rene Pizarro	2015-1-22 00:00:00	
+65736	SOC. COMERCIAL VARGAS Y GIACOMET	Par	Blanco y negro	Generales	5x1	EC-19	5.860	Publicado	Rene Pizarro	2015-1-22 00:00:00	

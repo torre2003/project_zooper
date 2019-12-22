@@ -1,0 +1,24 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+113680	SOCIEDAD DE RENTAS FALABELLA S.A	Par	Cuatricromia	Generales	8x6	01	50.980	Publicado	M Cristina Puga	Huincha open 	2016-10-28 00:00:00	
+113075	EMPRESA PERIODISTICA EL NORTE S.A.	Par	Cuatricromia	Medios Regionales	16x6	03	210.973	Publicado	Medios Regionales	Impar - Agrosuper - Alita - (182228)	2016-10-28 00:00:00	
+114225	Pedro Andres Monardez Elguet			UIP	17x2	05	13.970	Publicado	Karina Rivera	Restaurant Riquisimo	2016-10-28 00:00:00	
+114449	OVALLE CASINO RESORT S.A	Par	Cuatricromia	Generales	25x4	06	131.824	Publicado	Paola Marquez	OCR Enfrentada a su otra media	2016-10-28 00:00:00	
+114162	OVALLE CASINO RESORT S.A	Par	Cuatricromia	Generales	25x4	07	131.824	Publicado	Paola Marquez	OCR Impar si se puede	2016-10-28 00:00:00	
+112770	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	6x6	08	16.065	Publicado	Claudio Romero	Muebles Alpina	2016-10-28 00:00:00	
+114474	SOC. LIMARI COMERCIALIZADORA DEL AG	Impar	Cuatricromia	Generales	10x3	10	100.846	Publicado	Rene Pizarro	Solcoagro..saluda a Diario El Ovallino	2016-10-28 00:00:00	
+115030	HANNA JARUFE HAUNE	Par	Cuatricromia	Generales	10x3	10	35.000	Publicado	Claudio Romero		2016-10-28 00:00:00	
+115037	SOCIEDAD INMOBILIARIA Y DE INVERSIO	Par	Cuatricromia	Generales	17x3	12	100.000	Publicado	Claudio Romero		2016-10-28 00:00:00	
+114126	CENTRO ESTETICA MATIZ LTDA.	Par	Cuatricromia	Generales	17x3	12	117.653	Publicado	Paola Marquez	Saludo Matiz aniversario El Ovallino	2016-10-28 00:00:00	
+115029	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	17x3	13	117.653	Publicado	Claudio Romero	Saludo Aniversario Ovallino - Muebles Alpina	2016-10-28 00:00:00	
+114121	DANIEL NU?EZ ARANCIBIA	Par	Cuatricromia	Generales	17x3	13	119.334	Publicado	Paola Marquez		2016-10-28 00:00:00	
+114630	VI?A CONCHA Y TORO	Par	Cuatricromia	Ed.Especial	17x3	15	117.653	Publicado	Karina Rivera		2016-10-28 00:00:00	
+113993	UNIVERSIDAD DE LA SERENA	Par	Cuatricromia	Generales	17x3	15	115.292	Publicado	Jacqueline Torres	SALUDO ANIVERSARIO OVALLINO EN EL SUPLEMENTO	2016-10-28 00:00:00	
+115032	ILUSTRE MUNICIPALIDAD DE OVALLE	Par	Cuatricromia	Generales	17x6	17	166.666	Publicado	Marcela Tello-ElDia		2016-10-28 00:00:00	
+115019	PROPAM LTDA	Par	Cuatricromia	Generales	34x6	18	140.000	Publicado	Claudio Romero	Saludo Aniversario Diario El Ovallino	2016-10-28 00:00:00	
+113836	INMOBILIARIA NUEVA SERENA	Par	Cuatricromia	Generales	17x6	19	83.334	Publicado	Claudio Romero	proyecto empresas serena...OVALLE	2016-10-28 00:00:00	
+113211	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	20	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2016-10-28 00:00:00	
+114831	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x3	21	0	Arte	Marcela Tello-ElDia	VEA EN CINEMARK EL CONTADOR	2016-10-28 00:00:00	
+114561	AGRICOLA NORTE TALINAY LTDA	Par	Blanco y negro	Generales	5x2	22	0	Publicado	Paola Marquez	UIP VENTA ALFALFA	2016-10-28 00:00:00	
+113407	castillo si			UIP	10x2	22	5.630	Publicado	Karina Rivera	servicios dentales	2016-10-28 00:00:00	
+113635	sandra paola 			UIP	17x2	22	9.211	Publicado	Karina Rivera	Reserva Temporada Piscina El Eden de la Chimba	2016-10-28 00:00:00	
+114858	EMPRESAS LA POLAR S.A.	Impar	Cuatricromia	Generales	35x6	24	252.000	Publicado	Patricia Villena	La Polar Contraportada o primera impar	2016-10-28 00:00:00	

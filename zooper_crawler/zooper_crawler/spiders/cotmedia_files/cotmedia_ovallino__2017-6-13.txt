@@ -1,0 +1,11 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+131526	SALINAS Y FABRES S.A.	Impar	Cuatricromia	Generales	17x6	03	218.000	Publicado	M Cristina Puga	salfa 	2017-6-13 00:00:00	
+129973	CENTRO DE SALUD PORTALES LTDA			UIP	5x4	05	5.630	Publicado	Karina Rivera	CENTRO DE SALUD PORTALES	2017-6-13 00:00:00	
+131002	JACQUELINE JOFRE VILLANUEVA			UIP	5x2	05	2.808	Publicado	Karina Rivera	CORTINAS ROLLER OVALLE	2017-6-13 00:00:00	
+131385	CLAUDIA TORRES			UIP	10x2	06	6.306	Publicado	Karina Rivera	GRUPO ANANDA OVALLE	2017-6-13 00:00:00	
+130386	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	08	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2017-6-13 00:00:00	
+131078	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	6x6	09	0	Publicado	Marcela Tello-ElDia	Descuentos Cinemark	2017-6-13 00:00:00	
+131592	JDV REMATES S.A.	Par	Blanco y negro	Generales	10x3	11	49.580	Publicado	Pedro Jaime	JDV REMATES 	2017-6-13 00:00:00	
+131675	ASOC. CANALISTAS CANAL CAMARICO	Par	Blanco y negro	Generales	10x2	11	47.080	Publicado	Karina Rivera	JUNTA GENERAL ORDINARIA	2017-6-13 00:00:00	
+131678	ASOC. CANALISTAS CANAL CAMARICO	Par	Blanco y negro	Generales	10x2	13	47.080	Publicado	Karina Rivera	JUNTA GENERAL EXTRAORDINARIA	2017-6-13 00:00:00	
+132077	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	6x6	14	0	Arte	Marcela Tello-ElDia		2017-6-13 00:00:00	

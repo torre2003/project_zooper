@@ -1,0 +1,8 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+117233	OMD CHILE S.A.	Impar	Cuatricromia	Generales	35x6	03	668.079	Arte	Patricia Villena		2016-11-27 00:00:00	
+103009	SOCIEDAD MEDICA Y CONSULTORA ESTETI		Cuatricromia	Guia	5x2	06	13.333	Arte	Maria_Amelia Hermosilla	Diego Polanco	2016-11-27 00:00:00	
+115439	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	08	0	Arte	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2016-11-27 00:00:00	
+116227	UNIVERSIDAD TECNOLOGICA DE CHILE	Impar	Cuatricromia	Generales	17x6	09	393.297	Arte	Patricia Villena	Inacap Carreras	2016-11-27 00:00:00	
+116728	OVALLE CASINO RESORT S.A	Par	Cuatricromia	Generales	25x4	11	171.372	Arte	Paola Marquez	OCR Eventos Noviembre	2016-11-27 00:00:00	
+117390	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	6x6	14	0	Arte	Marcela Tello-ElDia		2016-11-27 00:00:00	
+116816	CONSTRUCTORA CADEL LTDA.	Par	Cuatricromia	Generales	34x6	16	450.000	Arte	Rene Pizarro		2016-11-27 00:00:00	

@@ -1,0 +1,11 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+102344	AUTOMOTRIZ CARMONA	Par	Cuatricromia	Generales	6x6	01	23.076	Publicado	Marcela Tello-ElDia	Nissan March Active - Portada (si hay disponibilidad)	2016-5-15 00:00:00	
+102569	INMOBILIARIA ECOMAC SANTIAGO S.A.	Impar	Cuatricromia	Generales	17x6	03	285.000	Publicado	M Cristina Puga	ECOMAC / Primeras impar	2016-5-15 00:00:00	
+101612	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	05	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2016-5-15 00:00:00	
+102803	EMPRESA PERIODISTICA EL NORTE S.A.	Par	Blanco y negro	Medios Regionales	6x2	06	17.340	Publicado	Medios Regionales		2016-5-15 00:00:00	
+95381	SOCIEDAD BUSTOS Y PROCURIZA LTDA.	Par	Blanco y negro	Generales	10x2	07	27.542	Publicado	Maria_Amelia Hermosilla	Cento	2016-5-15 00:00:00	
+102789	EMPRESA PERIODISTICA EL NORTE S.A.	Par	Blanco y negro	Medios Regionales	10x3	07	43.350	Arte	Medios Regionales	JDV Remates - Recuperar La Serena - (92588)	2016-5-15 00:00:00	
+102618	DABED Y CIA. LTDA., SELIM	Par	Cuatricromia	Generales	6x6	09	23.076	Publicado	Nadia Randolph	dabed motos	2016-5-15 00:00:00	
+102817	CAMAL MUSALEM TAPIA Y CIA.	Par	Blanco y negro	Generales	18x3	10	66.096	Publicado	Marcela Tello-ElDia		2016-5-15 00:00:00	
+102833	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x6	11	0	Arte	Marcela Tello-ElDia	El Ovallino - www.elovallino.cl	2016-5-15 00:00:00	
+102834	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x6	14	0	Arte	Marcela Tello-ElDia		2016-5-15 00:00:00	

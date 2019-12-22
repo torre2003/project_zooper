@@ -1,0 +1,40 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+87171	CLARO CHILE S.A.	Impar	Cuatricromia	Generales	25x5	05	373.600	Publicado	Kathine Soto-Stgo	2015-10-26 00:00:00	
+85879	DIARIO EL DIA	Par	Cuatricromia	Generales	14x2	06	0	Publicado	Marcela Tello-ElDia	2015-10-26 00:00:00	
+87155	UNIVERSIDAD TECNOLOGICA DE CHILE	Impar	Cuatricromia	Generales	17x6	07	470.641	Publicado	Patricia Villena	2015-10-26 00:00:00	
+87252	DIARIO EL DIA	Par	Blanco y negro	Generales	17x6	07	0	Publicado	Marcela Tello-ElDia	2015-10-26 00:00:00	
+85605	INVERSIONES E INMOBILIARIA P.A.T.  	Par	Cuatricromia	Generales	9x6	09	0	Publicado	Miguel Apey	2015-10-26 00:00:00	
+85838	DIARIO EL DIA	Par	Cuatricromia	Generales	5x6	10	0	Publicado	Marcela Tello-ElDia	2015-10-26 00:00:00	
+85675	HABITA INMOBILIARIA SA	Par	Cuatricromia	Generales	35x3	11	0	Publicado	Miguel Apey	2015-10-26 00:00:00	
+86167	CENTRO MEDICO DENTAL STO. TOMAS LTD	Par	Cuatricromia	Generales	8x4	12	0	Publicado	Rene Pizarro	2015-10-26 00:00:00	
+86421	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	5x2	12	0	Publicado	Miguel Apey	2015-10-26 00:00:00	
+85262	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	12-15	8.306	Publicado	Miguel Apey	2015-10-26 00:00:00	
+86546	INMOBIL. PY  S.A.	Par	Blanco y negro	Generales	10x1	13	9.804	Publicado	Claudio Romero	2015-10-26 00:00:00	
+85370	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	10x3	13	0	Publicado	Marcela Tello-ElDia	2015-10-26 00:00:00	
+85231	LABORATORIO CLINICO STA. MARIA LA S	Par	Blanco y negro	Generales	6x2	13	7.470	Publicado	Miguel Apey	2015-10-26 00:00:00	
+86908	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	16x3	14	104.352	Publicado	Medios Regionales	2015-10-26 00:00:00	
+86667	ILUSTRE MUNICIPALIDAD DE COQUIMBO	Par	Blanco y negro	Generales	15x2	14	76.902	Publicado	Miguel Apey	2015-10-26 00:00:00	
+87254	DIARIO EL DIA	Par	Cuatricromia	Generales	17x6	22	0	Publicado	Marcela Tello-ElDia	2015-10-26 00:00:00	
+85526	MARTIN JURE PATRICIA	Par	Cuatricromia	Generales	6x6	27	0	Publicado	Marcela Tello-ElDia	2015-10-26 00:00:00	
+86345	mihoc			UIP	5x1	30	8.937	Publicado	Claudio Romero	2015-10-26 00:00:00	
+87108	c.p.c			UIP	5x1	30	8.937	Publicado	Rene Pizarro	2015-10-26 00:00:00	
+87114	c.p.c.			UIP	5x1	30	8.937	Publicado	Rene Pizarro	2015-10-26 00:00:00	
+85318	SOC. COMERCIAL ALCAPARRA LTDA.	Par	Blanco y negro	Generales	5x2	30	10.440	Publicado	Patricia Villena	2015-10-26 00:00:00	
+87161	MATII PERFORACIONES			UIP	5x1	30	8.937	Publicado	Pedro Jaime	2015-10-26 00:00:00	
+87227	GUERRERO SERANTONI Y CIA. LTDA.	Par	Blanco y negro	Generales	5x1	30	5.527	Publicado	Pedro Jaime	2015-10-26 00:00:00	
+87235	AREVALO CARMEN			UIP	5x1	30	8.937	Publicado	Pedro Jaime	2015-10-26 00:00:00	
+84667	CERNA E HIJOS CIA. LTDA.	Par	Blanco y negro	Generales	5x1	30	4.468	Publicado	Nadia Randolph	2015-10-26 00:00:00	
+87102	c.p.c.			UIP	5x1	30	8.937	Publicado	Rene Pizarro	2015-10-26 00:00:00	
+84179	soc. comercial e inv. alto la seren			UIP	5x2	30	8.937	Publicado	Nadia Randolph	2015-10-26 00:00:00	
+85411	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	30	0	Publicado	Marcela Tello-ElDia	2015-10-26 00:00:00	
+86779	SOC. RAMON MOYA FUENTES 			UIP	10x1	30	8.937	Publicado	Miguel Apey	2015-10-26 00:00:00	
+86683	SOC. DE GESTION MEDITERRANEA			UIP	5x1	30	8.937	Publicado	Miguel Apey	2015-10-26 00:00:00	
+85486	DIARIO EL DIA	Par	Blanco y negro	Generales	5x2	30	0	Publicado	Marcela Tello-ElDia	2015-10-26 00:00:00	
+86393	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	4x5	30	20.508	Publicado	Miguel Apey	2015-10-26 00:00:00	
+85553	ARMAQ			UIP	5x1	30	8.937	Publicado	Claudio Romero	2015-10-26 00:00:00	
+86591	SERVICIOS GENERALES GUAYACAN S.A	Par	Blanco y negro	Generales	3x2	31	6.451	Publicado	Jacqueline Torres	2015-10-26 00:00:00	
+86959	DIARIO EL DIA	Par	Blanco y negro	Generales	5x2	EC-19	0	Publicado	Marcela Tello-ElDia	2015-10-26 00:00:00	
+87241	AREVALO CARMEN			UIP	5x1	EC-20	8.937	Publicado	Pedro Jaime	2015-10-26 00:00:00	
+87253	DIARIO EL DIA	Par	Cuatricromia	Generales	17x6	EC-20	0	Publicado	Marcela Tello-ElDia	2015-10-26 00:00:00	
+84761	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Generales	5x1	EC-20	5.860	Publicado	Rene Pizarro	2015-10-26 00:00:00	
+87170	INVERSIONES SAN JAVIER LTDA.	744 Palabras		Propiedades	x	PROP	119.040	Publicado	Rene Pizarro	2015-10-26 00:00:00	

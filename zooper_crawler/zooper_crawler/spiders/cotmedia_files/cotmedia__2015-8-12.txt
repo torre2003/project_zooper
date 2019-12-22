@@ -1,0 +1,33 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+91130	SUBSECRETARIA DE MEDIO AMBIENTE	Par	Blanco y negro	Generales	10x5		137.325	Arte	Jacqueline Torres	2015-8-12 00:00:00	
+81586	CHRISTIAN LAUNITZ MARIN SERVICIOS M	Par	Blanco y negro	Generales	3x2	04	6.440	Publicado	Jacqueline Torres	2015-8-12 00:00:00	
+82117	INDUSTRIA AUTOMOTRIZ FRANCO MECANIC	Impar	Cuatricromia	Generales	17x6	05	313.761	Publicado	Kathine Soto-Stgo	2015-8-12 00:00:00	
+81934	INST. ESTUDIOS BANCARIOS GUILLERMO 	Par	Blanco y negro	Generales	17x6	07	0	Publicado	Marcela Tello-ElDia	2015-8-12 00:00:00	
+81188	ILUSTRE MUNICIPALIDAD DE LA SERENA	Par	Cuatricromia	Generales	17x6	09	0	Arte	M Cristina Puga	2015-8-12 00:00:00	
+82107	SUBSECRETARIA DE MEDIO AMBIENTE	Par	Cuatricromia	Generales	10x5	11	0	Arte	Jacqueline Torres	2015-8-12 00:00:00	
+81483	SERVICIO TRANSPORTES SERENA MAR CAR	Par	Cuatricromia	Generales	9x2	12	0	Publicado	Marcela Tello-ElDia	2015-8-12 00:00:00	
+82087	CLUB DEPORTES COQUIMBO UNIDO	Par	Blanco y negro	Generales	10x2	12	0	Publicado	Marcela Tello-ElDia	2015-8-12 00:00:00	
+80776	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	10x3	13	0	Publicado	Marcela Tello-ElDia	2015-8-12 00:00:00	
+81550	CENTRO TECNICO ACUARELA LTDA.	Par	Blanco y negro	Generales	5x2	13	19.409	Publicado	Rene Pizarro	2015-8-12 00:00:00	
+82110	GOBIERNO REGIONAL - REGION DE COQUI	Par	Blanco y negro	Generales	17x3	15	0	Arte	Jacqueline Torres	2015-8-12 00:00:00	
+80866	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	16-18	8.306	Publicado	Miguel Apey	2015-8-12 00:00:00	
+81892	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Cuatricromia	Medios Regionales	16x6	17	309.344	Publicado	Medios Regionales	2015-8-12 00:00:00	
+82079	DIARIO EL DIA	Par	Cuatricromia	Generales	17x6	23	0	Publicado	Marcela Tello-ElDia	2015-8-12 00:00:00	
+82115	DIARIO EL DIA	Par	Blanco y negro	Generales	35x6	24	0	Publicado	Carolina Naranjo	2015-8-12 00:00:00	
+82023	DIARIO EL DIA	Par	Cuatricromia	Generales	17x6	27	0	Publicado	Marcela Tello-ElDia	2015-8-12 00:00:00	
+82085	CLUB DE DEPORTES LA SERENA	Par	Cuatricromia	Generales	17x3	28	0	Publicado	Marcela Tello-ElDia	2015-8-12 00:00:00	
+82040	AREVALO CARMEN			UIP	5x1	30	8.937	Publicado	Pedro Jaime	2015-8-12 00:00:00	
+81769	AGROPLASTIC LTDA.	Par	Blanco y negro	Generales	17x1	30	29.335	Publicado	Claudio Romero	2015-8-12 00:00:00	
+80154	SOC. DE GESTION MEDITERRANEA			UIP	5x1	30	8.937	Publicado	Miguel Apey	2015-8-12 00:00:00	
+80700	DIARIO EL DIA	Par	Cuatricromia	Generales	10x2	30	0	Publicado	Marcela Tello-ElDia	2015-8-12 00:00:00	
+80741	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	30	0	Publicado	Marcela Tello-ElDia	2015-8-12 00:00:00	
+81015	hugo walter			UIP	5x1	30	8.937	Publicado	Nadia Randolph	2015-8-12 00:00:00	
+81059	armaq			UIP	5x1	30	8.937	Publicado	Claudio Romero	2015-8-12 00:00:00	
+81103	ECHEVERRI GOMEZ			UIP	5x1	30	8.937	Publicado	Pedro Jaime	2015-8-12 00:00:00	
+81222	SOC. COMERCIAL ALCAPARRA LTDA.	Par	Blanco y negro	Generales	5x2	30	10.440	Publicado	Patricia Villena	2015-8-12 00:00:00	
+77378	sociedad restau			UIP	5x2	30	17.875	Publicado	Jacqueline Torres	2015-8-12 00:00:00	
+81663	SERVICIOS GENERALES GUAYACAN S.A	Par	Blanco y negro	Generales	3x2	31	6.452	Publicado	Jacqueline Torres	2015-8-12 00:00:00	
+82112	CHRISTIAN EDUARDO BRAVO BUSTOS	804 Palabras		Legal	x	EC	199.580	Publicado	Pedro Jaime	2015-8-12 00:00:00	
+82046	AREVALO CARMEN			UIP	5x1	EC-21	8.937	Publicado	Pedro Jaime	2015-8-12 00:00:00	
+81497	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Generales	5x1	EC-21	5.860	Publicado	Rene Pizarro	2015-8-12 00:00:00	
+81529	SOC. COMERCIAL VARGAS Y GIACOMET	Par	Blanco y negro	Generales	5x1	EC-21	5.860	Publicado	Rene Pizarro	2015-8-12 00:00:00	

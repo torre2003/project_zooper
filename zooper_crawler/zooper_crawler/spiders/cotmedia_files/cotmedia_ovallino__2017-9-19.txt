@@ -1,0 +1,8 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+139161	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	12x6	03	0	Arte	Marcela Tello-ElDia	Cambio de oficina...	2017-9-19 00:00:00	
+138309	CENTRO DE SALUD PORTALES LTDA			UIP	5x4	05	4.504	Publicado	Karina Rivera	ORTODONCIA 	2017-9-19 00:00:00	
+137768	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	09	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2017-9-19 00:00:00	
+136035	INVERSIONES TANGUEMAR LIMITADA			UIP	5x2	10	2.808	Publicado	Patricia Villena	Tanguemar	2017-9-19 00:00:00	
+137212	TEODORO AGUIRRE ALVAREZ			UIP	5x2	10	2.808	Publicado	Karina Rivera	REGIONALISTA VERDE SOCIAL	2017-9-19 00:00:00	
+138028	ESTUDIO JURIDICO OLIVARES Y CIA. SP	Par	Blanco y negro	Generales	5x2	10	2.000	Publicado	Jacqueline Torres	ESTUDIO JURIDICO OLIVARES	2017-9-19 00:00:00	
+139162	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	6x6	14	0	Arte	Marcela Tello-ElDia		2017-9-19 00:00:00	

@@ -1,0 +1,60 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+86197	DERCO S.A.	Impar	Cuatricromia	Generales	17x6	05	313.761	Publicado	Kathine Soto-Stgo	2015-10-9 00:00:00	
+86154	ILUSTRE MUNICIPALIDAD DE COQUIMBO	Par	Cuatricromia	Generales	10x6	07	258.391	Publicado	Miguel Apey	2015-10-9 00:00:00	
+86242	CLUB DE DEPORTES LA SERENA	Par	Cuatricromia	Generales	17x3	08	0	Publicado	Marcela Tello-ElDia	2015-10-9 00:00:00	
+86202	GOBERNACION PROVINCIAL DE ELQUI	Par	Blanco y negro	Generales	17x3	08	0	Publicado	Jacqueline Torres	2015-10-9 00:00:00	
+86093	INMOBILIARIA NUEVA SERENA	Par	Cuatricromia	Generales	35x6	09	0	Publicado	Claudio Romero	2015-10-9 00:00:00	
+86262	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	10	0	Publicado	Marcela Tello-ElDia	2015-10-9 00:00:00	
+85602	INMOBILIARIA KUPAL LTDA.	Par	Cuatricromia	Generales	17x3	10	0	Publicado	Miguel Apey	2015-10-9 00:00:00	
+85679	CONSTRUCTORA SAMCO LTDA	Par	Cuatricromia	Generales	9x6	11	0	Publicado	Miguel Apey	2015-10-9 00:00:00	
+86116	PROYECTOS CORPORATIVOS S.A	Par	Cuatricromia	Generales	6x2	12	36.913	Publicado	Kathine Soto-Stgo	2015-10-9 00:00:00	
+85245	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	12-14	8.306	Publicado	Miguel Apey	2015-10-9 00:00:00	
+85697	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	26x5	13	282.620	Publicado	Medios Regionales	2015-10-9 00:00:00	
+86066	SINDY GONZALEZ MARCHANT	Par	Blanco y negro	Generales	12x2	15	0	Publicado	Marcela Tello-ElDia	2015-10-9 00:00:00	
+85162	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	10x3	15	65.220	Publicado	Medios Regionales	2015-10-9 00:00:00	
+85993	SERVICIOS DE TRANSPORTES DE PASAJER	Par	Blanco y negro	Generales	7x2	19	46.142	Publicado	Miguel Apey	2015-10-9 00:00:00	
+86263	DIARIO EL DIA	Par	Cuatricromia	Generales	10x2	22	0	Publicado	Marcela Tello-ElDia	2015-10-9 00:00:00	
+85519	MARTIN JURE PATRICIA	Par	Cuatricromia	Generales	5x3	22	0	Publicado	Marcela Tello-ElDia	2015-10-9 00:00:00	
+85505	DIARIO EL DIA	Par	Cuatricromia	Generales	10x2	22	0	Publicado	Marcela Tello-ElDia	2015-10-9 00:00:00	
+85461	PILLA LA VACA	Par	Cuatricromia	Generales	5x2	22	0	Publicado	Marcela Tello-ElDia	2015-10-9 00:00:00	
+85269	HOTEL COSTA REAL	Par	Cuatricromia	Generales	10x2	22	30.761	Publicado	Miguel Apey	2015-10-9 00:00:00	
+85435	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Cuatricromia	Generales	5x2	22	0	Publicado	Marcela Tello-ElDia	2015-10-9 00:00:00	
+84135	SOC. COMERCIAL E INV. ALTO LA SEREN	Par	Cuatricromia	Generales	10x2	22	61.522	Publicado	Nadia Randolph	2015-10-9 00:00:00	
+85357	SOC. HOTELERA VICHUQUEN LTDA.	Par	Cuatricromia	Generales	5x3	22	0	Publicado	Marcela Tello-ElDia	2015-10-9 00:00:00	
+86173	DIARIO EL DIA	Par	Blanco y negro	Generales	35x6	23	0	Publicado	Carolina Naranjo	2015-10-9 00:00:00	
+85821	DIARIO EL DIA	Par	Cuatricromia	Generales	5x6	26	0	Publicado	Marcela Tello-ElDia	2015-10-9 00:00:00	
+84652	CERNA E HIJOS CIA. LTDA.	Par	Blanco y negro	Generales	5x1	29	4.468	Publicado	Nadia Randolph	2015-10-9 00:00:00	
+85539	ARMAQ			UIP	5x1	29	8.937	Publicado	Claudio Romero	2015-10-9 00:00:00	
+83911				UIP	5x2	29	17.875	Publicado	Pedro Jaime	2015-10-9 00:00:00	
+85301	SOC. COMERCIAL ALCAPARRA LTDA.	Par	Blanco y negro	Generales	5x2	29	10.440	Publicado	Patricia Villena	2015-10-9 00:00:00	
+86000	AUTOMOTORES DEL NORTE	Par	Blanco y negro	Generales	5x1	29	7.427	Publicado	Miguel Apey	2015-10-9 00:00:00	
+86050	MAQUINARIA DE 			UIP	17x1	29	29.333	Publicado	Rene Pizarro	2015-10-9 00:00:00	
+84471	SOC. DE GESTION MEDITERRANEA			UIP	5x1	29	8.937	Publicado	Miguel Apey	2015-10-9 00:00:00	
+84165	soc. comercial e inv. alto la seren			UIP	5x2	29	8.937	Publicado	Nadia Randolph	2015-10-9 00:00:00	
+85985	DANIELLA PINTO			UIP	5x1	29	8.937	Publicado	Pedro Jaime	2015-10-9 00:00:00	
+86254	INVERSIONES VEINTINUEVE GRADOS	Par	Blanco y negro	Economico	5x1	29	11.900	Publicado	Jacqueline Torres	2015-10-9 00:00:00	
+85808	ENTEL PCS	Impar	Cuatricromia	Generales	35x6	32	645.977	Publicado	Kathine Soto-Stgo	2015-10-9 00:00:00	
+86181	MAR?A ADELAIDA JORQUERA	Par	Blanco y negro	Generales	5x2	DEF	25.210	Publicado	Pedro Jaime	2015-10-9 00:00:00	
+86186	ALBERTO SALAS NICOLAU	Par	Blanco y negro	Generales	5x2	DEF	25.210	Publicado	Pedro Jaime	2015-10-9 00:00:00	
+86180	ESCUELA PROFESIONAL DE CONDUCTORES 	Par	Blanco y negro	Generales	5x2	DEF	25.210	Publicado	Pedro Jaime	2015-10-9 00:00:00	
+86188	ALBERTO SALAS NICOLAU	Par	Blanco y negro	Generales	5x2	DEF	25.210	Publicado	Pedro Jaime	2015-10-9 00:00:00	
+86179	ESCUELA PROFESIONAL DE CONDUCTORES 	Par	Blanco y negro	Generales	5x2	DEF	25.210	Publicado	Pedro Jaime	2015-10-9 00:00:00	
+86182	BANCO DE CHILE	621 Palabras		Legal	x	EC	154.202	Publicado	Pedro Jaime	2015-10-9 00:00:00	
+86191	TASUI NORTE SUR S.A.	Par	Blanco y negro	Generales	4x2	EC-16	29.296	Publicado	Marcela Tello-ElDia	2015-10-9 00:00:00	
+86174	DIARIO EL DIA	Par	Blanco y negro	Generales	5x2	EC-16	0	Publicado	Marcela Tello-ElDia	2015-10-9 00:00:00	
+86117	PROYECTOS CORPORATIVOS S.A	Par	Cuatricromia	Generales	6x2	EC-16	36.913	Publicado	Kathine Soto-Stgo	2015-10-9 00:00:00	
+86255	DESIDERIO LISBOA EIRL.	Par	Blanco y negro	Generales	5x2	EC-17	20.000	Publicado	Claudio Romero	2015-10-9 00:00:00	
+86223	AGROPLAS			UIP	5x2	EC-17	17.875	Publicado	Claudio Romero	2015-10-9 00:00:00	
+84744	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Generales	5x1	EC-17	5.860	Publicado	Rene Pizarro	2015-10-9 00:00:00	
+86189	SCOTIABANK CHILE S.A.	557 Palabras		Legal	x	EC-17	138.319	Publicado	Pedro Jaime	2015-10-9 00:00:00	
+86118	PROYECTOS CORPORATIVOS S.A	Par	Cuatricromia	Generales	6x2	EC-17	36.913	Publicado	Kathine Soto-Stgo	2015-10-9 00:00:00	
+86216	SOC. EDUCACIONAL ANDRES BELLO LTDA.	Par	Cuatricromia	Generales	17x6	EE-03	250.000	Publicado	Paola Marquez	2015-10-9 00:00:00	
+86054	SOC. EDUCACIONAL BASALDIAZ S.A.	Par	Cuatricromia	Generales	35x6	EE-05	350.000	Publicado	Paola Marquez	2015-10-9 00:00:00	
+85691	SOC. EDUCACIONAL IRELAND Y OYARZUN 	Par	Cuatricromia	Generales	17x3	EE-08	183.027	Publicado	Miguel Apey	2015-10-9 00:00:00	
+85929	SOC. EDUCACIONAL SAN GUILLERMO LTDA	Par	Cuatricromia	Generales	17x3	EE-08	183.027	Publicado	Miguel Apey	2015-10-9 00:00:00	
+86033	JUNTA NACIONAL DE AUXILIO ESCOLAR Y	Par	Blanco y negro	Ed.Especial	17x6	EE-09	253.996	Publicado	Jacqueline Torres	2015-10-9 00:00:00	
+86153	SOC. JULIA YOLANDA BURGOS ARAYA Y C	Par	Cuatricromia		17x3	EE-10	149.410	Publicado	Carolina Naranjo	2015-10-9 00:00:00	
+86081	FUNDACION EDUCACIONAL SCUOLA ITALIA	Par	Cuatricromia	Generales	10x6	EE-10	215.326	Publicado	Jacqueline Torres	2015-10-9 00:00:00	
+85342	SOC. EDUACIONAL MANUEL MONTT	Par	Cuatricromia	Generales	17x3	EE-11	261.467	Publicado	Miguel Apey	2015-10-9 00:00:00	
+85345	SERV. EDUCACIONALES Y ASESORIAS TEC	Par	Blanco y negro	Generales	10x3	EE-11	76.902	Publicado	Miguel Apey	2015-10-9 00:00:00	
+86017	SOCIEDAD EDUCACIONAL SERENA EDUCA L	Par	Cuatricromia	Generales	35x6	EE-12	461.538	Publicado	Claudio Romero	2015-10-9 00:00:00	

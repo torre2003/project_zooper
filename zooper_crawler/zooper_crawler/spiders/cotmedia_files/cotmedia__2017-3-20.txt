@@ -1,0 +1,40 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+124632	CHRISTIAN LAUNITZ MARIN SERVICIOS M	Par	Blanco y negro	Generales	8x2	04	4.838	Publicado	Heinger Vega Torres	2017-3-20 00:00:00	
+125333	INMOBIL. LA SERENA GOLF S.A.	Par	Cuatricromia	Generales	17x6	05	0	Publicado	Patricia Villena	2017-3-20 00:00:00	
+125462	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Cuatricromia	Medios Regionales	32x6	07	518.048	Arte	Medios Regionales	2017-3-20 00:00:00	
+124506	HABITA INMOBILIARIA SA	Par	Cuatricromia	Generales	34x3	10	0	Publicado	Miguel Apey	2017-3-20 00:00:00	
+125496	DIARIO EL DIA	Par	Cuatricromia	Generales	12x6	10	0	Arte	Marcela Tello-ElDia	2017-3-20 00:00:00	
+125456	ILUSTRE MUNICIPALIDAD DE COQUIMBO	Par	Blanco y negro	Generales	12x3	12	92.283	Publicado	Miguel Apey	2017-3-20 00:00:00	
+123577	LABORATORIO CLINICO STA. MARIA LA S	Par	Blanco y negro	Generales	6x2	12	7.470	Publicado	Miguel Apey	2017-3-20 00:00:00	
+124848	DIARIO EL DIA	Par	Blanco y negro	Generales	6x1	12	0	Publicado	Marcela Tello-ElDia	2017-3-20 00:00:00	
+125522	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Cuatricromia	Medios Regionales	32x6	13	518.048	Arte	Medios Regionales	2017-3-20 00:00:00	
+125464	ARZOBISPADO DE LA SERENA	Par	Blanco y negro	Generales	5x2	14	0	Publicado	Marcela Tello-ElDia	2017-3-20 00:00:00	
+125481	COLEGIO GABRIELA MISTRAL	Par	Blanco y negro	Generales	5x2	14	32.958	Publicado	Karina Rivera	2017-3-20 00:00:00	
+123529	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	14	8.306	Publicado	Miguel Apey	2017-3-20 00:00:00	
+124125	CAPACITACION Y ASESORIAS EMPRENDE J	Par	Cuatricromia	Generales	34x6	15-16	650.000	Publicado	Patricia Villena	2017-3-20 00:00:00	
+125519	SINDY GONZALEZ MARCHANT	Par	Blanco y negro	Generales	16x6	22	0	Publicado	Marcela Tello-ElDia	2017-3-20 00:00:00	
+124648	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	22	0	Publicado	Marcela Tello-ElDia	2017-3-20 00:00:00	
+124762	DIARIO EL DIA	Par	Blanco y negro	Generales	5x2	25	0	Publicado	Marcela Tello-ElDia	2017-3-20 00:00:00	
+123348	INMOBILIARIA PROYECTA SEIS LTDA.	Par	Blanco y negro	Generales	5x2	25	12.605	Publicado	Heinger Vega Torres	2017-3-20 00:00:00	
+123361	INMOBILIARIA PROYECTA CUATRO LIMITA	Par	Blanco y negro	Generales	5x2	25	12.605	Publicado	Heinger Vega Torres	2017-3-20 00:00:00	
+125501	DABED Y CIA. LTDA., SELIM	Par	Cuatricromia	Generales	6x6	26	27.690	Publicado	Karina Rivera	2017-3-20 00:00:00	
+124514	INVERSIONES E INMOBILIARIA P.A.T.  	Par	Cuatricromia	Generales	34x3	27	0	Publicado	Miguel Apey	2017-3-20 00:00:00	
+122986	ILUSTRE MUNICIPALIDAD DE LA SERENA	Par	Cuatricromia	Generales	17x3	27	177.798	Publicado	M Cristina Puga	2017-3-20 00:00:00	
+125361	LINDA PANTICH			UIP	5x1	30	8.937	Publicado	Pedro Jaime	2017-3-20 00:00:00	
+125253	AUTOMOTORES DEL NORTE	Par	Blanco y negro	Generales	5x1	30	7.427	Publicado	Miguel Apey	2017-3-20 00:00:00	
+125110	SOC. DE GES			UIP	5x1	30	8.937	Publicado	Miguel Apey	2017-3-20 00:00:00	
+123135	armaq			UIP	5x1	30	8.937	Publicado	Claudio Romero	2017-3-20 00:00:00	
+120968	CERNA E HIJOS CIA. LTDA.	Par	Blanco y negro	Generales	5x1	30	4.468	Publicado	Nadia Randolph	2017-3-20 00:00:00	
+124701	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	30	0	Publicado	Marcela Tello-ElDia	2017-3-20 00:00:00	
+124136	munici			UIP	5x2	30	17.875	Publicado	Miguel Apey	2017-3-20 00:00:00	
+125223	VELIZ CORTES JOSE A.	Par	Blanco y negro	Generales	3x2	31	13.403	Publicado	Pedro Cortes	2017-3-20 00:00:00	
+125568	ILUSTRE MUNICIPALIDAD DE COQUIMBO	Par	Blanco y negro	Generales	10x2	31	76.902	Publicado	Miguel Apey	2017-3-20 00:00:00	
+124483	SERVICIOS GENERALES GUAYACAN S.A	Par	Blanco y negro	Generales	4x2	31	6.666	Publicado	Jacqueline Torres	2017-3-20 00:00:00	
+124522	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Generales	5x1	EC-19	6.043	Publicado	Rene Pizarro	2017-3-20 00:00:00	
+125512	CORPORACION EDUCACIONAL COLEGIO SAN	Par	Blanco y negro	Generales	8x2	EC-20	58.592	Publicado	Pedro Jaime	2017-3-20 00:00:00	
+125563	DIARIO EL DIA	Par	Cuatricromia	Generales	17x6	EC-20	0	Arte	Marcela Tello-ElDia	2017-3-20 00:00:00	
+125564	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	EC-20	0	Arte	Marcela Tello-ElDia	2017-3-20 00:00:00	
+123754	HOTELERIA LUIS ALBERTO BERETTA KIEK	Par	Blanco y negro	Generales	5x2	EC-20	6.061	Publicado	Patricia Villena	2017-3-20 00:00:00	
+124893	UNIVERSIDAD DE LA SERENA	Impar	Blanco y negro	Ed.Especial	35x6	EE-01	840.336	Publicado	Jacqueline Torres	2017-3-20 00:00:00	
+123047	AGROPLASTIC LTDA.	Impar	Cuatricromia	Generales	17x3	EE-05	250.000	Publicado	Claudio Romero	2017-3-20 00:00:00	
+125540	MUTUAL DE SEGURIDAD C.CH.C.	Par	Cuatricromia	Ed.Especial	17x3	EE-08	169.954	Publicado	Jacqueline Torres	2017-3-20 00:00:00	

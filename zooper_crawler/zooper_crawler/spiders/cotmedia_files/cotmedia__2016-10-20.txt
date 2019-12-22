@@ -1,0 +1,35 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+114405	SONIA GRACIELA NEYRA ROJAS	Par	Cuatricromia	Generales	17x3	06	77.164	Publicado	Jacqueline Torres	2016-10-20 00:00:00	
+114511	VIGIL LTDA.	Par	Cuatricromia	Generales	13x4	08	135.000	Publicado	Rene Pizarro	2016-10-20 00:00:00	
+114516	SOC. DE SERV. DE MARKETING EVENTOS 	Impar	Cuatricromia	Generales	17x6	09	419.328	Publicado	Pedro Jaime	2016-10-20 00:00:00	
+113080	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Cuatricromia	Medios Regionales	6x6	11	178.904	Publicado	Medios Regionales	2016-10-20 00:00:00	
+112781	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	6x6	12	51.666	Publicado	Claudio Romero	2016-10-20 00:00:00	
+113602	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	13	0	Publicado	Marcela Tello-ElDia	2016-10-20 00:00:00	
+114196	AREVALO CARMEN			UIP	5x1	14	8.937	Publicado	Pedro Jaime	2016-10-20 00:00:00	
+114268	GESTION NORTE	Par	Blanco y negro	Generales	5x2	14	9.280	Publicado	Patricia Villena	2016-10-20 00:00:00	
+112864	ARMAQ			UIP	5x1	14	8.937	Publicado	Claudio Romero	2016-10-20 00:00:00	
+111889	INVERSIONES VEINTINUEVE GRADOS	Par	Blanco y negro	Generales	5x2	14	9.280	Publicado	Patricia Villena	2016-10-20 00:00:00	
+112616	LABORATORIO CLINICO STA. MARIA LA S	Par	Blanco y negro	Generales	6x2	15	7.470	Publicado	Miguel Apey	2016-10-20 00:00:00	
+114459	SERVICIOS DE TRANSPORTES DE PASAJER	Par	Blanco y negro	Generales	7x2	15	46.142	Publicado	Miguel Apey	2016-10-20 00:00:00	
+114476	SUBSIDIO NACIONAL TRANSPORTE PUBLIC	Par	Blanco y negro	Generales	13x2	15	54.747	Publicado	Jacqueline Torres	2016-10-20 00:00:00	
+114437	AGENCIA PUBLICITARIA OREL ALI E.I.R	Par	Cuatricromia	Generales	34x6	16	0	Publicado	Marcela Tello-ElDia	2016-10-20 00:00:00	
+114514	ROBERTO JACOB JURE	Impar	Blanco y negro	Generales	17x6	17	448.229	Publicado	Jacqueline Torres	2016-10-20 00:00:00	
+113261	PILLA LA VACA	Par	Blanco y negro	Generales	5x2	18	0	Publicado	Marcela Tello-ElDia	2016-10-20 00:00:00	
+112686	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	5x2	18	0	Publicado	Miguel Apey	2016-10-20 00:00:00	
+112568	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	18	8.306	Publicado	Miguel Apey	2016-10-20 00:00:00	
+112877	ALALUF PROPIEDADES S.A.	Par	Cuatricromia	Generales	17x3	19	0	Publicado	Jacqueline Torres	2016-10-20 00:00:00	
+113180	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	20	0	Publicado	Marcela Tello-ElDia	2016-10-20 00:00:00	
+114485	DIARIO EL DIA	Par	Blanco y negro	Generales	35x6	25	0	Publicado	Carolina Naranjo	2016-10-20 00:00:00	
+112627	CASA DEL PERNO	Par	Blanco y negro	Generales	5x3	29	23.071	Publicado	Miguel Apey	2016-10-20 00:00:00	
+114202	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	10x2	29	43.480	Arte	Medios Regionales	2016-10-20 00:00:00	
+112038	SOC. DE GES			UIP	5x1	30	8.937	Publicado	Miguel Apey	2016-10-20 00:00:00	
+112599	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	4x5	30	20.508	Publicado	Miguel Apey	2016-10-20 00:00:00	
+113243	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	30	0	Publicado	Marcela Tello-ElDia	2016-10-20 00:00:00	
+113429	SERVICIOS GASTRON?MICOS LA CASONA D	Par	Blanco y negro	Generales	5x2	30	10.725	Publicado	Miguel Apey	2016-10-20 00:00:00	
+108480	CERNA E HIJOS CIA. LTDA.	Par	Blanco y negro	Generales	5x1	30	4.468	Publicado	Nadia Randolph	2016-10-20 00:00:00	
+114054	VELIZ CORTES JOSE A.	Par	Blanco y negro	Generales	3x2	31	13.403	Publicado	Pedro Cortes	2016-10-20 00:00:00	
+113115	SERVICIOS GENERALES GUAYACAN S.A	Par	Blanco y negro	Generales	4x2	31	6.666	Publicado	Jacqueline Torres	2016-10-20 00:00:00	
+114147	DAVILA CARLOS 			UIP	5x1	32	8.937	Publicado	Pedro Jaime	2016-10-20 00:00:00	
+112897	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Generales	5x1	EC-22	5.860	Publicado	Rene Pizarro	2016-10-20 00:00:00	
+114503	BANCO DE CHILE	569 Palabras		Legal	x	EC-22	141.344	Publicado	Pedro Jaime	2016-10-20 00:00:00	
+108922	HOTELERIA LUIS ALBERTO BERETTA KIEK	Par	Blanco y negro	Generales	5x2	EC-22	6.994	Publicado	Patricia Villena	2016-10-20 00:00:00	

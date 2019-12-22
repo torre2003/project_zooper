@@ -1,0 +1,36 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+139443	CHRISTIAN LAUNITZ MARIN SERVICIOS M	Par	Blanco y negro	Generales	5x2	04	5.000	Publicado	Heinger Vega Torres	2017-10-23 00:00:00	
+141681	CLARO CHILE S.A.	Impar	Cuatricromia	Generales	35x6	05	646.000	Publicado	Kathine Soto-Stgo	2017-10-23 00:00:00	
+140483	INMOBIL. LA SERENA GOLF S.A.	Par	Cuatricromia	Generales	17x6	08	0	Publicado	Patricia Villena	2017-10-23 00:00:00	
+141014	VIAJES FALABELLA LTDA.	Impar	Cuatricromia	Generales	10x6	09	208.189	Publicado	M Cristina Puga	2017-10-23 00:00:00	
+140020	HABITA INMOBILIARIA SA	Par	Cuatricromia	Generales	34x3	11	0	Publicado	Miguel Apey	2017-10-23 00:00:00	
+141734	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	11	0	Arte	Marcela Tello-ElDia	2017-10-23 00:00:00	
+141459	ONEL RAMOS MUNDACA			UIP	5x2	12	17.875	Publicado	Miguel Apey	2017-10-23 00:00:00	
+141627	SOC. AGRICOLA HACIENDA MANANTIALES	Par	Cuatricromia	Generales	10x2	12	82.029	Publicado	Karina Rivera	2017-10-23 00:00:00	
+141401	EDITH FARIAS RAMOS	Par	Blanco y negro	Generales	10x2	12	51.268	Publicado	Miguel Apey	2017-10-23 00:00:00	
+140579	ESTUDIO JURIDICO OLIVARES Y CIA. SP	Par	Blanco y negro	Generales	5x2	13	2.666	Publicado	Jacqueline Torres	2017-10-23 00:00:00	
+139956	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	5x2	13	0	Publicado	Miguel Apey	2017-10-23 00:00:00	
+139411	C.M. SOC. GASTRONOMICA LTDA.			UIP	5x2	13	7.208	Publicado		2017-10-23 00:00:00	
+141513	ARZOBISPADO DE LA SERENA	Par	Blanco y negro	Generales	5x2	15	0	Arte	Marcela Tello-ElDia	2017-10-23 00:00:00	
+141589	CENTRO DE EDUC.CAP.Y FORMACION LABO	Par	Blanco y negro	Generales	5x2	15	4.666	Publicado	Jacqueline Torres	2017-10-23 00:00:00	
+139657	LABORATORIO CLINICO STA. MARIA LA S	Par	Blanco y negro	Generales	6x2	15	7.470	Publicado	Miguel Apey	2017-10-23 00:00:00	
+140159	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	16	0	Publicado	Marcela Tello-ElDia	2017-10-23 00:00:00	
+139642	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	16	8.306	Publicado	Miguel Apey	2017-10-23 00:00:00	
+141735	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	17	0	Arte	Marcela Tello-ElDia	2017-10-23 00:00:00	
+141633	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Cuatricromia	Medios Regionales	16x3	17	204.992	Arte	Medios Regionales	2017-10-23 00:00:00	
+141737	DIARIO EL DIA	Par	Cuatricromia	Generales	21x4	22	0	Arte	Marcela Tello-ElDia	2017-10-23 00:00:00	
+141613	DABED Y CIA. LTDA., SELIM	Par	Cuatricromia	Generales	6x6	25	27.690	Publicado	Karina Rivera	2017-10-23 00:00:00	
+141738	DIARIO EL DIA	Par	Cuatricromia	Generales	34x2	27	0	Arte	Marcela Tello-ElDia	2017-10-23 00:00:00	
+141739	DIARIO EL DIA	Par	Cuatricromia	Generales	34x6	28	0	Arte	Marcela Tello-ElDia	2017-10-23 00:00:00	
+141450	CERNA E HIJOS CIA. LTDA.	Par	Blanco y negro	Generales	5x1	30	3.574	Publicado	Nadia Randolph	2017-10-23 00:00:00	
+140226	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	30	0	Publicado	Marcela Tello-ElDia	2017-10-23 00:00:00	
+139728	ARMAQ SUBIRI S.A.			UIP	5x1	30	8.937	Publicado	Claudio Romero	2017-10-23 00:00:00	
+139686	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	4x5	30	20.508	Publicado	Miguel Apey	2017-10-23 00:00:00	
+139318	SOC. DE GES			UIP	5x1	30	8.937	Publicado	Miguel Apey	2017-10-23 00:00:00	
+141192	VELIZ CORTES JOSE A.	Par	Blanco y negro	Generales	3x2	31	13.403	Publicado	Pedro Cortes	2017-10-23 00:00:00	
+140557	SERVICIOS GENERALES GUAYACAN S.A	Par	Blanco y negro	Generales	4x2	31	6.686	Publicado	Jacqueline Torres	2017-10-23 00:00:00	
+141570	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	8x2	EC-19	34.784	Arte	Medios Regionales	2017-10-23 00:00:00	
+141480	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	10x2	EC-19	43.480	Arte	Medios Regionales	2017-10-23 00:00:00	
+141736	DIARIO EL DIA	Par	Blanco y negro	Generales	17x6	EC-20	0	Arte	Marcela Tello-ElDia	2017-10-23 00:00:00	
+139820	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Economico	5x2	EC-20	15.161	Publicado	Rene Pizarro	2017-10-23 00:00:00	
+123976	HOTELERIA LUIS ALBERTO BERETTA KIEK	Par	Blanco y negro	Generales	5x2	EC-20	6.061	Publicado	Patricia Villena	2017-10-23 00:00:00	

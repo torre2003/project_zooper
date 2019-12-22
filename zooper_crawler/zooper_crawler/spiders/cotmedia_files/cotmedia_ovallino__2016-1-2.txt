@@ -1,0 +1,8 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+92605	DABED Y CIA. LTDA., SELIM	Par	Cuatricromia	Generales	6x6	03	0	Publicado	Marcela Tello-ElDia		2016-1-2 00:00:00	
+81456	tanguemar			UIP	5x2	05	2.808	Publicado	Patricia Villena	Tanguemar	2016-1-2 00:00:00	
+91441	INMOBILIARIA OASIS DEL LIMAR? LTDA	Par	Blanco y negro	Generales	5x2	05	1.428	Publicado	Italo Retamal	arriendo local oasis	2016-1-2 00:00:00	
+92602	INVERSIONES AVANZADA LTDA	Par	Blanco y negro	Generales	5x2	05	5.833	Publicado	Jacqueline Torres	campo lindo valle	2016-1-2 00:00:00	
+92426	AGRICOLA NORTE TALINAY LTDA	Par	Blanco y negro	Generales	5x2	07	1.428	Publicado	Italo Retamal	venta fardos	2016-1-2 00:00:00	
+92521	AGRICOLA NORTE TALINAY LTDA	Par	Blanco y negro	Generales	5x2	07	1.428	Publicado	Italo Retamal	Oferta de empleos	2016-1-2 00:00:00	
+92643	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x6	14	0	Arte	Marcela Tello-ElDia	www.elovallino.cl	2016-1-2 00:00:00	

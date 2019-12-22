@@ -1,0 +1,10 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+157951	EMPRESA PERIODISTICA EL NORTE S.A.	Par	Cuatricromia	Medios Regionales	32x6	03	367.130	Publicado	Medios Regionales	Impar - Lecciones - Negocios de Familia - (88253)	2018-6-10 00:00:00	
+131319	SOCIEDAD MEDICA Y CONSULTORA ESTETI		Cuatricromia	Guia	5x2	06	13.333	Publicado	Maria_Amelia Hermosilla	Diego Polanco	2018-6-10 00:00:00	
+157832	EMPRESA PERIODISTICA EL NORTE S.A.	Par	Blanco y negro	Medios Regionales	6x2	06	18.204	Publicado	Medios Regionales		2018-6-10 00:00:00	
+158000	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	12x3	08	0	Arte	Marcela Tello-ElDia	Reportero Ciudadano - El Ovallino	2018-6-10 00:00:00	
+157248	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	09	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2018-6-10 00:00:00	
+157998	CAMAL MUSALEM TAPIA Y CIA.	Par	Cuatricromia	Generales	34x4	10	233.104	Publicado	Marcela Tello-ElDia	Toyota - Aprovecha en Junio - Bonos del Mes del Padre	2018-6-10 00:00:00	
+157457	EMPRESA PERIODISTICA EL NORTE S.A.	Par	Cuatricromia	Medios Regionales	10x3	11	121.376	Publicado	Medios Regionales	Impar - Parques de Chile - (52807)	2018-6-10 00:00:00	
+157487	DABED Y CIA. LTDA., SELIM	Par	Cuatricromia	Generales	6x6	13	23.076	Publicado	Karina Rivera	O1	2018-6-10 00:00:00	
+158001	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	8x6	14	0	Arte	Marcela Tello-ElDia	Cupones de Descuentos - Cinemark	2018-6-10 00:00:00	

@@ -1,0 +1,45 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+89721	CECILIA GERALDO	161 Palabras		Legal	x		39.928	Arte	Pedro Jaime	2015-11-27 00:00:00	
+89766	DIARIO EL DIA	Par	Cuatricromia	Generales	34x6		0	Publicado	Marcela Tello-ElDia	2015-11-27 00:00:00	
+89797	PHD CHILE S.A.	Impar	Cuatricromia	Generales	35x6	05	1.000.000	Publicado	Patricia Villena	2015-11-27 00:00:00	
+89724	ENTEL PCS	Impar	Cuatricromia	Generales	15x6	07	173.913	Publicado	Kathine Soto-Stgo	2015-11-27 00:00:00	
+89128	DIARIO EL DIA	Par	Blanco y negro	Generales	5x2	08	0	Publicado	Marcela Tello-ElDia	2015-11-27 00:00:00	
+87352	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	08	8.306	Publicado	Miguel Apey	2015-11-27 00:00:00	
+88250	ENTEL PCS	Impar	Cuatricromia	Generales	25x5	09	384.510	Publicado	Kathine Soto-Stgo	2015-11-27 00:00:00	
+89963	ILUSTRE MUNICIPALIDAD DE LA SERENA	Par	Blanco y negro	Generales	17x3	10	0	Publicado	Jacqueline Torres	2015-11-27 00:00:00	
+89976	INMOBIL. E INVERSIONES AREYUNA E HI	Par	Cuatricromia	Generales	35x6	11	400.000	Publicado	Claudio Romero	2015-11-27 00:00:00	
+89671	DIARIO EL DIA	Par	Cuatricromia	Generales	12x6	12	0	Publicado	Marcela Tello-ElDia	2015-11-27 00:00:00	
+88732	INMOBILIARIA KUPAL LTDA.	Par	Cuatricromia	Generales	17x3	12	0	Publicado	Miguel Apey	2015-11-27 00:00:00	
+87886	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	5x2	13	0	Publicado	Miguel Apey	2015-11-27 00:00:00	
+89400	INMOBIL. PY  S.A.	Par	Blanco y negro	Generales	10x2	13	89.389	Publicado	Claudio Romero	2015-11-27 00:00:00	
+89970	DESIDERIO LISBOA EIRL.	Par	Blanco y negro	Generales	5x2	13	20.000	Publicado	Claudio Romero	2015-11-27 00:00:00	
+89574	SUBSIDIO NACIONAL TRANSPORTE PUBLIC	Par	Blanco y negro	Generales	12x2	13	61.522	Publicado	Jacqueline Torres	2015-11-27 00:00:00	
+86247	UNIVERSIDAD DE LA SERENA	Par	Cuatricromia	Generales	17x6	21	355.595	Publicado	Jacqueline Torres	2015-11-27 00:00:00	
+87359	HOTEL COSTA REAL	Par	Cuatricromia	Generales	10x2	22	30.761	Publicado	Miguel Apey	2015-11-27 00:00:00	
+87688	SOC. HOTELERA VICHUQUEN LTDA.	Par	Cuatricromia	Generales	5x3	22	0	Publicado	Marcela Tello-ElDia	2015-11-27 00:00:00	
+87816	MARTIN JURE PATRICIA	Par	Cuatricromia	Generales	5x3	22	0	Publicado	Marcela Tello-ElDia	2015-11-27 00:00:00	
+87786	DIARIO EL DIA	Par	Cuatricromia	Generales	10x2	22	0	Publicado	Marcela Tello-ElDia	2015-11-27 00:00:00	
+87769	PILLA LA VACA	Par	Cuatricromia	Generales	5x2	22	0	Publicado	Marcela Tello-ElDia	2015-11-27 00:00:00	
+87730	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Cuatricromia	Generales	5x2	22	0	Publicado	Marcela Tello-ElDia	2015-11-27 00:00:00	
+84142	SOC. COMERCIAL E INV. ALTO LA SEREN	Par	Cuatricromia	Generales	10x2	22	61.510	Publicado	Nadia Randolph	2015-11-27 00:00:00	
+89922	CAMARA CHILENA DE LA CONSTRUCCION A	Par	Blanco y negro	Generales	35x6	23	500.000	Publicado	Jacqueline Torres	2015-11-27 00:00:00	
+89770	DIARIO EL DIA	Par	Cuatricromia	Generales	12x6	26	0	Publicado	Marcela Tello-ElDia	2015-11-27 00:00:00	
+89927	DERCO S.A.	Impar	Cuatricromia	Generales	17x6	27	313.761	Publicado	Kathine Soto-Stgo	2015-11-27 00:00:00	
+89493	DIARIO EL DIA	Par	Cuatricromia	Generales	19x3	28	0	Publicado	Marcela Tello-ElDia	2015-11-27 00:00:00	
+89707	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	28	0	Publicado	Marcela Tello-ElDia	2015-11-27 00:00:00	
+87657	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	4x5	29	20.508	Publicado	Miguel Apey	2015-11-27 00:00:00	
+87500	ARMAQ			UIP	5x1	29	8.937	Publicado	Claudio Romero	2015-11-27 00:00:00	
+84695	CERNA E HIJOS CIA. LTDA.	Par	Blanco y negro	Generales	5x1	29	4.468	Publicado	Nadia Randolph	2015-11-27 00:00:00	
+84207	soc. comercial e inv. alto la seren			UIP	5x2	29	8.937	Publicado	Nadia Randolph	2015-11-27 00:00:00	
+89637	AREVALO CARMEN			UIP	5x1	29	8.937	Publicado	Pedro Jaime	2015-11-27 00:00:00	
+88149	SOC. COMERCIAL ALCAPARRA LTDA.	Par	Blanco y negro	Generales	5x2	29	10.440	Publicado	Patricia Villena	2015-11-27 00:00:00	
+89368	Inversiones san javier			UIP	5x1	29	8.937	Publicado	Rene Pizarro	2015-11-27 00:00:00	
+88826	SOC. RAMON MOYA FUENTES 			UIP	10x1	29	8.938	Publicado	Miguel Apey	2015-11-27 00:00:00	
+88565	SOC. DE GESTION MEDITERRANEA			UIP	5x1	29	8.937	Publicado	Miguel Apey	2015-11-27 00:00:00	
+87404	GUERRERO SERANTONI Y CIA. LTDA.	Par	Blanco y negro	Generales	5x1	29	5.527	Publicado	Pedro Jaime	2015-11-27 00:00:00	
+87945	SERVICIOS GENERALES GUAYACAN S.A	Par	Blanco y negro	Generales	3x2	30	6.666	Publicado	Jacqueline Torres	2015-11-27 00:00:00	
+89984	COLEGIO ELENA BETTINI	Par	Blanco y negro	Generales	12x2	30	57.983	Publicado	Pedro Jaime	2015-11-27 00:00:00	
+89447	INMOBILIARIA EURO AMH S.A.	Par	Cuatricromia	Contraportada	34x6	32	450.000	Publicado	Paola Marquez	2015-11-27 00:00:00	
+89789	INDUSTRIAL Y COMERCIAL PROFLUIDOS L	Par	Blanco y negro	Generales	3x2	EC17	18.677	Publicado	Pedro Jaime	2015-11-27 00:00:00	
+87593	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Generales	5x1	EC17	5.860	Publicado	Rene Pizarro	2015-11-27 00:00:00	
+89643	AREVALO CARMEN 			UIP	5x1	EC17	8.937	Publicado	Pedro Jaime	2015-11-27 00:00:00	

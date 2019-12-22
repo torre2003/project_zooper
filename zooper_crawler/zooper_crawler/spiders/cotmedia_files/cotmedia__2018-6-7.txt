@@ -1,0 +1,31 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+157775	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Cuatricromia	Medios Regionales	32x6	05	544.008	Publicado	Medios Regionales	2018-6-7 00:00:00	
+157203	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	06	0	Publicado	Marcela Tello-ElDia	2018-6-7 00:00:00	
+157805	CLUB DEPORTES COQUIMBO UNIDO	Par	Cuatricromia	Generales	17x3	10	0	Publicado	Marcela Tello-ElDia	2018-6-7 00:00:00	
+156653	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	12x3	10	51.666	Publicado	Claudio Romero	2018-6-7 00:00:00	
+156346	ARENA CHILE S.A.	Impar	Cuatricromia	Generales	17x6	11	340.000	Publicado	M Cristina Puga	2018-6-7 00:00:00	
+157286	PILLA LA VACA	Par	Blanco y negro	Generales	5x2	13	0	Publicado	Marcela Tello-ElDia	2018-6-7 00:00:00	
+157105	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	5x2	13	0	Publicado	Miguel Apey	2018-6-7 00:00:00	
+157044	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	13	8.306	Publicado	Miguel Apey	2018-6-7 00:00:00	
+156725	C.M. SOC. GASTRONOMICA LTDA.			UIP	5x2	13	7.208	Publicado		2018-6-7 00:00:00	
+154391	CERNA E HIJOS CIA. LTDA.	Par	Blanco y negro	Generales	5x1	14	3.566	Publicado	Nadia Randolph	2018-6-7 00:00:00	
+157074	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	4x5	14	20.508	Publicado	Miguel Apey	2018-6-7 00:00:00	
+157268	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	14	0	Publicado	Marcela Tello-ElDia	2018-6-7 00:00:00	
+156844	ARMAQ SUBIRI S.A.			UIP	5x1	14	8.937	Publicado	Claudio Romero	2018-6-7 00:00:00	
+157016	SOC. DE GES			UIP	5x1	14	8.937	Publicado	Miguel Apey	2018-6-7 00:00:00	
+157802	DIARIO EL DIA	Par	Blanco y negro	Generales	5x1	14	0	Publicado	Marcela Tello-ElDia	2018-6-7 00:00:00	
+157611	DIARIO EL DIA	Par	Cuatricromia	Generales	17x6	16	0	Publicado	Marcela Tello-ElDia	2018-6-7 00:00:00	
+157130	LABORATORIO CLINICO STA. MARIA LA S	Par	Blanco y negro	Generales	6x2	20	7.470	Publicado	Miguel Apey	2018-6-7 00:00:00	
+157745	CLUB DE DEPORTES LA SERENA	Par	Cuatricromia	Generales	17x3	21	0	Publicado	Marcela Tello-ElDia	2018-6-7 00:00:00	
+157804	DIARIO EL DIA	Par	Cuatricromia	Generales	3x6	23	0	Publicado	Marcela Tello-ElDia	2018-6-7 00:00:00	
+157499	DABED Y CIA. LTDA., SELIM	Par	Cuatricromia	Generales	6x6	24	27.690	Publicado	Karina Rivera	2018-6-7 00:00:00	
+157721	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	27	0	Publicado	Marcela Tello-ElDia	2018-6-7 00:00:00	
+157339	CAMPOS DEL NORTE S.A.	Par	Cuatricromia	Generales	17x3	27	0	Publicado	Patricia Villena	2018-6-7 00:00:00	
+157777	DIARIO EL DIA	Par	Cuatricromia	Generales	34x6	28	0	Publicado	Marcela Tello-ElDia	2018-6-7 00:00:00	
+157806	DIARIO EL DIA	Par	Blanco y negro	Generales	4x6	29	0	Publicado	Marcela Tello-ElDia	2018-6-7 00:00:00	
+157607	INMOBILIARIA ECASA CHILE S.A.	Par	Cuatricromia	Generales	34x6	32	350.000	Publicado	Paola Marquez	2018-6-7 00:00:00	
+157790	BANCO DE CHILE	511 Palabras		Legal	x	EC	126.891	Publicado	Pedro Jaime	2018-6-7 00:00:00	
+157776	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	10x2	EC-17	45.660	Publicado	Medios Regionales	2018-6-7 00:00:00	
+157664	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Generales	5x2	EC-18	7.003	Publicado	Rene Pizarro	2018-6-7 00:00:00	
+157803	DIARIO EL DIA	Par	Blanco y negro	Generales	17x6	EC-18	0	Publicado	Marcela Tello-ElDia	2018-6-7 00:00:00	
+152088	HOTELERIA LUIS ALBERTO BERETTA KIEK	Par	Blanco y negro	Generales	5x2	EC-18	6.061	Publicado	Patricia Villena	2018-6-7 00:00:00	

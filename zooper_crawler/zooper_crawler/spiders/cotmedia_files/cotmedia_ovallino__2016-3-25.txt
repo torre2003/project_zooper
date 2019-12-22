@@ -1,0 +1,8 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+97786	AUTOMOTRIZ CARMONA	Par	Cuatricromia	Generales	6x6	01	23.076	Publicado	Marcela Tello-ElDia	Nissan March - Portada (si hay disponibilidad)	2016-3-25 00:00:00	
+98552	INMOBILIARIA NUEVA SERENA	Par	Cuatricromia	Generales	17x6	03	0	Publicado	Claudio Romero	foto + texto  / publireportaje....	2016-3-25 00:00:00	
+97919	parques			UIP	10x2	05	9.765	Publicado	Rene Pizarro	Tu tranquilidad Familiar...Parque de Ovalle ....Parques de Chile	2016-3-25 00:00:00	
+98174	AGRICOLA NORTE TALINAY LTDA	Par	Blanco y negro	Generales	5x2	05	1.667	Publicado	Paola Marquez	UIP VENTA ALFALFA	2016-3-25 00:00:00	
+98520	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x3	06	0	Arte	Marcela Tello-ElDia	El mejor panorama de la semana	2016-3-25 00:00:00	
+97106	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	6x6	08	16.065	Publicado	Claudio Romero	Muebles Alpina	2016-3-25 00:00:00	
+97728	INMOBILIARIA NUEVA SERENA	Par	Cuatricromia	Generales	17x6	14	125.000	Publicado	Claudio Romero		2016-3-25 00:00:00	

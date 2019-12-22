@@ -1,0 +1,11 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+129215	SOCIEDAD DE RENTAS FALABELLA S.A	Par	Cuatricromia	Generales	8x6	01	50.980	Publicado	M Cristina Puga		2017-5-22 00:00:00	
+129954	CENTRO DE SALUD			UIP	5x4	05	5.630	Publicado	Karina Rivera	CENTRO DE SALUD PORTALES	2017-5-22 00:00:00	
+129851	JACQUELINE JOFRE VILLANUEVA			UIP	5x2	05	2.808	Publicado	Karina Rivera	Cortinas Rollers	2017-5-22 00:00:00	
+128120	FERNANDO YOANOVICH			UIP	5x2	07	2.247	Publicado	Karina Rivera	COMPRA VEHICULOS	2017-5-22 00:00:00	
+129019	ASOCIACION DE CANALISTA CANAL PALQU	Par	Blanco y negro	Generales	10x2	07	47.080	Publicado	Karina Rivera	10 x 2 Citacion	2017-5-22 00:00:00	
+129890	EMPRESA PERIODISTICA EL NORTE S.A.	Par	Blanco y negro	Medios Regionales	8x2	07	23.120	Publicado	Medios Regionales	BBVA - Rol C-8765-2016 - (84236)	2017-5-22 00:00:00	
+128429	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	6x6	09	16.065	Publicado	Claudio Romero	Muebles Alpina	2017-5-22 00:00:00	
+129764	GOTTREUX SALAS RUBEN	Par	Blanco y negro	Generales	10x3	10	56.496	Publicado	Karina Rivera	REMATE VEHICULOS	2017-5-22 00:00:00	
+129634	DABED Y CIA. LTDA., SELIM	Par	Cuatricromia	Generales	6x6	11|	23.076	Publicado	Karina Rivera	M6	2017-5-22 00:00:00	
+129985	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	5x6	14	0	Arte	Marcela Tello-ElDia		2017-5-22 00:00:00	

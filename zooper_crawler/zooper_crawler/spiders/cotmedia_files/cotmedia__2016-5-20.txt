@@ -1,0 +1,51 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+102892	TEFRA INGENIERIA SANITARIA SPA	Par	Blanco y negro	Generales	5x1	04	18.310	Publicado	Pedro Jaime	2016-5-20 00:00:00	
+101829	CHRISTIAN LAURITZ MARIN	Par	Blanco y negro	Generales	4x2	04	6.666	Publicado	Jacqueline Torres	2016-5-20 00:00:00	
+103024	CLARO CHILE S.A.	Impar	Cuatricromia	Generales	25x5	05	376.600	Publicado	Kathine Soto-Stgo	2016-5-20 00:00:00	
+102979	SOCIEDAD COMERCIAL DE VEHICULOS S.A	Impar	Cuatricromia	Generales	25x5	07	384.510	Publicado	Kathine Soto-Stgo	2016-5-20 00:00:00	
+103017	RENDIC HNOS. S.A.	Impar	Cuatricromia	Generales	35x6	09	979.732	Publicado	Patricia Villena	2016-5-20 00:00:00	
+101643	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Cuatricromia	Generales	5x2	10	0	Publicado	Marcela Tello-ElDia	2016-5-20 00:00:00	
+102629	AGENCIA PUBLICITARIA OREL ALI E.I.R	Par	Cuatricromia	Generales	12x4	10	0	Publicado	Marcela Tello-ElDia	2016-5-20 00:00:00	
+103015	TASUI NORTE SUR S.A.	Par	Blanco y negro	Generales	4x2	10	20.840	Publicado	Marcela Tello-ElDia	2016-5-20 00:00:00	
+103023	LA GARZA S.A	Par	Blanco y negro	Generales	4x2	10	29.244	Publicado	Marcela Tello-ElDia	2016-5-20 00:00:00	
+102947	UNIVERSIDAD TECNOLOGICA DE CHILE	Impar	Cuatricromia	Generales	17x6	11	470.641	Publicado	Patricia Villena	2016-5-20 00:00:00	
+102454	INMOBILIARIA OVCO	Par	Cuatricromia	Generales	10x6	12	0	Publicado	Miguel Apey	2016-5-20 00:00:00	
+102841	SOC PERIODISTICA BANIC Y LANCCELOTT	Par	Blanco y negro	Generales	10x6	13	164.790	Publicado	Leonel Pizarro-Ovalle	2016-5-20 00:00:00	
+101334	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	5x2	14	0	Publicado	Miguel Apey	2016-5-20 00:00:00	
+101958	DIARIO EL DIA	Par	Blanco y negro	Generales	5x2	14	0	Publicado	Marcela Tello-ElDia	2016-5-20 00:00:00	
+102670	SOC.INMOBIL.Y DE INV.MORALES Y CIA.	Par	Blanco y negro	Generales	5x2	14	0	Publicado	Marcela Tello-ElDia	2016-5-20 00:00:00	
+102856	ILUSTRE MUNICIPALIDAD DE COQUIMBO	Par	Blanco y negro	Generales	10x6	15	153.804	Publicado	Miguel Apey	2016-5-20 00:00:00	
+101151	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	16	8.306	Publicado	Miguel Apey	2016-5-20 00:00:00	
+102886	ILUSTRE MUNICIPALIDAD DE LA SERENA	Par	Cuatricromia	Generales	17x6	16	533.392	Publicado	M Cristina Puga	2016-5-20 00:00:00	
+102888	CARAT CHILE S.A.	Impar	Cuatricromia	Generales	17x6	17	300.000	Publicado	Kathine Soto-Stgo	2016-5-20 00:00:00	
+100173	SOC HOTELERA Y DE TURISMO HACIENDA 	Par	Cuatricromia	Generales	5x6	20	9.063	Publicado	Patricia Villena	2016-5-20 00:00:00	
+102978	AUTOMOTORES GILDEMEISTER S.A.	Impar	Cuatricromia	Generales	17x6	21	313.761	Publicado	Kathine Soto-Stgo	2016-5-20 00:00:00	
+102763	SERVICIOS GASTRON?MICOS LA CASONA D	Par	Blanco y negro	Generales	5x2	22	10.725	Publicado	Miguel Apey	2016-5-20 00:00:00	
+101122	BAKULIC RESTAURANT	Par	Cuatricromia	Generales	10x2	22	24.609	Publicado	Miguel Apey	2016-5-20 00:00:00	
+101667	MARTIN JURE PATRICIA	Par	Cuatricromia	Generales	5x3	22	0	Publicado	Marcela Tello-ElDia	2016-5-20 00:00:00	
+101663	PILLA LA VACA	Par	Cuatricromia	Generales	5x2	22	0	Publicado	Marcela Tello-ElDia	2016-5-20 00:00:00	
+101204	HOTEL COSTA REAL	Par	Cuatricromia	Generales	10x2	22	30.761	Publicado	Miguel Apey	2016-5-20 00:00:00	
+101583	SOC. HOTELERA VICHUQUEN LTDA.	Par	Cuatricromia	Generales	5x3	22 	0	Publicado	Marcela Tello-ElDia	2016-5-20 00:00:00	
+102943	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Cuatricromia	Medios Regionales	32x6	23	518.048	Publicado	Medios Regionales	2016-5-20 00:00:00	
+97743	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	24	0	Publicado	Marcela Tello-ElDia	2016-5-20 00:00:00	
+102929	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	24	0	Publicado	Marcela Tello-ElDia	2016-5-20 00:00:00	
+103012	DIARIO EL DIA	Par	Cuatricromia	Generales	34x6	25	0	Publicado	Marcela Tello-ElDia	2016-5-20 00:00:00	
+102582	DABED Y CIA. LTDA., SELIM	Par	Cuatricromia	Generales	7x6	28	27.690	Publicado	Marcela Tello-ElDia	2016-5-20 00:00:00	
+101181	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	4x5	29	20.508	Publicado	Miguel Apey	2016-5-20 00:00:00	
+100533	SOC.COMERCIAL ALTOS LA SERENA LTDA	Par	Blanco y negro	Generales	5x2	29	8.937	Publicado	Nadia Randolph	2016-5-20 00:00:00	
+101246	ARMAQ			UIP	5x1	29	8.937	Publicado	Claudio Romero	2016-5-20 00:00:00	
+101106	SOC. DE GESTION MEDITERRANEA			UIP	5x1	29	8.937	Publicado	Miguel Apey	2016-5-20 00:00:00	
+102111	CERNA E HIJOS CIA. LTDA.	Par	Blanco y negro	Generales	5x1	29	4.524	Publicado	Nadia Randolph	2016-5-20 00:00:00	
+101299	SOC. COMERCIAL ALCAPARRA LTDA.	Par	Blanco y negro	Generales	5x2	29	10.440	Publicado	Patricia Villena	2016-5-20 00:00:00	
+102742	DAVILA CARLOS 			UIP	5x1	29	8.937	Publicado	Pedro Jaime	2016-5-20 00:00:00	
+102826	AREVALO CARMEN			UIP	5x1	29	8.937	Publicado	Pedro Jaime	2016-5-20 00:00:00	
+103014	CLUB DEPORTIVO ATENAS	Par	Blanco y negro	Generales	12x2	30	61.522	Publicado	Miguel Apey	2016-5-20 00:00:00	
+101799	SERVICIOS GENERALES GUAYACAN S.A	Par	Blanco y negro	Generales	4x2	30	6.667	Publicado	Jacqueline Torres	2016-5-20 00:00:00	
+103038	INMOBIL. LOS ANDES LTDA.	Par	Blanco y negro	Generales	12x2	30	61.522	Publicado	Miguel Apey	2016-5-20 00:00:00	
+102981	EMPRESAS LA POLAR S.A.	Impar	Cuatricromia	Generales	35x6	32	504.000	Publicado	Patricia Villena	2016-5-20 00:00:00	
+101571	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	EC-18	0	Publicado	Marcela Tello-ElDia	2016-5-20 00:00:00	
+102865	DIARIO EL DIA	Par	Blanco y negro	Generales	5x2	EC-19	0	Publicado	Marcela Tello-ElDia	2016-5-20 00:00:00	
+100910	HOTELERIA LUIS ALBERTO BERETTA KIEK	Par	Blanco y negro	Generales	5x2	EC-19	8.937	Publicado	Patricia Villena	2016-5-20 00:00:00	
+101407	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Generales	5x1	EC-19	5.860	Publicado	Rene Pizarro	2016-5-20 00:00:00	
+103030	PATRICIO B?EZ GONZ?LEZ	523 Palabras		Legal	x	EC-19	129.704	Publicado	Pedro Jaime	2016-5-20 00:00:00	
+100450	CONSTRUCTORA SERENA LTDA.	Home	Banner Cabecera	Web	x	WEB	500.000	Publicado	Claudio Romero	2016-5-20 00:00:00	

@@ -1,0 +1,13 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+112522	DABED Y CIA. LTDA., SELIM	Par	Cuatricromia	Generales	6x6	01	23.076	Publicado	Marcela Tello-ElDia	Dabed Motos - Vive la Primavera	2016-9-30 00:00:00	
+113052	EMPRESAS LA POLAR S.A.	Impar	Cuatricromia	Generales	35x6	03	252.000	Publicado	Patricia Villena	La polar	2016-9-30 00:00:00	
+110525	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	05	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2016-9-30 00:00:00	
+107675	SOC HOTELERA Y DE TURISMO HACIENDA 	Par	Cuatricromia	Generales	5x6	06	11.770	Publicado	Patricia Villena	Hacienda Juntas	2016-9-30 00:00:00	
+113010	AGRICOLA NORTE TALINAY LTDA	Par	Blanco y negro	Generales	5x2	07	1.682	Publicado	Paola Marquez	UIP VENTA ALFALFA	2016-9-30 00:00:00	
+113067	AGUAS ALTO LAS MOLLACAS	Par	Blanco y negro	Generales	15x2	08	70.620	Publicado	Claudio Romero	CITACION	2016-9-30 00:00:00	
+112407	OVALLE CASINO RESORT S.A	Par	Cuatricromia	Generales	25x4	08	247.434	Publicado	Paola Marquez		2016-9-30 00:00:00	
+112271	OVALLE CASINO RESORT S.A	Par	Cuatricromia	Generales	35x6	09	276.831	Publicado	Paola Marquez		2016-9-30 00:00:00	
+111520	INMOBILIARIA NUEVA SERENA	Par	Cuatricromia	Generales	17x6	11	125.000	Publicado	Claudio Romero	proyecto empresas serena...repite del 19.septiembre..	2016-9-30 00:00:00	
+112978	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x6	13	0	Arte	Marcela Tello-ElDia	Vocales de Mesa - Servel	2016-9-30 00:00:00	
+110823	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	6x6	14	16.065	Publicado	Claudio Romero	Muebles Alpina	2016-9-30 00:00:00	
+112496	CALLEGARI LTDA.	Par	Cuatricromia	Generales	34x6	16	349.554	Publicado	Marcela Tello-ElDia	Kia	2016-9-30 00:00:00	

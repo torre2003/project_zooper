@@ -1,0 +1,15 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+172217	CENTRO DE FORMACION TECNICA SANTO T	Par	Cuatricromia	Generales	17x6	03	516.924	Publicado	Karina Rivera	SALUDO NAVIDAD SANTO TOMAS	2018-12-24 00:00:00	
+171576	CONSTRUCTORA KIMEN SPA	Par	Cuatricromia	Generales	17x6	06	50.000	Publicado	Karina Rivera		2018-12-24 00:00:00	
+172317	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	8x6	07	0	Arte	Marcela Tello-ElDia	Nos trasladamos para ofrecerles un mejor servicio... El Ovallino	2018-12-24 00:00:00	
+172239	ILUSTRE MUNICIPALIDAD DE OVALLE	Par	Cuatricromia	Generales	17x6	08	273.110	Publicado	Karina Rivera	SALUDO NAVIDAD MUNICIPIO OVALLE	2018-12-24 00:00:00	
+172194	OGILVY & MATHER CHILE	Impar	Cuatricromia	Generales	17x6	09	262.198	Publicado	M Cristina Puga	abuela /conciencia	2018-12-24 00:00:00	
+172220	DABED Y CIA. LTDA., SELIM	Par	Cuatricromia	Generales	6x6	10	23.076	Publicado	Karina Rivera	SALUDO NAVIDAD DABED	2018-12-24 00:00:00	
+171897	HANNA JARUFE HAUNE	Par	Cuatricromia	Generales	10x3	11	40.000	Publicado	Karina Rivera	SALUDO NAVIDAD HANNA JARUFE	2018-12-24 00:00:00	
+170699	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	12x3	11	16.065	Publicado	Claudio Romero	Muebles alpina..	2018-12-24 00:00:00	
+172117	INSTITUTO DE DESARROLLO AGROPECUARI	Par	Blanco y negro	Generales	19x3	12	91.242	Publicado	Jacqueline Torres	CONCURSO/REPITE DEL 25 NOVIEMBRE PAG. 20	2018-12-24 00:00:00	
+172063	ILUSTRE MUNICIPALIDAD DE PUNITAQUI	Par	Blanco y negro	Generales	15x3	12	72.033	Publicado	Karina Rivera	INFORME NUEVAS UNIDADES VECINALES PUNITAQUI	2018-12-24 00:00:00	
+172161	SOC. MEDICA HUGO VALDIVIA Y CIA. LT			UIP	10x2	13	6.812	Publicado	Karina Rivera		2018-12-24 00:00:00	
+172211	SERVICIOS TASUI S.A.	Par	Blanco y negro	Generales	6x2	13	28.248	Publicado	Pedro Jaime	SERVICIOS TASUI- TARIFADO 	2018-12-24 00:00:00	
+172241	TV CABLE COLOR	Par	Cuatricromia	Generales	13x4	13	0	Publicado	Karina Rivera	SALUDO NAVIDAD CABLE COLOR	2018-12-24 00:00:00	
+168591	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	14	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2018-12-24 00:00:00	

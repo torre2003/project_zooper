@@ -1,0 +1,9 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+90758	AUTOMOTRIZ CARMONA	Par	Cuatricromia	Generales	6x6	01	23.076	Publicado	Marcela Tello-ElDia	Nissan huincha portada	2015-12-16 00:00:00	
+90925	SOCIEDAD DE RENTAS FALABELLA S.A	Impar	Cuatricromia	Generales	17x6	03	200.000	Publicado	M Cristina Puga	Open 	2015-12-16 00:00:00	
+88503	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	10x3	05	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2015-12-16 00:00:00	
+81441	Tanguemar			UIP	5x2	07	2.808	Publicado	Patricia Villena	Tanguemar	2015-12-16 00:00:00	
+89536	PAMELA HARDER SANTOS	Par	Blanco y negro	Generales	5x2	07	1.428	Publicado	Italo Retamal	venta de casa harder	2015-12-16 00:00:00	
+90335	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	6x6	08	0	Publicado	Claudio Romero	Muebles Alpina	2015-12-16 00:00:00	
+90854	DABED Y CIA. LTDA., SELIM	Impar	Cuatricromia	Generales	6x6	09	23.077	Publicado	Italo Retamal		2015-12-16 00:00:00	
+91335	ANGELINA CORTES VARGAS	Par	Blanco y negro	Generales	15x2	14	35.310	Publicado	Leonel Pizarro-Ovalle	DEFUNCION	2015-12-16 00:00:00	

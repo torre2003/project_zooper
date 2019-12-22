@@ -1,0 +1,50 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+170366	JORGE VEGA	mar	Cuatricromia	Feria	4x2		2.000.000	Arte	Patricia Villena	2018-11-2 00:00:00	
+171014	SOCIEDAD DE INVERSIONES INSAE SPA	tierra	Cuatricromia	Feria	2x2		300.000	Arte	Patricia Villena	2018-11-2 00:00:00	
+169888	CORPORACION MUNICIPAL DE TURISMO - 	mar	Cuatricromia	Feria	4x2		2.000.000	Arte	Patricia Villena	2018-11-2 00:00:00	
+169897	UNIVERSIDAD SANTO TOMAS	cielo	Cuatricromia	Feria	8x2		2.500.000	Arte	Patricia Villena	2018-11-2 00:00:00	
+169894	CORP. DE DESARROLLO SOCIAL DEL SECT	cielo	Cuatricromia	Feria	8x2		2.500.000	Arte	Patricia Villena	2018-11-2 00:00:00	
+169901	LYR COMUNICACIONES	mar	Cuatricromia	Feria	4x2		2.000.000	Arte	Patricia Villena	2018-11-2 00:00:00	
+169986	NEGOCIOS SIN FRONTERAS LTDA.	tierra	Cuatricromia	Feria	2x2		300.000	Arte	Patricia Villena	2018-11-2 00:00:00	
+170323	MINERA LOS PELAMBRES	cielo	Cuatricromia	Feria	8x2		2.500.000	Arte	Patricia Villena	2018-11-2 00:00:00	
+168935	VIVOCORP S.A.	Impar	Cuatricromia	Generales	17x6	05	439.265	Publicado	Patricia Villena	2018-11-2 00:00:00	
+169173	INMOBIL. LA SERENA GOLF S.A.	Par	Cuatricromia	Generales	17x6	07	0	Arte	Patricia Villena	2018-11-2 00:00:00	
+168875	JUAN MANUEL FUENZALIDA COBO	Par	Cuatricromia	Generales	17x3	09	169.954	Publicado	M Cristina Puga	2018-11-2 00:00:00	
+169330	AGUAS DEL VALLE S.A.	Par	Blanco y negro	Generales	17x6	11	0	Arte	Jacqueline Torres	2018-11-2 00:00:00	
+169347	DIARIO EL DIA	Par	Blanco y negro	Generales	5x4	13	0	Arte	Marcela Tello-ElDia	2018-11-2 00:00:00	
+168401	ARZOBISPADO DE LA SERENA	Par	Blanco y negro	Generales	10x2	13	0	Arte	Marcela Tello-ElDia	2018-11-2 00:00:00	
+169036	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	13	8.306	Publicado	Miguel Apey	2018-11-2 00:00:00	
+168694	INVERSIONES ALTA CRUZ LTDA	Par	Blanco y negro	Generales	5x2	14	0	Arte	Marcela Tello-ElDia	2018-11-2 00:00:00	
+169107	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	5x2	14	0	Arte	Miguel Apey	2018-11-2 00:00:00	
+168264	C.M. SOC. GASTRONOMICA LTDA.			UIP	5x2	14	7.208	Publicado		2018-11-2 00:00:00	
+169066	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	4x5	14	20.508	Publicado	Miguel Apey	2018-11-2 00:00:00	
+169303	AREYUNA AREYUNA NIBALDO	Par	Cuatricromia	Generales	7x3	16	83.824	Publicado	Pedro Jaime	2018-11-2 00:00:00	
+169265	DIARIO EL DIA	Par	Cuatricromia	Generales	6x3	16	0	Arte	Marcela Tello-ElDia	2018-11-2 00:00:00	
+169348	CLUB DEPORTES COQUIMBO UNIDO	Par	Cuatricromia	Generales	17x3	17	0	Arte	Marcela Tello-ElDia	2018-11-2 00:00:00	
+169177	DABED Y CIA. LTDA., SELIM	Par	Cuatricromia	Generales	6x6	22	27.690	Publicado	Karina Rivera	2018-11-2 00:00:00	
+168941	CAMPOS DEL NORTE S.A.	Par	Cuatricromia	Generales	17x3	25	0	Arte	Patricia Villena	2018-11-2 00:00:00	
+169350	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	25	0	Arte	Marcela Tello-ElDia	2018-11-2 00:00:00	
+168488	SOC. HOTELERA VICHUQUEN LTDA.	Par	Cuatricromia	Generales	5x3	26	0	Arte	Marcela Tello-ElDia	2018-11-2 00:00:00	
+168748	PILLA LA VACA	Par	Cuatricromia	Generales	5x2	26	0	Arte	Marcela Tello-ElDia	2018-11-2 00:00:00	
+168623	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	26	0	Arte	Marcela Tello-ElDia	2018-11-2 00:00:00	
+167650	JOS? AGUILERA SALINAS	Par	Cuatricromia	Generales	5x3	26	30.252	Publicado	Pedro Jaime	2018-11-2 00:00:00	
+168784	MARTIN JURE PATRICIA	Par	Cuatricromia	Generales	5x3	26	0	Arte	Marcela Tello-ElDia	2018-11-2 00:00:00	
+168514	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	26	0	Arte	Marcela Tello-ElDia	2018-11-2 00:00:00	
+168827	PAMELA B. GONZALEZ LIZAMA COMERCIAL	Par	Blanco y negro	Generales	5x2	26	0	Arte	Marcela Tello-ElDia	2018-11-2 00:00:00	
+169221	DIARIO EL DIA	Par	Cuatricromia	Generales	34x4	27	0	Arte	Marcela Tello-ElDia	2018-11-2 00:00:00	
+169351	DIARIO EL DIA	Par	Cuatricromia	Generales	34x6	28	0	Arte	Marcela Tello-ElDia	2018-11-2 00:00:00	
+169352	DIARIO EL DIA	Par	Blanco y negro	Generales	5x6	29	0	Arte	Marcela Tello-ElDia	2018-11-2 00:00:00	
+169157	SERVICIOS GENERALES GUAYACAN S.A	Par	Blanco y negro	Generales	3x2	29	6.812	Publicado	Jacqueline Torres	2018-11-2 00:00:00	
+168451	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	8x2	EC-18	36.528	Publicado	Medios Regionales	2018-11-2 00:00:00	
+168456	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	8x2	EC-18	36.528	Publicado	Medios Regionales	2018-11-2 00:00:00	
+169349	DIARIO EL DIA	Par	Blanco y negro	Generales	17x6	EC-19	0	Arte	Marcela Tello-ElDia	2018-11-2 00:00:00	
+169323	HOTELERIA LUIS ALBERTO BERETTA KIEK	Par	Blanco y negro	Generales	5x2	EC-19	6.061	Publicado	Patricia Villena	2018-11-2 00:00:00	
+169315	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Generales	5x2	EC-19	7.003	Publicado	Rene Pizarro	2018-11-2 00:00:00	
+168959	INMOBILIARIA NUEVOS PROYECTOS SPA	Impar	Cuatricromia	Generales	10x6	EIN-01	283.000	Publicado	Paola Marquez	2018-11-2 00:00:00	
+168952	INMOBILIARIA EURO AMH S.A.	Impar	Cuatricromia	Generales	34x6	EIN-03	1.035.409	Publicado	Paola Marquez	2018-11-2 00:00:00	
+168020	MDA PROMOCION Y MARKETING SPA	Par	Cuatricromia	Generales	17x6	EIN-05	420.168	Publicado		2018-11-2 00:00:00	
+168951	INMOBILIARIA NOVAL S.A.	Impar	Cuatricromia	Generales	17x6	EIN-07	400.000	Publicado	Paola Marquez	2018-11-2 00:00:00	
+168950	INMOBIL. EL MIRADOR S.A.	Impar	Cuatricromia	Generales	10x6	EIN-11	283.000	Publicado	Paola Marquez	2018-11-2 00:00:00	
+168914	INMOBILIARIA S.M.C.	Par	Cuatricromia	Generales	10x6	EIN-13	283.000	Publicado	Miguel Apey	2018-11-2 00:00:00	
+168962	ARMAS GESTION LTDA	Impar	Cuatricromia	Generales	17x6	EIN-15	481.009	Publicado	Paola Marquez	2018-11-2 00:00:00	
+168179	INMOBILIARIA ELQUI S.A.	Impar	Cuatricromia	Generales	35x6	EIN-16	874.725	Publicado	M Cristina Puga	2018-11-2 00:00:00	

@@ -1,0 +1,8 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+121610	CAMAL MUSALEM TAPIA Y CIA.	Par	Blanco y negro	Generales	15x6	05	110.160	Publicado	Marcela Tello-ElDia	Toyota Tundra	2017-1-22 00:00:00	
+103062	SOCIEDAD MEDICA Y CONSULTORA ESTETI		Cuatricromia	Guia	5x2	06	13.333	Publicado	Maria_Amelia Hermosilla	Diego Polanco	2017-1-22 00:00:00	
+121572	INMOBILIARIA SERENA S.A.	Par	Blanco y negro	Generales	10x2	07	45.904	Publicado	Claudio Romero	Supervisor Comercial - Rep. 21/01	2017-1-22 00:00:00	
+120718	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	08	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2017-1-22 00:00:00	
+120189	OVALLE CASINO RESORT S.A	Par	Cuatricromia	Generales	25x4	09	171.372	Publicado	Paola Marquez	OCR Eventos verano	2017-1-22 00:00:00	
+121611	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x6	11	0	Arte	Marcela Tello-ElDia		2017-1-22 00:00:00	
+121612	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	5x6	14	0	Arte	Marcela Tello-ElDia		2017-1-22 00:00:00	

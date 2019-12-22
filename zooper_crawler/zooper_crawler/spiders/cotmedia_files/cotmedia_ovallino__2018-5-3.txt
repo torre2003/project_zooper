@@ -1,0 +1,6 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+155430	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	34x6	03	0	Arte	Marcela Tello-ElDia		2018-5-3 00:00:00	
+154865	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	6x2	05	18.204	Publicado	Medios Regionales	Remate - Banco Santander GRC Ltda. - (64439)	2018-5-3 00:00:00	
+154981	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	09	0	Arte	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2018-5-3 00:00:00	
+155431	PRENSA DEL LIMARI LTDA.	Par	Blanco y negro	Generales	17x6	12	0	Arte	Marcela Tello-ElDia		2018-5-3 00:00:00	
+155432	PRENSA DEL LIMARI LTDA.	Par	Blanco y negro	Generales	6x6	15	0	Arte	Marcela Tello-ElDia		2018-5-3 00:00:00	

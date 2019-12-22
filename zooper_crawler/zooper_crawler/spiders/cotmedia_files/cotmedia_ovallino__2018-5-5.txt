@@ -1,0 +1,8 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+155659	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x3	03	0	Arte	Marcela Tello-ElDia		2018-5-5 00:00:00	
+154990	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	06	0	Arte	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2018-5-5 00:00:00	
+155665	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x6	09	0	Arte	Marcela Tello-ElDia		2018-5-5 00:00:00	
+155666	PRENSA DEL LIMARI LTDA.	Par	Blanco y negro	Generales	3x6	10	0	Arte	Marcela Tello-ElDia		2018-5-5 00:00:00	
+155667	PRENSA DEL LIMARI LTDA.	Par	Blanco y negro	Generales	12x6	12	0	Arte	Marcela Tello-ElDia	Vive la experiencia de estar bien informado...	2018-5-5 00:00:00	
+155653	EMPRESA PERIODISTICA EL NORTE S.A.	Par	Blanco y negro	Medios Regionales	10x3	14	45.510	Arte	Medios Regionales		2018-5-5 00:00:00	
+155668	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	8x6	14	0	Arte	Marcela Tello-ElDia		2018-5-5 00:00:00	

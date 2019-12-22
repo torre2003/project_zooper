@@ -1,0 +1,7 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+127417	INMOBILIARIA RENVAL SPA	Par	Cuatricromia	Generales	34x6	03	190.000	Publicado	Rene Pizarro		2017-4-14 00:00:00	
+125928	OVALLE CASINO RESORT S.A	Par	Cuatricromia	Generales	25x4	06	131.824	Publicado	Paola Marquez	OCR Eventos verano	2017-4-14 00:00:00	
+126777	FERNANDO SANCHEZ			UIP	5x2	07	2.808	Publicado	Karina Rivera	AGUAS SUBTERRANEAS 	2017-4-14 00:00:00	
+126426	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	6x6	09	16.065	Publicado	Claudio Romero	Muebles Alpina	2017-4-14 00:00:00	
+127441	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	5x6	11	0	Arte	Marcela Tello-ElDia		2017-4-14 00:00:00	
+127442	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	5x6	14	0	Arte	Marcela Tello-ElDia		2017-4-14 00:00:00	

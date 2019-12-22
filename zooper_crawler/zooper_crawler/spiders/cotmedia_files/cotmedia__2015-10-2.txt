@@ -1,0 +1,64 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+85781	WALMART CHILE COMERCIAL LTDA.	Impar	Cuatricromia	Generales	35x6	05	500.000	Publicado	M Cristina Puga	2015-10-2 00:00:00	
+85807	ENTEL PCS	Impar	Cuatricromia	Generales	35x6	07	645.977	Publicado	Kathine Soto-Stgo	2015-10-2 00:00:00	
+85764	SERV. VIVIENDA Y URBANIZACION IV RE	Par	Blanco y negro	Generales	10x2	08	49.803	Publicado	Jacqueline Torres	2015-10-2 00:00:00	
+85805	SERV. DE REGISTRO CIVIL E IDENTIFIC	Par	Blanco y negro	Generales	17x3	08	0	Publicado	Jacqueline Torres	2015-10-2 00:00:00	
+84583	GASCO GLP S.A.	Par	Cuatricromia	Generales	17x6	09	392.201	Publicado	Patricia Villena	2015-10-2 00:00:00	
+85131	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	10	0	Publicado	Marcela Tello-ElDia	2015-10-2 00:00:00	
+83704	INMOBILIARIA KUPAL LTDA.	Par	Cuatricromia	Generales	17x3	10	0	Publicado	Miguel Apey	2015-10-2 00:00:00	
+85806	DERCO S.A.	Impar	Cuatricromia	Generales	17x6	11	313.761	Publicado	Kathine Soto-Stgo	2015-10-2 00:00:00	
+85238	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	12-14	8.306	Publicado	Miguel Apey	2015-10-2 00:00:00	
+85688	SUBSECRETARIA DEL MINISTERIO DE MIN	Par	Blanco y negro	Generales	17x6	13	0	Publicado	Jacqueline Torres	2015-10-2 00:00:00	
+84789	GUERRERO SERANTONI Y CIA. LTDA.	Par	Blanco y negro	Generales	4x2	14	24.902	Publicado	Pedro Jaime	2015-10-2 00:00:00	
+85326	DIARIO EL DIA	Par	Blanco y negro	Generales	5x2	14	0	Publicado	Marcela Tello-ElDia	2015-10-2 00:00:00	
+85161	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	10x3	15	65.220	Publicado	Medios Regionales	2015-10-2 00:00:00	
+85632	ASOCIACION DE CANALISTAS CANAL DE B	Par	Blanco y negro	Generales	12x2	15	87.888	Publicado	Pedro Jaime	2015-10-2 00:00:00	
+85518	MARTIN JURE PATRICIA	Par	Cuatricromia	Generales	5x3	22	0	Publicado	Marcela Tello-ElDia	2015-10-2 00:00:00	
+85861	DIARIO EL DIA	Par	Cuatricromia	Generales	10x2	22	0	Publicado	Marcela Tello-ElDia	2015-10-2 00:00:00	
+85356	SOC. HOTELERA VICHUQUEN LTDA.	Par	Cuatricromia	Generales	5x3	22	0	Publicado	Marcela Tello-ElDia	2015-10-2 00:00:00	
+85434	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Cuatricromia	Generales	5x2	22	0	Publicado	Marcela Tello-ElDia	2015-10-2 00:00:00	
+85504	DIARIO EL DIA	Par	Cuatricromia	Generales	10x2	22	0	Publicado	Marcela Tello-ElDia	2015-10-2 00:00:00	
+85460	PILLA LA VACA	Par	Cuatricromia	Generales	5x2	22	0	Publicado	Marcela Tello-ElDia	2015-10-2 00:00:00	
+85268	HOTEL COSTA REAL	Par	Cuatricromia	Generales	10x2	22	30.761	Publicado	Miguel Apey	2015-10-2 00:00:00	
+84134	SOC. COMERCIAL E INV. ALTO LA SEREN	Par	Cuatricromia	Generales	10x2	22	61.522	Publicado	Nadia Randolph	2015-10-2 00:00:00	
+85853	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Cuatricromia	Medios Regionales	16x6	23	309.344	Publicado	Medios Regionales	2015-10-2 00:00:00	
+85096	DIARIO EL DIA	Par	Cuatricromia	Generales	14x6	26	0	Publicado	Marcela Tello-ElDia	2015-10-2 00:00:00	
+85812	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Cuatricromia	Medios Regionales	16x6	27	309.344	Publicado	Medios Regionales	2015-10-2 00:00:00	
+85619	CLUB DE DEPORTES LA SERENA	Par	Cuatricromia	Generales	17x3	28	0	Publicado	Marcela Tello-ElDia	2015-10-2 00:00:00	
+85176	RED SECURITY LTDA			UIP	5x1	29	8.937	Publicado	Pedro Jaime	2015-10-2 00:00:00	
+85760	Napoleon			UIP	5x2	29	0	Publicado	Patricia Villena	2015-10-2 00:00:00	
+84646	CERNA E HIJOS CIA. LTDA.	Par	Blanco y negro	Generales	5x1	29	4.468	Publicado	Nadia Randolph	2015-10-2 00:00:00	
+84465	SOC. DE GESTION MEDITERRANEA			UIP	5x1	29	8.937	Publicado	Miguel Apey	2015-10-2 00:00:00	
+84159	soc. comercial e inv. alto la seren			UIP	5x2	29	8.937	Publicado	Nadia Randolph	2015-10-2 00:00:00	
+85199	AREVALO CARMEN			UIP	5x1	29	8.937	Publicado	Pedro Jaime	2015-10-2 00:00:00	
+85775	DESIDERIO LISBOA EIRL.	Par	Blanco y negro	Generales	5x2	29	20.000	Publicado	Claudio Romero	2015-10-2 00:00:00	
+85294	SOC. COMERCIAL ALCAPARRA LTDA.	Par	Blanco y negro	Generales	5x2	29	10.440	Publicado	Patricia Villena	2015-10-2 00:00:00	
+83676	SERVICIOS GENERALES GUAYACAN S.A	Par	Blanco y negro	Generales	3x2	30	6.451	Publicado	Jacqueline Torres	2015-10-2 00:00:00	
+85854	TURISMO BAHIA MAGICA LTDA.	Par	Blanco y negro	Generales	12x2	30	62.100	Publicado	Pedro Jaime	2015-10-2 00:00:00	
+85612	SOC. DE SERV. TURISTICOS TURISMOTEL	Par	Blanco y negro	Generales	12x2	30	61.522	Publicado	Miguel Apey	2015-10-2 00:00:00	
+85167	WALMART CHILE COMERCIAL LTDA.	Impar	Cuatricromia	Generales	35x6	32	607.219	Publicado	M Cristina Puga	2015-10-2 00:00:00	
+85845	BANCO ESTADO DE CHILE	884 Palabras		Legal	x	EC	219.328	Publicado	Pedro Jaime	2015-10-2 00:00:00	
+85188	SOCIEDAD COMERCIAL Y SERVICIOS AQUA	Par	Blanco y negro	Generales	6x2	EC-16	43.944	Publicado	Pedro Jaime	2015-10-2 00:00:00	
+85814	DIARIO EL DIA	Par	Cuatricromia	Generales	5x6	EC-17	0	Publicado	Marcela Tello-ElDia	2015-10-2 00:00:00	
+84737	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Generales	5x1	EC-17	5.860	Publicado	Rene Pizarro	2015-10-2 00:00:00	
+85856	SOC. EDUCACIONAL SAN GUILLERMO LTDA	Par	Blanco y negro	Generales	8x2	EC-18	41.015	Publicado	Miguel Apey	2015-10-2 00:00:00	
+85205	AREVALO CARMEN			UIP	5x1	EC-18	8.937	Publicado	Pedro Jaime	2015-10-2 00:00:00	
+85844	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	MR: Inserto	x	INS	279.557	Publicado	Medios Regionales	2015-10-2 00:00:00	
+85576	COMERCIAL AUTOKARINO LTDA.	316 Palabras		Propiedades	x	PROP	50.560	Publicado	Pedro Jaime	2015-10-2 00:00:00	
+85580	YOLANDA ELIAS CAMBLOR	449 Palabras		Propiedades	x	PROP	71.840	Publicado	Pedro Jaime	2015-10-2 00:00:00	
+85592	DANIELLA CARVAJAL VEGA	339 Palabras		Propiedades	x	PROP	54.240	Publicado	Pedro Jaime	2015-10-2 00:00:00	
+85594	CIA. DE LEASING TATTERSALL S.A.	4081 Palabras		Propiedades	x	PROP	652.960	Publicado	Pedro Jaime	2015-10-2 00:00:00	
+85575	AUTOMOTRIZ PEDREGAL LTDA.	431 Palabras		Propiedades	x	PROP	68.960	Publicado	Pedro Jaime	2015-10-2 00:00:00	
+85574	SOC. AMENABAR REYES Y AMENABAR LTDA	420 Palabras		Propiedades	x	PROP	67.227	Publicado	Pedro Jaime	2015-10-2 00:00:00	
+85577	JANIER MUNDACA ALBI?A	136 Palabras		Propiedades	x	PROP	21.760	Publicado	Pedro Jaime	2015-10-2 00:00:00	
+85578	RODRIGUEZ ROJAS MARCELO	842 Palabras		Propiedades	x	PROP	134.720	Publicado	Pedro Jaime	2015-10-2 00:00:00	
+85593	URBI LIMITADA	570 Palabras		Propiedades	x	PROP	91.200	Publicado	Pedro Jaime	2015-10-2 00:00:00	
+85595	ESTAY BRAVO CESAR	195 Palabras		Propiedades	x	PROP	31.200	Publicado	Pedro Jaime	2015-10-2 00:00:00	
+85589	MARDONES CORRETAJES PROPIEDADES Y S	516 Palabras		Propiedades	x	PROP	82.560	Publicado	Pedro Jaime	2015-10-2 00:00:00	
+85588	INMOBILIARIA PRO LIMITADA	696 Palabras		Propiedades	x	PROP	111.360	Publicado	Pedro Jaime	2015-10-2 00:00:00	
+85587	SOCIEDAD COMERCIAL MERINO LIMITADA	1938 Palabras		Propiedades	x	PROP	310.080	Publicado	Pedro Jaime	2015-10-2 00:00:00	
+85586	FERES REBOLLEDO ANA ISABEL	197 Palabras		Propiedades	x	PROP	31.520	Publicado	Pedro Jaime	2015-10-2 00:00:00	
+85584	JACQUELINE BARRERA BARRAZA	725 Palabras		Propiedades	x	PROP	116.000	Publicado	Pedro Jaime	2015-10-2 00:00:00	
+85582	GONZALEZ ADAROS MARIA SOLEDAD	371 Palabras		Propiedades	x	PROP	59.360	Publicado	Pedro Jaime	2015-10-2 00:00:00	
+85581	LILIAN ELIZABETH OLIVARES LANAS	687 Palabras		Propiedades	x	PROP	109.920	Publicado	Pedro Jaime	2015-10-2 00:00:00	
+85591	SOC. COMERCIAL MERINO Y ARRIAGADA L	738 Palabras		Propiedades	x	PROP	118.080	Publicado	Pedro Jaime	2015-10-2 00:00:00	

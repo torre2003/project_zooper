@@ -1,0 +1,34 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+85022	AUTOMOTORES GILDEMEISTER S.A.	Impar	Cuatricromia	Generales	17x6	05	0	Publicado	Kathine Soto-Stgo	2015-9-28 00:00:00	
+84879	CARAT CHILE S.A.	Impar	Cuatricromia	Generales	17x6	07	300.000	Publicado	Kathine Soto-Stgo	2015-9-28 00:00:00	
+85154	HERMANAS CALLEGARI LTDA.	Par	Cuatricromia	Generales	10x6	08	167.940	Publicado	Marcela Tello-ElDia	2015-9-28 00:00:00	
+83701	HABITA INMOBILIARIA SA	Par	Cuatricromia	Generales	35x3	09	0	Publicado	Miguel Apey	2015-9-28 00:00:00	
+85165	SOC. COMERCIAL ALCAPARRA LTDA.	Par	Cuatricromia	Generales	17x3	09	0	Arte	Patricia Villena	2015-9-28 00:00:00	
+84873	DIARIO EL DIA	Par	Cuatricromia	Generales	17x6	10	0	Publicado	Marcela Tello-ElDia	2015-9-28 00:00:00	
+85081	CALLEGARI LTDA.	Par	Cuatricromia	Generales	34x6	11	0	Publicado	Marcela Tello-ElDia	2015-9-28 00:00:00	
+83419	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	10x3	13	0	Publicado	Marcela Tello-ElDia	2015-9-28 00:00:00	
+84916	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	16x3	13	104.352	Publicado	Medios Regionales	2015-9-28 00:00:00	
+85071	SUBSECRETARIA DE PESCA	Par	Blanco y negro	Generales	8x2	14	41.014	Publicado	Jacqueline Torres	2015-9-28 00:00:00	
+83039	LABORATORIO CLINICO STA. MARIA LA S	Par	Blanco y negro	Generales	6x2	14	7.470	Publicado	Miguel Apey	2015-9-28 00:00:00	
+83072	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	15-26	8.306	Publicado	Miguel Apey	2015-9-28 00:00:00	
+85152	HERMANAS CALLEGARI LTDA.	Par	Cuatricromia	Generales	34x6	17	0	Arte	Marcela Tello-ElDia	2015-9-28 00:00:00	
+85151	CALLEGARI LTDA.	Par	Cuatricromia	Generales	17x6	22	285.498	Publicado	Marcela Tello-ElDia	2015-9-28 00:00:00	
+85149	CALLEGARI LTDA.	Par	Cuatricromia	Generales	17x6	25	285.498	Publicado	Marcela Tello-ElDia	2015-9-28 00:00:00	
+83610	CENTRO MEDICO DENTAL STO. TOMAS LTD	Par	Cuatricromia	Generales	8x4	26	0	Publicado	Rene Pizarro	2015-9-28 00:00:00	
+85094	DIARIO EL DIA	Par	Cuatricromia	Generales	14x6	27	0	Publicado	Marcela Tello-ElDia	2015-9-28 00:00:00	
+85195	AREVALO CARMEN			UIP	5x1	29	8.937	Publicado	Pedro Jaime	2015-9-28 00:00:00	
+85172	RED SECURITY LTDA			UIP	5x1	29	8.937	Publicado	Pedro Jaime	2015-9-28 00:00:00	
+82996	SOC. COMERCIAL ALCAPARRA LTDA.	Par	Blanco y negro	Generales	5x2	29	10.440	Publicado	Patricia Villena	2015-9-28 00:00:00	
+84155	soc. comercial e inv. alto la seren			UIP	5x2	29	8.937	Publicado	Nadia Randolph	2015-9-28 00:00:00	
+85030	DESIDERIO LISBOA EIRL.	Par	Blanco y negro	Generales	5x2	29	17.875	Publicado	Claudio Romero	2015-9-28 00:00:00	
+84887	GALLARDO Y			UIP	5x1	29	8.937	Publicado	Claudio Romero	2015-9-28 00:00:00	
+84642	CERNA E HIJOS CIA. LTDA.	Par	Blanco y negro	Generales	5x1	29	4.468	Publicado	Nadia Randolph	2015-9-28 00:00:00	
+84461	SOC. DE GESTION MEDITERRANEA			UIP	5x1	29	8.937	Publicado	Miguel Apey	2015-9-28 00:00:00	
+83330	ARMAQ			UIP	5x1	29	8.937	Publicado	Claudio Romero	2015-9-28 00:00:00	
+83456	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	29	0	Publicado	Marcela Tello-ElDia	2015-9-28 00:00:00	
+83510	DIARIO EL DIA	Par	Blanco y negro	Generales	5x2	29	0	Publicado	Marcela Tello-ElDia	2015-9-28 00:00:00	
+83672	SERVICIOS GENERALES GUAYACAN S.A	Par	Blanco y negro	Generales	3x2	30	8.068	Publicado	Jacqueline Torres	2015-9-28 00:00:00	
+85184	SOCIEDAD COMERCIAL Y SERVICIOS AQUA	Par	Blanco y negro	Generales	6x2	EC-19	0	Publicado	Pedro Jaime	2015-9-28 00:00:00	
+83258	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Generales	5x1	EC-20	5.860	Publicado	Rene Pizarro	2015-9-28 00:00:00	
+85043	DIARIO EL DIA	Par	Cuatricromia	Generales	12x6	EC-20	0	Publicado	Marcela Tello-ElDia	2015-9-28 00:00:00	
+85201	AREVALO CARMEN			UIP	5x1	EC-20	8.937	Publicado	Pedro Jaime	2015-9-28 00:00:00	

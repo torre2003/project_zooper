@@ -1,0 +1,9 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+161009	SOCIEDAD DE RENTAS FALABELLA S.A	Impar	Cuatricromia	Generales	17x6	03	200.000	Publicado	M Cristina Puga	Open Plaza	2018-8-2 00:00:00	
+160954	FERNANDO GARCIA GARCIA			UIP	5x2	05	2.808	Publicado	Karina Rivera	ARRIENDO PARCELA	2018-8-2 00:00:00	
+161113	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	4x6	06	0	Arte	Marcela Tello-ElDia	Periodismo en todos los sentidos...	2018-8-2 00:00:00	
+161021	SERV. AGRICOLA Y GANADERO	Par	Blanco y negro	Generales	12x3	08	57.626	Publicado	Jacqueline Torres	CONCURSO	2018-8-2 00:00:00	
+161077	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	6x3	08	0	Arte	Marcela Tello-ElDia	Convenio Dabed y Diario El Ovallino	2018-8-2 00:00:00	
+160577	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	11	0	Arte	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2018-8-2 00:00:00	
+161114	PRENSA DEL LIMARI LTDA.	Par	Blanco y negro	Generales	9x6	12	0	Arte	Marcela Tello-ElDia		2018-8-2 00:00:00	
+161115	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	8x6	14	0	Arte	Marcela Tello-ElDia		2018-8-2 00:00:00	

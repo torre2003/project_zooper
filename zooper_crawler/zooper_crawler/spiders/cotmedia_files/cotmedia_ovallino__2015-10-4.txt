@@ -1,0 +1,6 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+85341	INVERSIONES PUNTA BLANCA SPA	Impar	Blanco y negro	Generales	35x6	05	385.586	Publicado	Italo Retamal	publi city poin	2015-10-4 00:00:00	
+85389	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	10x3	07	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2015-10-4 00:00:00	
+85940	EMPRESA PERIODISTICA EL NORTE S.A.	Par	Blanco y negro	Medios Regionales	6x2	07	17.340	Publicado	Medios Regionales	Empresa de Transp. - Conductor y Asistente Norte - (211871)	2015-10-4 00:00:00	
+85182	CAMAL MUSALEM TAPIA Y CIA.	Par	Blanco y negro	Generales	15x6	09	110.160	Publicado	Marcela Tello-ElDia	Toyota All New Hilux - Repite 27/9	2015-10-4 00:00:00	
+85976	PRENSA DEL LIMARI LTDA.	Par	Blanco y negro	Generales	17x6	14	0	Publicado	Marcela Tello-ElDia		2015-10-4 00:00:00	

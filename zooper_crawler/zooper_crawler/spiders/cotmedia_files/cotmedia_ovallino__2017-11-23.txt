@@ -1,0 +1,10 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+144024	SOCIEDAD DE RENTAS FALABELLA S.A	Par	Cuatricromia	Generales	8x6	01	50.980	Arte	M Cristina Puga	HUINCHA PORTADAOpen-NOCHE DE BRUJAS	2017-11-23 00:00:00	
+144414	OMD CHILE S.P.A.	Impar	Cuatricromia	Generales	35x6	03	824.511	Arte	Patricia Villena	Matricula Costo Cero	2017-11-23 00:00:00	
+144293	ADOLFO HADLER BARRERA			UIP	5x2	05	2.808	Arte	Karina Rivera	SE VENDEN 5 SITIOS	2017-11-23 00:00:00	
+136049	INVERSIONES TANGUEMAR LIMITADA			UIP	5x2	07	2.808	Arte	Patricia Villena	Tanguemar	2017-11-23 00:00:00	
+138359	CENTRO DE SALUD PORTALES LTDA			UIP	5x4	07	4.504	Arte	Karina Rivera		2017-11-23 00:00:00	
+143394	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	08	0	Arte	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2017-11-23 00:00:00	
+144424	DABED Y CIA. LTDA., SELIM	Par	Cuatricromia	Generales	6x6	11	23.076	Arte	Karina Rivera	JUEVES 15 MODELOS	2017-11-23 00:00:00	
+143965	VELIZ CORTES JOSE A.			UIP	5x2	14	4.695	Arte	Pedro Cortes		2017-11-23 00:00:00	
+144304	SOCIEDAD DE RENTAS FALABELLA S.A		1 pag.	Inserto	x	XX	76.400	Arte	M Cristina Puga	Open 	2017-11-23 00:00:00	

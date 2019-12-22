@@ -1,0 +1,9 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+146659	PRENSA DEL LIMARI LTDA.	Par	Blanco y negro	Generales	17x3	03	0	Publicado	Marcela Tello-ElDia		2017-12-30 00:00:00	
+146815	INMOBILIARIA NUEVA SERENA	Par	Cuatricromia	Generales	17x3	03	65.625	Publicado	Claudio Romero	repite aviso del 8 de diciembre 2017	2017-12-30 00:00:00	
+146601	ALVARO ITURRA			UIP	5x2	07	2.808	Publicado	Karina Rivera	VENDE CASA TERRENO EMBALSE	2017-12-30 00:00:00	
+146966	COLEGIO GABRIELA MISTRAL	Par	Blanco y negro	Generales	7x2	07	31.836	Publicado	Karina Rivera	NECESITA CONTRATAR	2017-12-30 00:00:00	
+145693	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	09	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2017-12-30 00:00:00	
+146486	UNIVERSIDAD BOLIVARIANA			UIP	10x2	11	7.882	Publicado	Karina Rivera	CARRERAS UB Y VC	2017-12-30 00:00:00	
+146001	VELIZ CORTES JOSE A.			UIP	5x2	14	4.695	Publicado	Pedro Cortes		2017-12-30 00:00:00	
+147123	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	6x6	14	0	Publicado	Marcela Tello-ElDia		2017-12-30 00:00:00	

@@ -1,0 +1,13 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+88776	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	15x6	03	0	Publicado	Marcela Tello-ElDia	HAROLD MAYNE NICHOLLS	2015-11-12 00:00:00	
+81411	tanguemar			UIP	5x2	05	2.808	Publicado	Patricia Villena	Tanguemar	2015-11-12 00:00:00	
+87046	BIANCA DASOLI	Par	Blanco y negro	Generales	5x2	05	1.429	Publicado	Italo Retamal	tarot	2015-11-12 00:00:00	
+87065	linea			UIP	10x2	05	5.630	Publicado	Italo Retamal	seguridad 	2015-11-12 00:00:00	
+87148	socinget			UIP	10x2	05	5.630	Publicado	Italo Retamal		2015-11-12 00:00:00	
+88047	JOSE CONTADOR DURAN	Par	Blanco y negro	Generales	5x2	07	1.428	Publicado	Italo Retamal	arriendo local	2015-11-12 00:00:00	
+88692	ADA D?AZ ARAYA	Par	Blanco y negro	Generales	5x2	07	1.428	Publicado	Italo Retamal	zona ganjah	2015-11-12 00:00:00	
+88259	SOCIEDAD COMERCIAL KATANKURA LTDA	Par	Cuatricromia	Generales	6x6	09	25.000	Publicado	Italo Retamal	evento katankura 	2015-11-12 00:00:00	
+88913	SANDRA PAOLA 			UIP	10x2	10	5.630	Publicado	Italo Retamal	BRISTO Y BAR 	2015-11-12 00:00:00	
+88811	ILUSTRE MUNICIPALIDAD DE OVALLE	Impar	Cuatricromia	Generales	12x3	11	83.333	Publicado	Italo Retamal	aviso 3 feria reci	2015-11-12 00:00:00	
+88909	ILUSTRE MUNICIPALIDAD DE OVALLE	Impar	Cuatricromia	Generales	12x3	13	142.370	Publicado	Italo Retamal	aviso 4 plano regulador 	2015-11-12 00:00:00	
+88658	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	34x6	16	0	Publicado	Marcela Tello-ElDia	CONCIERTO ROMEO SANTOS	2015-11-12 00:00:00	

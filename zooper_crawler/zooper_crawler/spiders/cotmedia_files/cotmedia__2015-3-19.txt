@@ -1,0 +1,33 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+70613	CHRISTIAN LAUNITZ MARIN SERVICIOS M	Par	Blanco y negro	Generales	3x2	07	6.440	Publicado	Jacqueline Torres	2015-3-19 00:00:00	
+70900	LATAM AIRLINES GROUP S.A.	Impar	Cuatricromia	Generales	35x6	08	0	Arte	Patricia Villena	2015-3-19 00:00:00	
+71338	CENCOSUD RETAIL S.A.	Impar	Cuatricromia	Generales	17x6	09	379.999	Publicado	M Cristina Puga	2015-3-19 00:00:00	
+69614	BANCO DEL ESTADO DE CHILE	Impar	Cuatricromia	Generales	17x6	09	313.761	Publicado	Kathine Soto-Stgo	2015-3-19 00:00:00	
+70054	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	10x3	13	0	Publicado	Marcela Tello-ElDia	2015-3-19 00:00:00	
+68986	CASA DEL PERNO	Par	Blanco y negro	Generales	5x3	13	23.071	Publicado	Miguel Apey	2015-3-19 00:00:00	
+71414	SUBSECRETARIA DEL MINISTERIO DE MIN	Par	Blanco y negro	Generales	17x3	14	0	Publicado	Jacqueline Torres	2015-3-19 00:00:00	
+70887	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	6x2	15	26.088	Publicado	Medios Regionales	2015-3-19 00:00:00	
+68896	LABORATORIO CLINICO STA. MARIA LA S	Par	Blanco y negro	Generales	6x2	15	7.470	Publicado	Miguel Apey	2015-3-19 00:00:00	
+71417	CAMAL MUSALEM TAPIA Y CIA.	Par	Cuatricromia	Generales	16x5	16	223.920	Publicado	Marcela Tello-ElDia	2015-3-19 00:00:00	
+68924	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	17	8.306	Publicado	Miguel Apey	2015-3-19 00:00:00	
+69886	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Blanco y negro	Generales	6x6	17	58.905	Publicado	Claudio Romero	2015-3-19 00:00:00	
+71411	CAMARA CHILENA DE LA CONSTRUCCION A	Impar	Cuatricromia	Generales	35x6	25	839.769	Publicado	Jacqueline Torres	2015-3-19 00:00:00	
+71318	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	27	0	Publicado	Marcela Tello-ElDia	2015-3-19 00:00:00	
+68971	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	4x5	29	20.508	Publicado	Miguel Apey	2015-3-19 00:00:00	
+71124	AREVALO CARMEN			UIP	5x1	30	8.937	Publicado	Pedro Jaime	2015-3-19 00:00:00	
+71080	VARGAS COCI			UIP	5x1	30	8.937	Publicado	Rene Pizarro	2015-3-19 00:00:00	
+70983	DIARIO EL DIA	Par	Blanco y negro	Generales	5x1	30	0	Publicado	Marcela Tello-ElDia	2015-3-19 00:00:00	
+71091	equipos			UIP	5x1	30	8.937	Publicado	Miguel Apey	2015-3-19 00:00:00	
+68882	SOC. DE GESTION MEDITERRANEA			UIP	5x1	30	8.937	Publicado	Miguel Apey	2015-3-19 00:00:00	
+70229	SOC. COMERCIAL ALCAPARRA LTDA.	Par	Blanco y negro	Generales	5x2	30	10.440	Publicado	Patricia Villena	2015-3-19 00:00:00	
+69642	sociedad res			UIP	5x2	30	17.875	Publicado	Jacqueline Torres	2015-3-19 00:00:00	
+69802	armaq			UIP	5x1	30	8.937	Publicado	Claudio Romero	2015-3-19 00:00:00	
+70013	DIARIO EL DIA	Par	Blanco y negro	Generales	5x2	30	0	Publicado	Marcela Tello-ElDia	2015-3-19 00:00:00	
+69950	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	30	0	Publicado	Marcela Tello-ElDia	2015-3-19 00:00:00	
+69982	PILLA LA VACA	Par	Blanco y negro	Generales	5x2	30	0	Publicado	Marcela Tello-ElDia	2015-3-19 00:00:00	
+71401	CIA. MINERA DEL PACIFICO S.A.	Par	Blanco y negro	Generales	10x2	31	73.240	Publicado	Jacqueline Torres	2015-3-19 00:00:00	
+70356	SERVICIOS GENERALES GUAYACAN S.A	Par	Blanco y negro	Generales	3x2	31	6.451	Publicado	Jacqueline Torres	2015-3-19 00:00:00	
+71130	AREVALO CARMEN			UIP	5x1	EC-21	8.937	Publicado	Pedro Jaime	2015-3-19 00:00:00	
+70131	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Generales	5x1	EC-21	5.860	Publicado	Rene Pizarro	2015-3-19 00:00:00	
+70171	SOC. COMERCIAL VARGAS Y GIACOMET	Par	Blanco y negro	Generales	5x1	EC-21	5.860	Publicado	Rene Pizarro	2015-3-19 00:00:00	
+71281	SUAREZ CARLOS 			UIP	5x1	EC-21	8.937	Publicado	Pedro Jaime	2015-3-19 00:00:00	

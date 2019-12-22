@@ -1,0 +1,5 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+81984	jorge al			UIP	5x2	05	2.808	Publicado	Italo Retamal	abogado	2015-8-25 00:00:00	
+82633	Tita alamo			UIP	5x2	05	2.808	Publicado	Italo Retamal	terreno medieria	2015-8-25 00:00:00	
+80805	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	10x3	07	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2015-8-25 00:00:00	
+81165	florencia			UIP	10x2	07	5.630	Publicado	Italo Retamal	tienda exotica	2015-8-25 00:00:00	

@@ -1,0 +1,244 @@
+{% extends 'base.html' %}
+{% load staticfiles %}
+{% load common_tags %}
+
+{% block css %}
+    {% css_dataTable %}
+{% endblock %}
+
+{% block contenido %}
+{% block pre_contenido %}{%endblock%}
+
+<div name="card_filtros" class="row clearfix" style="{% block style_filtros %}{%endblock%}" >
+    <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+        <div class="card">
+            <div class="header">
+                <h2 id="">
+                    {% block titulo_filtros %}{%endblock%}
+                </h2>
+            </div>
+            <div id="filtros" class="body">
+                {% block body_filtros %}{%endblock%}
+                <hr />
+                <label>Cantidad de elementos<input name="elementos_por_pagina" type="number" class="form-control" placeholder="" value="20"></label>
+                <hr />
+                <button id="filtrar" class="btn btn-primary m-t-15 waves-effect">Filtrar</button>
+                <hr />
+                <nav>
+                    <ul class="pagination">
+                        <li class="disabled">
+                            <a href="javascript:void(0);">
+                                <i class="material-icons">chevron_left</i>
+                            </a>
+                        </li>
+                        <li class="active"><a href="javascript:void(0);">1</a></li>
+                        <li><a href="javascript:void(0);" class="waves-effect">2</a></li>
+                        <li><a href="javascript:void(0);" class="waves-effect">3</a></li>
+                        <li><a href="javascript:void(0);" class="waves-effect">4</a></li>
+                        <li><a href="javascript:void(0);" class="waves-effect">5</a></li>
+                        <li>
+                            <a href="javascript:void(0);" class="waves-effect">
+                                <i class="material-icons">chevron_right</i>
+                            </a>
+                        </li>
+                    </ul>
+                </nav>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="row clearfix">
+    <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+        <div class="card">
+            <div class="header">
+                <h2 id="">
+                    {% block titulo_card %}{%endblock%}
+                </h2>
+            </div>
+            <div id="container_tabla"class="body">
+                {% div_dataTable 'tabla_id' %} 
+            </div>
+        </div>
+    </div>
+</div>
+<form>
+    {% csrf_token %}
+</form>
+<!-- Modal Log -->
+<div class="modal fade" id="modal_elemento" cliente="0" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog" role="document" style="width:80%">
+    <div class="modal-content">
+      <div class="modal-body">
+        <div class="row clearfix">
+            <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                <div class="card">
+                    <div class="header">
+                        <h2><i class="material-icons">info</i>{% block modal_elemento_titulo %}{% endblock %}
+                            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                <i class="material-icons">close</i>
+                            </button>
+                        </h2>
+                    </div>
+                    <div id="container_tabla_elemento"class="body">
+                        {% div_dataTable 'tabla_elemento_id' %}
+<!--
+                        <div class="table-responsive">
+                          <table id="tabla_log" class="table responsive table-hover table-striped dataTable js-exportable"></table>
+                        </div>
+-->
+                    </div>
+                </div>
+            </div>
+        </div>
+      </div>
+      <!--
+      <div class="modal-footer">
+        <button id="enviar_editar_cliente" class="btn btn-primary waves-effect" >Ingresar</button>
+      </div>
+        -->
+    </div>
+  </div>
+</div>
+<!-- ./ Modal log -->
+
+{% block post_contenido %}{%endblock%}
+{% endblock %}
+
+{% block scripts %}
+    {% block pre_scripts_lista %}{% endblock%}
+    {% js_dataTable False %}
+    {% django_ajax %}
+<script>
+    var obtenerFiltros = function(){return {}};
+</script>
+    {% block obtener_filtros %}{% endblock%}
+<script>
+    
+    var temp_datos = {}
+
+    var sparseTabla_tabla = null;
+
+    var params_tabla = {
+        id:'tabla_id',
+        url : "{% block url_json %}{% endblock %}", 
+        ajaxData : {
+            'csrfmiddlewaretoken':$('csrfmiddlewaretoken').val(),
+        },
+        setAllButtons:false,
+        ajax:true,
+        preProcess:CustomPreProccesDatatable,
+        "paging": false,
+      };
+
+    function CustomPreProccesDatatable(respuesta) {
+        if (respuesta.status == 'error'){
+            swal({
+                title: "Mensaje",
+                text: respuesta.mensaje.text,
+                icon: respuesta.mensaje.type,
+            });
+        }
+        else{
+            cargarPaginacion(respuesta.paginacion);
+        }
+        return respuesta
+    }
+
+    var sparseTabla_tabla_elemento = null;
+
+    var params_tabla_elemento = {
+        id:'tabla_elemento_id',
+        url : "{% block url_json_elemento %}{% endblock %}", 
+        ajaxData : {
+            'csrfmiddlewaretoken':$('csrfmiddlewaretoken').val(),
+        },
+        setAllButtons:false,
+        ajax:true,
+        preProcess:CustomPreProccesDatatableElemento,
+        "paging": false,
+      };
+
+    function CustomPreProccesDatatableElemento(respuesta) {
+        if (respuesta.status == 'error'){
+            swal({
+                title: "Mensaje",
+                text: respuesta.mensaje[0].text,
+                icon: respuesta.mensaje[0].type,
+            });
+            return null;
+        }
+        else{
+
+        }
+        $('div[id=modal_elemento]').modal('show');
+        return respuesta
+    }
+
+    function cargarPaginacion(paginacion){
+        console.log('paginacion');
+        console.log(paginacion);
+        html = ''+'<ul class="pagination">';
+        if (paginacion.pagina_actual!= 1)
+            html += '<li><a href="javascript:void(0);" valor="1" tipo="paginado"><span aria-hidden="true">←</span>Primera</a></li>';
+        if (paginacion.pagina_anterior != null)
+            html += '<li><a href="javascript:void(0);" valor="'+paginacion.pagina_anterior+'" tipo="paginado"><i class="material-icons">chevron_left</i></a></li>';
+        else
+            html += '<li class="disabled"><a href="javascript:void(0);"><i class="material-icons">chevron_left</i></a></li>'; 
+        html += '<li class="active"><a href="javascript:void(0);">'+ paginacion.pagina_actual+'</a></li>';
+        // <li><a href="javascript:void(0);" class="waves-effect" tipo="paginado">2</a></li>
+        if (paginacion.pagina_siguiente != null)
+            html += '<li><a href="javascript:void(0);" valor="'+paginacion.pagina_siguiente+'" tipo="paginado"><i class="material-icons">chevron_right</i></a></li>';
+        else
+            html += '<li class="disabled"><a href="javascript:void(0);"><i class="material-icons">chevron_right</i></a></li>';
+        if (paginacion.pagina_actual!= paginacion.numero_paginas)
+            html += '<li><a href="javascript:void(0);" valor="'+paginacion.numero_paginas+'" tipo="paginado">('+paginacion.numero_paginas+')Última<span aria-hidden="true">→</span></a></li>';
+        html += '</ul>';
+        $('div[name=card_filtros]').find('nav').html(html);
+    }
+
+    function cargarTabla (datos={}){
+        params_tabla.ajaxData['datos'] = JSON.stringify(datos);
+        if (sparseTabla_tabla == null)
+            sparseTabla_tabla = $('#container_tabla').sparseDataTable(params_tabla);
+        else
+            sparseTabla_tabla.recargar(params_tabla);
+    }
+    cargarTabla();
+
+
+    function cargarTablaElemento (datos={}){
+        params_tabla_elemento.ajaxData['datos'] = JSON.stringify(datos);
+        if (sparseTabla_tabla_elemento == null)
+            sparseTabla_tabla_elemento = $('#container_tabla_elemento').sparseDataTable(params_tabla_elemento);
+        else
+            sparseTabla_tabla_elemento.recargar(params_tabla_elemento);
+    }
+
+    selector_elemento = 'button[name=mostrar_elemento]';
+    selector_alternativo_elemento = '{% block selector_alternativo_elemento %}{% endblock%}';
+    if (selector_alternativo_elemento != '')
+        selector_elemento = selector_alternativo_elemento
+
+    $(document).on('click','button[id=filtrar]',function(){
+        temp_datos = obtenerFiltros(); 
+        temp_datos.elementos_por_pagina = $('input[name=elementos_por_pagina]').val()
+        cargarTabla(temp_datos);
+    })
+
+    $(document).on('click','a[tipo=paginado]',function(){
+        temp_datos.pagina = $(this).attr('valor');
+        temp_datos.elementos_por_pagina = $('input[name=elementos_por_pagina]').val()
+        cargarTabla(temp_datos);
+    })
+
+    $(document).on('click',selector_elemento,function(){
+        var elemento_id = $(this).attr('elemento_id');
+        console.log(this);
+        console.log(elemento_id);
+        cargarTablaElemento ({elemento_id:elemento_id});
+    })
+</script>
+
+{% block post_scripts_lista %}{% endblock%}
+{% endblock%}

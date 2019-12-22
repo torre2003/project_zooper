@@ -1,0 +1,52 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+104534	INMOBILIARIA RENVAL SPA	Par	Cuatricromia	Generales	34x6	05	650.000	Publicado	Rene Pizarro	2016-6-11 00:00:00	
+104759	SERV. VIVIENDA Y URBANIZACION IV RE	Par	Blanco y negro	Generales	10x2	06	58.989	Publicado	Marcela Tello-ElDia	2016-6-11 00:00:00	
+104760	SERV. VIVIENDA Y URBANIZACION IV RE	Par	Blanco y negro	Generales	10x2	06	58.989	Publicado	Marcela Tello-ElDia	2016-6-11 00:00:00	
+104761	SERV. VIVIENDA Y URBANIZACION IV RE	Par	Blanco y negro	Generales	10x2	06	58.989	Publicado	Marcela Tello-ElDia	2016-6-11 00:00:00	
+103506	WILLIAMSON BALFOUR MOTORS S.A	Impar	Cuatricromia	Generales	17x6	07	505.154	Publicado	Paola Marquez	2016-6-11 00:00:00	
+104681	IMPORTADORA TRENTO LTDA.	Par	Cuatricromia	Generales	34x6	09	570.996	Publicado	Marcela Tello-ElDia	2016-6-11 00:00:00	
+104605	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	10	0	Publicado	Marcela Tello-ElDia	2016-6-11 00:00:00	
+104770	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Cuatricromia	Medios Regionales	16x6	10	327.488	Publicado	Medios Regionales	2016-6-11 00:00:00	
+104501	MINERA LOS PELAMBRES	Impar	Cuatricromia	Generales	34x3	11	721.649	Publicado	Marcela Tello-ElDia	2016-6-11 00:00:00	
+104697	TRANSBANK S.A.	Impar	Cuatricromia	Generales	17x3	11	191.237	Publicado	Kathine Soto-Stgo	2016-6-11 00:00:00	
+104611	SERVICIOS GASTRON?MICOS LA CASONA D	Par	Blanco y negro	Generales	5x2	12	10.725	Publicado	Miguel Apey	2016-6-11 00:00:00	
+103333	ventur			UIP	5x1	12	8.937	Publicado	Maria_Amelia Hermosilla	2016-6-11 00:00:00	
+103631	SONIA NATALIA TUPAYACHI MU?OZ	Par	Cuatricromia	Generales	12x2	12	0	Publicado	Marcela Tello-ElDia	2016-6-11 00:00:00	
+104603	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	6x2	13	28.356	Publicado	Medios Regionales	2016-6-11 00:00:00	
+104013	SOC. COMERCIAL ALCAPARRA LTDA.	Par	Blanco y negro	Generales	5x2	13	10.440	Publicado	Patricia Villena	2016-6-11 00:00:00	
+104062	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	5x2	13	0	Publicado	Miguel Apey	2016-6-11 00:00:00	
+104747	SERVICIO DE REGISTRO CIVIL E IDENTI	Par	Blanco y negro	Generales	17x3	14	0	Publicado	Jacqueline Torres	2016-6-11 00:00:00	
+104732	SOTRALITUR S.A.	Par	Blanco y negro	Generales	8x2	14	51.884	Publicado	Pedro Cortes	2016-6-11 00:00:00	
+104637	CLUB DE DEPORTES LA SERENA	Par	Cuatricromia	Generales	17x3	16	0	Publicado	Marcela Tello-ElDia	2016-6-11 00:00:00	
+103802	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	16	8.306	Publicado	Miguel Apey	2016-6-11 00:00:00	
+103785	BAKULIC RESTAURANT	Par	Blanco y negro	Generales	15x3	16	40.092	Publicado	Miguel Apey	2016-6-11 00:00:00	
+104658	INMOBIL. LA SERENA GOLF S.A.	Impar	Cuatricromia	Generales	17x6	17	288.975	Publicado	Patricia Villena	2016-6-11 00:00:00	
+104717	SOCIEDAD COMERCIAL DE VEHICULOS S.A	Impar	Cuatricromia	Generales	25x5	23	442.187	Publicado	Kathine Soto-Stgo	2016-6-11 00:00:00	
+104674	CAI GESTION INMOBILIARIA	Par	Blanco y negro	Generales	35x6	24	0	Publicado	Patricia Villena	2016-6-11 00:00:00	
+104699	AUTOMOTORES GILDEMEISTER S.A.	Impar	Cuatricromia	Generales	17x6	27	360.825	Publicado	Kathine Soto-Stgo	2016-6-11 00:00:00	
+103116	SOCOR LTDA.	Par	Cuatricromia	Generales	6x6	28	127.350	Publicado	Miguel Apey	2016-6-11 00:00:00	
+103945	ARMAQ			UIP	5x1	29	8.937	Publicado	Claudio Romero	2016-6-11 00:00:00	
+102131	CERNA E HIJOS CIA. LTDA.	Par	Blanco y negro	Generales	5x1	29	4.524	Publicado	Nadia Randolph	2016-6-11 00:00:00	
+103564	SOC. DE GESTION MEDITERRANEA			UIP	5x1	29	8.937	Publicado	Miguel Apey	2016-6-11 00:00:00	
+103722	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	29	0	Publicado	Marcela Tello-ElDia	2016-6-11 00:00:00	
+103748	PILLA LA VACA	Par	Blanco y negro	Generales	5x2	29	0	Publicado	Marcela Tello-ElDia	2016-6-11 00:00:00	
+104326	AREVALO CARMEN			UIP	5x1	29	8.937	Publicado	Pedro Jaime	2016-6-11 00:00:00	
+104368	GABRIEL ESPINOZA			UIP	5x1	29	8.937	Publicado	Pedro Jaime	2016-6-11 00:00:00	
+100552	SOC.COMERCIAL ALTOS LA SERENA LTDA	Par	Blanco y negro	Generales	5x2	29	8.937	Publicado	Nadia Randolph	2016-6-11 00:00:00	
+103832	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	4x5	29	20.508	Publicado	Miguel Apey	2016-6-11 00:00:00	
+104552	SOC. DE TRANSPORTES ROMANI Y CIA. L	Par	Blanco y negro	Generales	5x1	29	18.951	Publicado	Miguel Apey	2016-6-11 00:00:00	
+104288	SERVICIOS GENERALES GUAYACAN S.A	Par	Blanco y negro	Generales	4x2	30	6.666	Publicado	Jacqueline Torres	2016-6-11 00:00:00	
+104178	VELIZ CORTES JOSE A.	Par	Blanco y negro	Generales	3x2	30	13.403	Publicado	Pedro Cortes	2016-6-11 00:00:00	
+104802	MADARIAGA FREDES JAIME	Par	Blanco y negro	Generales	12x2	30	65.697	Publicado	Pedro Jaime	2016-6-11 00:00:00	
+104610	COMERCIAL CHRYSLER S.A.	Impar	Cuatricromia	Generales	35x6	32	750.000	Publicado	Kathine Soto-Stgo	2016-6-11 00:00:00	
+104209	DIARIO EL DIA	Par	Blanco y negro	Generales	5x2	EC-18	0	Publicado	Marcela Tello-ElDia	2016-6-11 00:00:00	
+104750	SOC. EDUCACIONAL SAN GUILLERMO LTDA	Par	Blanco y negro	Generales	6x2	EC-19	40.429	Publicado	Miguel Apey	2016-6-11 00:00:00	
+104727	CIA. DE LEASING TATTERSALL S.A.	Par	Blanco y negro	Generales	11x2	EC-19	69.487	Publicado	Pedro Jaime	2016-6-11 00:00:00	
+104693	MARTIN JURE PATRICIA	Par	Blanco y negro	Generales	7x2	EC-20	0	Publicado	Marcela Tello-ElDia	2016-6-11 00:00:00	
+104587	SOC. EDUCACIONAL DEL ALBA S.A.	Par	Blanco y negro	Generales	4x2	EC-20	33.691	Publicado	Pedro Jaime	2016-6-11 00:00:00	
+103919	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Generales	5x1	EC-21	5.860	Publicado	Rene Pizarro	2016-6-11 00:00:00	
+103661	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	EC-21	0	Publicado	Marcela Tello-ElDia	2016-6-11 00:00:00	
+100933	HOTELERIA LUIS ALBERTO BERETTA KIEK	Par	Blanco y negro	Generales	5x2	EC-21	8.937	Publicado	Patricia Villena	2016-6-11 00:00:00	
+104680	SANTANDER G.R.C.	587 Palabras		Legal	x	EC-21	145.798	Publicado	Pedro Jaime	2016-6-11 00:00:00	
+104456	COMERCIAL E.C.C.S.A.  S.A.		9 a 24 pag.	Inserto	x	INS	459.000	Publicado	M Cristina Puga	2016-6-11 00:00:00	
+104458	COMERCIAL E.C.C.S.A.  S.A.		9 a 24 pag.	Inserto	x	INS	459.000	Publicado	M Cristina Puga	2016-6-11 00:00:00	

@@ -1,0 +1,34 @@
+{% extends 'base_lista.html' %}
+{% load staticfiles %}
+{% load common_tags %}
+
+{% block titulo_head %} Lista articulos {% endblock %}
+{% block titulo %} Supermercado Jumbo {% endblock %}
+
+
+{% block titulo_filtros %}Filtros jumbo{%endblock%}
+{% block body_filtros %}
+<p><label for="nombre">Nombre<input name="nombre" type="text"></label></p>
+<p><label for="marca">Marca<input name="marca" type="text"></label></p>
+<p><label for="producto_id">Producto ID<input name="producto_id" type="text"></label></p>
+{%endblock%}
+
+
+{% block titulo_card %}Lista de articulos{%endblock%}
+{% block url_json %}{% url 'supermercado:jumbo:lista-articulos-json' %}{% endblock %}
+
+{% block modal_elemento_titulo %}Articulo Jumbo{% endblock %}
+
+{% block obtener_filtros %}
+<script>
+    obtenerFiltros = function(){
+        return {
+            nombre:$('input[name=nombre]').val(),
+            marca:$('input[name=marca]').val(),
+            producto_id:$('input[name=producto_id]').val(),
+        }
+    }
+</script>
+{% endblock%}
+
+{% block url_json_elemento %}{% url 'supermercado:jumbo:ver-articulo-json' %}{% endblock %}

@@ -1,0 +1,15 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+157249	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	02	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2018-6-17 00:00:00	
+158079	AUTOMOTRIZ CARMONA	Par	Cuatricromia	Generales	34x6	03	349.656	Publicado	Marcela Tello-ElDia		2018-6-17 00:00:00	
+158264	MACAL LTDA.	Par	Cuatricromia	Generales	17x6	04	305.898	Publicado	Karina Rivera	DEPARTAMENTOS EN OVALLE	2018-6-17 00:00:00	
+158279	CALLEGARI LTDA.	Par	Cuatricromia	Generales	17x6	05	174.828	Publicado	Marcela Tello-ElDia	Ford Ecosport 	2018-6-17 00:00:00	
+158108	HERSON ANDRES VALENCIA BELALCAZAR			UIP	5x4	06	13.210	Publicado	Karina Rivera	2X1 KING BARBER (SEMANA DEL PADRE) 	2018-6-17 00:00:00	
+158080	AUTOMOTRIZ CARMONA	Par	Cuatricromia	Generales	17x6	08	174.828	Publicado	Marcela Tello-ElDia		2018-6-17 00:00:00	
+158019	SOCIEDAD DE RENTAS FALABELLA S.A	Impar	Cuatricromia	Generales	17x6	09	200.000	Publicado	M Cristina Puga	Open Plaza	2018-6-17 00:00:00	
+158275	CAMAL MUSALEM TAPIA Y CIA.	Par	Cuatricromia	Generales	34x5	10	291.380	Publicado	Marcela Tello-ElDia	Toyota - Aprovecha en Junio - Bonos del Mes del Padre	2018-6-17 00:00:00	
+131320	SOCIEDAD MEDICA Y CONSULTORA ESTETI		Cuatricromia	Guia	5x2	11	13.333	Publicado	Maria_Amelia Hermosilla	Diego Polanco	2018-6-17 00:00:00	
+153737	EMPRESA PERIODISTICA EL NORTE S.A.	Par	Cuatricromia	Medios Regionales	10x3	11	121.376	Publicado	Medios Regionales	Impar - Parques de Chile - (52807)	2018-6-17 00:00:00	
+158280	CALLEGARI LTDA.	Par	Cuatricromia	Generales	17x6	12	174.828	Publicado	Marcela Tello-ElDia		2018-6-17 00:00:00	
+158281	CALLEGARI LTDA.	Par	Cuatricromia	Generales	34x6	13	349.656	Publicado	Marcela Tello-ElDia	Mitsubishi Montero Sport	2018-6-17 00:00:00	
+157514	DABED Y CIA. LTDA., SELIM	Par	Cuatricromia	Generales	6x6	15	23.076	Publicado	Karina Rivera		2018-6-17 00:00:00	
+158167	EMPRESA PERIODISTICA EL NORTE S.A.	Par	Cuatricromia	Medios Regionales	32x6	16	367.130	Publicado	Medios Regionales	Impar - Fibra Optica - Forward Media S.P.A. - (83998)	2018-6-17 00:00:00	

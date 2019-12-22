@@ -1,0 +1,6 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+160306	PRENSA DEL LIMARI LTDA.	Par	Blanco y negro	Generales	3x6	04	0	Arte	Marcela Tello-ElDia		2018-7-25 00:00:00	
+158825	OSSANDON PRESTACIONES MEDICAS Y OTR			UIP	5x2	06	3.879	Publicado	Karina Rivera	MEDICO CIRUJANO ALEJANDRO MANRIQUEZ	2018-7-25 00:00:00	
+159868	DABED Y CIA. LTDA., SELIM	Par	Cuatricromia	Generales	6x6	09	23.076	Publicado	Karina Rivera	1 ESTUFAS	2018-7-25 00:00:00	
+158957	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	12x3	11	0	Publicado	Claudio Romero	Muebles alpina..	2018-7-25 00:00:00	
+158638	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	14	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2018-7-25 00:00:00	

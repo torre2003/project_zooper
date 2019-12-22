@@ -1,0 +1,50 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+79292	CHRISTIAN LAUNITZ MARIN SERVICIOS M	Par	Blanco y negro	Generales	3x2	04	6.440	Publicado	Jacqueline Torres	2015-7-15 00:00:00	
+79957	INMOBIL. E INVERSIONES AREYUNA E HI	Par	Cuatricromia	Generales	34x6	05	500.000	Publicado	Claudio Romero	2015-7-15 00:00:00	
+79915	ILUSTRE MUNICIPALIDAD DE COQUIMBO	Par	Blanco y negro	Generales	15x2	07	76.902	Publicado	Miguel Apey	2015-7-15 00:00:00	
+79535	SOC. AGRICOLA UNI-AGRI OVALLE LTDA.	Par	Blanco y negro	Generales	8x3	07	87.888	Publicado	Pedro Jaime	2015-7-15 00:00:00	
+79887	CARAT CHILE S.A.	Impar	Cuatricromia	Generales	17x6	09	300.000	Publicado	Kathine Soto-Stgo	2015-7-15 00:00:00	
+79784	AUTOMOTORES DEL NORTE	Par	Blanco y negro	Generales	5x1	10	7.427	Publicado	Miguel Apey	2015-7-15 00:00:00	
+79263	CENTRO TECNICO ACUARELA LTDA.	Par	Blanco y negro	Generales	5x2	10	19.409	Publicado	Rene Pizarro	2015-7-15 00:00:00	
+79000	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	10x3	10	0	Publicado	Marcela Tello-ElDia	2015-7-15 00:00:00	
+79821	PROYECCION S.A. CONSTRUCTORA E INMO	Impar	Cuatricromia	Generales	17x6	11	0	Arte	Claudio Romero	2015-7-15 00:00:00	
+79373	GASAUI PRODUCCIONES LTDA	Par	Cuatricromia	Generales	5x6	12	0	Publicado	Pedro Jaime	2015-7-15 00:00:00	
+78528	JACQUELINE FUENTES SALDANA CONSULTO	Par	Cuatricromia	Generales	17x3	13	0	Publicado	Marcela Tello-ElDia	2015-7-15 00:00:00	
+80100	TESORERIA PROVINCIAL DE QUILLOTA	Par	Blanco y negro	Generales	10x3	13	110.924	Publicado	Pedro Jaime	2015-7-15 00:00:00	
+79116	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	13	8.306	Publicado	Miguel Apey	2015-7-15 00:00:00	
+80049	SOC. INMOBIL. Y DE INV. PARQUE EMPR	Par	Blanco y negro	Generales	6x2	14	43.944	Publicado	Pedro Jaime	2015-7-15 00:00:00	
+80050	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	6x2	14	26.088	Publicado	Medios Regionales	2015-7-15 00:00:00	
+80078	TASUI NORTE SUR S.A.	Par	Blanco y negro	Generales	4x2	14	29.296	Publicado	Marcela Tello-ElDia	2015-7-15 00:00:00	
+80118	DIARIO EL DIA	Par	Cuatricromia	Generales	17x6	15	0	Publicado	Marcela Tello-ElDia	2015-7-15 00:00:00	
+80055	SERV. DE REGISTRO CIVIL E IDENTIFIC	1700 Palabras		Legal	x	18-19	433.490	Publicado	Jacqueline Torres	2015-7-15 00:00:00	
+80058	SEREMI BIENES NACIONALES IV REGION	709 Palabras		Legal	x	20-22	176.470	Publicado	Jacqueline Torres	2015-7-15 00:00:00	
+80056	SEREMI BIENES NACIONALES IV REGION	3495 Palabras		Legal	x	20-22	882.353	Publicado	Jacqueline Torres	2015-7-15 00:00:00	
+78843	SEREMI BIENES NACIONALES IV REGION	Par	Blanco y negro	Economico	35x3	23	297.479	Publicado	Jacqueline Torres	2015-7-15 00:00:00	
+80099	SECRETARIA REGIONAL MINIST. DE EDUC	Impar	Cuatricromia	Generales	17x6	27	721.648	Publicado	Jacqueline Torres	2015-7-15 00:00:00	
+79870	LEON LEON SOC. LTDA.	Par	Blanco y negro	Generales	5x2	29	17.068	Publicado	Jacqueline Torres	2015-7-15 00:00:00	
+79980	barraza carlos			UIP	5x1	29	8.937	Publicado	Pedro Jaime	2015-7-15 00:00:00	
+79390	lara			UIP	5x1	29	8.937	Publicado	Italo Retamal	2015-7-15 00:00:00	
+78902	DIARIO EL DIA	Par	Cuatricromia	Generales	10x2	29	0	Publicado	Marcela Tello-ElDia	2015-7-15 00:00:00	
+78934	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	29	0	Publicado	Marcela Tello-ElDia	2015-7-15 00:00:00	
+78965	PILLA LA VACA	Par	Blanco y negro	Generales	5x2	29	0	Publicado	Marcela Tello-ElDia	2015-7-15 00:00:00	
+79165	SOC. COMERCIAL ALCAPARRA LTDA.	Par	Blanco y negro	Generales	5x2	29	10.440	Publicado	Patricia Villena	2015-7-15 00:00:00	
+77350	sociedad restau			UIP	5x2	29	17.875	Publicado	Jacqueline Torres	2015-7-15 00:00:00	
+78658	ARMAQ SUBIRI S.A			UIP	5x1	29	8.937	Publicado	Claudio Romero	2015-7-15 00:00:00	
+78418	SOC. DE GESTION MEDITERRANEA			UIP	5x1	29	8.937	Publicado	Miguel Apey	2015-7-15 00:00:00	
+79346	ECHEVERRI			UIP	5x1	29	8.937	Publicado	Pedro Jaime	2015-7-15 00:00:00	
+78156	MARCOS MAUREIRA ALVAREZ			UIP	5x1	29	8.937	Publicado	Claudio Romero	2015-7-15 00:00:00	
+79307	SERVICIOS GENERALES GUAYACAN S.A	Par	Blanco y negro	Generales	3x2	30	6.452	Publicado	Jacqueline Torres	2015-7-15 00:00:00	
+78750	BANCO PARIS	Par	Cuatricromia	Generales	35x6	32	580.000	Publicado	M Cristina Puga	2015-7-15 00:00:00	
+80001	PAULA ACEVEDO			UIP	5x1	EC-16	8.937	Publicado	Pedro Jaime	2015-7-15 00:00:00	
+80103	AGROPLA			UIP	17x1	EC-16	29.333	Publicado	Claudio Romero	2015-7-15 00:00:00	
+79242	SOC. COMERCIAL VARGAS Y GIACOMET	Par	Blanco y negro	Generales	5x1	EC-16	5.860	Publicado	Rene Pizarro	2015-7-15 00:00:00	
+79907	INMOBILIARIA PABLO MORALES SEPULVED	274 Palabras		Legal	x	EC-17	68.067	Publicado	Pedro Jaime	2015-7-15 00:00:00	
+80098	SERV. VIVIENDA Y URBANIZACION IV RE	Par	Blanco y negro	Generales	12x1	EC-17	28.564	Publicado	Jacqueline Torres	2015-7-15 00:00:00	
+80097	SERV. VIVIENDA Y URBANIZACION IV RE	Par	Blanco y negro	Generales	12x1	EC-17	28.564	Publicado	Jacqueline Torres	2015-7-15 00:00:00	
+80096	SERV. VIVIENDA Y URBANIZACION IV RE	Par	Blanco y negro	Generales	12x1	EC-17	28.564	Publicado	Jacqueline Torres	2015-7-15 00:00:00	
+80095	SERV. VIVIENDA Y URBANIZACION IV RE	Par	Blanco y negro	Economico	12x1	EC-17	28.564	Publicado	Jacqueline Torres	2015-7-15 00:00:00	
+79208	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Generales	5x1	EC-17	5.860	Publicado	Rene Pizarro	2015-7-15 00:00:00	
+80063	MOP OOPP	Impar	Blanco y negro	Economico	12x1	EC-17	44.823	Publicado	Jacqueline Torres	2015-7-15 00:00:00	
+80062	MOP OOPP	Impar	Blanco y negro	Economico	12x1	EC-17	45.878	Publicado	Jacqueline Torres	2015-7-15 00:00:00	
+80061	MOP OOPP	Impar	Blanco y negro	Economico	12x1	EC-17	46.933	Publicado	Jacqueline Torres	2015-7-15 00:00:00	
+80060	MOP OOPP	Impar	Blanco y negro	Economico	12x1	EC-17	50.624	Publicado	Jacqueline Torres	2015-7-15 00:00:00	

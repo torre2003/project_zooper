@@ -1,0 +1,8 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+102335	AUTOMOTRIZ CARMONA	Par	Cuatricromia	Generales	6x6	03	23.076	Publicado	Marcela Tello-ElDia	Nissan March Active - Portada (si hay disponibilidad)	2016-5-11 00:00:00	
+100664	AGRICOLA NORTE TALINAY LTDA	Par	Blanco y negro	Generales	5x2	05	1.666	Publicado	Paola Marquez	UIP VENTA ALFALFA	2016-5-11 00:00:00	
+101596	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	06	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2016-5-11 00:00:00	
+102568	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x6	08	0	Arte	Marcela Tello-ElDia		2016-5-11 00:00:00	
+101457	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	6x6	09	16.065	Publicado	Claudio Romero	Muebles Alpina	2016-5-11 00:00:00	
+100868	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	15x6	11	0	Publicado	Marcela Tello-ElDia	Cupones Cinemark	2016-5-11 00:00:00	
+102330	VALENTINA ANDREA PIZARRO VIERA			UIP	5x2	14	2.808	Publicado	Leonel Pizarro-Ovalle		2016-5-11 00:00:00	

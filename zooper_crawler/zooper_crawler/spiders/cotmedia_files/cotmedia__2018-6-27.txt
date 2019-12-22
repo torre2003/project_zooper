@@ -1,0 +1,36 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+158730	INMOBILIARIA ECASA CHILE S.A.	Par	Cuatricromia	Generales	34x6	05	350.000	Publicado	Paola Marquez	2018-6-27 00:00:00	
+157789	DIARIO EL DIA	Par	Cuatricromia	Generales	34x6	07	0	Publicado	Marcela Tello-ElDia	2018-6-27 00:00:00	
+158839	ELEODORO GODOY SALINAS	Impar	Cuatricromia	Generales	12x6	09	132.887	Publicado	M Cristina Puga	2018-6-27 00:00:00	
+157202	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	10	0	Publicado	Marcela Tello-ElDia	2018-6-27 00:00:00	
+157798	ORDENES ALFARO INES	Par	Cuatricromia	Generales	10x3	11	61.522	Publicado	Miguel Apey	2018-6-27 00:00:00	
+157797	JUAN Y GERARDO HEYN Y CIA. LTDA.	Par	Cuatricromia	Generales	10x3	11	99.973	Publicado	Miguel Apey	2018-6-27 00:00:00	
+158428	ARZOBISPADO DE LA SERENA	Par	Blanco y negro	Generales	5x2	14	0	Publicado	Marcela Tello-ElDia	2018-6-27 00:00:00	
+158335	COLEGIO INGLES CATOLICO DE LA SEREN	Par	Blanco y negro	Generales	15x2	14	109.860	Publicado	Rene Pizarro	2018-6-27 00:00:00	
+157662	CENTRO TECNICO ACUARELA LTDA.	Par	Blanco y negro	Generales	5x2	14	20.874	Publicado	Rene Pizarro	2018-6-27 00:00:00	
+157064	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	15	8.306	Publicado	Miguel Apey	2018-6-27 00:00:00	
+157125	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	5x2	15	0	Publicado	Miguel Apey	2018-6-27 00:00:00	
+158189	DIARIO EL DIA	Par	Blanco y negro	Generales	5x2	15	0	Publicado	Marcela Tello-ElDia	2018-6-27 00:00:00	
+156742	C.M. SOC. GASTRONOMICA LTDA.			UIP	5x2	15	7.208	Publicado		2018-6-27 00:00:00	
+157509	DABED Y CIA. LTDA., SELIM	Par	Cuatricromia	Generales	6x6	17	27.690	Publicado	Karina Rivera	2018-6-27 00:00:00	
+158526	SANTANDER G.R.C.	Par	Blanco y negro	Generales	30x6	20	501.400	Publicado	Pedro Jaime	2018-6-27 00:00:00	
+158863	DIARIO EL DIA	Par	Blanco y negro	Generales	5x1	22	0	Arte	Marcela Tello-ElDia	2018-6-27 00:00:00	
+157094	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	4x5	22	20.508	Publicado	Miguel Apey	2018-6-27 00:00:00	
+157033	SOC. DE GES			UIP	5x1	22	8.937	Publicado	Miguel Apey	2018-6-27 00:00:00	
+157267	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	22	0	Publicado	Marcela Tello-ElDia	2018-6-27 00:00:00	
+154411	CERNA E HIJOS CIA. LTDA.	Par	Blanco y negro	Generales	5x1	22	3.566	Publicado	Nadia Randolph	2018-6-27 00:00:00	
+156864	ARMAQ SUBIRI S.A.			UIP	5x1	22	8.937	Publicado	Claudio Romero	2018-6-27 00:00:00	
+156551	AGUAS DEL VALLE S.A.	Par	Cuatricromia	Generales	5x6	25	50.000	Publicado	Heinger Vega Torres	2018-6-27 00:00:00	
+157350	CAMPOS DEL NORTE S.A.	Par	Cuatricromia	Generales	17x3	27	0	Publicado	Patricia Villena	2018-6-27 00:00:00	
+158846	UNIVERSIDAD DE CHILE	Impar	Blanco y negro	Generales	17x3	27	214.776	Publicado	Jacqueline Torres	2018-6-27 00:00:00	
+158829	DIARIO EL DIA	Par	Cuatricromia	Generales	34x6	28	0	Arte	Paola Marquez	2018-6-27 00:00:00	
+158864	DIARIO EL DIA	Par	Blanco y negro	Generales	6x6	29	0	Arte	Marcela Tello-ElDia	2018-6-27 00:00:00	
+157601	INMOBILIARIA ECASA CHILE S.A.	Par	Cuatricromia	Generales	34x6	32	350.000	Publicado	Paola Marquez	2018-6-27 00:00:00	
+158797	PALOMA VALLADARES	308 Palabras		Legal	x	EC	76.384	Publicado	Pedro Jaime	2018-6-27 00:00:00	
+158827	CAROLINA PAZ VILLARROEL	148 Palabras		Legal	x	EC	36.704	Publicado	Pedro Jaime	2018-6-27 00:00:00	
+158252	DEL RIO VARELA JORGE	Par	Blanco y negro	Generales	12x3	EC-18	115.266	Publicado	Pedro Jaime	2018-6-27 00:00:00	
+158838	FUNDACION EDUCACIONAL COLEGIO SAN J	Par	Blanco y negro	Generales	10x2	EC-18	73.240	Publicado	Karina Rivera	2018-6-27 00:00:00	
+158862	DIARIO EL DIA	Par	Blanco y negro	Generales	5x2	EC-19	0	Arte	Marcela Tello-ElDia	2018-6-27 00:00:00	
+158861	DIARIO EL DIA	Par	Blanco y negro	Generales	17x6	EC-19	0	Arte	Marcela Tello-ElDia	2018-6-27 00:00:00	
+157717	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Generales	5x2	EC-19	7.003	Publicado	Rene Pizarro	2018-6-27 00:00:00	
+152109	HOTELERIA LUIS ALBERTO BERETTA KIEK	Par	Blanco y negro	Generales	5x2	EC-19	6.061	Publicado	Patricia Villena	2018-6-27 00:00:00	

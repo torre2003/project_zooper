@@ -1,0 +1,14 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+93224	CALLEGARI LTDA.	Par	Cuatricromia	Generales	8x6	01	30.000	Publicado	Marcela Tello-ElDia	Repuestos Ford - Portada	2016-1-10 00:00:00	
+93231	CALLEGARI LTDA.	Par	Cuatricromia	Generales	17x6	03	0	Arte	Marcela Tello-ElDia	Kia	2016-1-10 00:00:00	
+91449	INMOBILIARIA OASIS DEL LIMAR? LTDA	Par	Blanco y negro	Generales	5x2	05	1.428	Publicado	Italo Retamal	arriendo local oasis	2016-1-10 00:00:00	
+92433	AGRICOLA NORTE TALINAY LTDA	Par	Blanco y negro	Generales	5x2	05	1.428	Publicado	Italo Retamal	venta fardos	2016-1-10 00:00:00	
+92572	AGRICOLA NORTE TALINAY LTDA	Par	Blanco y negro	Generales	5x2	05	1.428	Publicado	Italo Retamal	Oferta de empleos	2016-1-10 00:00:00	
+93092	EMPRESA PERIODISTICA EL NORTE S.A.	Par	Cuatricromia	Medios Regionales	10x6	06	158.953	Publicado	Medios Regionales	Soc. Com. Serv. Macal - (1508)	2016-1-10 00:00:00	
+93210	EMPRESA PERIODISTICA EL NORTE S.A.	Par	Blanco y negro	Medios Regionales	4x2	07	11.560	Publicado	Medios Regionales	Empresa de Transp. - Conductores de Buses - (4337)	2016-1-10 00:00:00	
+93176	INVERSIONES AVANZADA LTDA	Par	Blanco y negro	Generales	5x2	07	5.833	Publicado	Jacqueline Torres	campo lindo valle	2016-1-10 00:00:00	
+92820	DABED Y CIA. LTDA., SELIM	Par	Cuatricromia	Generales	6x6	08	23.076	Publicado	Marcela Tello-ElDia	Dabed Motos	2016-1-10 00:00:00	
+93233	HERMANAS CALLEGARI LTDA.	Par	Cuatricromia	Generales	17x6	09	174.777	Publicado	Marcela Tello-ElDia	Ssang Yong	2016-1-10 00:00:00	
+93232	HERMANAS CALLEGARI LTDA.	Par	Cuatricromia	Generales	17x6	11	174.777	Publicado	Marcela Tello-ElDia	MG	2016-1-10 00:00:00	
+93253	CAMAL MUSALEM TAPIA Y CIA.	Par	Blanco y negro	Generales	18x3	12	66.096	Publicado	Marcela Tello-ElDia	Los Mejores Modelos - Toyota	2016-1-10 00:00:00	
+93305	PRENSA DEL LIMARI LTDA.	Par	Blanco y negro	Generales	17x6	14	0	Arte	Marcela Tello-ElDia	www.elovallino.cl	2016-1-10 00:00:00	

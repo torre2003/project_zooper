@@ -1,0 +1,8 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+152925	OVALLE CASINO RESORT S.A	Par	Cuatricromia	Generales	25x4	03	171.372	Publicado	Paola Marquez	Eventos abril OCR	2018-4-1 00:00:00	
+153342	ILUSTRE MUNICIPALIDAD DE MONTE PATR	Par	Blanco y negro	Generales	10x3	05	0	Publicado	Claudio Romero		2018-4-1 00:00:00	
+153251	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	06	0	Arte	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2018-4-1 00:00:00	
+131309	SOCIEDAD MEDICA Y CONSULTORA ESTETI		Cuatricromia	Guia	5x2	08	13.333	Publicado	Maria_Amelia Hermosilla	Diego Polanco	2018-4-1 00:00:00	
+153445	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x6	09	0	Publicado	Marcela Tello-ElDia		2018-4-1 00:00:00	
+153446	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	34x6	13	0	Publicado	Marcela Tello-ElDia		2018-4-1 00:00:00	
+153444	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	8x6	15	0	Publicado	Marcela Tello-ElDia		2018-4-1 00:00:00	

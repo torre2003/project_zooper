@@ -1,0 +1,47 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+97181	CHRISTIAN LAURITZ MARIN	Par	Blanco y negro	Generales	4x2	04	0	Arte	Jacqueline Torres	2016-3-21 00:00:00	
+98279	CLARO CHILE S.A.	Impar	Cuatricromia	Generales	25x5	05	373.600	Publicado	Kathine Soto-Stgo	2016-3-21 00:00:00	
+97220	HABITA INMOBILIARIA SA	Par	Cuatricromia	Generales	34x3	07	0	Publicado	Miguel Apey	2016-3-21 00:00:00	
+98242	MOP OOPP	Par	Blanco y negro	Generales	24x2	08	175.776	Publicado	Marcela Tello-ElDia	2016-3-21 00:00:00	
+97266	INMOBIL. LA SERENA GOLF S.A.	Impar	Cuatricromia	Generales	17x6	11	0	Publicado	Patricia Villena	2016-3-21 00:00:00	
+97217	INVERSIONES E INMOBILIARIA P.A.T.  	Par	Cuatricromia	Generales	10x6	12	0	Publicado	Miguel Apey	2016-3-21 00:00:00	
+96736	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	5x2	13	0	Publicado	Miguel Apey	2016-3-21 00:00:00	
+97682	DIARIO EL DIA	Par	Blanco y negro	Generales	5x2	13	0	Publicado	Marcela Tello-ElDia	2016-3-21 00:00:00	
+96711	LABORATORIO CLINICO STA. MARIA LA S	Par	Blanco y negro	Generales	6x2	13	7.470	Publicado	Miguel Apey	2016-3-21 00:00:00	
+98351	UNIVERSIDAD DE ACONCAGUA	Par	Blanco y negro	Generales	10x3	14	146.480	Publicado	Rene Pizarro	2016-3-21 00:00:00	
+98273	 5ILUSTRE MUNICIPALIDAD DE CANELA	Par	Blanco y negro	Generales	8x3	14	59.764	Publicado	Jacqueline Torres	2016-3-21 00:00:00	
+96792	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	10x3	15	0	Publicado	Marcela Tello-ElDia	2016-3-21 00:00:00	
+96633	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	15	8.306	Publicado	Miguel Apey	2016-3-21 00:00:00	
+98355	Panader			UIP	17x1	18	29.333	Publicado	Rene Pizarro	2016-3-21 00:00:00	
+98281	ESPINOZA MU?OZ IVAN	Par	Blanco y negro	Generales	17x3	18	0	Publicado	Claudio Romero	2016-3-21 00:00:00	
+97816	CIA. MINERA DEL PACIFICO S.A.	Par	Blanco y negro	Generales	17x2	18	99.607	Publicado	Marcela Tello-ElDia	2016-3-21 00:00:00	
+98303	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Cuatricromia	Medios Regionales	6x6	21	178.904	Publicado	Medios Regionales	2016-3-21 00:00:00	
+98041	DIARIO EL DIA	Par	Cuatricromia	Generales	14x6	22	0	Publicado	Marcela Tello-ElDia	2016-3-21 00:00:00	
+96765	DIARIO EL DIA	Par	Cuatricromia	Generales	17x6	26	0	Publicado	Marcela Tello-ElDia	2016-3-21 00:00:00	
+98210	SALINAS Y FABRES S.A.	Impar	Cuatricromia	Generales	17x6	27	251.009	Publicado	M Cristina Puga	2016-3-21 00:00:00	
+98316	ANGELINA ROSSI			UIP	5x2	29	17.875	Publicado	Pedro Jaime	2016-3-21 00:00:00	
+98327	MARIA ALEJANDRA BERRIOS			UIP	5x1	29	8.937	Publicado	Pedro Jaime	2016-3-21 00:00:00	
+97985	gallardo y otro			UIP	5x1	29	8.937	Publicado	Pedro Jaime	2016-3-21 00:00:00	
+97761	DIARIO EL DIA	Par	Blanco y negro	Generales	5x1	29	0	Publicado	Marcela Tello-ElDia	2016-3-21 00:00:00	
+95281	MAURICIO ALEJANDRO BUGUENO CONTRERA	Par	Blanco y negro	Generales	5x1	29	4.468	Publicado	Nadia Randolph	2016-3-21 00:00:00	
+95833	CERNA E HIJOS CIA. LTDA.	Par	Blanco y negro	Generales	5x1	29	4.467	Publicado	Nadia Randolph	2016-3-21 00:00:00	
+96664	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	4x5	29	20.508	Publicado	Miguel Apey	2016-3-21 00:00:00	
+96847	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	29	0	Publicado	Marcela Tello-ElDia	2016-3-21 00:00:00	
+96959	DIARIO EL DIA	Par	Blanco y negro	Generales	5x2	29	0	Publicado	Marcela Tello-ElDia	2016-3-21 00:00:00	
+97005	ARMAQ			UIP	5x1	29	8.937	Publicado	Claudio Romero	2016-3-21 00:00:00	
+97063	SOC. DE GESTION MEDITERRANEA			UIP	5x1	29	8.937	Publicado	Miguel Apey	2016-3-21 00:00:00	
+97360	SOC. COMERCIAL ALCAPARRA LTDA.	Par	Blanco y negro	Generales	5x2	29	10.440	Publicado	Patricia Villena	2016-3-21 00:00:00	
+97578	AUTOMOTORES DEL NORTE	Par	Blanco y negro	Generales	5x1	29	7.427	Publicado	Miguel Apey	2016-3-21 00:00:00	
+97148	SERVICIOS GENERALES GUAYACAN S.A	Par	Blanco y negro	Generales	4x2	30	6.452	Publicado	Jacqueline Torres	2016-3-21 00:00:00	
+98032	BANCO DE CHILE	Impar	Cuatricromia	Generales	35x6	32	881.786	Publicado	Patricia Villena	2016-3-21 00:00:00	
+98194	NAZARIO NELSON ESPINOZA GONZALEZ	Par	Blanco y negro	Generales	7x3	EC-19	0	Publicado	Miguel Apey	2016-3-21 00:00:00	
+98291	DIARIO EL DIA	Par	Blanco y negro	Generales	5x2	EC-19	0	Publicado	Marcela Tello-ElDia	2016-3-21 00:00:00	
+98284	SOCIEDAD ALLTIME	Par	Blanco y negro	Generales	3x2	EC-19	21.972	Publicado	Pedro Jaime	2016-3-21 00:00:00	
+94801	HOTELERIA LUIS ALBERTO BERETTA KIEK	Par	Blanco y negro	Generales	5x2	EC-20	8.937	Publicado	Patricia Villena	2016-3-21 00:00:00	
+96923	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Generales	5x1	EC-20	5.860	Publicado	Rene Pizarro	2016-3-21 00:00:00	
+98028	UNIVERSIDAD DE LA SERENA	Impar	Cuatricromia	Insercion	35x6	EU-01	1.624.328	Publicado	Jacqueline Torres	2016-3-21 00:00:00	
+98031	MUTUAL DE SEGURIDAD C.CH.C.	Impar	Cuatricromia	Ed.Especial	17x6	EU-03	395.338	Publicado	Jacqueline Torres	2016-3-21 00:00:00	
+98231	AGROPLASTIC LTDA.	Impar	Cuatricromia	Generales	17x3	EU-06	300.000	Publicado	Claudio Romero	2016-3-21 00:00:00	
+98274	MINERA LOS PELAMBRES	Impar	Cuatricromia	Ed.Especial	35x3	EU-07	645.977	Publicado	Jacqueline Torres	2016-3-21 00:00:00	
+98376	MARTIN JURE PATRICIA	Par	Cuatricromia	Generales	10x6	EU-10	0	Publicado	Marcela Tello-ElDia	2016-3-21 00:00:00	
+98313	FUNDACION INVECC	Par	Blanco y negro	Ed.Especial	10x6	EU-11	186.762	Publicado	Jacqueline Torres	2016-3-21 00:00:00	

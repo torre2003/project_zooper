@@ -1,0 +1,8 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+93964	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	10x3	05	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2016-1-28 00:00:00	
+92451	AGRICOLA NORTE TALINAY LTDA	Par	Blanco y negro	Generales	5x2	07	1.428	Publicado	Italo Retamal	venta fardos	2016-1-28 00:00:00	
+92590	AGRICOLA NORTE TALINAY LTDA	Par	Blanco y negro	Generales	5x2	07	1.428	Publicado	Italo Retamal	Oferta de empleos	2016-1-28 00:00:00	
+93048	dominga			UIP	10x2	07	3.378	Publicado	Leonel Pizarro-Ovalle	laboratorio clinico	2016-1-28 00:00:00	
+94547	FERNANDO SANCHEZ			UIP	5x2	10	2.808	Publicado	Leonel Pizarro-Ovalle	AGUAS SUBTERRANEAS	2016-1-28 00:00:00	
+94607	PRENSA DEL LIMARI LTDA.	Par	Blanco y negro	Generales	17x6	14	0	Arte	Marcela Tello-ElDia		2016-1-28 00:00:00	
+93051	DABED Y CIA. LTDA., SELIM		1 pag.	Inserto	x	INS	124.235	Publicado	Marcela Tello-ElDia	Venta de 1.760 diario El Ovallino	2016-1-28 00:00:00	

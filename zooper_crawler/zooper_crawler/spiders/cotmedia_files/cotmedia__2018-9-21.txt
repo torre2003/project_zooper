@@ -1,0 +1,40 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+163980	CENTRO DE EDUC.CAP.Y FORMACION LABO	Par	Blanco y negro	Generales	20x3	07	0	Arte	Jacqueline Torres	2018-9-21 00:00:00	
+163994	DIARIO EL DIA	Par	Cuatricromia	Generales	6x6	08	0	Arte	Marcela Tello-ElDia	2018-9-21 00:00:00	
+163759	DIARIO EL DIA	Par	Cuatricromia	Generales	12x6	09	0	Publicado	Marcela Tello-ElDia	2018-9-21 00:00:00	
+163995	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	11	0	Arte	Marcela Tello-ElDia	2018-9-21 00:00:00	
+163867	BUALE GRUP LTDA.	Par	Cuatricromia	Generales	17x3	11	60.000	Publicado	Claudio Romero	2018-9-21 00:00:00	
+163735	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	8x2	13	36.528	Arte	Medios Regionales	2018-9-21 00:00:00	
+162686	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	13	8.306	Publicado	Miguel Apey	2018-9-21 00:00:00	
+163834	UNIVERSIDAD DE LA SERENA	Par	Blanco y negro	Generales	10x2	13	42.113	Publicado	Jacqueline Torres	2018-9-21 00:00:00	
+163778	ARZOBISPADO DE LA SERENA	Par	Blanco y negro	Generales	10x2	13	0	Publicado	Marcela Tello-ElDia	2018-9-21 00:00:00	
+162721	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	4x5	14	20.508	Publicado	Miguel Apey	2018-9-21 00:00:00	
+162414	C.M. SOC. GASTRONOMICA LTDA.			UIP	5x2	14	7.208	Publicado		2018-9-21 00:00:00	
+162450	SOC. DE GES			UIP	5x1	14	8.937	Publicado	Miguel Apey	2018-9-21 00:00:00	
+162541	ARMAQ SUBIRI S.A.			UIP	5x1	14	8.937	Publicado	Claudio Romero	2018-9-21 00:00:00	
+162972	INVERSIONES ALTA CRUZ LTDA	Par	Blanco y negro	Generales	5x2	14	0	Publicado	Marcela Tello-ElDia	2018-9-21 00:00:00	
+163071	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	5x2	14	0	Publicado	Miguel Apey	2018-9-21 00:00:00	
+163996	DIARIO EL DIA	Par	Cuatricromia	Generales	17x6	16	0	Arte	Marcela Tello-ElDia	2018-9-21 00:00:00	
+162784	CONSTRUCTORA CADEL LTDA.	Par	Cuatricromia	Generales	17x6	17	0	Publicado	Rene Pizarro	2018-9-21 00:00:00	
+163921	CLUB DE DEPORTES LA SERENA	Par	Cuatricromia	Generales	17x3	22	0	Publicado	Marcela Tello-ElDia	2018-9-21 00:00:00	
+163989	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	10x2	22	0	Arte	Medios Regionales	2018-9-21 00:00:00	
+163240	CAMPOS DEL NORTE S.A.	Par	Cuatricromia	Generales	17x3	25	0	Publicado	Patricia Villena	2018-9-21 00:00:00	
+163262	PAMELA B. GONZALEZ LIZAMA COMERCIAL	Par	Blanco y negro	Generales	5x2	26	0	Publicado	Marcela Tello-ElDia	2018-9-21 00:00:00	
+162987	PILLA LA VACA	Par	Cuatricromia	Generales	5x2	26	0	Publicado	Marcela Tello-ElDia	2018-9-21 00:00:00	
+162882	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	26	0	Publicado	Marcela Tello-ElDia	2018-9-21 00:00:00	
+162838	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	26	0	Publicado	Marcela Tello-ElDia	2018-9-21 00:00:00	
+162818	SOC. HOTELERA VICHUQUEN LTDA.	Par	Cuatricromia	Generales	5x3	26	0	Publicado	Marcela Tello-ElDia	2018-9-21 00:00:00	
+163013	MARTIN JURE PATRICIA	Par	Cuatricromia	Generales	5x3	26	0	Publicado	Marcela Tello-ElDia	2018-9-21 00:00:00	
+163623	ILUSTRE MUNICIPALIDAD DE COQUIMBO	Par	Blanco y negro	Generales	10x6	27	153.804	Publicado	Miguel Apey	2018-9-21 00:00:00	
+163696	DIARIO EL DIA	Par	Cuatricromia	Generales	34x6	28	0	Publicado	Marcela Tello-ElDia	2018-9-21 00:00:00	
+163979	MARIA ISABEL V?SQUEZ HUIDOBRO	Par	Blanco y negro	Generales	10x3	29	67.015	Publicado	Pedro Jaime	2018-9-21 00:00:00	
+163999	DIARIO EL DIA	Par	Blanco y negro	Generales	4x4	29	0	Arte	Marcela Tello-ElDia	2018-9-21 00:00:00	
+163977	SANTANDER G.R.C.	643 Palabras		Legal	x	EC	159.664	Publicado	Pedro Jaime	2018-9-21 00:00:00	
+163976	SANTANDER G.R.C.	643 Palabras		Legal	x	EC	159.664	Publicado	Pedro Jaime	2018-9-21 00:00:00	
+163997	DIARIO EL DIA	Par	Blanco y negro	Generales	10x6	EC-18	0	Arte	Marcela Tello-ElDia	2018-9-21 00:00:00	
+163440	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	6x2	EC-18	27.396	Arte	Medios Regionales	2018-9-21 00:00:00	
+163974	GONZALEZ ADAROS MARIA SOLEDAD	Par	Blanco y negro	Generales	4x2	EC-18	27.731	Publicado	Pedro Jaime	2018-9-21 00:00:00	
+162805	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Generales	5x2	EC-19	7.003	Publicado	Rene Pizarro	2018-9-21 00:00:00	
+163998	DIARIO EL DIA	Par	Blanco y negro	Generales	17x6	EC-19	0	Arte	Marcela Tello-ElDia	2018-9-21 00:00:00	
+152206	HOTELERIA LUIS ALBERTO BERETTA KIEK	Par	Blanco y negro	Generales	5x2	EC-19	6.061	Publicado	Patricia Villena	2018-9-21 00:00:00	
+163990	COMUNICACION PUENTE LTDA.	Home	Banner Cabecera	Web	x	WEB	700.000	Publicado	Kathine Soto-Stgo	2018-9-21 00:00:00	

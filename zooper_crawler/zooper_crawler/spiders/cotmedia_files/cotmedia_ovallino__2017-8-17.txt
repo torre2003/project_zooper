@@ -1,0 +1,11 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+136504	OMD CHILE S.P.A.	Impar	Cuatricromia	Generales	35x6	03	445.386	Publicado	Patricia Villena		2017-8-17 00:00:00	
+136628	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	6x3	04	0	Arte	Marcela Tello-ElDia		2017-8-17 00:00:00	
+135632	INMOBILIARIA NUEVA SERENA			UIP	10x6	05	16.260	Publicado	Claudio Romero	LLANAOS DE SAN LUIS	2017-8-17 00:00:00	
+136648	PRENSA DEL LIMARI LTDA.	Par	Blanco y negro	Generales	17x6	07	0	Arte	Marcela Tello-ElDia		2017-8-17 00:00:00	
+135091	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	08	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2017-8-17 00:00:00	
+135986	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x3	09	0	Publicado	Marcela Tello-ElDia		2017-8-17 00:00:00	
+136345	FERNANDO YOANOVICH			UIP	5x2	10	2.247	Publicado	Karina Rivera	TAROT SRA SOFIA	2017-8-17 00:00:00	
+136544	ILUSTRE MUNICIPALIDAD DE MONTE PATR	Par	Cuatricromia	Generales	13x4	11	0	Arte	Karina Rivera	EXPO LANAS MONTE PATRIA	2017-8-17 00:00:00	
+136649	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	6x6	14	0	Arte	Marcela Tello-ElDia		2017-8-17 00:00:00	
+136096	DIARIO EL DIA	Par	Cuatricromia	Generales	35x6	16	0	Publicado	Patricia Villena	Expo Horeca	2017-8-17 00:00:00	

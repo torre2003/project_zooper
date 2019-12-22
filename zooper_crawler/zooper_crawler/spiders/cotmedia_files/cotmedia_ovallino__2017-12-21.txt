@@ -1,0 +1,10 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+145182	SOCIEDAD DE RENTAS FALABELLA S.A	Par	Cuatricromia	Generales	8x6	01	50.980	Publicado	M Cristina Puga	HUINCHA PORTADAOpen Plaza - 	2017-12-21 00:00:00	
+145621	INMOBILIARIA NUEVA SERENA			UIP	10x6	05	16.260	Publicado	Claudio Romero	LLANOS DE SAN LUIS..CASAS.....	2017-12-21 00:00:00	
+144408	AGRICOLA NORTE TALINAY LTDA	Par	Blanco y negro	Generales	5x2	07	1.666	Publicado	Paola Marquez	UIP VENTA ALFALFA	2017-12-21 00:00:00	
+145598	LUIS MUNDACA URQUIETA			UIP	10x2	07	5.630	Publicado	Claudio Romero	COMERCIAL MUNDACA ( NUEVO)	2017-12-21 00:00:00	
+145089	UNIVERSIDAD BOLIVARIANA			UIP	10x2	09	7.882	Publicado	Karina Rivera	VALLE CENTRAL Y BOLIVARIANA	2017-12-21 00:00:00	
+145684	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	11	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2017-12-21 00:00:00	
+145992	VELIZ CORTES JOSE A.			UIP	5x2	14	4.695	Publicado	Pedro Cortes		2017-12-21 00:00:00	
+146436	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	6x6	14	0	Publicado	Marcela Tello-ElDia		2017-12-21 00:00:00	
+146242	EMPRESAS LA POLAR S.A.	Impar	Cuatricromia	Generales	35x6	16	0	Arte	Patricia Villena		2017-12-21 00:00:00	

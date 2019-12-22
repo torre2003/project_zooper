@@ -1,0 +1,15 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+163132	CAMPOS DEL NORTE S.A.	Par	Cuatricromia	Generales	5x6	01	23.333	Publicado	Patricia Villena	Franja Enjoy Portada EL Ovallino	2018-9-14 00:00:00	
+163829	EMPRESA PERIODISTICA EL NORTE S.A.	Par	Cuatricromia	Medios Regionales	32x6	03	367.130	Arte	Medios Regionales		2018-9-14 00:00:00	
+163850	PRENSA DEL LIMARI LTDA.	Par	Blanco y negro	Generales	9x6	04	0	Arte	Marcela Tello-ElDia		2018-9-14 00:00:00	
+163851	PRENSA DEL LIMARI LTDA.	Par	Blanco y negro	Generales	10x4	05	0	Arte	Marcela Tello-ElDia	Nos trasladamos para ofrecerles un mejor servicio... El Ovallino	2018-9-14 00:00:00	
+163457	ASOCIACION DE CANALISTA CANAL PALQU	Par	Blanco y negro	Generales	10x2	05	47.080	Publicado	Karina Rivera	CITACION CANALISTAS PALQUI	2018-9-14 00:00:00	
+163852	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	6x6	06	0	Arte	Marcela Tello-ElDia		2018-9-14 00:00:00	
+163627	HANNA JARUFE HAUNE	Par	Cuatricromia	Generales	10x3	08	35.000	Publicado	Claudio Romero	SALUDO FIESTAS PATRIAS	2018-9-14 00:00:00	
+163726	EMPRESA PERIODISTICA EL NORTE S.A.	Par	Cuatricromia	Medios Regionales	32x6	09	367.130	Arte	Medios Regionales		2018-9-14 00:00:00	
+163812	ASOC. CANALISTAS CANAL CAMARICO	Par	Blanco y negro	Generales	10x2	10	47.080	Publicado	Karina Rivera	JUNTA CANALISTAS CANAL CAMARICO	2018-9-14 00:00:00	
+162577	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	12x3	11	16.065	Publicado	Claudio Romero	Muebles alpina..	2018-9-14 00:00:00	
+163819	JAVIER RIVERA	Par	Blanco y negro	Generales	10x2	14	37.664	Publicado	Karina Rivera	AGRADECIMIENTOS FAMILIA RIVERA	2018-9-14 00:00:00	
+162867	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	14	0	Arte	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2018-9-14 00:00:00	
+163584	EMPRESAS LA POLAR S.A.	Par	Cuatricromia	Contraportada	35x6	16	252.000	Publicado	Patricia Villena	Contraportada La Polar	2018-9-14 00:00:00	
+162610	INMOBILIARIA SERENA DOS S.P.A	Home	Banner Cabecera	Web	0x0	WEB	150.000	Publicado		Banners Ovallino I serena	2018-9-14 00:00:00	

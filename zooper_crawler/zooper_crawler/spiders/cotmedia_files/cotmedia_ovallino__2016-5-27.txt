@@ -1,0 +1,11 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+102342	AUTOMOTRIZ CARMONA	Par	Cuatricromia	Generales	6x6	01	23.076	Publicado	Marcela Tello-ElDia	Nissan NP300 - Portada (si hay disponibilidad)	2016-5-27 00:00:00	
+103408	INMOBILIARIA RENVAL SPA	Par	Cuatricromia	Generales	34x6	03	0	Publicado	Rene Pizarro		2016-5-27 00:00:00	
+102633	DABED Y CIA. LTDA., SELIM	Par	Cuatricromia	Generales	6x6	06	23.076	Publicado	Nadia Randolph	herramientas	2016-5-27 00:00:00	
+101606	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	07	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2016-5-27 00:00:00	
+101455	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	6x6	08	16.065	Publicado	Claudio Romero	Muebles Alpina	2016-5-27 00:00:00	
+100226	SOC HOTELERA Y DE TURISMO HACIENDA 	Par	Cuatricromia	Generales	5x6	09	11.299	Publicado	Patricia Villena	Hacienda Juntas	2016-5-27 00:00:00	
+100875	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	15x6	11	0	Publicado	Marcela Tello-ElDia	Cupones Cinemark	2016-5-27 00:00:00	
+103461	TOMAS			UIP	10x6	12	16.260	Publicado	Claudio Romero	DIPLOMADOS DE MEDIACION FAMILIAR	2016-5-27 00:00:00	
+103399	CORP. JUAN SUBERCASEAUX	Par	Blanco y negro	Generales	7x2	13	32.956	Publicado	Claudio Romero	COLEGIO AMALIA ERRAZURIZ....REQUIERE....	2016-5-27 00:00:00	
+103418	EMPRESAS LA POLAR S.A.	Impar	Cuatricromia	Generales	35x6	16	252.000	Publicado	Patricia Villena	La Polar	2016-5-27 00:00:00	

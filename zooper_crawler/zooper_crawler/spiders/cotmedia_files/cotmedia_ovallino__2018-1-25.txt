@@ -1,0 +1,15 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+147337	SOCIEDAD DE RENTAS FALABELLA S.A	Par	Cuatricromia	Generales	8x6	03	50.980	Publicado	M Cristina Puga	HUINCHA Open Plaza - primera impar	2018-1-25 00:00:00	
+149101	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	6x6	04	0	Publicado	Marcela Tello-ElDia		2018-1-25 00:00:00	
+148555	INMOBILIARIA NUEVA SERENA			UIP	10x6	05	16.260	Publicado	Claudio Romero	proyecto empresa serena.(.2 AVISOS NUEVO)" DEPARTAMENTOS.".." CASAS"...ALTERNAR LOS AVISOS TODOS LOS	2018-1-25 00:00:00	
+147246	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	06	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2018-1-25 00:00:00	
+148710	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	6x3	08	0	Publicado	Marcela Tello-ElDia	Convenio Dabed	2018-1-25 00:00:00	
+147605	SOCIEDAD EDUCACIONL GALLARDO Y FIGU			UIP	10x2	09	6.306	Publicado	Karina Rivera	CENTRO DE FORMACION MATEMATICA	2018-1-25 00:00:00	
+147809	UNIVERSIDAD BOLIVARIANA			UIP	5x4	09	5.630	Publicado	Karina Rivera	U. Bolivariana y V. Central	2018-1-25 00:00:00	
+147673	AGRICOLA NORTE TALINAY LTDA	Par	Blanco y negro	Generales	5x2	10	1.666	Publicado	Paola Marquez	UIP VENTA ALFALFA	2018-1-25 00:00:00	
+148375	INVERSIONES TANGUEMAR LIMITADA			UIP	5x2	10	2.808	Publicado	Patricia Villena	Tanguemar 2	2018-1-25 00:00:00	
+147774	CL?NICA VETERINARIA LOS MANCOS LTDA			UIP	10x2	11	5.630	Publicado	Karina Rivera	CLINICA VETERINARIA 	2018-1-25 00:00:00	
+148905	ILUSTRE MUNICIPALIDAD DE RIO HURTAD			UIP	10x2	11	7.093	Publicado	Karina Rivera	FIESTA COSTUMBRISTA	2018-1-25 00:00:00	
+149108	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	5x6	14	0	Publicado	Marcela Tello-ElDia	Cupones de Descuentos - Cinemark	2018-1-25 00:00:00	
+147872	VELIZ CORTES JOSE A.			UIP	5x2	14	4.695	Publicado	Pedro Cortes		2018-1-25 00:00:00	
+148310	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	34x6	16	0	Publicado	Marcela Tello-ElDia		2018-1-25 00:00:00	

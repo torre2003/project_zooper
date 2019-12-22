@@ -1,0 +1,10 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+141635	DABED Y CIA. LTDA., SELIM	Par	Cuatricromia	Generales	6x6	01	23.076	Publicado	Karina Rivera	PROMO TALADROS	2017-10-29 00:00:00	
+141941	OMD CHILE S.P.A.	Impar	Cuatricromia	Generales	35x6	03	668.079	Publicado	Patricia Villena		2017-10-29 00:00:00	
+140607	ESTUDIO JURIDICO OLIVARES Y CIA. SP	Par	Blanco y negro	Generales	5x2	07	2.000	Publicado	Jacqueline Torres	ESTUDIO JURIDICO OLIVARES	2017-10-29 00:00:00	
+141751	ACADEMIA DE GIMNASIO INTEGRAL FIT L	Par	Cuatricromia	Generales	17x3	08	0	Publicado	Miguel Apey	gimnasio sportlife	2017-10-29 00:00:00	
+131287	SOCIEDAD MEDICA Y CONSULTORA ESTETI		Cuatricromia	Guia	5x2	09	13.333	Publicado	Maria_Amelia Hermosilla	Diego Polanco	2017-10-29 00:00:00	
+139504	OVALLE CASINO RESORT S.A	Par	Cuatricromia	Generales	25x4	09	171.372	Publicado	Paola Marquez	OCR Eventos Octubre	2017-10-29 00:00:00	
+142210	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	34x6	11	0	Arte	Marcela Tello-ElDia	Por un verano sin polera - Susbribete a Diario El Ovallino	2017-10-29 00:00:00	
+140215	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	14	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2017-10-29 00:00:00	
+140934	VELIZ CORTES JOSE A.			UIP	5x2	14	3.919	Publicado	Pedro Cortes		2017-10-29 00:00:00	

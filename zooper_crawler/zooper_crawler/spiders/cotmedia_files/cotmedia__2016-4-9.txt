@@ -1,0 +1,58 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+99401	CHRISTIAN LAURITZ MARIN	Par	Blanco y negro	Generales	4x2	04	6.452	Publicado	Jacqueline Torres	2016-4-9 00:00:00	
+99738	MELON HORMIGONES S.A.	Impar	Cuatricromia	Generales	34x6	05	967.009	Publicado	Pedro Jaime	2016-4-9 00:00:00	
+99801	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Cuatricromia	Medios Regionales	16x3	07	214.064	Publicado	Medios Regionales	2016-4-9 00:00:00	
+99767	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	10x2	07	47.260	Publicado	Medios Regionales	2016-4-9 00:00:00	
+99748	UNIVERSIDAD TECNOLOGICA DE CHILE	Par	Blanco y negro	Generales	17x6	09	0	Publicado	Patricia Villena	2016-4-9 00:00:00	
+99723	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	6x2	10	28.356	Publicado	Medios Regionales	2016-4-9 00:00:00	
+99727	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	6x2	10	28.356	Publicado	Medios Regionales	2016-4-9 00:00:00	
+99803	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	6x2	10	28.356	Publicado	Medios Regionales	2016-4-9 00:00:00	
+98811	BAKULIC RESTAURANT	Par	Cuatricromia	Generales	10x2	11	40.092	Publicado	Miguel Apey	2016-4-9 00:00:00	
+99633	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	11	0	Publicado	Marcela Tello-ElDia	2016-4-9 00:00:00	
+99039	SONIA NATALIA TUPAYACHI MU?OZ	Par	Cuatricromia	Generales	12x2	12	0	Publicado	Marcela Tello-ElDia	2016-4-9 00:00:00	
+98738	SINDY GONZALEZ MARCHANT	Par	Blanco y negro	Generales	12x2	12	0	Publicado	Marcela Tello-ElDia	2016-4-9 00:00:00	
+99798	SERV. VIVIENDA Y URBANIZACION IV RE	Par	Blanco y negro	Generales	10x2	13	58.989	Publicado	Marcela Tello-ElDia	2016-4-9 00:00:00	
+99533	SERV. VIVIENDA Y URBANIZACION IV RE	Par	Blanco y negro	Generales	10x2	13	58.989	Publicado	Marcela Tello-ElDia	2016-4-9 00:00:00	
+97701	DIARIO EL DIA	Par	Blanco y negro	Generales	5x2	13	0	Publicado	Marcela Tello-ElDia	2016-4-9 00:00:00	
+98981	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	5x2	13	0	Publicado	Miguel Apey	2016-4-9 00:00:00	
+99750	SERV. VIVIENDA Y URBANIZACION IV RE	Par	Blanco y negro	Generales	10x2	14	58.989	Publicado	Marcela Tello-ElDia	2016-4-9 00:00:00	
+99658	SOC. DE INVERSIONES LAS VEGAS LTDA.	Par	Blanco y negro	Generales	34x3	14	0	Publicado	Marcela Tello-ElDia	2016-4-9 00:00:00	
+98853	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	15	8.306	Publicado	Miguel Apey	2016-4-9 00:00:00	
+99698	DIARIO EL DIA	Par	Cuatricromia	Generales	35x6	23	0	Publicado	Carolina Naranjo	2016-4-9 00:00:00	
+99071	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	27	0	Publicado	Marcela Tello-ElDia	2016-4-9 00:00:00	
+98826	SOC. DE GESTION MEDITERRANEA			UIP	5x1	28	8.937	Publicado	Miguel Apey	2016-4-9 00:00:00	
+99466	maquinaria 			UIP	17x1	28	29.333	Publicado	Rene Pizarro	2016-4-9 00:00:00	
+98945	arma			UIP	5x1	28	8.937	Publicado	Claudio Romero	2016-4-9 00:00:00	
+99524	AREVALO CARMEN 			UIP	5x1	28	8.937	Publicado	Pedro Jaime	2016-4-9 00:00:00	
+95850	CERNA E HIJOS CIA. LTDA.	Par	Blanco y negro	Generales	5x1	28	4.467	Publicado	Nadia Randolph	2016-4-9 00:00:00	
+98883	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	4x5	29	20.508	Publicado	Miguel Apey	2016-4-9 00:00:00	
+99559	Diario 			UIP	5x1	29	0	Publicado	M Cristina Puga	2016-4-9 00:00:00	
+99130	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	29	0	Publicado	Marcela Tello-ElDia	2016-4-9 00:00:00	
+99153	PILLA LA VACA	Par	Blanco y negro	Generales	5x2	29	0	Publicado	Marcela Tello-ElDia	2016-4-9 00:00:00	
+99188	DIARIO EL DIA	Par	Blanco y negro	Generales	5x2	29	0	Publicado	Marcela Tello-ElDia	2016-4-9 00:00:00	
+95298	MAURICIO ALEJANDRO BUGUENO CONTRERA	Par	Blanco y negro	Generales	5x1	29	4.468	Publicado	Nadia Randolph	2016-4-9 00:00:00	
+99474	rossi ANGELINA			UIP	5x2	29	17.875	Publicado	Pedro Jaime	2016-4-9 00:00:00	
+98705	SOC. COMERCIAL ALCAPARRA LTDA.	Par	Blanco y negro	Generales	5x2	29	10.440	Publicado	Patricia Villena	2016-4-9 00:00:00	
+99832	SOC. EDUCACIONAL GERONIMO RENDIC LT	Par	Blanco y negro	Generales	5x2	30	25.210	Publicado	Jacqueline Torres	2016-4-9 00:00:00	
+99833	SOC. EDUCACIONAL GERONIMO RENDIC LT	Par	Blanco y negro	Generales	5x2	30	25.210	Publicado	Jacqueline Torres	2016-4-9 00:00:00	
+99789	MARIO THOMAS	Par	Blanco y negro	Generales	12x2	30	62.665	Publicado	Pedro Jaime	2016-4-9 00:00:00	
+99834	SOC. EDUCACIONAL GERONIMO RENDIC LT	Par	Blanco y negro	Generales	5x2	30	25.210	Publicado	Jacqueline Torres	2016-4-9 00:00:00	
+99774	COLEGIO ELENA BETTINI	Par	Blanco y negro	Generales	17x3	30	0	Publicado	Pedro Jaime	2016-4-9 00:00:00	
+99868	SOC. EDUCACIONAL SAN GUILLERMO LTDA	Par	Blanco y negro	Generales	5x2	30	25.210	Publicado	Miguel Apey	2016-4-9 00:00:00	
+99372	SERVICIOS GENERALES GUAYACAN S.A	Par	Blanco y negro	Generales	4x2	30	6.452	Publicado	Jacqueline Torres	2016-4-9 00:00:00	
+92221	FALABELLA RETAIL S.A.	Impar	Cuatricromia	Contraportada	35x6	32	600.000	Publicado	M Cristina Puga	2016-4-9 00:00:00	
+99332	INMOBIL. ITALIA LTDA.	Par	Blanco y negro	Generales	4x2	EC-17	26.953	Publicado	Marcela Tello-ElDia	2016-4-9 00:00:00	
+99498	DIARIO EL DIA	Par	Blanco y negro	Generales	5x2	EC-17	0	Publicado	Marcela Tello-ElDia	2016-4-9 00:00:00	
+99754	SOC. EDUCACIONAL SAN GUILLERMO LTDA	Par	Blanco y negro	Generales	4x2	EC-18	23.584	Publicado	Miguel Apey	2016-4-9 00:00:00	
+99641	GUILLERMO JAIME	Par	Blanco y negro	Generales	2x2	EC-18	13.477	Publicado	Pedro Jaime	2016-4-9 00:00:00	
+99809	CIA. DE LEASING TATTERSALL S.A.	Par	Blanco y negro	Generales	11x2	EC-18	69.487	Publicado	Pedro Jaime	2016-4-9 00:00:00	
+99841	SERVICIOS DE TRANSPORTES DE PASAJER	Par	Blanco y negro	Generales	7x2	EC-19	53.063	Publicado	Miguel Apey	2016-4-9 00:00:00	
+99786	ASOCIACION GREMIAL DE TRANSPORTES L	Par	Blanco y negro	Generales	7x2	EC-19	53.063	Publicado	Miguel Apey	2016-4-9 00:00:00	
+99874	AXIOMA INGENIEROS CONSULTORES S.A	Par	Blanco y negro	Generales	4x2	EC-19	33.691	Publicado	Pedro Jaime	2016-4-9 00:00:00	
+99530	AREVALO CARMEN			UIP	5x1	EC-20	8.937	Publicado	Pedro Jaime	2016-4-9 00:00:00	
+99229	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Generales	5x1	EC-20	5.860	Publicado	Rene Pizarro	2016-4-9 00:00:00	
+94818	HOTELERIA LUIS ALBERTO BERETTA KIEK	Par	Blanco y negro	Generales	5x2	EC-20	8.937	Publicado	Patricia Villena	2016-4-9 00:00:00	
+99799	INMOBIL. PAN DE AZUCAR	Par	Blanco y negro	Generales	8x2	EC-20	33.691	Publicado	Marcela Tello-ElDia	2016-4-9 00:00:00	
+99804	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	10x3	EC-20	70.890	Publicado	Medios Regionales	2016-4-9 00:00:00	
+99616	Easy Retail S.A.			Inserto	x	INS	981.750	Publicado	Patricia Villena	2016-4-9 00:00:00	
+99713	RODRIGUEZ ROJAS MARCELO	910 Palabras		Propiedades	x	PROP	145.600	Publicado	Pedro Jaime	2016-4-9 00:00:00	

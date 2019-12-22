@@ -1,0 +1,19 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+88777	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	15x6	03	0	Publicado	Marcela Tello-ElDia	HAROLD MAYNE NICHOLLS	2015-11-13 00:00:00	
+88260	SOCIEDAD COMERCIAL KATANKURA LTDA	Par	Cuatricromia	Generales	6x6	04	25.000	Publicado	Italo Retamal	evento katankura 	2015-11-13 00:00:00	
+88048	JOSE CONTADOR DURAN	Par	Blanco y negro	Generales	5x2	05	1.428	Publicado	Italo Retamal	arriendo local	2015-11-13 00:00:00	
+87047	BIANCA DASOLI	Par	Blanco y negro	Generales	5x2	05	1.429	Publicado	Italo Retamal	tarot	2015-11-13 00:00:00	
+87066	linea			UIP	10x2	05	5.630	Publicado	Italo Retamal	seguridad 	2015-11-13 00:00:00	
+87149	socinget			UIP	10x2	05	5.630	Publicado	Italo Retamal		2015-11-13 00:00:00	
+87318	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	6x6	06	16.065	Publicado	Claudio Romero	Muebles Alpina	2015-11-13 00:00:00	
+87716	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	10x3	07	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2015-11-13 00:00:00	
+88914	SANDRA PAOLA 			UIP	10x2	07	5.630	Publicado	Italo Retamal	BRISTO Y BAR 	2015-11-13 00:00:00	
+88234	DABED Y CIA. LTDA., SELIM	Impar	Cuatricromia	Generales	6x6	09	23.077	Publicado	Italo Retamal	EDO_1	2015-11-13 00:00:00	
+88693	ADA D?AZ ARAYA	Par	Blanco y negro	Generales	5x2	10	1.428	Publicado	Italo Retamal	zona ganjah	2015-11-13 00:00:00	
+81412	tanguemar			UIP	5x2	10	2.808	Publicado	Patricia Villena	Tanguemar	2015-11-13 00:00:00	
+88938	SINDICATO INDEPENDIENTE DE DUE?OS D	Par	Blanco y negro	Generales	17x6	11	120.054	Publicado	Italo Retamal	publi taxi secotec	2015-11-13 00:00:00	
+88927	EMPRESA DE SERVICIOS VALENTINA LORE	Impar	Cuatricromia	Generales	12x3	13	71.185	Publicado	Italo Retamal		2015-11-13 00:00:00	
+88999	ILUSTRE MUNICIPALIDAD DE OVALLE	Impar	Cuatricromia	Generales	12x3	13	83.333	Publicado	Italo Retamal	5 carnaval primavera 	2015-11-13 00:00:00	
+87965	AUTOMOTRIZ CARMONA	Par	Cuatricromia	Generales	17x3	14	23.076	Publicado	Marcela Tello-ElDia	Nissan - Servicio Gratuito en Automotriz Carmona	2015-11-13 00:00:00	
+86764	ILUSTRE MUNICIPALIDAD DE MONTE PATR	Par	Cuatricromia	Generales	12x2	14	39.548	Publicado	Italo Retamal	muni monte	2015-11-13 00:00:00	
+88659	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	34x6	16	0	Publicado	Marcela Tello-ElDia	CONCIERTO ROMEO SANTOS	2015-11-13 00:00:00	

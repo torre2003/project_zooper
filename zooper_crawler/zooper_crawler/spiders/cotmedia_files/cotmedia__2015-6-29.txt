@@ -1,0 +1,50 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+76918	CHRISTIAN LAUNITZ MARIN SERVICIOS M	Par	Blanco y negro	Generales	3x2	04	7.290	Publicado	Jacqueline Torres	2015-6-29 00:00:00	
+78253	BANCO ESTADO DE CHILE	Impar	Cuatricromia	Generales	35x6	05	645.977	Publicado	Kathine Soto-Stgo	2015-6-29 00:00:00	
+77059	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	10x3	07	0	Publicado	Marcela Tello-ElDia	2015-6-29 00:00:00	
+78831	HABITA INMOBILIARIA SA	Par	Blanco y negro	Generales	8x2	07	52.733	Publicado	Miguel Apey	2015-6-29 00:00:00	
+78470	INMOBILIARIA OVCO	Par	Cuatricromia	Generales	10x6	08	0	Publicado	Miguel Apey	2015-6-29 00:00:00	
+78795	CLARO CHILE S.A.	Impar	Cuatricromia	Generales	35x6	09	0	Publicado	Kathine Soto-Stgo	2015-6-29 00:00:00	
+78822	HABITA INMOBILIARIA SA	Par	Blanco y negro	Generales	8x2	10	52.733	Publicado	Miguel Apey	2015-6-29 00:00:00	
+76587	LABORATORIO CLINICO STA. MARIA LA S	Par	Blanco y negro	Generales	6x2	10	7.470	Publicado	Miguel Apey	2015-6-29 00:00:00	
+78696	SINDY GONZALEZ MARCHANT	Par	Blanco y negro	Generales	8x2	10	0	Publicado	Marcela Tello-ElDia	2015-6-29 00:00:00	
+77204	HABITA INMOBILIARIA SA	Par	Cuatricromia	Generales	35x3	11	0	Publicado	Miguel Apey	2015-6-29 00:00:00	
+76620	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	11-15	8.306	Publicado	Miguel Apey	2015-6-29 00:00:00	
+77207	INVERSIONES E INMOBILIARIA P.A.T.  	Par	Cuatricromia	Generales	9x6	12	0	Publicado	Miguel Apey	2015-6-29 00:00:00	
+78477	INMOBIL. PY  S.A.	Impar	Cuatricromia	Generales	17x6	13	407.889	Publicado	Claudio Romero	2015-6-29 00:00:00	
+76795	DIARIO EL DIA	Par	Cuatricromia	Generales	34x6	14	0	Publicado	Marcela Tello-ElDia	2015-6-29 00:00:00	
+78787	CENTRO MEDICO DENTAL STO. TOMAS LTD	Impar	Cuatricromia	Generales	8x4	22	0	Publicado	Rene Pizarro	2015-6-29 00:00:00	
+78708	INMOBIL. LA SERENA GOLF S.A.	Par	Cuatricromia	Generales	17x6	25	0	Publicado	Patricia Villena	2015-6-29 00:00:00	
+78740	FE GRANDE INMOBILIARIA LTDA.	Par	Cuatricromia	Generales	17x6	27	0	Publicado	Jacqueline Torres	2015-6-29 00:00:00	
+78471	INMOBILIARIA OVCO	Par	Cuatricromia	Generales	10x6	28	0	Publicado	Miguel Apey	2015-6-29 00:00:00	
+78644	armaq subiri s.a			UIP	5x1	29	8.937	Publicado	Claudio Romero	2015-6-29 00:00:00	
+78497	DEFENSORES NORTE			UIP	5x2	29	17.875	Publicado	Pedro Jaime	2015-6-29 00:00:00	
+78845	AREVALO CARMEN			UIP	5x1	29	8.937	Publicado	Pedro Jaime	2015-6-29 00:00:00	
+78404	SOC. DE GESTION MEDITERRANEA			UIP	5x1	29	8.937	Publicado	Miguel Apey	2015-6-29 00:00:00	
+77149	SOC. COMERCIAL ALCAPARRA LTDA.	Par	Blanco y negro	Generales	5x2	29	10.440	Publicado	Patricia Villena	2015-6-29 00:00:00	
+76968	PILLA LA VACA	Par	Blanco y negro	Generales	5x2	29	0	Publicado	Marcela Tello-ElDia	2015-6-29 00:00:00	
+76997	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	29	0	Publicado	Marcela Tello-ElDia	2015-6-29 00:00:00	
+77030	DIARIO EL DIA	Par	Blanco y negro	Generales	5x2	29	0	Publicado	Marcela Tello-ElDia	2015-6-29 00:00:00	
+77334	sociedad restau			UIP	5x2	29	17.875	Publicado	Jacqueline Torres	2015-6-29 00:00:00	
+78142	MARCOS MAUREIRA ALVAREZ			UIP	5x1	29	8.937	Publicado	Claudio Romero	2015-6-29 00:00:00	
+76948	SERVICIOS GENERALES GUAYACAN S.A	Par	Blanco y negro	Generales	3x2	30	6.666	Publicado	Jacqueline Torres	2015-6-29 00:00:00	
+77764	SALINAS Y FABRES S.A.	Impar	Cuatricromia	Generales	35x6	32	516.782	Publicado	M Cristina Puga	2015-6-29 00:00:00	
+78810	PAULA ACEVEDO			UIP	5x1	EC-19	8.937	Publicado	Pedro Jaime	2015-6-29 00:00:00	
+76384	SOC. COMERCIAL VARGAS Y GIACOMET	Par	Blanco y negro	Generales	5x1	EC-19	5.860	Publicado	Rene Pizarro	2015-6-29 00:00:00	
+79048	DIARIO EL DIA	Par	Cuatricromia	Generales	17x6	EC-20	0	Publicado	Marcela Tello-ElDia	2015-6-29 00:00:00	
+78851	AREVALO CARMEN			UIP	5x1	EC-20	8.937	Publicado	Pedro Jaime	2015-6-29 00:00:00	
+78819	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	6x2	EC-20	26.088	Publicado	Medios Regionales	2015-6-29 00:00:00	
+76354	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Generales	5x1	EC-20	5.860	Publicado	Rene Pizarro	2015-6-29 00:00:00	
+78862	AUTOMOTRIZ PEDREGAL LTDA.	431 Palabras		Propiedades	x	PROP	68.960	Publicado	Pedro Jaime	2015-6-29 00:00:00	
+78877	AMANDA OLIVARES SANTANDER	236 Palabras		Propiedades	x	PROP	37.760	Publicado	Pedro Jaime	2015-6-29 00:00:00	
+78875	GONZALEZ ADAROS MARIA SOLEDAD	385 Palabras		Propiedades	x	PROP	61.600	Publicado	Pedro Jaime	2015-6-29 00:00:00	
+78874	INMOBILIARIUM EIRL	149 Palabras		Propiedades	x	PROP	23.840	Publicado	Pedro Jaime	2015-6-29 00:00:00	
+78872	URBI LIMITADA	267 Palabras		Propiedades	x	PROP	42.720	Publicado	Pedro Jaime	2015-6-29 00:00:00	
+78871	YOLANDA ELIAS CAMBLOR	446 Palabras		Propiedades	x	PROP	71.360	Publicado	Pedro Jaime	2015-6-29 00:00:00	
+78870	JACQUELINE BARRERA BARRAZA	305 Palabras		Propiedades	x	PROP	48.800	Publicado	Pedro Jaime	2015-6-29 00:00:00	
+78869	JANIER MUNDACA ALBI?A	255 Palabras		Propiedades	x	PROP	40.800	Publicado	Pedro Jaime	2015-6-29 00:00:00	
+78868	CECILIA OLIVARES	312 Palabras		Propiedades	x	PROP	49.920	Publicado	Pedro Jaime	2015-6-29 00:00:00	
+78865	LEILA ARQUEROS VALENZUELA	219 Palabras		Propiedades	x	PROP	35.040	Publicado	Pedro Jaime	2015-6-29 00:00:00	
+78864	SOC. AMENABAR REYES Y AMENABAR LTDA	551 Palabras		Propiedades	x	PROP	88.160	Publicado	Pedro Jaime	2015-6-29 00:00:00	
+78863	GONZALEZ RIVERA MANUEL RICARDO	1248 Palabras		Propiedades	x	PROP	199.680	Publicado	Pedro Jaime	2015-6-29 00:00:00	
+78860	COMERCIAL AUTOKARINO LTDA.	316 Palabras		Propiedades	x	PROP	50.560	Publicado	Pedro Jaime	2015-6-29 00:00:00	

@@ -1,0 +1,12 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+144021	SOCIEDAD DE RENTAS FALABELLA S.A	Par	Cuatricromia	Generales	8x6	01	50.980	Arte	M Cristina Puga	HUINCHA PORTADAOpen Plaza - COLLOKY	2017-11-22 00:00:00	
+144049	EMPRESA PERIODISTICA EL NORTE S.A.	Par	Cuatricromia	Medios Regionales	32x6	03	349.693	Arte	Medios Regionales		2017-11-22 00:00:00	
+136048	INVERSIONES TANGUEMAR LIMITADA			UIP	5x2	05	2.808	Arte	Patricia Villena	Tanguemar	2017-11-22 00:00:00	
+142577	OVALLE CASINO RESORT S.A	Par	Cuatricromia	Generales	25x4	06	0	Arte	Paola Marquez	OCR Eventos Noviembre Impar si se puede	2017-11-22 00:00:00	
+138358	CENTRO DE SALUD PORTALES LTDA			UIP	5x4	07	4.504	Arte	Karina Rivera		2017-11-22 00:00:00	
+144292	ADOLFO HADLER BARRERA			UIP	5x2	07	2.808	Arte	Karina Rivera	SE VENDEN 5 SITIOS	2017-11-22 00:00:00	
+142419	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	6x6	08	0	Arte	Claudio Romero	Muebles Alpina	2017-11-22 00:00:00	
+144318	HANNA JARUFE HAUNE	Par	Cuatricromia	Generales	17x3	09	67.227	Arte	Claudio Romero	agradecimientos ...hanna jarufe..	2017-11-22 00:00:00	
+143894	DABED Y CIA. LTDA., SELIM	Par	Cuatricromia	Generales	6x6	11	23.076	Arte	Karina Rivera	SET HERRAMIENTAS	2017-11-22 00:00:00	
+143964	VELIZ CORTES JOSE A.			UIP	5x2	14	4.695	Arte	Pedro Cortes		2017-11-22 00:00:00	
+143393	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	14	0	Arte	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2017-11-22 00:00:00	

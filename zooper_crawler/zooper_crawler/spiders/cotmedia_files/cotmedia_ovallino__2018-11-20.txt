@@ -1,0 +1,8 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+169241	CAMPOS DEL NORTE S.A.	Par	Cuatricromia	Generales	5x6	01	23.333	Arte	Patricia Villena	Franja Enjoy Portada EL Ovallino	2018-11-20 00:00:00	
+170277	SOCIEDAD DE RENTAS FALABELLA S.A	Par	Cuatricromia	Generales	8x6	03	50.980	Arte	M Cristina Puga	HUINCHA Open Plaza - primera impar	2018-11-20 00:00:00	
+170050	ABRAHAM ZEDAN E HIJOS	Par	Blanco y negro	Generales	5x2	05	11.770	Arte	Karina Rivera	A ZEDAN REQUIERE	2018-11-20 00:00:00	
+170207	EMPRESA PERIODISTICA EL NORTE S.A.	Par	Blanco y negro	Medios Regionales	6x2	05	18.204	Arte	Medios Regionales	Remate - Santander GRC - (173242)	2018-11-20 00:00:00	
+170287	HOSPITAL DE OVALLE	Par	Blanco y negro	Generales	10x2	05	32.015	Arte	Karina Rivera	HOSPITAL DE OVALLE	2018-11-20 00:00:00	
+168564	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	09	0	Arte	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2018-11-20 00:00:00	
+169405	ILUSTRE MUNICIPALIDAD DE OVALLE	Par	Cuatricromia	Generales	6x6	16	37.500	Arte	Karina Rivera	FOMENTO PRODUCTIVO (PAG 16)	2018-11-20 00:00:00	

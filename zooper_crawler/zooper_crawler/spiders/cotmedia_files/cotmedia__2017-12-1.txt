@@ -1,0 +1,86 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+144279	OMD CHILE S.P.A.	Impar	Cuatricromia	Generales	35x6	03	824.511	Publicado	Patricia Villena	2017-12-1 00:00:00	
+143671	VTR COMUNICACIONES SPA	Impar	Cuatricromia	Generales	35x6	05	0	Publicado	M Cristina Puga	2017-12-1 00:00:00	
+142996	CENTRO DE EDUC.CAP.Y FORMACION LABO	Par	Blanco y negro	Generales	5x2	06	4.666	Publicado	Jacqueline Torres	2017-12-1 00:00:00	
+144893	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	5x2	06	0	Arte	Miguel Apey	2017-12-1 00:00:00	
+145026	WALMART CHILE S.A	Impar	Cuatricromia	Generales	35x6	07	500.000	Publicado	M Cristina Puga	2017-12-1 00:00:00	
+145075	CLARO CHILE S.A.	Impar	Cuatricromia	Generales	35x6	09	646.000	Publicado	Kathine Soto-Stgo	2017-12-1 00:00:00	
+144527	CONSTRUCTORA PRODELCA S.A.			UIP	5x2	12	17.875	Publicado		2017-12-1 00:00:00	
+145077	AUTOMOTORES GILDEMEISTER S.A.	Impar	Cuatricromia	Generales	35x6	13	1.098.161	Publicado	Kathine Soto-Stgo	2017-12-1 00:00:00	
+144678	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	15	8.306	Publicado	Miguel Apey	2017-12-1 00:00:00	
+144423	SECRETARIA REGIONAL MINISTERIAL DE 	Par	Cuatricromia	Generales	25x4	15	355.594	Publicado	Jacqueline Torres	2017-12-1 00:00:00	
+145010	FUNDACION EDUCACIONAL COLEGIO SAN J	Par	Blanco y negro	Generales	10x2	15	73.240	Publicado	Karina Rivera	2017-12-1 00:00:00	
+144935	INSTITUTO DE PREVISION SOCIAL	Par	Blanco y negro	Generales	17x3	16	186.762	Publicado	Karina Rivera	2017-12-1 00:00:00	
+145013	SERV. GENERALES Y ADMINISTRATIVOS L	Par	Blanco y negro	Generales	6x3	16	57.983	Publicado	Pedro Jaime	2017-12-1 00:00:00	
+145079	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Cuatricromia	Medios Regionales	16x6	17	309.344	Publicado	Medios Regionales	2017-12-1 00:00:00	
+145146	DIARIO EL DIA	Par	Cuatricromia	Generales	34x6	18	0	Publicado	Marcela Tello-ElDia	2017-12-1 00:00:00	
+144958	ARENA CHILE S.A.	Impar	Cuatricromia	Generales	17x6	19	313.761	Publicado	Kathine Soto-Stgo	2017-12-1 00:00:00	
+144944	ANN JOAN VILLALOBOS ARAYA	Par	Blanco y negro	Generales	5x2	20	36.620	Publicado		2017-12-1 00:00:00	
+141818	CHRISTIAN LAUNITZ MARIN SERVICIOS M	Par	Blanco y negro	Generales	5x2	20	5.000	Publicado	Heinger Vega Torres	2017-12-1 00:00:00	
+145147	DIARIO EL DIA	Par	Blanco y negro	Generales	20x3	21	0	Publicado	Marcela Tello-ElDia	2017-12-1 00:00:00	
+145018	AUTOMOTRIZ CARMONA	Par	Blanco y negro	Generales	17x3	21	0	Arte	Pedro Cortes	2017-12-1 00:00:00	
+144509	WALMART CHILE S.A	Impar	Cuatricromia	Generales	35x6	24	485.000	Publicado	M Cristina Puga	2017-12-1 00:00:00	
+144418	WALMART CHILE S.A	Impar	Cuatricromia	Generales	35x6	25	485.000	Publicado	M Cristina Puga	2017-12-1 00:00:00	
+144367	MOP OOPP	219 Palabras		Legal	x	26	54.312	Publicado	Jacqueline Torres	2017-12-1 00:00:00	
+144368	MOP OOPP	219 Palabras		Legal	x	26	54.312	Publicado	Jacqueline Torres	2017-12-1 00:00:00	
+144369	MOP OOPP	219 Palabras		Legal	x	26	54.312	Publicado	Jacqueline Torres	2017-12-1 00:00:00	
+144370	MOP OOPP	219 Palabras		Legal	x	26	54.312	Publicado	Jacqueline Torres	2017-12-1 00:00:00	
+144366	MOP OOPP	219 Palabras		Legal	x	26	54.312	Publicado	Jacqueline Torres	2017-12-1 00:00:00	
+144365	MOP OOPP	219 Palabras		Legal	x	26	54.312	Publicado	Jacqueline Torres	2017-12-1 00:00:00	
+144364	MOP OOPP	219 Palabras		Legal	x	26	54.312	Publicado	Jacqueline Torres	2017-12-1 00:00:00	
+144363	MOP OOPP	219 Palabras		Legal	x	26	54.312	Publicado	Jacqueline Torres	2017-12-1 00:00:00	
+144355	MOP OOPP	219 Palabras		Legal	x	26	54.312	Publicado	Jacqueline Torres	2017-12-1 00:00:00	
+144352	MOP OOPP	219 Palabras		Legal	x	26	54.312	Publicado	Jacqueline Torres	2017-12-1 00:00:00	
+144353	MOP OOPP	219 Palabras		Legal	x	26	54.312	Publicado	Jacqueline Torres	2017-12-1 00:00:00	
+144354	MOP OOPP	219 Palabras		Legal	x	26	54.312	Publicado	Jacqueline Torres	2017-12-1 00:00:00	
+144356	MOP OOPP	219 Palabras		Legal	x	26	54.312	Publicado	Jacqueline Torres	2017-12-1 00:00:00	
+144361	MOP OOPP	219 Palabras		Legal	x	26	54.312	Publicado	Jacqueline Torres	2017-12-1 00:00:00	
+144362	MOP OOPP	219 Palabras		Legal	x	26	54.312	Publicado	Jacqueline Torres	2017-12-1 00:00:00	
+144384	MOP OOPP	219 Palabras		Legal	x	27	54.312	Publicado	Jacqueline Torres	2017-12-1 00:00:00	
+144383	MOP OOPP	219 Palabras		Legal	x	27	54.312	Publicado	Jacqueline Torres	2017-12-1 00:00:00	
+144381	MOP OOPP	219 Palabras		Legal	x	27	54.312	Publicado	Jacqueline Torres	2017-12-1 00:00:00	
+144380	MOP OOPP	219 Palabras		Legal	x	27	54.312	Publicado	Jacqueline Torres	2017-12-1 00:00:00	
+144379	MOP OOPP	219 Palabras		Legal	x	27	54.312	Publicado	Jacqueline Torres	2017-12-1 00:00:00	
+144378	MOP OOPP	219 Palabras		Legal	x	27	54.312	Publicado	Jacqueline Torres	2017-12-1 00:00:00	
+144377	MOP OOPP	219 Palabras		Legal	x	27	54.312	Publicado	Jacqueline Torres	2017-12-1 00:00:00	
+144359	MOP OOPP	219 Palabras		Legal	x	27	54.312	Publicado	Jacqueline Torres	2017-12-1 00:00:00	
+144358	MOP OOPP	219 Palabras		Legal	x	27	54.312	Publicado	Jacqueline Torres	2017-12-1 00:00:00	
+144360	MOP OOPP	219 Palabras		Legal	x	27	54.312	Publicado	Jacqueline Torres	2017-12-1 00:00:00	
+144371	MOP OOPP	219 Palabras		Legal	x	27	54.312	Publicado	Jacqueline Torres	2017-12-1 00:00:00	
+144372	MOP OOPP	219 Palabras		Legal	x	27	54.312	Publicado	Jacqueline Torres	2017-12-1 00:00:00	
+144373	MOP OOPP	219 Palabras		Legal	x	27	54.312	Publicado	Jacqueline Torres	2017-12-1 00:00:00	
+144374	MOP OOPP	219 Palabras		Legal	x	27	54.312	Publicado	Jacqueline Torres	2017-12-1 00:00:00	
+144375	MOP OOPP	219 Palabras		Legal	x	27	54.312	Publicado	Jacqueline Torres	2017-12-1 00:00:00	
+144376	MOP OOPP	219 Palabras		Legal	x	27	54.312	Publicado	Jacqueline Torres	2017-12-1 00:00:00	
+144357	MOP OOPP	219 Palabras		Legal	x	27	54.312	Publicado	Jacqueline Torres	2017-12-1 00:00:00	
+144971	SERVICIO DE REGISTRO CIVIL E IDENTI	Par	Blanco y negro	Generales	35x6	28-30	703.768	Publicado	Jacqueline Torres	2017-12-1 00:00:00	
+144040	SEREMI BIENES NACIONALES IV REGION	3610 Palabras		Legal	0x0	31-32	896.218	Publicado	Jacqueline Torres	2017-12-1 00:00:00	
+144038	SEREMI BIENES NACIONALES IV REGION	1690 Palabras		Legal	0x0	33-34	420.000	Publicado	Jacqueline Torres	2017-12-1 00:00:00	
+144951	SEREMI BIENES NACIONALES IV REGION	1400 Palabras		Legal	x	35	347.200	Publicado	Jacqueline Torres	2017-12-1 00:00:00	
+145145	DIARIO EL DIA	Par	Blanco y negro	Generales	17x6	38	0	Publicado	Marcela Tello-ElDia	2017-12-1 00:00:00	
+144948	MAQUINARIA DE PANADERIA INDUSTRIA Y	Par	Blanco y negro	Generales	5x1	40	13.333	Publicado	Rene Pizarro	2017-12-1 00:00:00	
+142638	ARMAQ SUBIRI S.A.			UIP	5x1	40	8.937	Publicado	Claudio Romero	2017-12-1 00:00:00	
+142034	CERNA E HIJOS CIA. LTDA.	Par	Blanco y negro	Generales	5x1	40	3.574	Publicado	Nadia Randolph	2017-12-1 00:00:00	
+144262	SOC. DE GES			UIP	5x1	40	8.937	Publicado	Miguel Apey	2017-12-1 00:00:00	
+144717	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	4x5	40	20.508	Publicado	Miguel Apey	2017-12-1 00:00:00	
+144622	CARMEN AREVALO ROMERO			UIP	5x1	40	8.937	Publicado	Pedro Jaime	2017-12-1 00:00:00	
+144464	CARLOS DAVILA BRAVO			UIP	5x1	40	8.937	Publicado	Pedro Jaime	2017-12-1 00:00:00	
+144866	CAMPOS DEL NORTE S.A.	Par	Cuatricromia	Generales	17x3	42	0	Publicado	Patricia Villena	2017-12-1 00:00:00	
+143373	SOC. HOTELERA VICHUQUEN LTDA.	Par	Cuatricromia	Generales	5x3	44	0	Publicado	Marcela Tello-ElDia	2017-12-1 00:00:00	
+143368	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	44	0	Publicado	Marcela Tello-ElDia	2017-12-1 00:00:00	
+142263	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	44	0	Publicado	Marcela Tello-ElDia	2017-12-1 00:00:00	
+142217	MARTIN JURE PATRICIA	Par	Cuatricromia	Generales	5x3	44	0	Publicado	Marcela Tello-ElDia	2017-12-1 00:00:00	
+142227	PILLA LA VACA	Par	Cuatricromia	Generales	5x2	44	0	Publicado	Marcela Tello-ElDia	2017-12-1 00:00:00	
+145073	FERNANDO VERGARA FLORES	Par	Blanco y negro	Generales	5x2	45	25.210	Publicado	Miguel Apey	2017-12-1 00:00:00	
+142811	SERVICIOS GENERALES GUAYACAN S.A	Par	Blanco y negro	Generales	4x2	45	6.686	Publicado	Jacqueline Torres	2017-12-1 00:00:00	
+143944	VELIZ CORTES JOSE A.	Par	Blanco y negro	Generales	3x2	45	13.403	Publicado	Pedro Cortes	2017-12-1 00:00:00	
+145014	EMPRESAS LA POLAR S.A.	Par	Cuatricromia	Contraportada	35x6	48	504.000	Publicado	Patricia Villena	2017-12-1 00:00:00	
+144474	CIA. MINERA TECK CARMEN DE ANDACOLL	Par	Blanco y negro	Generales	15x3	EC-22	164.790	Publicado	Pedro Jaime	2017-12-1 00:00:00	
+144443	MOP OOPP	177 Palabras		Legal	x	EC-23	43.896	Publicado	Karina Rivera	2017-12-1 00:00:00	
+145027	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Economico	5x2	EC-23	15.161	Publicado	Rene Pizarro	2017-12-1 00:00:00	
+124028	HOTELERIA LUIS ALBERTO BERETTA KIEK	Par	Blanco y negro	Generales	5x2	EC-23	6.061	Publicado	Patricia Villena	2017-12-1 00:00:00	
+144636	DEL RIO VARELA JORGE	Par	Blanco y negro	Generales	11x3	EC-23	83.193	Publicado	Pedro Jaime	2017-12-1 00:00:00	
+144566	ARANDA CA?AS ALFONSO	Par	Blanco y negro	Generales	9x3	EC-23	79.100	Publicado	Pedro Jaime	2017-12-1 00:00:00	
+145119	CAMPOS DEL NORTE S.A.	Home	Banner Cabecera	Web	0x0	WEB	1.170.000	Publicado		2017-12-1 00:00:00	
+144485	INMOBILIARIA ECOMAC SANTIAGO S.A.	Home	Banner Cabecera	Web	x	WEB	500.000	Publicado		2017-12-1 00:00:00	
+145246	WALMART CHILE S.A	Home	Banner Cabecera	Web	x	WEB	750.000	Publicado		2017-12-1 00:00:00	

@@ -25,12 +25,19 @@ SECRET_KEY = '04qx*&q)g*7mi(h&vuthyrv0d0cx=6%oj%dbl9!!_rwgzlz_(r'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
 
 INSTALLED_APPS = [
+    'accounts',
+    'common',
+    'matching',
+    'producto',
+    'supermercado',
+    'supermercado.jumbo',
+    'supermercado.lider',
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
@@ -54,7 +61,7 @@ ROOT_URLCONF = 'zooper_matching.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [],
+        'DIRS': [os.path.join(BASE_DIR, 'templates')],  # 'DIRS': [],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
@@ -62,6 +69,7 @@ TEMPLATES = [
                 'django.template.context_processors.request',
                 'django.contrib.auth.context_processors.auth',
                 'django.contrib.messages.context_processors.messages',
+                'django.template.context_processors.media',  # >= 1.8
             ],
         },
     },
@@ -75,11 +83,19 @@ WSGI_APPLICATION = 'zooper_matching.wsgi.application'
 
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
+        'ENGINE': 'django.db.backends.postgresql_psycopg2',  # postgresql, mysql, sqlite3, oracle
+        'NAME': 'zooper_matching',  # os.path.join(BASE_DIR, 'db.sqlite3'),
+        'USER': 'zooper',
+        'PASSWORD': 'asdf1234',
+        'HOST': '127.0.0.1',  # 127.0.0.1, localhost, ...
+        'PORT': '5432',  # 3306 (mysql), 5432 (postgresql), ...
+        # The lifetime of a database connection, in seconds.
+        # Use 0 to close database connections at the end of each request
+        # (Django's historical behavior)
+        # and None for unlimited persistent connections.
+        'CONN_MAX_AGE': 0,
     }
 }
-
 
 # Password validation
 # https://docs.djangoproject.com/en/1.11/ref/settings/#auth-password-validators
@@ -103,18 +119,58 @@ AUTH_PASSWORD_VALIDATORS = [
 # Internationalization
 # https://docs.djangoproject.com/en/1.11/topics/i18n/
 
-LANGUAGE_CODE = 'en-us'
+LANGUAGE_CODE = 'en-ES'
 
-TIME_ZONE = 'UTC'
+TIME_ZONE = 'America/Santiago'
 
 USE_I18N = True
 
 USE_L10N = True
 
-USE_TZ = True
+USE_TZ = False
 
 
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/1.11/howto/static-files/
 
 STATIC_URL = '/static/'
+
+
+STATIC_ROOT = '/var/www/html/zooper/static'
+
+STATICFILES_DIRS = (
+    # C:\PythonProjects\proyecto-django\proyecto\
+    os.path.join(BASE_DIR, 'static'),
+    ('matching', os.path.join(BASE_DIR, 'matching', 'static')),
+    ('common', os.path.join(BASE_DIR, 'common', 'static')),
+    ('accounts', os.path.join(BASE_DIR, 'accounts', 'static')),
+    ('producto', os.path.join(BASE_DIR, 'producto', 'static')),
+    ('supermercado', os.path.join(BASE_DIR, 'supermercado', 'static')),
+    ('supermercado.jumbo', os.path.join(BASE_DIR, 'supermercado\jumbo', 'static')),
+    ('supermercado.lider', os.path.join(BASE_DIR, 'supermercado\lider', 'static')),
+)
+
+
+
+STATICFILES_FINDERS = (
+    'django.contrib.staticfiles.finders.FileSystemFinder',
+)
+
+"""
+STATICFILES_DIRS = (
+    os.path.join(PROJECT_PATH, 'project_static'),
+    ('my_app', os.path.join(PROJECT_PATH, 'my_app', 'static')),
+    ('another_app', os.path.join(PROJECT_PATH, 'another_app', 'static')),
+    ...
+)
+
+STATICFILES_FINDERS = (
+    'django.contrib.staticfiles.finders.FileSystemFinder',
+)
+"""
+
+
+
+MEDIA_URL = '/media/'
+
+MEDIA_ROOT = '/var/www/html/zooper/media'

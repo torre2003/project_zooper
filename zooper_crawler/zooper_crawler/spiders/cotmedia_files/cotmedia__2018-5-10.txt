@@ -1,0 +1,37 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+155571	DIARIO EL DIA	Par	Blanco y negro	Generales	5x2	04	0	Publicado	Marcela Tello-ElDia	2018-5-10 00:00:00	
+155345	C.M. SOC. GASTRONOMICA LTDA.			UIP	5x2	04	7.208	Publicado		2018-5-10 00:00:00	
+155301	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	5x2	04	0	Publicado	Miguel Apey	2018-5-10 00:00:00	
+155909	AUTOMOTRIZ CARMONA	Par	Cuatricromia	Generales	34x6	05	0	Arte	Marcela Tello-ElDia	2018-5-10 00:00:00	
+155936	DABED Y CIA. LTDA., SELIM	Par	Cuatricromia	Generales	6x6	06	27.690	Publicado	Karina Rivera	2018-5-10 00:00:00	
+155948	COMERCIAL E.C.C.S.A.  S.A.	Impar	Cuatricromia	Generales	34x6	07	878.529	Publicado	Paola Marquez	2018-5-10 00:00:00	
+155927	SOC. DE RENTAS COMERCIALES S.A.	Par	Cuatricromia	Generales	17x3	08	0	Publicado	Marcela Tello-ElDia	2018-5-10 00:00:00	
+155241	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	11	8.306	Publicado	Miguel Apey	2018-5-10 00:00:00	
+155559	DIARIO EL DIA	Par	Cuatricromia	Generales	17x6	11	0	Publicado	Marcela Tello-ElDia	2018-5-10 00:00:00	
+155012	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	12	0	Publicado	Marcela Tello-ElDia	2018-5-10 00:00:00	
+155934	SUBSIDIO NACIONAL TRANSPORTE PUBLIC	Par	Blanco y negro	Generales	13x2	16	66.648	Publicado	Jacqueline Torres	2018-5-10 00:00:00	
+155859	ILUSTRE MUNICIPALIDAD DE COQUIMBO	Par	Blanco y negro	Generales	10x6	20	153.804	Publicado	Miguel Apey	2018-5-10 00:00:00	
+155751	SOC. DE GES			UIP	5x1	22	8.937	Publicado	Miguel Apey	2018-5-10 00:00:00	
+155271	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	4x5	22	20.508	Publicado	Miguel Apey	2018-5-10 00:00:00	
+155047	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	22	0	Publicado	Marcela Tello-ElDia	2018-5-10 00:00:00	
+154884	ARMAQ SUBIRI S.A.			UIP	5x1	22	8.937	Publicado	Claudio Romero	2018-5-10 00:00:00	
+155942	DIARIO EL DIA	Par	Blanco y negro	Generales	5x1	22	0	Publicado	Marcela Tello-ElDia	2018-5-10 00:00:00	
+154363	CERNA E HIJOS CIA. LTDA.	Par	Blanco y negro	Generales	5x1	22	3.566	Publicado	Nadia Randolph	2018-5-10 00:00:00	
+155832	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Cuatricromia	Medios Regionales	16x6	23	324.840	Publicado	Medios Regionales	2018-5-10 00:00:00	
+155068	PILLA LA VACA	Par	Blanco y negro	Generales	5x2	24	0	Publicado	Marcela Tello-ElDia	2018-5-10 00:00:00	
+155468	LABORATORIO CLINICO STA. MARIA LA S	Par	Blanco y negro	Generales	6x2	24	7.470	Publicado	Miguel Apey	2018-5-10 00:00:00	
+155565	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	6x2	24	27.396	Publicado	Medios Regionales	2018-5-10 00:00:00	
+155968	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	27	0	Publicado	Marcela Tello-ElDia	2018-5-10 00:00:00	
+155412	CAMPOS DEL NORTE S.A.	Par	Cuatricromia	Generales	17x3	27	0	Arte	Patricia Villena	2018-5-10 00:00:00	
+154461	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	27	0	Publicado	Marcela Tello-ElDia	2018-5-10 00:00:00	
+155908	SOCIEDAD JULIA YOLANDA BURGOS ARAYA	Par	Blanco y negro	Generales	12x2	29	65.916	Publicado	Pedro Jaime	2018-5-10 00:00:00	
+155916	MONICA ALVAREZ	Par	Blanco y negro	Generales	12x2	29	61.522	Publicado	Pedro Jaime	2018-5-10 00:00:00	
+155709	AUTOMOTRIZ CARMONA	Par	Blanco y negro	Generales	10x3	EC-17	87.888	Publicado	Marcela Tello-ElDia	2018-5-10 00:00:00	
+154731	DEL RIO VARELA JORGE	Par	Blanco y negro	Generales	12x3	EC-17	92.283	Publicado	Pedro Jaime	2018-5-10 00:00:00	
+155967	DIARIO EL DIA	Par	Blanco y negro	Generales	12x6	EC-18	0	Publicado	Marcela Tello-ElDia	2018-5-10 00:00:00	
+155939	EMPRESA AGRICOLA HC LTDA	Par	Blanco y negro	Generales	4x2	EC-18	29.296	Publicado	Pedro Jaime	2018-5-10 00:00:00	
+154806	SOC. COMERCIAL VARGAS Y GIACOMET			UIP	5x1	EC-18	7.149	Publicado	Rene Pizarro	2018-5-10 00:00:00	
+154842	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Economico	5x2	EC-18	15.161	Publicado	Rene Pizarro	2018-5-10 00:00:00	
+152059	HOTELERIA LUIS ALBERTO BERETTA KIEK	Par	Blanco y negro	Generales	5x2	EC-18	6.061	Publicado	Patricia Villena	2018-5-10 00:00:00	
+155913	TEATROPUERTO		28 Frases	Radio	x	RAD	126.050	Publicado	Paola Marquez	2018-5-10 00:00:00	
+155959	WALMART CHILE S.A	Home	Banner Cabecera	Web	x	WEB	786.153	Publicado		2018-5-10 00:00:00	

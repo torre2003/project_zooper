@@ -1,0 +1,32 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+97167	CHRISTIAN LAURITZ MARIN	Par	Blanco y negro	Generales	4x2	04	0	Arte	Jacqueline Torres	2016-3-7 00:00:00	
+97315	CLARO CHILE S.A.	Impar	Cuatricromia	Generales	35x6	05	645.977	Publicado	Kathine Soto-Stgo	2016-3-7 00:00:00	
+97213	HABITA INMOBILIARIA SA	Par	Cuatricromia	Generales	34x3	07	0	Publicado	Miguel Apey	2016-3-7 00:00:00	
+97086	MANANTIAL S.A	Impar	Cuatricromia	Generales	17x6	09	407.998	Publicado	Kathine Soto-Stgo	2016-3-7 00:00:00	
+97265	INMOBIL. LA SERENA GOLF S.A.	Impar	Cuatricromia	Generales	17x6	11	0	Publicado	Patricia Villena	2016-3-7 00:00:00	
+97214	INVERSIONES E INMOBILIARIA P.A.T.  	Par	Cuatricromia	Generales	10x6	12	0	Publicado	Miguel Apey	2016-3-7 00:00:00	
+96790	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	10x3	13	0	Publicado	Marcela Tello-ElDia	2016-3-7 00:00:00	
+97292	Faisal 			UIP	5x2	13	0	Publicado	Paola Marquez	2016-3-7 00:00:00	
+97385	AREVALO CARMEN 			UIP	5x1	13	8.937	Publicado	Pedro Jaime	2016-3-7 00:00:00	
+97051	SOC. DE GESTION MEDITERRANEA			UIP	5x1	14	8.937	Publicado	Miguel Apey	2016-3-7 00:00:00	
+97021	SOC. COMERCIAL ALCAPARRA LTDA.	Par	Blanco y negro	Generales	5x2	14	10.440	Publicado	Patricia Villena	2016-3-7 00:00:00	
+96957	DIARIO EL DIA	Par	Blanco y negro	Generales	5x2	14	0	Publicado	Marcela Tello-ElDia	2016-3-7 00:00:00	
+91326	Alejandro ra			UIP	5x1	14	4.524	Publicado	M Cristina Puga	2016-3-7 00:00:00	
+96845	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	14	0	Publicado	Marcela Tello-ElDia	2016-3-7 00:00:00	
+96392	GALLARDO Y OTRO 			UIP	5x1	14	8.937	Publicado	Pedro Jaime	2016-3-7 00:00:00	
+96703	ARMAQ			UIP	5x1	14	8.937	Publicado	Claudio Romero	2016-3-7 00:00:00	
+95269	MAURICIO ALEJANDRO BUGUENO CONTRERA	Par	Blanco y negro	Generales	5x1	14	4.468	Publicado	Nadia Randolph	2016-3-7 00:00:00	
+96650	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	4x5	14	20.508	Publicado	Miguel Apey	2016-3-7 00:00:00	
+95821	CERNA E HIJOS CIA. LTDA.	Par	Blanco y negro	Generales	5x1	14	4.467	Publicado	Nadia Randolph	2016-3-7 00:00:00	
+94106	UNIVERSIDAD DE LA SERENA	Impar	Blanco y negro	Generales	7x2	15	63.719	Publicado	Pedro Jaime	2016-3-7 00:00:00	
+96722	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	5x2	15	0	Publicado	Miguel Apey	2016-3-7 00:00:00	
+96707	LABORATORIO CLINICO STA. MARIA LA S	Par	Blanco y negro	Generales	6x2	15	7.470	Publicado	Miguel Apey	2016-3-7 00:00:00	
+96619	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	15	8.306	Publicado	Miguel Apey	2016-3-7 00:00:00	
+97475	DIARIO EL DIA	Par	Blanco y negro	Generales	34x6	20	0	Publicado	Marcela Tello-ElDia	2016-3-7 00:00:00	
+96754	DIARIO EL DIA	Par	Cuatricromia	Generales	17x6	28	0	Publicado	Marcela Tello-ElDia	2016-3-7 00:00:00	
+97134	SERVICIOS GENERALES GUAYACAN S.A	Par	Blanco y negro	Generales	4x2	30	6.452	Publicado	Jacqueline Torres	2016-3-7 00:00:00	
+97375	BANCO DE CHILE	Impar	Cuatricromia	Generales	35x6	32	881.786	Publicado	Patricia Villena	2016-3-7 00:00:00	
+94789	HOTELERIA LUIS ALBERTO BERETTA KIEK	Par	Blanco y negro	Generales	5x2	EC-18	8.937	Publicado	Patricia Villena	2016-3-7 00:00:00	
+97474	DIARIO EL DIA	Par	Blanco y negro	Generales	5x2	EC-18	0	Publicado	Marcela Tello-ElDia	2016-3-7 00:00:00	
+97391	AREVALO CARMEN			UIP	5x1	EC-19	8.937	Publicado	Pedro Jaime	2016-3-7 00:00:00	
+96910	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Generales	5x1	EC-19	5.860	Publicado	Rene Pizarro	2016-3-7 00:00:00	

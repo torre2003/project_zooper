@@ -1,0 +1,5 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+149514	INMOBILIARIA NUEVA SERENA			UIP	10x6	05	16.260	Publicado	Claudio Romero	proyecto empresa serena.(.2 AVISOS NUEVO)" DEPARTAMENTOS.".." CASAS"...ALTERNAR LOS AVISOS TODOS LOS	2018-2-15 00:00:00	
+148681	INVERSIONES TANGUEMAR LIMITADA			UIP	5x2	10	2.808	Publicado	Patricia Villena	tanguemar 2	2018-2-15 00:00:00	
+150382	COMITE DE AGUA POTABLE RURAL FLOR D	146 Palabras		Legal	x	15	36.208	Publicado	Karina Rivera	solicitud de aprovechamiento de aguas	2018-2-15 00:00:00	
+150425	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	6x6	15	0	Publicado	Marcela Tello-ElDia		2018-2-15 00:00:00	

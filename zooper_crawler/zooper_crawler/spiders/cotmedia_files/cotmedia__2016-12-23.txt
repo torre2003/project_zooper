@@ -1,0 +1,68 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+117974	CHRISTIAN LAUNITZ MARIN SERVICIOS M	Par	Blanco y negro	Generales	4x2	04	6.464	Publicado	Jacqueline Torres	2016-12-23 00:00:00	
+119296	EMPRESAS LA POLAR S.A.	Impar	Cuatricromia	Generales	35x6	05	504.000	Publicado	Patricia Villena	2016-12-23 00:00:00	
+117836	WALMART CHILE S.A	Par	Cuatricromia	Contraportada	35x6	07	600.000	Publicado	M Cristina Puga	2016-12-23 00:00:00	
+119422	CLARO CHILE S.A.	Impar	Cuatricromia	Generales	35x6	09	646.000	Publicado	Kathine Soto-Stgo	2016-12-23 00:00:00	
+118132	SOC. COMERCIAL NAPOLEON LTDA.	Impar	Blanco y negro	Generales	5x6	11	11.538	Publicado	Patricia Villena	2016-12-23 00:00:00	
+118926	DIARIO EL DIA	Par	Cuatricromia	Generales	14x6	12	0	Publicado	Marcela Tello-ElDia	2016-12-23 00:00:00	
+119372	CONAFE	Par	Cuatricromia	Generales	25x6	13	0	Publicado	Jacqueline Torres	2016-12-23 00:00:00	
+119303	COMERCIALIZADORA DEL NORTE S.P.A.	Par	Cuatricromia	Generales	12x6	14	0	Publicado	Patricia Villena	2016-12-23 00:00:00	
+117754	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	5x2	15	0	Publicado	Miguel Apey	2016-12-23 00:00:00	
+116702	OVALLE CASINO RESORT S.A	Par	Cuatricromia	Generales	25x4	15	205.072	Publicado	Paola Marquez	2016-12-23 00:00:00	
+119542	DIARIO EL DIA	Par	Cuatricromia	Generales	12x6	16	0	Arte	Marcela Tello-ElDia	2016-12-23 00:00:00	
+118937	DIARIO EL DIA	Par	Cuatricromia	Generales	34x6	17	0	Publicado	Marcela Tello-ElDia	2016-12-23 00:00:00	
+118724	DABED Y CIA. LTDA., SELIM	Par	Cuatricromia	Generales	6x6	18	27.690	Publicado	Karina Rivera	2016-12-23 00:00:00	
+119366	AGENCIA CALIDAD DE LA EDUCACION	Impar	Cuatricromia	Generales	17x6	19	768.084	Publicado	Jacqueline Torres	2016-12-23 00:00:00	
+119298	UNIVERSIDAD TECNOLOGICA DE CHILE	Par	Cuatricromia	Generales	35x6	20	807.471	Publicado	Patricia Villena	2016-12-23 00:00:00	
+119297	UNIVERSIDAD TECNOLOGICA DE CHILE	Impar	Cuatricromia	Generales	35x6	21	968.966	Publicado	Patricia Villena	2016-12-23 00:00:00	
+118000	MARTIN JURE PATRICIA	Par	Cuatricromia	Generales	12x3	22	0	Publicado	Marcela Tello-ElDia	2016-12-23 00:00:00	
+119107	AUTOMOTORES DEL NORTE	Par	Blanco y negro	Generales	5x1	22	7.427	Publicado	Miguel Apey	2016-12-23 00:00:00	
+118835	DIARIO EL DIA	Par	Blanco y negro	Generales	5x1	22	0	Publicado	Marcela Tello-ElDia	2016-12-23 00:00:00	
+117521	SOC. DE GES			UIP	5x1	22	8.937	Publicado	Miguel Apey	2016-12-23 00:00:00	
+116048	UNIVERSIDAD DE LA SERENA	Par	Cuatricromia	Generales	17x6	23	355.595	Publicado	Jacqueline Torres	2016-12-23 00:00:00	
+117717	DIARIO EL DIA	Par	Blanco y negro	Generales	5x2	24	0	Publicado	Marcela Tello-ElDia	2016-12-23 00:00:00	
+117444	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	24	8.306	Publicado	Miguel Apey	2016-12-23 00:00:00	
+119055	ARZOBISPADO DE LA SERENA	Par	Blanco y negro	Generales	5x2	24	0	Publicado	Marcela Tello-ElDia	2016-12-23 00:00:00	
+118420	PABLO NU?EZ RENCORET	Par	Blanco y negro	Generales	5x2	24	36.620	Publicado	Pedro Jaime	2016-12-23 00:00:00	
+118552	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Cuatricromia	Medios Regionales	16x6	26	309.344	Publicado	Medios Regionales	2016-12-23 00:00:00	
+119065	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	29	0	Publicado	Marcela Tello-ElDia	2016-12-23 00:00:00	
+115073	SOC. HOTELERA VICHUQUEN LTDA.	Par	Cuatricromia	Generales	5x3	31	0	Publicado	Marcela Tello-ElDia	2016-12-23 00:00:00	
+115405	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	31	0	Publicado	Marcela Tello-ElDia	2016-12-23 00:00:00	
+115622	PILLA LA VACA	Par	Cuatricromia	Generales	5x2	31	0	Publicado	Marcela Tello-ElDia	2016-12-23 00:00:00	
+115683	MARTIN JURE PATRICIA	Par	Cuatricromia	Generales	5x3	31	0	Publicado	Marcela Tello-ElDia	2016-12-23 00:00:00	
+117298	SERVICIOS GASTRON?MICOS LA CASONA D	Par	Blanco y negro	Generales	5x2	31	10.725	Publicado	Miguel Apey	2016-12-23 00:00:00	
+117415	BAKULIC RESTAURANT	Par	Cuatricromia	Generales	10x2	31	24.609	Publicado	Miguel Apey	2016-12-23 00:00:00	
+117496	HOTEL COSTA REAL	Par	Cuatricromia	Generales	10x2	31	30.761	Publicado	Miguel Apey	2016-12-23 00:00:00	
+119373	DIARIO EL DIA	Par	Blanco y negro	Generales	35x6	32	0	Arte	Carolina Naranjo	2016-12-23 00:00:00	
+118971	DIARIO EL DIA	Par	Blanco y negro	Generales	35x6	33	0	Arte	Carolina Naranjo	2016-12-23 00:00:00	
+119319	CLUB DE DEPORTES LA SERENA	Par	Cuatricromia	Generales	11x6	35	0	Publicado	Marcela Tello-ElDia	2016-12-23 00:00:00	
+118844	DIARIO EL DIA	Par	Cuatricromia	Generales	17x6	36	0	Publicado	Marcela Tello-ElDia	2016-12-23 00:00:00	
+117688	armaq			UIP	5x1	37	8.937	Publicado	Claudio Romero	2016-12-23 00:00:00	
+119347	inversiones san javier			UIP	5x1	37	8.937	Publicado	Rene Pizarro	2016-12-23 00:00:00	
+117346	MARIA VARAS			UIP	5x1	37	8.937	Publicado	Pedro Jaime	2016-12-23 00:00:00	
+115535	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	37	0	Publicado	Marcela Tello-ElDia	2016-12-23 00:00:00	
+114801	CERNA E HIJOS CIA. LTDA.	Par	Blanco y negro	Generales	5x1	37	4.468	Publicado	Nadia Randolph	2016-12-23 00:00:00	
+118097	ICEFOOD LIMITADA	Par	Blanco y negro	Generales	5x2	37	8.925	Publicado	Patricia Villena	2016-12-23 00:00:00	
+119392	SOC.INMOBIL.Y DE INV.MORALES Y CIA.			UIP	5x2	37	0	Arte	Marcela Tello-ElDia	2016-12-23 00:00:00	
+114317	GESTION NORTE	Par	Blanco y negro	Generales	5x2	37	9.280	Publicado	Patricia Villena	2016-12-23 00:00:00	
+117475	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	4x5	37	20.508	Publicado	Miguel Apey	2016-12-23 00:00:00	
+118799	VELIZ CORTES JOSE A.	Par	Blanco y negro	Generales	3x2	38	13.403	Publicado	Pedro Cortes	2016-12-23 00:00:00	
+119430	UNIVERSIDAD CATOLICA DEL NORTE	Par	Blanco y negro	Generales	5x2	38	25.210	Publicado	Miguel Apey	2016-12-23 00:00:00	
+118287	SERVICIOS GENERALES GUAYACAN S.A	Par	Blanco y negro	Generales	4x2	38	6.666	Publicado	Jacqueline Torres	2016-12-23 00:00:00	
+119266	FALABELLA RETAIL S.A.	Impar	Cuatricromia	Generales	35x6	40	600.000	Publicado	M Cristina Puga	2016-12-23 00:00:00	
+119362	TURISMO BAHIA MAGICA LTDA.	Par	Blanco y negro	Generales	10x2	EC-26	73.240	Publicado	Pedro Jaime	2016-12-23 00:00:00	
+119405	DIARIO EL DIA	Par	Blanco y negro	Generales	5x2	EC-26	0	Arte	M Cristina Puga	2016-12-23 00:00:00	
+108993	HOTELERIA LUIS ALBERTO BERETTA KIEK	Par	Blanco y negro	Generales	5x2	EC-27	6.994	Publicado	Patricia Villena	2016-12-23 00:00:00	
+117643	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Generales	5x1	EC-27	5.860	Publicado	Rene Pizarro	2016-12-23 00:00:00	
+119383	MARTIN JURE PATRICIA	Par	Blanco y negro	Generales	6x2	EC-27	0	Publicado	Marcela Tello-ElDia	2016-12-23 00:00:00	
+119431	SALINAS Y FABRES S.A.		1 pag.	Inserto	x	INS	140.000	Publicado	M Cristina Puga	2016-12-23 00:00:00	
+118972	ILUSTRE MUNICIPALIDAD DE VICUNA	Par	Blanco y negro	Generales	35x6	INS	500.000	Publicado	Jacqueline Torres	2016-12-23 00:00:00	
+118611	INMOBILIARIA ECASA CHILE S.A.	Par	Cuatricromia	VidaHogar	34x6	VH-02	398.000	Publicado	Paola Marquez	2016-12-23 00:00:00	
+119552	INMOBIL. LA SERENA GOLF S.A.	Par	Cuatricromia	VidaHogar	17x6	VH-09	366.054	Publicado	Patricia Villena	2016-12-23 00:00:00	
+119544	MARTIN JURE PATRICIA	Par	Cuatricromia	VidaHogar	10x6	VH-11	0	Publicado	Marcela Tello-ElDia	2016-12-23 00:00:00	
+118663	INVERSIONES E INMOBILIARIA P.A.T.  	Par	Cuatricromia	Generales	34x3	VH-13	243.165	Publicado	Miguel Apey	2016-12-23 00:00:00	
+119545	DIARIO EL DIA	Par	Cuatricromia	VidaHogar	6x6	VH-15	0	Arte	Marcela Tello-ElDia	2016-12-23 00:00:00	
+118612	INMOBILIARIA ECOMAC SANTIAGO S.A.	Par	Cuatricromia	VidaHogar	17x6	VH-17	392.201	Publicado	Paola Marquez	2016-12-23 00:00:00	
+118949	COMERCIAL VALENTINI E HIJOS LTDA.	Par	Cuatricromia	VidaHogar	17x6	VH-19	263.755	Publicado	Paola Marquez	2016-12-23 00:00:00	
+101035	INMOBILIARIA VIVIENDAS 2000 LIMITAD	Par	Blanco y negro	VidaHogar	35x6	VH-23	500.000	Publicado	Jacqueline Torres	2016-12-23 00:00:00	
+118873	INMOBILIARIA EURO AMH S.A.	Par	Cuatricromia	VidaHogar	35x6	VH-24	750.000	Publicado	Paola Marquez	2016-12-23 00:00:00	

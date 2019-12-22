@@ -1,0 +1,13 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+99862	AUTOMOTRIZ CARMONA	Par	Cuatricromia	Generales	6x6	01	23.076	Publicado	Marcela Tello-ElDia	Nissan Versa - Portada (si hay disponibilidad)	2016-4-27 00:00:00	
+99649	SOCIEDAD DE RENTAS FALABELLA S.A	Impar	Cuatricromia	Generales	17x6	03	200.000	Publicado	M Cristina Puga	Open 	2016-4-27 00:00:00	
+100652	AGRICOLA NORTE TALINAY LTDA	Par	Blanco y negro	Generales	5x2	05	1.666	Publicado	Paola Marquez	UIP VENTA ALFALFA	2016-4-27 00:00:00	
+101025	COMUNIDAD DE AGUAS SISTEMA EMBALSE 	Par	Blanco y negro	Generales	8x2	05	37.664	Publicado	Leonel Pizarro-Ovalle	CITACION	2016-4-27 00:00:00	
+99281	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	6x6	06	16.065	Publicado	Claudio Romero	Muebles Alpina	2016-4-27 00:00:00	
+99089	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	07	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2016-4-27 00:00:00	
+101068	DABED Y CIA. LTDA., SELIM	Par	Cuatricromia	Generales	6x6	08	23.076	Publicado	Marcela Tello-ElDia		2016-4-27 00:00:00	
+101067	ABRIL PUBLICIDAD INVERSIONES Y ASES	Impar	Cuatricromia	Generales	17x6	09	216.329	Publicado	Patricia Villena		2016-4-27 00:00:00	
+100049	ILUSTRE MUNICIPALIDAD DE MONTE PATR	Par	Cuatricromia	Generales	17x3	11	114.292	Publicado	Claudio Romero	SALUDO CARABINEROS...2016	2016-4-27 00:00:00	
+100863	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	15x6	12	0	Arte	Marcela Tello-ElDia	Cupones Cinemark	2016-4-27 00:00:00	
+100617	VALENTINA ANDREA PIZARRO VIERA			UIP	5x2	14	2.808	Publicado	Leonel Pizarro-Ovalle		2016-4-27 00:00:00	
+101057	SOCIEDAD DE RENTAS FALABELLA S.A		Hasta 8 pag.	Inserto	x	INS	151.130	Publicado	M Cristina Puga	Open plaza	2016-4-27 00:00:00	

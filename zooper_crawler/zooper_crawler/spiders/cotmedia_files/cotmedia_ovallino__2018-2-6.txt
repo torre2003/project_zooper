@@ -1,0 +1,10 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+149643	SOCIEDAD DE RENTAS FALABELLA S.A	Par	Cuatricromia	Generales	17x6	03	200.000	Publicado	M Cristina Puga	Open Plaza - Mall Ovalle	2018-2-6 00:00:00	
+147683	AGRICOLA NORTE TALINAY LTDA	Par	Blanco y negro	Generales	5x2	05	1.682	Publicado	Paola Marquez	UIP VENTA ALFALFA	2018-2-6 00:00:00	
+148385	INVERSIONES TANGUEMAR LIMITADA			UIP	5x2	05	2.808	Publicado	Patricia Villena	Tanguemar 2	2018-2-6 00:00:00	
+149548	DONATTOS OVALLE SPA			UIP	5x2	05	2.808	Publicado	Karina Rivera	VENTA DERECHO DE LLAVE	2018-2-6 00:00:00	
+149980	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	12x6	08	0	Publicado	Marcela Tello-ElDia	Vive la experiencia de ser suscriptor... $66.000.-	2018-2-6 00:00:00	
+147784	CL?NICA VETERINARIA LOS MANCOS LTDA			UIP	10x2	09	5.630	Publicado	Karina Rivera	CLINICA VETERINARIA 	2018-2-6 00:00:00	
+149957	AGUAS DEL VALLE S.A.	Par	Cuatricromia	Generales	17x3	11	168.076	Publicado	Jacqueline Torres	AGUAS DEL VALLE	2018-2-6 00:00:00	
+147884	VELIZ CORTES JOSE A.			UIP	5x2	15	4.695	Publicado	Pedro Cortes		2018-2-6 00:00:00	
+149979	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	6x6	15	0	Publicado	Marcela Tello-ElDia		2018-2-6 00:00:00	

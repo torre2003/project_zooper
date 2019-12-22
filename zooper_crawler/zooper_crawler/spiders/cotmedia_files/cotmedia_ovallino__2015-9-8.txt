@@ -1,0 +1,6 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+83754	DABED Y CIA. LTDA., SELIM	Impar	Cuatricromia	Generales	6x6	03	23.077	Publicado	Italo Retamal	(4) Se viene!	2015-9-8 00:00:00	
+83582	ADA diaz araya			UIP	10x2	05	5.630	Publicado	Italo Retamal	machi zona ganja	2015-9-8 00:00:00	
+83644	SOCIEDAD DE INVERSIONES Y ASESORIAS			UIP	17x2	07	9.211	Publicado	Italo Retamal	ingles	2015-9-8 00:00:00	
+82095	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x6	09	0	Arte	Marcela Tello-ElDia	Concurso de Lectores Infantiles	2015-9-8 00:00:00	
+84119	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x6	14	0	Arte	Marcela Tello-ElDia	El Ovallino - www.elovallino.cl	2015-9-8 00:00:00	

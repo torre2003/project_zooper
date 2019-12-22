@@ -1,0 +1,10 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+171928	INMOBILIARIA NUEVA SERENA	Par	Cuatricromia	Generales	17x3	03	68.906	Publicado		AVISO PUBLI cuarto de pagina	2018-12-17 00:00:00	
+171806	GOTTREUX SALAS RUBEN	Par	Blanco y negro	Generales	8x2	05	37.664	Publicado	Karina Rivera	REMATE JUDICIAL EN OVALLE	2018-12-17 00:00:00	
+171898	MIGUEL GUZMAN YURI	Par	Blanco y negro	Generales	10x2	05	0	Arte	Karina Rivera	REMATE JUDICIAL EN OVALLE ex tienda elegante	2018-12-17 00:00:00	
+170696	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	12x3	06	16.065	Publicado	Claudio Romero	Muebles alpina..	2018-12-17 00:00:00	
+170583	FUNERARIA ALVARO MAYA TABILO E.I.R.			UIP	5x2	08	3.931	Publicado	Karina Rivera	FUNERARIA SANTA ROSA	2018-12-17 00:00:00	
+171035	EMPRESA PERIODISTICA EL NORTE S.A.	Par	Blanco y negro	Medios Regionales	6x2	08	18.204	Arte	Medios Regionales	Remate Banco Santander GRC - (179805)	2018-12-17 00:00:00	
+171894	CENTRO DE FORMACION TECNICA SANTO T	Par	Cuatricromia	Generales	35x6	09	168.076	Publicado	Karina Rivera		2018-12-17 00:00:00	
+171852	SOST. EDUC. ROSANA SANTIBA?EZ E.I.R	Par	Cuatricromia	Generales	35x6	11	120.000	Publicado	Karina Rivera	SOCIALES JARDIN GREEN GARDEN	2018-12-17 00:00:00	
+168590	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	14	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2018-12-17 00:00:00	

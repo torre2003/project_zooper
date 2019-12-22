@@ -1,0 +1,45 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+170101	INVERSIONES E INMOBILIARIA P.A.T.  	Par	Cuatricromia	Generales	17x6	06	0	Arte	Miguel Apey	2018-11-17 00:00:00	
+169434	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Cuatricromia	Medios Regionales	32x6	07	582.024	Arte	Medios Regionales	2018-11-17 00:00:00	
+168202	INMOBILIARIA ELQUI S.A.	Impar	Cuatricromia	Generales	17x3	08	0	Arte	M Cristina Puga	2018-11-17 00:00:00	
+170069	BUALE GRUP LTDA.	Par	Cuatricromia	Generales	17x3	08	60.000	Arte	Claudio Romero	2018-11-17 00:00:00	
+170190	INMOBIL. LA SERENA GOLF S.A.	Impar	Cuatricromia	Generales	17x6	09	288.660	Arte	Patricia Villena	2018-11-17 00:00:00	
+169272	DIARIO EL DIA	Par	Cuatricromia	Generales	6x3	10	0	Arte	Marcela Tello-ElDia	2018-11-17 00:00:00	
+168924	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Cuatricromia	Medios Regionales	16x6	11	343.848	Arte	Medios Regionales	2018-11-17 00:00:00	
+168707	INVERSIONES ALTA CRUZ LTDA	Par	Blanco y negro	Generales	5x2	13	0	Arte	Marcela Tello-ElDia	2018-11-17 00:00:00	
+168277	C.M. SOC. GASTRONOMICA LTDA.			UIP	5x2	13	7.208	Arte		2018-11-17 00:00:00	
+169081	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	4x5	13	20.508	Arte	Miguel Apey	2018-11-17 00:00:00	
+169051	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	13	8.306	Arte	Miguel Apey	2018-11-17 00:00:00	
+168650	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	13	0	Arte	Marcela Tello-ElDia	2018-11-17 00:00:00	
+168976	ARMAQ SUBIRI S.A.			UIP	5x1	14	8.937	Arte	Claudio Romero	2018-11-17 00:00:00	
+168815	PAMELA B. GONZALEZ LIZAMA COMERCIAL	Par	Blanco y negro	Generales	5x2	14	0	Arte	Marcela Tello-ElDia	2018-11-17 00:00:00	
+169121	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	5x2	14	0	Arte	Miguel Apey	2018-11-17 00:00:00	
+170031	RODOLFO SOLAR	Par	Blanco y negro	Generales	5x1	14	17.688	Arte	Jacqueline Torres	2018-11-17 00:00:00	
+168764	PILLA LA VACA	Par	Blanco y negro	Generales	5x2	14	0	Arte	Marcela Tello-ElDia	2018-11-17 00:00:00	
+170192	INSTITUTO DE DESARROLLO AGROPECUARI	Par	Blanco y negro	Generales	17x6	16	0	Arte	Jacqueline Torres	2018-11-17 00:00:00	
+170222	UNIVERSIDAD CENTRAL DE CHILE	Par	Cuatricromia	Generales	35x6	17	400.000	Arte	Jacqueline Torres	2018-11-17 00:00:00	
+168521	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	22	0	Arte	Marcela Tello-ElDia	2018-11-17 00:00:00	
+170186	INVERSIONES LORETO SPA	Impar	Cuatricromia	Generales	18x6	23	168.067	Arte	Pedro Jaime	2018-11-17 00:00:00	
+169193	DABED Y CIA. LTDA., SELIM	Par	Cuatricromia	Generales	6x6	24	27.690	Arte	Karina Rivera	2018-11-17 00:00:00	
+169713	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	25	0	Arte	Marcela Tello-ElDia	2018-11-17 00:00:00	
+170011	CAMPOS DEL NORTE S.A.	Par	Cuatricromia	Generales	17x3	25	0	Arte	Patricia Villena	2018-11-17 00:00:00	
+170193	SERVICIO LOCAL DE EDUCACION PUBLICA	Par	Blanco y negro	Generales	20x3	26	0	Arte	Jacqueline Torres	2018-11-17 00:00:00	
+170164	SOC DE INVERSIONES BARAQUI GIMENEZ 	Par	Blanco y negro	Generales	5x2	26	33.691	Arte	Kathine Soto-Stgo	2018-11-17 00:00:00	
+169689	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Cuatricromia	Medios Regionales	32x6	27	582.024	Arte	Medios Regionales	2018-11-17 00:00:00	
+169740	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	27	0	Arte	Marcela Tello-ElDia	2018-11-17 00:00:00	
+169865	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	27	0	Arte	Marcela Tello-ElDia	2018-11-17 00:00:00	
+169570	SERVICIOS GENERALES GUAYACAN S.A	Par	Blanco y negro	Generales	3x2	28	6.812	Arte	Jacqueline Torres	2018-11-17 00:00:00	
+170191	COOP. AGRICOLA PISQUERA ELQUI LTDA.	Par	Blanco y negro	Generales	18x3	28	167.227	Arte	Pedro Jaime	2018-11-17 00:00:00	
+170119	MILENKO ZURITA ROJAS	Par	Blanco y negro	Generales	5x2	31	20.000	Arte	Heinger Vega Torres	2018-11-17 00:00:00	
+164871	JUAN SEBASTIAN BOU LAGUNAS	Par	Blanco y negro	Generales	5x2	31	9.454	Arte	Heinger Vega Torres	2018-11-17 00:00:00	
+169980	ANDREA YAZIGI SFEIR	Par	Blanco y negro	Generales	5x2	31	8.403	Arte	Heinger Vega Torres	2018-11-17 00:00:00	
+167748	UNIVERSIDAD CENTRAL DE CHILE	Par	Cuatricromia	Contraportada	35x6	32	752.779	Arte	Jacqueline Torres	2018-11-17 00:00:00	
+170210	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	8x2	EC	39.696	Arte	Medios Regionales	2018-11-17 00:00:00	
+169512	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Generales	5x2	EC	7.003	Arte	Rene Pizarro	2018-11-17 00:00:00	
+166168	HOTELERIA LUIS ALBERTO BERETTA KIEK	Par	Blanco y negro	Generales	5x2	EC	6.061	Arte	Patricia Villena	2018-11-17 00:00:00	
+170161	FUNDACION EDUCACIONAL SCUOLA ITALIA	Par	Blanco y negro	Economico	10x2	EC	58.959	Arte	Jacqueline Torres	2018-11-17 00:00:00	
+170184	INVERSIONES VEINTINUEVE GRADOS	Par	Blanco y negro	Economico	10x2	EC	25.268	Arte	Jacqueline Torres	2018-11-17 00:00:00	
+170166	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	8x2	EC	39.696	Arte	Medios Regionales	2018-11-17 00:00:00	
+168942	COMERCIAL E.C.C.S.A.  S.A.		Hasta 8 pag.	Inserto	x	xx	331.500	Arte	M Cristina Puga	2018-11-17 00:00:00	
+170084	RESTAURANTE BAKULIC & MENESES LIMIT	83 Palabras		Propiedades	x	xx	13.280	Arte	Miguel Apey	2018-11-17 00:00:00	
+169999	COMERCIAL E.C.C.S.A.  S.A.		9 a 24 pag.	Inserto	x	xx	459.000	Arte	M Cristina Puga	2018-11-17 00:00:00	

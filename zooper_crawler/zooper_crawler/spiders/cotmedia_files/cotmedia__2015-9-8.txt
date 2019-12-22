@@ -1,0 +1,31 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+84128	DIARIO EL DIA	Par	Cuatricromia	Generales	34x6	05	0	Publicado	Marcela Tello-ElDia	2015-9-8 00:00:00	
+84129	CLUB DE DEPORTES LA SERENA	Par	Cuatricromia	Generales	17x3	08	0	Publicado	Marcela Tello-ElDia	2015-9-8 00:00:00	
+84096	ILUSTRE MUNICIPALIDAD DE VICUNA	Par	Blanco y negro	Generales	6x2	08	29.881	Publicado	Jacqueline Torres	2015-9-8 00:00:00	
+83052	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	12-14	8.306	Publicado	Miguel Apey	2015-9-8 00:00:00	
+83938	MIGUEL GUZMAN YURI	Par	Blanco y negro	Generales	8x2	13	47.460	Publicado	Leonel Pizarro-Ovalle	2015-9-8 00:00:00	
+83412	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	10x3	13	0	Publicado	Marcela Tello-ElDia	2015-9-8 00:00:00	
+84089	RENDIC HNOS. S.A.	Par	Cuatricromia	Generales	35x6	16	979.732	Publicado	Patricia Villena	2015-9-8 00:00:00	
+84090	RENDIC HNOS. S.A.	Par	Cuatricromia	Generales	35x6	17	979.732	Publicado	Patricia Villena	2015-9-8 00:00:00	
+83595	DIARIO EL DIA	Par	Cuatricromia	Generales	12x6	22	0	Publicado	Marcela Tello-ElDia	2015-9-8 00:00:00	
+84085	DIARIO EL DIA	Par	Blanco y negro	Generales	35x6	24	0	Publicado	Carolina Naranjo	2015-9-8 00:00:00	
+84086	DIARIO EL DIA	Impar	Blanco y negro	Generales	35x6	25	0	Publicado	Carolina Naranjo	2015-9-8 00:00:00	
+82186	SOC. DE GESTION MEDITERRANEA			UIP	5x1	29	8.937	Publicado	Miguel Apey	2015-9-8 00:00:00	
+84009				UIP	5x2	29	17.875	Publicado	Pedro Jaime	2015-9-8 00:00:00	
+83299	armaq			UIP	5x1	29	8.937	Publicado	Claudio Romero	2015-9-8 00:00:00	
+82976	SOC. COMERCIAL ALCAPARRA LTDA.	Par	Blanco y negro	Generales	5x2	29	10.440	Publicado	Patricia Villena	2015-9-8 00:00:00	
+83996	AREVALO CARMEN 			UIP	5x1	29	8.937	Publicado	Pedro Jaime	2015-9-8 00:00:00	
+83987	SM CONS			UIP	5x1	29	8.937	Publicado	Jacqueline Torres	2015-9-8 00:00:00	
+83512	DIARIO EL DIA	Par	Blanco y negro	Generales	5x2	29	0	Publicado	Marcela Tello-ElDia	2015-9-8 00:00:00	
+83923	leon leon			UIP	5x2	29	17.875	Publicado	Jacqueline Torres	2015-9-8 00:00:00	
+83458	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	29	0	Publicado	Marcela Tello-ElDia	2015-9-8 00:00:00	
+83834	ECHEVERRY GOMEZ ELIZABETH			UIP	5x1	29	8.937	Publicado	Pedro Jaime	2015-9-8 00:00:00	
+83627	BARRAZA CARLOS			UIP	5x1	29	8.937	Publicado	Marcela Tello-ElDia	2015-9-8 00:00:00	
+83652	SERVICIOS GENERALES GUAYACAN S.A	Par	Blanco y negro	Generales	3x2	30	6.451	Publicado	Jacqueline Torres	2015-9-8 00:00:00	
+84103	PRISMA INGENIERIA LTDA	143 Palabras		Legal	x	EC	35.714	Publicado	Pedro Jaime	2015-9-8 00:00:00	
+84098	CHRISTIAN EDUARDO BRAVO BUSTOS	715 Palabras		Legal	x	EC	177.563	Publicado	Pedro Jaime	2015-9-8 00:00:00	
+83238	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Generales	5x1	EC-20	5.860	Publicado	Rene Pizarro	2015-9-8 00:00:00	
+83270	SOC. COMERCIAL VARGAS Y GIACOMET	Par	Blanco y negro	Generales	5x1	EC-20	5.860	Publicado	Rene Pizarro	2015-9-8 00:00:00	
+83886	ulises del carmen salinas			UIP	5x2	EC-20	17.875	Publicado	Pedro Jaime	2015-9-8 00:00:00	
+84002	AREVALO CARMEN			UIP	5x1	EC-20	8.937	Publicado	Pedro Jaime	2015-9-8 00:00:00	
+84097	CARMEN AREVALO ROMERO	391 Palabras		Propiedades	x	PROP	62.560	Publicado	Pedro Jaime	2015-9-8 00:00:00	

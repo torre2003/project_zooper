@@ -1,0 +1,4 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+81385	Tanguemar			UIP	5x2	05	2.808	Publicado	Patricia Villena	Tanguemar	2015-9-1 00:00:00	
+81990	jorge alvarado 			UIP	5x2	05	2.808	Publicado	Italo Retamal	abogado	2015-9-1 00:00:00	
+83386	LINCOYAN MANUEL ROJAS PE?ARANDA	Par	Blanco y negro	Generales	12x2	14	28.248	Publicado	Leonel Pizarro-Ovalle	DEFUNCION	2015-9-1 00:00:00	

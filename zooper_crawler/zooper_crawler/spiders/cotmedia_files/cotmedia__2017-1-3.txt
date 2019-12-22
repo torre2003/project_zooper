@@ -1,0 +1,24 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+120151	DIARIO EL DIA	Par	Cuatricromia	Generales	34x6	05	0	Arte	Marcela Tello-ElDia	2017-1-3 00:00:00	
+119860	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	6x6	09	51.666	Publicado	Claudio Romero	2017-1-3 00:00:00	
+120014	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	5x2	13	0	Publicado	Miguel Apey	2017-1-3 00:00:00	
+120083	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	16x3	13	104.352	Publicado	Medios Regionales	2017-1-3 00:00:00	
+117530	SOC. DE GES			UIP	5x1	13	8.937	Publicado	Miguel Apey	2017-1-3 00:00:00	
+119757	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	14	8.306	Publicado	Miguel Apey	2017-1-3 00:00:00	
+120087	SERVICIOS DE TRANSPORTES DE PASAJER	Par	Blanco y negro	Generales	7x2	14	51.268	Publicado	Miguel Apey	2017-1-3 00:00:00	
+119916	armaq			UIP	5x1	14	8.937	Publicado	Claudio Romero	2017-1-3 00:00:00	
+114810	CERNA E HIJOS CIA. LTDA.	Par	Blanco y negro	Generales	5x1	14	4.468	Publicado	Nadia Randolph	2017-1-3 00:00:00	
+119824	AREVALO CARMEN			UIP	5x1	14	8.937	Publicado	Pedro Jaime	2017-1-3 00:00:00	
+119359	inversiones san			UIP	5x1	14	8.937	Publicado	Rene Pizarro	2017-1-3 00:00:00	
+119399	SOC.INMOBIL.Y DE INV.MORALES Y CIA.			UIP	5x2	15	0	Arte	Marcela Tello-ElDia	2017-1-3 00:00:00	
+114332	GESTION NORTE	Par	Blanco y negro	Generales	5x2	15	9.290	Publicado	Patricia Villena	2017-1-3 00:00:00	
+118105	ICEFOOD LIMITADA	Par	Blanco y negro	Generales	5x2	15	8.925	Publicado	Patricia Villena	2017-1-3 00:00:00	
+120152	DIARIO EL DIA	Par	Cuatricromia	Generales	17x6	16	0	Arte	Marcela Tello-ElDia	2017-1-3 00:00:00	
+120153	DIARIO EL DIA	Par	Blanco y negro	Generales	34x6	20	0	Arte	Marcela Tello-ElDia	2017-1-3 00:00:00	
+119965	SERVICIO DE REGISTRO CIVIL E IDENTI	Par	Blanco y negro	Generales	35x6	21-23	690.100	Publicado	Jacqueline Torres	2017-1-3 00:00:00	
+120154	DIARIO EL DIA	Par	Cuatricromia	Generales	17x6	28	0	Arte	Marcela Tello-ElDia	2017-1-3 00:00:00	
+119794	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	4x5	30	20.508	Publicado	Miguel Apey	2017-1-3 00:00:00	
+119978	SERVICIOS GENERALES GUAYACAN S.A	Par	Blanco y negro	Generales	4x2	31	6.666	Publicado	Jacqueline Torres	2017-1-3 00:00:00	
+118809	VELIZ CORTES JOSE A.	Par	Blanco y negro	Generales	3x2	31	14.719	Publicado	Pedro Cortes	2017-1-3 00:00:00	
+120089	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Generales	5x1	EC-19	6.043	Publicado	Rene Pizarro	2017-1-3 00:00:00	
+109006	HOTELERIA LUIS ALBERTO BERETTA KIEK	Par	Blanco y negro	Generales	5x2	EC-19	6.994	Publicado	Patricia Villena	2017-1-3 00:00:00	

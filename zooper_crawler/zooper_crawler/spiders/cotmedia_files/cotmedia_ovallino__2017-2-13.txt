@@ -1,0 +1,17 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+122777	PEDRO ANDRES MONARDEZ ELGUETA	Par	Cuatricromia	Generales	6x6	01	25.000	Publicado	Karina Rivera	Restaurant Riquisimo	2017-2-13 00:00:00	
+122031	ARENA CHILE S.A.	Impar	Cuatricromia	Generales	17x6	03	200.000	Publicado	M Cristina Puga	volkswagen/primeras impar	2017-2-13 00:00:00	
+119513	tanguem			UIP	5x2	04	2.808	Publicado	Patricia Villena	Tanguemar	2017-2-13 00:00:00	
+121405	AGRICOLA NORTE TALINAY LTDA	Par	Blanco y negro	Generales	5x2	04	1.666	Publicado	Paola Marquez	UIP VENTA ALFALFA	2017-2-13 00:00:00	
+121551	JACQUELINE JOFRE VILLANUEVA			UIP	5x2	04	2.808	Publicado	Karina Rivera	ROLLER OVALLE	2017-2-13 00:00:00	
+122938	UNIVERSIDAD DE LA SERENA	Impar	Cuatricromia	Ed.Especial	17x3	05	114.292	Publicado	Jacqueline Torres	saludo dia de la prensa	2017-2-13 00:00:00	
+122650	SOCIEDAD GASTRONOMICA			UIP	5x4	06	16.513	Publicado	Karina Rivera	Reservas Cena El Relajo	2017-2-13 00:00:00	
+122644	SOC.COMERCIAL SANTO DOMINGO LTDA			UIP	10x2	06	11.009	Publicado	Karina Rivera	Reservas tortas personalizadas Piandy	2017-2-13 00:00:00	
+122340	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	07	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2017-2-13 00:00:00	
+122689	HUGO LUIS CONTULIANO MONARDEZ			UIP	5x2	08	2.808	Publicado	Karina Rivera		2017-2-13 00:00:00	
+122721	SOC. HOTELERA VICHUQUEN LTDA.	Par	Cuatricromia	Generales	10x2	08	0	Arte	Karina Rivera		2017-2-13 00:00:00	
+117907	OVALLEMAR			UIP	5x2	08	3.958	Publicado	Karina Rivera	OVALLE MAR	2017-2-13 00:00:00	
+122737	SOCIEDAD DE RENTAS FALABELLA S.A	Par	Cuatricromia	Generales	17x6	09	200.000	Publicado	M Cristina Puga	Open Plaza - Mall Ovalle	2017-2-13 00:00:00	
+121043	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	6x6	11	16.065	Publicado	Claudio Romero	Muebles Alpina	2017-2-13 00:00:00	
+122750	DABED Y CIA. LTDA., SELIM	Par	Cuatricromia	Generales	6x6	14	23.077	Publicado	Karina Rivera	1 ANIV	2017-2-13 00:00:00	
+122853	COMERCIALIZADORA DEL NORTE S.P.A.	Par	Cuatricromia	Generales	34x6	16	286.520	Publicado	Patricia Villena	Contraportada - La Elegante	2017-2-13 00:00:00	

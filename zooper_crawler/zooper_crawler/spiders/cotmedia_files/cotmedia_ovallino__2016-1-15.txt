@@ -1,0 +1,18 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+93134	SOCIEDAD DE RENTAS FALABELLA S.A	Par	Cuatricromia	Generales	8x6	01	50.980	Publicado	M Cristina Puga	Open full promo	2016-1-15 00:00:00	
+93536	ABRIL PUBLICIDAD INVERSIONES Y ASES	Impar	Cuatricromia	Generales	17x6	03	216.330	Publicado	Patricia Villena		2016-1-15 00:00:00	
+91454	INMOBILIARIA OASIS DEL LIMAR? LTDA	Par	Blanco y negro	Generales	5x2	05	1.428	Publicado	Italo Retamal	arriendo local oasis	2016-1-15 00:00:00	
+93037	dominga			UIP	10x2	05	3.378	Publicado	Leonel Pizarro-Ovalle	laboratorio clinico	2016-1-15 00:00:00	
+93358	CALLEGARI LTDA.	Par	Cuatricromia	Generales	8x6	06	30.000	Publicado	Marcela Tello-ElDia	Repuestos Ford - Portada	2016-1-15 00:00:00	
+92507	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	6x6	08	16.065	Publicado	Claudio Romero	Muebles Alpina	2016-1-15 00:00:00	
+92824	DABED Y CIA. LTDA., SELIM	Par	Cuatricromia	Generales	6x6	09	23.076	Publicado	Marcela Tello-ElDia	O. Verano 2 	2016-1-15 00:00:00	
+92577	AGRICOLA NORTE TALINAY LTDA	Par	Blanco y negro	Generales	5x2	10	1.428	Publicado	Italo Retamal	Oferta de empleos	2016-1-15 00:00:00	
+93177	INVERSIONES AVANZADA LTDA	Par	Blanco y negro	Generales	5x2	10	5.837	Publicado	Jacqueline Torres	campo lindo valle	2016-1-15 00:00:00	
+92438	AGRICOLA NORTE TALINAY LTDA	Par	Blanco y negro	Generales	5x2	10	1.428	Publicado	Italo Retamal	venta fardos	2016-1-15 00:00:00	
+93540	SOC PERIODISTICA BANIC Y LANCCELOTT	Impar	Cuatricromia	Generales	10x6	11	59.321	Publicado	Patricia Villena	Fiesta Costumbrista de Parral de Aquiles	2016-1-15 00:00:00	
+92890	MOP OOPP	Impar	Blanco y negro	Generales	35x6	12	467.731	Publicado	Jacqueline Torres	PATENTE 2016	2016-1-15 00:00:00	
+92889	MOP OOPP	Par	Blanco y negro	Generales	35x6	13	467.732	Publicado	Jacqueline Torres	PATENTE 2016	2016-1-15 00:00:00	
+93645	DABED Y CIA. LTDA., SELIM	Par	Blanco y negro	Generales	10x2	14	26.365	Publicado	Marcela Tello-ElDia		2016-1-15 00:00:00	
+93370	AGRICOLA Y FORESTAL CANTA RANA	145 Palabras		Legal	x	14	35.960	Publicado	Leonel Pizarro-Ovalle	CAMBIO AGUAS 	2016-1-15 00:00:00	
+93369	AGRICOLA Y FORESTAL CANTA RANA	148 Palabras		Legal	x	14	36.704	Publicado	Leonel Pizarro-Ovalle	AGUAS CANATA RANA	2016-1-15 00:00:00	
+93630	EMPRESAS LA POLAR S.A.	Par	Cuatricromia	Generales	35x6	16	0	Publicado	Patricia Villena		2016-1-15 00:00:00	

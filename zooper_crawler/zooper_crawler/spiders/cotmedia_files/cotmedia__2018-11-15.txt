@@ -1,0 +1,43 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+170116	LYR COMUNICACIONES		133 Frases	Radio	x		600.000	Arte	Jacqueline Torres	2018-11-15 00:00:00	
+169973	ORIGEN COMUNICACIONES S.P.A	Par	Cuatricromia	Generales	17x6	05	439.265	Publicado	Patricia Villena	2018-11-15 00:00:00	
+170074	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	07	0	Publicado	Marcela Tello-ElDia	2018-11-15 00:00:00	
+170067	BUALE GRUP LTDA.	Par	Cuatricromia	Generales	17x3	07	60.000	Publicado	Claudio Romero	2018-11-15 00:00:00	
+168511	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	08	0	Publicado	Marcela Tello-ElDia	2018-11-15 00:00:00	
+169972	ROGELIO CARVAJAL Y CIA LTDA	Impar	Cuatricromia	Generales	17x3	09	0	Arte	Patricia Villena	2018-11-15 00:00:00	
+169738	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	09	0	Publicado	Marcela Tello-ElDia	2018-11-15 00:00:00	
+170037	SERVICIOS DE TRANSPORTES DE PASAJER	Par	Blanco y negro	Generales	7x2	10	51.268	Publicado	Miguel Apey	2018-11-15 00:00:00	
+169019	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	12x3	10	51.666	Publicado	Claudio Romero	2018-11-15 00:00:00	
+169101	LABORATORIO CLINICO STA. MARIA LA S	Par	Blanco y negro	Generales	6x2	10	7.470	Publicado	Miguel Apey	2018-11-15 00:00:00	
+168974	ARMAQ SUBIRI S.A.			UIP	5x1	10	8.937	Publicado	Claudio Romero	2018-11-15 00:00:00	
+169050	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	12	8.306	Publicado	Miguel Apey	2018-11-15 00:00:00	
+169924	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	16x3	12	109.584	Publicado	Medios Regionales	2018-11-15 00:00:00	
+169552	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	6x2	12	27.396	Publicado	Medios Regionales	2018-11-15 00:00:00	
+169818	SERVICIO DE REGISTRO CIVIL E IDENTI	Par	Blanco y negro	Generales	35x6	16-18	731.630	Publicado	Jacqueline Torres	2018-11-15 00:00:00	
+170057	SEREMI BIENES NACIONALES IV REGION	1000 Palabras		Legal	x	19	239.496	Publicado	Jacqueline Torres	2018-11-15 00:00:00	
+169813	SERV. VIVIENDA Y URBANIZACION IV RE	219 Palabras		Legal	0x0	19	54.312	Publicado	Jacqueline Torres	2018-11-15 00:00:00	
+169816	SERV. VIVIENDA Y URBANIZACION IV RE	219 Palabras		Legal	0x0	19	54.312	Publicado	Jacqueline Torres	2018-11-15 00:00:00	
+169817	SERV. VIVIENDA Y URBANIZACION IV RE	219 Palabras		Legal	0x0	19	54.312	Publicado	Jacqueline Torres	2018-11-15 00:00:00	
+169191	DABED Y CIA. LTDA., SELIM	Par	Cuatricromia	Generales	6x6	22	27.690	Publicado	Karina Rivera	2018-11-15 00:00:00	
+168705	INVERSIONES ALTA CRUZ LTDA	Par	Blanco y negro	Generales	5x2	23	0	Publicado	Marcela Tello-ElDia	2018-11-15 00:00:00	
+168645	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	23	0	Publicado	Marcela Tello-ElDia	2018-11-15 00:00:00	
+168759	PILLA LA VACA	Par	Blanco y negro	Generales	5x2	23	0	Publicado	Marcela Tello-ElDia	2018-11-15 00:00:00	
+168813	PAMELA B. GONZALEZ LIZAMA COMERCIAL	Par	Blanco y negro	Generales	5x2	23	0	Publicado	Marcela Tello-ElDia	2018-11-15 00:00:00	
+169119	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	5x2	23	0	Publicado	Miguel Apey	2018-11-15 00:00:00	
+168275	C.M. SOC. GASTRONOMICA LTDA.			UIP	5x2	23	7.208	Publicado		2018-11-15 00:00:00	
+169079	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	4x5	23	20.508	Publicado	Miguel Apey	2018-11-15 00:00:00	
+170012	CAMPOS DEL NORTE S.A.	Par	Cuatricromia	Generales	17x3	28	0	Publicado	Patricia Villena	2018-11-15 00:00:00	
+169715	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	28	0	Publicado	Marcela Tello-ElDia	2018-11-15 00:00:00	
+170076	SOC. EDUCACIONAL SAN GUILLERMO LTDA	Par	Blanco y negro	Generales	5x2	29	25.210	Publicado	Miguel Apey	2018-11-15 00:00:00	
+170122	DIARIO EL DIA	Par	Blanco y negro	Generales	6x6	29	0	Publicado	Marcela Tello-ElDia	2018-11-15 00:00:00	
+169568	SERVICIOS GENERALES GUAYACAN S.A	Par	Blanco y negro	Generales	3x2	29	6.812	Publicado	Jacqueline Torres	2018-11-15 00:00:00	
+169219	OPERADORA Y ADMINISTRADORA NUEVA PO	Par	Cuatricromia	Generales	35x6	32	0	Publicado	Patricia Villena	2018-11-15 00:00:00	
+168907	MOP OOPP	Impar	Blanco y negro	Generales	12x1	EC	52.733	Publicado	Jacqueline Torres	2018-11-15 00:00:00	
+170066	SCOTIABANK CHILE S.A.	542 Palabras		Legal	x	EC	134.454	Publicado	Pedro Jaime	2018-11-15 00:00:00	
+168909	MOP OOPP	Impar	Blanco y negro	Generales	12x1	EC	52.733	Publicado	Jacqueline Torres	2018-11-15 00:00:00	
+170120	DIARIO EL DIA	Par	Blanco y negro	Generales	12x6	EC-14	0	Publicado	Marcela Tello-ElDia	2018-11-15 00:00:00	
+166166	HOTELERIA LUIS ALBERTO BERETTA KIEK	Par	Blanco y negro	Generales	5x2	EC-15	6.061	Publicado	Patricia Villena	2018-11-15 00:00:00	
+169893	SANTANDER G.R.C.	Par	Blanco y negro	Generales	15x6	EC-15	329.580	Publicado	Pedro Jaime	2018-11-15 00:00:00	
+170059	BANCO DE CHILE	630 Palabras		Legal	x	EC-15	156.302	Publicado	Pedro Jaime	2018-11-15 00:00:00	
+169510	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Generales	5x2	EC-15	7.003	Publicado	Rene Pizarro	2018-11-15 00:00:00	
+170032	RECAUDACIONES Y COBRANZA S.A	623 Palabras		Legal	x	EC-15	154.622	Publicado	Pedro Jaime	2018-11-15 00:00:00	

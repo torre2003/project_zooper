@@ -1,0 +1,12 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+114237	Pedro Andres Monardez Elgueta			UIP	17x2	01	12.895	Arte	Karina Rivera	Restaurant Riquisimo	2016-11-11 00:00:00	
+116059	OVALLE CASINO RESORT S.A	Par	Cuatricromia	Generales	25x4	03	131.824	Arte	Paola Marquez	OCR Eventos Noviembre	2016-11-11 00:00:00	
+115920	AGRICOLA NORTE TALINAY LTDA	Par	Blanco y negro	Generales	5x2	05	1.666	Arte	Paola Marquez	UIP VENTA ALFALFA	2016-11-11 00:00:00	
+115183	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	6x6	06	16.065	Arte	Claudio Romero	Muebles Alpina	2016-11-11 00:00:00	
+115948	ALAMO SAGLIE SANDRA			UIP	5x2	07	2.808	Arte	Claudio Romero	VENDO AGUAS CANAL...	2016-11-11 00:00:00	
+115906	S.O.T			UIP	5x4	07	5.630	Arte	Karina Rivera	VENTA DE ARIDOS	2016-11-11 00:00:00	
+116147	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x6	08	0	Arte	Marcela Tello-ElDia	Clases Ejecutivas	2016-11-11 00:00:00	
+116237	CONSTRUMART S.A.	Impar	Cuatricromia	Generales	34x3	09	373.524	Arte	Patricia Villena	Construmart	2016-11-11 00:00:00	
+116049	UNIVERSIDAD DE LA SERENA	Par	Cuatricromia	Generales	17x6	11	100.846	Arte	Jacqueline Torres	ADMISION 2017	2016-11-11 00:00:00	
+115424	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	13	0	Arte	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2016-11-11 00:00:00	
+116162	EMPRESAS LA POLAR S.A.	Impar	Cuatricromia	Generales	35x6	16	252.000	Arte	Patricia Villena	La Polar Contraportada o primera impar	2016-11-11 00:00:00	

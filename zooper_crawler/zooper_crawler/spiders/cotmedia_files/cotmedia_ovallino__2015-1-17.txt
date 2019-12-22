@@ -1,0 +1,11 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+66721	CALLEGARI LTDA.	Par	Cuatricromia	Generales	6x6	01	30.000	Publicado	Marcela Tello-ElDia	Portada - Kia	2015-1-17 00:00:00	
+65643	LA ELEGANTE	Par	Cuatricromia	Contraportada	35x6	03	177.172	Publicado	Patricia Villena	La elegante	2015-1-17 00:00:00	
+66366	tremendo			UIP	10x2	07	5.632	Publicado	Italo Retamal	Tremendo Restaurante	2015-1-17 00:00:00	
+66396	Marcela Burgos Robles			UIP	10x2	07	5.630	Publicado	Italo Retamal	agrogranjalosacacios	2015-1-17 00:00:00	
+65656	LA ELEGANTE	Par	Cuatricromia	Generales	8x6	08	0	Publicado	Patricia Villena	Franja La Elegante bonificada	2015-1-17 00:00:00	
+67132	CENCOSUD RETAIL S.A.	Impar	Cuatricromia	Generales	35x6	09	573.039	Publicado	Kathine Soto-Stgo		2015-1-17 00:00:00	
+67043	PRENSA DEL LIMARI LTDA.	Par	Blanco y negro	Generales	6x2	10	0	Publicado	Marcela Tello-ElDia	Hoy Circulan - Economicos	2015-1-17 00:00:00	
+66550	rio hur			UIP	10x6	11	16.260	Publicado	Italo Retamal		2015-1-17 00:00:00	
+67058	DABED Y CIA. LTDA., SELIM	Par	Cuatricromia	Generales	6x6	14	23.077	Publicado	Italo Retamal	Dabed outlet 	2015-1-17 00:00:00	
+65594	SOCIEDAD DE RENTAS FALABELLA S.A	Impar	Cuatricromia	Contraportada	35x6	16	400.000	Publicado	M Cristina Puga	Open Plaza / Contraportada	2015-1-17 00:00:00	

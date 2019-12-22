@@ -1,0 +1,8 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+95430	DABED Y CIA. LTDA., SELIM	Par	Cuatricromia	Generales	6x6	03	23.076	Publicado	Nadia Randolph	Esc.Oficios 1	2016-3-6 00:00:00	
+97400	CAMAL MUSALEM TAPIA Y CIA.	Par	Blanco y negro	Generales	32x4	05	156.672	Publicado	Marcela Tello-ElDia	Toyota Sale	2016-3-6 00:00:00	
+96841	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	07	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2016-3-6 00:00:00	
+95371	SOCIEDAD BUSTOS Y PROCURIZA LTDA.	Par	Blanco y negro	Generales	10x2	09	27.542	Publicado	Maria_Amelia Hermosilla	Cento	2016-3-6 00:00:00	
+97227	BANCO SANTANDER CHILE	Par	Blanco y negro	Generales	10x2	09	61.205	Publicado	Leonel Pizarro-Ovalle	EJECUTIVO PYME	2016-3-6 00:00:00	
+97471	PRENSA DEL LIMARI LTDA.	Par	Blanco y negro	Generales	5x2	09	0	Arte	Marcela Tello-ElDia	Ejecutivo (a) de venta	2016-3-6 00:00:00	
+97413	DABED Y CIA. LTDA., SELIM	Par	Blanco y negro	Generales	12x2	13	66.387	Publicado	Pedro Jaime	AGRADECIMIENTOS JULIO EDUARDO POLANCO	2016-3-6 00:00:00	

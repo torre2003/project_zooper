@@ -1,0 +1,37 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+139423	CHRISTIAN LAUNITZ MARIN SERVICIOS M	Par	Blanco y negro	Generales	5x2	04	5.000	Publicado	Heinger Vega Torres	2017-10-3 00:00:00	
+140334	UNIVERSIDAD TECNOLOGICA DE CHILE	Impar	Cuatricromia	Generales	17x6	05	450.000	Publicado	Patricia Villena	2017-10-3 00:00:00	
+140351	IMPERIAL S.A.	Impar	Cuatricromia	Generales	35x6	07	589.870	Publicado	Patricia Villena	2017-10-3 00:00:00	
+140359	EMPRESA PUBLICITARIA Y DE COMUNICAC	Par	Cuatricromia	Generales	17x6	09	300.000	Publicado	Pedro Jaime	2017-10-3 00:00:00	
+140366	DIARIO EL DIA	Par	Cuatricromia	Generales	34x6	11	0	Publicado	Marcela Tello-ElDia	2017-10-3 00:00:00	
+140161	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	12	0	Publicado	Marcela Tello-ElDia	2017-10-3 00:00:00	
+137492	INVERSIONES Y GESTI?N S.A	Par	Blanco y negro	Generales	15x3	13	175.500	Publicado	Pedro Jaime	2017-10-3 00:00:00	
+140367	DIARIO EL DIA	Par	Blanco y negro	Generales	5x3	13	0	Publicado	Marcela Tello-ElDia	2017-10-3 00:00:00	
+139936	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	5x2	15	0	Publicado	Miguel Apey	2017-10-3 00:00:00	
+139395	C.M. SOC. GASTRONOMICA LTDA.			UIP	5x2	15	7.208	Publicado		2017-10-3 00:00:00	
+139622	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	16	8.306	Publicado	Miguel Apey	2017-10-3 00:00:00	
+140368	DIARIO EL DIA	Par	Cuatricromia	Generales	4x6	16	0	Publicado	Marcela Tello-ElDia	2017-10-3 00:00:00	
+140335	HSCHILE S.A.	Impar	Cuatricromia	Generales	17x6	17	0	Arte	Patricia Villena	2017-10-3 00:00:00	
+140369	DIARIO EL DIA	Par	Blanco y negro	Generales	12x6	19	0	Publicado	Marcela Tello-ElDia	2017-10-3 00:00:00	
+139584	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	24	0	Publicado	Marcela Tello-ElDia	2017-10-3 00:00:00	
+139605	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	24	0	Publicado	Marcela Tello-ElDia	2017-10-3 00:00:00	
+140355	DIARIO EL DIA	Par	Blanco y negro	Generales	35x6	25	0	Publicado	Carolina Naranjo	2017-10-3 00:00:00	
+139766	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	6x6	28	51.666	Publicado	Claudio Romero	2017-10-3 00:00:00	
+140228	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	30	0	Publicado	Marcela Tello-ElDia	2017-10-3 00:00:00	
+134719	CERNA E HIJOS CIA. LTDA.	Par	Blanco y negro	Generales	5x1	30	3.574	Publicado	Nadia Randolph	2017-10-3 00:00:00	
+139301	SOC. DE GES			UIP	5x1	30	8.937	Publicado	Miguel Apey	2017-10-3 00:00:00	
+139666	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	4x5	30	20.508	Publicado	Miguel Apey	2017-10-3 00:00:00	
+139705	ARMAQ SUBIRI S.A.			UIP	5x1	30	8.937	Publicado	Claudio Romero	2017-10-3 00:00:00	
+138890	VELIZ CORTES JOSE A.	Par	Blanco y negro	Generales	3x2	31	13.403	Publicado	Pedro Cortes	2017-10-3 00:00:00	
+140135	SERVICIOS GENERALES GUAYACAN S.A	Par	Blanco y negro	Generales	4x2	31	6.686	Publicado	Jacqueline Torres	2017-10-3 00:00:00	
+140322	BANCO DE CREDITO E INVERSIONES	1040 Palabras		Legal	x	EC	257.983	Publicado	Pedro Jaime	2017-10-3 00:00:00	
+140321	BANCO DE CREDITO E INVERSIONES	1080 Palabras		Legal	x	EC	268.067	Publicado	Pedro Jaime	2017-10-3 00:00:00	
+140320	BANCO DE CREDITO E INVERSIONES	979 Palabras		Legal	x	EC	242.857	Publicado	Pedro Jaime	2017-10-3 00:00:00	
+140319	BANCO DE CREDITO E INVERSIONES	1060 Palabras		Legal	x	EC	263.025	Publicado	Pedro Jaime	2017-10-3 00:00:00	
+140358	SANTANDER G.R.C.	948 Palabras		Legal	x	EC	235.294	Publicado	Pedro Jaime	2017-10-3 00:00:00	
+140318	BANCO DE CREDITO E INVERSIONES	1209 Palabras		Legal	x	EC	300.000	Publicado	Pedro Jaime	2017-10-3 00:00:00	
+140323	KAUFMANN S.A.	Par	Blanco y negro	Generales	8x2	EC-21	0	Publicado	Pedro Jaime	2017-10-3 00:00:00	
+123956	HOTELERIA LUIS ALBERTO BERETTA KIEK	Par	Blanco y negro	Generales	5x2	EC-22	6.061	Publicado	Patricia Villena	2017-10-3 00:00:00	
+139800	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Economico	5x2	EC-22	15.161	Publicado	Rene Pizarro	2017-10-3 00:00:00	
+140370	DIARIO EL DIA	Par	Cuatricromia	Generales	17x6	EC-22	0	Publicado	Marcela Tello-ElDia	2017-10-3 00:00:00	
+139545	INMOBILIARIA NOVA S.A.		55 Frases	Radio	x	RA	250.000	Publicado	Paola Marquez	2017-10-3 00:00:00	

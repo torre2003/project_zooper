@@ -1,0 +1,27 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+147482	LICEO SAN FRANCISCO	Par	Blanco y negro	Generales	5x2	04	36.620	Publicado	Miguel Apey	2018-1-9 00:00:00	
+147283	C.M. SOC. GASTRONOMICA LTDA.			UIP	5x2	04	7.208	Publicado		2018-1-9 00:00:00	
+147044	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	5x2	04	0	Publicado	Miguel Apey	2018-1-9 00:00:00	
+147647	DIARIO EL DIA	Par	Cuatricromia	Generales	17x6	07	0	Publicado	Marcela Tello-ElDia	2018-1-9 00:00:00	
+147648	DIARIO EL DIA	Par	Cuatricromia	Generales	4x6	08	0	Publicado	Marcela Tello-ElDia	2018-1-9 00:00:00	
+147435	ILUSTRE MUNICIPALIDAD DE LA SERENA	Par	Blanco y negro	Generales	17x3	09	126.999	Publicado	M Cristina Puga	2018-1-9 00:00:00	
+146826	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	6x6	11	0	Arte	Claudio Romero	2018-1-9 00:00:00	
+146726	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	12	8.306	Publicado	Miguel Apey	2018-1-9 00:00:00	
+147168	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	24	0	Publicado	Marcela Tello-ElDia	2018-1-9 00:00:00	
+146857	ARMAQ SUBIRI S.A.			UIP	5x1	24	8.937	Publicado	Claudio Romero	2018-1-9 00:00:00	
+146766	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	4x5	24	20.508	Publicado	Miguel Apey	2018-1-9 00:00:00	
+146044	INMOBILIARIA PAN DE AZUCAR LTDA			UIP	5x1	24	8.937	Publicado	Pedro Jaime	2018-1-9 00:00:00	
+145830	SOC. DE GES			UIP	5x1	24	8.937	Publicado	Miguel Apey	2018-1-9 00:00:00	
+142072	CERNA E HIJOS CIA. LTDA.	Par	Blanco y negro	Generales	5x1	24	3.574	Publicado	Nadia Randolph	2018-1-9 00:00:00	
+147200	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	25	0	Publicado	Marcela Tello-ElDia	2018-1-9 00:00:00	
+147645	DIARIO EL DIA	Par	Blanco y negro	Generales	35x6	28	0	Publicado	Carolina Naranjo	2018-1-9 00:00:00	
+145981	VELIZ CORTES JOSE A.	Par	Blanco y negro	Generales	3x2	29	13.403	Publicado	Pedro Cortes	2018-1-9 00:00:00	
+147620	BANCO ESTADO DE CHILE	542 Palabras		Legal	x	EC	134.454	Publicado	Pedro Jaime	2018-1-9 00:00:00	
+147621	BANCO ESTADO DE CHILE	884 Palabras		Legal	x	EC	219.328	Publicado	Pedro Jaime	2018-1-9 00:00:00	
+147649	DIARIO EL DIA	Par	Blanco y negro	Generales	12x6	EC-20	0	Publicado	Marcela Tello-ElDia	2018-1-9 00:00:00	
+147028	PAOLA MILLA INVERNIZZI	Par	Blanco y negro	Generales	5x2	EC-20	0	Publicado	Marcela Tello-ElDia	2018-1-9 00:00:00	
+124069	HOTELERIA LUIS ALBERTO BERETTA KIEK	Par	Blanco y negro	Generales	5x2	EC-21	6.061	Publicado	Patricia Villena	2018-1-9 00:00:00	
+146889	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Economico	5x2	EC-21	15.161	Publicado	Rene Pizarro	2018-1-9 00:00:00	
+147650	DIARIO EL DIA	Par	Cuatricromia	Generales	17x6	EC-21	0	Publicado	Marcela Tello-ElDia	2018-1-9 00:00:00	
+147587	CARMEN AREVALO ROMERO	1702 Palabras		Propiedades	x	PROP	272.320	Publicado	Pedro Jaime	2018-1-9 00:00:00	
+147586	COMERCIAL AUTOKARINO LTDA.	271 Palabras		Legal	x	PROP	67.208	Publicado	Pedro Jaime	2018-1-9 00:00:00	

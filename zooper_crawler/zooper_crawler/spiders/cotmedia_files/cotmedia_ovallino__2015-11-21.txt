@@ -1,0 +1,12 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+89298	CALLEGARI LTDA.	Par	Cuatricromia	Generales	5x6	01	45.930	Publicado	Marcela Tello-ElDia	PORTADA FERIA CALLEGARI	2015-11-21 00:00:00	
+88056	JOSE CONTADOR DURAN	Par	Blanco y negro	Generales	5x2	05	1.428	Publicado	Italo Retamal	arriendo local	2015-11-21 00:00:00	
+89512	PAMELA HARDER SANTOS	Par	Blanco y negro	Generales	5x2	05	1.428	Publicado	Italo Retamal	venta de casa harder	2015-11-21 00:00:00	
+89324	JUAN CARLOS AQUEZ JILES	Par	Blanco y negro	Generales	5x2	05	1.429	Publicado	Italo Retamal	Capacitaciones 	2015-11-21 00:00:00	
+87721	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	10x3	07	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2015-11-21 00:00:00	
+88701	ADA D?AZ ARAYA	Par	Blanco y negro	Generales	5x2	07	1.428	Publicado	Italo Retamal	zona ganjah	2015-11-21 00:00:00	
+89087	RIO L			UIP	10x6	09	16.260	Publicado	Claudio Romero	PROYECTO MIRADOR OVALLE..	2015-11-21 00:00:00	
+89568	EMPRESA PERIODISTICA EL NORTE S.A.	Par	Blanco y negro	Medios Regionales	10x2	13	28.900	Publicado	Medios Regionales	DEFUNCION MORGADO ROJAS (ARTE)	2015-11-21 00:00:00	
+89599	PINEDO TOMULIC LTDA	Par	Blanco y negro	Generales	10x2	13	27.071	Publicado	Italo Retamal		2015-11-21 00:00:00	
+88906	SOCIEDAD DE RENTAS FALABELLA S.A	Impar	Cuatricromia	Generales	35x6	16	400.000	Publicado	M Cristina Puga	open Plaza / CONTRAPOrtada	2015-11-21 00:00:00	
+89350	EMPRESAS LA POLAR S.A.		9 a 24 pag.	Inserto	x	INS	160.000	Publicado	Patricia Villena	Especial Descanso.	2015-11-21 00:00:00	

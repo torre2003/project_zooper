@@ -1,0 +1,13 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+114255	Pedro Andres Monardez Elgueta			UIP	17x2	01	12.895	Arte	Karina Rivera	Restaurant Riquisimo	2016-12-2 00:00:00	
+118053	ARENA CHILE S.A.	Impar	Cuatricromia	Generales	17x6	03	200.000	Arte	M Cristina Puga	volkswagen/primeras impar	2016-12-2 00:00:00	
+115938	AGRICOLA NORTE TALINAY LTDA	Par	Blanco y negro	Generales	5x2	05	1.682	Arte	Paola Marquez	UIP VENTA ALFALFA	2016-12-2 00:00:00	
+117407	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	10x2	05	28.900	Arte	Medios Regionales	BBVA-ROL C-18571-2015  (  223751   ) 	2016-12-2 00:00:00	
+117845	OVALLEMAR			UIP	5x2	06	3.958	Arte	Karina Rivera	OVALLE MAR	2016-12-2 00:00:00	
+118186	COMERCIAL AVA 			UIP	10x2	06	7.882	Arte	Karina Rivera	E BODY OVALLE	2016-12-2 00:00:00	
+115475	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	07	0	Arte	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2016-12-2 00:00:00	
+118148	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Cuatricromia	Medios Regionales	32x6	08	349.693	Arte	Medios Regionales	CORONA ESPECIAL NAVIDAD (  225942  ) 	2016-12-2 00:00:00	
+118147	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Cuatricromia	Medios Regionales	32x6	09	349.693	Arte	Medios Regionales	CORONA ESPECIAL NAVIDAD (  225942  ) 	2016-12-2 00:00:00	
+116705	OVALLE CASINO RESORT S.A	Par	Cuatricromia	Generales	25x4	11	131.824	Arte	Paola Marquez	OCR Eventos Noviembre	2016-12-2 00:00:00	
+117585	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	6x6	14	16.065	Arte	Claudio Romero	Muebles Alpina	2016-12-2 00:00:00	
+117549	EMPRESAS LA POLAR S.A.	Impar	Cuatricromia	Generales	35x6	16	252.000	Arte	Patricia Villena	La Polar Contraportada o primera impar	2016-12-2 00:00:00	

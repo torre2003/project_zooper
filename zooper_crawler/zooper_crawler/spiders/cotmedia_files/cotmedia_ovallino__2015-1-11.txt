@@ -1,0 +1,10 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+66714	CALLEGARI LTDA.	Par	Cuatricromia	Generales	6x6	01	30.000	Publicado	Marcela Tello-ElDia	Portada - Kia	2015-1-11 00:00:00	
+66712	HERMANAS CALLEGARI LTDA.	Par	Cuatricromia	Generales	17x6	03	0	Arte	Marcela Tello-ElDia	MG	2015-1-11 00:00:00	
+66540	TRULY NOLEN CHILE S.A.	Par	Blanco y negro	Generales	5x1	05	15.302	Publicado	Miguel Apey	EJECUTIVOS DE VENTAS	2015-1-11 00:00:00	
+65443	CAMAL MUSALEM TAPIA Y CIA.	Par	Blanco y negro	Generales	14x3	07	51.408	Publicado	Marcela Tello-ElDia	Nuevos Modelos 2015 Toyota - Rep. 4/1	2015-1-11 00:00:00	
+66403	SERVICIO DE SALUD COQBO. IV REGION	Par	Blanco y negro	Generales	10x3	07	91.807	Publicado	Jacqueline Torres	CONVOCATORIA	2015-1-11 00:00:00	
+66713	HERMANAS CALLEGARI LTDA.	Par	Cuatricromia	Generales	17x6	09	0	Arte	Marcela Tello-ElDia	Ssang Yong	2015-1-11 00:00:00	
+66711	HERMANAS CALLEGARI LTDA.	Par	Cuatricromia	Generales	17x6	11	174.777	Publicado	Marcela Tello-ElDia	Chery	2015-1-11 00:00:00	
+66715	DABED Y CIA. LTDA., SELIM	Par	Blanco y negro	Generales	10x2	12	23.077	Publicado	Italo Retamal	defuncion	2015-1-11 00:00:00	
+65552	ABRIL PUBLICIDAD INVERSIONES Y ASES	Impar	Cuatricromia	Generales	35x6	16	512.195	Publicado	Patricia Villena	Santo Tomas primera impar (AGENCIA)	2015-1-11 00:00:00	

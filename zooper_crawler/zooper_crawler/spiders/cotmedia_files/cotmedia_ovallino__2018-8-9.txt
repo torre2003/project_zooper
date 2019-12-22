@@ -1,0 +1,10 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+161189	INMOBILIARIA ECASA CHILE S.A.	Par	Cuatricromia	Generales	34x6	03	350.000	Publicado	Paola Marquez	Ecasa Oficinas HA	2018-8-9 00:00:00	
+160297	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x3	06	0	Publicado	Marcela Tello-ElDia	Vea en Cinemark - Megalodon	2018-8-9 00:00:00	
+161549	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	10x3	06	0	Arte	Marcela Tello-ElDia	Reportero Ciudadano	2018-8-9 00:00:00	
+161395	OSSANDON PRESTACIONES MEDICAS Y OTR			UIP	5x2	08	3.879	Publicado	Karina Rivera	MEDICO CIRUJANO ALEJANDRO MANRIQUEZ	2018-8-9 00:00:00	
+161082	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	6x3	11	0	Publicado	Marcela Tello-ElDia	Convenio Dabed y Diario El Ovallino	2018-8-9 00:00:00	
+161510	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x3	11	0	Arte	Marcela Tello-ElDia	Provincial Ovalle Vs. Club Municipal Santiago	2018-8-9 00:00:00	
+161550	PRENSA DEL LIMARI LTDA.	Par	Blanco y negro	Generales	17x6	12	0	Arte	Marcela Tello-ElDia		2018-8-9 00:00:00	
+160594	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	14	0	Arte	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2018-8-9 00:00:00	
+161380	IVAN HERNANDEZ	85 Palabras		Legal	x	14	21.080	Publicado	Karina Rivera	EXTRACTO POSESION EFECTIVA	2018-8-9 00:00:00	

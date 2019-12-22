@@ -1,0 +1,24 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+86096	SOCIEDAD DE RENTAS FALABELLA S.A	Impar	Cuatricromia	Generales	17x6	03	200.000	Publicado	M Cristina Puga	Open plaza	2015-10-15 00:00:00	
+85970	SOCIEDAD COMERCIAL KATANKURA LTDA	Par	Cuatricromia	Generales	6x6	09	25.000	Publicado	Italo Retamal	evento katankura 	2015-10-15 00:00:00	
+86631	DABED Y CIA. LTDA., SELIM	Impar	Cuatricromia	Generales	6x6	11	23.077	Publicado	Italo Retamal	dabed moto	2015-10-15 00:00:00	
+86699	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x6	14	0	Arte	Marcela Tello-ElDia		2015-10-15 00:00:00	
+86014	ILUSTRE MUNICIPALIDAD DE OVALLE	Impar	Cuatricromia	Ed.Especial	18x6	EE-03	249.999	Publicado	Italo Retamal	saludo muni ovalle diario el ovallino	2015-10-15 00:00:00	
+86016	JULIO AR?STIDES TABORGA IRIARTE	Par	Cuatricromia	Ed.Especial	6x6	EE-04	0	Publicado	Italo Retamal	saludo ovallino 	2015-10-15 00:00:00	
+85046	UNIVERSIDAD TECNOLOGICA DE CHILE	Impar	Cuatricromia	Generales	17x6	EE-05	302.537	Publicado	Patricia Villena		2015-10-15 00:00:00	
+85571	CENTRO ESTETICA MATIZ LTDA.	Par	Cuatricromia	Generales	17x3	EE-07	168.076	Publicado	Paola Marquez	Aniversario El Ovallino 	2015-10-15 00:00:00	
+86500	SERVICIO TRANSPORTES SERENA MAR CAR	Par	Cuatricromia	Ed.Especial	17x3	EE-07	75.000	Publicado	Italo Retamal	saludo serena mar 	2015-10-15 00:00:00	
+85573	DANIEL NU?EZ ARANCIBIA	Par	Cuatricromia	Generales	17x3	EE-08	168.067	Publicado	Paola Marquez	Aniversario El Ovallino 	2015-10-15 00:00:00	
+85570	GMS PRODUCTOS GRAFICOS LIMITADA	Par	Cuatricromia	Generales	17x3	EE-09	168.076	Publicado	Paola Marquez	Aniversario El Ovallino Antalis	2015-10-15 00:00:00	
+85765	SOC. AGRICOLA HACIENDA MAL PASO Y C	Par	Cuatricromia	Generales	17x3	EE-11	0	Publicado	Paola Marquez	EE El Ovallino Mal Paso	2015-10-15 00:00:00	
+86497	SOC. COMERCIAL MALLORCA LTDA.	Par	Cuatricromia	Ed.Especial	17x3	EE-11	60.000	Publicado	Italo Retamal	saludo todo carne	2015-10-15 00:00:00	
+86567	UNIVERSIDAD DE LA SERENA	Par	Cuatricromia	Ed.Especial	17x3	EE-13	112.318	Publicado	Jacqueline Torres	saludo aniversario diario OVALLINO	2015-10-15 00:00:00	
+86211	AGUAS DEL VALLE S.A.	Par	Cuatricromia	Ed.Especial	17x6	EE-14	150.000	Publicado	Italo Retamal	saludo aguas del valle ovalllino 	2015-10-15 00:00:00	
+86566	MUNOZ DALBORA ADRIANA	Par	Cuatricromia	Ed.Especial	17x3	EE-15	100.846	Publicado	Jacqueline Torres	SALUDO ANIVERSARIO 26 OVALLINO	2015-10-15 00:00:00	
+86597	HANNA JARUFE HAUNE	Par	Blanco y negro	Generales	10x3	EE-16	30.000	Publicado	Claudio Romero	SALUDO DIARIO OVALLINO 2015	2015-10-15 00:00:00	
+86570	CONAFE	Par	Cuatricromia	Ed.Especial	17x3	EE-17	86.570	Publicado	Jacqueline Torres	DIFUSION AVISO SALUDO DIARIO OVALLINO	2015-10-15 00:00:00	
+86578	INMOBILIARIA NUEVA SERENA	Par	Cuatricromia	Generales	17x6	EE-19	168.076	Publicado	Claudio Romero	SALUDO DIARIO OVALLINO 2015	2015-10-15 00:00:00	
+86580	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	17x3	EE-21	100.000	Publicado	Claudio Romero	SALUDO DIARIO OVALLINO 2015	2015-10-15 00:00:00	
+86501	HOTELERIA Y GASTRONOMIA JOSE FELIPE	Par	Cuatricromia	Ed.Especial	17x6	EE-22	0	Publicado	Italo Retamal	saludo ovallino alto de tuqui	2015-10-15 00:00:00	
+86012	DABED Y CIA. LTDA., SELIM	Par	Cuatricromia	Ed.Especial	35x6	EE-24	200.000	Publicado	Italo Retamal	saludo dabed ovallino	2015-10-15 00:00:00	
+85967	DABED Y CIA. LTDA., SELIM		1 pag.	Inserto	x	INS	204.120	Publicado	Italo Retamal	Diarios dabed octubre 	2015-10-15 00:00:00	

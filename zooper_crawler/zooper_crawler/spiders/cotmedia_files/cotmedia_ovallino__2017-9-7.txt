@@ -1,0 +1,14 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+138376	ILUSTRE MUNICIPALIDAD DE MONTE PATR	Par	Cuatricromia	Generales	17x3	03	83.333	Publicado	Karina Rivera	CAMPEONATO CUECA ADULTO MAYOR	2017-9-7 00:00:00	
+138083	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x3	03	168.076	Publicado	Marcela Tello-ElDia	Vea en Cinemark - IT (Eso)	2017-9-7 00:00:00	
+138134	CENTRO DE SALUD PORTALES LTDA			UIP	5x4	05	4.504	Publicado	Karina Rivera	ORTODONCIA 	2017-9-7 00:00:00	
+137202	TEODORO AGUIRRE ALVAREZ			UIP	5x2	07	2.808	Publicado	Karina Rivera	REGIONALISTA VERDE SOCIAL	2017-9-7 00:00:00	
+137447	JACQUELINE JOFRE VILLANUEVA			UIP	5x2	07	2.808	Publicado	Karina Rivera	CORTINAS ROLLER OVALLE	2017-9-7 00:00:00	
+138016	ESTUDIO JURIDICO OLIVARES Y CIA. SP	Par	Blanco y negro	Generales	5x2	07	2.000	Publicado	Jacqueline Torres	ESTUDIO JURIDICO OLIVARES	2017-9-7 00:00:00	
+137774	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	09	0	Arte	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2017-9-7 00:00:00	
+138092	GOTTREUX SALAS RUBEN	Par	Blanco y negro	Generales	15x3	10	71.214	Publicado	Karina Rivera	REMATE JUDICIAL DE VEHICULOS Y ESPECIES EN OVALL	2017-9-7 00:00:00	
+137879	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	12x6	11	0	Publicado	Marcela Tello-ElDia		2017-9-7 00:00:00	
+137659	INMOBILIARIA NUEVA SERENA			UIP	10x6	12	16.260	Publicado	Claudio Romero	proyecto empresa serena...(ovalle)	2017-9-7 00:00:00	
+136363	FERNANDO YOANOVICH			UIP	5x2	13	2.247	Publicado	Karina Rivera	TAROT SRA SOFIA	2017-9-7 00:00:00	
+136601	VELIZ CORTES JOSE A.			UIP	5x2	14	3.919	Publicado	Pedro Cortes		2017-9-7 00:00:00	
+138441	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	6x6	14	0	Arte	Marcela Tello-ElDia		2017-9-7 00:00:00	

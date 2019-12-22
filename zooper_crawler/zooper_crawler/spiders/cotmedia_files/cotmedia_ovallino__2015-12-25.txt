@@ -1,0 +1,12 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+90762	AUTOMOTRIZ CARMONA	Par	Blanco y negro	Generales	6x6	01	23.076	Publicado	Marcela Tello-ElDia	Nissan huincha portada	2015-12-25 00:00:00	
+88509	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	10x3	03	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2015-12-25 00:00:00	
+91792	CONAFE	Par	Cuatricromia	Generales	17x3	03	168.076	Publicado	Jacqueline Torres	SALUDO NAVIDAD 	2015-12-25 00:00:00	
+81449	tanguemar			UIP	5x2	05	2.808	Publicado	Patricia Villena	Tanguemar	2015-12-25 00:00:00	
+91809	INVERSIONES AVANZADA LTDA	Par	Blanco y negro	Generales	5x2	05	5.833	Publicado	Jacqueline Torres	campo lindo valle	2015-12-25 00:00:00	
+91434	INMOBILIARIA OASIS DEL LIMAR? LTDA	Par	Blanco y negro	Generales	5x2	05	1.428	Publicado	Italo Retamal	arriendo local oasis	2015-12-25 00:00:00	
+91779	CRISTALMAR S.A.	Impar	Blanco y negro	Generales	10x2	07	33.898	Publicado	Italo Retamal	regulacion por cartel	2015-12-25 00:00:00	
+91949	COLEGIO SANTA MARIA EUFRACIA	Par	Blanco y negro	Generales	8x2	07	37.664	Publicado	Claudio Romero	colegio santa maria  ovalle....concurso..repite mismo  aviso diario EL DIA...	2015-12-25 00:00:00	
+90339	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	6x6	08	16.065	Publicado	Claudio Romero	Muebles Alpina	2015-12-25 00:00:00	
+90459	SOCIEDAD COMERCIAL KATANKURA LTDA	Par	Cuatricromia	Generales	6x6	09	25.000	Publicado	Italo Retamal	evento katankura 	2015-12-25 00:00:00	
+91954	ANGELINA CORTES VARGAS	Par	Blanco y negro	Generales	15x2	14	35.310	Publicado	Leonel Pizarro-Ovalle	agradecimientos	2015-12-25 00:00:00	

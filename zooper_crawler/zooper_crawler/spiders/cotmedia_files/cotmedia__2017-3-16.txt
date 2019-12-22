@@ -1,0 +1,37 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+125374	ILUSTRE MUNICIPALIDAD DE VICUNA	Par	Cuatricromia	Ed.Especial	35x6	01-04	732.000	Publicado	Jacqueline Torres	2017-3-16 00:00:00	
+124630	CHRISTIAN LAUNITZ MARIN SERVICIOS M	Par	Blanco y negro	Generales	8x2	04	4.838	Publicado	Heinger Vega Torres	2017-3-16 00:00:00	
+125405	SOCIEDAD ORIETTA ARAYA PANGUE HIJOS	Par	Blanco y negro	Generales	4x2	04	22.500	Publicado	Jacqueline Torres	2017-3-16 00:00:00	
+125216	SALINAS Y FABRES S.A.	Impar	Cuatricromia	Generales	17x6	05	282.000	Publicado	M Cristina Puga	2017-3-16 00:00:00	
+125379	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Cuatricromia	Medios Regionales	32x6	06	518.048	Publicado	Medios Regionales	2017-3-16 00:00:00	
+125410	DIARIO EL DIA	Par	Cuatricromia	Generales	4x6	08	0	Publicado	Marcela Tello-ElDia	2017-3-16 00:00:00	
+125368	ABRIL PUBLICIDAD INVERSIONES Y ASES	Impar	Cuatricromia	Generales	35x6	09	824.511	Publicado	Patricia Villena	2017-3-16 00:00:00	
+124658	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	10	0	Publicado	Marcela Tello-ElDia	2017-3-16 00:00:00	
+125086	DABED Y CIA. LTDA., SELIM	Par	Cuatricromia	Generales	6x6	11	27.690	Publicado	Karina Rivera	2017-3-16 00:00:00	
+124844	DIARIO EL DIA	Par	Blanco y negro	Generales	6x1	12	0	Publicado	Marcela Tello-ElDia	2017-3-16 00:00:00	
+125377	ILUSTRE MUNICIPALIDAD DE VICUNA	Par	Blanco y negro	Generales	14x2	12	69.725	Publicado	Jacqueline Torres	2017-3-16 00:00:00	
+124758	DIARIO EL DIA	Par	Blanco y negro	Generales	5x2	12	0	Publicado	Marcela Tello-ElDia	2017-3-16 00:00:00	
+125358	LINDA PANTICH			UIP	5x1	12	8.937	Publicado	Pedro Jaime	2017-3-16 00:00:00	
+125193	GOTTREUX SALAS RUBEN	Par	Blanco y negro	Generales	6x2	13	39.550	Publicado	Karina Rivera	2017-3-16 00:00:00	
+123576	LABORATORIO CLINICO STA. MARIA LA S	Par	Blanco y negro	Generales	6x2	13	7.470	Publicado	Miguel Apey	2017-3-16 00:00:00	
+125327	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	6x2	13	26.088	Publicado	Medios Regionales	2017-3-16 00:00:00	
+125343	ILUSTRE MUNICIPALIDAD DE LOS VILOS	Par	Blanco y negro	Generales	12x2	14	59.764	Publicado	Jacqueline Torres	2017-3-16 00:00:00	
+123525	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	19	8.306	Publicado	Miguel Apey	2017-3-16 00:00:00	
+123160	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	6x6	24	0	Publicado	Claudio Romero	2017-3-16 00:00:00	
+125411	DIARIO EL DIA	Par	Cuatricromia	Generales	34x6	25	0	Publicado	Marcela Tello-ElDia	2017-3-16 00:00:00	
+124726	PILLA LA VACA	Par	Blanco y negro	Generales	5x2	28	0	Publicado	Marcela Tello-ElDia	2017-3-16 00:00:00	
+123590	CASA DEL PERNO	Par	Blanco y negro	Generales	5x3	29	23.071	Publicado	Miguel Apey	2017-3-16 00:00:00	
+125380	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	6x2	29	26.088	Publicado	Medios Regionales	2017-3-16 00:00:00	
+125107	SOC. DE GES			UIP	5x1	30	8.937	Publicado	Miguel Apey	2017-3-16 00:00:00	
+123132	armaq			UIP	5x1	30	8.937	Publicado	Claudio Romero	2017-3-16 00:00:00	
+124712	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	30	0	Publicado	Marcela Tello-ElDia	2017-3-16 00:00:00	
+125249	AUTOMOTORES DEL NORTE	Par	Blanco y negro	Generales	5x1	30	7.427	Publicado	Miguel Apey	2017-3-16 00:00:00	
+120965	CERNA E HIJOS CIA. LTDA.	Par	Blanco y negro	Generales	5x1	30	4.468	Publicado	Nadia Randolph	2017-3-16 00:00:00	
+125385	DIARIO EL DIA	Par	Blanco y negro	Generales	5x2	31	0	Publicado	Pedro Jaime	2017-3-16 00:00:00	
+124479	SERVICIOS GENERALES GUAYACAN S.A	Par	Blanco y negro	Generales	4x2	31	6.666	Publicado	Jacqueline Torres	2017-3-16 00:00:00	
+125219	VELIZ CORTES JOSE A.	Par	Blanco y negro	Generales	3x2	31	13.403	Publicado	Pedro Cortes	2017-3-16 00:00:00	
+125387	COMIT? AGUA POTABLE RURAL PUERTO AL	185 Palabras		Legal	x	EC	45.882	Publicado	Pedro Jaime	2017-3-16 00:00:00	
+125337	SOC. EDUCACIONAL ALTAZOR LTDA.	Par	Blanco y negro	Generales	7x2	EC-21	51.268	Publicado	Pedro Jaime	2017-3-16 00:00:00	
+123750	HOTELERIA LUIS ALBERTO BERETTA KIEK	Par	Blanco y negro	Generales	5x2	EC-22	6.061	Publicado	Patricia Villena	2017-3-16 00:00:00	
+125386	RECAUDACIONES Y COBRANZA S.A	740 Palabras		Legal	x	EC-22	183.529	Publicado	Pedro Jaime	2017-3-16 00:00:00	
+124518	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Generales	5x1	EC-22	6.043	Publicado	Rene Pizarro	2017-3-16 00:00:00	

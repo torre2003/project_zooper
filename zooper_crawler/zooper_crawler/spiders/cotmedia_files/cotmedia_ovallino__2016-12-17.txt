@@ -1,0 +1,11 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+119079	GAMAL EDUARDO ROJAS PEREZ	Par	Cuatricromia	Generales	6x6	01	61.398	Publicado	Karina Rivera		2016-12-17 00:00:00	
+119165	EMPRESAS LA POLAR S.A.	Impar	Cuatricromia	Generales	35x6	03	252.000	Publicado	Patricia Villena	La Polar Contraportada o primera impar	2016-12-17 00:00:00	
+119171	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	6x6	06	0	Publicado	Marcela Tello-ElDia		2016-12-17 00:00:00	
+118700				UIP	10x2	07	5.630	Publicado	Karina Rivera	ESTETICA CARLA FIGUEROA	2016-12-17 00:00:00	
+117858	OVALLEMAR			UIP	5x2	08	3.958	Publicado	Karina Rivera	OVALLE MAR	2016-12-17 00:00:00	
+118312	COMERCIAL AVA 			UIP	10x2	08	7.882	Publicado	Karina Rivera	E BODY OVALLE	2016-12-17 00:00:00	
+115490	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	09	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2016-12-17 00:00:00	
+118981	CONSTRUCTORA CADEL LTDA.	Par	Cuatricromia	Generales	34x6	11	250.000	Publicado	Rene Pizarro		2016-12-17 00:00:00	
+118584	CABARET Y SALON DE ESPECTACULOS ART			UIP	10x2	14	5.517	Publicado	Karina Rivera	PARADISE CLUB	2016-12-17 00:00:00	
+119154	COMERCIALIZADORA DEL NORTE S.P.A.	Impar	Cuatricromia	Generales	35x6	16	286.520	Publicado	Patricia Villena	LA ELEGANTE	2016-12-17 00:00:00	

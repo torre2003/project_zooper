@@ -1,0 +1,6 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+147243	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	09	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2018-1-4 00:00:00	
+146607	ALVARO ITURRA			UIP	5x2	13	2.808	Publicado	Karina Rivera	VENDE CASA TERRENO EMBALSE	2018-1-4 00:00:00	
+147366	SOSTENEDORA EDUCACIONAL CERRILLOS D			UIP	5x2	13	2.810	Publicado	Karina Rivera	LLAMADO CONCURSO	2018-1-4 00:00:00	
+146005	VELIZ CORTES JOSE A.			UIP	5x2	15	4.695	Publicado	Pedro Cortes		2018-1-4 00:00:00	
+147415	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	6x6	15	0	Publicado	Marcela Tello-ElDia		2018-1-4 00:00:00	

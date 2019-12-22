@@ -1,0 +1,44 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+114837	TODO ARAUCO S.A.	Impar	Cuatricromia	Generales	17x6	05	470.641	Arte	Patricia Villena	2016-11-9 00:00:00	
+116122	UNIVERSIDAD CATOLICA DEL NORTE	Par	Cuatricromia	Generales	20x3	06	0	Arte	Miguel Apey	2016-11-9 00:00:00	
+116113	ORIGEN COMUNICACIONES S.P.A	Impar	Cuatricromia	Generales	17x6	07	450.000	Arte	Patricia Villena	2016-11-9 00:00:00	
+116053	OVALLE CASINO RESORT S.A	Par	Cuatricromia	Generales	25x4	09	0	Arte	Paola Marquez	2016-11-9 00:00:00	
+116114	DIARIO EL DIA	Par	Cuatricromia	Generales	12x6	10	0	Arte	Marcela Tello-ElDia	2016-11-9 00:00:00	
+115282	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Cuatricromia	Medios Regionales	32x3	11	309.344	Arte	Medios Regionales	2016-11-9 00:00:00	
+115878	ARZOBISPADO DE LA SERENA	Par	Blanco y negro	Generales	5x2	13	0	Arte	Marcela Tello-ElDia	2016-11-9 00:00:00	
+114285	GESTION NORTE	Par	Blanco y negro	Generales	5x2	13	9.280	Arte	Patricia Villena	2016-11-9 00:00:00	
+115519	CENTRO TECNICO ACUARELA LTDA.	Par	Blanco y negro	Generales	5x2	13	20.141	Arte	Rene Pizarro	2016-11-9 00:00:00	
+116094	FUNDACION EDUCACIONAL COLEGIO SAN J	Par	Blanco y negro	Generales	11x3	14	96.677	Arte	Karina Rivera	2016-11-9 00:00:00	
+115510	MAQUINARIA DE PANADERIA INDUSTRIA Y	Par	Blanco y negro	Generales	17x1	14	0	Arte	Rene Pizarro	2016-11-9 00:00:00	
+114839	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	8x2	15	34.784	Arte	Medios Regionales	2016-11-9 00:00:00	
+114551	SOC. DE GES			UIP	5x1	15	8.937	Arte	Miguel Apey	2016-11-9 00:00:00	
+115997	AREVALO CARMEN			UIP	5x1	15	8.937	Arte	Pedro Jaime	2016-11-9 00:00:00	
+115104	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	5x2	15	0	Arte	Miguel Apey	2016-11-9 00:00:00	
+115360	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	16	0	Arte	Marcela Tello-ElDia	2016-11-9 00:00:00	
+116083	DIARIO EL DIA	Par	Cuatricromia	Generales	17x6	17	0	Arte	Marcela Tello-ElDia	2016-11-9 00:00:00	
+114915	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	18	8.306	Arte	Miguel Apey	2016-11-9 00:00:00	
+116097	DIARIO EL DIA	Par	Cuatricromia	Generales	35x6	24-25	0	Arte	Jacqueline Torres	2016-11-9 00:00:00	
+116099	AGUAS DEL VALLE S.A.	Par	Cuatricromia	Generales	5x6	25	49.218	Arte	Jacqueline Torres	2016-11-9 00:00:00	
+115696	SOC.INMOBIL.Y DE INV.MORALES Y CIA.			UIP	5x2	29	0	Arte	Marcela Tello-ElDia	2016-11-9 00:00:00	
+115656	ICEFOOD LIMITADA	Par	Blanco y negro	Generales	5x2	29	8.925	Arte	Patricia Villena	2016-11-9 00:00:00	
+114761	CERNA E HIJOS CIA. LTDA.	Par	Blanco y negro	Generales	5x1	29	4.468	Arte	Nadia Randolph	2016-11-9 00:00:00	
+114946	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	4x5	29	20.508	Arte	Miguel Apey	2016-11-9 00:00:00	
+115148	SERVICIOS GASTRON?MICOS LA CASONA D	Par	Blanco y negro	Generales	5x2	29	10.725	Arte	Miguel Apey	2016-11-9 00:00:00	
+111906	INVERSIONES VEINTINUEVE GRADOS	Par	Blanco y negro	Generales	5x2	29	9.280	Arte	Patricia Villena	2016-11-9 00:00:00	
+115286	ARMAQ			UIP	5x1	29	8.937	Arte	Claudio Romero	2016-11-9 00:00:00	
+115542	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	29	0	Arte	Marcela Tello-ElDia	2016-11-9 00:00:00	
+115199	SERVICIOS GENERALES GUAYACAN S.A	Par	Blanco y negro	Generales	4x2	30	6.666	Arte	Jacqueline Torres	2016-11-9 00:00:00	
+114074	VELIZ CORTES JOSE A.	Par	Blanco y negro	Generales	3x2	30	13.403	Arte	Pedro Cortes	2016-11-9 00:00:00	
+115974	UNIVERSIDAD TECNOLOGICA DE CHILE	Par	Cuatricromia	Generales	35x6	32	0	Arte	Patricia Villena	2016-11-9 00:00:00	
+116124	DIARIO EL DIA	Par	Cuatricromia	Generales	17x6	EC-21	0	Arte	Marcela Tello-ElDia	2016-11-9 00:00:00	
+115452	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Generales	5x1	EC-21	5.860	Arte	Rene Pizarro	2016-11-9 00:00:00	
+108944	HOTELERIA LUIS ALBERTO BERETTA KIEK	Par	Blanco y negro	Generales	5x2	EC-21	6.994	Arte	Patricia Villena	2016-11-9 00:00:00	
+116105	BANCO ESTADO DE CHILE	539 Palabras		Legal	x	PROP	133.672	Arte	Pedro Jaime	2016-11-9 00:00:00	
+116104	BANCO ESTADO DE CHILE	459 Palabras		Legal	x	PROP	113.832	Arte	Pedro Jaime	2016-11-9 00:00:00	
+116112	SANTANDER G.R.C.	683 Palabras		Legal	x	PROP	169.384	Arte	Pedro Jaime	2016-11-9 00:00:00	
+116111	SANTANDER G.R.C.	671 Palabras		Legal	x	PROP	166.408	Arte	Pedro Jaime	2016-11-9 00:00:00	
+116110	SANTANDER G.R.C.	543 Palabras		Legal	x	PROP	134.664	Arte	Pedro Jaime	2016-11-9 00:00:00	
+116109	SANTANDER G.R.C.	672 Palabras		Legal	x	PROP	166.656	Arte	Pedro Jaime	2016-11-9 00:00:00	
+116108	SANTANDER G.R.C.	591 Palabras		Legal	x	PROP	146.568	Arte	Pedro Jaime	2016-11-9 00:00:00	
+116107	SCOTIABANK CHILE S.A.	499 Palabras		Legal	x	PROP	123.752	Arte	Pedro Jaime	2016-11-9 00:00:00	
+116106	BANCO ESTADO DE CHILE	555 Palabras		Legal	x	PROP	137.640	Arte	Pedro Jaime	2016-11-9 00:00:00	

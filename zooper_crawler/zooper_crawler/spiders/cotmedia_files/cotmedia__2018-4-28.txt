@@ -1,0 +1,55 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+154713	INMOBIL. ECOMAC S.A.	Impar	Cuatricromia	Generales	17x6	03	469.072	Publicado	M Cristina Puga	2018-4-28 00:00:00	
+153384	C.M. SOC. GASTRONOMICA LTDA.			UIP	5x2	04	7.208	Publicado		2018-4-28 00:00:00	
+154442	DIARIO EL DIA	Par	Blanco y negro	Generales	5x2	04	0	Publicado	Marcela Tello-ElDia	2018-4-28 00:00:00	
+152967	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	5x2	04	0	Publicado	Miguel Apey	2018-4-28 00:00:00	
+155094	AUTOMOTRIZ CARMONA	Par	Cuatricromia	Generales	34x6	05	0	Arte	Marcela Tello-ElDia	2018-4-28 00:00:00	
+155028	HIPERMERCADOS TOTTUS S.A	Impar	Cuatricromia	Generales	35x6	07	594.299	Publicado	M Cristina Puga	2018-4-28 00:00:00	
+155182	DIARIO EL DIA	Par	Cuatricromia	Generales	10x6	08	0	Arte	Marcela Tello-ElDia	2018-4-28 00:00:00	
+154657	INMOBILIARIA ELQUI S.A.	Impar	Cuatricromia	Generales	35x6	09	0	Publicado	M Cristina Puga	2018-4-28 00:00:00	
+155135	DIARIO EL DIA	Par	Blanco y negro	Generales	17x3	12	150.084	Publicado	Pedro Jaime	2018-4-28 00:00:00	
+148518	INMOBILIARIA POCURO NORTE SPA	Impar	Cuatricromia	Generales	17x6	13	0	Publicado	Jacqueline Torres	2018-4-28 00:00:00	
+155174	COMERCIAL CELTA LIMITADA	Par	Blanco y negro	Generales	5x2	14	37.902	Publicado	Miguel Apey	2018-4-28 00:00:00	
+153299	PILLA LA VACA	Par	Blanco y negro	Generales	5x2	14	0	Publicado	Marcela Tello-ElDia	2018-4-28 00:00:00	
+154917	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	8x2	14	39.696	Publicado	Medios Regionales	2018-4-28 00:00:00	
+154504	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Cuatricromia	Medios Regionales	32x6	15	582.024	Publicado	Medios Regionales	2018-4-28 00:00:00	
+153217	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	16	0	Publicado	Marcela Tello-ElDia	2018-4-28 00:00:00	
+155140	INMOBIL. LA SERENA GOLF S.A.	Par	Cuatricromia	Generales	17x6	17	288.660	Publicado	Patricia Villena	2018-4-28 00:00:00	
+152758	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	17	8.306	Publicado	Miguel Apey	2018-4-28 00:00:00	
+153969	JOSE PUGA FORD	Par	Blanco y negro	Generales	5x2	18	29.480	Publicado	Miguel Apey	2018-4-28 00:00:00	
+154911	CONSTRUCTORA CADEL LTDA.	Par	Blanco y negro	Generales	5x2	18	42.113	Publicado	Rene Pizarro	2018-4-28 00:00:00	
+154908	CONSTRUCTORA CADEL LTDA.	Par	Blanco y negro	Generales	5x2	18	42.113	Publicado	Rene Pizarro	2018-4-28 00:00:00	
+155183	DIARIO EL DIA	Par	Cuatricromia	Generales	17x6	19	0	Arte	Marcela Tello-ElDia	2018-4-28 00:00:00	
+153570	DABED Y CIA. LTDA., SELIM	Par	Cuatricromia	Generales	6x6	22	27.690	Publicado	Karina Rivera	2018-4-28 00:00:00	
+154749	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	23	0	Publicado	Marcela Tello-ElDia	2018-4-28 00:00:00	
+154748	CLUB DE DEPORTES LA SERENA	Par	Cuatricromia	Generales	17x3	29	0	Publicado	Marcela Tello-ElDia	2018-4-28 00:00:00	
+152830	SOC. DE GES			UIP	5x1	30	8.937	Publicado	Miguel Apey	2018-4-28 00:00:00	
+153111	ARMAQ SUBIRI S.A.			UIP	5x1	30	8.937	Publicado	Claudio Romero	2018-4-28 00:00:00	
+152802	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	4x5	30	20.508	Publicado	Miguel Apey	2018-4-28 00:00:00	
+154630	CARMEN AREVALO ROMERO			UIP	5x1	30	8.937	Publicado	Pedro Jaime	2018-4-28 00:00:00	
+153280	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	30	0	Publicado	Marcela Tello-ElDia	2018-4-28 00:00:00	
+154352	CERNA E HIJOS CIA. LTDA.	Par	Blanco y negro	Generales	5x1	30	3.566	Publicado	Nadia Randolph	2018-4-28 00:00:00	
+154607	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	33	0	Publicado	Marcela Tello-ElDia	2018-4-28 00:00:00	
+154920	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	33	0	Publicado	Marcela Tello-ElDia	2018-4-28 00:00:00	
+154893	COMERCIAL DUOMO LTDA.	Par	Cuatricromia	Generales	34x6	34	0	Publicado	Paola Marquez	2018-4-28 00:00:00	
+155184	DIARIO EL DIA	Par	Cuatricromia	Generales	5x6	36	0	Arte	Marcela Tello-ElDia	2018-4-28 00:00:00	
+154906	PAULA GOMEZ MU?OS	Par	Blanco y negro	Generales	5x1	36	12.605	Publicado	Miguel Apey	2018-4-28 00:00:00	
+153719	CARLOS GALLEGUILLOS CARVAJAL	Par	Blanco y negro	Generales	5x3	39	23.726	Publicado	Heinger Vega Torres	2018-4-28 00:00:00	
+154025	GUSTAVO TORRES MENDOZA	Par	Blanco y negro	Generales	5x2	39	12.000	Publicado	Heinger Vega Torres	2018-4-28 00:00:00	
+154645	JOSE PUGA FORD	Par	Blanco y negro	Generales	5x2	39	29.480	Publicado	Miguel Apey	2018-4-28 00:00:00	
+153463	ANDREA YAZIGI SFEIR	Par	Blanco y negro	Generales	5x2	39	8.404	Publicado	Heinger Vega Torres	2018-4-28 00:00:00	
+153467	JUAN SEBASTIAN BOU LAGUNAS	Par	Blanco y negro	Generales	5x2	39	13.750	Publicado	Heinger Vega Torres	2018-4-28 00:00:00	
+154773	FALABELLA RETAIL S.A.	Impar	Cuatricromia	Contraportada	35x6	40	695.000	Publicado	M Cristina Puga	2018-4-28 00:00:00	
+155136	INVERSIONES VEINTINUEVE GRADOS	Par	Blanco y negro	Economico	10x2	EC-24	25.268	Publicado	Jacqueline Torres	2018-4-28 00:00:00	
+155132	DIARIO EL DIA	Par	Blanco y negro	Generales	5x2	EC-24	30.000	Publicado	Pedro Jaime	2018-4-28 00:00:00	
+154871	MOLINA ORDENES RICARDO	Par	Blanco y negro	Generales	5x2	EC-24	22.809	Publicado	Pedro Jaime	2018-4-28 00:00:00	
+155146	CIA. DE LEASING TATTERSALL S.A.	Par	Blanco y negro	Generales	11x2	EC-25	69.487	Publicado	Pedro Jaime	2018-4-28 00:00:00	
+155156	AREYUNA AREYUNA NIBALDO	Par	Cuatricromia	Generales	7x3	EC-25	108.824	Publicado	Pedro Jaime	2018-4-28 00:00:00	
+154777	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	6x2	EC-26	29.772	Publicado	Medios Regionales	2018-4-28 00:00:00	
+154717	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	6x2	EC-26	29.772	Publicado	Medios Regionales	2018-4-28 00:00:00	
+155177	IMPORTADORA TRENTO LTDA.	Par	Cuatricromia	Generales	6x6	EC-26	100.764	Publicado	Marcela Tello-ElDia	2018-4-28 00:00:00	
+152906	SOC. COMERCIAL VARGAS Y GIACOMET			UIP	5x1	EC-26	7.149	Publicado	Rene Pizarro	2018-4-28 00:00:00	
+154796	SANTANDER G.R.C.	Par	Blanco y negro	Generales	15x6	EC-27	301.569	Publicado	Pedro Jaime	2018-4-28 00:00:00	
+153062	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Economico	5x2	EC-27	15.161	Publicado	Rene Pizarro	2018-4-28 00:00:00	
+152048	HOTELERIA LUIS ALBERTO BERETTA KIEK	Par	Blanco y negro	Generales	5x2	EC-27	6.061	Publicado	Patricia Villena	2018-4-28 00:00:00	
+154514	COMERCIAL E.C.C.S.A.  S.A.		9 a 24 pag.	Inserto	x	INS	469.200	Publicado	M Cristina Puga	2018-4-28 00:00:00	

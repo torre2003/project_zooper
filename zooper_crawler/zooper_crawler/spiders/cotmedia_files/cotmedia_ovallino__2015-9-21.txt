@@ -1,0 +1,10 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+82691	AUTOMOTRIZ CARMONA	Par	Cuatricromia	Generales	7x6	01	23.077	Publicado	Marcela Tello-ElDia	Ya estamos en Ovalle - Portada	2015-9-21 00:00:00	
+84709	ABRIL PUBLICIDAD INVERSIONES Y ASES	Impar	Cuatricromia	Generales	35x6	03	445.386	Publicado	Patricia Villena	Ensayo PSU 2015	2015-9-21 00:00:00	
+84484	ILUSTRE MUNICIPALIDAD DE OVALLE	Par	Blanco y negro	Generales	20x2	05	67.231	Publicado	Italo Retamal	Muni ovalle	2015-9-21 00:00:00	
+83203	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	6x6	06	16.065	Publicado	Claudio Romero	Muebles Alpina	2015-9-21 00:00:00	
+83430	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	10x3	07	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2015-9-21 00:00:00	
+84714	DABED Y CIA. LTDA., SELIM	Impar	Cuatricromia	Generales	6x6	09	23.077	Publicado	Italo Retamal	(14) Dabed Motos	2015-9-21 00:00:00	
+84802	RSA SEGUROS CHILE S.A	Impar	Cuatricromia	Generales	17x3	11	121.025	Publicado	Italo Retamal	Seguro rsa	2015-9-21 00:00:00	
+84825	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x6	14	0	Publicado	Marcela Tello-ElDia		2015-9-21 00:00:00	
+84835	SOC. CREATIVA RUN PRODUCCIONES LTDA		9 a 24 pag.	Inserto	x	WEB	252.101	Publicado	Jacqueline Torres	INSERTO IND-JUEGOS NACIONALES ESCOLARES	2015-9-21 00:00:00	

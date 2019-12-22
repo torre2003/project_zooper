@@ -1,0 +1,40 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+130951	CHRISTIAN LAUNITZ MARIN SERVICIOS M	Par	Blanco y negro	Generales	8x2	04	5.000	Publicado	Heinger Vega Torres	2017-6-5 00:00:00	
+131102	CLARO CHILE S.A.	Impar	Cuatricromia	Generales	35x6	05	646.000	Publicado	Kathine Soto-Stgo	2017-6-5 00:00:00	
+131105	INMOBIL. LA SERENA GOLF S.A.	Impar	Cuatricromia	Generales	17x6	07	0	Publicado	Patricia Villena	2017-6-5 00:00:00	
+130315	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Cuatricromia	Medios Regionales	32x6	09	518.048	Publicado	Medios Regionales	2017-6-5 00:00:00	
+130915	MINERA LOS PELAMBRES	Impar	Cuatricromia	Generales	17x3	11	313.761	Publicado	Jacqueline Torres	2017-6-5 00:00:00	
+130929	DIARIO EL DIA	Par	Cuatricromia	Generales	17x6	12	0	Publicado	Marcela Tello-ElDia	2017-6-5 00:00:00	
+130750	CORPORACION REGIONAL DE DESARROLLO 	Impar	Blanco y negro	Generales	35x6	13	645.977	Publicado	Patricia Villena	2017-6-5 00:00:00	
+131125	ARZOBISPADO DE LA SERENA	Par	Blanco y negro	Generales	5x2	15	0	Publicado	Marcela Tello-ElDia	2017-6-5 00:00:00	
+130861	LABORATORIO CLINICO STA. MARIA LA S	Par	Blanco y negro	Generales	6x2	15	7.470	Publicado	Miguel Apey	2017-6-5 00:00:00	
+130758	DIARIO EL DIA	Par	Blanco y negro	Generales	5x2	15	0	Publicado	Marcela Tello-ElDia	2017-6-5 00:00:00	
+131042	DIARIO EL DIA	Par	Cuatricromia	Generales	6x6	16	0	Publicado	Marcela Tello-ElDia	2017-6-5 00:00:00	
+130834	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	16	8.306	Publicado	Miguel Apey	2017-6-5 00:00:00	
+131031	HABITA INMOBILIARIA SA	Par	Cuatricromia	Generales	34x3	17	0	Publicado	Miguel Apey	2017-6-5 00:00:00	
+131057	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	10x4	18	86.960	Publicado	Medios Regionales	2017-6-5 00:00:00	
+130351	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	22	0	Publicado	Marcela Tello-ElDia	2017-6-5 00:00:00	
+131032	INVERSIONES E INMOBILIARIA P.A.T.  	Par	Cuatricromia	Generales	17x6	25	0	Publicado	Miguel Apey	2017-6-5 00:00:00	
+131149	INMOBILIARIA RENVAL SPA	Par	Cuatricromia	Generales	34x6	27	0	Publicado	Rene Pizarro	2017-6-5 00:00:00	
+130416	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	29	0	Publicado	Marcela Tello-ElDia	2017-6-5 00:00:00	
+129715	SERVICIOS GASTRON?MICOS LA CASONA D	Par	Blanco y negro	Generales	5x2	29	10.725	Publicado	Miguel Apey	2017-6-5 00:00:00	
+127999	cern			UIP	5x1	29	8.937	Publicado	Nadia Randolph	2017-6-5 00:00:00	
+130624	ARMAQ			UIP	5x1	29	8.937	Publicado	Claudio Romero	2017-6-5 00:00:00	
+129166	SOC. DE GES			UIP	5x1	29	8.937	Publicado	Miguel Apey	2017-6-5 00:00:00	
+129591	C.M. SOC. GASTRONOMICA LTDA.			UIP	5x2	29	7.208	Publicado	Pedro Cortes	2017-6-5 00:00:00	
+130722	SERVICIOS GENERALES GUAYACAN S.A	Par	Blanco y negro	Generales	4x2	30	6.666	Publicado	Jacqueline Torres	2017-6-5 00:00:00	
+129669	VELIZ CORTES JOSE A.	Par	Blanco y negro	Generales	3x2	30	13.403	Publicado	Pedro Cortes	2017-6-5 00:00:00	
+131053	ADMINISTR. CMR FALABELLA LTDA.	Impar	Cuatricromia	Contraportada	35x6	32	550.000	Publicado	M Cristina Puga	2017-6-5 00:00:00	
+130688	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Generales	5x1	EC-19	6.043	Publicado	Rene Pizarro	2017-6-5 00:00:00	
+131324	DIARIO EL DIA	Par	Blanco y negro	Generales	5x6	EC-19	0	Publicado	Marcela Tello-ElDia	2017-6-5 00:00:00	
+131157	SANTANDER G.R.C.	Par	Blanco y negro	Generales	10x2	EC-20	83.824	Publicado	Pedro Jaime	2017-6-5 00:00:00	
+123833	HOTELERIA LUIS ALBERTO BERETTA KIEK	Par	Blanco y negro	Generales	5x2	EC-20	6.061	Publicado	Patricia Villena	2017-6-5 00:00:00	
+131325	DIARIO EL DIA	Par	Blanco y negro	Generales	17x6	EC-20	0	Publicado	Marcela Tello-ElDia	2017-6-5 00:00:00	
+131206	LILIAN ELIZABETH OLIVARES LANAS	605 Palabras		Legal	x	PROP	150.040	Publicado	Pedro Jaime	2017-6-5 00:00:00	
+131207	HA GESTIONES INMOBILIARIA SPA	204 Palabras		Propiedades	x	PROP	32.640	Publicado	Pedro Jaime	2017-6-5 00:00:00	
+131208	SOC. COMERCIAL INV. GENERALES LTDA.	261 Palabras		Propiedades	x	PROP	41.760	Publicado	Pedro Jaime	2017-6-5 00:00:00	
+131205	COMERCIAL AUTOKARINO LTDA.	294 Palabras		Propiedades	x	PROP	47.059	Publicado	Pedro Jaime	2017-6-5 00:00:00	
+131210	FERES REBOLLEDO ANA ISABEL	987 Palabras		Propiedades	x	PROP	157.920	Publicado	Pedro Jaime	2017-6-5 00:00:00	
+131211	GONZALEZ RIVERA MANUEL RICARDO	255 Palabras		Propiedades	x	PROP	40.800	Publicado	Pedro Jaime	2017-6-5 00:00:00	
+131212	GONZALEZ ADAROS MARIA SOLEDAD	209 Palabras		Propiedades	x	PROP	33.440	Publicado	Pedro Jaime	2017-6-5 00:00:00	
+131209	JACQUELINE BARRERA BARRAZA	807 Palabras		Propiedades	x	PROP	129.120	Publicado	Pedro Jaime	2017-6-5 00:00:00	

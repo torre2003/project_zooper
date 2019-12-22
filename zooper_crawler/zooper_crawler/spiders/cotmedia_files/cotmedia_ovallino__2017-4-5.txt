@@ -1,0 +1,12 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+126701	SOCIEDAD DE RENTAS FALABELLA S.A	Par	Cuatricromia	Generales	8x6	01	50.980	Publicado	M Cristina Puga		2017-4-5 00:00:00	
+126704	SOCIEDAD DE RENTAS FALABELLA S.A	Par	Cuatricromia	Generales	17x6	03	200.000	Publicado	M Cristina Puga	Open Plaza - Mall Ovalle	2017-4-5 00:00:00	
+126766	SOC. LIMARI COMERCIALIZADORA DEL AG	Par	Blanco y negro	Generales	15x2	05	70.620	Publicado	Rene Pizarro	SOLCOAGRO....Junta General Ordinaria de Accionistas....	2017-4-5 00:00:00	
+126769	FERNANDO SANCH			UIP	5x2	07	2.808	Publicado	Karina Rivera	AGUAS SUBTERRANEAS 	2017-4-5 00:00:00	
+126714	JACQUELINE JOFRE VILLANUEVA			UIP	5x2	07	0	Publicado	Karina Rivera	Cortinas Rollers	2017-4-5 00:00:00	
+125314	AGRICOLA NORTE TALINAY LTDA	Par	Blanco y negro	Generales	5x2	07	1.666	Publicado	Paola Marquez	UIP VENTA ALFALFA	2017-4-5 00:00:00	
+126422	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	6x6	08	16.065	Publicado	Claudio Romero	Muebles Alpina	2017-4-5 00:00:00	
+125942	OVALLE CASINO RESORT S.A	Par	Cuatricromia	Generales	25x4	09	0	Publicado	Paola Marquez	OCR Eventos mensuales	2017-4-5 00:00:00	
+126800	DABED Y CIA. LTDA., SELIM	Par	Cuatricromia	Generales	6x6	11	23.076	Publicado	Karina Rivera	Dabed Motos	2017-4-5 00:00:00	
+126222	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	13	0	Arte	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2017-4-5 00:00:00	
+126749	CAMARA DE COMERCIO DE OVALLE	Par	Blanco y negro	Generales	14x2	14	32.956	Publicado	Karina Rivera	OBituarion Guisseppe Eccher	2017-4-5 00:00:00	

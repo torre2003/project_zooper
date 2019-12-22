@@ -1,0 +1,39 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+163381	DIARIO EL DIA	Par	Cuatricromia	Generales	3x6	05	0	Arte	Marcela Tello-ElDia	2018-9-5 00:00:00	
+163358	BUALE GRUP LTDA.	Par	Cuatricromia	Generales	17x3	09	60.000	Publicado	Claudio Romero	2018-9-5 00:00:00	
+163382	DIARIO EL DIA	Par	Cuatricromia	Generales	3x6	10	0	Arte	Marcela Tello-ElDia	2018-9-5 00:00:00	
+162603	ALIMENTOS FRUNA LIMITADA	Par	Cuatricromia	Generales	17x6	11	219.720	Publicado		2018-9-5 00:00:00	
+163305	INMOBIL. CLUB DE LA SERENA S.A.	Par	Blanco y negro	Generales	7x1	13	25.634	Publicado	Pedro Jaime	2018-9-5 00:00:00	
+162768	ARZOBISPADO DE LA SERENA	Par	Blanco y negro	Generales	10x2	13	0	Arte	Marcela Tello-ElDia	2018-9-5 00:00:00	
+162670	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	13	8.306	Publicado	Miguel Apey	2018-9-5 00:00:00	
+163112	MOP OOPP	Par	Blanco y negro	Generales	18x2	13	131.832	Publicado	Jacqueline Torres	2018-9-5 00:00:00	
+162962	INVERSIONES ALTA CRUZ LTDA	Par	Blanco y negro	Generales	5x2	14	0	Arte	Marcela Tello-ElDia	2018-9-5 00:00:00	
+163055	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	5x2	14	0	Publicado	Miguel Apey	2018-9-5 00:00:00	
+162934	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	14	0	Arte	Marcela Tello-ElDia	2018-9-5 00:00:00	
+162887	AGRICOLA UAC LTDA.			UIP	5x2	14	17.875	Publicado	Miguel Apey	2018-9-5 00:00:00	
+163249	PAMELA B. GONZALEZ LIZAMA COMERCIAL	Par	Blanco y negro	Generales	5x2	14	0	Arte	Marcela Tello-ElDia	2018-9-5 00:00:00	
+162400	C.M. SOC. GASTRONOMICA LTDA.			UIP	5x2	14	7.208	Publicado		2018-9-5 00:00:00	
+162705	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	4x5	14	20.508	Publicado	Miguel Apey	2018-9-5 00:00:00	
+162828	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	16	0	Arte	Marcela Tello-ElDia	2018-9-5 00:00:00	
+163321	DIARIO EL DIA	Par	Cuatricromia	Generales	13x6	17	0	Arte	Marcela Tello-ElDia	2018-9-5 00:00:00	
+162527	ARMAQ SUBIRI S.A.			UIP	5x1	22	8.937	Publicado	Claudio Romero	2018-9-5 00:00:00	
+162436	SOC. DE GES			UIP	5x1	22	8.937	Publicado	Miguel Apey	2018-9-5 00:00:00	
+162777	CENTRO TECNICO ACUARELA LTDA.	Par	Blanco y negro	Generales	5x2	22	20.874	Publicado	Rene Pizarro	2018-9-5 00:00:00	
+163354	FUNDACION EDUCACIONAL LICEO SAN FRA	Par	Blanco y negro	Generales	5x2	22	36.620	Publicado	Miguel Apey	2018-9-5 00:00:00	
+163272	AGUAS DEL VALLE S.A.	Par	Cuatricromia	Generales	5x6	25	50.000	Publicado	Heinger Vega Torres	2018-9-5 00:00:00	
+163025	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	27	0	Arte	Marcela Tello-ElDia	2018-9-5 00:00:00	
+163224	CAMPOS DEL NORTE S.A.	Par	Cuatricromia	Generales	17x3	27	0	Publicado	Patricia Villena	2018-9-5 00:00:00	
+163370	DIARIO EL DIA	Par	Cuatricromia	Generales	17x6	28	0	Arte	Marcela Tello-ElDia	2018-9-5 00:00:00	
+163385	DIARIO EL DIA	Par	Blanco y negro	Generales	5x6	29	0	Arte	Marcela Tello-ElDia	2018-9-5 00:00:00	
+163279	BANCO ESTADO DE CHILE	592 Palabras		Legal	x	EC	147.059	Publicado	Pedro Jaime	2018-9-5 00:00:00	
+163280	BANCO ESTADO DE CHILE	643 Palabras		Legal	x	EC	159.664	Publicado	Pedro Jaime	2018-9-5 00:00:00	
+163383	DIARIO EL DIA	Par	Blanco y negro	Generales	10x3	EC-18	0	Arte	Marcela Tello-ElDia	2018-9-5 00:00:00	
+162268	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	8x2	EC-18	36.528	Publicado	Medios Regionales	2018-9-5 00:00:00	
+163384	DIARIO EL DIA	Par	Blanco y negro	Generales	17x6	EC-19	0	Arte	Marcela Tello-ElDia	2018-9-5 00:00:00	
+162789	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Generales	5x2	EC-19	7.003	Publicado	Rene Pizarro	2018-9-5 00:00:00	
+152180	HOTELERIA LUIS ALBERTO BERETTA KIEK	Par	Blanco y negro	Generales	5x2	EC-19	6.061	Publicado	Patricia Villena	2018-9-5 00:00:00	
+163343	VALDIVIESO Y ASOCIADOS GESTION INMO	222 Palabras		Propiedades	x	PROP	35.520	Publicado	Pedro Jaime	2018-9-5 00:00:00	
+163281	COMERCIAL AUTOKARINO LTDA.	404 Palabras		Propiedades	x	PROP	64.640	Publicado	Pedro Jaime	2018-9-5 00:00:00	
+163282	JACQUELINE BARRERA BARRAZA	484 Palabras		Propiedades	x	PROP	77.440	Publicado	Pedro Jaime	2018-9-5 00:00:00	
+163284	YOLANDA ELIAS CAMBLOR	230 Palabras		Propiedades	x	PROP	36.800	Publicado	Pedro Jaime	2018-9-5 00:00:00	
+163283	GABRIELA ARENAS O'RYAN	276 Palabras		Propiedades	x	PROP	44.160	Publicado	Pedro Jaime	2018-9-5 00:00:00	

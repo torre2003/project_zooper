@@ -1,0 +1,36 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+129253	CHRISTIAN LAUNITZ MARIN SERVICIOS M	Par	Blanco y negro	Generales	8x2	04	5.000	Arte	Heinger Vega Torres	2017-5-10 00:00:00	
+129232	CENCOSUD RETAIL S.A.	Impar	Cuatricromia	Generales	35x6	05	600.000	Arte	Kathine Soto-Stgo	2017-5-10 00:00:00	
+129209	SOCIEDAD DE RENTAS FALABELLA S.A	Impar	Cuatricromia	Generales	17x6	07	300.000	Arte	M Cristina Puga	2017-5-10 00:00:00	
+129254	DABED Y CIA. LTDA., SELIM	Par	Cuatricromia	Generales	6x6	10	27.690	Arte	Karina Rivera	2017-5-10 00:00:00	
+129061	SEREMI BIENES NACIONALES IV REGION	Par	Blanco y negro	Generales	15x3	11	105.466	Arte	Jacqueline Torres	2017-5-10 00:00:00	
+129183	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	11	0	Arte	Marcela Tello-ElDia	2017-5-10 00:00:00	
+129252	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	16x3	11	104.352	Arte	Medios Regionales	2017-5-10 00:00:00	
+125028	NATHALY ALMUNA CATALAN	Par	Cuatricromia	Generales	5x2	12	0	Arte	Maria_Amelia Hermosilla	2017-5-10 00:00:00	
+129192	GOTTREUX SALAS RUBEN	Par	Blanco y negro	Generales	10x2	13	58.592	Arte	Karina Rivera	2017-5-10 00:00:00	
+129203	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	10x1	13	21.740	Arte	Medios Regionales	2017-5-10 00:00:00	
+128465	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	13	8.306	Arte	Miguel Apey	2017-5-10 00:00:00	
+128620	CENTRO TECNICO ACUARELA LTDA.	Par	Blanco y negro	Generales	5x2	14	20.874	Arte	Rene Pizarro	2017-5-10 00:00:00	
+129256	DIARIO EL DIA	Par	Blanco y negro	Generales	5x2	14	0	Arte	Marcela Tello-ElDia	2017-5-10 00:00:00	
+128851	ARZOBISPADO DE LA SERENA	Par	Blanco y negro	Generales	5x2	14	0	Arte	Marcela Tello-ElDia	2017-5-10 00:00:00	
+128791	CLUB PLAYA BLANCA	Par	Cuatricromia	Generales	17x3	16	0	Arte	Paola Marquez	2017-5-10 00:00:00	
+129237	CALLEGARI LTDA.	Par	Cuatricromia	Generales	17x3	17	142.749	Arte	Paola Marquez	2017-5-10 00:00:00	
+129281	FAISAL HARCHA LASEN	Par	Cuatricromia	Generales	17x6	18	0	Arte	Paola Marquez	2017-5-10 00:00:00	
+129229	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	23	0	Arte	Marcela Tello-ElDia	2017-5-10 00:00:00	
+124881	AGUAS DEL VALLE S.A.	Par	Cuatricromia	Generales	5x6	25	40.000	Arte	Heinger Vega Torres	2017-5-10 00:00:00	
+129188	DIARIO EL DIA	Par	Cuatricromia	Generales	12x6	26	0	Arte	Marcela Tello-ElDia	2017-5-10 00:00:00	
+129241	SOC. HOTELERA VICHUQUEN LTDA.	Par	Cuatricromia	Generales	15x2	29	0	Arte	Karina Rivera	2017-5-10 00:00:00	
+128517	ARMAQ			UIP	5x1	30	8.937	Arte	Claudio Romero	2017-5-10 00:00:00	
+129283	DIARIO EL DIA	Par	Blanco y negro	Generales	5x2	30	0	Arte	Marcela Tello-ElDia	2017-5-10 00:00:00	
+129144	SOC. DE GES			UIP	5x1	30	8.937	Arte	Miguel Apey	2017-5-10 00:00:00	
+127597	SERVICIOS GASTRON?MICOS LA CASONA D	Par	Blanco y negro	Generales	5x2	30	10.725	Arte	Miguel Apey	2017-5-10 00:00:00	
+128919	DANIEL RED?N GARCIA			UIP	5x1	30	8.937	Arte	Pedro Cortes	2017-5-10 00:00:00	
+127977	cern			UIP	5x1	30	8.937	Arte	Nadia Randolph	2017-5-10 00:00:00	
+127210	VELIZ CORTES JOSE A.	Par	Blanco y negro	Generales	3x2	31	14.719	Arte	Pedro Cortes	2017-5-10 00:00:00	
+129194	SERVICIOS GENERALES GUAYACAN S.A	Par	Blanco y negro	Generales	4x2	31	6.666	Arte	Jacqueline Torres	2017-5-10 00:00:00	
+129022	SOTRALITUR S.A.	Par	Blanco y negro	Generales	7x2	EC20	51.268	Arte	Pedro Jaime	2017-5-10 00:00:00	
+129077	HERMANAS FRANCISCANAS DE GANTE	Par	Blanco y negro	Generales	9x2	EC20	65.916	Arte	Pedro Jaime	2017-5-10 00:00:00	
+128704	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Generales	5x1	EC21	6.043	Arte	Rene Pizarro	2017-5-10 00:00:00	
+129282	DIARIO EL DIA	Par	Cuatricromia	Generales	17x6	EC21	0	Arte	Marcela Tello-ElDia	2017-5-10 00:00:00	
+123807	HOTELERIA LUIS ALBERTO BERETTA KIEK	Par	Blanco y negro	Generales	5x2	EC21	6.061	Arte	Patricia Villena	2017-5-10 00:00:00	
+129278	RECAUDACIONES Y COBRANZA S.A	1087 Palabras		Legal	x	ECON	269.664	Arte	Pedro Jaime	2017-5-10 00:00:00	

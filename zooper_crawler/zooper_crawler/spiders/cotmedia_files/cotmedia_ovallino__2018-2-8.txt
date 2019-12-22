@@ -1,0 +1,6 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+147786	CL?NICA VETERINARIA LOS MANCOS LTDA			UIP	10x2	09	11.260	Publicado	Karina Rivera	CLINICA VETERINARIA 	2018-2-8 00:00:00	
+148387	INVERSIONES TANGUEMAR LIMITADA			UIP	5x2	09	2.808	Publicado	Patricia Villena	Tanguemar 2	2018-2-8 00:00:00	
+149551	DONATTOS OVALLE SPA			UIP	5x2	09	2.808	Publicado	Karina Rivera	VENTA DERECHO DE LLAVE	2018-2-8 00:00:00	
+147886	VELIZ CORTES JOSE A.			UIP	5x2	15	4.695	Publicado	Pedro Cortes		2018-2-8 00:00:00	
+150184	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	6x6	15	0	Publicado	Marcela Tello-ElDia		2018-2-8 00:00:00	

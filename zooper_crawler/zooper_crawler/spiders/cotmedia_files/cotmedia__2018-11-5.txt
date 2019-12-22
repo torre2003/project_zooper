@@ -1,0 +1,40 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+169170	UNIVERSIDAD SANTO TOMAS	Impar	Cuatricromia	Generales	25x5	05	534.969	Publicado	Patricia Villena	2018-11-5 00:00:00	
+169376	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	06	0	Arte	Marcela Tello-ElDia	2018-11-5 00:00:00	
+169394	INMOBIL. ECOMAC S.A.	Impar	Cuatricromia	Generales	35x6	07	839.770	Publicado	M Cristina Puga	2018-11-5 00:00:00	
+169457	CALLEGARI LTDA.	Par	Cuatricromia	Generales	17x6	08	0	Arte	Marcela Tello-ElDia	2018-11-5 00:00:00	
+169145	HABITA INMOBILIARIA SA	Par	Cuatricromia	Generales	34x3	09	0	Publicado	Miguel Apey	2018-11-5 00:00:00	
+169454	DIARIO EL DIA	Par	Cuatricromia	Generales	34x6	10	0	Arte	Marcela Tello-ElDia	2018-11-5 00:00:00	
+169455	DIARIO EL DIA	Par	Blanco y negro	Generales	5x1	13	0	Arte	Marcela Tello-ElDia	2018-11-5 00:00:00	
+168804	PAMELA B. GONZALEZ LIZAMA COMERCIAL	Par	Blanco y negro	Generales	5x2	13	0	Arte	Marcela Tello-ElDia	2018-11-5 00:00:00	
+168965	ARMAQ SUBIRI S.A.			UIP	5x1	13	8.937	Publicado	Claudio Romero	2018-11-5 00:00:00	
+169110	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	5x2	13	0	Publicado	Miguel Apey	2018-11-5 00:00:00	
+168403	ARZOBISPADO DE LA SERENA	Par	Blanco y negro	Generales	10x2	19	0	Arte	Marcela Tello-ElDia	2018-11-5 00:00:00	
+169098	LABORATORIO CLINICO STA. MARIA LA S	Par	Blanco y negro	Generales	6x2	19	7.470	Publicado	Miguel Apey	2018-11-5 00:00:00	
+168910	PAMELA ASTORGA PAEZ	Par	Blanco y negro	Generales	5x2	19	0	Arte		2018-11-5 00:00:00	
+169096	SERV. DE REGISTRO CIVIL E IDENTIFIC	Par	Blanco y negro	Generales	35x6	22-24	707.252	Publicado	Jacqueline Torres	2018-11-5 00:00:00	
+169179	DABED Y CIA. LTDA., SELIM	Par	Cuatricromia	Generales	6x6	25	27.690	Publicado	Karina Rivera	2018-11-5 00:00:00	
+168266	C.M. SOC. GASTRONOMICA LTDA.			UIP	5x2	26	7.208	Publicado		2018-11-5 00:00:00	
+168632	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	26	0	Arte	Marcela Tello-ElDia	2018-11-5 00:00:00	
+168696	INVERSIONES ALTA CRUZ LTDA	Par	Blanco y negro	Generales	5x2	26	0	Arte	Marcela Tello-ElDia	2018-11-5 00:00:00	
+169039	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	26	8.306	Publicado	Miguel Apey	2018-11-5 00:00:00	
+169069	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	4x5	26	20.508	Publicado	Miguel Apey	2018-11-5 00:00:00	
+168497	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	27	0	Arte	Marcela Tello-ElDia	2018-11-5 00:00:00	
+169160	SERVICIOS GENERALES GUAYACAN S.A	Par	Blanco y negro	Generales	3x2	29	6.812	Publicado	Jacqueline Torres	2018-11-5 00:00:00	
+168462	INDUSTRIAS CELTA LIMITADA	Par	Cuatricromia	Generales	35x6	32	538.314	Publicado	Miguel Apey	2018-11-5 00:00:00	
+169371	BANCO DE CHILE	491 Palabras		Legal	x	EC	121.849	Publicado	Pedro Jaime	2018-11-5 00:00:00	
+169372	BANCO DE CHILE	613 Palabras		Legal	x	EC	152.101	Publicado	Pedro Jaime	2018-11-5 00:00:00	
+169384	SANTANDER G.R.C.	782 Palabras		Legal	x	EC	194.118	Publicado	Pedro Jaime	2018-11-5 00:00:00	
+169264	REMATES RINEL SPA	Par	Blanco y negro	Generales	11x3	EC-20	97.759	Publicado	Pedro Jaime	2018-11-5 00:00:00	
+166156	HOTELERIA LUIS ALBERTO BERETTA KIEK	Par	Blanco y negro	Generales	5x2	EC-21	6.061	Publicado	Patricia Villena	2018-11-5 00:00:00	
+169456	DIARIO EL DIA	Par	Cuatricromia	Generales	17x6	EC-21	0	Arte	Marcela Tello-ElDia	2018-11-5 00:00:00	
+169318	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Generales	5x2	EC-21	7.003	Publicado	Rene Pizarro	2018-11-5 00:00:00	
+169385	COMERCIAL AUTOKARINO LTDA.	404 Palabras		Propiedades	x	PR	64.706	Publicado	Pedro Jaime	2018-11-5 00:00:00	
+169393	INMOBILIARIA CONPACES S.A.	242 Palabras		Propiedades	x	PROP	38.820	Publicado	Pedro Jaime	2018-11-5 00:00:00	
+169392	INMOBILIARIA CONPACES S.A.	131 Palabras		Propiedades	x	PROP	21.000	Publicado	Pedro Jaime	2018-11-5 00:00:00	
+169391	FRANCISCO CORVETTO MIRANDA PROPIEDA	3067 Palabras		Propiedades	x	PROP	490.756	Publicado	Pedro Jaime	2018-11-5 00:00:00	
+169390	JACQUELINE BARRERA BARRAZA	504 Palabras		Propiedades	x	PROP	80.672	Publicado	Pedro Jaime	2018-11-5 00:00:00	
+169389	GABRIELA ARENAS O'RYAN	304 Palabras		Propiedades	x	PROP	48.740	Publicado	Pedro Jaime	2018-11-5 00:00:00	
+169388	GONZALEZ ADAROS MARIA SOLEDAD	215 Palabras		Propiedades	x	PROP	34.454	Publicado	Pedro Jaime	2018-11-5 00:00:00	
+169387	RODRIGUEZ ROJAS MARCELO	735 Palabras		Propiedades	x	PROP	117.647	Publicado	Pedro Jaime	2018-11-5 00:00:00	
+169386	LILIAN ELIZABETH OLIVARES LANAS	829 Palabras		Propiedades	x	PROP	132.773	Publicado	Pedro Jaime	2018-11-5 00:00:00	

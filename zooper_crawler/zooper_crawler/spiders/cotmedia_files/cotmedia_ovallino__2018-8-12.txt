@@ -1,0 +1,10 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+161718	SOCIEDAD DE RENTAS FALABELLA S.A	Par	Cuatricromia	Generales	8x6	03	50.980	Publicado	M Cristina Puga	HUINCHA Open Plaza - primera impar	2018-8-12 00:00:00	
+161780	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	12x6	05	0	Arte	Marcela Tello-ElDia	Vive la experiencia de ser suscriptor... $66.000.-	2018-8-12 00:00:00	
+158751	SOCIEDAD MEDICA Y CONSULTORA ESTETI		Cuatricromia	Guia	5x2	06	13.333	Publicado	Paola Marquez	Diego Polanco	2018-8-12 00:00:00	
+161398	OSSANDON PRESTACIONES MEDICAS Y OTR			UIP	5x2	06	3.879	Publicado	Karina Rivera	MEDICO CIRUJANO ALEJANDRO MANRIQUEZ	2018-8-12 00:00:00	
+160591	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	08	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2018-8-12 00:00:00	
+161781	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x6	11	0	Arte	Marcela Tello-ElDia	Reportero Ciudadano - El Ovallino	2018-8-12 00:00:00	
+161782	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	8x6	12	0	Arte	Marcela Tello-ElDia		2018-8-12 00:00:00	
+161165	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	6x6	14	0	Publicado	Marcela Tello-ElDia	Descuentos Entradas Cinemark	2018-8-12 00:00:00	
+161651	CAMAL MUSALEM TAPIA Y CIA.	Par	Cuatricromia	Generales	34x6	16	349.656	Publicado	Marcela Tello-ElDia	Toyota - Nuevo	2018-8-12 00:00:00	

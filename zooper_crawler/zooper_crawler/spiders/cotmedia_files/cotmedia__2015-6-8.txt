@@ -1,0 +1,37 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+76897	CHRISTIAN LAUNITZ MARIN SERVICIOS M	Par	Blanco y negro	Generales	3x2	04	6.440	Publicado	Jacqueline Torres	2015-6-8 00:00:00	
+77510	CLARO CHILE S.A.	Impar	Cuatricromia	Generales	35x6	05	645.977	Publicado	Kathine Soto-Stgo	2015-6-8 00:00:00	
+77199	HABITA INMOBILIARIA SA	Par	Cuatricromia	Generales	35x3	07	0	Publicado	Miguel Apey	2015-6-8 00:00:00	
+77585	CALLEGARI LTDA.	Par	Cuatricromia	Generales	17x6	08	0	Publicado	Marcela Tello-ElDia	2015-6-8 00:00:00	
+76792	DIARIO EL DIA	Par	Cuatricromia	Generales	34x6	09	0	Publicado	Marcela Tello-ElDia	2015-6-8 00:00:00	
+77200	INVERSIONES E INMOBILIARIA P.A.T.  	Par	Cuatricromia	Generales	9x6	10	0	Publicado	Miguel Apey	2015-6-8 00:00:00	
+77431	CONAFE	Par	Cuatricromia	Generales	9x6	11	221.478	Publicado	Miguel Apey	2015-6-8 00:00:00	
+75485	SKY AIRLINE S.A.	Impar	Cuatricromia	Generales	17x6	12	404.199	Publicado	M Cristina Puga	2015-6-8 00:00:00	
+77531	ILUSTRE MUNICIPALIDAD DE CANELA	Par	Blanco y negro	Generales	10x3	13	112.057	Publicado	Jacqueline Torres	2015-6-8 00:00:00	
+77056	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	10x3	13	0	Publicado	Marcela Tello-ElDia	2015-6-8 00:00:00	
+76580	LABORATORIO CLINICO STA. MARIA LA S	Par	Blanco y negro	Generales	6x2	14	7.470	Publicado	Miguel Apey	2015-6-8 00:00:00	
+77532	SUBSIDIO NACIONAL TRANSPORTE PUBLIC	Par	Blanco y negro	Generales	12x2	14	61.522	Publicado	Jacqueline Torres	2015-6-8 00:00:00	
+76599	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	14-16	8.306	Publicado	Miguel Apey	2015-6-8 00:00:00	
+77586	HERMANAS CALLEGARI LTDA.	Par	Cuatricromia	Generales	17x6	22	0	Publicado	Marcela Tello-ElDia	2015-6-8 00:00:00	
+77529	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Cuatricromia	Medios Regionales	17x6	25	322.388	Publicado	Medios Regionales	2015-6-8 00:00:00	
+77251	ferreira luis miguel			UIP	5x1	29	8.937	Publicado	Pedro Jaime	2015-6-8 00:00:00	
+77313	sociedad restau			UIP	5x2	29	17.875	Publicado	Jacqueline Torres	2015-6-8 00:00:00	
+77573	arevalo carmen			UIP	5x1	29	8.937	Publicado	Pedro Jaime	2015-6-8 00:00:00	
+76467	ARMAQ			UIP	5x1	29	8.937	Publicado	Claudio Romero	2015-6-8 00:00:00	
+76561	SOC. DE GESTION MEDITERRANEA			UIP	5x1	29	8.937	Publicado	Miguel Apey	2015-6-8 00:00:00	
+76965	PILLA LA VACA	Par	Blanco y negro	Generales	5x2	29	0	Publicado	Marcela Tello-ElDia	2015-6-8 00:00:00	
+76994	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	29	0	Publicado	Marcela Tello-ElDia	2015-6-8 00:00:00	
+76709	lara			UIP	5x1	29	8.937	Publicado	Italo Retamal	2015-6-8 00:00:00	
+77027	DIARIO EL DIA	Par	Blanco y negro	Generales	5x2	29	0	Publicado	Marcela Tello-ElDia	2015-6-8 00:00:00	
+77128	SOC. COMERCIAL ALCAPARRA LTDA.	Par	Blanco y negro	Generales	5x2	29	10.440	Publicado	Patricia Villena	2015-6-8 00:00:00	
+77180	DESIDERIO LISBOA EIRL.	Par	Blanco y negro	Generales	5x2	29	17.875	Publicado	Claudio Romero	2015-6-8 00:00:00	
+76927	SERVICIOS GENERALES GUAYACAN S.A	Par	Blanco y negro	Generales	3x2	30	6.666	Publicado	Jacqueline Torres	2015-6-8 00:00:00	
+76264	BANCO PARIS	Par	Cuatricromia	Generales	35x6	32	580.000	Publicado	M Cristina Puga	2015-6-8 00:00:00	
+77579	AREVALO CARMEN			UIP	5x1	EC-19	8.937	Publicado	Pedro Jaime	2015-6-8 00:00:00	
+76333	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Generales	5x1	EC-19	5.860	Publicado	Rene Pizarro	2015-6-8 00:00:00	
+76363	SOC. COMERCIAL VARGAS Y GIACOMET	Par	Blanco y negro	Generales	5x1	EC-19	5.860	Publicado	Rene Pizarro	2015-6-8 00:00:00	
+77447	SERVICIOS GASTRONOMICOS Y DE ALIMEN	6767 Palabras		Legal	x	EC-20	1.678.216	Publicado	Pedro Jaime	2015-6-8 00:00:00	
+77486	UNIVERSIDAD TECNOLOGICA DE CHILE		1 pag.	Inserto	x	EE	350.000	Publicado	Patricia Villena	2015-6-8 00:00:00	
+77473	CONSTRUCTORA SAMCO LTDA		1 pag.	Inserto	x	EE	400.000	Publicado	Miguel Apey	2015-6-8 00:00:00	
+77472	TERMINAL PUERTO COQUIMBO S.A.		1 pag.	Inserto	x	EE	400.000	Publicado	Miguel Apey	2015-6-8 00:00:00	
+77595	SOC VITIVINICOLA DALBOSCO LTDA		1 pag.	Inserto	x	EE	0	Publicado	Miguel Apey	2015-6-8 00:00:00	

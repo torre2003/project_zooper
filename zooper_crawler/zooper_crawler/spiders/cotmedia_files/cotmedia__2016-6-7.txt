@@ -1,0 +1,38 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+103505	WILLIAMSON BALFOUR MOTORS S.A	Impar	Cuatricromia	Generales	17x6	05	439.265	Publicado	Paola Marquez	2016-6-7 00:00:00	
+104445	CLARO CHILE S.A.	Impar	Cuatricromia	Generales	35x6	09	645.977	Publicado	Kathine Soto-Stgo	2016-6-7 00:00:00	
+104444	MOP OOPP	Par	Blanco y negro	Generales	22x2	11	161.128	Publicado	Marcela Tello-ElDia	2016-6-7 00:00:00	
+104429	SINDY GONZALEZ MARCHANT	Par	Cuatricromia	Generales	17x3	12	0	Publicado	Marcela Tello-ElDia	2016-6-7 00:00:00	
+104430	DIARIO EL DIA	Par	Cuatricromia	Generales	10x3	12	0	Arte	Marcela Tello-ElDia	2016-6-7 00:00:00	
+104058	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	5x2	13	0	Publicado	Miguel Apey	2016-6-7 00:00:00	
+101976	DIARIO EL DIA	Par	Blanco y negro	Generales	5x2	13	0	Publicado	Marcela Tello-ElDia	2016-6-7 00:00:00	
+104441	DABED Y CIA. LTDA., SELIM	Par	Blanco y negro	Generales	17x6	14	0	Publicado	Marcela Tello-ElDia	2016-6-7 00:00:00	
+104260	SERV. AGRICOLA Y GANADERO	Par	Blanco y negro	Generales	14x3	15	107.077	Publicado	Jacqueline Torres	2016-6-7 00:00:00	
+103902	ILUSTRE MUNICIPALIDAD DE LA SERENA	Par	Blanco y negro	Generales	17x3	15	126.999	Publicado	M Cristina Puga	2016-6-7 00:00:00	
+103642	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	16	0	Arte	Marcela Tello-ElDia	2016-6-7 00:00:00	
+104124	DIARIO EL DIA	Par	Cuatricromia	Generales	12x6	17	0	Arte	Marcela Tello-ElDia	2016-6-7 00:00:00	
+103798	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	18	8.306	Publicado	Miguel Apey	2016-6-7 00:00:00	
+104440	TESORERIA REGIONAL DE LA SERENA	Par	Blanco y negro	Generales	34x6	22	747.048	Publicado	Marcela Tello-ElDia	2016-6-7 00:00:00	
+104128	DIARIO EL DIA	Par	Cuatricromia	Generales	34x6	23	0	Arte	Marcela Tello-ElDia	2016-6-7 00:00:00	
+103828	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	4x5	29	20.508	Publicado	Miguel Apey	2016-6-7 00:00:00	
+104364	GABRIEL ESPINOZA			UIP	5x1	30	8.937	Publicado	Pedro Jaime	2016-6-7 00:00:00	
+104322	AREVALO CARMEN			UIP	5x1	30	8.937	Publicado	Pedro Jaime	2016-6-7 00:00:00	
+100548	SOC.COMERCIAL ALTOS LA SERENA LTDA	Par	Blanco y negro	Generales	5x2	30	8.937	Publicado	Nadia Randolph	2016-6-7 00:00:00	
+104009	SOC. COMERCIAL ALCAPARRA LTDA.	Par	Blanco y negro	Generales	5x2	30	10.440	Publicado	Patricia Villena	2016-6-7 00:00:00	
+102127	CERNA E HIJOS CIA. LTDA.	Par	Blanco y negro	Generales	5x1	30	4.524	Publicado	Nadia Randolph	2016-6-7 00:00:00	
+103941	ARMAQ			UIP	5x1	30	8.937	Publicado	Claudio Romero	2016-6-7 00:00:00	
+102777	SERVICIOS GASTRON?MICOS LA CASONA D	Par	Blanco y negro	Generales	5x2	30	10.725	Publicado	Miguel Apey	2016-6-7 00:00:00	
+103306	GALLARDO Y OTRA			UIP	5x1	30	8.937	Publicado	Pedro Jaime	2016-6-7 00:00:00	
+103707	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	30	0	Publicado	Marcela Tello-ElDia	2016-6-7 00:00:00	
+103560	SOC. DE GESTION MEDITERRANEA			UIP	5x1	30	8.937	Publicado	Miguel Apey	2016-6-7 00:00:00	
+103329	ventur			UIP	5x1	30	8.937	Publicado	Maria_Amelia Hermosilla	2016-6-7 00:00:00	
+104446	HERNAN MORALES SUAZO	Par	Blanco y negro	Generales	5x2	31	25.210	Publicado	Pedro Jaime	2016-6-7 00:00:00	
+104439	LUIS MU?OZ HUERTA	Par	Blanco y negro	Generales	12x2	31	58.007	Publicado	Pedro Jaime	2016-6-7 00:00:00	
+104284	SERVICIOS GENERALES GUAYACAN S.A	Par	Blanco y negro	Generales	4x2	31	6.666	Publicado	Jacqueline Torres	2016-6-7 00:00:00	
+104174	VELIZ CORTES JOSE A.	Par	Blanco y negro	Generales	3x2	31	13.403	Publicado	Pedro Cortes	2016-6-7 00:00:00	
+104451	JORGE MIRANDA CONTADOR	Par	Blanco y negro	Generales	12x2	31	43.944	Publicado	Pedro Jaime	2016-6-7 00:00:00	
+104205	DIARIO EL DIA	Par	Blanco y negro	Generales	5x2	EC-20	0	Arte	Marcela Tello-ElDia	2016-6-7 00:00:00	
+103915	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Generales	5x1	EC-21	5.860	Publicado	Rene Pizarro	2016-6-7 00:00:00	
+100929	HOTELERIA LUIS ALBERTO BERETTA KIEK	Par	Blanco y negro	Generales	5x2	EC-21	8.937	Publicado	Patricia Villena	2016-6-7 00:00:00	
+104449	MOP OOPP	Par	Blanco y negro	Generales	12x1	EC-21	44.870	Publicado	Jacqueline Torres	2016-6-7 00:00:00	
+104450	MOP OOPP	Par	Blanco y negro	Generales	12x1	EC-21	44.870	Publicado	Jacqueline Torres	2016-6-7 00:00:00	

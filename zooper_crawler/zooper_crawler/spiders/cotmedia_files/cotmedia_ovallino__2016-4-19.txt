@@ -1,0 +1,5 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+99653	SOCIEDAD DE RENTAS FALABELLA S.A	Par	Cuatricromia	Generales	8x6	01	50.980	Publicado	M Cristina Puga	Open 	2016-4-19 00:00:00	
+97936	parques			UIP	10x2	05	9.765	Publicado	Rene Pizarro	TU TRANQUILIDAD FAMILIAR...PARQUE DE OVALLE...PARQUES DE CHILE...	2016-4-19 00:00:00	
+99084	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	07	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2016-4-19 00:00:00	
+100366	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x6	14	0	Arte	Marcela Tello-ElDia		2016-4-19 00:00:00	

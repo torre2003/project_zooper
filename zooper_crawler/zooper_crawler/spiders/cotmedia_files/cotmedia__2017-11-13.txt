@@ -1,0 +1,71 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+143846	CLARO CHILE S.A.	Impar	Cuatricromia	Generales	35x6	03	646.000	Publicado	Kathine Soto-Stgo	2017-11-13 00:00:00	
+143350	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	04	0	Publicado	Marcela Tello-ElDia	2017-11-13 00:00:00	
+143688	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Cuatricromia	Medios Regionales	32x6	05	518.048	Publicado	Medios Regionales	2017-11-13 00:00:00	
+143434	VICTOR MANUELS REBOLLEDO GONZALEZ	Impar	Cuatricromia	Generales	17x6	06	0	Publicado		2017-11-13 00:00:00	
+143092	HABITA INMOBILIARIA SA	Par	Cuatricromia	Generales	34x3	07	0	Publicado	Miguel Apey	2017-11-13 00:00:00	
+142506	CONSTRUCTORA CADEL LTDA.	Par	Cuatricromia	Generales	17x6	08	0	Publicado	Rene Pizarro	2017-11-13 00:00:00	
+143847	UNIVERSIDAD TECNOLOGICA DE CHILE	Impar	Cuatricromia	Generales	35x6	09	650.000	Publicado	Patricia Villena	2017-11-13 00:00:00	
+142346	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	10	8.306	Publicado	Miguel Apey	2017-11-13 00:00:00	
+143685	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Cuatricromia	Medios Regionales	32x6	11	417.408	Publicado	Medios Regionales	2017-11-13 00:00:00	
+141545	CHRISTIAN LAUNITZ MARIN SERVICIOS M	Par	Blanco y negro	Generales	5x2	14	5.000	Publicado	Heinger Vega Torres	2017-11-13 00:00:00	
+143565	ARZOBISPADO DE LA SERENA	Par	Blanco y negro	Generales	10x2	15	0	Publicado	Marcela Tello-ElDia	2017-11-13 00:00:00	
+143657	FUNDACION INTEGRA	Par	Blanco y negro	Generales	5x2	15	36.620	Publicado	Miguel Apey	2017-11-13 00:00:00	
+142369	LABORATORIO CLINICO STA. MARIA LA S	Par	Blanco y negro	Generales	6x2	15	7.470	Publicado	Miguel Apey	2017-11-13 00:00:00	
+143742	MOP OOPP	196 Palabras		Legal	x	18	48.608	Publicado	Jacqueline Torres	2017-11-13 00:00:00	
+143741	MOP OOPP	196 Palabras		Legal	x	18	48.608	Publicado	Jacqueline Torres	2017-11-13 00:00:00	
+143744	MOP OOPP	196 Palabras		Legal	x	18	48.608	Publicado	Jacqueline Torres	2017-11-13 00:00:00	
+143745	MOP OOPP	196 Palabras		Legal	x	18	48.608	Publicado	Jacqueline Torres	2017-11-13 00:00:00	
+143746	MOP OOPP	196 Palabras		Legal	x	18	48.608	Publicado	Jacqueline Torres	2017-11-13 00:00:00	
+143755	MOP OOPP	196 Palabras		Legal	x	18	48.608	Publicado	Jacqueline Torres	2017-11-13 00:00:00	
+143754	MOP OOPP	196 Palabras		Legal	x	18	48.608	Publicado	Jacqueline Torres	2017-11-13 00:00:00	
+143753	MOP OOPP	196 Palabras		Legal	x	18	48.608	Publicado	Jacqueline Torres	2017-11-13 00:00:00	
+143752	MOP OOPP	196 Palabras		Legal	x	18	48.608	Publicado	Jacqueline Torres	2017-11-13 00:00:00	
+143751	MOP OOPP	196 Palabras		Legal	x	18	48.608	Publicado	Jacqueline Torres	2017-11-13 00:00:00	
+143750	MOP OOPP	196 Palabras		Legal	x	18	48.608	Publicado	Jacqueline Torres	2017-11-13 00:00:00	
+143748	MOP OOPP	196 Palabras		Legal	x	18	48.608	Publicado	Jacqueline Torres	2017-11-13 00:00:00	
+143747	MOP OOPP	196 Palabras		Legal	x	18	48.608	Publicado	Jacqueline Torres	2017-11-13 00:00:00	
+143749	MOP OOPP	196 Palabras		Legal	x	18	48.608	Publicado	Jacqueline Torres	2017-11-13 00:00:00	
+143764	MOP OOPP	196 Palabras		Legal	x	18	48.608	Publicado	Jacqueline Torres	2017-11-13 00:00:00	
+143772	MOP OOPP	196 Palabras		Legal	x	18	48.608	Publicado	Jacqueline Torres	2017-11-13 00:00:00	
+143773	MOP OOPP	196 Palabras		Legal	x	18	48.608	Publicado	Jacqueline Torres	2017-11-13 00:00:00	
+143771	MOP OOPP	196 Palabras		Legal	x	18	48.608	Publicado	Jacqueline Torres	2017-11-13 00:00:00	
+143765	MOP OOPP	196 Palabras		Legal	x	18	48.608	Publicado	Jacqueline Torres	2017-11-13 00:00:00	
+143766	MOP OOPP	196 Palabras		Legal	x	18	48.608	Publicado	Jacqueline Torres	2017-11-13 00:00:00	
+143770	MOP OOPP	196 Palabras		Legal	x	19	48.608	Publicado	Jacqueline Torres	2017-11-13 00:00:00	
+143769	MOP OOPP	196 Palabras		Legal	x	19	48.608	Publicado	Jacqueline Torres	2017-11-13 00:00:00	
+143768	MOP OOPP	196 Palabras		Legal	x	19	48.608	Publicado	Jacqueline Torres	2017-11-13 00:00:00	
+143757	MOP OOPP	196 Palabras		Legal	x	19	48.608	Publicado	Jacqueline Torres	2017-11-13 00:00:00	
+143767	MOP OOPP	196 Palabras		Legal	x	19	48.608	Publicado	Jacqueline Torres	2017-11-13 00:00:00	
+143763	MOP OOPP	196 Palabras		Legal	x	19	48.608	Publicado	Jacqueline Torres	2017-11-13 00:00:00	
+143762	MOP OOPP	196 Palabras		Legal	x	19	48.608	Publicado	Jacqueline Torres	2017-11-13 00:00:00	
+143761	MOP OOPP	196 Palabras		Legal	x	19	48.608	Publicado	Jacqueline Torres	2017-11-13 00:00:00	
+143774	MOP OOPP	196 Palabras		Legal	x	19	48.608	Publicado	Jacqueline Torres	2017-11-13 00:00:00	
+143759	MOP OOPP	196 Palabras		Legal	x	19	48.608	Publicado	Jacqueline Torres	2017-11-13 00:00:00	
+143923	DIARIO EL DIA	Par	Cuatricromia	Generales	34x4	19	0	Arte	Marcela Tello-ElDia	2017-11-13 00:00:00	
+143811	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Cuatricromia	Medios Regionales	16x6	21	309.344	Publicado	Medios Regionales	2017-11-13 00:00:00	
+143836	SERVICIO ELECTORAL	Par	Blanco y negro	Generales	17x3	22	0	Arte	Jacqueline Torres	2017-11-13 00:00:00	
+143801	DIARIO EL DIA	Par	Cuatricromia	Generales	6x3	23	0	Arte	Marcela Tello-ElDia	2017-11-13 00:00:00	
+141637	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Cuatricromia	Medios Regionales	16x3	23	204.992	Publicado	Medios Regionales	2017-11-13 00:00:00	
+142505	CONSTRUCTORA CADEL LTDA.	Par	Cuatricromia	Generales	17x6	24	0	Publicado	Rene Pizarro	2017-11-13 00:00:00	
+143217	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Cuatricromia	Medios Regionales	32x6	25	518.048	Publicado	Medios Regionales	2017-11-13 00:00:00	
+142978	CENTRO DE EDUC.CAP.Y FORMACION LABO	Par	Blanco y negro	Generales	5x2	26	4.666	Publicado	Jacqueline Torres	2017-11-13 00:00:00	
+142016	CERNA E HIJOS CIA. LTDA.	Par	Blanco y negro	Generales	5x1	26	3.574	Publicado	Nadia Randolph	2017-11-13 00:00:00	
+142269	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	26	0	Publicado	Marcela Tello-ElDia	2017-11-13 00:00:00	
+141672	SOC. DE GES			UIP	5x1	26	8.937	Publicado	Miguel Apey	2017-11-13 00:00:00	
+142386	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	4x5	26	20.508	Publicado	Miguel Apey	2017-11-13 00:00:00	
+143832	CONSTRUCTORA CADEL LTDA.	Par	Blanco y negro	Generales	5x2	26	0	Publicado	Rene Pizarro	2017-11-13 00:00:00	
+142759	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	5x2	26	0	Publicado	Miguel Apey	2017-11-13 00:00:00	
+142549	C.M. SOC. GASTRONOMICA LTDA.			UIP	5x2	26	7.208	Publicado		2017-11-13 00:00:00	
+143499	DIARIO EL DIA	Par	Cuatricromia	Generales	12x6	28	0	Publicado	Marcela Tello-ElDia	2017-11-13 00:00:00	
+142793	SERVICIOS GENERALES GUAYACAN S.A	Par	Blanco y negro	Generales	4x2	29	6.686	Publicado	Jacqueline Torres	2017-11-13 00:00:00	
+141213	VELIZ CORTES JOSE A.	Par	Blanco y negro	Generales	3x2	29	13.403	Publicado	Pedro Cortes	2017-11-13 00:00:00	
+143100	CENCOSUD ADMINISTRADORAS DE TARJETA	Impar	Cuatricromia	Generales	35x6	32	645.997	Publicado	M Cristina Puga	2017-11-13 00:00:00	
+143914	BANCO DE CREDITO E INVERSIONES	1097 Palabras		Legal	x	EC	272.269	Publicado	Pedro Jaime	2017-11-13 00:00:00	
+143915	BANCO DE CHILE	772 Palabras		Legal	x	EC	191.597	Publicado	Pedro Jaime	2017-11-13 00:00:00	
+143916	BANCO DE CHILE	818 Palabras		Legal	x	EC	203.025	Publicado	Pedro Jaime	2017-11-13 00:00:00	
+143800	DIARIO EL DIA	Par	Cuatricromia	Generales	6x6	EC-16	0	Arte	Marcela Tello-ElDia	2017-11-13 00:00:00	
+143922	DIARIO EL DIA	Par	Cuatricromia	Generales	4x6	EC-16	0	Arte	Marcela Tello-ElDia	2017-11-13 00:00:00	
+142478	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Economico	5x2	EC-17	15.161	Publicado	Rene Pizarro	2017-11-13 00:00:00	
+124005	HOTELERIA LUIS ALBERTO BERETTA KIEK	Par	Blanco y negro	Generales	5x2	EC-17	6.061	Publicado	Patricia Villena	2017-11-13 00:00:00	
+143738	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	20x6	EC-17	260.880	Arte	Medios Regionales	2017-11-13 00:00:00	

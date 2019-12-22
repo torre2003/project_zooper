@@ -1,0 +1,35 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+75111	CHRISTIAN LAUNITZ MARIN SERVICIOS M	Par	Blanco y negro	Generales	3x2	04	6.667	Publicado	Jacqueline Torres	2015-5-20 00:00:00	
+76023	UNIVERSIDAD TECNOLOGICA DE CHILE	Par	Blanco y negro	Generales	17x3	05	0	Publicado	Patricia Villena	2015-5-20 00:00:00	
+76021	ADMINISTRADORA CLUB DE GOLF LA SERE	Par	Blanco y negro	Generales	12x3	05	105.466	Publicado	Patricia Villena	2015-5-20 00:00:00	
+75991	ENTEL PCS	Impar	Cuatricromia	Generales	35x6	07	0	Publicado	Kathine Soto-Stgo	2015-5-20 00:00:00	
+75519	INMOBILIARIA DELCA LIMITADA	Par	Cuatricromia	Generales	17x6	08	0	Publicado	Rene Pizarro	2015-5-20 00:00:00	
+75992	CLARO CHILE S.A.	Impar	Cuatricromia	Generales	25x5	09	373.600	Publicado	Kathine Soto-Stgo	2015-5-20 00:00:00	
+75905	INMOBILIARIA CLUB PY - CATALINA S.A	Impar	Cuatricromia	Generales	17x6	11	0	Publicado	Claudio Romero	2015-5-20 00:00:00	
+74443	DIARIO EL DIA	Par	Cuatricromia	Generales	10x2	12	0	Publicado	Marcela Tello-ElDia	2015-5-20 00:00:00	
+74481	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	10x3	13	0	Publicado	Marcela Tello-ElDia	2015-5-20 00:00:00	
+76006	TASUI NORTE SUR S.A.	Par	Blanco y negro	Generales	4x2	15	29.296	Publicado	Marcela Tello-ElDia	2015-5-20 00:00:00	
+46289	SOCIEDAD MEDICA Y CONSULTORA ESTETI	Par	Cuatricromia	Generales	5x2	15	35.888	Publicado	Maria_Amelia Hermosilla	2015-5-20 00:00:00	
+74674	CENTRO TECNICO ACUARELA LTDA.	Par	Blanco y negro	Generales	5x2	15	19.409	Publicado	Rene Pizarro	2015-5-20 00:00:00	
+74852	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	16	8.306	Publicado	Miguel Apey	2015-5-20 00:00:00	
+75320	DIARIO EL DIA	Par	Blanco y negro	Generales	35x6	22	0	Publicado	Carolina Naranjo	2015-5-20 00:00:00	
+75321	DIARIO EL DIA	Impar	Blanco y negro	Generales	35x6	23	0	Publicado	Carolina Naranjo	2015-5-20 00:00:00	
+75370	SKY AIRLINE S.A.	Impar	Cuatricromia	Generales	17x6	27	269.464	Publicado	M Cristina Puga	2015-5-20 00:00:00	
+74892	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	4x5	28	20.508	Publicado	Miguel Apey	2015-5-20 00:00:00	
+75943	AREVALO CARMEN			UIP	5x1	29	8.937	Publicado	Pedro Jaime	2015-5-20 00:00:00	
+74194	ARMAQ			UIP	5x1	29	8.937	Publicado	Claudio Romero	2015-5-20 00:00:00	
+73594	SOC. DE GESTION MEDITERRANEA			UIP	5x1	29	8.937	Publicado	Miguel Apey	2015-5-20 00:00:00	
+76019	desiderio			UIP	5x2	29	17.875	Publicado	Claudio Romero	2015-5-20 00:00:00	
+69707	sociedad rest			UIP	5x2	29	17.875	Publicado	Jacqueline Torres	2015-5-20 00:00:00	
+74387	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	29	0	Publicado	Marcela Tello-ElDia	2015-5-20 00:00:00	
+74728	SOC. COMERCIAL ALCAPARRA LTDA.	Par	Blanco y negro	Generales	5x2	29	10.440	Publicado	Patricia Villena	2015-5-20 00:00:00	
+75713	SOC. INMOBILIARIA DE INVERSIONES RE	Par	Blanco y negro	Generales	5x1	29	7.427	Publicado	Miguel Apey	2015-5-20 00:00:00	
+74420	PILLA LA VACA	Par	Blanco y negro	Generales	5x2	29	0	Publicado	Marcela Tello-ElDia	2015-5-20 00:00:00	
+75140	SERVICIOS GENERALES GUAYACAN S.A	Par	Blanco y negro	Generales	3x2	30	6.667	Publicado	Jacqueline Torres	2015-5-20 00:00:00	
+76000	INMOBIL. LOS ANDES LTDA.	Par	Blanco y negro	Generales	16x2	30	82.029	Publicado	Miguel Apey	2015-5-20 00:00:00	
+73973	BANCO PARIS	Impar	Cuatricromia	Generales	35x6	32	580.000	Publicado	M Cristina Puga	2015-5-20 00:00:00	
+76004	TRANSPORTES CALLEGARI LTDA	Par	Blanco y negro	Generales	4x2	EC-19	29.296	Publicado	Pedro Jaime	2015-5-20 00:00:00	
+74631	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Generales	5x1	EC-20	5.860	Publicado	Rene Pizarro	2015-5-20 00:00:00	
+75937	arevalo carmen			UIP	5x1	EC-20	8.937	Publicado	Pedro Jaime	2015-5-20 00:00:00	
+74660	SOC. COMERCIAL VARGAS Y GIACOMET	Par	Blanco y negro	Generales	5x1	EC-20	5.860	Publicado	Rene Pizarro	2015-5-20 00:00:00	
+75788	PATRICIA DELGA			UIP	5x1	EC-20	8.937	Publicado	Pedro Jaime	2015-5-20 00:00:00	

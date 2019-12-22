@@ -1,0 +1,9 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+78775	SOCIEDAD DE RENTAS FALABELLA S.A	Par	Cuatricromia	Generales	8x6	01	50.980	Publicado	M Cristina Puga	Huincha portada Open Plaza	2015-7-10 00:00:00	
+78227	gatica briones spa			UIP	5x4	05	5.630	Publicado	Italo Retamal	promo hamburguesa 	2015-7-10 00:00:00	
+78565	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	6x6	06	16.065	Publicado	Claudio Romero	Muebles Alpina	2015-7-10 00:00:00	
+79036	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	10x3	07	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2015-7-10 00:00:00	
+79796	DABED Y CIA. LTDA., SELIM	Impar	Cuatricromia	Generales	6x6	09	23.077	Publicado	Italo Retamal	CREA DABED	2015-7-10 00:00:00	
+79408	lara			UIP	10x6	10	16.260	Publicado	Italo Retamal	tcm lara y cia	2015-7-10 00:00:00	
+79902	EMPRESA PERIODISTICA EL NORTE S.A.	Par	Blanco y negro	Medios Regionales	10x3	13	43.350	Publicado	Medios Regionales		2015-7-10 00:00:00	
+79927	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x6	14	0	Publicado	Marcela Tello-ElDia		2015-7-10 00:00:00	

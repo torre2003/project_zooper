@@ -1,0 +1,8 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+70809	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x6	03	0	Publicado	Marcela Tello-ElDia		2015-3-21 00:00:00	
+70088	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	10x3	07	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2015-3-21 00:00:00	
+71043	Maria Vic			UIP	17x2	07	9.211	Publicado	Italo Retamal		2015-3-21 00:00:00	
+71410	DABED Y CIA. LTDA., SELIM	Impar	Cuatricromia	Generales	6x6	08	23.077	Publicado	Italo Retamal	mes maestro	2015-3-21 00:00:00	
+70714	LA ELEGANTE	Par	Cuatricromia	Generales	8x6	09	0	Publicado	Patricia Villena	Franja bonificada	2015-3-21 00:00:00	
+71608	PAIROA			UIP	10x6	12	16.260	Publicado	Leonel Pizarro-Ovalle	CIRCO MEXICANO	2015-3-21 00:00:00	
+70718	LA ELEGANTE	Par	Cuatricromia	Contraportada	35x6	16	177.172	Publicado	Patricia Villena	La elegante	2015-3-21 00:00:00	

@@ -1,0 +1,74 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+157524	CLARO CHILE S.A.	Impar	Cuatricromia	Generales	35x6	05	742.874	Publicado	Kathine Soto-Stgo	2018-6-2 00:00:00	
+157505	INMOBIL. LA SERENA GOLF S.A.	Par	Cuatricromia	Generales	17x6	09	288.660	Publicado	Patricia Villena	2018-6-2 00:00:00	
+157559	DIARIO EL DIA	Par	Blanco y negro	Generales	5x2	10	0	Arte	Marcela Tello-ElDia	2018-6-2 00:00:00	
+157100	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	5x2	10	0	Arte	Miguel Apey	2018-6-2 00:00:00	
+156721	C.M. SOC. GASTRONOMICA LTDA.			UIP	5x2	10	7.208	Publicado		2018-6-2 00:00:00	
+156330	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Cuatricromia	Medios Regionales	32x6	11	582.024	Publicado	Medios Regionales	2018-6-2 00:00:00	
+157518	SANTANDER G.R.C.	Par	Blanco y negro	Generales	10x2	12	83.824	Publicado	Pedro Jaime	2018-6-2 00:00:00	
+157528	INVERTEC OSTIMAR S.A.	Par	Blanco y negro	Generales	4x2	12	23.584	Publicado	Jacqueline Torres	2018-6-2 00:00:00	
+157305	SERV. VIVIENDA Y URBANIZACION IV RE	Par	Blanco y negro	Generales	10x2	13	57.274	Publicado	Jacqueline Torres	2018-6-2 00:00:00	
+156921	SANTANDER G.R.C.	Par	Blanco y negro	Generales	10x2	13	83.824	Publicado	Pedro Jaime	2018-6-2 00:00:00	
+157304	SERV. VIVIENDA Y URBANIZACION IV RE	Par	Blanco y negro	Generales	10x2	13	57.274	Publicado	Jacqueline Torres	2018-6-2 00:00:00	
+157039	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	15	8.306	Publicado	Miguel Apey	2018-6-2 00:00:00	
+157478	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	10x3	15	74.430	Arte	Medios Regionales	2018-6-2 00:00:00	
+157212	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	16	0	Arte	Marcela Tello-ElDia	2018-6-2 00:00:00	
+156687	INMOBILIARIA ELQUI S.A.	Impar	Cuatricromia	Generales	17x3	17	222.509	Publicado	M Cristina Puga	2018-6-2 00:00:00	
+156984	HABITA INMOBILIARIA SA	Par	Cuatricromia	Generales	10x3	18	80.000	Publicado	Paola Marquez	2018-6-2 00:00:00	
+156986	HABITA INMOBILIARIA SA	Par	Cuatricromia	Generales	10x3	18	80.000	Publicado	Paola Marquez	2018-6-2 00:00:00	
+157542	INMOBILIARIA SERENA S.A.	Par	Cuatricromia	Ed.Especial	10x3	18	79.594	Publicado	Jacqueline Torres	2018-6-2 00:00:00	
+157543	INMOBILIARIA SERENA S.A.	Par	Cuatricromia	Ed.Especial	10x3	18	79.594	Publicado	Jacqueline Torres	2018-6-2 00:00:00	
+156985	HABITA INMOBILIARIA SA	Par	Cuatricromia	Generales	10x3	19	80.000	Publicado	Paola Marquez	2018-6-2 00:00:00	
+156943	INMOBILIARIA NOVA S.A.	Par	Cuatricromia	Generales	10x6	19	150.000	Publicado	Paola Marquez	2018-6-2 00:00:00	
+156983	HABITA INMOBILIARIA SA	Par	Cuatricromia	Generales	10x3	19	80.000	Publicado	Paola Marquez	2018-6-2 00:00:00	
+156980	INMOBILIARIA CONPACES S.A.	Par	Cuatricromia	Generales	10x3	19	80.000	Publicado	Paola Marquez	2018-6-2 00:00:00	
+157375	INMOBIL. ECOMAC S.A.	Par	Cuatricromia	Generales	10x6	19	150.000	Publicado	Paola Marquez	2018-6-2 00:00:00	
+157541	INMOBILIARIA SERENA S.A.	Par	Cuatricromia	Ed.Especial	10x3	19	79.594	Publicado	Jacqueline Torres	2018-6-2 00:00:00	
+154386	CERNA E HIJOS CIA. LTDA.	Par	Blanco y negro	Generales	5x1	26	3.566	Publicado	Nadia Randolph	2018-6-2 00:00:00	
+157290	PILLA LA VACA	Par	Blanco y negro	Generales	5x2	26	0	Arte	Marcela Tello-ElDia	2018-6-2 00:00:00	
+155771	SOC. DE GES			UIP	5x1	26	8.937	Publicado	Miguel Apey	2018-6-2 00:00:00	
+157069	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	4x5	26	20.508	Publicado	Miguel Apey	2018-6-2 00:00:00	
+157271	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	26	0	Arte	Marcela Tello-ElDia	2018-6-2 00:00:00	
+157146	CLUB DE DEPORTES LA SERENA	Par	Cuatricromia	Generales	17x3	27	0	Publicado	Marcela Tello-ElDia	2018-6-2 00:00:00	
+157337	CAMPOS DEL NORTE S.A.	Par	Cuatricromia	Generales	17x3	29	0	Arte	Patricia Villena	2018-6-2 00:00:00	
+157476	CLUB DEPORTES COQUIMBO UNIDO	Par	Cuatricromia	Generales	17x3	29	0	Publicado	Marcela Tello-ElDia	2018-6-2 00:00:00	
+157176	VIVOCORP S.A.	Par	Cuatricromia	Generales	35x6	31	750.000	Publicado	Patricia Villena	2018-6-2 00:00:00	
+157560	DIARIO EL DIA	Par	Blanco y negro	Generales	4x6	32	0	Arte	Marcela Tello-ElDia	2018-6-2 00:00:00	
+156951	VIVOCORP S.A.	Impar	Cuatricromia	Generales	35x6	32	749.999	Publicado	Patricia Villena	2018-6-2 00:00:00	
+156552	ANDREA YAZIGI SFEIR	Par	Blanco y negro	Generales	5x2	35	8.403	Publicado	Heinger Vega Torres	2018-6-2 00:00:00	
+155955	GUSTAVO TORRES MENDOZA	Par	Blanco y negro	Generales	5x2	35	10.084	Publicado	Heinger Vega Torres	2018-6-2 00:00:00	
+156912	JUAN SEBASTIAN BOU LAGUNAS	Par	Blanco y negro	Generales	5x2	35	13.750	Publicado	Heinger Vega Torres	2018-6-2 00:00:00	
+156895	MARCELO SOLIS LOBOS	Par	Blanco y negro	Generales	5x3	35	25.210	Publicado	Heinger Vega Torres	2018-6-2 00:00:00	
+156478	FALABELLA RETAIL S.A.	Impar	Cuatricromia	Contraportada	35x6	36	600.000	Publicado	M Cristina Puga	2018-6-2 00:00:00	
+157384	HIPOTECARIA CONCRECES S.A.	521 Palabras		Legal	x	EC	129.412	Publicado	Pedro Jaime	2018-6-2 00:00:00	
+157448	COOPEUCH LTDA.	531 Palabras		Legal	x	EC	131.933	Publicado	Pedro Jaime	2018-6-2 00:00:00	
+157150	SANTANDER G.R.C.	Par	Blanco y negro	Generales	10x2	EC-22	83.824	Publicado	Pedro Jaime	2018-6-2 00:00:00	
+156955	SANTANDER G.R.C.	Par	Blanco y negro	Generales	10x2	EC-22	83.824	Publicado	Pedro Jaime	2018-6-2 00:00:00	
+157534	AREYUNA AREYUNA NIBALDO	Par	Cuatricromia	Generales	6x3	EC-23	84.034	Publicado	Pedro Jaime	2018-6-2 00:00:00	
+157157	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	10x2	EC-23	49.620	Publicado	Medios Regionales	2018-6-2 00:00:00	
+157445	BANCO DE CHILE	691 Palabras		Legal	x	EC-24	171.429	Publicado	Pedro Jaime	2018-6-2 00:00:00	
+157368	RECAUDACIONES Y COBRANZA S.A	1077 Palabras		Legal	x	EC-24	267.227	Publicado	Pedro Jaime	2018-6-2 00:00:00	
+157369	RECAUDACIONES Y COBRANZA S.A	670 Palabras		Legal	x	EC-24	166.387	Publicado	Pedro Jaime	2018-6-2 00:00:00	
+152084	HOTELERIA LUIS ALBERTO BERETTA KIEK	Par	Blanco y negro	Generales	5x2	EC-24	6.061	Publicado	Patricia Villena	2018-6-2 00:00:00	
+157526	CIA. DE LEASING TATTERSALL S.A.	Par	Blanco y negro	Generales	11x2	EC-24	69.487	Publicado	Pedro Jaime	2018-6-2 00:00:00	
+157472	SANTANDER G.R.C.	Par	Blanco y negro	Generales	10x2	EC-24	83.824	Publicado	Pedro Jaime	2018-6-2 00:00:00	
+156959	SOCIEDAD LORETO LLORENTE GUI?ALES Y	206 Palabras		Legal	0x0	EC-24	51.067	Publicado		2018-6-2 00:00:00	
+157451	BANCO ESTADO DE CHILE	772 Palabras		Legal	x	EC-24	191.597	Publicado	Pedro Jaime	2018-6-2 00:00:00	
+156500	COMERCIAL E.C.C.S.A.  S.A.		Hasta 8 pag.	Inserto	x	INS	459.000	Publicado	M Cristina Puga	2018-6-2 00:00:00	
+157471	INVERSIONES SAN JAVIER LTDA.	876 Palabras		Propiedades	x	PROP	140.160	Publicado	Rene Pizarro	2018-6-2 00:00:00	
+157522	BAKULIC RESTAURANT	70 Palabras		Propiedades	x	PROP	11.200	Publicado	Miguel Apey	2018-6-2 00:00:00	
+157532	CULTURA CIUDADANA S.P.A.		150 Frases	Radio	x	RA	250.000	Publicado	Patricia Villena	2018-6-2 00:00:00	
+156490	CAMAL MUSALEM TAPIA Y CIA.	Par	Cuatricromia	Generales	17x6	SI-03	390.893	Publicado	Paola Marquez	2018-6-2 00:00:00	
+157323	COMERCIAL SUD TIROL LTDA.	Par	Cuatricromia	Ed.Especial	17x3	SI-04	195.447	Publicado	Rene Pizarro	2018-6-2 00:00:00	
+157324	SOC. DE TRANSPORTES PIERO LTDA.	Par	Cuatricromia	Generales	17x3	SI-04	195.447	Publicado	Rene Pizarro	2018-6-2 00:00:00	
+156869	COMERCIAL VALENTINI E HIJOS LTDA.	Par	Cuatricromia	Generales	17x3	SI-05	195.447	Publicado	Paola Marquez	2018-6-2 00:00:00	
+157328	SOLO ZANDONAI LTDA.	Par	Cuatricromia	Ed.Especial	17x3	SI-06	195.447	Publicado	Rene Pizarro	2018-6-2 00:00:00	
+157433	FUNDACION EDUCACIONAL SCUOLA ITALIA	Par	Cuatricromia	Ed.Especial	17x3	SI-07	195.447	Publicado	Jacqueline Torres	2018-6-2 00:00:00	
+157321	GUANTES INDUSTRIALES VERLAN LTDA.	Par	Cuatricromia	Ed.Especial	17x3	SI-07	195.447	Publicado	Rene Pizarro	2018-6-2 00:00:00	
+156942	ROSSI BRUGNARA ENRICO	Par	Cuatricromia	Generales	17x3	SI-08	180.000	Publicado	Paola Marquez	2018-6-2 00:00:00	
+155885	CALZADOS LA ESTRELLA ALPINA	Par	Cuatricromia	Generales	17x3	SI-09	150.000	Publicado	M Cristina Puga	2018-6-2 00:00:00	
+157320	RIZZOLI STEFANO Y CIA. LTDA.	Par	Cuatricromia	Ed.Especial	17x3	SI-10	195.447	Publicado	Rene Pizarro	2018-6-2 00:00:00	
+156973	SOC. GASTRONOMICA DEL ELQUI LTDA.	Par	Cuatricromia	Generales	17x3	SI-10	120.000	Publicado	Patricia Villena	2018-6-2 00:00:00	
+157317	SOC. CONSTRUCTORA INMOBILIARIA Y DE	Par	Cuatricromia	Ed.Especial	17x3	SI-11	195.447	Publicado	Rene Pizarro	2018-6-2 00:00:00	
+157327	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	34x3	SI-11	250.000	Publicado	Claudio Romero	2018-6-2 00:00:00	
+157365	CALLEGARI LTDA.	Par	Cuatricromia	Generales	34x6	SI-12	620.000	Publicado	Paola Marquez	2018-6-2 00:00:00	

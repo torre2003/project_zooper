@@ -1,0 +1,34 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+149576	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Economico	5x2		15.161	Arte	Rene Pizarro	2018-1-24 00:00:00	
+147983	ARZOBISPADO DE LA SERENA	Par	Blanco y negro	Generales	5x2	04	0	Publicado	Marcela Tello-ElDia	2018-1-24 00:00:00	
+147296	C.M. SOC. GASTRONOMICA LTDA.			UIP	5x2	04	7.208	Publicado		2018-1-24 00:00:00	
+147059	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	5x2	04	0	Publicado	Miguel Apey	2018-1-24 00:00:00	
+148980	OMD CHILE S.P.A.	Impar	Cuatricromia	Generales	35x6	05	824.511	Publicado	Patricia Villena	2018-1-24 00:00:00	
+148983	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Cuatricromia	Medios Regionales	32x3	07	309.344	Publicado	Medios Regionales	2018-1-24 00:00:00	
+148804	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	08	0	Publicado	Marcela Tello-ElDia	2018-1-24 00:00:00	
+149001	CLARO CHILE S.A.	Impar	Cuatricromia	Generales	17x6	09	313.761	Publicado	Kathine Soto-Stgo	2018-1-24 00:00:00	
+149112	DIARIO EL DIA	Par	Cuatricromia	Generales	17x6	11	0	Publicado	Marcela Tello-ElDia	2018-1-24 00:00:00	
+146740	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	11	8.306	Publicado	Miguel Apey	2018-1-24 00:00:00	
+147276	CENTRO TECNICO ACUARELA LTDA.	Par	Blanco y negro	Generales	5x2	16	20.874	Publicado	Rene Pizarro	2018-1-24 00:00:00	
+148989	SANTANDER G.R.C.	Par	Blanco y negro	Generales	34x6	19	379.854	Publicado	Pedro Jaime	2018-1-24 00:00:00	
+147207	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	21	0	Publicado	Marcela Tello-ElDia	2018-1-24 00:00:00	
+148575	CERNA E HIJOS CIA. LTDA.	Par	Blanco y negro	Generales	5x1	22	3.574	Publicado	Nadia Randolph	2018-1-24 00:00:00	
+147903	SOC. DE GES			UIP	5x1	22	8.937	Publicado	Miguel Apey	2018-1-24 00:00:00	
+146781	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	4x5	22	20.508	Publicado	Miguel Apey	2018-1-24 00:00:00	
+146870	ARMAQ SUBIRI S.A.			UIP	5x1	22	8.937	Publicado	Claudio Romero	2018-1-24 00:00:00	
+147175	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	22	0	Publicado	Marcela Tello-ElDia	2018-1-24 00:00:00	
+148832	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	23	0	Publicado	Marcela Tello-ElDia	2018-1-24 00:00:00	
+148913	CLUB DE DEPORTES LA SERENA	Par	Cuatricromia	Generales	17x3	23	0	Publicado	Marcela Tello-ElDia	2018-1-24 00:00:00	
+148084	AGUAS DEL VALLE S.A.	Par	Cuatricromia	Generales	5x6	25	50.000	Publicado	Heinger Vega Torres	2018-1-24 00:00:00	
+147978	FUENTES GASCAR LTDA	Par	Cuatricromia	Generales	20x3	27	119.968	Publicado	M Cristina Puga	2018-1-24 00:00:00	
+146982	CAMPOS DEL NORTE S.A.	Par	Cuatricromia	Generales	17x3	27	0	Publicado	Patricia Villena	2018-1-24 00:00:00	
+149002	AMERICO CABEZA	Par	Blanco y negro	Generales	10x3	29	76.902	Publicado	Pedro Jaime	2018-1-24 00:00:00	
+147841	VELIZ CORTES JOSE A.	Par	Blanco y negro	Generales	3x2	29	13.403	Publicado	Pedro Cortes	2018-1-24 00:00:00	
+148992	SOC. EDUCACIONAL PORTALES LTDA.	Par	Blanco y negro	Generales	12x2	29	61.522	Publicado	Claudio Romero	2018-1-24 00:00:00	
+149110	DIARIO EL DIA	Par	Cuatricromia	Generales	34x6	32	0	Publicado	Marcela Tello-ElDia	2018-1-24 00:00:00	
+149111	DIARIO EL DIA	Par	Cuatricromia	Generales	17x6	EC-17	0	Publicado	Marcela Tello-ElDia	2018-1-24 00:00:00	
+124084	HOTELERIA LUIS ALBERTO BERETTA KIEK	Par	Blanco y negro	Generales	5x2	EC-18	6.061	Publicado	Patricia Villena	2018-1-24 00:00:00	
+148901	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	4x2	EC-18	17.392	Publicado	Medios Regionales	2018-1-24 00:00:00	
+146904	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Economico	5x2	EC-18	15.161	Publicado	Rene Pizarro	2018-1-24 00:00:00	
+148993	INVERSIONES PLAZHER LTDA.	110 Palabras		Propiedades	x	PROP	17.647	Publicado	Pedro Jaime	2018-1-24 00:00:00	
+148982	UNIVERSIDAD CATOLICA DEL NORTE	Par	Blanco y negro	Generales	17x6	XX	250.262	Publicado	Miguel Apey	2018-1-24 00:00:00	

@@ -1,0 +1,11 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+155848	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	12x6	03	0	Arte	Marcela Tello-ElDia	Vive la experiencia de estar bien informado...	2018-5-8 00:00:00	
+155849	PRENSA DEL LIMARI LTDA.	Par	Blanco y negro	Generales	4x6	04	0	Arte	Marcela Tello-ElDia		2018-5-8 00:00:00	
+154972	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	06	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2018-5-8 00:00:00	
+155814	GAMAL EDUARDO ROJAS PEREZ	Par	Cuatricromia	Generales	6x6	09	20.000	Publicado	Karina Rivera	CLUB SOCIAL 	2018-5-8 00:00:00	
+155805	SOCIEDAD GASTRONOMICA EL RELAJO LTD			UIP	5x4	09	16.500	Publicado	Karina Rivera	EL RELAJO (UIP COLOR)	2018-5-8 00:00:00	
+155687	SOCIEDAD EDUCACIONL GALLARDO Y FIGU			UIP	10x2	09	11.000	Publicado	Karina Rivera	CARLA FIGUEROA (UIP COLOR)	2018-5-8 00:00:00	
+155681	ANA CAROLINA MARTINEZ GONZALEZ			UIP	5x2	09	5.504	Publicado	Karina Rivera	DELI VEN (UIP COLOR)	2018-5-8 00:00:00	
+155614	MARIA ANGELICA SALINAS FIGUEROA			UIP	5x2	09	5.500	Publicado	Karina Rivera	JOYERIA SEMANA DE LA MADRE	2018-5-8 00:00:00	
+155694	JUAN CARLOS ANDRADE T.			UIP	5x2	11	5.500	Publicado	Karina Rivera		2018-5-8 00:00:00	
+155850	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	8x6	14	0	Arte	Marcela Tello-ElDia		2018-5-8 00:00:00	

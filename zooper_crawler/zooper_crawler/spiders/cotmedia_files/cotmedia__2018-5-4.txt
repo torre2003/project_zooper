@@ -1,0 +1,39 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+155295	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	5x2	04	0	Publicado	Miguel Apey	2018-5-4 00:00:00	
+155340	C.M. SOC. GASTRONOMICA LTDA.			UIP	5x2	04	7.208	Publicado		2018-5-4 00:00:00	
+154761	ARZOBISPADO DE LA SERENA	Par	Blanco y negro	Generales	5x2	04	0	Publicado	Marcela Tello-ElDia	2018-5-4 00:00:00	
+155540	DIARIO EL DIA	Par	Cuatricromia	Generales	3x6	06	0	Publicado	Marcela Tello-ElDia	2018-5-4 00:00:00	
+155439	VIVOCORP S.A.	Impar	Cuatricromia	Generales	17x6	07	484.483	Publicado	Patricia Villena	2018-5-4 00:00:00	
+155457	MALL PLAZA LA SERENA	Impar	Cuatricromia	Generales	35x6	09	594.299	Publicado	M Cristina Puga	2018-5-4 00:00:00	
+155235	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	11	8.306	Publicado	Miguel Apey	2018-5-4 00:00:00	
+155440	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	11	0	Publicado	Marcela Tello-ElDia	2018-5-4 00:00:00	
+154249	COMERCIAL DUOMO LTDA.	Par	Cuatricromia	Generales	17x3	11	130.000	Publicado	Paola Marquez	2018-5-4 00:00:00	
+155106	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	9x4	12	51.666	Publicado	Claudio Romero	2018-5-4 00:00:00	
+155516	EMPRESA AGRICOLA HC LTDA	Par	Blanco y negro	Generales	8x2	16	58.592	Publicado	Pedro Jaime	2018-5-4 00:00:00	
+155547	CALLEGARI LTDA.	Par	Cuatricromia	Generales	34x6	17	620.000	Publicado	Marcela Tello-ElDia	2018-5-4 00:00:00	
+155525	DABED Y CIA. LTDA., SELIM	Par	Cuatricromia	Generales	6x6	22	27.690	Publicado	Karina Rivera	2018-5-4 00:00:00	
+154357	CERNA E HIJOS CIA. LTDA.	Par	Blanco y negro	Generales	5x1	22	3.566	Publicado	Nadia Randolph	2018-5-4 00:00:00	
+152834	SOC. DE GES			UIP	5x1	22	8.937	Publicado	Miguel Apey	2018-5-4 00:00:00	
+155542	DIARIO EL DIA	Par	Cuatricromia	Generales	5x3	22	0	Publicado	Marcela Tello-ElDia	2018-5-4 00:00:00	
+155265	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	4x5	22	20.508	Publicado	Miguel Apey	2018-5-4 00:00:00	
+154832	ARMAQ SUBIRI S.A.			UIP	5x1	22	8.937	Publicado	Claudio Romero	2018-5-4 00:00:00	
+155532	HIPERMERCADOS TOTTUS S.A	Impar	Cuatricromia	Generales	35x6	23	594.299	Publicado	M Cristina Puga	2018-5-4 00:00:00	
+155228	INMOBILIARIA ECASA CHILE S.A.	Par	Cuatricromia	Generales	34x6	23	350.000	Publicado	Paola Marquez	2018-5-4 00:00:00	
+155543	DIARIO EL DIA	Par	Cuatricromia	Generales	6x6	24	0	Publicado	Marcela Tello-ElDia	2018-5-4 00:00:00	
+155410	LYR COMUNICACIONES	Par	Cuatricromia	Generales	17x3	27	183.027	Publicado	Jacqueline Torres	2018-5-4 00:00:00	
+155209	CAMPOS DEL NORTE S.A.	Par	Cuatricromia	Generales	17x3	27	0	Arte	Patricia Villena	2018-5-4 00:00:00	
+155016	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	28	0	Publicado	Marcela Tello-ElDia	2018-5-4 00:00:00	
+155029	SOC. HOTELERA VICHUQUEN LTDA.	Par	Cuatricromia	Generales	5x3	28	0	Publicado	Marcela Tello-ElDia	2018-5-4 00:00:00	
+155059	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	28	0	Publicado	Marcela Tello-ElDia	2018-5-4 00:00:00	
+155080	MARTIN JURE PATRICIA	Par	Cuatricromia	Generales	5x3	28	0	Publicado	Marcela Tello-ElDia	2018-5-4 00:00:00	
+155063	PILLA LA VACA	Par	Cuatricromia	Generales	5x2	28	0	Publicado	Marcela Tello-ElDia	2018-5-4 00:00:00	
+155544	DIARIO EL DIA	Par	Blanco y negro	Generales	5x6	29	0	Publicado	Marcela Tello-ElDia	2018-5-4 00:00:00	
+155429	EMPRESAS LA POLAR S.A.	Impar	Cuatricromia	Generales	35x6	32	504.000	Publicado	Patricia Villena	2018-5-4 00:00:00	
+155449	FACTOR ONE S.A.	1551 Palabras		Legal	x	EC	384.648	Publicado	Pedro Jaime	2018-5-4 00:00:00	
+155446	JOAQUIN ALBERTO JIMENEZ OLIVARES	572 Palabras		Legal	x	EC	142.017	Publicado	Pedro Jaime	2018-5-4 00:00:00	
+154876	MOLINA ORDENES RICARDO	Par	Blanco y negro	Generales	5x2	EC-18	22.809	Publicado	Pedro Jaime	2018-5-4 00:00:00	
+154800	SOC. COMERCIAL VARGAS Y GIACOMET			UIP	5x1	EC-19	7.149	Publicado	Rene Pizarro	2018-5-4 00:00:00	
+155541	DIARIO EL DIA	Par	Blanco y negro	Generales	7x6	EC-19	0	Publicado	Marcela Tello-ElDia	2018-5-4 00:00:00	
+154836	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Economico	5x2	EC-19	15.161	Publicado	Rene Pizarro	2018-5-4 00:00:00	
+155545	CLUB DEPORTES COQUIMBO UNIDO	Par	Cuatricromia	Generales	17x3	EC-19	0	Publicado	Marcela Tello-ElDia	2018-5-4 00:00:00	
+152053	HOTELERIA LUIS ALBERTO BERETTA KIEK	Par	Blanco y negro	Generales	5x2	EC-19	6.061	Publicado	Patricia Villena	2018-5-4 00:00:00	

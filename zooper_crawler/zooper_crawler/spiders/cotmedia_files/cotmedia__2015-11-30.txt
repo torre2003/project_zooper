@@ -1,0 +1,46 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+89731	ENTEL PCS	Impar	Cuatricromia	Generales	35x6	05	645.977	Publicado	Kathine Soto-Stgo	2015-11-30 00:00:00	
+90047	AUTOMOTRIZ CARMONA	Par	Cuatricromia	Generales	17x3	07	0	Publicado	Marcela Tello-ElDia	2015-11-30 00:00:00	
+88725	HABITA INMOBILIARIA SA	Par	Cuatricromia	Generales	35x3	07	0	Publicado	Miguel Apey	2015-11-30 00:00:00	
+90057	COMISION NACIONAL DE RIEGO	Par	Cuatricromia	Generales	17x6	08	402.659	Publicado	Jacqueline Torres	2015-11-30 00:00:00	
+89982	PHD CHILE S.A.	Impar	Cuatricromia	Generales	35x6	09	1.000.000	Publicado	Patricia Villena	2015-11-30 00:00:00	
+88016	CENTRO MEDICO DENTAL STO. TOMAS LTD	Par	Cuatricromia	Generales	8x4	10	0	Publicado	Rene Pizarro	2015-11-30 00:00:00	
+87355	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	10	8.306	Publicado	Miguel Apey	2015-11-30 00:00:00	
+90025	INMOBIL. PY  S.A.	Par	Cuatricromia	Generales	17x6	11	250.000	Publicado	Claudio Romero	2015-11-30 00:00:00	
+88728	INVERSIONES E INMOBILIARIA P.A.T.  	Par	Cuatricromia	Generales	10x6	12	0	Publicado	Miguel Apey	2015-11-30 00:00:00	
+89131	DIARIO EL DIA	Par	Blanco y negro	Generales	5x2	13	0	Publicado	Marcela Tello-ElDia	2015-11-30 00:00:00	
+89403	INMOBIL. PY  S.A.	Par	Blanco y negro	Generales	10x2	13	89.389	Publicado	Claudio Romero	2015-11-30 00:00:00	
+89386	COMERCIALIZADORA Y CONSTRUCTORA PAC	Par	Blanco y negro	Generales	12x2	13	87.888	Publicado	Marcela Tello-ElDia	2015-11-30 00:00:00	
+87889	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	5x2	13	0	Publicado	Miguel Apey	2015-11-30 00:00:00	
+87289	LABORATORIO CLINICO STA. MARIA LA S	Par	Blanco y negro	Generales	6x2	13	7.470	Publicado	Miguel Apey	2015-11-30 00:00:00	
+87694	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	10x3	15	0	Publicado	Marcela Tello-ElDia	2015-11-30 00:00:00	
+88581	UNIVERSIDAD DE ACONCAGUA	Par	Blanco y negro	Generales	17x3	15	0	Publicado	Rene Pizarro	2015-11-30 00:00:00	
+87829	MARTIN JURE PATRICIA	Par	Cuatricromia	Generales	6x6	21	0	Publicado	Marcela Tello-ElDia	2015-11-30 00:00:00	
+89658	DIARIO EL DIA	Par	Cuatricromia	Generales	20x3	22	0	Publicado	Marcela Tello-ElDia	2015-11-30 00:00:00	
+89494	DIARIO EL DIA	Par	Cuatricromia	Generales	19x3	22	0	Publicado	Marcela Tello-ElDia	2015-11-30 00:00:00	
+90044	AUTOMOTRIZ CARMONA	Par	Cuatricromia	Generales	17x6	25	0	Publicado	Marcela Tello-ElDia	2015-11-30 00:00:00	
+90050	AUTOMOTRIZ CARMONA	Par	Cuatricromia	Generales	17x6	27	0	Publicado	Marcela Tello-ElDia	2015-11-30 00:00:00	
+90104	DIARIO EL DIA	Par	Cuatricromia	Generales	12x6	28	0	Publicado	Marcela Tello-ElDia	2015-11-30 00:00:00	
+89370	Inversiones san javier			UIP	5x1	29	8.937	Publicado	Rene Pizarro	2015-11-30 00:00:00	
+90081	AREVALO CARMEN			UIP	5x1	29	8.937	Publicado	Pedro Jaime	2015-11-30 00:00:00	
+84209	soc. comercial e inv. alto la seren			UIP	5x2	29	8.937	Publicado	Nadia Randolph	2015-11-30 00:00:00	
+84697	CERNA E HIJOS CIA. LTDA.	Par	Blanco y negro	Generales	5x1	29	4.468	Publicado	Nadia Randolph	2015-11-30 00:00:00	
+87407	GUERRERO SERANTONI Y CIA. LTDA.	Par	Blanco y negro	Generales	5x1	29	5.527	Publicado	Pedro Jaime	2015-11-30 00:00:00	
+87660	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	4x5	29	20.508	Publicado	Miguel Apey	2015-11-30 00:00:00	
+87735	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	29	0	Publicado	Marcela Tello-ElDia	2015-11-30 00:00:00	
+87800	DIARIO EL DIA	Par	Blanco y negro	Generales	5x2	29	0	Publicado	Marcela Tello-ElDia	2015-11-30 00:00:00	
+88152	SOC. COMERCIAL ALCAPARRA LTDA.	Par	Blanco y negro	Generales	5x2	29	10.440	Publicado	Patricia Villena	2015-11-30 00:00:00	
+88828	SOC. RAMON MOYA FUENTES 			UIP	10x1	29	8.938	Publicado	Miguel Apey	2015-11-30 00:00:00	
+88567	SOC. DE GESTION MEDITERRANEA			UIP	5x1	29	8.937	Publicado	Miguel Apey	2015-11-30 00:00:00	
+87948	SERVICIOS GENERALES GUAYACAN S.A	Par	Blanco y negro	Generales	3x2	30	6.774	Publicado	Jacqueline Torres	2015-11-30 00:00:00	
+90058	CLARO CHILE S.A.	Impar	Cuatricromia	Generales	35x6	32	645.977	Publicado	Kathine Soto-Stgo	2015-11-30 00:00:00	
+89768	DIARIO EL DIA	Par	Cuatricromia	Generales	34x6	EC	0	Publicado	Marcela Tello-ElDia	2015-11-30 00:00:00	
+88741	NAZARIO NELSON ESPINOZA GONZALEZ	Par	Blanco y negro	Generales	7x3	EC19	0	Publicado	Miguel Apey	2015-11-30 00:00:00	
+87596	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Generales	5x1	EC19	5.860	Publicado	Rene Pizarro	2015-11-30 00:00:00	
+90087	AREVALO CARMEN			UIP	5x1	EC19	8.937	Publicado	Pedro Jaime	2015-11-30 00:00:00	
+89711	DIRECCION GENERAL DEL CREDITO PREND	Par	Blanco y negro	Generales	15x2	EC20	76.902	Publicado	Jacqueline Torres	2015-11-30 00:00:00	
+89461	INSTITUTO NACIONAL DEL DEPORTE DE C	Par	Cuatricromia	Ed.Especial	35x6	EE	2.000.000	Publicado	Jacqueline Torres	2015-11-30 00:00:00	
+90061	INVERSIONES SAN JAVIER LTDA.	993 Palabras		Propiedades	x	PROP	158.880	Publicado	Rene Pizarro	2015-11-30 00:00:00	
+90143	MONSERRAT NU?EZ PROPIEDADES LTDA.	1045 Palabras		Propiedades	x	XX	167.200	Arte	Claudio Romero	2015-11-30 00:00:00	
+90144	AMENABAR PROPIEDADES LTDA.	2547 Palabras		Propiedades	x	XX	407.520	Arte	M Cristina Puga	2015-11-30 00:00:00	
+90145	BRAVO DE VON TROTT CARMEN	1164 Palabras		Propiedades	x	XX	186.240	Arte	Claudio Romero	2015-11-30 00:00:00	

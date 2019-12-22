@@ -1,0 +1,15 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+147334	SOCIEDAD DE RENTAS FALABELLA S.A	Par	Cuatricromia	Generales	8x6	03	50.980	Publicado	M Cristina Puga	HUINCHA Open Plaza - 	2018-1-17 00:00:00	
+148238	INVERSIONES TANGUEMAR LIMITADA			UIP	5x2	05	2.808	Publicado	Patricia Villena	Tanguemar 2	2018-1-17 00:00:00	
+147666	AGRICOLA NORTE TALINAY LTDA	Par	Blanco y negro	Generales	5x2	05	1.666	Publicado	Paola Marquez	UIP VENTA ALFALFA	2018-1-17 00:00:00	
+147802	UNIVERSIDAD BOLIVARIANA			UIP	5x4	06	5.630	Publicado	Karina Rivera	U. Bolivariana y V. Central	2018-1-17 00:00:00	
+147599	SOCIEDAD EDUCACIONL GALLARDO Y FIGU			UIP	10x2	06	6.306	Publicado	Karina Rivera	CENTRO DE FORMACION MATEMATICA	2018-1-17 00:00:00	
+146843	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	6x6	08	0	Arte	Claudio Romero	Muebles Alpina	2018-1-17 00:00:00	
+146791	OVALLE CASINO RESORT S.A	Par	Cuatricromia	Generales	25x4	09	0	Publicado	Paola Marquez	Eventos OCR enero	2018-1-17 00:00:00	
+147767	CL?NICA VETERINARIA LOS MANCOS LTDA			UIP	10x2	09	5.630	Publicado	Karina Rivera	CLINICA VETERINARIA 	2018-1-17 00:00:00	
+148179	DEL RIO VARELA JORGE	Par	Blanco y negro	Generales	12x3	10	59.321	Publicado	Pedro Jaime	JDV REMATES 13 X  4 , LIGHTS 	2018-1-17 00:00:00	
+148280	EMPRESA PERIODISTICA EL NORTE S.A.	Par	Blanco y negro	Medios Regionales	8x2	10	23.120	Publicado	Medios Regionales		2018-1-17 00:00:00	
+146939	DABED Y CIA. LTDA., SELIM	Par	Cuatricromia	Generales	6x6	11	23.076	Publicado	Karina Rivera	GRAF. OV-03	2018-1-17 00:00:00	
+148529	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	6x6	13	0	Publicado	Marcela Tello-ElDia		2018-1-17 00:00:00	
+147240	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	15	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2018-1-17 00:00:00	
+147864	VELIZ CORTES JOSE A.			UIP	5x2	15	4.695	Publicado	Pedro Cortes		2018-1-17 00:00:00	

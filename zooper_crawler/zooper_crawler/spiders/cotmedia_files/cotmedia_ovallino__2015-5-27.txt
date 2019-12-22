@@ -1,0 +1,11 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+74164	SOC. AUTOMOTRIZ COVALSA CENTER LTDA	Par	Cuatricromia	Generales	5x6	01	51.405	Publicado	Claudio Romero	PORTADA ..COVALSA	2015-5-27 00:00:00	
+75537	CALLEGARI LTDA.	Par	Cuatricromia	Generales	6x6	03	30.000	Publicado	Marcela Tello-ElDia	Portada - Kia	2015-5-27 00:00:00	
+76297	brillador			UIP	17x2	05	9.211	Publicado	Italo Retamal	alto brillador 	2015-5-27 00:00:00	
+76247	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x3	06	0	Publicado	Marcela Tello-ElDia	Vea terremoto en Cinemark	2015-5-27 00:00:00	
+74512	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	10x3	07	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2015-5-27 00:00:00	
+75690	CEA			UIP	17x2	07	9.211	Publicado	Leonel Pizarro-Ovalle	CIRCO NORTEAMERICANO	2015-5-27 00:00:00	
+74127	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	6x6	08	0	Publicado	Claudio Romero	Muebles Alpina	2015-5-27 00:00:00	
+75730	DABED Y CIA. LTDA., SELIM	Impar	Cuatricromia	Generales	6x6	09	23.077	Publicado	Italo Retamal	27 moto dabed	2015-5-27 00:00:00	
+76394	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x6	11	0	Publicado	Marcela Tello-ElDia		2015-5-27 00:00:00	
+76304	ALTOS DEL BRILLADOR LTDA.	Home	Banner Sup. Izq	Web	x	WEB	75.000	Publicado	Italo Retamal	alto brillador 	2015-5-27 00:00:00	

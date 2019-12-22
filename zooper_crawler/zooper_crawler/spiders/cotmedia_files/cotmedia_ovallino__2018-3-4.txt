@@ -1,0 +1,12 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+151425	EMPRESA PERIODISTICA EL NORTE S.A.	Par	Blanco y negro	Medios Regionales	6x2	05	18.207	Publicado	Medios Regionales		2018-3-4 00:00:00	
+131305	SOCIEDAD MEDICA Y CONSULTORA ESTETI		Cuatricromia	Guia	5x2	06	13.333	Publicado	Maria_Amelia Hermosilla	Diego Polanco	2018-3-4 00:00:00	
+151350	JUAN PABLO CORRAL	Par	Blanco y negro	Generales	5x2	06	30.603	Publicado	Karina Rivera	abogado	2018-3-4 00:00:00	
+150920	ILUSTRE MUNICIPALIDAD DE OVALLE	Par	Cuatricromia	Generales	10x2	06	40.030	Publicado	Karina Rivera	vendimia	2018-3-4 00:00:00	
+151329	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	08	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2018-3-4 00:00:00	
+151414	CAMAL MUSALEM TAPIA Y CIA.	Impar	Cuatricromia	Generales	34x5	09	291.380	Publicado	Marcela Tello-ElDia	Toyota Sale - Camal Musalem 	2018-3-4 00:00:00	
+151098	OVALLE CASINO RESORT S.A	Par	Cuatricromia	Generales	25x4	11	171.372	Publicado	Paola Marquez	OCR Panoramas marzo	2018-3-4 00:00:00	
+151368	EMPRESA PERIODISTICA EL NORTE S.A.	Par	Cuatricromia	Medios Regionales	10x2	11	106.211	Publicado	Medios Regionales	Parque de Chile - Parque de Chile S.A.- (33888) - Impar	2018-3-4 00:00:00	
+151462	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x6	12	0	Publicado	Marcela Tello-ElDia	En la comodidad de su hogar...	2018-3-4 00:00:00	
+150538	VELIZ CORTES JOSE A.			UIP	5x2	15	4.695	Publicado	Pedro Cortes		2018-3-4 00:00:00	
+151461	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	6x6	15	0	Publicado	Marcela Tello-ElDia		2018-3-4 00:00:00	

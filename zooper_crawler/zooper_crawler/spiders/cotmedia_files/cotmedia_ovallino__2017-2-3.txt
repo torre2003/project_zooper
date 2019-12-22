@@ -1,0 +1,13 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+121038	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	6x6	01	16.065	Publicado	Claudio Romero	Muebles Alpina	2017-2-3 00:00:00	
+122044	OVALLE CASINO RESORT S.A	Par	Cuatricromia	Generales	25x4	03	131.824	Publicado	Paola Marquez	OCR Eventos verano	2017-2-3 00:00:00	
+119505	tanguemar			UIP	5x2	05	2.808	Publicado	Patricia Villena	Tanguemar	2017-2-3 00:00:00	
+121397	AGRICOLA NORTE TALINAY LTDA	Par	Blanco y negro	Generales	5x2	05	1.666	Publicado	Paola Marquez	UIP VENTA ALFALFA	2017-2-3 00:00:00	
+121534	JACQUELINE JOFRE VILLANUEVA			UIP	5x2	05	2.808	Publicado	Karina Rivera	ROLLER OVALLE	2017-2-3 00:00:00	
+117899	OVALLEMAR			UIP	5x2	06	3.958	Publicado	Karina Rivera	OVALLE MAR	2017-2-3 00:00:00	
+122068	J. MOSELLA S.A.	Par	Cuatricromia	Generales	10x3	06	69.208	Publicado	Jacqueline Torres		2017-2-3 00:00:00	
+122330	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	08	0	Arte	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2017-2-3 00:00:00	
+122453	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	5x6	11	0	Arte	Marcela Tello-ElDia		2017-2-3 00:00:00	
+122454	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	5x6	14	0	Arte	Marcela Tello-ElDia		2017-2-3 00:00:00	
+122410	EMPRESAS LA POLAR S.A.	Impar	Cuatricromia	Generales	34x6	16	252.000	Publicado	Patricia Villena		2017-2-3 00:00:00	
+122385	RABOBANK	1167 Palabras		Legal	x	EC	289.546	Publicado	Pedro Jaime	EXTRACTO ROL C-249-2015	2017-2-3 00:00:00	

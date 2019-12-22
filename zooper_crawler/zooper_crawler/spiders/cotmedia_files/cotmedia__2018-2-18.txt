@@ -1,0 +1,84 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+150464	AUTOMOTRIZ CARMONA	Impar	Cuatricromia	Generales	34x6	03	570.996	Publicado	Marcela Tello-ElDia	2018-2-18 00:00:00	
+149068	ARZOBISPADO DE LA SERENA	Par	Blanco y negro	Generales	5x2	04	0	Publicado	Marcela Tello-ElDia	2018-2-18 00:00:00	
+150521	EMPRESA NEPTUNO IND. COM. LTDA.	Par	Blanco y negro	Generales	5x2	04	35.705	Publicado		2018-2-18 00:00:00	
+148854	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	5x2	04	0	Publicado	Miguel Apey	2018-2-18 00:00:00	
+150472	CALLEGARI LTDA.	Impar	Cuatricromia	Generales	17x6	05	310.000	Publicado	Marcela Tello-ElDia	2018-2-18 00:00:00	
+149718	INMOBILIARIA GUZMAN LTDA	Impar	Cuatricromia	Generales	35x3	07	562.000	Publicado	M Cristina Puga	2018-2-18 00:00:00	
+150480	LUIS ALFONSO FIGUEROA CASANOVA	Par	Blanco y negro	Generales	5x2	07	35.705	Publicado		2018-2-18 00:00:00	
+150465	AUTOMOTRIZ CARMONA	Impar	Cuatricromia	Generales	17x6	09	285.498	Publicado	Marcela Tello-ElDia	2018-2-18 00:00:00	
+148417	INMOBILIARIA S.M.C.	Par	Cuatricromia	Generales	9x6	10	290.690	Publicado	Miguel Apey	2018-2-18 00:00:00	
+149964	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	6x3	11	53.582	Publicado	Medios Regionales	2018-2-18 00:00:00	
+150456	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	10x3	11	89.303	Publicado	Medios Regionales	2018-2-18 00:00:00	
+150469	OVCO LTDA.	Par	Blanco y negro	Generales	5x1	12	27.465	Publicado	Miguel Apey	2018-2-18 00:00:00	
+150507	ESCUELA INDUSTRIAL SALESIANOS SAN R	Par	Blanco y negro	Generales	5x2	12	54.930	Publicado	Rene Pizarro	2018-2-18 00:00:00	
+150505	COLEGIO CRISTOBAL COLON S.A.	Par	Blanco y negro	Generales	5x2	12	49.437	Publicado	Miguel Apey	2018-2-18 00:00:00	
+150466	AUTOMOTRIZ CARMONA	Impar	Cuatricromia	Generales	17x6	13	285.498	Publicado	Marcela Tello-ElDia	2018-2-18 00:00:00	
+150398	ILUSTRE MUNICIPALIDAD DE LA HIGUERA	Par	Blanco y negro	Generales	17x3	14	190.498	Publicado	Jacqueline Torres	2018-2-18 00:00:00	
+150457	FISCALIA REGIONAL DE COQUIMBO	Par	Blanco y negro	Generales	20x3	14	224.114	Publicado	Jacqueline Torres	2018-2-18 00:00:00	
+150479	CALLEGARI LTDA.	Impar	Cuatricromia	Generales	17x6	15	310.000	Publicado	Marcela Tello-ElDia	2018-2-18 00:00:00	
+150200	FACTOR ONE S.A.	Par	Blanco y negro	Generales	3x2	17	8.306	Publicado	Miguel Apey	2018-2-18 00:00:00	
+150473	CALLEGARI LTDA.	Impar	Cuatricromia	Generales	17x6	17	310.000	Publicado	Marcela Tello-ElDia	2018-2-18 00:00:00	
+144313	UNIVERSIDAD CATOLICA DEL NORTE	Par	Cuatricromia	Generales	8x6	18	239.935	Publicado	Miguel Apey	2018-2-18 00:00:00	
+149709	INMOBIL. ECOMAC S.A.	Impar	Cuatricromia	Generales	17x6	19	611.833	Publicado	M Cristina Puga	2018-2-18 00:00:00	
+150461	DIRECCION GENERAL DEL CREDITO PREND	Par	Blanco y negro	Generales	18x2	20	138.424	Publicado	Jacqueline Torres	2018-2-18 00:00:00	
+148509	INMOBILIARIA POCURO NORTE SPA	Impar	Cuatricromia	Generales	17x6	21	517.704	Publicado	Jacqueline Torres	2018-2-18 00:00:00	
+149765	SOCIEDAD HOTELERA AUSTRAL SANTIAGO 	Par	Cuatricromia	Generales	17x6	24	0	Publicado	Patricia Villena	2018-2-18 00:00:00	
+150482	CONSTRUCTORA CADEL LTDA.	Par	Cuatricromia	Generales	17x6	25	550.000	Publicado	Rene Pizarro	2018-2-18 00:00:00	
+148655	INMOBILIARIA GRUPO CHILOE LTDA.	Impar	Cuatricromia	Generales	17x6	27	611.833	Publicado	Jacqueline Torres	2018-2-18 00:00:00	
+149675	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	28	0	Publicado	Marcela Tello-ElDia	2018-2-18 00:00:00	
+147757	ILUSTRE MUNICIPALIDAD DE COQUIMBO	Par	Blanco y negro	Generales	18x2	29	138.424	Publicado	Miguel Apey	2018-2-18 00:00:00	
+150267	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	8x2	29	47.628	Publicado	Medios Regionales	2018-2-18 00:00:00	
+150291	CENTRO DE EDUC.CAP.Y FORMACION LABO	Par	Blanco y negro	Generales	10x2	29	65.916	Publicado	Jacqueline Torres	2018-2-18 00:00:00	
+150168	DIARIO EL DIA	Par	Cuatricromia	Generales	8x6	30	0	Publicado	Marcela Tello-ElDia	2018-2-18 00:00:00	
+150458	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Cuatricromia	Medios Regionales	16x6	31	391.440	Publicado	Medios Regionales	2018-2-18 00:00:00	
+148016	HABITA INMOBILIARIA SA	Par	Cuatricromia	Generales	34x3	33	509.861	Publicado	Miguel Apey	2018-2-18 00:00:00	
+150471	ACADEMIA DE GIMNASIO INTEGRAL FIT L	Par	Cuatricromia	Generales	17x3	34	0	Publicado	Miguel Apey	2018-2-18 00:00:00	
+149834	INMOBIL. SANTA CATALINA E.I.R.L.	Par	Cuatricromia	Generales	17x3	34	275.000	Publicado	Rene Pizarro	2018-2-18 00:00:00	
+148665	ILUSTRE MUNICIPALIDAD DE COQUIMBO	Par	Blanco y negro	Generales	17x6	35	392.201	Publicado	Miguel Apey	2018-2-18 00:00:00	
+150439	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	36	0	Publicado	Marcela Tello-ElDia	2018-2-18 00:00:00	
+150216	CORPORACION REGIONAL DE DESARROLLO 	Impar	Cuatricromia	Generales	5x6	37	129.196	Publicado	Patricia Villena	2018-2-18 00:00:00	
+149637	CAMPOS DEL NORTE S.A.	Impar	Cuatricromia	Generales	17x6	41	611.833	Publicado	Patricia Villena	2018-2-18 00:00:00	
+150565	DIARIO EL DIA	Par	Cuatricromia	Generales	34x6	42	0	Publicado	Carolina Naranjo	2018-2-18 00:00:00	
+150563	DISTRIBUIDORA DE VIDRIOS Y ALUMINIO	Par	Cuatricromia	Generales	34x6	43	500.000	Publicado	Carolina Naranjo	2018-2-18 00:00:00	
+150562	GRETTEL ARAYA CAMPOS	Par	Blanco y negro	Generales	12x2	45	80.418	Publicado	Pedro Jaime	2018-2-18 00:00:00	
+149648	INMOBILIARIA ELQUI S.A.	Impar	Cuatricromia	Contraportada	35x6	48	900.000	Publicado	M Cristina Puga	2018-2-18 00:00:00	
+149357	INMOBIL. E INVERSIONES AREYUNA E HI	Par	Cuatricromia	Generales	12x6	EC-01	326.680	Publicado	Claudio Romero	2018-2-18 00:00:00	
+150566	DIARIO EL DIA	Par	Cuatricromia	Generales	8x6	EC-02	0	Publicado	Marcela Tello-ElDia	2018-2-18 00:00:00	
+150567	DIARIO EL DIA	Par	Cuatricromia	Generales	12x6	EC-03	0	Publicado	Marcela Tello-ElDia	2018-2-18 00:00:00	
+150554	DIARIO EL DIA	Par	Blanco y negro	Generales	5x2	EC-04	54.930	Publicado	Pedro Jaime	2018-2-18 00:00:00	
+148231	FUNDACION EDUCACIONAL MUSICAL CULTU	Par	Blanco y negro	Generales	9x2	EC-04	98.874	Publicado	Pedro Jaime	2018-2-18 00:00:00	
+150413	EMPRESA A.V. CONSTRUCCIONES E.I.R.L	Par	Blanco y negro	Generales	9x2	EC-05	98.874	Publicado	Pedro Jaime	2018-2-18 00:00:00	
+150477	IMOPAC LTDA.	Par	Blanco y negro	Generales	15x3	EC-05	254.930	Publicado	Pedro Jaime	2018-2-18 00:00:00	
+147656	INMOBILIARIA JCE S.A	Impar	Blanco y negro	Generales	5x1	EC-05	21.423	Publicado	M Cristina Puga	2018-2-18 00:00:00	
+150225	ARANDA CA?AS ALFONSO	Par	Blanco y negro	Generales	8x3	EC-06	131.832	Publicado	Pedro Jaime	2018-2-18 00:00:00	
+150506	IMPORTADORA TRENTO LTDA.	Par	Cuatricromia	Generales	35x6	EC-07	322.989	Publicado	Pedro Cortes	2018-2-18 00:00:00	
+149811	CIA. DE LEASING TATTERSALL S.A.	Par	Blanco y negro	Generales	11x2	EC-08	96.677	Publicado	Pedro Jaime	2018-2-18 00:00:00	
+150447	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	10x2	EC-08	59.535	Publicado	Medios Regionales	2018-2-18 00:00:00	
+150105	SOC. COMERCIAL VARGAS Y GIACOMET			UIP	5x1	EC-08	7.149	Publicado	Rene Pizarro	2018-2-18 00:00:00	
+149631	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	EC-09	0	Publicado	Marcela Tello-ElDia	2018-2-18 00:00:00	
+149602	PILLA LA VACA	Par	Blanco y negro	Generales	5x2	EC-09	0	Publicado	Marcela Tello-ElDia	2018-2-18 00:00:00	
+148470	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	4x5	EC-09	20.508	Publicado	Miguel Apey	2018-2-18 00:00:00	
+150208	LAS GREDAS LTDA.	Par	Blanco y negro	Generales	5x2	EC-09	20.378	Publicado	Jacqueline Torres	2018-2-18 00:00:00	
+150509	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	10x2	EC-10	59.535	Publicado	Medios Regionales	2018-2-18 00:00:00	
+150496	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	10x2	EC-10	59.535	Publicado	Medios Regionales	2018-2-18 00:00:00	
+150513	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	10x2	EC-11	59.535	Publicado	Medios Regionales	2018-2-18 00:00:00	
+149570	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Economico	5x2	EC-11	15.161	Publicado	Rene Pizarro	2018-2-18 00:00:00	
+124111	HOTELERIA LUIS ALBERTO BERETTA KIEK	Par	Blanco y negro	Generales	5x2	EC-11	6.061	Publicado	Patricia Villena	2018-2-18 00:00:00	
+150481	BANCO DE CHILE	1043 Palabras		Legal	x	EC-11	150.481	Publicado	Pedro Jaime	2018-2-18 00:00:00	
+150499	SANTANDER G.R.C.	Par	Blanco y negro	Generales	34x6	EC-12	528.292	Publicado	Pedro Jaime	2018-2-18 00:00:00	
+150437	DIARIO EL DIA	Par	Cuatricromia	Generales	34x4	EC15	0	Publicado	Marcela Tello-ElDia	2018-2-18 00:00:00	
+149331	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	6x6	RE- 03	51.666	Publicado	Claudio Romero	2018-2-18 00:00:00	
+138679	LILIANA SANABRIA POVEDA		Cuatricromia	Guia	5x2	VS	16.666	Publicado	Maria_Amelia Hermosilla	2018-2-18 00:00:00	
+149923	COMERCIAL SAED SPA		Cuatricromia	Guia	15x2	VS	50.000	Publicado	Paola Marquez	2018-2-18 00:00:00	
+148142	SERVICIO DE CIRUGIA LASER LIMITADA		Cuatricromia	Guia	10x2	VS	33.333	Publicado	Maria_Amelia Hermosilla	2018-2-18 00:00:00	
+143859	SALUD MENTAL MEDICINA TRADICIONAL C		Cuatricromia	Guia	5x2	VS	16.666	Publicado	Maria_Amelia Hermosilla	2018-2-18 00:00:00	
+139522	CENTRO DE ESTETICA INTEGRAL MI ESPA		Cuatricromia	Guia	10x2	VS	33.333	Publicado	Maria_Amelia Hermosilla	2018-2-18 00:00:00	
+148870	AV CLINICA DENTAL ODONTOLOGICA SPA		Cuatricromia	Guia	15x2	VS	50.000	Publicado	Maria_Amelia Hermosilla	2018-2-18 00:00:00	
+131249	SOCIEDAD MEDICA Y CONSULTORA ESTETI		Cuatricromia	Guia	5x2	VS	16.666	Publicado	Maria_Amelia Hermosilla	2018-2-18 00:00:00	
+139221	SOCIEDAD MEDICA Y ODONTOLOGICA LOS 		Cuatricromia	Guia	10x2	VS	33.333	Publicado	Maria_Amelia Hermosilla	2018-2-18 00:00:00	
+138733	EDGAR QUEVEDO TORRES		Cuatricromia	Guia	5x2	VS	16.666	Publicado	Maria_Amelia Hermosilla	2018-2-18 00:00:00	
+136776	SERVICIOS MEDICOS SANTA VALENTINA L		Cuatricromia	Guia	5x2	VS	16.666	Publicado	Maria_Amelia Hermosilla	2018-2-18 00:00:00	
+138708	SERVICIOS MEDICOS E INMOBILIAR NAXA		Cuatricromia	Guia	10x2	VS	33.333	Publicado	Maria_Amelia Hermosilla	2018-2-18 00:00:00	
+137423	GIANNINA POMAROLLI RIZZOLI		Cuatricromia	Guia	5x2	VS	16.666	Publicado	Maria_Amelia Hermosilla	2018-2-18 00:00:00	
+149894	LASER PIEL		Cuatricromia	Guia	5x2	VS	16.666	Publicado	Maria_Amelia Hermosilla	2018-2-18 00:00:00	

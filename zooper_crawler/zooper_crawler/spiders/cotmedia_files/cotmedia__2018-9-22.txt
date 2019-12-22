@@ -1,0 +1,42 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+164080	DABED Y CIA. LTDA., SELIM	Par	Cuatricromia	Generales	6x6	06	27.690	Publicado	Karina Rivera	2018-9-22 00:00:00	
+164073	INMOBILIARIA ELQUI S.A.	Par	Cuatricromia	Generales	35x6	07	0	Publicado	M Cristina Puga	2018-9-22 00:00:00	
+164124	SERVICIOS DE TRANSPORTES DE PASAJER	Par	Blanco y negro	Generales	7x2	08	53.063	Publicado	Miguel Apey	2018-9-22 00:00:00	
+164104	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	10x2	08	49.620	Arte	Medios Regionales	2018-9-22 00:00:00	
+164126	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	8x2	08	39.696	Arte	Medios Regionales	2018-9-22 00:00:00	
+164059	INMOBIL. LA SERENA GOLF S.A.	Impar	Cuatricromia	Generales	17x6	09	288.660	Publicado	Patricia Villena	2018-9-22 00:00:00	
+162843	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	10	0	Publicado	Marcela Tello-ElDia	2018-9-22 00:00:00	
+164132	CALLEGARI LTDA.	Par	Cuatricromia	Generales	17x6	11	310.000	Publicado	Marcela Tello-ElDia	2018-9-22 00:00:00	
+163835	UNIVERSIDAD DE LA SERENA	Par	Blanco y negro	Generales	10x2	13	42.113	Publicado	Jacqueline Torres	2018-9-22 00:00:00	
+163264	PAMELA B. GONZALEZ LIZAMA COMERCIAL	Par	Blanco y negro	Generales	5x2	13	0	Publicado	Marcela Tello-ElDia	2018-9-22 00:00:00	
+163072	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	5x2	13	0	Publicado	Miguel Apey	2018-9-22 00:00:00	
+162996	PILLA LA VACA	Par	Blanco y negro	Generales	5x2	13	0	Publicado	Marcela Tello-ElDia	2018-9-22 00:00:00	
+162687	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	13	8.306	Publicado	Miguel Apey	2018-9-22 00:00:00	
+162415	C.M. SOC. GASTRONOMICA LTDA.			UIP	5x2	13	7.208	Publicado		2018-9-22 00:00:00	
+164140	DIARIO EL DIA	Par	Blanco y negro	Generales	5x2	14	0	Arte	Marcela Tello-ElDia	2018-9-22 00:00:00	
+163023	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	16	0	Publicado	Marcela Tello-ElDia	2018-9-22 00:00:00	
+163868	BUALE GRUP LTDA.	Par	Cuatricromia	Generales	17x3	16	60.000	Publicado	Claudio Romero	2018-9-22 00:00:00	
+163178	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Cuatricromia	Medios Regionales	16x6	17	343.848	Arte	Medios Regionales	2018-9-22 00:00:00	
+162977	INVERSIONES ALTA CRUZ LTDA	Par	Blanco y negro	Generales	5x2	22	0	Publicado	Marcela Tello-ElDia	2018-9-22 00:00:00	
+162945	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	22	0	Publicado	Marcela Tello-ElDia	2018-9-22 00:00:00	
+162542	ARMAQ SUBIRI S.A.			UIP	5x1	22	8.937	Publicado	Claudio Romero	2018-9-22 00:00:00	
+162451	SOC. DE GES			UIP	5x1	22	8.937	Publicado	Miguel Apey	2018-9-22 00:00:00	
+162722	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	4x5	22	20.508	Publicado	Miguel Apey	2018-9-22 00:00:00	
+162566	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	12x3	23	51.666	Publicado	Claudio Romero	2018-9-22 00:00:00	
+163697	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	23	0	Publicado	Marcela Tello-ElDia	2018-9-22 00:00:00	
+164141	DIARIO EL DIA	Par	Cuatricromia	Generales	34x6	26	0	Arte	Carolina Naranjo	2018-9-22 00:00:00	
+163241	CAMPOS DEL NORTE S.A.	Par	Cuatricromia	Generales	17x3	27	0	Publicado	Patricia Villena	2018-9-22 00:00:00	
+163856	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	27	0	Publicado	Marcela Tello-ElDia	2018-9-22 00:00:00	
+164138	DIARIO EL DIA	Par	Cuatricromia	Generales	5x6	28	0	Arte	Marcela Tello-ElDia	2018-9-22 00:00:00	
+164109	JUAN SEBASTIAN BOU LAGUNAS	Par	Blanco y negro	Generales	5x2	31	13.750	Publicado	Heinger Vega Torres	2018-9-22 00:00:00	
+163097	ANDREA YAZIGI SFEIR	Par	Blanco y negro	Generales	5x2	31	6.723	Publicado	Heinger Vega Torres	2018-9-22 00:00:00	
+163395	ADMINISTR. CMR FALABELLA LTDA.	Impar	Cuatricromia	Generales	35x6	32	600.000	Publicado	M Cristina Puga	2018-9-22 00:00:00	
+164098	BANCO DE CHILE	484 Palabras		Legal	x	EC	120.168	Publicado	Pedro Jaime	2018-9-22 00:00:00	
+163691	CARLOS FERNANDEZ	Par	Blanco y negro	Generales	6x2	EC-18	44.958	Publicado	Pedro Jaime	2018-9-22 00:00:00	
+163737	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	8x2	EC-18	39.696	Arte	Medios Regionales	2018-9-22 00:00:00	
+164099	BANCO DE CHILE	511 Palabras		Legal	x	EC-19	126.891	Publicado	Pedro Jaime	2018-9-22 00:00:00	
+163596	BESALCO MAQUINARIAS S.A	Par	Blanco y negro	Generales	4x2	EC-19	33.445	Publicado	Pedro Jaime	2018-9-22 00:00:00	
+164054	CIA. DE LEASING TATTERSALL S.A.	Par	Blanco y negro	Generales	11x2	EC-19	69.487	Publicado	Pedro Jaime	2018-9-22 00:00:00	
+152198	HOTELERIA LUIS ALBERTO BERETTA KIEK	Par	Blanco y negro	Generales	5x2	EC-20	6.061	Publicado	Patricia Villena	2018-9-22 00:00:00	
+164139	DIARIO EL DIA	Par	Blanco y negro	Generales	17x6	EC-20	0	Arte	Marcela Tello-ElDia	2018-9-22 00:00:00	
+162806	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Generales	5x2	EC-20	7.003	Publicado	Rene Pizarro	2018-9-22 00:00:00	

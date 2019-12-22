@@ -1,0 +1,9 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+151104	OVALLE CASINO RESORT S.A	Par	Cuatricromia	Generales	25x4		171.372	Arte	Paola Marquez	OCR Panoramas marzo	2018-2-11 00:00:00	
+150268	SOCIEDAD GASTRONOMICA EL RELAJO LTD			UIP	17x2	03	12.895	Publicado	Karina Rivera	CENA DIA DE LOS ENAMORADOS	2018-2-11 00:00:00	
+150227	ILUSTRE MUNICIPALIDAD DE MONTE PATR	Par	Blanco y negro	Generales	23x4	05	191.447	Publicado	Claudio Romero	LLAMADO A CONCURSO.. MUNI MONTEPATRIA, PAGINA GENERAL 	2018-2-11 00:00:00	
+131302	SOCIEDAD MEDICA Y CONSULTORA ESTETI		Cuatricromia	Guia	5x2	08	13.333	Publicado	Maria_Amelia Hermosilla	Diego Polanco	2018-2-11 00:00:00	
+148399	INVERSIONES TANGUEMAR LIMITADA	Par	Blanco y negro	Generales	5x2	08	21.422	Publicado	Patricia Villena	Tanguemar 2	2018-2-11 00:00:00	
+149376	OVALLE CASINO RESORT S.A	Par	Cuatricromia	Generales	25x4	09	171.372	Publicado	Paola Marquez	OCR Eventos febrero	2018-2-11 00:00:00	
+147889	VELIZ CORTES JOSE A.			UIP	5x2	15	4.695	Publicado	Pedro Cortes		2018-2-11 00:00:00	
+150304	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	6x6	15	0	Publicado	Marcela Tello-ElDia		2018-2-11 00:00:00	

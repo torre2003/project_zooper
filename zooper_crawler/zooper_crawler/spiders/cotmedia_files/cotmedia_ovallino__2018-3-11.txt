@@ -1,0 +1,15 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+151952	SOCIEDAD DE RENTAS FALABELLA S.A	Par	Cuatricromia	Generales	8x6		50.980	Arte	M Cristina Puga	HUINCHA Open Plaza - primera impar	2018-3-11 00:00:00	
+151773	OVALLE CASINO RESORT S.A	Par	Cuatricromia	Generales	25x4	03	171.372	Publicado	Paola Marquez	OCR Panoramas marzo	2018-3-11 00:00:00	
+151762	EMPRESA PERIODISTICA EL NORTE S.A.	Par	Blanco y negro	Medios Regionales	10x2	03	30.340	Publicado	Medios Regionales	RRHH Parques - Parque de Chile S.A.- (38253) - Impar	2018-3-11 00:00:00	
+151736	MIGUEL GUZMAN YURI	Par	Blanco y negro	Generales	10x2	05	61.205	Publicado	Karina Rivera	remate judicial ovalle	2018-3-11 00:00:00	
+151758	CORRETAJES TORRES Y CIA LTDA	Par	Blanco y negro	Generales	10x2	05	61.205	Publicado	Karina Rivera	corretaje	2018-3-11 00:00:00	
+151473	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	06	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2018-3-11 00:00:00	
+131306	SOCIEDAD MEDICA Y CONSULTORA ESTETI		Cuatricromia	Guia	5x2	08	13.333	Publicado	Maria_Amelia Hermosilla	Diego Polanco	2018-3-11 00:00:00	
+151755	JUAN PABLO CORRAL	Par	Blanco y negro	Generales	5x2	08	30.603	Publicado	Karina Rivera	abogado	2018-3-11 00:00:00	
+151778	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	5x2	08	0	Publicado	Marcela Tello-ElDia		2018-3-11 00:00:00	
+151699	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	12x6	09	0	Publicado	Marcela Tello-ElDia	Avant Premiere - Club de Lectores	2018-3-11 00:00:00	
+151768	CAMAL MUSALEM TAPIA Y CIA.	Impar	Cuatricromia	Generales	34x5	11	291.380	Publicado	Marcela Tello-ElDia	Toyota Sale - Camal Musalem 	2018-3-11 00:00:00	
+151776	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x6	13	0	Publicado	Marcela Tello-ElDia	En la comodidad de su hogar...	2018-3-11 00:00:00	
+150545	VELIZ CORTES JOSE A.			UIP	5x2	15	4.695	Publicado	Pedro Cortes		2018-3-11 00:00:00	
+151777	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	6x6	15	0	Publicado	Marcela Tello-ElDia		2018-3-11 00:00:00	

@@ -1,0 +1,40 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+106267	BANCO ESTADO DE CHILE	Impar	Cuatricromia	Generales	35x6	05	645.977	Publicado	Kathine Soto-Stgo	2016-7-14 00:00:00	
+106865	INMOBIL. PY  S.A.	Impar	Cuatricromia	Generales	17x6	07	407.889	Publicado	Claudio Romero	2016-7-14 00:00:00	
+106366	CARAT CHILE S.A.	Impar	Cuatricromia	Generales	17x6	09	300.000	Publicado	Kathine Soto-Stgo	2016-7-14 00:00:00	
+107031	JUNTA VIGILANCIA RIO ELQUI Y SUS AF	Par	Blanco y negro	Generales	12x2	10	87.888	Publicado	Pedro Jaime	2016-7-14 00:00:00	
+106785	DIARIO EL DIA	Par	Cuatricromia	Generales	13x6	12	0	Arte	Marcela Tello-ElDia	2016-7-14 00:00:00	
+105767	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	5x2	13	0	Publicado	Miguel Apey	2016-7-14 00:00:00	
+105709	faisal			UIP	5x2	13	0	Arte	Paola Marquez	2016-7-14 00:00:00	
+105648	LABORATORIO CLINICO STA. MARIA LA S	Par	Blanco y negro	Generales	6x2	13	7.470	Publicado	Miguel Apey	2016-7-14 00:00:00	
+105555	SOC. COMERCIAL ALCAPARRA LTDA.	Par	Blanco y negro	Generales	5x2	14	10.440	Publicado	Patricia Villena	2016-7-14 00:00:00	
+106922	SOC.COMERCIAL ALTOS LA SERENA LTDA	Par	Blanco y negro	Generales	5x2	14	8.973	Publicado	Nadia Randolph	2016-7-14 00:00:00	
+105986	DIARIO EL DIA	Par	Blanco y negro	Generales	5x2	14	0	Arte	Marcela Tello-ElDia	2016-7-14 00:00:00	
+106904	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	8x2	15	34.784	Arte	Medios Regionales	2016-7-14 00:00:00	
+107007	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	5x2	15	21.740	Arte	Medios Regionales	2016-7-14 00:00:00	
+107009	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	6x2	15	26.088	Arte	Medios Regionales	2016-7-14 00:00:00	
+100396	SOC HOTELERA Y DE TURISMO HACIENDA 	Par	Cuatricromia	Generales	5x6	16	9.063	Publicado	Patricia Villena	2016-7-14 00:00:00	
+105852	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	17	0	Arte	Marcela Tello-ElDia	2016-7-14 00:00:00	
+105596	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	19	8.306	Publicado	Miguel Apey	2016-7-14 00:00:00	
+106822	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	24	0	Arte	Marcela Tello-ElDia	2016-7-14 00:00:00	
+106912	DIARIO EL DIA	Par	Blanco y negro	Generales	35x6	25	0	Arte	Carolina Naranjo	2016-7-14 00:00:00	
+105659	CASA DEL PERNO	Par	Blanco y negro	Generales	5x3	28	23.071	Publicado	Miguel Apey	2016-7-14 00:00:00	
+105273	SOC. DE GE			UIP	5x1	29	8.937	Publicado	Miguel Apey	2016-7-14 00:00:00	
+105627	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	4x5	29	20.508	Publicado	Miguel Apey	2016-7-14 00:00:00	
+106840	GALLARDO Y OTRO			UIP	5x1	29	8.937	Publicado	Pedro Jaime	2016-7-14 00:00:00	
+102160	CERNA E HIJOS CIA. LTDA.	Par	Blanco y negro	Generales	5x1	29	4.524	Publicado	Nadia Randolph	2016-7-14 00:00:00	
+106793	gabriel ESPINOZA			UIP	5x1	29	8.937	Publicado	Pedro Jaime	2016-7-14 00:00:00	
+105937	PILLA LA VACA	Par	Blanco y negro	Generales	5x2	29	0	Arte	Marcela Tello-ElDia	2016-7-14 00:00:00	
+106623	AREVALO CARMEN 			UIP	5x1	29	8.937	Publicado	Pedro Jaime	2016-7-14 00:00:00	
+105914	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	29	0	Arte	Marcela Tello-ElDia	2016-7-14 00:00:00	
+105742	ARMA			UIP	5x1	29	8.937	Publicado	Claudio Romero	2016-7-14 00:00:00	
+106586	SERVICIOS GASTRON?MICOS LA CASONA D	Par	Blanco y negro	Generales	5x2	29	10.725	Publicado	Miguel Apey	2016-7-14 00:00:00	
+106288	SERVICIOS GENERALES GUAYACAN S.A	Par	Blanco y negro	Generales	4x2	30	6.666	Publicado	Jacqueline Torres	2016-7-14 00:00:00	
+106543	VELIZ CORTES JOSE A.	Par	Blanco y negro	Generales	3x2	30	13.403	Publicado	Pedro Cortes	2016-7-14 00:00:00	
+106811	INMOBILIARIA EURO AMH S.A.	Impar	Cuatricromia	Generales	34x6	32	450.000	Publicado	Paola Marquez	2016-7-14 00:00:00	
+106227	DIARIO EL DIA	Par	Blanco y negro	Generales	5x2	EC-21	0	Arte	Marcela Tello-ElDia	2016-7-14 00:00:00	
+106579	IP PROYECTOS INDUSTRIALES LTDA.	Par	Blanco y negro	Generales	4x2	EC-21	29.296	Publicado	Pedro Jaime	2016-7-14 00:00:00	
+106389	SOC. INMOBILIARIA E INVERSIONES CHI	Par	Cuatricromia	Generales	10x2	EC-22	0	Publicado	Claudio Romero	2016-7-14 00:00:00	
+106037	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Generales	5x1	EC-22	5.860	Publicado	Rene Pizarro	2016-7-14 00:00:00	
+100960	HOTELERIA LUIS ALBERTO BERETTA KIEK	Par	Blanco y negro	Generales	5x2	EC-22	0	Publicado	Patricia Villena	2016-7-14 00:00:00	
+106915	PESQUERA VILLA ALEGRE Y CIA. LTDA.	88 Palabras		Propiedades	x	PROP	14.118	Publicado	Pedro Jaime	2016-7-14 00:00:00	

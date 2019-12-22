@@ -1,0 +1,39 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+130949	CHRISTIAN LAUNITZ MARIN SERVICIOS M	Par	Blanco y negro	Generales	8x2	04	5.000	Publicado	Heinger Vega Torres	2017-6-3 00:00:00	
+130659	SCOTIABANK CHILE S.A.	Impar	Cuatricromia	Generales	35x6	05	742.874	Publicado	M Cristina Puga	2017-6-3 00:00:00	
+131050	ARMAS GESTION LTDA	Impar	Cuatricromia	Generales	17x6	07	574.843	Publicado	M Cristina Puga	2017-6-3 00:00:00	
+131088	CARAT CHILE S.A.	Impar	Cuatricromia	Generales	35x6	09	700.000	Publicado	Kathine Soto-Stgo	2017-6-3 00:00:00	
+130880	PADRES FRANCISCANOS DEL NORTE	Par	Blanco y negro	Generales	5x2	11	37.902	Publicado	Rene Pizarro	2017-6-3 00:00:00	
+130756	DIARIO EL DIA	Par	Blanco y negro	Generales	5x2	11	0	Arte	Marcela Tello-ElDia	2017-6-3 00:00:00	
+131065	DIARIO EL DIA	Par	Cuatricromia	Generales	34x6	12	0	Arte	Marcela Tello-ElDia	2017-6-3 00:00:00	
+131103	INMOBIL. LA SERENA GOLF S.A.	Impar	Cuatricromia	Generales	17x6	13	288.660	Publicado	Patricia Villena	2017-6-3 00:00:00	
+130373	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	16	0	Arte	Marcela Tello-ElDia	2017-6-3 00:00:00	
+131106	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Cuatricromia	Medios Regionales	32x6	17	554.336	Arte	Medios Regionales	2017-6-3 00:00:00	
+131187	DIARIO EL DIA	Par	Cuatricromia	Generales	12x6	18	0	Arte	Marcela Tello-ElDia	2017-6-3 00:00:00	
+131144	INMOBILIARIA RENVAL SPA	Par	Cuatricromia	Generales	34x6	19	721.649	Publicado	Rene Pizarro	2017-6-3 00:00:00	
+130832	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	20	8.306	Publicado	Miguel Apey	2017-6-3 00:00:00	
+129790	SENDA CAPACITACI?N Y DESARROLLO HUM	Impar	Blanco y negro	Generales	12x3	21	121.892	Publicado	Pedro Jaime	2017-6-3 00:00:00	
+130916	SUB-SECRETARIA DE DESARROLLO REGION	Impar	Blanco y negro	Generales	17x3	21	175.257	Publicado	Jacqueline Torres	2017-6-3 00:00:00	
+131133	AUTOMOTRIZ CARMONA	Par	Cuatricromia	Generales	35x6	27	250.000	Publicado	Pedro Cortes	2017-6-3 00:00:00	
+131051	DIARIO EL DIA	Par	Cuatricromia	Generales	10x6	29	0	Arte	Marcela Tello-ElDia	2017-6-3 00:00:00	
+131039	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	31	0	Arte	Marcela Tello-ElDia	2017-6-3 00:00:00	
+131047	DIARIO EL DIA	Par	Blanco y negro	Generales	35x6	33	0	Arte	Carolina Naranjo	2017-6-3 00:00:00	
+129628	DABED Y CIA. LTDA., SELIM	Par	Cuatricromia	Generales	6x6	35	27.690	Publicado	Karina Rivera	2017-6-3 00:00:00	
+127998	cern			UIP	5x1	37	8.937	Publicado	Nadia Randolph	2017-6-3 00:00:00	
+129165	SOC. DE GES			UIP	5x1	37	8.937	Publicado	Miguel Apey	2017-6-3 00:00:00	
+129714	SERVICIOS GASTRON?MICOS LA CASONA D	Par	Blanco y negro	Generales	5x2	37	10.725	Publicado	Miguel Apey	2017-6-3 00:00:00	
+129590	C.M. SOC. GASTRONOMICA LTDA.			UIP	5x2	37	7.208	Publicado	Pedro Cortes	2017-6-3 00:00:00	
+130433	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	37	0	Arte	Marcela Tello-ElDia	2017-6-3 00:00:00	
+130649	ARMAQ SUBIRI S.A.	Par	Blanco y negro	Generales	5x1	37	8.937	Publicado	Claudio Romero	2017-6-3 00:00:00	
+130451	PILLA LA VACA	Par	Blanco y negro	Generales	5x2	37	0	Arte	Marcela Tello-ElDia	2017-6-3 00:00:00	
+130720	SERVICIOS GENERALES GUAYACAN S.A	Par	Blanco y negro	Generales	4x2	38	6.666	Publicado	Jacqueline Torres	2017-6-3 00:00:00	
+129667	VELIZ CORTES JOSE A.	Par	Blanco y negro	Generales	3x2	38	13.403	Publicado	Pedro Cortes	2017-6-3 00:00:00	
+131110	INMOBILIARIA GUZMAN LTDA	Impar	Cuatricromia	Generales	35x6	40	0	Publicado	M Cristina Puga	2017-6-3 00:00:00	
+131111	CIA. DE LEASING TATTERSALL S.A.	Par	Blanco y negro	Generales	11x2	EC-23	69.487	Publicado	Pedro Jaime	2017-6-3 00:00:00	
+131142	EMPRESA G y G EIRL.	Par	Blanco y negro	Generales	5x2	EC-23	42.113	Publicado	Pedro Jaime	2017-6-3 00:00:00	
+131188	DIARIO EL DIA	Par	Cuatricromia	Generales	17x6	EC-24	0	Arte	Marcela Tello-ElDia	2017-6-3 00:00:00	
+131183	EMPRESA CONSTRUCTORA ELQUI LTDA.	Par	Blanco y negro	Generales	8x2	EC-25	50.536	Publicado	M Cristina Puga	2017-6-3 00:00:00	
+123831	HOTELERIA LUIS ALBERTO BERETTA KIEK	Par	Blanco y negro	Generales	5x2	EC-25	6.061	Publicado	Patricia Villena	2017-6-3 00:00:00	
+130686	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Generales	5x1	EC-25	6.043	Publicado	Rene Pizarro	2017-6-3 00:00:00	
+131155	SANTANDER G.R.C.	Par	Blanco y negro	Generales	10x2	EC-26	83.824	Publicado	Pedro Jaime	2017-6-3 00:00:00	
+131189	DIARIO EL DIA	Par	Cuatricromia	Generales	17x6	EC-26	0	Arte	Marcela Tello-ElDia	2017-6-3 00:00:00	

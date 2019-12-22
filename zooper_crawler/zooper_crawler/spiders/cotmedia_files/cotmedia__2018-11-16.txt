@@ -1,0 +1,46 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+170093	TRANSBANK S.A.	Impar	Cuatricromia	Generales	17x6	05	313.167	Arte	Kathine Soto-Stgo	2018-11-16 00:00:00	
+170123	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	06	0	Arte	Marcela Tello-ElDia	2018-11-16 00:00:00	
+170068	BUALE GRUP LTDA.	Par	Cuatricromia	Generales	17x3	06	60.000	Arte	Claudio Romero	2018-11-16 00:00:00	
+170039	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Cuatricromia	Medios Regionales	16x6	07	324.840	Arte	Medios Regionales	2018-11-16 00:00:00	
+170090	DIARIO EL DIA	Par	Cuatricromia	Generales	17x6	08	0	Arte	Marcela Tello-ElDia	2018-11-16 00:00:00	
+170020	TOYOTA CHILE S.A.	Impar	Cuatricromia	Generales	35x6	09	650.000	Arte	Kathine Soto-Stgo	2018-11-16 00:00:00	
+170115	TESORERIA GENERAL DE LA REPUBLICA	Par	Blanco y negro	Generales	7x4	10	83.700	Arte	Jacqueline Torres	2018-11-16 00:00:00	
+169832	BANCO SANTANDER CHILE	Impar	Cuatricromia	Generales	17x6	11	654.165	Arte	Kathine Soto-Stgo	2018-11-16 00:00:00	
+169049	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	13	8.306	Arte	Miguel Apey	2018-11-16 00:00:00	
+168975	ARMAQ SUBIRI S.A.			UIP	5x1	13	8.937	Arte	Claudio Romero	2018-11-16 00:00:00	
+169795	ARZOBISPADO DE LA SERENA	Par	Blanco y negro	Generales	10x2	13	0	Arte	Marcela Tello-ElDia	2018-11-16 00:00:00	
+170038	SERVICIOS DE TRANSPORTES DE PASAJER	Par	Blanco y negro	Generales	7x2	13	51.268	Arte	Miguel Apey	2018-11-16 00:00:00	
+169120	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	5x2	14	0	Arte	Miguel Apey	2018-11-16 00:00:00	
+169080	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	4x5	14	20.508	Arte	Miguel Apey	2018-11-16 00:00:00	
+168706	INVERSIONES ALTA CRUZ LTDA	Par	Blanco y negro	Generales	5x2	14	0	Arte	Marcela Tello-ElDia	2018-11-16 00:00:00	
+168276	C.M. SOC. GASTRONOMICA LTDA.			UIP	5x2	14	7.208	Arte		2018-11-16 00:00:00	
+169739	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	16	0	Arte	Marcela Tello-ElDia	2018-11-16 00:00:00	
+170040	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Cuatricromia	Medios Regionales	32x6	17	544.008	Arte	Medios Regionales	2018-11-16 00:00:00	
+170081	OMD CHILE S.P.A.	Impar	Cuatricromia	Generales	17x6	21	400.000	Arte	M Cristina Puga	2018-11-16 00:00:00	
+169257	DIARIO EL DIA	Par	Cuatricromia	Generales	6x6	22	0	Arte	Marcela Tello-ElDia	2018-11-16 00:00:00	
+170010	CAMPOS DEL NORTE S.A.	Par	Cuatricromia	Generales	17x3	25	0	Arte	Patricia Villena	2018-11-16 00:00:00	
+170075	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	25	0	Arte	Marcela Tello-ElDia	2018-11-16 00:00:00	
+168786	MARTIN JURE PATRICIA	Par	Cuatricromia	Generales	5x3	26	0	Arte	Marcela Tello-ElDia	2018-11-16 00:00:00	
+168490	SOC. HOTELERA VICHUQUEN LTDA.	Par	Cuatricromia	Generales	5x3	26	0	Arte	Marcela Tello-ElDia	2018-11-16 00:00:00	
+168814	PAMELA B. GONZALEZ LIZAMA COMERCIAL	Par	Blanco y negro	Generales	5x2	26	0	Arte	Marcela Tello-ElDia	2018-11-16 00:00:00	
+168516	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	26	0	Arte	Marcela Tello-ElDia	2018-11-16 00:00:00	
+168750	PILLA LA VACA	Par	Cuatricromia	Generales	5x2	26	0	Arte	Marcela Tello-ElDia	2018-11-16 00:00:00	
+168625	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	26	0	Arte	Marcela Tello-ElDia	2018-11-16 00:00:00	
+169297	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Cuatricromia	Medios Regionales	16x3	27	215.256	Arte	Medios Regionales	2018-11-16 00:00:00	
+169267	DIARIO EL DIA	Par	Cuatricromia	Generales	6x3	27	0	Arte	Marcela Tello-ElDia	2018-11-16 00:00:00	
+170118	DIARIO EL DIA	Par	Blanco y negro	Generales	35x6	28	0	Arte	Carolina Naranjo	2018-11-16 00:00:00	
+169569	SERVICIOS GENERALES GUAYACAN S.A	Par	Blanco y negro	Generales	3x2	29	6.812	Arte	Jacqueline Torres	2018-11-16 00:00:00	
+169984	EMPRESAS LA POLAR S.A.	Impar	Cuatricromia	Generales	35x6	32	504.000	Arte	Patricia Villena	2018-11-16 00:00:00	
+169925	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	16x3	EC	109.584	Arte	Medios Regionales	2018-11-16 00:00:00	
+166167	HOTELERIA LUIS ALBERTO BERETTA KIEK	Par	Blanco y negro	Generales	5x2	EC	6.061	Arte	Patricia Villena	2018-11-16 00:00:00	
+169511	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Generales	5x2	EC	7.003	Arte	Rene Pizarro	2018-11-16 00:00:00	
+169553	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	6x2	EC	27.396	Arte	Medios Regionales	2018-11-16 00:00:00	
+169983	FUNDACION EDUCACIONAL THE INTERNATI			Revista Cosas	x	RC	330.000	Arte	Patricia Villena	2018-11-16 00:00:00	
+170230	SALINAS Y FABRES S.A.	Home	Banner Cabecera	Web	x	WEB	850.000	Arte	M Cristina Puga	2018-11-16 00:00:00	
+170111	MOP OOPP	177 Palabras		Legal	x	xx	43.896	Arte	Karina Rivera	2018-11-16 00:00:00	
+170028	INMOBILIARIA SERENA S.A.	Home	Banner Cabecera	Web	0x0	XX	200.000	Arte		2018-11-16 00:00:00	
+170108	MOP OOPP	177 Palabras		Legal	x	xx	43.896	Arte	Karina Rivera	2018-11-16 00:00:00	
+170107	SANTANDER G.R.C.	430  Palabras		Legal	x	xx	106.723	Arte	Pedro Jaime	2018-11-16 00:00:00	
+170110	MOP OOPP	177 Palabras		Legal	x	xx	43.896	Arte	Karina Rivera	2018-11-16 00:00:00	
+170109	MOP OOPP	178 Palabras		Legal	x	xxx	44.144	Arte	Karina Rivera	2018-11-16 00:00:00	

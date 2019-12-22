@@ -1,0 +1,16 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+169251	CAMPOS DEL NORTE S.A.	Par	Cuatricromia	Generales	5x6	01	23.333	Arte	Patricia Villena	Franja Enjoy Portada EL Ovallino	2018-11-30 00:00:00	
+168074	EMPRESA PERIODISTICA EL NORTE S.A.	Par	Cuatricromia	Medios Regionales	16x6	03	221.498	Arte	Medios Regionales	Impar - Caserita - Comercial La Caserita Ltda. - (157226)	2018-11-30 00:00:00	
+170499	SOC. SERVICIOS TECNOLOGICOS Y TELCO			UIP	10x6	05	16.260	Arte	Claudio Romero	TELCONOR..AHORA EN OVALLE	2018-11-30 00:00:00	
+170359	OSVALDO PIZARRO	Par	Cuatricromia	Generales	7x2	06	3.931	Arte	Karina Rivera	CONSTRUCTOR CIVIL	2018-11-30 00:00:00	
+169011	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	12x3	06	16.065	Arte	Claudio Romero	Muebles alpina..	2018-11-30 00:00:00	
+169768	FUNERARIA ALVARO MAYA TABILO E.I.R.			UIP	5x2	08	3.931	Arte	Karina Rivera	FUNERARIA SANTA ROSA	2018-11-30 00:00:00	
+170256	SOCIEDAD DE SERVICIOS MEDICOS E INV			UIP	17x2	08	8.403	Arte	Karina Rivera	CENTRO IMAGEN OVALLE	2018-11-30 00:00:00	
+170578	MACARENA TORRES			UIP	10x2	08	7.882	Arte	Karina Rivera	NUTRICIONISTA MEDIFAM	2018-11-30 00:00:00	
+170403	EMPRESA PERIODISTICA EL NORTE S.A.	Par	Cuatricromia	Medios Regionales	32x6	09	0	Arte	Medios Regionales		2018-11-30 00:00:00	
+169296	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	6x6	10	0	Arte	Marcela Tello-ElDia	Descuentos Cinemark	2018-11-30 00:00:00	
+170934	INMOBILIARIA AYLLU S.A	Par	Blanco y negro	Generales	8x2	11	37.664	Arte	Claudio Romero		2018-11-30 00:00:00	
+170416	INMOBILIARIA COSTA DORADA LTDA.			UIP	10x2	11	6.756	Arte	Karina Rivera	COSTA DORADA	2018-11-30 00:00:00	
+170937	INMOBILIARIA E INVERSIONES EL CHA?A	Par	Blanco y negro	Generales	8x2	11	37.664	Arte	Claudio Romero		2018-11-30 00:00:00	
+168579	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	14	0	Arte	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2018-11-30 00:00:00	
+170724	EMPRESAS LA POLAR S.A.	Par	Cuatricromia	Contraportada	35x6	16	252.000	Arte	Patricia Villena	Contraportada La Polar	2018-11-30 00:00:00	

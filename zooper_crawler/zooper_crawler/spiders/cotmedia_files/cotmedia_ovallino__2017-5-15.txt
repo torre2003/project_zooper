@@ -1,0 +1,10 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+128426	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	6x6	03	16.065	Publicado	Claudio Romero	Muebles Alpina	2017-5-15 00:00:00	
+127485	AGRICOLA NORTE TALINAY LTDA	Par	Blanco y negro	Generales	5x2	05	1.666	Publicado	Paola Marquez	UIP VENTA ALFALFA	2017-5-15 00:00:00	
+127730	JACQUELINE JOFRE VILLANUEVA			UIP	5x2	05	2.808	Publicado	Karina Rivera	Cortinas Rollers	2017-5-15 00:00:00	
+128808	KH			UIP	5x2	05	2.808	Publicado	Miguel Apey	KHUYAY TRAVEL	2017-5-15 00:00:00	
+128114	FERNANDO YOANOVICH			UIP	5x2	07	2.247	Publicado	Karina Rivera	COMPRA VEHICULOS	2017-5-15 00:00:00	
+129017	ASOCIACION DE CANALISTA CANAL PALQU	Par	Blanco y negro	Generales	10x2	07	47.080	Publicado	Karina Rivera	10 x 2 Citacion	2017-5-15 00:00:00	
+129361	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	12x6	09	0	Arte	Marcela Tello-ElDia	AVANT PREMIERE	2017-5-15 00:00:00	
+129561	PRENSA DEL LIMARI LTDA.	Par	Blanco y negro	Generales	5x6	10	0	Arte	Marcela Tello-ElDia		2017-5-15 00:00:00	
+129562	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	5x6	14	0	Arte	Marcela Tello-ElDia		2017-5-15 00:00:00	

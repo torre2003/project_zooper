@@ -1,0 +1,38 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+107299	CARAT CHILE S.A.	Impar	Cuatricromia	Generales	17x6	05	300.000	Publicado	Kathine Soto-Stgo	2016-7-21 00:00:00	
+106825	DIARIO EL DIA	Par	Cuatricromia	Generales	10x4	06	0	Publicado	Marcela Tello-ElDia	2016-7-21 00:00:00	
+107313	SALINAS Y FABRES S.A.	Impar	Cuatricromia	Generales	17x6	07	251.009	Publicado	M Cristina Puga	2016-7-21 00:00:00	
+107123	SINDY GONZALEZ MARCHANT	Par	Blanco y negro	Generales	12x2	12	0	Publicado	Marcela Tello-ElDia	2016-7-21 00:00:00	
+107251	SERVICIOS DE TRANSPORTES DE PASAJER	Par	Blanco y negro	Generales	7x2	13	46.142	Publicado	Miguel Apey	2016-7-21 00:00:00	
+107163	SEREMI BIENES NACIONALES IV REGION	Par	Blanco y negro	Generales	17x3	13	126.998	Publicado	Jacqueline Torres	2016-7-21 00:00:00	
+105650	LABORATORIO CLINICO STA. MARIA LA S	Par	Blanco y negro	Generales	6x2	14	7.470	Publicado	Miguel Apey	2016-7-21 00:00:00	
+105987	DIARIO EL DIA	Par	Blanco y negro	Generales	5x2	14	0	Publicado	Marcela Tello-ElDia	2016-7-21 00:00:00	
+105773	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	5x2	14	0	Publicado	Miguel Apey	2016-7-21 00:00:00	
+107064	cruz barrientos			UIP	5x2	15	17.875	Publicado	Patricia Villena	2016-7-21 00:00:00	
+107186	AREVALO CARMEN			UIP	5x1	15	8.937	Publicado	Pedro Jaime	2016-7-21 00:00:00	
+106846	GALLARDO Y OTRO			UIP	5x1	15	8.937	Publicado	Pedro Jaime	2016-7-21 00:00:00	
+106928	SOC.COMERCIAL ALTOS LA SERENA LTDA	Par	Blanco y negro	Generales	5x2	15	8.973	Publicado	Nadia Randolph	2016-7-21 00:00:00	
+107115	INVERSIONES SOCOAL			UIP	5x2	15	17.875	Publicado	Pedro Jaime	2016-7-21 00:00:00	
+106977	inmobiliaria y constructora			UIP	5x2	15	17.875	Publicado	Pedro Jaime	2016-7-21 00:00:00	
+106592	SERVICIOS GASTRON?MICOS LA CASONA D	Par	Blanco y negro	Generales	5x2	15	10.725	Publicado	Miguel Apey	2016-7-21 00:00:00	
+102166	CERNA E HIJOS CIA. LTDA.	Par	Blanco y negro	Generales	5x1	15	4.524	Publicado	Nadia Randolph	2016-7-21 00:00:00	
+105280	SOC. DE GES			UIP	5x1	15	8.937	Publicado	Miguel Apey	2016-7-21 00:00:00	
+105938	PILLA LA VACA	Par	Blanco y negro	Generales	5x2	15	0	Publicado	Marcela Tello-ElDia	2016-7-21 00:00:00	
+105915	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	15	0	Publicado	Marcela Tello-ElDia	2016-7-21 00:00:00	
+105853	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	16	0	Publicado	Marcela Tello-ElDia	2016-7-21 00:00:00	
+107317	DIARIO EL DIA	Par	Cuatricromia	Generales	34x6	17	0	Publicado	Marcela Tello-ElDia	2016-7-21 00:00:00	
+105603	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	18	8.306	Publicado	Miguel Apey	2016-7-21 00:00:00	
+107282	CONSTRUCTORA GUZMAN LIMITADA	Par	Blanco y negro	Generales	10x3	18	82.395	Publicado	M Cristina Puga	2016-7-21 00:00:00	
+107293	DIARIO EL DIA	Par	Blanco y negro	Generales	35x6	25	0	Publicado	Carolina Naranjo	2016-7-21 00:00:00	
+105748	ARMAQ			UIP	5x1	28	8.937	Publicado	Claudio Romero	2016-7-21 00:00:00	
+105562	SOC. COMERCIAL ALCAPARRA LTDA.	Par	Blanco y negro	Generales	5x2	28	10.440	Publicado	Patricia Villena	2016-7-21 00:00:00	
+105660	CASA DEL PERNO	Par	Blanco y negro	Generales	5x3	28	23.071	Publicado	Miguel Apey	2016-7-21 00:00:00	
+105634	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	4x5	29	20.508	Publicado	Miguel Apey	2016-7-21 00:00:00	
+106550	VELIZ CORTES JOSE A.	Par	Blanco y negro	Generales	3x2	30	13.403	Publicado	Pedro Cortes	2016-7-21 00:00:00	
+106295	SERVICIOS GENERALES GUAYACAN S.A	Par	Blanco y negro	Generales	4x2	30	6.666	Publicado	Jacqueline Torres	2016-7-21 00:00:00	
+107302	INMOBIL. E INVERSIONES AREYUNA E HI	Par	Cuatricromia	Generales	35x6	32	0	Publicado	Claudio Romero	2016-7-21 00:00:00	
+106234	DIARIO EL DIA	Par	Blanco y negro	Generales	5x2	EC-20	0	Publicado	Marcela Tello-ElDia	2016-7-21 00:00:00	
+107307	SCOTIABANK CHILE S.A.	547 Palabras		Legal	x	EC-21	135.882	Publicado	Pedro Jaime	2016-7-21 00:00:00	
+100966	HOTELERIA LUIS ALBERTO BERETTA KIEK	Par	Blanco y negro	Generales	5x2	EC-21	8.937	Publicado	Patricia Villena	2016-7-21 00:00:00	
+106044	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Generales	5x1	EC-21	5.860	Publicado	Rene Pizarro	2016-7-21 00:00:00	
+107318	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	EC-21	0	Publicado	Marcela Tello-ElDia	2016-7-21 00:00:00	

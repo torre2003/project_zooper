@@ -1,0 +1,10 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+162317	DABED Y CIA. LTDA., SELIM	Par	Cuatricromia	Generales	6x6	03	23.076	Publicado	Karina Rivera	OVA 003	2018-8-26 00:00:00	
+162502	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	3x6	05	0	Arte	Marcela Tello-ElDia	Periodismo en todos los sentimos...	2018-8-26 00:00:00	
+158753	SOCIEDAD MEDICA Y CONSULTORA ESTETI		Cuatricromia	Guia	5x2	08	13.333	Publicado	Paola Marquez	Diego Polanco	2018-8-26 00:00:00	
+161412	OSSANDON PRESTACIONES MEDICAS Y OTR			UIP	5x2	08	3.879	Publicado	Karina Rivera	MEDICO CIRUJANO ALEJANDRO MANRIQUEZ	2018-8-26 00:00:00	
+162455	EMPRESA PERIODISTICA EL NORTE S.A.	Par	Blanco y negro	Medios Regionales	6x2	08	18.204	Publicado	Medios Regionales	Andinor - Andinor Ltda. - (129617)	2018-8-26 00:00:00	
+160593	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	09	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2018-8-26 00:00:00	
+162503	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x6	11	0	Arte	Marcela Tello-ElDia	Reportero Ciudadano - El Ovallino	2018-8-26 00:00:00	
+162504	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	8x6	14	0	Arte	Marcela Tello-ElDia		2018-8-26 00:00:00	
+162350	CAMAL MUSALEM TAPIA Y CIA.	Par	Cuatricromia	Generales	34x6	16	349.656	Publicado	Marcela Tello-ElDia	Toyota - Factor Sale - Rep. 19/08	2018-8-26 00:00:00	

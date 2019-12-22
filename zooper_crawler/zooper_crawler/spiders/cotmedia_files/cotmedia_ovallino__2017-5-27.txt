@@ -1,0 +1,10 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+130326	CAMAL MUSALEM TAPIA Y CIA.	Par	Cuatricromia	Generales	17x6	03	174.777	Publicado	Marcela Tello-ElDia		2017-5-27 00:00:00	
+129959	CENTRO DE SALUD			UIP	5x4	05	5.630	Publicado	Karina Rivera	CENTRO DE SALUD PORTALES	2017-5-27 00:00:00	
+129856	JACQUELINE JOFRE VILLANUEVA			UIP	5x2	07	2.808	Publicado	Karina Rivera	Cortinas Rollers	2017-5-27 00:00:00	
+130321	CURIFOR S.A.	Impar	Blanco y negro	Generales	18x3	07	181.181	Publicado	Pedro Jaime	VENTA  ESPECIAL HYUNDAI	2017-5-27 00:00:00	
+130247	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	12x6	08	0	Arte	Marcela Tello-ElDia	Concurso Avant Premiere	2017-5-27 00:00:00	
+130248	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x6	09	0	Arte	Marcela Tello-ElDia		2017-5-27 00:00:00	
+130237	OVALLE CASINO RESORT S.A	Par	Blanco y negro	Generales	34x6	11	0	Publicado	Paola Marquez	Sociales OCR 	2017-5-27 00:00:00	
+130190	INMOBILIARIA RENACIMIENTO LTDA	Par	Cuatricromia	Generales	5x2	14	19.774	Publicado	Karina Rivera	INMOBILIARIA REQUIERE	2017-5-27 00:00:00	
+130340	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	5x6	14	0	Arte	Marcela Tello-ElDia		2017-5-27 00:00:00	

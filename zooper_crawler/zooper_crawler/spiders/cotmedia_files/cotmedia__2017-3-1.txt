@@ -1,0 +1,28 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+123701	CLARO CHILE S.A.	Impar	Cuatricromia	Generales	35x6	05	646.000	Publicado	Kathine Soto-Stgo	2017-3-1 00:00:00	
+123731	BANCO ESTADO DE CHILE	Impar	Cuatricromia	Generales	34x3	07	313.761	Publicado	Kathine Soto-Stgo	2017-3-1 00:00:00	
+123696	SOC. EDUC.DE TRASTORNOS DEL LENG. Y	Par	Blanco y negro	Generales	5x2	10	27.465	Publicado	Miguel Apey	2017-3-1 00:00:00	
+122056	OVALLE CASINO RESORT S.A	Par	Cuatricromia	Generales	25x4	11	0	Publicado	Paola Marquez	2017-3-1 00:00:00	
+123371	JAVIER VELIZ	Par	Blanco y negro	Generales	10x1	13	23.802	Publicado	Heinger Vega Torres	2017-3-1 00:00:00	
+123686	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	10x2	13	43.480	Publicado	Medios Regionales	2017-3-1 00:00:00	
+123460	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	6x2	13	26.088	Publicado	Medios Regionales	2017-3-1 00:00:00	
+122460	ARZOBISPADO DE LA SERENA	Par	Blanco y negro	Generales	5x2	14	0	Publicado	Marcela Tello-ElDia	2017-3-1 00:00:00	
+122266	DIARIO EL DIA	Par	Blanco y negro	Generales	5x2	14	0	Publicado	Marcela Tello-ElDia	2017-3-1 00:00:00	
+123597	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	5x2	14	0	Publicado	Miguel Apey	2017-3-1 00:00:00	
+123667	AGUAS DEL VALLE S.A.	Par	Blanco y negro	Generales	15x2	15	49.437	Publicado	Jacqueline Torres	2017-3-1 00:00:00	
+123692	INSTITUTO DE DESARROLLO AGROPECUARI	Par	Blanco y negro	Generales	17x3	15	126.998	Publicado	Jacqueline Torres	2017-3-1 00:00:00	
+123510	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	16	8.306	Publicado	Miguel Apey	2017-3-1 00:00:00	
+123666	SERV. DE REGISTRO CIVIL E IDENTIFIC	Par	Blanco y negro	Generales	34x6	21-22	469.000	Publicado	Jacqueline Torres	2017-3-1 00:00:00	
+56928	DIARIO EL DIA	Par	Blanco y negro	Generales	34x6	25	0	Arte	Carolina Naranjo	2017-3-1 00:00:00	
+123541	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	4x5	30	20.508	Publicado	Miguel Apey	2017-3-1 00:00:00	
+122623	SOC. COM. CENTRO NORTE LTDA.			UIP	5x1	30	7.596	Publicado	Pedro Cortes	2017-3-1 00:00:00	
+120952	CERNA E HIJOS CIA. LTDA.	Par	Blanco y negro	Generales	5x1	30	4.468	Publicado	Nadia Randolph	2017-3-1 00:00:00	
+121784	SOC. DE GES			UIP	5x1	30	8.937	Publicado	Miguel Apey	2017-3-1 00:00:00	
+123028	sercomp ruiz			UIP	5x2	30	8.936	Publicado	Marcela Tello-ElDia	2017-3-1 00:00:00	
+123119	armaq			UIP	5x1	30	8.937	Publicado	Claudio Romero	2017-3-1 00:00:00	
+123695	CHRISTIAN EDUARDO BRAVO BUSTOS	Par	Blanco y negro	Generales	12x2	31	57.983	Publicado	Pedro Jaime	2017-3-1 00:00:00	
+122207	SERVICIOS GENERALES GUAYACAN S.A	Par	Blanco y negro	Generales	4x2	31	6.666	Publicado	Jacqueline Torres	2017-3-1 00:00:00	
+122874	VELIZ CORTES JOSE A.	Par	Blanco y negro	Generales	3x2	31	13.403	Publicado	Pedro Cortes	2017-3-1 00:00:00	
+123682	ADMINISTR. CMR FALABELLA LTDA.	Impar	Cuatricromia	Contraportada	35x6	32	550.000	Publicado	M Cristina Puga	2017-3-1 00:00:00	
+123691	HOTELERIA LUIS ALBERTO BERETTA KIEK	Par	Blanco y negro	Generales	5x2	EC-20	6.061	Publicado	Patricia Villena	2017-3-1 00:00:00	
+123735	DIARIO EL DIA	Par	Blanco y negro	Generales	17x6	EC-20	0	Arte	Marcela Tello-ElDia	2017-3-1 00:00:00	

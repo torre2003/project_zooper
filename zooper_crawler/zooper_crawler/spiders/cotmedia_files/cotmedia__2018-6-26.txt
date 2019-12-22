@@ -1,0 +1,25 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+158774	JUZGADO DE GARANTIA LA SERENA	Par	Blanco y negro	Generales	15x3	06	164.790	Publicado	Pedro Jaime	2018-6-26 00:00:00	
+158784	DIARIO EL DIA	Par	Cuatricromia	Generales	17x6	09	0	Arte	Marcela Tello-ElDia	2018-6-26 00:00:00	
+157795	FUND.CENTRO DE EDUC.Y CAP.DE LA UNI	Par	Blanco y negro	Generales	10x6	11	199.946	Publicado	Miguel Apey	2018-6-26 00:00:00	
+156741	C.M. SOC. GASTRONOMICA LTDA.			UIP	5x2	13	7.208	Publicado		2018-6-26 00:00:00	
+158188	DIARIO EL DIA	Par	Blanco y negro	Generales	5x2	13	0	Publicado	Marcela Tello-ElDia	2018-6-26 00:00:00	
+157124	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	5x2	13	0	Publicado	Miguel Apey	2018-6-26 00:00:00	
+157063	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	15	8.306	Publicado	Miguel Apey	2018-6-26 00:00:00	
+158778	SUBSIDIO NACIONAL TRANSPORTE PUBLIC	Impar	Blanco y negro	Generales	14x2	15	71.775	Publicado	Jacqueline Torres	2018-6-26 00:00:00	
+158780	CALLEGARI LTDA.	Par	Blanco y negro	Generales	5x2	15	31.127	Publicado	Marcela Tello-ElDia	2018-6-26 00:00:00	
+156663	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	12x3	16	0	Publicado	Claudio Romero	2018-6-26 00:00:00	
+158785	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	16	0	Arte	Marcela Tello-ElDia	2018-6-26 00:00:00	
+158525	SANTANDER G.R.C.	Par	Blanco y negro	Generales	30x6	21	501.401	Publicado	Pedro Jaime	2018-6-26 00:00:00	
+154410	CERNA E HIJOS CIA. LTDA.	Par	Blanco y negro	Generales	5x1	25	3.566	Publicado	Nadia Randolph	2018-6-26 00:00:00	
+158788	DIARIO EL DIA	Par	Blanco y negro	Generales	5x1	25	0	Arte	Marcela Tello-ElDia	2018-6-26 00:00:00	
+157262	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	25	0	Publicado	Marcela Tello-ElDia	2018-6-26 00:00:00	
+157093	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	4x5	25	20.508	Publicado	Miguel Apey	2018-6-26 00:00:00	
+157032	SOC. DE GES			UIP	5x1	25	8.937	Publicado	Miguel Apey	2018-6-26 00:00:00	
+156863	ARMAQ SUBIRI S.A.			UIP	5x1	25	8.937	Publicado	Claudio Romero	2018-6-26 00:00:00	
+157198	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	27	0	Publicado	Marcela Tello-ElDia	2018-6-26 00:00:00	
+158789	DIARIO EL DIA	Par	Cuatricromia	Generales	34x6	28	0	Arte	Marcela Tello-ElDia	2018-6-26 00:00:00	
+158786	DIARIO EL DIA	Par	Blanco y negro	Generales	17x6	EC-19	0	Arte	Marcela Tello-ElDia	2018-6-26 00:00:00	
+158787	DIARIO EL DIA	Par	Blanco y negro	Generales	17x6	EC-20	0	Arte	Marcela Tello-ElDia	2018-6-26 00:00:00	
+157683	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Generales	5x2	EC-20	7.003	Publicado	Rene Pizarro	2018-6-26 00:00:00	
+152108	HOTELERIA LUIS ALBERTO BERETTA KIEK	Par	Blanco y negro	Generales	5x2	EC-20	6.061	Publicado	Patricia Villena	2018-6-26 00:00:00	

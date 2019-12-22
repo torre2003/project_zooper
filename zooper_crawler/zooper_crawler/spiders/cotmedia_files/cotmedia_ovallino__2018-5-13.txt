@@ -1,0 +1,13 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+155377	SOCIEDAD DE RENTAS FALABELLA S.A	Par	Cuatricromia	Generales	35x6	03	400.000	Publicado	M Cristina Puga	Open Plaza / amigos open	2018-5-13 00:00:00	
+156080	DANIEL NU?EZ ARANCIBIA	Par	Cuatricromia	Ed.Especial	17x3	05	80.000	Publicado	Karina Rivera		2018-5-13 00:00:00	
+156072	JUAN CARLOS CODOCEO CONTRERAS	Par	Cuatricromia	Ed.Especial	10x3	05	40.000	Publicado	Karina Rivera	SALUDO CORE JUAN CARLOS	2018-5-13 00:00:00	
+131315	SOCIEDAD MEDICA Y CONSULTORA ESTETI		Cuatricromia	Guia	5x2	06	13.333	Publicado	Maria_Amelia Hermosilla	Diego Polanco	2018-5-13 00:00:00	
+156010	TV CABLE COLOR	Par	Cuatricromia	Ed.Especial	10x3	06	0	Arte	Karina Rivera	CABLE COLOR 	2018-5-13 00:00:00	
+155911	WLADIMIR PLETICOSIC	Par	Cuatricromia	Generales	10x3	09	40.000	Publicado	Karina Rivera	SALUDO DIA DE LA MADRE	2018-5-13 00:00:00	
+155804	LIDIA ZAPATA	Par	Cuatricromia	Ed.Especial	10x3	09	40.000	Publicado	Karina Rivera	SALUDO LIDIA ZAPATA	2018-5-13 00:00:00	
+156118	CAMAL MUSALEM TAPIA Y CIA.	Par	Cuatricromia	Generales	34x4	11	233.104	Publicado	Marcela Tello-ElDia		2018-5-13 00:00:00	
+156122	ALETHIA SOPHIA MERCADO GOMEZ	Par	Cuatricromia	Generales	5x2	11	7.500	Publicado	Karina Rivera	SPA MEDICO Y DENTAL (UIP COLOR)	2018-5-13 00:00:00	
+156125	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	8x6	13	0	Arte	Marcela Tello-ElDia		2018-5-13 00:00:00	
+154995	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	14	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2018-5-13 00:00:00	
+156006	EMPRESA PERIODISTICA EL NORTE S.A.	Par	Cuatricromia	Medios Regionales	32x6	16	367.130	Arte	Medios Regionales	Impar - Fibra Optica - Forward Media Chile S.P.A. - (68548)	2018-5-13 00:00:00	

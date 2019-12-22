@@ -1,0 +1,32 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+104491	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	05	0	Publicado	Marcela Tello-ElDia	2016-6-8 00:00:00	
+104484	CIDERE IV REGION	Impar	Blanco y negro	Generales	17x3	05	168.086	Publicado	Patricia Villena	2016-6-8 00:00:00	
+104463	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	10	0	Arte	Marcela Tello-ElDia	2016-6-8 00:00:00	
+104447	CIA. GENERAL DE CONSTRUCCIONES CGC.	Par	Cuatricromia	Generales	10x6	11	184.565	Publicado	Miguel Apey	2016-6-8 00:00:00	
+103885	SERVICIO TRANSPORTES SERENA MAR CAR	Par	Cuatricromia	Generales	17x3	12	0	Publicado	Marcela Tello-ElDia	2016-6-8 00:00:00	
+103903	ILUSTRE MUNICIPALIDAD DE LA SERENA	Par	Blanco y negro	Generales	17x3	12	126.999	Publicado	M Cristina Puga	2016-6-8 00:00:00	
+103905	CENTRO TECNICO ACUARELA LTDA.	Par	Blanco y negro	Generales	5x2	15	20.141	Publicado	Rene Pizarro	2016-6-8 00:00:00	
+104059	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	5x2	15	0	Publicado	Miguel Apey	2016-6-8 00:00:00	
+101977	DIARIO EL DIA	Par	Blanco y negro	Generales	5x2	15	0	Publicado	Marcela Tello-ElDia	2016-6-8 00:00:00	
+104482	DIARIO EL DIA	Par	Cuatricromia	Centrales	35x6	16	0	Publicado	Jacqueline Torres	2016-6-8 00:00:00	
+104481	DIARIO EL DIA	Par	Cuatricromia	Centrales	35x6	17	0	Publicado	Jacqueline Torres	2016-6-8 00:00:00	
+103799	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	19	8.306	Publicado	Miguel Apey	2016-6-8 00:00:00	
+103647	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	24	0	Publicado	Marcela Tello-ElDia	2016-6-8 00:00:00	
+104424	DIARIO EL DIA	Par	Blanco y negro	Generales	35x6	25	0	Publicado	Carolina Naranjo	2016-6-8 00:00:00	
+103829	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	4x5	29	20.508	Publicado	Miguel Apey	2016-6-8 00:00:00	
+104365	GABRIEL ESPINOZA			UIP	5x1	30	8.937	Publicado	Pedro Jaime	2016-6-8 00:00:00	
+104323	AREVALO CARMEN			UIP	5x1	30	8.937	Publicado	Pedro Jaime	2016-6-8 00:00:00	
+100549	SOC.COMERCIAL ALTOS LA SERENA LTDA	Par	Blanco y negro	Generales	5x2	30	8.937	Publicado	Nadia Randolph	2016-6-8 00:00:00	
+103712	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	30	0	Publicado	Marcela Tello-ElDia	2016-6-8 00:00:00	
+102128	CERNA E HIJOS CIA. LTDA.	Par	Blanco y negro	Generales	5x1	30	4.524	Publicado	Nadia Randolph	2016-6-8 00:00:00	
+102778	SERVICIOS GASTRON?MICOS LA CASONA D	Par	Blanco y negro	Generales	5x2	30	10.725	Publicado	Miguel Apey	2016-6-8 00:00:00	
+104010	SOC. COMERCIAL ALCAPARRA LTDA.	Par	Blanco y negro	Generales	5x2	30	10.440	Publicado	Patricia Villena	2016-6-8 00:00:00	
+103942	ARMAQ			UIP	5x1	30	8.937	Publicado	Claudio Romero	2016-6-8 00:00:00	
+103330	ventur			UIP	5x1	30	8.937	Publicado	Maria_Amelia Hermosilla	2016-6-8 00:00:00	
+103561	SOC. DE GESTION MEDITERRANEA			UIP	5x1	30	8.937	Publicado	Miguel Apey	2016-6-8 00:00:00	
+104175	VELIZ CORTES JOSE A.	Par	Blanco y negro	Generales	3x2	31	13.403	Publicado	Pedro Cortes	2016-6-8 00:00:00	
+104285	SERVICIOS GENERALES GUAYACAN S.A	Par	Blanco y negro	Generales	4x2	31	6.666	Publicado	Jacqueline Torres	2016-6-8 00:00:00	
+104206	DIARIO EL DIA	Par	Blanco y negro	Generales	5x2	EC-21	0	Publicado	Marcela Tello-ElDia	2016-6-8 00:00:00	
+103916	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Generales	5x1	EC-22	5.860	Publicado	Rene Pizarro	2016-6-8 00:00:00	
+100930	HOTELERIA LUIS ALBERTO BERETTA KIEK	Par	Blanco y negro	Generales	5x2	EC-22	8.937	Publicado	Patricia Villena	2016-6-8 00:00:00	
+104503	DIARIO EL DIA	Par	Cuatricromia	Generales	17x6	EC-22	0	Publicado	Marcela Tello-ElDia	2016-6-8 00:00:00	

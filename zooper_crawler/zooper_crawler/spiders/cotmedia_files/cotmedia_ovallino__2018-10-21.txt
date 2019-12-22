@@ -1,0 +1,12 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+164496	CAMPOS DEL NORTE S.A.	Par	Cuatricromia	Generales	5x6	01	23.333	Publicado	Patricia Villena	Franja Enjoy Portada EL Ovallino	2018-10-21 00:00:00	
+168038	CAMAL MUSALEM TAPIA Y CIA.	Par	Cuatricromia	Generales	19x6	03	195.396	Publicado	Marcela Tello-ElDia	Toyota New Fortuner	2018-10-21 00:00:00	
+167310	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	6x6	04	0	Publicado	Marcela Tello-ElDia	Descuentos Entradas Cinemark	2018-10-21 00:00:00	
+168172	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	3x6	05	0	Arte	Marcela Tello-ElDia	Periodismo en todos los sentimos...	2018-10-21 00:00:00	
+158761	SOCIEDAD MEDICA Y CONSULTORA ESTETI		Cuatricromia	Guia	5x2	06	13.333	Publicado	Paola Marquez	Diego Polanco	2018-10-21 00:00:00	
+168034	AGRICOLA NORTE TALINAY LTDA	Par	Blanco y negro	Generales	5x2	06	30.605	Publicado	Paola Marquez		2018-10-21 00:00:00	
+168173	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	10x3	07	0	Arte	Marcela Tello-ElDia	Nos trasladamos para prestarles un mejor servicio...	2018-10-21 00:00:00	
+168115	DABED Y CIA. LTDA., SELIM	Par	Cuatricromia	Generales	6x6	08	23.076	Publicado	Karina Rivera	OVA 2	2018-10-21 00:00:00	
+167572	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x6	09	0	Publicado	Marcela Tello-ElDia		2018-10-21 00:00:00	
+168130	AGUAS DEL VALLE S.A.	Par	Cuatricromia	Generales	17x6	11	280.000	Publicado	Jacqueline Torres	SOCIALES.....	2018-10-21 00:00:00	
+164709	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	14	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2018-10-21 00:00:00	

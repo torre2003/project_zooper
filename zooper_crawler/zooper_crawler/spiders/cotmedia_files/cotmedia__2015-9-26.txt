@@ -1,0 +1,41 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+85059	ENTEL PCS	Impar	Cuatricromia	Generales	35x6	05	645.977	Publicado	Kathine Soto-Stgo	2015-9-26 00:00:00	
+84856	ARRENDADORA DE VEHICULOS LTDA	Impar	Cuatricromia	Generales	17x6	07	317.526	Publicado	M Cristina Puga	2015-9-26 00:00:00	
+85145	CALLEGARI LTDA.	Par	Cuatricromia	Generales	17x6	08	285.498	Publicado	Marcela Tello-ElDia	2015-9-26 00:00:00	
+85100	HERMANAS CALLEGARI LTDA.	Par	Cuatricromia	Generales	34x6	09	0	Arte	Marcela Tello-ElDia	2015-9-26 00:00:00	
+83554	MARTIN JURE PATRICIA	Par	Cuatricromia	Generales	6x6	10	0	Publicado	Marcela Tello-ElDia	2015-9-26 00:00:00	
+84882	COMERCIAL CHRYSLER S.A.	Impar	Cuatricromia	Generales	17x6	11	412.500	Publicado	Kathine Soto-Stgo	2015-9-26 00:00:00	
+83406	DIARIO EL DIA	Par	Cuatricromia	Generales	12x2	12	0	Publicado	Marcela Tello-ElDia	2015-9-26 00:00:00	
+85074	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	10x2	12	47.260	Publicado	Medios Regionales	2015-9-26 00:00:00	
+85090	DIARIO EL DIA	Par	Blanco y negro	Generales	5x2	13	0	Publicado	Marcela Tello-ElDia	2015-9-26 00:00:00	
+83423	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	10x3	13	0	Publicado	Marcela Tello-ElDia	2015-9-26 00:00:00	
+84907	DIARIO EL DIA	Par	Blanco y negro	Generales	5x2	14	0	Publicado	M Cristina Puga	2015-9-26 00:00:00	
+84914	SERV. VIVIENDA Y URBANIZACION IV RE	Par	Blanco y negro	Generales	10x2	14	59.959	Publicado	Marcela Tello-ElDia	2015-9-26 00:00:00	
+84915	SERV. VIVIENDA Y URBANIZACION IV RE	Par	Blanco y negro	Generales	10x2	14	59.959	Publicado	Marcela Tello-ElDia	2015-9-26 00:00:00	
+85067	TESORERIA PROVINCIAL DE COQUIMBO	Par	Blanco y negro	Generales	17x6	15	0	Publicado	Marcela Tello-ElDia	2015-9-26 00:00:00	
+83968	CARAT CHILE S.A.	Impar	Cuatricromia	Generales	17x6	16	330.000	Publicado	Kathine Soto-Stgo	2015-9-26 00:00:00	
+83070	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	16	8.306	Publicado	Miguel Apey	2015-9-26 00:00:00	
+85144	CALLEGARI LTDA.	Par	Cuatricromia	Generales	17x6	22	285.498	Publicado	Marcela Tello-ElDia	2015-9-26 00:00:00	
+85099	BANCO DE CHILE	Impar	Cuatricromia	Generales	35x6	23	0	Publicado	Patricia Villena	2015-9-26 00:00:00	
+85136	COMPA?IA GENERAL DE ELECTRICIDAD S.	Impar	Cuatricromia	Generales	35x6	25	742.874	Publicado	Kathine Soto-Stgo	2015-9-26 00:00:00	
+85020	AUTOMOTORES GILDEMEISTER S.A.	Impar	Cuatricromia	Generales	17x6	27	360.825	Publicado	Kathine Soto-Stgo	2015-9-26 00:00:00	
+79725	DIARIO EL DIA	Par	Cuatricromia	Generales	5x6	28	0	Publicado	Marcela Tello-ElDia	2015-9-26 00:00:00	
+84641	CERNA E HIJOS CIA. LTDA.	Par	Blanco y negro	Generales	5x1	29	4.468	Publicado	Nadia Randolph	2015-9-26 00:00:00	
+82994	SOC. COMERCIAL ALCAPARRA LTDA.	Par	Blanco y negro	Generales	5x2	29	10.440	Publicado	Patricia Villena	2015-9-26 00:00:00	
+83326	ARMAQ 			UIP	5x1	29	8.937	Publicado	Claudio Romero	2015-9-26 00:00:00	
+83474	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	29	0	Publicado	Marcela Tello-ElDia	2015-9-26 00:00:00	
+83498	PILLA LA VACA	Par	Blanco y negro	Generales	5x2	29	0	Publicado	Marcela Tello-ElDia	2015-9-26 00:00:00	
+83523	DIARIO EL DIA	Par	Blanco y negro	Generales	5x2	29	0	Publicado	Marcela Tello-ElDia	2015-9-26 00:00:00	
+85029	desiderio lisboa  eirl			UIP	5x2	29	17.875	Publicado	Claudio Romero	2015-9-26 00:00:00	
+84542	GALLARDO Y			UIP	5x1	29	8.937	Publicado	Claudio Romero	2015-9-26 00:00:00	
+84154	soc. comercial e inv. alto la seren			UIP	5x2	29	8.937	Publicado	Nadia Randolph	2015-9-26 00:00:00	
+84335	AUTOMOTORES DEL NORTE	Par	Blanco y negro	Generales	5x1	29	7.427	Publicado	Miguel Apey	2015-9-26 00:00:00	
+84460	SOC. DE GESTION MEDITERRANEA			UIP	5x1	29	8.937	Publicado	Miguel Apey	2015-9-26 00:00:00	
+83670	SERVICIOS GENERALES GUAYACAN S.A	Par	Blanco y negro	Generales	3x2	30	6.451	Publicado	Jacqueline Torres	2015-9-26 00:00:00	
+85110	LENIN CASTILLO SEPULVEDA	Par	Blanco y negro	Generales	12x2	30	62.665	Publicado	Pedro Jaime	2015-9-26 00:00:00	
+82566	FALABELLA RETAIL S.A.	Impar	Cuatricromia	Contraportada	35x6	32	600.000	Publicado	M Cristina Puga	2015-9-26 00:00:00	
+83896	ULISES DEL CARMEN SALINAS			UIP	5x2	EC-17	17.875	Publicado	Pedro Jaime	2015-9-26 00:00:00	
+85118	SOC. COLEGIO GABRIELA MISTRAL COQUI	Par	Blanco y negro	Generales	5x2	EC-18	29.480	Publicado	Miguel Apey	2015-9-26 00:00:00	
+83256	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Generales	5x1	EC-19	5.860	Publicado	Rene Pizarro	2015-9-26 00:00:00	
+85123	SERV. NACIONAL DE LA MUJER	Par	Blanco y negro	Generales	12x3	EC-19	0	Publicado	Jacqueline Torres	2015-9-26 00:00:00	
+84828	COMERCIAL E.C.C.S.A.  S.A.		9 a 24 pag.	Inserto	x	INS	459.000	Publicado	M Cristina Puga	2015-9-26 00:00:00	

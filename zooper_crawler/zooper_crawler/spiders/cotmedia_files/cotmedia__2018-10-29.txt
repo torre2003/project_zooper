@@ -1,0 +1,28 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+168943	INVERSIONES NEORENTAS LA SERENA SPA	Home	Banner Cabecera	Web	x		300.000	Arte	Patricia Villena	2018-10-29 00:00:00	
+168343	INMOBIL. LA SERENA GOLF S.A.	Par	Cuatricromia	Generales	17x6	05	0	Arte	Patricia Villena	2018-10-29 00:00:00	
+167300	DIARIO EL DIA	Par	Cuatricromia	Generales	6x6	06	0	Publicado	Marcela Tello-ElDia	2018-10-29 00:00:00	
+168075	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Cuatricromia	Medios Regionales	16x6	07	324.840	Publicado	Medios Regionales	2018-10-29 00:00:00	
+168207	DIARIO EL DIA	Par	Cuatricromia	Generales	12x6	09	0	Publicado	Marcela Tello-ElDia	2018-10-29 00:00:00	
+168110	DABED Y CIA. LTDA., SELIM	Par	Cuatricromia	Generales	6x6	10	27.690	Publicado	Karina Rivera	2018-10-29 00:00:00	
+163567	C.M. SOC. GASTRONOMICA LTDA.			UIP	5x2	13	7.208	Publicado		2018-10-29 00:00:00	
+164440	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	4x5	13	20.508	Publicado	Miguel Apey	2018-10-29 00:00:00	
+164758	INVERSIONES ALTA CRUZ LTDA	Par	Blanco y negro	Generales	5x2	13	0	Publicado	Marcela Tello-ElDia	2018-10-29 00:00:00	
+164719	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	13	0	Publicado	Marcela Tello-ElDia	2018-10-29 00:00:00	
+164622	PAMELA B. GONZALEZ LIZAMA COMERCIAL	Par	Blanco y negro	Generales	5x2	19	0	Publicado	Marcela Tello-ElDia	2018-10-29 00:00:00	
+164949	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	5x2	19	0	Publicado	Miguel Apey	2018-10-29 00:00:00	
+168352	INMOBIL. LA SERENA GOLF S.A.	Par	Blanco y negro	Generales	5x2	19	0	Arte	Patricia Villena	2018-10-29 00:00:00	
+167359	HABITA INMOBILIARIA SA	Par	Cuatricromia	Generales	17x6	21	0	Publicado	Miguel Apey	2018-10-29 00:00:00	
+164653	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	22	0	Publicado	Marcela Tello-ElDia	2018-10-29 00:00:00	
+168382	BENITO ROBLEDO VERGARA			UIP	5x2	26	15.266	Publicado	Paola Marquez	2018-10-29 00:00:00	
+164409	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	26	8.306	Publicado	Miguel Apey	2018-10-29 00:00:00	
+168085	ARZOBISPADO DE LA SERENA	Par	Blanco y negro	Generales	10x2	26	0	Publicado	Marcela Tello-ElDia	2018-10-29 00:00:00	
+164452	LABORATORIO CLINICO STA. MARIA LA S	Par	Blanco y negro	Generales	6x2	26	7.470	Publicado	Miguel Apey	2018-10-29 00:00:00	
+168872	DIARIO EL DIA	Par	Blanco y negro	Generales	6x6	29	0	Arte	Marcela Tello-ElDia	2018-10-29 00:00:00	
+168424	CLARO CHILE S.A.	Impar	Cuatricromia	Generales	35x6	32	500.000	Publicado	Kathine Soto-Stgo	2018-10-29 00:00:00	
+168409	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	10x2	EC-23	45.660	Arte	Medios Regionales	2018-10-29 00:00:00	
+168459	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	8x2	EC-23	36.528	Arte	Medios Regionales	2018-10-29 00:00:00	
+168394	SOTRALITUR S.A.	Par	Blanco y negro	Generales	7x2	EC-24	44.538	Publicado	Pedro Jaime	2018-10-29 00:00:00	
+168431	REMATES RINEL SPA	Par	Blanco y negro	Generales	9x3	EC-24	83.194	Publicado	Pedro Jaime	2018-10-29 00:00:00	
+166149	HOTELERIA LUIS ALBERTO BERETTA KIEK	Par	Blanco y negro	Generales	5x2	EC-24	6.061	Publicado	Patricia Villena	2018-10-29 00:00:00	
+164913	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Generales	5x2	EC-24	7.003	Publicado	Rene Pizarro	2018-10-29 00:00:00	

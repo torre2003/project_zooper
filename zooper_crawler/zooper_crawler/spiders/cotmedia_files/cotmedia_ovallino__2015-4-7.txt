@@ -1,0 +1,5 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+73019	CENCOSUD ADMINISTRADORAS DE TARJETA	Impar	Cuatricromia	Generales	35x3	03	200.000	Publicado	M Cristina Puga	Tarjeta cencosud	2015-4-7 00:00:00	
+72351	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	10x3	07	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2015-4-7 00:00:00	
+71811	marcelo corral			UIP	5x2	08	2.808	Publicado	Leonel Pizarro-Ovalle	arrienda	2015-4-7 00:00:00	
+70807	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x3	09	0	Publicado	Marcela Tello-ElDia		2015-4-7 00:00:00	

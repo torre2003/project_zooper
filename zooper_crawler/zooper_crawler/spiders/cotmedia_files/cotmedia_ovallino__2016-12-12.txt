@@ -1,0 +1,13 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+117589	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	6x6	01	16.065	Publicado	Claudio Romero	Muebles Alpina	2016-12-12 00:00:00	
+118614	OMD CHILE S.A.	Impar	Cuatricromia	Generales	35x6	03	445.386	Publicado	Patricia Villena		2016-12-12 00:00:00	
+115485	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	05	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2016-12-12 00:00:00	
+117853	OVALLEMAR			UIP	5x2	06	3.958	Publicado	Karina Rivera	OVALLE MAR	2016-12-12 00:00:00	
+118307	COMERCIAL AVA 			UIP	10x2	06	7.882	Publicado	Karina Rivera	E BODY OVALLE	2016-12-12 00:00:00	
+118695				UIP	10x2	06	5.630	Publicado	Karina Rivera	ESTETICA CARLA FIGUEROA	2016-12-12 00:00:00	
+118639	ILUSTRE MUNICIPALIDAD DE OVALLE	Par	Blanco y negro	Generales	14x2	07	65.912	Publicado	Karina Rivera	REMATE MUNICIPALIDAD OVALLE	2016-12-12 00:00:00	
+118709	DABED Y CIA. LTDA., SELIM	Par	Cuatricromia	Generales	6x6	08	23.077	Publicado	Karina Rivera	VENTA NOCTURNA DABED MOTOS	2016-12-12 00:00:00	
+118686	CENTRO DE FORMACION TECNICA SANTO T	Par	Cuatricromia	Generales	35x6	09	300.000	Publicado	Claudio Romero		2016-12-12 00:00:00	
+118763	CONSTRUCTORA CADEL LTDA.	Par	Cuatricromia	Generales	34x6	11	250.000	Publicado	Rene Pizarro		2016-12-12 00:00:00	
+118579	CABARET Y SALON DE ESPECTACULOS ART			UIP	10x2	14	5.517	Publicado	Karina Rivera	PARADISE CLUB	2016-12-12 00:00:00	
+118737	EMPRESAS LA POLAR S.A.	Impar	Cuatricromia	Generales	35x6	16	252.000	Publicado	Patricia Villena	La Polar Contraportada o primera impar	2016-12-12 00:00:00	

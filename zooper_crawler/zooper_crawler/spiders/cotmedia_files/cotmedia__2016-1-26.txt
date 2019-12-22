@@ -1,0 +1,27 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+94401	INMOBIL. E INVERSIONES AREYUNA E HI	Par	Cuatricromia	Generales	35x6		500.000	Arte	Claudio Romero	2016-1-26 00:00:00	
+92986	CHRISTIAN LAURITZ MARIN	Par	Blanco y negro	Generales	4x2	04	6.667	Publicado	Jacqueline Torres	2016-1-26 00:00:00	
+94385	MANANTIAL S.A	Impar	Cuatricromia	Generales	17x6	05	407.889	Publicado	Kathine Soto-Stgo	2016-1-26 00:00:00	
+94217	SALINAS Y FABRES S.A.	Impar	Cuatricromia	Generales	17x6	09	251.009	Publicado	M Cristina Puga	2016-1-26 00:00:00	
+92334	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	5x2	15	0	Publicado	Miguel Apey	2016-1-26 00:00:00	
+93289	DIARIO EL DIA	Par	Blanco y negro	Generales	5x2	15	0	Publicado	Marcela Tello-ElDia	2016-1-26 00:00:00	
+92130	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	16	8.306	Publicado	Miguel Apey	2016-1-26 00:00:00	
+94405	DIARIO EL DIA	Par	Blanco y negro	Generales	17x6	24	0	Publicado	Marcela Tello-ElDia	2016-1-26 00:00:00	
+94220	deside			UIP	5x2	30	17.875	Publicado	Claudio Romero	2016-1-26 00:00:00	
+94066	BALSA			UIP	5x2	30	17.875	Publicado	Claudio Romero	2016-1-26 00:00:00	
+93918	royal pe			UIP	5x2	30	17.875	Publicado	Paola Marquez	2016-1-26 00:00:00	
+93905	AUTOMOTORES DEL NORTE	Par	Blanco y negro	Generales	5x1	30	7.427	Publicado	Miguel Apey	2016-1-26 00:00:00	
+93572	DELIA ALFARO RAMIREZ	Par	Blanco y negro	Generales	5x1	30	8.937	Publicado	Claudio Romero	2016-1-26 00:00:00	
+91071	CERNA E HIJOS CIA. LTDA.	Par	Blanco y negro	Generales	5x1	30	4.492	Publicado	Nadia Randolph	2016-1-26 00:00:00	
+92064	DIARIO EL DIA	Par	Blanco y negro	Generales	5x2	30	0	Publicado	Marcela Tello-ElDia	2016-1-26 00:00:00	
+92947	CARLOS DAVILA			UIP	5x1	30	8.937	Publicado	Pedro Jaime	2016-1-26 00:00:00	
+92686	SOC. DE GESTION MEDITERRANEA			UIP	5x1	30	8.937	Publicado	Miguel Apey	2016-1-26 00:00:00	
+92474	ARMAQ			UIP	5x1	30	8.937	Publicado	Claudio Romero	2016-1-26 00:00:00	
+91289	Alejandro ra			UIP	5x1	30	4.467	Publicado	M Cristina Puga	2016-1-26 00:00:00	
+92173	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	4x5	30	20.508	Publicado	Miguel Apey	2016-1-26 00:00:00	
+91604	SOC. COMERCIAL ALCAPARRA LTDA.	Par	Blanco y negro	Generales	5x2	30	10.440	Publicado	Patricia Villena	2016-1-26 00:00:00	
+92008	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	30	0	Publicado	Marcela Tello-ElDia	2016-1-26 00:00:00	
+93328	SERVICIOS GENERALES GUAYACAN S.A	Par	Blanco y negro	Generales	3x2	31	6.470	Publicado	Jacqueline Torres	2016-1-26 00:00:00	
+94377	KOE FAST & EASY CAPACITACION PARA C	89 Palabras		Propiedades	x	EC	14.240	Publicado	Pedro Jaime	2016-1-26 00:00:00	
+92388	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Generales	5x1	EC-19	5.860	Publicado	Rene Pizarro	2016-1-26 00:00:00	
+94406	DIARIO EL DIA	Par	Cuatricromia	Generales	34x6	EC-19	0	Publicado	Marcela Tello-ElDia	2016-1-26 00:00:00	

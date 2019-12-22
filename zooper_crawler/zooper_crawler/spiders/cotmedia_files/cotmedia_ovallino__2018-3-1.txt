@@ -1,0 +1,8 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+151011	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	08	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2018-3-1 00:00:00	
+151126	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	5x6	09	0	Publicado	Marcela Tello-ElDia	Cupones de Descuentos - Cinemark	2018-3-1 00:00:00	
+151129	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	3x6	10	0	Publicado	Marcela Tello-ElDia		2018-3-1 00:00:00	
+151128	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x6	12	0	Publicado	Marcela Tello-ElDia	En la comodidad de su hogar...	2018-3-1 00:00:00	
+150535	VELIZ CORTES JOSE A.			UIP	5x2	15	4.695	Publicado	Pedro Cortes		2018-3-1 00:00:00	
+151130	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	5x6	15	0	Publicado	Marcela Tello-ElDia		2018-3-1 00:00:00	
+149425	INMOBILIARIA CALEUCHE LTDA	Home	Box Derecho	Web	0x0	WEB	200.000	Publicado	Paola Marquez		2018-3-1 00:00:00	

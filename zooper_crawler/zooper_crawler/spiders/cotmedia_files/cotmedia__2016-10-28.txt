@@ -1,0 +1,59 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+113138	CHRISTIAN LAUNITZ MARIN SERVICIOS M	Par	Blanco y negro	Generales	4x2	04	6.464	Publicado	Jacqueline Torres	2016-10-28 00:00:00	
+114857	EMPRESAS LA POLAR S.A.	Impar	Cuatricromia	Generales	35x6	05	504.000	Publicado	Patricia Villena	2016-10-28 00:00:00	
+114860	INMOBIL. E INVERSIONES AREYUNA E HI	Par	Cuatricromia	Generales	35x6	09	333.334	Publicado	Claudio Romero	2016-10-28 00:00:00	
+115048	DIARIO EL DIA	Par	Cuatricromia	Generales	17x6	10	0	Publicado	Marcela Tello-ElDia	2016-10-28 00:00:00	
+114854	SUB-SECRETARIA DEL MINISTERIO DE ED	Impar	Blanco y negro	Generales	16x3	11	210.932	Publicado	Kathine Soto-Stgo	2016-10-28 00:00:00	
+112694	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	5x2	12	0	Publicado	Miguel Apey	2016-10-28 00:00:00	
+114726	ARZOBISPADO DE LA SERENA	Par	Blanco y negro	Generales	5x2	12	0	Publicado	Marcela Tello-ElDia	2016-10-28 00:00:00	
+114275	GESTION NORTE	Par	Blanco y negro	Generales	5x2	12	9.280	Publicado	Patricia Villena	2016-10-28 00:00:00	
+114889	SERVICIOS TASUI S.A.	Par	Blanco y negro	Generales	5x2	14	36.620	Publicado	Rene Pizarro	2016-10-28 00:00:00	
+115039	INVERSIONES VEINTINUEVE GRADOS	Par	Blanco y negro	Generales	6x4	14	9.280	Publicado	Patricia Villena	2016-10-28 00:00:00	
+114826	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	15	0	Publicado	Marcela Tello-ElDia	2016-10-28 00:00:00	
+114489	SOC. INMOBILIARIA E INVERSIONES CHI	Par	Cuatricromia	Generales	17x3	15	183.027	Publicado	Claudio Romero	2016-10-28 00:00:00	
+114441	OVALLE CASINO RESORT S.A	Par	Cuatricromia	Generales	25x4	16	205.072	Publicado	Paola Marquez	2016-10-28 00:00:00	
+114159	OVALLE CASINO RESORT S.A	Par	Cuatricromia	Generales	25x4	17	205.072	Publicado	Paola Marquez	2016-10-28 00:00:00	
+107686	UNIVERSIDAD TECNOLOGICA DE CHILE	Impar	Cuatricromia	Generales	17x6	19	497.699	Publicado	Patricia Villena	2016-10-28 00:00:00	
+115020	CONGREGACION HERMANAS DE LA PROVIDE	Par	Blanco y negro	Generales	12x2	20	61.521	Publicado	Jacqueline Torres	2016-10-28 00:00:00	
+115036	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	21	0	Publicado	Marcela Tello-ElDia	2016-10-28 00:00:00	
+114882	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	21	0	Publicado	Marcela Tello-ElDia	2016-10-28 00:00:00	
+115049	DIARIO EL DIA	Par	Cuatricromia	Generales	34x6	23	0	Publicado	Marcela Tello-ElDia	2016-10-28 00:00:00	
+112576	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	24	8.306	Publicado	Miguel Apey	2016-10-28 00:00:00	
+113188	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	24	0	Publicado	Marcela Tello-ElDia	2016-10-28 00:00:00	
+114403	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Cuatricromia	Medios Regionales	16x6	25	309.344	Publicado	Medios Regionales	2016-10-28 00:00:00	
+113436	SERVICIOS GASTRON?MICOS LA CASONA D	Par	Blanco y negro	Generales	5x2	31	10.725	Publicado	Miguel Apey	2016-10-28 00:00:00	
+113276	MARTIN JURE PATRICIA	Par	Cuatricromia	Generales	5x3	31	0	Publicado	Marcela Tello-ElDia	2016-10-28 00:00:00	
+113258	PILLA LA VACA	Par	Cuatricromia	Generales	5x2	31	0	Publicado	Marcela Tello-ElDia	2016-10-28 00:00:00	
+113160	SOC. HOTELERA VICHUQUEN LTDA.	Par	Cuatricromia	Generales	5x3	31	0	Publicado	Marcela Tello-ElDia	2016-10-28 00:00:00	
+112624	HOTEL COSTA REAL	Par	Cuatricromia	Generales	10x2	31	30.761	Publicado	Miguel Apey	2016-10-28 00:00:00	
+112543	BAKULIC RESTAURANT	Par	Cuatricromia	Generales	10x2	31	24.609	Publicado	Miguel Apey	2016-10-28 00:00:00	
+115005	DIARIO EL DIA	Par	Blanco y negro	Generales	35x6	33	0	Publicado	Carolina Naranjo	2016-10-28 00:00:00	
+114541	SOC. DE GES			UIP	5x1	37	8.937	Publicado	Miguel Apey	2016-10-28 00:00:00	
+112607	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	4x5	37	20.508	Publicado	Miguel Apey	2016-10-28 00:00:00	
+114751	CERNA E HIJOS CIA. LTDA.	Par	Blanco y negro	Generales	5x1	37	4.468	Publicado	Nadia Randolph	2016-10-28 00:00:00	
+113226	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	37	0	Publicado	Marcela Tello-ElDia	2016-10-28 00:00:00	
+114645	soc.inmob			UIP	5x2	37	0	Publicado	Marcela Tello-ElDia	2016-10-28 00:00:00	
+112871	ARMAQ			UIP	5x1	37	8.937	Publicado	Claudio Romero	2016-10-28 00:00:00	
+113123	SERVICIOS GENERALES GUAYACAN S.A	Par	Blanco y negro	Generales	4x2	38	6.686	Publicado	Jacqueline Torres	2016-10-28 00:00:00	
+114062	VELIZ CORTES JOSE A.	Par	Blanco y negro	Generales	3x2	38	13.403	Publicado	Pedro Cortes	2016-10-28 00:00:00	
+114154	DAVILA CARLOS 			UIP	5x1	39	8.937	Publicado	Pedro Jaime	2016-10-28 00:00:00	
+115028	CLARO CHILE S.A.	Impar	Cuatricromia	Generales	35x6	40	646.000	Publicado	Kathine Soto-Stgo	2016-10-28 00:00:00	
+115014	SCOTIABANK CHILE S.A.	674 Palabras		Legal	x	EC	167.227	Publicado	Pedro Jaime	2016-10-28 00:00:00	
+115033	SANTANDER G.R.C.	623 Palabras		Legal	x	EC	154.622	Publicado	Pedro Jaime	2016-10-28 00:00:00	
+108930	HOTELERIA LUIS ALBERTO BERETTA KIEK	Par	Blanco y negro	Generales	5x2	EC-27	6.994	Publicado	Patricia Villena	2016-10-28 00:00:00	
+112905	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Generales	5x1	EC-27	5.860	Publicado	Rene Pizarro	2016-10-28 00:00:00	
+114883	BANCO DE CHILE	650 Palabras		Legal	x	EC-27	161.344	Publicado	Pedro Jaime	2016-10-28 00:00:00	
+114089	INVERSIONES E INMOBILIARIA P.A.T.  			Revista Cosas	0x0	RC	243.000	Publicado	Miguel Apey	2016-10-28 00:00:00	
+112758	INMOBIL. E INVERSIONES AREYUNA E HI	Par	Cuatricromia	Generales	35x6	RC	350.000	Publicado	Claudio Romero	2016-10-28 00:00:00	
+113979	INMOBILIARIA SERENA S.A.	Par	Cuatricromia	Generales	34x6	RC	500.000	Publicado	Claudio Romero	2016-10-28 00:00:00	
+114524	INMOBILIARIA ECASA CHILE S.A.	Par	Cuatricromia	VidaHogar	34x6	VH-02	398.000	Publicado	Paola Marquez	2016-10-28 00:00:00	
+114520	INMOBIL. LA SERENA GOLF S.A.	Par	Cuatricromia	VidaHogar	17x6	VH-09	366.054	Publicado	Paola Marquez	2016-10-28 00:00:00	
+115050	MARTIN JURE PATRICIA	Par	Cuatricromia	Generales	10x6	VH-11	0	Publicado	Marcela Tello-ElDia	2016-10-28 00:00:00	
+112632	INVERSIONES E INMOBILIARIA P.A.T.  	Par	Cuatricromia	Generales	34x3	VH-13	243.165	Publicado	Miguel Apey	2016-10-28 00:00:00	
+114128	CONSTRUCTORA PACAL S.A.	Par	Cuatricromia	VidaHogar	34x6	VH-15	500.000	Publicado	Paola Marquez	2016-10-28 00:00:00	
+114509	TERRITORIO LTDA	Par	Cuatricromia	VidaHogar	34x6	VH-17	300.000	Publicado	Paola Marquez	2016-10-28 00:00:00	
+114127	INMOBILIARIA ECOMAC SANTIAGO S.A.	Par	Cuatricromia	VidaHogar	17x6	VH-19	392.201	Publicado	Paola Marquez	2016-10-28 00:00:00	
+115051	DIARIO EL DIA	Par	Cuatricromia	VidaHogar	6x6	VH-20	0	Publicado	Marcela Tello-ElDia	2016-10-28 00:00:00	
+115052	DIARIO EL DIA	Par	Cuatricromia	VidaHogar	6x6	VH-21	0	Publicado	Marcela Tello-ElDia	2016-10-28 00:00:00	
+101033	INMOBILIARIA VIVIENDAS 2000 LIMITAD	Par	Blanco y negro	Generales	35x6	VH-23	500.000	Publicado	Jacqueline Torres	2016-10-28 00:00:00	
+114521	INMOBILIARIA EURO AMH S.A.	Par	Cuatricromia	VidaHogar	34x6	VH-24	750.000	Publicado	Paola Marquez	2016-10-28 00:00:00	

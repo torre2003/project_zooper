@@ -1,0 +1,48 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+153656	DIARIO EL DIA	Par	Blanco y negro	Generales	6x6	03	0	Arte	Marcela Tello-ElDia	2018-4-5 00:00:00	
+152944	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	5x2	04	0	Publicado	Miguel Apey	2018-4-5 00:00:00	
+153287	PILLA LA VACA	Par	Blanco y negro	Generales	5x2	04	0	Publicado	Marcela Tello-ElDia	2018-4-5 00:00:00	
+153364	C.M. SOC. GASTRONOMICA LTDA.			UIP	5x2	04	7.208	Publicado		2018-4-5 00:00:00	
+153658	CLARO CHILE S.A.	Impar	Cuatricromia	Generales	35x6	05	646.000	Publicado	Kathine Soto-Stgo	2018-4-5 00:00:00	
+153581	ESCUELA INDUSTRIAL SALESIANOS SAN R	Par	Blanco y negro	Generales	5x2	06	36.620	Publicado	Rene Pizarro	2018-4-5 00:00:00	
+153648	ILUSTRE MUNICIPALIDAD DE CANELA	Par	Blanco y negro	Generales	12x2	06	59.764	Publicado	Jacqueline Torres	2018-4-5 00:00:00	
+153580	CAMARA CHILENA DE LA CONSTRUCCION A	Par	Cuatricromia	Generales	17x3	06	183.027	Publicado	Jacqueline Torres	2018-4-5 00:00:00	
+152937	INMOBILIARIA ECASA CHILE S.A.	Par	Cuatricromia	Generales	34x6	07	350.000	Publicado	Paola Marquez	2018-4-5 00:00:00	
+153622	INMOBIL. E INV. EL MILAGRO S.A.	Par	Blanco y negro	Generales	17x3	08	158.748	Publicado	Claudio Romero	2018-4-5 00:00:00	
+153625	INMOBIL. E INV. EL MILAGRO S.A.	Par	Blanco y negro	Generales	10x3	08	98.874	Publicado	Claudio Romero	2018-4-5 00:00:00	
+150428	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Cuatricromia	Medios Regionales	16x6	09	324.811	Publicado	Medios Regionales	2018-4-5 00:00:00	
+153598	DIARIO EL DIA	Par	Cuatricromia	Generales	17x6	11	0	Arte	Marcela Tello-ElDia	2018-4-5 00:00:00	
+152735	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	11	8.306	Publicado	Miguel Apey	2018-4-5 00:00:00	
+153355	MOP OOPP	Par	Blanco y negro	Generales	22x2	12	161.128	Publicado	Jacqueline Torres	2018-4-5 00:00:00	
+153354	MOP OOPP	Par	Blanco y negro	Generales	22x2	12	161.128	Publicado	Jacqueline Torres	2018-4-5 00:00:00	
+152806	LABORATORIO CLINICO STA. MARIA LA S	Par	Blanco y negro	Generales	6x2	12	7.470	Publicado	Miguel Apey	2018-4-5 00:00:00	
+153638	ILUSTRE MUNICIPALIDAD DE VICUNA	Par	Blanco y negro	Generales	12x2	12	59.764	Publicado	Jacqueline Torres	2018-4-5 00:00:00	
+152506	CIA. MINERA DEL PACIFICO S.A.	Par	Blanco y negro	Generales	17x3	16	149.410	Publicado	Marcela Tello-ElDia	2018-4-5 00:00:00	
+152504	MANGANESOS ATACAMA S.A.	Par	Blanco y negro	Generales	10x2	16	58.592	Publicado	Marcela Tello-ElDia	2018-4-5 00:00:00	
+153561	DABED Y CIA. LTDA., SELIM	Impar	Cuatricromia	Generales	6x6	21	27.690	Publicado	Karina Rivera	2018-4-5 00:00:00	
+153206	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	22	0	Publicado	Marcela Tello-ElDia	2018-4-5 00:00:00	
+153333	ANDREA SOLANGE DANGELO CIRER CENTRO			UIP	5x1	23	8.937	Publicado	Paola Marquez	2018-4-5 00:00:00	
+153124	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	8x4	23	51.666	Publicado	Claudio Romero	2018-4-5 00:00:00	
+153269	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	24	0	Publicado	Marcela Tello-ElDia	2018-4-5 00:00:00	
+153417	CARLOS GALLEGUILLOS CARVAJAL			UIP	5x1	24	0	Arte	Jacqueline Torres	2018-4-5 00:00:00	
+148639	CERNA E HIJOS CIA. LTDA.	Par	Blanco y negro	Generales	5x1	24	3.574	Publicado	Nadia Randolph	2018-4-5 00:00:00	
+153091	ARMAQ SUBIRI S.A.			UIP	5x1	24	8.937	Publicado	Claudio Romero	2018-4-5 00:00:00	
+152778	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	4x5	24	20.508	Publicado	Miguel Apey	2018-4-5 00:00:00	
+152332	SOC. DE GES			UIP	5x1	24	8.937	Publicado	Miguel Apey	2018-4-5 00:00:00	
+153479	CAMPOS DEL NORTE S.A.	Par	Cuatricromia	Generales	17x3	27	0	Arte	Patricia Villena	2018-4-5 00:00:00	
+152522	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	27	0	Publicado	Marcela Tello-ElDia	2018-4-5 00:00:00	
+153608	FRANCISCA LOPEZ MARAMBIO	Par	Blanco y negro	Generales	12x2	29	57.983	Publicado	Marcela Tello-ElDia	2018-4-5 00:00:00	
+153602	ADMINISTR. CMR FALABELLA LTDA.	Impar	Cuatricromia	Generales	35x6	32	594.299	Publicado	M Cristina Puga	2018-4-5 00:00:00	
+153639	BANCO DE CHILE	633 Palabras		Legal	x	EC	157.143	Publicado	Pedro Jaime	2018-4-5 00:00:00	
+153657	DIARIO EL DIA	Par	Cuatricromia	Generales	9x3	EC-17	0	Arte	Marcela Tello-ElDia	2018-4-5 00:00:00	
+153634	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	8x2	EC-17	36.528	Arte	Medios Regionales	2018-4-5 00:00:00	
+152991	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	6x2	EC-18	27.396	Publicado	Medios Regionales	2018-4-5 00:00:00	
+153039	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Economico	5x2	EC-18	15.161	Publicado	Rene Pizarro	2018-4-5 00:00:00	
+152025	HOTELERIA LUIS ALBERTO BERETTA KIEK	Par	Blanco y negro	Generales	5x2	EC-18	6.061	Publicado	Patricia Villena	2018-4-5 00:00:00	
+152883	SOC. COMERCIAL VARGAS Y GIACOMET			UIP	5x1	EC-18	7.149	Publicado	Rene Pizarro	2018-4-5 00:00:00	
+153630	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	8x2	EC-18	36.528	Arte	Medios Regionales	2018-4-5 00:00:00	
+153584	GONZALEZ RIVERA MANUEL RICARDO	483 Palabras		Propiedades	x	PROP	77.280	Publicado	Pedro Jaime	2018-4-5 00:00:00	
+153582	GONZALEZ ADAROS MARIA SOLEDAD	496 Palabras		Propiedades	x	PROP	79.360	Publicado	Pedro Jaime	2018-4-5 00:00:00	
+153585	INVERSIONES PLAZHER LTDA.	90 Palabras		Propiedades	x	PROP	14.400	Publicado	Pedro Jaime	2018-4-5 00:00:00	
+153586	YOLANDA ELIAS CAMBLOR	187 Palabras		Propiedades	x	PROP	29.920	Publicado	Pedro Jaime	2018-4-5 00:00:00	
+153583	FRANCISCO CORVETTO MIRANDA PROPIEDA	3235 Palabras		Propiedades	x	PROP	517.600	Publicado	Pedro Jaime	2018-4-5 00:00:00	

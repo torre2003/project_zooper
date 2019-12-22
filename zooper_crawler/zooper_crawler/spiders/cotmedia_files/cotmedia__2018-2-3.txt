@@ -1,0 +1,46 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+149465	C.M. SOC. GASTRONOMICA LTDA.			UIP	5x2	04	7.208	Publicado		2018-2-3 00:00:00	
+148839	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	5x2	04	0	Publicado	Miguel Apey	2018-2-3 00:00:00	
+149459	SOC. EDUCACIONAL STA. TERESITA LTDA	Par	Blanco y negro	Generales	5x2	04	42.113	Publicado		2018-2-3 00:00:00	
+149780	MINERA LOS PELAMBRES	Impar	Cuatricromia	Generales	35x6	05	1.485.747	Publicado	Jacqueline Torres	2018-2-3 00:00:00	
+149122	INMOBIL. PY  S.A.	Impar	Cuatricromia	Generales	35x6	07	965.736	Publicado	Claudio Romero	2018-2-3 00:00:00	
+149179	ILUSTRE MUNICIPALIDAD DE LA SERENA	Par	Cuatricromia	Generales	17x6	08	408.935	Publicado	M Cristina Puga	2018-2-3 00:00:00	
+149381	INMOBILIARIA ECASA CHILE S.A.	Par	Cuatricromia	Generales	34x6	09	360.000	Publicado	Paola Marquez	2018-2-3 00:00:00	
+149744	INMOBILIARIA ELQUI S.A.	Par	Cuatricromia	Generales	9x6	12	0	Arte	M Cristina Puga	2018-2-3 00:00:00	
+146556	INMOBILIARIA NOLLAGAM LTDA.	Impar	Cuatricromia	Generales	17x6	13	541.237	Publicado	Paola Marquez	2018-2-3 00:00:00	
+149828	CASA DE ESTUDIOS PEDRO DE VALDIVIA 	Par	Cuatricromia	Generales	17x6	14	0	Arte	M Cristina Puga	2018-2-3 00:00:00	
+148134	INVERSIONES NEORENTAS LA SERENA SPA	Impar	Cuatricromia	Generales	17x6	15	451.031	Publicado	Paola Marquez	2018-2-3 00:00:00	
+149743	INMOBILIARIA ELQUI S.A.	Par	Cuatricromia	Generales	9x6	17	0	Arte	M Cristina Puga	2018-2-3 00:00:00	
+148420	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	17	8.306	Publicado	Miguel Apey	2018-2-3 00:00:00	
+149823	ROBERT CLARK RODRIGUEZ	Par	Blanco y negro	Generales	10x3	18	83.384	Publicado	Rene Pizarro	2018-2-3 00:00:00	
+149410	MOLINERA COQUIMBO	Par	Blanco y negro	Generales	8x2	18	28.974	Publicado	Heinger Vega Torres	2018-2-3 00:00:00	
+149876	CAMARA CHILENA DE LA CONSTRUCCION A	Par	Cuatricromia	Generales	35x6	19	0	Publicado	Marcela Tello-ElDia	2018-2-3 00:00:00	
+149706	CONSTRUCTORA SERENA LTDA.	Par	Cuatricromia	Generales	35x6	21	508.846	Publicado	Claudio Romero	2018-2-3 00:00:00	
+149798	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	22	0	Publicado	Marcela Tello-ElDia	2018-2-3 00:00:00	
+149802	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	22	0	Publicado	Marcela Tello-ElDia	2018-2-3 00:00:00	
+149737	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	10x3	23	74.435	Publicado	Medios Regionales	2018-2-3 00:00:00	
+149668	ILUSTRE MUNICIPALIDAD DE PUNITAQUI	Par	Blanco y negro	Generales	10x3	23	85.911	Publicado	Pedro Jaime	2018-2-3 00:00:00	
+149871	DIARIO EL DIA	Par	Cuatricromia	Generales	34x6	27	0	Publicado	Marcela Tello-ElDia	2018-2-3 00:00:00	
+149840	DIARIO EL DIA	Par	Cuatricromia	Generales	17x6	29	0	Publicado	Marcela Tello-ElDia	2018-2-3 00:00:00	
+149283	ARMAQ SUBIRI S.A.			UIP	5x1	30	8.937	Publicado	Claudio Romero	2018-2-3 00:00:00	
+149107	LILIAN ROE LARRA?AGA			UIP	5x1	30	8.937	Publicado	Claudio Romero	2018-2-3 00:00:00	
+148584	CERNA E HIJOS CIA. LTDA.	Par	Blanco y negro	Generales	5x1	30	3.574	Publicado	Nadia Randolph	2018-2-3 00:00:00	
+148456	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	4x5	30	20.508	Publicado	Miguel Apey	2018-2-3 00:00:00	
+147912	SOC. DE GES			UIP	5x1	30	8.937	Publicado	Miguel Apey	2018-2-3 00:00:00	
+149624	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	30	0	Publicado	Marcela Tello-ElDia	2018-2-3 00:00:00	
+149452	CAMPOS DEL NORTE S.A.	Par	Blanco y negro	Generales	17x3	35	0	Publicado	Patricia Villena	2018-2-3 00:00:00	
+149590	PILLA LA VACA	Par	Blanco y negro	Generales	5x2	35	0	Publicado	Marcela Tello-ElDia	2018-2-3 00:00:00	
+147851	VELIZ CORTES JOSE A.	Par	Blanco y negro	Generales	3x2	36	13.403	Publicado	Pedro Cortes	2018-2-3 00:00:00	
+148974	JUAN SEBASTIAN BOU LAGUNAS	Par	Blanco y negro	Generales	5x2	39	13.750	Publicado	Heinger Vega Torres	2018-2-3 00:00:00	
+148254	ESTUDIO JURIDICO OLIVARES Y CIA. SP	Par	Blanco y negro	Generales	5x2	39	12.500	Publicado	Jacqueline Torres	2018-2-3 00:00:00	
+149538	ANDREA YAZIGI SFEIR	Par	Blanco y negro	Generales	5x2	39	8.401	Publicado	Heinger Vega Torres	2018-2-3 00:00:00	
+149382	INMOBILIARIA ECASA CHILE S.A.	Par	Cuatricromia	Generales	34x6	40	360.000	Publicado	Paola Marquez	2018-2-3 00:00:00	
+148760	INMOBILIARIA CHRISTIAN ALFREDO MEND			UIP	5x2	EC-24	17.875	Publicado	Claudio Romero	2018-2-3 00:00:00	
+148777	INMOBILIARIA CHRISTIAN ALFREDO MEND			UIP	5x2	EC-24	17.875	Publicado	Claudio Romero	2018-2-3 00:00:00	
+149229	PAOLA MILLA INVERNIZZI	Par	Blanco y negro	Generales	5x2	EC-24	0	Publicado	Marcela Tello-ElDia	2018-2-3 00:00:00	
+149726	SOC. CONSTRUCTORA MELENDEZ S.A.	Par	Blanco y negro	Generales	8x2	EC-25	67.381	Publicado	Pedro Jaime	2018-2-3 00:00:00	
+149669	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	EC-25	0	Publicado	Marcela Tello-ElDia	2018-2-3 00:00:00	
+124096	HOTELERIA LUIS ALBERTO BERETTA KIEK	Par	Blanco y negro	Generales	5x2	EC-26	6.061	Publicado	Patricia Villena	2018-2-3 00:00:00	
+149806	CIA. DE LEASING TATTERSALL S.A.	Par	Blanco y negro	Generales	11x2	EC-26	69.487	Publicado	Pedro Jaime	2018-2-3 00:00:00	
+149555	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Economico	5x2	EC26	15.161	Publicado	Rene Pizarro	2018-2-3 00:00:00	
+148752	INMOBILIARIA GRUPO CHILOE LTDA.	Par	Cuatricromia	Ed.Especial	35x6	INS	705.730	Publicado	Jacqueline Torres	2018-2-3 00:00:00	

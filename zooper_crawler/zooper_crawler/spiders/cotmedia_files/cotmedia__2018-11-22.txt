@@ -1,0 +1,43 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+170563	AUTOMOTRIZ CARMONA	Home	Banner Cabecera	Web	0x0		450.000	Arte		2018-11-22 00:00:00	
+170396	BANCO ESTADO DE CHILE	Impar	Cuatricromia	Generales	35x6	05	900.000	Arte	Kathine Soto-Stgo	2018-11-22 00:00:00	
+167728	ALIMENTOS FRUNA LIMITADA	Par	Cuatricromia	Generales	17x6	06-07	150.104	Arte		2018-11-22 00:00:00	
+170411	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	08	0	Arte	Marcela Tello-ElDia	2018-11-22 00:00:00	
+170452	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	08	0	Arte	Marcela Tello-ElDia	2018-11-22 00:00:00	
+170317	SOCIEDAD DE RENTAS FALABELLA S.A	Impar	Cuatricromia	Generales	17x6	09	352.941	Arte	M Cristina Puga	2018-11-22 00:00:00	
+170329	SOC. EDUCACIONAL ANDRES BELLO LTDA.	Par	Blanco y negro	Generales	7x2	10	51.268	Arte	Pedro Jaime	2018-11-22 00:00:00	
+170393	SUBSIDIO NACIONAL TRANSPORTE PUBLIC	Par	Blanco y negro	Generales	12x2	10	61.530	Arte	Jacqueline Torres	2018-11-22 00:00:00	
+170419	HOTEL COSTA REAL	Par	Blanco y negro	Generales	5x2	10	0	Arte	Marcela Tello-ElDia	2018-11-22 00:00:00	
+170233	PROLAM YOUNG Y RIBICAM	Impar	Cuatricromia	Generales	17x6	11	395.452	Arte	M Cristina Puga	2018-11-22 00:00:00	
+170386	JORGE VEGA	Par	Cuatricromia	Generales	8x6	12	184.565	Arte		2018-11-22 00:00:00	
+170457	BANCO DE CHILE	Par	Blanco y negro	Generales	15x6	13	341.736	Arte	Pedro Jaime	2018-11-22 00:00:00	
+169056	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	13	8.306	Arte	Miguel Apey	2018-11-22 00:00:00	
+168760	PILLA LA VACA	Par	Blanco y negro	Generales	5x2	14	0	Arte	Marcela Tello-ElDia	2018-11-22 00:00:00	
+169103	LABORATORIO CLINICO STA. MARIA LA S	Par	Blanco y negro	Generales	6x2	14	7.470	Arte	Miguel Apey	2018-11-22 00:00:00	
+170286	GOTTREUX SALAS RUBEN	Par	Blanco y negro	Generales	8x2	14	46.874	Arte	Karina Rivera	2018-11-22 00:00:00	
+169126	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	5x2	15	0	Arte	Miguel Apey	2018-11-22 00:00:00	
+168819	PAMELA B. GONZALEZ LIZAMA COMERCIAL	Par	Blanco y negro	Generales	5x2	15	0	Arte	Marcela Tello-ElDia	2018-11-22 00:00:00	
+168980	ARMAQ SUBIRI S.A.			UIP	5x1	15	8.937	Arte	Claudio Romero	2018-11-22 00:00:00	
+169798	ILUSTRE MUNICIPALIDAD DE LA SERENA	Par	Blanco y negro	Generales	10x3	16	74.705	Arte	M Cristina Puga	2018-11-22 00:00:00	
+169022	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	12x3	16	51.666	Arte	Claudio Romero	2018-11-22 00:00:00	
+170437	SERVICIO LOCAL DE EDUCACION PUBLICA	Par	Blanco y negro	Generales	17x6	21	0	Arte	Jacqueline Torres	2018-11-22 00:00:00	
+168711	INVERSIONES ALTA CRUZ LTDA	Par	Blanco y negro	Generales	5x2	22	0	Arte	Marcela Tello-ElDia	2018-11-22 00:00:00	
+168646	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	22	0	Arte	Marcela Tello-ElDia	2018-11-22 00:00:00	
+169086	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	4x5	22	20.508	Arte	Miguel Apey	2018-11-22 00:00:00	
+168281	C.M. SOC. GASTRONOMICA LTDA.			UIP	5x2	22	7.208	Arte		2018-11-22 00:00:00	
+169195	DABED Y CIA. LTDA., SELIM	Par	Cuatricromia	Generales	6x6	23	27.690	Arte	Karina Rivera	2018-11-22 00:00:00	
+168512	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	24	0	Arte	Marcela Tello-ElDia	2018-11-22 00:00:00	
+170014	CAMPOS DEL NORTE S.A.	Par	Cuatricromia	Generales	17x3	27	0	Arte	Patricia Villena	2018-11-22 00:00:00	
+169501	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	27	0	Arte	Marcela Tello-ElDia	2018-11-22 00:00:00	
+170464	DIARIO EL DIA	Par	Blanco y negro	Generales	35x6	28	0	Arte	Carolina Naranjo	2018-11-22 00:00:00	
+170461	FUNDACION MARIA EDUCA	Par	Blanco y negro	Generales	5x2	29	25.210	Arte	Jacqueline Torres	2018-11-22 00:00:00	
+170463	DEL RIO VARELA JORGE	Par	Blanco y negro	Generales	12x2	29	61.522	Arte	Pedro Jaime	2018-11-22 00:00:00	
+169575	SERVICIOS GENERALES GUAYACAN S.A	Par	Blanco y negro	Generales	3x2	29	6.812	Arte	Jacqueline Torres	2018-11-22 00:00:00	
+170420	CLARO CHILE S.A.	Impar	Cuatricromia	Generales	35x6	32	646.000	Arte	Kathine Soto-Stgo	2018-11-22 00:00:00	
+170218	DEL RIO VARELA JORGE	Par	Blanco y negro	Generales	12x3	EC	92.283	Arte	Pedro Jaime	2018-11-22 00:00:00	
+170044	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	6x2	EC	27.396	Arte	Medios Regionales	2018-11-22 00:00:00	
+166173	HOTELERIA LUIS ALBERTO BERETTA KIEK	Par	Blanco y negro	Generales	5x2	EC	6.061	Arte	Patricia Villena	2018-11-22 00:00:00	
+169517	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Generales	5x2	EC	7.003	Arte	Rene Pizarro	2018-11-22 00:00:00	
+170371	SANTANDER G.R.C.	Par	Blanco y negro	Generales	10x2	EC	83.823	Arte	Pedro Jaime	2018-11-22 00:00:00	
+170306	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	8x2	EC	36.528	Arte	Medios Regionales	2018-11-22 00:00:00	
+170299	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	8x2	EC	36.528	Arte	Medios Regionales	2018-11-22 00:00:00	

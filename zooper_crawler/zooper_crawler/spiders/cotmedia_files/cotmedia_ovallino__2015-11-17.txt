@@ -1,0 +1,11 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+89294	CALLEGARI LTDA.	Par	Cuatricromia	Contraportada	5x6	01	300.000	Publicado	Marcela Tello-ElDia	AVISO PORTADA FERIA CALLEGARI	2015-11-17 00:00:00	
+88781	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	15x6	03	0	Publicado	Marcela Tello-ElDia	HAROLD MAYNE NICHOLLS	2015-11-17 00:00:00	
+88052	JOSE CONTADOR DURAN	Par	Blanco y negro	Generales	5x2	05	1.428	Publicado	Italo Retamal	arriendo local	2015-11-17 00:00:00	
+88062	socinget			UIP	10x2	05	5.630	Publicado	Italo Retamal		2015-11-17 00:00:00	
+87070	linea			UIP	10x2	05	5.630	Publicado	Italo Retamal	seguridad 	2015-11-17 00:00:00	
+87051	BIANCA DASOLI	Par	Blanco y negro	Generales	5x2	05	1.429	Publicado	Italo Retamal	tarot	2015-11-17 00:00:00	
+88697	ADA D?AZ ARAYA	Par	Blanco y negro	Generales	5x2	07	1.428	Publicado	Italo Retamal	zona ganjah	2015-11-17 00:00:00	
+88919	SANDRA PAOLA 			UIP	10x2	07	5.630	Publicado	Italo Retamal	BRISTO Y BAR 	2015-11-17 00:00:00	
+89287	JUAN CARLOS AQUEZ JILES	Par	Blanco y negro	Generales	5x2	07	1.429	Publicado	Italo Retamal	Capacitaciones 	2015-11-17 00:00:00	
+89083	RIO L			UIP	10x6	09	16.260	Publicado	Claudio Romero	PROYECTO MIRADOR OVALLE..	2015-11-17 00:00:00	

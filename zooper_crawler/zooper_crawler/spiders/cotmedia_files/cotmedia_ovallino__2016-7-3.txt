@@ -1,0 +1,11 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+104951	OVALLE CASINO RESORT S.A	Par	Cuatricromia	Generales	6x6	01	21.333	Publicado	Paola Marquez	Auspicio Casino Ovalle Impar	2016-7-3 00:00:00	
+106156	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x3	03	0	Arte	Marcela Tello-ElDia		2016-7-3 00:00:00	
+106212	SECRETARIA REGIONAL MINIST. DE EDUC	Par	Blanco y negro	Centrales	17x3	03	0	Publicado	Jacqueline Torres	difusion reforma educacional	2016-7-3 00:00:00	
+105441	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	10x2	05	28.900	Publicado	Medios Regionales	Tattersal - Remate Prop. BCI - (121879)	2016-7-3 00:00:00	
+95388	SOCIEDAD BUSTOS Y PROCURIZA LTDA.	Par	Blanco y negro	Generales	10x2	06	27.542	Publicado	Maria_Amelia Hermosilla	Cento	2016-7-3 00:00:00	
+102988	SOCIEDAD MEDICA Y CONSULTORA ESTETI		Cuatricromia	Guia	5x2	06	13.333	Publicado	Maria_Amelia Hermosilla	Diego Polanco	2016-7-3 00:00:00	
+106246	CAMAL MUSALEM TAPIA Y CIA.	Par	Blanco y negro	Generales	17x4	07	83.232	Publicado	Marcela Tello-ElDia	Totyota	2016-7-3 00:00:00	
+106261	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	6x6	09	0	Arte	Marcela Tello-ElDia		2016-7-3 00:00:00	
+105896	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	11	0	Arte	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2016-7-3 00:00:00	
+106262	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x6	14	0	Arte	Marcela Tello-ElDia		2016-7-3 00:00:00	

@@ -1,0 +1,8 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+94616	AUTOMOTRIZ CARMONA	Par	Cuatricromia	Generales	6x6	01	23.076	Publicado	Marcela Tello-ElDia	Lets Rock - Nissan - Portada (si hay disponibilidad)	2016-2-3 00:00:00	
+93884	PARQUES DE CHILE S.A.	Par	Blanco y negro	Generales	10x2	05	73.240	Publicado	Rene Pizarro	Parques de Chile.... nuevo	2016-2-3 00:00:00	
+94552	FERNANDO SANCHEZ			UIP	5x2	05	2.808	Publicado	Leonel Pizarro-Ovalle	AGUAS SUBTERRANEAS	2016-2-3 00:00:00	
+95099	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	07	0	Arte	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2016-2-3 00:00:00	
+94727	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	6x6	09	0	Publicado	Claudio Romero	Muebles Alpina	2016-2-3 00:00:00	
+95335	AGUAS DEL VALLE S.A.	Par	Blanco y negro	Generales	17x3	10	120.054	Publicado	Jacqueline Torres		2016-2-3 00:00:00	
+95421	PRENSA DEL LIMARI LTDA.	Par	Blanco y negro	Generales	17x6	14	0	Arte	Marcela Tello-ElDia		2016-2-3 00:00:00	

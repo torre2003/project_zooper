@@ -1,0 +1,10 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+120355	DABED Y CIA. LTDA., SELIM	Par	Cuatricromia	Generales	6x6	01	23.077	Publicado	Karina Rivera	V1	2017-1-26 00:00:00	
+121651	CORPORACION CULTURAL CAMARA CHILENA	Par	Cuatricromia	Generales	17x3	03	89.081	Publicado	Jacqueline Torres	FESTIVAL ARC/CANTOS A VIOLETA/CULTURA Y ESPECTACULO	2017-1-26 00:00:00	
+119498	tanguemar			UIP	5x2	05	2.808	Publicado	Patricia Villena	Tanguemar	2017-1-26 00:00:00	
+121390	AGRICOLA NORTE TALINAY LTDA	Par	Blanco y negro	Generales	5x2	05	1.666	Publicado	Paola Marquez	UIP VENTA ALFALFA	2017-1-26 00:00:00	
+121526	JACQUELINE			UIP	5x2	07	2.808	Publicado	Karina Rivera	ROLLERS OVALLE	2017-1-26 00:00:00	
+117892	OVALLEMAR			UIP	5x2	08	3.958	Publicado	Karina Rivera	OVALLE MAR	2017-1-26 00:00:00	
+120722	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	09	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2017-1-26 00:00:00	
+121722	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x6	11	0	Arte	Marcela Tello-ElDia		2017-1-26 00:00:00	
+121723	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	5x6	14	0	Arte	Marcela Tello-ElDia		2017-1-26 00:00:00	

@@ -1,0 +1,48 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+163114	CLARO CHILE S.A.	Impar	Cuatricromia	Generales	35x6	05	500.000	Publicado	Kathine Soto-Stgo	2018-9-1 00:00:00	
+163172	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Cuatricromia	Medios Regionales	16x6	07	343.848	Arte	Medios Regionales	2018-9-1 00:00:00	
+162620	BUALE GRUP LTDA.	Par	Cuatricromia	Generales	17x3	09	60.000	Publicado	Claudio Romero	2018-9-1 00:00:00	
+161986	INMOBILIARIA ELQUI S.A.	Par	Cuatricromia	Generales	17x3	09	0	Publicado	M Cristina Puga	2018-9-1 00:00:00	
+163157	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	10x2	11	49.620	Arte	Medios Regionales	2018-9-1 00:00:00	
+163151	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	16x3	11	119.088	Arte	Medios Regionales	2018-9-1 00:00:00	
+162773	ARZOBISPADO DE LA SERENA	Par	Blanco y negro	Generales	34x6	13	0	Arte	Marcela Tello-ElDia	2018-9-1 00:00:00	
+163015	SERV. VIVIENDA Y URBANIZACION IV RE	Par	Blanco y negro	Generales	10x2	15	57.274	Publicado	Jacqueline Torres	2018-9-1 00:00:00	
+163016	SERV. VIVIENDA Y URBANIZACION IV RE	Par	Blanco y negro	Generales	10x2	15	57.274	Publicado	Jacqueline Torres	2018-9-1 00:00:00	
+163091	SERV. VIVIENDA Y URBANIZACION IV RE	Par	Blanco y negro	Generales	10x2	15	57.274	Publicado	Jacqueline Torres	2018-9-1 00:00:00	
+162666	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	15	8.306	Publicado	Miguel Apey	2018-9-1 00:00:00	
+162840	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	16	0	Arte	Marcela Tello-ElDia	2018-9-1 00:00:00	
+163116	INMOBIL. LA SERENA GOLF S.A.	Impar	Cuatricromia	Generales	17x6	17	288.660	Publicado	Patricia Villena	2018-9-1 00:00:00	
+163052	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	5x2	19	0	Publicado	Miguel Apey	2018-9-1 00:00:00	
+163041	PAMELA B. GONZALEZ LIZAMA COMERCIAL	Par	Blanco y negro	Generales	5x2	19	0	Arte	Marcela Tello-ElDia	2018-9-1 00:00:00	
+162397	C.M. SOC. GASTRONOMICA LTDA.			UIP	5x2	19	7.208	Publicado		2018-9-1 00:00:00	
+162111	UNIVERSIDAD DE LA SERENA	Par	Blanco y negro	Generales	10x2	19	42.113	Publicado	Jacqueline Torres	2018-9-1 00:00:00	
+162993	PILLA LA VACA	Par	Blanco y negro	Generales	5x2	19	0	Arte	Marcela Tello-ElDia	2018-9-1 00:00:00	
+161861	SEREMI BIENES NACIONALES IV REGION	3893 Palabras		Legal	0x0	24-25	533.112	Publicado	Jacqueline Torres	2018-9-1 00:00:00	
+163195	SEREMI BIENES NACIONALES IV REGION	1330 Palabras		Legal	x	26-27	386.709	Publicado	Jacqueline Torres	2018-9-1 00:00:00	
+163193	SEREMI BIENES NACIONALES IV REGION	2900 Palabras		Legal	x	2829	191.732	Publicado	Jacqueline Torres	2018-9-1 00:00:00	
+162700	DIARIO EL DIA	Par	Cuatricromia	Generales	17x6	31	0	Arte	Marcela Tello-ElDia	2018-9-1 00:00:00	
+162974	INVERSIONES ALTA CRUZ LTDA	Par	Blanco y negro	Generales	5x2	32	0	Arte	Marcela Tello-ElDia	2018-9-1 00:00:00	
+162942	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	32	0	Arte	Marcela Tello-ElDia	2018-9-1 00:00:00	
+162701	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	4x5	32	20.508	Publicado	Miguel Apey	2018-9-1 00:00:00	
+160929	ARMAQ SUBIRI S.A.			UIP	5x1	32	8.937	Publicado	Claudio Romero	2018-9-1 00:00:00	
+162433	SOC. DE GES			UIP	5x1	32	8.937	Publicado	Miguel Apey	2018-9-1 00:00:00	
+163101	AREYUNA AREYUNA NIBALDO	Par	Cuatricromia	Generales	7x3	34	105.042	Publicado	Pedro Jaime	2018-9-1 00:00:00	
+162252	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	34	0	Publicado	Marcela Tello-ElDia	2018-9-1 00:00:00	
+163191	CAMPOS DEL NORTE S.A.	Par	Cuatricromia	Generales	17x3	35	0	Publicado	Patricia Villena	2018-9-1 00:00:00	
+163020	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	35	0	Arte	Marcela Tello-ElDia	2018-9-1 00:00:00	
+163162	INMOBILIARIA CLAUDIO DAUD Y CIA.	Par	Blanco y negro	Generales	12x2	36	70.750	Publicado	Pedro Jaime	2018-9-1 00:00:00	
+163094	ANDREA YAZIGI SFEIR	Par	Blanco y negro	Generales	5x2	39	6.722	Publicado	Heinger Vega Torres	2018-9-1 00:00:00	
+163099	JUAN SEBASTIAN BOU LAGUNAS	Par	Blanco y negro	Generales	5x2	39	13.750	Publicado	Heinger Vega Torres	2018-9-1 00:00:00	
+162636	COMERCIALIZADORA FAMILY S.A.	Impar	Cuatricromia	Generales	34x6	40	938.143	Publicado	Paola Marquez	2018-9-1 00:00:00	
+163105	RECAUDACIONES Y COBRANZA S.A	691 Palabras		Legal	x	EC	171.429	Publicado	Pedro Jaime	2018-9-1 00:00:00	
+162627	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	6x2	EC-21	29.772	Arte	Medios Regionales	2018-9-1 00:00:00	
+162647	SANTANDER G.R.C.	Par	Blanco y negro	Generales	10x2	EC-21	83.824	Publicado	Pedro Jaime	2018-9-1 00:00:00	
+162093	BANCO DE CHILE	1328 Palabras		Legal	x	EC-22	329.412	Publicado	Pedro Jaime	2018-9-1 00:00:00	
+163165	CIA. DE LEASING TATTERSALL S.A.	Par	Blanco y negro	Generales	11x2	EC-22	69.487	Publicado	Pedro Jaime	2018-9-1 00:00:00	
+162785	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Generales	5x2	EC-23	7.003	Publicado	Rene Pizarro	2018-9-1 00:00:00	
+152176	HOTELERIA LUIS ALBERTO BERETTA KIEK	Par	Blanco y negro	Generales	5x2	EC-23	6.061	Publicado	Patricia Villena	2018-9-1 00:00:00	
+162087	BANCO DE CHILE	Par	Blanco y negro	Generales	14x6	EC-23	301.681	Publicado	Pedro Jaime	2018-9-1 00:00:00	
+162644	COMERCIAL E.C.C.S.A.  S.A.		9 a 24 pag.	Inserto	x	INS	459.000	Publicado	M Cristina Puga	2018-9-1 00:00:00	
+162628	Easy Retail S.A.		Hasta 8 pag.	Inserto	x	INS	884.487	Publicado	Patricia Villena	2018-9-1 00:00:00	
+163150	CULTURA CIUDADANA S.P.A.		100 Frases	Radio	x	RAD	450.000	Publicado	Patricia Villena	2018-9-1 00:00:00	
+162606	CAMPOS DEL NORTE S.A.	Home	Banner Cabecera	Web	0x0	WEB	1.170.000	Publicado		2018-9-1 00:00:00	

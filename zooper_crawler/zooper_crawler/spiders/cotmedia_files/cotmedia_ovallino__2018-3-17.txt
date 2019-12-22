@@ -1,0 +1,8 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+152355	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	4x6	05	0	Publicado	Marcela Tello-ElDia	Cupones de Descuentos - Cinemark	2018-3-17 00:00:00	
+152356	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	12x6	06	0	Publicado	Marcela Tello-ElDia	Vive la experiencia de ser suscriptor... $66.000.-	2018-3-17 00:00:00	
+151897	GASTON MALUENDA GONZALEZ	Par	Cuatricromia	Generales	17x3	09	0	Arte	Karina Rivera	circo los maluenda	2018-3-17 00:00:00	
+152277	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	12x6	11	0	Publicado	Marcela Tello-ElDia	Circo para el Club El Ovallino	2018-3-17 00:00:00	
+152357	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	4x6	12	0	Publicado	Marcela Tello-ElDia		2018-3-17 00:00:00	
+150551	VELIZ CORTES JOSE A.			UIP	5x2	15	4.695	Publicado	Pedro Cortes		2018-3-17 00:00:00	
+152358	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	8x6	15	0	Publicado	Marcela Tello-ElDia		2018-3-17 00:00:00	

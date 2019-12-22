@@ -1,0 +1,12 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+139874	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	6x6	01	16.065	Publicado	Claudio Romero	Muebles Alpina	2017-10-2 00:00:00	
+139854	INMOBILIARIA NUEVA SERENA			UIP	10x6	03	16.260	Publicado	Claudio Romero	2 avisos los llanos de san luis (publicar ene forma intercalada)	2017-10-2 00:00:00	
+138319	CENTRO DE SALUD PORTALES LTDA			UIP	5x4	05	4.504	Publicado	Karina Rivera	ORTODONCIA 	2017-10-2 00:00:00	
+139925	EMPRESA PERIODISTICA EL NORTE S.A.	Par	Blanco y negro	Medios Regionales	6x2	05	17.340	Arte	Medios Regionales	Santander GRC Ltda. - Banco Santander - (166688)	2017-10-2 00:00:00	
+136065	INVERSIONES TANGUEMAR LIMITADA			UIP	5x2	07	2.808	Publicado	Patricia Villena	Tanguemar	2017-10-2 00:00:00	
+137220	TEODORO AGUIRRE ALVAREZ			UIP	5x2	07	2.808	Publicado	Karina Rivera	REGIONALISTA VERDE SOCIAL	2017-10-2 00:00:00	
+138041	ESTUDIO JURIDICO OLIVARES Y CIA. SP	Par	Blanco y negro	Generales	5x2	07	2.000	Publicado	Jacqueline Torres	ESTUDIO JURIDICO OLIVARES	2017-10-2 00:00:00	
+140187	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	08	0	Arte	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2017-10-2 00:00:00	
+139599	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x3	09	0	Publicado	Marcela Tello-ElDia	Vea en Cinemark - The Kingsman	2017-10-2 00:00:00	
+140309	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	12x6	11	0	Arte	Marcela Tello-ElDia	Nos cambiamos de oficina - El Ovallino	2017-10-2 00:00:00	
+140312	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	6x6	14	0	Arte	Marcela Tello-ElDia		2017-10-2 00:00:00	

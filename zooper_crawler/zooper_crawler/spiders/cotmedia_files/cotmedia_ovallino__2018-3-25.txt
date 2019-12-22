@@ -1,0 +1,9 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+151106	OVALLE CASINO RESORT S.A	Par	Cuatricromia	Generales	25x4	03	171.372	Publicado	Paola Marquez	OCR Panoramas marzo	2018-3-25 00:00:00	
+152712	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	5x2	03	0	Arte	Marcela Tello-ElDia		2018-3-25 00:00:00	
+152713	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x6	05	0	Arte	Marcela Tello-ElDia	Nos trasladamos para prestarles un mejor servicio...	2018-3-25 00:00:00	
+131308	SOCIEDAD MEDICA Y CONSULTORA ESTETI		Cuatricromia	Guia	5x2	06	13.333	Publicado	Maria_Amelia Hermosilla	Diego Polanco	2018-3-25 00:00:00	
+152609	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x6	08	0	Publicado	Marcela Tello-ElDia	Suscribete a El Ovallino	2018-3-25 00:00:00	
+152599	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	12x6	09	0	Publicado	Marcela Tello-ElDia	Avant Premiere - Diario El Ovallino	2018-3-25 00:00:00	
+152708	CAMAL MUSALEM TAPIA Y CIA.	Impar	Cuatricromia	Generales	34x4	11	291.380	Publicado	Marcela Tello-ElDia	Toyota Sale - Camal Musalem 	2018-3-25 00:00:00	
+152711	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	8x6	15	0	Arte	Marcela Tello-ElDia		2018-3-25 00:00:00	

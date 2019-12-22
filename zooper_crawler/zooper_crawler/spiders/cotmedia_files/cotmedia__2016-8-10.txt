@@ -1,0 +1,47 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+109138	SALINAS Y FABRES S.A.	Impar	Cuatricromia	Generales	17x6	05	251.009	Publicado	M Cristina Puga	2016-8-10 00:00:00	
+109225	DABED Y CIA. LTDA., SELIM	Par	Cuatricromia	Generales	7x6	07	27.690	Publicado	Marcela Tello-ElDia	2016-8-10 00:00:00	
+109204	SOC. CONSTRUCTORA INMOBILIARIA Y DE	Impar	Cuatricromia	Generales	17x3	09	240.550	Publicado	Rene Pizarro	2016-8-10 00:00:00	
+109253	SERVICIO ELECTORAL	Par	Blanco y negro	Generales	17x3	09	0	Publicado	Jacqueline Torres	2016-8-10 00:00:00	
+107699	DIARIO EL DIA	Par	Cuatricromia	Generales	17x6	11	0	Publicado	Marcela Tello-ElDia	2016-8-10 00:00:00	
+109151	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	12	0	Publicado	Marcela Tello-ElDia	2016-8-10 00:00:00	
+109068	ARZOBISPADO DE LA SERENA	Par	Blanco y negro	Generales	5x2	13	0	Publicado	Marcela Tello-ElDia	2016-8-10 00:00:00	
+108336	DIARIO EL DIA	Par	Blanco y negro	Generales	5x2	13	0	Publicado	Marcela Tello-ElDia	2016-8-10 00:00:00	
+108111	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	5x2	13	0	Publicado	Miguel Apey	2016-8-10 00:00:00	
+107953	MAQUINARIAS TANNY NOGALES BELTRAN E	Par	Blanco y negro	Generales	5x3	15	0	Publicado	Pedro Jaime	2016-8-10 00:00:00	
+108025	CENTRO TECNICO ACUARELA LTDA.	Par	Blanco y negro	Generales	5x2	15	20.141	Publicado	Rene Pizarro	2016-8-10 00:00:00	
+108211	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	16	0	Publicado	Marcela Tello-ElDia	2016-8-10 00:00:00	
+108814	DIARIO EL DIA	Par	Cuatricromia	Generales	34x6	17	0	Publicado	Marcela Tello-ElDia	2016-8-10 00:00:00	
+107877	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	18	8.306	Publicado	Miguel Apey	2016-8-10 00:00:00	
+109170	DIARIO EL DIA	Par	Blanco y negro	Generales	35x6	24-25	0	Publicado	Jacqueline Torres	2016-8-10 00:00:00	
+107619	AGUAS DEL VALLE S.A.	Par	Cuatricromia	Generales	5x6	25	49.218	Publicado	Jacqueline Torres	2016-8-10 00:00:00	
+107794	MAQUINARIA DE PANADERIA INDUSTRIA Y	Par	Blanco y negro	Generales	17x1	28	0	Publicado	Rene Pizarro	2016-8-10 00:00:00	
+109105	AREVALO CARMEN			UIP	5x1	28	8.937	Publicado	Pedro Jaime	2016-8-10 00:00:00	
+108368	SERVICIO TRANSPORTES SERENA MAR CAR	Par	Cuatricromia	Generales	17x3	28	0	Publicado	Marcela Tello-ElDia	2016-8-10 00:00:00	
+109130	ubillus			UIP	5x1	29	8.937	Publicado	Pedro Jaime	2016-8-10 00:00:00	
+108683	SERVICIOS GASTRON?MICOS LA CASONA D	Par	Blanco y negro	Generales	5x2	29	10.725	Publicado	Miguel Apey	2016-8-10 00:00:00	
+107416	INV. GASTRONOMICAS PATRICIA TORO EI	Par	Blanco y negro	Generales	5x2	29	8.973	Publicado	Nadia Randolph	2016-8-10 00:00:00	
+107805	ARMAQ			UIP	5x1	29	8.937	Publicado	Claudio Romero	2016-8-10 00:00:00	
+107846	SOC. DE GES			UIP	5x1	29	8.937	Publicado	Miguel Apey	2016-8-10 00:00:00	
+107909	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	4x5	29	20.508	Publicado	Miguel Apey	2016-8-10 00:00:00	
+106945	SOC.COMERCIAL ALTOS LA SERENA LTDA	Par	Blanco y negro	Generales	5x2	29	8.973	Publicado	Nadia Randolph	2016-8-10 00:00:00	
+108277	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	29	0	Publicado	Marcela Tello-ElDia	2016-8-10 00:00:00	
+108416	CERNA E HIJOS CIA. LTDA.	Par	Blanco y negro	Generales	5x1	29	4.468	Publicado	Nadia Randolph	2016-8-10 00:00:00	
+109167	PATRICIA APEY	Par	Blanco y negro	Generales	5x2	30	25.210	Publicado	Pedro Jaime	2016-8-10 00:00:00	
+109171	SERVICIOS GENERALES GUAYACAN S.A	Par	Blanco y negro	Generales	4x2	31	6.666	Publicado	Jacqueline Torres	2016-8-10 00:00:00	
+109168	CALLEGARI LTDA.	Par	Cuatricromia	Generales	34x6	32	0	Arte	Marcela Tello-ElDia	2016-8-10 00:00:00	
+108675	MENDEZ			UIP	5x6	EC-20	53.625	Publicado	Claudio Romero	2016-8-10 00:00:00	
+109155	SILVIA FANY TORRES	125 Palabras		Legal	x	EC-21	31.000	Publicado	Pedro Jaime	2016-8-10 00:00:00	
+109157	LUIS AURELIO LAZO	107 Palabras		Legal	x	EC-21	26.536	Publicado	Pedro Jaime	2016-8-10 00:00:00	
+108002	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Generales	5x1	EC-21	5.860	Publicado	Rene Pizarro	2016-8-10 00:00:00	
+108827	HOTELERIA LUIS ALBERTO BERETTA KIEK	Par	Blanco y negro	Generales	5x2	EC-21	0	Publicado	Patricia Villena	2016-8-10 00:00:00	
+109169	OCIEL HERNAN DIAZ ANGEL	Par	Blanco y negro	Generales	5x2	EC-21	36.620	Publicado	Pedro Jaime	2016-8-10 00:00:00	
+109099	CIA. MINERA TECK CARMEN DE ANDACOLL	Impar	Cuatricromia	Ed.Especial	17x6	EE-02	645.977	Publicado	Jacqueline Torres	2016-8-10 00:00:00	
+109075	KOMATSU CHILE S.A.	Par	Cuatricromia	Generales	17x6	EE-03	309.344	Publicado	Paola Marquez	2016-8-10 00:00:00	
+109120	COMERCIAL FGC DIESEL LTDA	Par	Blanco y negro	Generales	10x2	EE-04	50.536	Publicado	Miguel Apey	2016-8-10 00:00:00	
+109097	CIA. MINERA DEL PACIFICO S.A.	Par	Cuatricromia	Ed.Especial	17x6	EE-05	601.374	Publicado	Jacqueline Torres	2016-8-10 00:00:00	
+109153	CIA. MINERA SAN GERONIMO	Par	Cuatricromia	Generales	17x3	EE-06	219.633	Publicado	M Cristina Puga	2016-8-10 00:00:00	
+109096	MINERA LOS PELAMBRES	Impar	Cuatricromia	Ed.Especial	35x3	EE-07	627.521	Publicado	Jacqueline Torres	2016-8-10 00:00:00	
+109154	HELLEMA HOLLAND ENGINEERING LTDA.	Par	Cuatricromia	Generales	35x6	EE-08	350.000	Publicado	M Cristina Puga	2016-8-10 00:00:00	
+109100	EMPRESA NACIONAL DE MINERIA		9 a 24 pag.	Inserto	x	INS	1.680.672	Publicado	Jacqueline Torres	2016-8-10 00:00:00	
+109101	CIA. MINERA TECK CARMEN DE ANDACOLL		9 a 24 pag.	Inserto	x	INS	1.447.328	Publicado	Jacqueline Torres	2016-8-10 00:00:00	

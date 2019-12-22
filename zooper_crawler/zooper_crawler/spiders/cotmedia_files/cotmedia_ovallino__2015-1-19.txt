@@ -1,0 +1,8 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+66723	CALLEGARI LTDA.	Par	Cuatricromia	Generales	6x6	01	30.000	Publicado	Marcela Tello-ElDia	Portada - Kia	2015-1-19 00:00:00	
+65553	ABRIL PUBLICIDAD INVERSIONES Y ASES	Impar	Cuatricromia	Generales	35x6	03	445.386	Publicado	Patricia Villena	Santo Tomas primera impar (AGENCIA)	2015-1-19 00:00:00	
+66901	rio hurta			UIP	10x6	05	0	Publicado	Italo Retamal	2 feria costumbrista 	2015-1-19 00:00:00	
+66368	SOCIEDAD COMERCIAL TREMENDO			UIP	10x2	07	0	Publicado	Italo Retamal	Tremendo Restaurante	2015-1-19 00:00:00	
+66397	Marcela Burgos Robles			UIP	10x2	07	0	Arte	Italo Retamal	agrogranjalosacacios	2015-1-19 00:00:00	
+65406	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	6x6	09	16.065	Publicado	Claudio Romero	Muebles Alpina	2015-1-19 00:00:00	
+67194	CORPORACION CULTURAL BALMACEDA DOCE	Par	Cuatricromia	Generales	17x3	16	117.653	Publicado	Jacqueline Torres	DIFUSION FESTIVAL DE LAS ARTES	2015-1-19 00:00:00	

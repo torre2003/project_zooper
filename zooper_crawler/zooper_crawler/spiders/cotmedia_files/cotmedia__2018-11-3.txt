@@ -1,0 +1,44 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+169979	ANDREA YAZIGI SFEIR	Par	Blanco y negro	Generales	5x2		8.404	Arte	Heinger Vega Torres	2018-11-3 00:00:00	
+168937	EMPRESAS LA POLAR S.A.	Impar	Cuatricromia	Generales	35x6	05	504.000	Publicado	Patricia Villena	2018-11-3 00:00:00	
+168396	DIRECCION GENERAL DEL CREDITO PREND	Par	Blanco y negro	Generales	15x2	06	88.438	Publicado	Jacqueline Torres	2018-11-3 00:00:00	
+168936	VIVOCORP S.A.	Impar	Cuatricromia	Generales	17x6	07	505.154	Publicado	Patricia Villena	2018-11-3 00:00:00	
+169167	DIRECCION GENERAL DE RELACIONES ECO	Par	Cuatricromia	Generales	34x6	08	839.076	Publicado	Pedro Jaime	2018-11-3 00:00:00	
+169171	INMOBIL. LA SERENA GOLF S.A.	Impar	Cuatricromia	Generales	17x6	09	288.660	Publicado	Patricia Villena	2018-11-3 00:00:00	
+169304	AREYUNA AREYUNA NIBALDO	Par	Cuatricromia	Generales	7x3	10	83.824	Publicado	Pedro Jaime	2018-11-3 00:00:00	
+167809	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Cuatricromia	Medios Regionales	32x6	11	582.024	Publicado	Medios Regionales	2018-11-3 00:00:00	
+168961	SERV. VIVIENDA Y URBANIZACION IV RE	Par	Blanco y negro	Generales	10x2	13	57.274	Publicado	Jacqueline Torres	2018-11-3 00:00:00	
+168963	SERV. VIVIENDA Y URBANIZACION IV RE	Par	Blanco y negro	Generales	10x2	13	57.274	Publicado	Jacqueline Torres	2018-11-3 00:00:00	
+168964	SERV. VIVIENDA Y URBANIZACION IV RE	Par	Blanco y negro	Generales	10x2	13	57.274	Publicado	Jacqueline Torres	2018-11-3 00:00:00	
+169037	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	13	8.306	Publicado	Miguel Apey	2018-11-3 00:00:00	
+169067	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	4x5	14	20.508	Publicado	Miguel Apey	2018-11-3 00:00:00	
+169108	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	5x2	14	0	Arte	Miguel Apey	2018-11-3 00:00:00	
+168803	PAMELA B. GONZALEZ LIZAMA COMERCIAL	Par	Blanco y negro	Generales	5x2	14	0	Arte	Marcela Tello-ElDia	2018-11-3 00:00:00	
+168648	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	14	0	Arte	Marcela Tello-ElDia	2018-11-3 00:00:00	
+168265	C.M. SOC. GASTRONOMICA LTDA.			UIP	5x2	14	7.208	Publicado		2018-11-3 00:00:00	
+168695	INVERSIONES ALTA CRUZ LTDA	Par	Blanco y negro	Generales	5x2	14	0	Arte	Marcela Tello-ElDia	2018-11-3 00:00:00	
+168762	PILLA LA VACA	Par	Blanco y negro	Generales	5x2	14	0	Arte	Marcela Tello-ElDia	2018-11-3 00:00:00	
+168519	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	16	0	Arte	Marcela Tello-ElDia	2018-11-3 00:00:00	
+169140	FUNDACION EDUCACIONAL COLON	Par	Cuatricromia	Generales	34x6	17	450.000	Publicado	Miguel Apey	2018-11-3 00:00:00	
+169311	SERV. VIVIENDA Y URBANIZACION IV RE	219 Palabras		Legal	x	21	54.312	Publicado	Jacqueline Torres	2018-11-3 00:00:00	
+167613	SERV. VIVIENDA Y URBANIZACION IV RE	1498 Palabras		Legal	0x0	21	371.504	Publicado	Jacqueline Torres	2018-11-3 00:00:00	
+169313	SERV. VIVIENDA Y URBANIZACION IV RE	438 Palabras		Legal	x	21	108.624	Publicado	Jacqueline Torres	2018-11-3 00:00:00	
+169310	SERV. VIVIENDA Y URBANIZACION IV RE	219 Palabras		Legal	x	21	54.312	Publicado	Jacqueline Torres	2018-11-3 00:00:00	
+169312	SERV. VIVIENDA Y URBANIZACION IV RE	1550 Palabras		Legal	x	21	384.400	Publicado	Jacqueline Torres	2018-11-3 00:00:00	
+169309	SERV. VIVIENDA Y URBANIZACION IV RE	219 Palabras		Legal	x	21	54.312	Publicado	Jacqueline Torres	2018-11-3 00:00:00	
+169142	CASA DEL PERNO	Par	Blanco y negro	Generales	17x6	23	257.732	Publicado	Miguel Apey	2018-11-3 00:00:00	
+169278	DIARIO EL DIA	Par	Cuatricromia	Generales	6x6	25	0	Arte	Marcela Tello-ElDia	2018-11-3 00:00:00	
+168940	CAMPOS DEL NORTE S.A.	Par	Cuatricromia	Generales	17x3	27	0	Publicado	Patricia Villena	2018-11-3 00:00:00	
+169270	DIARIO EL DIA	Par	Cuatricromia	Generales	6x3	27	0	Arte	Marcela Tello-ElDia	2018-11-3 00:00:00	
+169357	DIARIO EL DIA	Par	Cuatricromia	Generales	5x6	28	0	Arte	Marcela Tello-ElDia	2018-11-3 00:00:00	
+169158	SERVICIOS GENERALES GUAYACAN S.A	Par	Blanco y negro	Generales	3x2	28	6.812	Publicado	Jacqueline Torres	2018-11-3 00:00:00	
+164869	JUAN SEBASTIAN BOU LAGUNAS	Par	Blanco y negro	Generales	5x2	31	9.454	Publicado	Heinger Vega Torres	2018-11-3 00:00:00	
+167747	UNIVERSIDAD CENTRAL DE CHILE	Par	Cuatricromia	Contraportada	35x6	32	617.532	Publicado	Jacqueline Torres	2018-11-3 00:00:00	
+169336	ROCTERRA INGENIERIA Y SERVI. LTDA.	Par	Blanco y negro	Economico	5x2	EC-18	29.480	Publicado	Jacqueline Torres	2018-11-3 00:00:00	
+169262	REMATES RINEL SPA	Par	Blanco y negro	Generales	11x3	EC-18	97.759	Publicado	Pedro Jaime	2018-11-3 00:00:00	
+168447	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	8x2	EC-19	39.696	Publicado	Medios Regionales	2018-11-3 00:00:00	
+168452	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	8x2	EC-19	39.696	Publicado	Medios Regionales	2018-11-3 00:00:00	
+168457	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	8x2	EC-19	39.696	Publicado	Medios Regionales	2018-11-3 00:00:00	
+169324	HOTELERIA LUIS ALBERTO BERETTA KIEK	Par	Blanco y negro	Generales	5x2	EC-20	6.061	Publicado	Patricia Villena	2018-11-3 00:00:00	
+169356	DIARIO EL DIA	Par	Blanco y negro	Generales	17x6	EC-20	0	Arte	Marcela Tello-ElDia	2018-11-3 00:00:00	
+169316	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Generales	5x2	EC-20	7.003	Publicado	Rene Pizarro	2018-11-3 00:00:00	

@@ -1,0 +1,6 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+68440	ILUSTRE MUNICIPALIDAD DE OVALLE	Par	Blanco y negro	Generales	10x2	04	32.956	Publicado	Jacqueline Torres	REMATE PUBLICO VEHICULO Y MAQUINARIA	2015-2-3 00:00:00	
+68244	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	10x3	05	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2015-2-3 00:00:00	
+67906	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x6	09	0	Publicado	Marcela Tello-ElDia		2015-2-3 00:00:00	
+68381	reyes mor			UIP	10x6	12	16.260	Publicado	Italo Retamal	monte cordillera	2015-2-3 00:00:00	
+68487	SOC. DE EXPLORACION Y DESARROLLO MI	Par	Cuatricromia	Generales	5x2	14	32.956	Publicado	Leonel Pizarro-Ovalle	camioneta	2015-2-3 00:00:00	

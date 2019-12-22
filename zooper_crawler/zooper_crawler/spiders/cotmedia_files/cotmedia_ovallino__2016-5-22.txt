@@ -1,0 +1,11 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+102345	AUTOMOTRIZ CARMONA	Par	Cuatricromia	Generales	6x6	01	23.076	Publicado	Marcela Tello-ElDia	Nissan March Active - Portada (si hay disponibilidad)	2016-5-22 00:00:00	
+102905	INMOBILIARIA ECOMAC SANTIAGO S.A.	Impar	Cuatricromia	Generales	17x6	03	285.000	Publicado	M Cristina Puga	ECOMAC / Primeras impar	2016-5-22 00:00:00	
+103037	CAMAL MUSALEM TAPIA Y CIA.	Par	Blanco y negro	Generales	18x3	05	66.096	Publicado	Marcela Tello-ElDia		2016-5-22 00:00:00	
+103136	TRULY NOLEN CHILE S.A.	Par	Blanco y negro	Generales	5x1	06	15.302	Publicado	Miguel Apey	CONTROL DE PLAGAS - EJECUTIVOS DE VENTAS	2016-5-22 00:00:00	
+103034	CONSTRUCTORA TAFCA LTDA.	Par	Blanco y negro	Generales	8x2	06	48.964	Publicado	Leonel Pizarro-Ovalle	desvio transito	2016-5-22 00:00:00	
+95382	SOCIEDAD BUSTOS Y PROCURIZA LTDA.	Par	Blanco y negro	Generales	10x2	06	27.542	Publicado	Maria_Amelia Hermosilla	Cento	2016-5-22 00:00:00	
+101613	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	08	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2016-5-22 00:00:00	
+102622	DABED Y CIA. LTDA., SELIM	Par	Cuatricromia	Generales	6x6	09	23.076	Publicado	Nadia Randolph	herramientas	2016-5-22 00:00:00	
+100872	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	15x6	11	0	Publicado	Marcela Tello-ElDia	Cupones Cinemark	2016-5-22 00:00:00	
+103226	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	5x6	14	0	Publicado	Marcela Tello-ElDia		2016-5-22 00:00:00	

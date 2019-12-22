@@ -1,0 +1,13 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+120142	SOCIEDAD DE RENTAS FALABELLA S.A	Par	Cuatricromia	Generales	8x6	01	50.980	Publicado	M Cristina Puga	Huincha open 	2017-1-18 00:00:00	
+121361	OMD CHILE S.A.	Impar	Cuatricromia	Generales	17x6	03	216.330	Publicado	Patricia Villena		2017-1-18 00:00:00	
+119491	tanguemar			UIP	5x2	05	2.808	Publicado	Patricia Villena	Tanguemar	2017-1-18 00:00:00	
+121383	AGRICOLA NORTE TALINAY LTDA	Par	Blanco y negro	Generales	5x2	05	1.666	Publicado	Paola Marquez	UIP VENTA ALFALFA	2017-1-18 00:00:00	
+120714	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	06	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2017-1-18 00:00:00	
+119675	EMPRESA PERIODISTICA EL NORTE S.A.	Par	Blanco y negro	Medios Regionales	10x3	07	43.350	Publicado	Medios Regionales	Tattersall Gestion - Remate Prop. Ovalle - (241789)	2017-1-18 00:00:00	
+117885	OVALLEMAR			UIP	5x2	08	3.958	Publicado	Karina Rivera	OVALLE MAR	2017-1-18 00:00:00	
+120052	SOCIEDAD E			UIP	10x2	08	7.882	Publicado	Karina Rivera		2017-1-18 00:00:00	
+120185	OVALLE CASINO RESORT S.A	Par	Cuatricromia	Generales	25x4	09	0	Publicado	Paola Marquez	OCR Eventos verano	2017-1-18 00:00:00	
+119906	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	6x6	11	0	Publicado	Claudio Romero	Muebles Alpina	2017-1-18 00:00:00	
+121415	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	5x6	14	0	Arte	Marcela Tello-ElDia		2017-1-18 00:00:00	
+119792	ARENA CHILE S.A.	Home	Banner Derecho	Web	x	WEB	0	Publicado	M Cristina Puga	volkswagen	2017-1-18 00:00:00	

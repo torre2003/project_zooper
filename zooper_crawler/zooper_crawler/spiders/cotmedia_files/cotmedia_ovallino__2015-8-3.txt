@@ -1,0 +1,8 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+81600	AUTOMOTRIZ CARMONA	Par	Cuatricromia	Generales	7x6	01	23.077	Publicado	Marcela Tello-ElDia	Ya estamos en Ovalle - Portada	2015-8-3 00:00:00	
+80797	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	10x3	08	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2015-8-3 00:00:00	
+81146	florencia			UIP	10x2	08	5.630	Publicado	Italo Retamal	tienda exotica	2015-8-3 00:00:00	
+81263	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	6x6	09	16.065	Publicado	Claudio Romero	Muebles Alpina	2015-8-3 00:00:00	
+80508	cesar ossio			UIP	5x4	10	5.630	Publicado	Italo Retamal	mov de tierra	2015-8-3 00:00:00	
+81370	Tanguemar			UIP	5x2	10	2.808	Publicado	Patricia Villena	Tanguemar	2015-8-3 00:00:00	
+81641	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x6	14	0	Publicado	Marcela Tello-ElDia		2015-8-3 00:00:00	

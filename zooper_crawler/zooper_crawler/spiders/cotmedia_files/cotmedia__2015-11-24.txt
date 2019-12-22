@@ -1,0 +1,29 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+89653	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Cuatricromia	Medios Regionales	10x6	05	231.080	Publicado	Medios Regionales	2015-11-24 00:00:00	
+87302	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	6x6	08	0	Publicado	Claudio Romero	2015-11-24 00:00:00	
+89651	ILUSTRE MUNICIPALIDAD DE COQUIMBO	Par	Cuatricromia	Generales	17x6	09	366.054	Publicado	Miguel Apey	2015-11-24 00:00:00	
+87883	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	5x2	10	0	Publicado	Miguel Apey	2015-11-24 00:00:00	
+89397	INMOBIL. PY  S.A.	Par	Blanco y negro	Generales	10x2	10	89.389	Publicado	Claudio Romero	2015-11-24 00:00:00	
+82097	DIARIO EL DIA	Par	Cuatricromia	Generales	34x6	11	0	Publicado	Marcela Tello-ElDia	2015-11-24 00:00:00	
+89654	DIARIO EL DIA	Par	Cuatricromia	Generales	20x3	12	0	Publicado	Marcela Tello-ElDia	2015-11-24 00:00:00	
+89125	DIARIO EL DIA	Par	Blanco y negro	Generales	5x2	12	0	Publicado	Marcela Tello-ElDia	2015-11-24 00:00:00	
+87349	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	17	8.306	Publicado	Miguel Apey	2015-11-24 00:00:00	
+89617	DIARIO EL DIA	Impar	Blanco y negro	Generales	35x6	24-25	0	Publicado	Carolina Naranjo	2015-11-24 00:00:00	
+87827	MARTIN JURE PATRICIA	Par	Cuatricromia	Generales	6x6	27	0	Publicado	Marcela Tello-ElDia	2015-11-24 00:00:00	
+89365	Inversiones san javier			UIP	5x1	29	8.937	Publicado	Rene Pizarro	2015-11-24 00:00:00	
+89634	AREVALO CARMEN			UIP	5x1	29	8.937	Publicado	Pedro Jaime	2015-11-24 00:00:00	
+88824	SOC. RAMON MOYA FUENTES 			UIP	10x1	29	8.938	Publicado	Miguel Apey	2015-11-24 00:00:00	
+88562	SOC. DE GESTION MEDITERRANEA			UIP	5x1	29	8.937	Publicado	Miguel Apey	2015-11-24 00:00:00	
+88146	SOC. COMERCIAL ALCAPARRA LTDA.	Par	Blanco y negro	Generales	5x2	29	10.440	Publicado	Patricia Villena	2015-11-24 00:00:00	
+84204	soc. comercial e inv. alto la seren			UIP	5x2	29	8.937	Publicado	Nadia Randolph	2015-11-24 00:00:00	
+87804	DIARIO EL DIA	Par	Blanco y negro	Generales	5x2	29	0	Publicado	Marcela Tello-ElDia	2015-11-24 00:00:00	
+87739	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	29	0	Publicado	Marcela Tello-ElDia	2015-11-24 00:00:00	
+87654	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	4x5	29	20.508	Publicado	Miguel Apey	2015-11-24 00:00:00	
+84692	CERNA E HIJOS CIA. LTDA.	Par	Blanco y negro	Generales	5x1	29	4.468	Publicado	Nadia Randolph	2015-11-24 00:00:00	
+87401	GUERRERO SERANTONI Y CIA. LTDA.	Par	Blanco y negro	Generales	5x1	29	5.527	Publicado	Pedro Jaime	2015-11-24 00:00:00	
+87497	ARMAQ			UIP	5x1	29	8.937	Publicado	Claudio Romero	2015-11-24 00:00:00	
+89679	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	10x3	30	65.220	Publicado	Medios Regionales	2015-11-24 00:00:00	
+87942	SERVICIOS GENERALES GUAYACAN S.A	Par	Blanco y negro	Generales	3x2	30	6.666	Publicado	Jacqueline Torres	2015-11-24 00:00:00	
+89549	INMOBIL. E INVERSIONES AREYUNA E HI	Par	Cuatricromia	Generales	35x6	32	500.000	Publicado	Claudio Romero	2015-11-24 00:00:00	
+89640	AREVALO CARMEN 			UIP	5x1	EC20	8.937	Publicado	Pedro Jaime	2015-11-24 00:00:00	
+87590	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Generales	5x1	EC20	5.860	Publicado	Rene Pizarro	2015-11-24 00:00:00	

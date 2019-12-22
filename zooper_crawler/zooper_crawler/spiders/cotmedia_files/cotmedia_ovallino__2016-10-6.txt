@@ -1,0 +1,9 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+113667	SOCIEDAD DE RENTAS FALABELLA S.A	Par	Cuatricromia	Generales	8x6	01	50.980	Publicado	M Cristina Puga	Huincha open 	2016-10-6 00:00:00	
+113001	PUBLICIDAD Y MARKETING EDUARDO ALEG			UIP	17x2	04	9.211	Publicado	Claudio Romero	FERIA DE LA VIVIENDA OVALLE..	2016-10-6 00:00:00	
+113015	AGRICOLA NORTE TALINAY LTDA	Par	Blanco y negro	Generales	5x2	05	1.666	Publicado	Paola Marquez	UIP VENTA ALFALFA	2016-10-6 00:00:00	
+113387	castillo s			UIP	10x2	05	5.630	Publicado	Karina Rivera	servicios dentales	2016-10-6 00:00:00	
+113298	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	15x6	06	0	Publicado	Marcela Tello-ElDia	Festival Aereo	2016-10-6 00:00:00	
+113204	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	09	0	Arte	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2016-10-6 00:00:00	
+107653	SOC HOTELERA Y DE TURISMO HACIENDA 	Par	Cuatricromia	Generales	5x6	11	11.770	Publicado	Patricia Villena	Hacienda Juntas	2016-10-6 00:00:00	
+113670	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	6x6	14	0	Arte	Marcela Tello-ElDia		2016-10-6 00:00:00	

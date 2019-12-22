@@ -1,0 +1,13 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+81620	AUTOMOTRIZ CARMONA	Par	Cuatricromia	Generales	7x6	01	23.077	Publicado	Marcela Tello-ElDia	Ya estamos en Ovalle - Portada	2015-8-12 00:00:00	
+81877	centro de co			UIP	10x2	05	5.630	Publicado	Italo Retamal	centro colina	2015-8-12 00:00:00	
+81973	jorge alvara			UIP	5x2	05	2.808	Publicado	Italo Retamal	abogado	2015-8-12 00:00:00	
+81267	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	6x6	06	0	Publicado	Claudio Romero	Muebles Alpina	2015-8-12 00:00:00	
+80807	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	10x3	07	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2015-8-12 00:00:00	
+81154	florenc			UIP	10x2	07	5.630	Publicado	Italo Retamal	tienda exotica	2015-8-12 00:00:00	
+82100	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	12x6	08	0	Publicado	Marcela Tello-ElDia	Club El Ovallino invita...	2015-8-12 00:00:00	
+81896	EMPRESA PERIODISTICA EL NORTE S.A.	Par	Cuatricromia	Medios Regionales	16x6	09	210.973	Publicado	Medios Regionales	CGE - Impar - (168100)	2015-8-12 00:00:00	
+80516	cesar o			UIP	5x4	10	5.630	Publicado	Italo Retamal	mov de tierra	2015-8-12 00:00:00	
+81802	ADA d			UIP	10x2	10	5.630	Publicado	Italo Retamal	zona ganya	2015-8-12 00:00:00	
+82120	CAMARA DE COMERCIO DE OVALLE	Par	Blanco y negro	Generales	12x2	12	28.248	Publicado	Leonel Pizarro-Ovalle	DEFUNCION	2015-8-12 00:00:00	
+82159	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x6	14	0	Publicado	Marcela Tello-ElDia		2015-8-12 00:00:00	

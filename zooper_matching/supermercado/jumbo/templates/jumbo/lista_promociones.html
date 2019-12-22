@@ -1,0 +1,34 @@
+{% extends 'base_lista.html' %}
+{% load staticfiles %}
+{% load common_tags %}
+
+{% block titulo_head %} Lista promociones {% endblock %}
+{% block titulo %} Supermercado Jumbo {% endblock %}
+
+
+{% block titulo_filtros %}Filtros jumbo{%endblock%}
+{% block body_filtros %}
+    <p><label for="nombre">Nombre<input name="nombre" type="text"></label></p>
+    <p><label for="estado">Estado<input name="estado" type="text"></label></p>
+    <p><label for="promocion_id">Promocion ID<input name="promocion_id" type="text"></label></p>
+{%endblock%}
+
+
+{% block titulo_card %}Lista de promociones{%endblock%}
+{% block url_json %}{% url 'supermercado:jumbo:lista-promociones-json' %}{% endblock %}
+
+{% block modal_elemento_titulo %}Promocion Jumbo{% endblock %}
+
+{% block obtener_filtros %}
+<script>
+    obtenerFiltros = function(){
+        return {
+            nombre:$('input[name=nombre]').val(),
+            estado:$('input[name=estado]').val(),
+            promocion_id:$('input[name=promocion_id]').val(),
+        }
+    }
+</script>
+{% endblock%}
+
+{% block url_json_elemento %}{% url 'supermercado:jumbo:ver-promocion-json' %}{% endblock %}

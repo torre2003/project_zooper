@@ -1,0 +1,48 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+86252	TESORERIA REGIONAL DE LA SERENA	Par	Cuatricromia	Generales	34x6	05	0	Publicado	Marcela Tello-ElDia	2015-10-12 00:00:00	
+85673	HABITA INMOBILIARIA SA	Par	Cuatricromia	Generales	35x3	07	0	Publicado	Miguel Apey	2015-10-12 00:00:00	
+85603	INVERSIONES E INMOBILIARIA P.A.T.  	Par	Cuatricromia	Generales	9x6	08	0	Publicado	Miguel Apey	2015-10-12 00:00:00	
+86024	ABRIL PUBLICIDAD INVERSIONES Y ASES	Impar	Cuatricromia	Generales	17x6	09	336.535	Publicado	Patricia Villena	2015-10-12 00:00:00	
+86266	DIARIO EL DIA	Par	Cuatricromia	Generales	20x3	10	0	Publicado	Marcela Tello-ElDia	2015-10-12 00:00:00	
+85692	SOC. EDUCACIONAL IRELAND Y OYARZUN 	Par	Cuatricromia	Generales	17x3	10	0	Publicado	Miguel Apey	2015-10-12 00:00:00	
+86069	SINDY GONZALEZ MARCHANT	Par	Blanco y negro	Generales	12x2	12	0	Publicado	Marcela Tello-ElDia	2015-10-12 00:00:00	
+86309	COMERCIALIZADORA DE ARCILLAS SAN NI	Par	Cuatricromia	Generales	10x2	12	0	Publicado	Marcela Tello-ElDia	2015-10-12 00:00:00	
+86214	INMOBILIARIA CHRISTIAN ALFREDO MEND	Par	Cuatricromia	Generales	15x2	12	0	Publicado	Claudio Romero	2015-10-12 00:00:00	
+85227	LABORATORIO CLINICO STA. MARIA LA S	Par	Blanco y negro	Generales	6x2	13	7.470	Publicado	Miguel Apey	2015-10-12 00:00:00	
+86468	AREVALO CARMEN			UIP	5x1	13	8.937	Publicado	Pedro Jaime	2015-10-12 00:00:00	
+85368	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	10x3	13	0	Publicado	Marcela Tello-ElDia	2015-10-12 00:00:00	
+86407	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	5x2	14	0	Publicado	Miguel Apey	2015-10-12 00:00:00	
+85248	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	14	8.306	Publicado	Miguel Apey	2015-10-12 00:00:00	
+86355	SINDY GONZALEZ MARCHANT	Par	Cuatricromia	Generales	17x3	15	0	Publicado	Marcela Tello-ElDia	2015-10-12 00:00:00	
+86356	HERRERA & MIHOC ASESORIAS E INVERSI	Par	Blanco y negro	Generales	17x3	15	0	Publicado	Claudio Romero	2015-10-12 00:00:00	
+85529	MARTIN JURE PATRICIA	Par	Cuatricromia	Generales	6x6	21	0	Publicado	Marcela Tello-ElDia	2015-10-12 00:00:00	
+85682	CONSTRUCTORA SAMCO LTDA	Par	Cuatricromia	Generales	9x6	22	0	Publicado	Miguel Apey	2015-10-12 00:00:00	
+86087	DIARIO EL DIA	Par	Cuatricromia	Generales	17x6	25	0	Publicado	Marcela Tello-ElDia	2015-10-12 00:00:00	
+86165	CENTRO MEDICO DENTAL STO. TOMAS LTD	Par	Cuatricromia	Generales	8x4	26	0	Publicado	Rene Pizarro	2015-10-12 00:00:00	
+86305	INMOBIL. LA SERENA GOLF S.A.	Impar	Cuatricromia	Generales	17x6	27	0	Publicado	Patricia Villena	2015-10-12 00:00:00	
+86462	DIARIO EL DIA	Par	Cuatricromia	Generales	12x6	28	0	Publicado	Marcela Tello-ElDia	2015-10-12 00:00:00	
+86316	ECHEVEVERRI ELIZABETH			UIP	5x1	29	8.937	Publicado	Pedro Jaime	2015-10-12 00:00:00	
+86379	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	4x5	29	20.508	Publicado	Miguel Apey	2015-10-12 00:00:00	
+85484	DIARIO EL DIA	Par	Blanco y negro	Generales	5x2	29	0	Publicado	Marcela Tello-ElDia	2015-10-12 00:00:00	
+86331	mihoc			UIP	5x1	29	8.937	Publicado	Claudio Romero	2015-10-12 00:00:00	
+86227	AGROPLASTIC LTDA.	Par	Blanco y negro	Generales	5x2	29	17.875	Publicado	Claudio Romero	2015-10-12 00:00:00	
+85304	SOC. COMERCIAL ALCAPARRA LTDA.	Par	Blanco y negro	Generales	5x2	29	10.440	Publicado	Patricia Villena	2015-10-12 00:00:00	
+85409	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	29	0	Publicado	Marcela Tello-ElDia	2015-10-12 00:00:00	
+84473	SOC. DE GESTION MEDITERRANEA			UIP	5x1	29	8.937	Publicado	Miguel Apey	2015-10-12 00:00:00	
+85541	ARMAQ			UIP	5x1	29	8.937	Publicado	Claudio Romero	2015-10-12 00:00:00	
+85987	DANIELLA PINTO	Par	Blanco y negro	Generales	5x1	29	9.155	Publicado	Pedro Jaime	2015-10-12 00:00:00	
+86052	MAQUINARIA DE 			UIP	17x1	29	29.333	Publicado	Rene Pizarro	2015-10-12 00:00:00	
+86003	AUTOMOTORES DEL NORTE	Par	Blanco y negro	Generales	5x1	29	7.427	Publicado	Miguel Apey	2015-10-12 00:00:00	
+84167	soc. comercial e inv. alto la seren			UIP	5x2	29	8.937	Publicado	Nadia Randolph	2015-10-12 00:00:00	
+84654	CERNA E HIJOS CIA. LTDA.	Par	Blanco y negro	Generales	5x1	29	4.468	Publicado	Nadia Randolph	2015-10-12 00:00:00	
+83686	SERVICIOS GENERALES GUAYACAN S.A	Par	Blanco y negro	Generales	3x2	30	6.451	Publicado	Jacqueline Torres	2015-10-12 00:00:00	
+86437	INMOBIL. E INVERSIONES AREYUNA E HI	Par	Cuatricromia	Generales	35x6	32	500.000	Publicado	Claudio Romero	2015-10-12 00:00:00	
+86480	CORPBANCA	559 Palabras		Legal	x	EC	138.823	Publicado	Pedro Jaime	2015-10-12 00:00:00	
+86481	CORPBANCA	493 Palabras		Legal	x	EC	122.521	Publicado	Pedro Jaime	2015-10-12 00:00:00	
+86467	CONSULTORIAS AGRICOLAS RICARDO SEPU	Par	Blanco y negro	Generales	2x1	EC-18	7.324	Publicado	Pedro Jaime	2015-10-12 00:00:00	
+86364	SOCIEDAD COMERCIAL Y SERVICIOS AQUA	Par	Blanco y negro	Generales	6x2	EC-18	43.944	Publicado	Pedro Jaime	2015-10-12 00:00:00	
+86177	DIARIO EL DIA	Par	Blanco y negro	Generales	5x2	EC-18	0	Publicado	Marcela Tello-ElDia	2015-10-12 00:00:00	
+84747	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Generales	5x1	EC-19	5.860	Publicado	Rene Pizarro	2015-10-12 00:00:00	
+86474	AREVALO CARMEN			UIP	5x1	EC-19	8.937	Publicado	Pedro Jaime	2015-10-12 00:00:00	
+86240	NAZARIO NELSON ESPINOZA GONZALEZ	Par	Blanco y negro	Generales	7x3	EC-19	0	Publicado	Miguel Apey	2015-10-12 00:00:00	
+86198	SOCIEDAD HOTELERA Y TURISMO COSTA A	Par	Blanco y negro	Generales	5x2	EC-20	32.958	Publicado	Pedro Jaime	2015-10-12 00:00:00	

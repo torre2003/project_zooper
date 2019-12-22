@@ -1,0 +1,13 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+164502	CAMPOS DEL NORTE S.A.	Par	Cuatricromia	Generales	5x6	01	23.333	Publicado	Patricia Villena	Franja Enjoy Portada EL Ovallino	2018-10-27 00:00:00	
+168118	DABED Y CIA. LTDA., SELIM	Par	Cuatricromia	Generales	6x6	03	23.076	Publicado	Karina Rivera	EDO 3	2018-10-27 00:00:00	
+168474	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x3	04	0	Arte	Marcela Tello-ElDia	www.elovallino.cl - Vive la experiencia	2018-10-27 00:00:00	
+168376	TESORERIA PROVINCIAL DEL LIMARI OVA	Par	Blanco y negro	Generales	16x3	04	123.585	Publicado	Marcela Tello-ElDia		2018-10-27 00:00:00	
+168378	TESORERIA PROVINCIAL DEL LIMARI OVA	Par	Blanco y negro	Generales	14x6	05	212.567	Publicado	Marcela Tello-ElDia		2018-10-27 00:00:00	
+168475	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	3x6	06	0	Arte	Marcela Tello-ElDia		2018-10-27 00:00:00	
+168476	PRENSA DEL LIMARI LTDA.	Par	Blanco y negro	Generales	8x3	07	0	Arte	Marcela Tello-ElDia	Nos trasladamos para ofrecerles un mejor servicio... El Ovallino	2018-10-27 00:00:00	
+168477	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	6x6	08	0	Arte	Marcela Tello-ElDia		2018-10-27 00:00:00	
+168208	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	12x6	09	0	Arte	Marcela Tello-ElDia	Avant Premiere - Club de Lectores	2018-10-27 00:00:00	
+168478	PRENSA DEL LIMARI LTDA.	Par	Blanco y negro	Generales	3x6	12	0	Arte	Marcela Tello-ElDia	Periodismo en todos los sentidos...	2018-10-27 00:00:00	
+168479	PRENSA DEL LIMARI LTDA.	Par	Blanco y negro	Generales	6x6	13	0	Arte	Marcela Tello-ElDia	Descuentos Cinemark	2018-10-27 00:00:00	
+164706	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	14	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2018-10-27 00:00:00	

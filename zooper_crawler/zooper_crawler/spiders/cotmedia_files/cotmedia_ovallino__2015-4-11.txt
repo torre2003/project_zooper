@@ -1,0 +1,11 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+73265	CALLEGARI LTDA.	Par	Cuatricromia	Generales	6x6	01	30.000	Publicado	Marcela Tello-ElDia	Kia - Portada	2015-4-11 00:00:00	
+72698	SOCIEDAD DE RENTAS FALABELLA S.A	Impar	Cuatricromia	Generales	35x6	03	400.000	Publicado	M Cristina Puga	open plaza /contraportada	2015-4-11 00:00:00	
+72370	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	10x3	07	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2015-4-11 00:00:00	
+72999	LA ELEGANTE	Par	Cuatricromia	Generales	8x6	08	0	Publicado	Patricia Villena	Franja bonificada	2015-4-11 00:00:00	
+73137	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	12x6	09	0	Publicado	Marcela Tello-ElDia	Avant Premiere - Club de Lectores	2015-4-11 00:00:00	
+73196	ILUSTRE MUNICIPALIDAD DE MONTE PATR	Par	Blanco y negro	Generales	18x3	13	102.329	Publicado	Claudio Romero	PROGRAMA AGROPECUARIO..	2015-4-11 00:00:00	
+73213	PRENSA DEL LIMARI LTDA.	Par	Blanco y negro	Generales	8x2	13	0	Publicado	Marcela Tello-ElDia	Hoy Circulan - Economicos	2015-4-11 00:00:00	
+72992	LA ELEGANTE	Par	Cuatricromia	Contraportada	35x6	16	177.172	Publicado	Patricia Villena	La elegante	2015-4-11 00:00:00	
+72930	EMPRESAS LA POLAR S.A.		9 a 24 pag.	Inserto	x	INS	160.000	Publicado	Patricia Villena	Inserto Belleza	2015-4-11 00:00:00	
+72673	EMPRESAS LA POLAR S.A.			Inserto	x	INS	180.000	Publicado	Patricia Villena	Feria del Hogar	2015-4-11 00:00:00	

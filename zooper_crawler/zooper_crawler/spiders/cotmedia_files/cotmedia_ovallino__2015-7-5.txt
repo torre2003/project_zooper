@@ -1,0 +1,7 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+78866	GATICA BRIONES SPA	Par	Blanco y negro	Generales	5x4	05	0	Publicado	Italo Retamal	promo hamburguesa 	2015-7-5 00:00:00	
+79044	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	10x3	07	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2015-7-5 00:00:00	
+79618	CAMAL MUSALEM TAPIA Y CIA.	Par	Blanco y negro	Generales	18x3	07	66.096	Publicado	Marcela Tello-ElDia	Bonos Imperdibles Toyota 	2015-7-5 00:00:00	
+79429	: LARA Y CIA. AGUILAS TOCANDO EL CI	Par	Blanco y negro	Generales	10x6	10	0	Publicado	Italo Retamal	tcm lara y cia	2015-7-5 00:00:00	
+79586	MARIA ANTONIETA JADUE	Par	Blanco y negro	Generales	8x2	11	39.171	Publicado	Leonel Pizarro-Ovalle	remate ovalle	2015-7-5 00:00:00	
+79590	SOCIEDAD MILTHON DUARTE Y HILDEGARD	Par	Blanco y negro	Generales	5x2	11	15.302	Publicado	Italo Retamal	venta casa	2015-7-5 00:00:00	

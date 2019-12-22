@@ -1,0 +1,24 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+142556	C.M. SOC. GASTRONOMICA LTDA.			UIP	5x2	04	7.208	Arte		2017-11-21 00:00:00	
+142986	CENTRO DE EDUC.CAP.Y FORMACION LABO	Par	Blanco y negro	Generales	5x2	04	4.666	Arte	Jacqueline Torres	2017-11-21 00:00:00	
+142767	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	5x2	04	0	Arte	Miguel Apey	2017-11-21 00:00:00	
+144298	CLARO CHILE S.A.	Impar	Cuatricromia	Generales	35x6	05	645.977	Arte	Kathine Soto-Stgo	2017-11-21 00:00:00	
+142355	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	13	8.306	Arte	Miguel Apey	2017-11-21 00:00:00	
+141553	CHRISTIAN LAUNITZ MARIN SERVICIOS M	Par	Blanco y negro	Generales	5x2	16	5.000	Arte	Heinger Vega Torres	2017-11-21 00:00:00	
+143900	DABED Y CIA. LTDA., SELIM	Par	Cuatricromia	Generales	6x6	17	27.700	Arte	Karina Rivera	2017-11-21 00:00:00	
+144301	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	10x2	19	43.480	Arte	Medios Regionales	2017-11-21 00:00:00	
+144306	DIARIO EL DIA	Par	Cuatricromia	Generales	15x6	23	0	Arte	Marcela Tello-ElDia	2017-11-21 00:00:00	
+142629	ARMAQ SUBIRI S.A.			UIP	5x1	24	8.937	Arte	Claudio Romero	2017-11-21 00:00:00	
+142394	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	4x5	24	20.508	Arte	Miguel Apey	2017-11-21 00:00:00	
+142274	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	24	0	Arte	Marcela Tello-ElDia	2017-11-21 00:00:00	
+142024	CERNA E HIJOS CIA. LTDA.	Par	Blanco y negro	Generales	5x1	24	3.574	Arte	Nadia Randolph	2017-11-21 00:00:00	
+144253	SOC. DE GES			UIP	5x1	24	8.937	Arte	Miguel Apey	2017-11-21 00:00:00	
+142433	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	6x6	25	0	Arte	Claudio Romero	2017-11-21 00:00:00	
+143358	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	27	0	Arte	Marcela Tello-ElDia	2017-11-21 00:00:00	
+144299	DIARIO EL DIA	Par	Blanco y negro	Generales	35x6	28	0	Arte	Carolina Naranjo	2017-11-21 00:00:00	
+143934	VELIZ CORTES JOSE A.	Par	Blanco y negro	Generales	3x2	29	13.403	Arte	Pedro Cortes	2017-11-21 00:00:00	
+142801	SERVICIOS GENERALES GUAYACAN S.A	Par	Blanco y negro	Generales	4x2	29	6.686	Arte	Jacqueline Torres	2017-11-21 00:00:00	
+142486	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Economico	5x2	EC	15.161	Arte	Rene Pizarro	2017-11-21 00:00:00	
+124013	HOTELERIA LUIS ALBERTO BERETTA KIEK	Par	Blanco y negro	Generales	5x2	EC	6.061	Arte	Patricia Villena	2017-11-21 00:00:00	
+144285	CONSTRUCTORA SERENA LTDA.	Home	Banner Cabecera	Web	0x0	XX	200.000	Arte		2017-11-21 00:00:00	
+144286	INMOBILIARIA SERENA S.A.	Home	Banner Cabecera	Web	0x0	XX	200.000	Arte		2017-11-21 00:00:00	

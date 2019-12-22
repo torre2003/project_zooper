@@ -1,0 +1,9 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+142743	INMOBILIARIA NUEVA SERENA			UIP	10x6	05	16.260	Publicado	Claudio Romero	LLANOS DE SAN LUIS ..SE CONFIRMARA SI REPITE CASAS Y DEPARTAMENTOS	2017-11-30 00:00:00	
+138364	CENTRO DE SALUD PORTALES LTDA			UIP	5x4	07	4.504	Publicado	Karina Rivera		2017-11-30 00:00:00	
+144390	AGRICOLA NORTE TALINAY LTDA	Par	Blanco y negro	Generales	5x2	07	1.666	Publicado	Paola Marquez	UIP VENTA ALFALFA	2017-11-30 00:00:00	
+143401	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	08	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2017-11-30 00:00:00	
+144648	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Cuatricromia	Medios Regionales	16x6	09	210.973	Arte	Medios Regionales	Proximity Chile S.A. - Sercotec - (201593) Impar	2017-11-30 00:00:00	
+144934	INSTITUTO DE PREVISION SOCIAL	Par	Blanco y negro	Generales	17x3	11	120.054	Publicado	Karina Rivera	IPS APORTE FAMILIAR	2017-11-30 00:00:00	
+143972	VELIZ CORTES JOSE A.			UIP	5x2	14	4.695	Publicado	Pedro Cortes		2017-11-30 00:00:00	
+144972	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	6x6	14	0	Arte	Marcela Tello-ElDia		2017-11-30 00:00:00	

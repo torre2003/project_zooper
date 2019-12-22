@@ -1,0 +1,10 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+160958	FERNANDO GARCIA GARCIA			UIP	5x2	05	2.808	Publicado	Karina Rivera	ARRIENDO PARCELA	2018-8-7 00:00:00	
+161433	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	12x6	06	0	Arte	Marcela Tello-ElDia	Vive la experiencia de estar bien informado...	2018-8-7 00:00:00	
+160568	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	08	0	Arte	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2018-8-7 00:00:00	
+159387	JONATHAN CLAUDIO SANHUEZA OJEDA	Par	Cuatricromia	Generales	5x2	09	0	Publicado	Karina Rivera	TRAUMATOLOGO SANHUEZA (GUIA PROFESIONAL)	2018-8-7 00:00:00	
+159406	SERVICIOS MEDICOS INVERSIONES E INM	Par	Cuatricromia	Generales	10x2	09	0	Publicado	Karina Rivera	CENTRO MEDICO CIM	2018-8-7 00:00:00	
+161393	OSSANDON PRESTACIONES MEDICAS Y OTR			UIP	5x2	09	3.879	Publicado	Karina Rivera	MEDICO CIRUJANO ALEJANDRO MANRIQUEZ	2018-8-7 00:00:00	
+161378	IVAN HERNANDEZ	85 Palabras		Legal	x	14	21.080	Publicado	Karina Rivera	EXTRACTO POSESION EFECTIVA	2018-8-7 00:00:00	
+161434	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	6x6	14 	0	Arte	Marcela Tello-ElDia		2018-8-7 00:00:00	
+161389	ILUSTRE MUNICIPALIDAD DE OVALLE	Par	Cuatricromia	Generales	6x6	16	37.500	Publicado	Karina Rivera		2018-8-7 00:00:00	

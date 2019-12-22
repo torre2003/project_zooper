@@ -1,0 +1,5 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+65592	SOCIEDAD DE RENTAS FALABELLA S.A	Impar	Cuatricromia	Contraportada	35x6	03	400.000	Publicado	M Cristina Puga	Open Plaza / Contraportada	2015-1-10 00:00:00	
+66496	EMPRESA PERIODISTICA EL NORTE S.A.	Par	Blanco y negro	Medios Regionales	8x2	07	22.016	Publicado	Medios Regionales		2015-1-10 00:00:00	
+65655	LA ELEGANTE	Par	Cuatricromia	Generales	8x6	09	0	Publicado	Patricia Villena	Franja La Elegante bonificada	2015-1-10 00:00:00	
+65642	LA ELEGANTE	Par	Cuatricromia	Contraportada	35x6	16	177.172	Publicado	Patricia Villena	La elegante	2015-1-10 00:00:00	

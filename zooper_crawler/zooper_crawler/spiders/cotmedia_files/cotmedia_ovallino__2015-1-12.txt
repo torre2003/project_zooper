@@ -1,0 +1,6 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+64820	SOC. AUTOMOTRIZ COVALSA CENTER LTDA	Par	Blanco y negro	Generales	10x6	05	22.222	Publicado	Claudio Romero	COVALSA..PROMOCIONES...	2015-1-12 00:00:00	
+66361	tremendo			UIP	10x2	07	5.630	Publicado	Italo Retamal	Tremendo Restaurante	2015-1-12 00:00:00	
+66391	Marcela Burgos Robles			UIP	10x2	07	5.630	Publicado	Italo Retamal	agrogranjalosacacios	2015-1-12 00:00:00	
+66545	rio hur			UIP	10x6	09	16.260	Publicado	Italo Retamal		2015-1-12 00:00:00	
+65403	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	6x6	11	16.065	Publicado	Claudio Romero	Muebles Alpina	2015-1-12 00:00:00	

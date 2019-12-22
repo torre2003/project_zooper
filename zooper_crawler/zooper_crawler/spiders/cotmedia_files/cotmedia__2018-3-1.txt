@@ -1,0 +1,40 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+150843	LABORATORIO CLINICO STA. MARIA LA S	Par	Blanco y negro	Generales	6x2	04	7.470	Publicado	Miguel Apey	2018-3-1 00:00:00	
+150954	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	5x2	04	0	Publicado	Miguel Apey	2018-3-1 00:00:00	
+151113	CASA DE ESTUDIOS PEDRO DE VALDIVIA 	Impar	Cuatricromia	Generales	35x6	05	839.770	Publicado	M Cristina Puga	2018-3-1 00:00:00	
+150709	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	06	0	Publicado	Marcela Tello-ElDia	2018-3-1 00:00:00	
+151079	CAMPOS DEL NORTE S.A.	Par	Cuatricromia	Generales	17x3	06	0	Arte	Patricia Villena	2018-3-1 00:00:00	
+151110	DEFENSORIA PENAL PUBLICA	Par	Blanco y negro	Generales	17x3	07	0	Publicado	Claudio Romero	2018-3-1 00:00:00	
+150997	DEL RIO VARELA JORGE	Par	Blanco y negro	Generales	8x2	07	41.015	Publicado	Pedro Jaime	2018-3-1 00:00:00	
+151136	DIARIO EL DIA	Par	Cuatricromia	Generales	17x6	08	0	Publicado	Marcela Tello-ElDia	2018-3-1 00:00:00	
+150417	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Cuatricromia	Medios Regionales	16x6	09	324.811	Publicado	Medios Regionales	2018-3-1 00:00:00	
+150795	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	11	8.306	Publicado	Miguel Apey	2018-3-1 00:00:00	
+151114	BUALE GRUP LTDA.	Par	Cuatricromia	Generales	17x6	11	360.000	Publicado	Marcela Tello-ElDia	2018-3-1 00:00:00	
+150986	SERVICIOS DE TRANSPORTES DE PASAJER	Par	Blanco y negro	Generales	7x2	12	51.268	Publicado	Miguel Apey	2018-3-1 00:00:00	
+150854	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Generales	8x2	12	58.592	Publicado	Marcela Tello-ElDia	2018-3-1 00:00:00	
+151118	DIARIO EL DIA	Par	Cuatricromia	Generales	34x2	12	0	Publicado	Marcela Tello-ElDia	2018-3-1 00:00:00	
+150923	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	6x6	16	51.666	Publicado	Claudio Romero	2018-3-1 00:00:00	
+150996	SERVICIO DE REGISTRO CIVIL E IDENTI	Impar	Blanco y negro	Generales	35x6	19-21	719.803	Publicado	Jacqueline Torres	2018-3-1 00:00:00	
+151138	DIARIO EL DIA	Par	Cuatricromia	Generales	12x6	22	0	Publicado	Marcela Tello-ElDia	2018-3-1 00:00:00	
+150661	MOP OOPP	219 Palabras		Legal	x	22	54.312	Publicado	Jacqueline Torres	2018-3-1 00:00:00	
+150662	MOP OOPP	219 Palabras		Legal	x	22	54.312	Publicado	Jacqueline Torres	2018-3-1 00:00:00	
+150669	MOP OOPP	219 Palabras		Legal	x	22	54.312	Publicado	Jacqueline Torres	2018-3-1 00:00:00	
+150663	MOP OOPP	219 Palabras		Legal	x	22	54.312	Publicado	Jacqueline Torres	2018-3-1 00:00:00	
+150664	MOP OOPP	219 Palabras		Legal	x	22	54.312	Publicado	Jacqueline Torres	2018-3-1 00:00:00	
+150665	MOP OOPP	219 Palabras		Legal	x	22	54.312	Publicado	Jacqueline Torres	2018-3-1 00:00:00	
+150666	MOP OOPP	219 Palabras		Legal	x	22	54.312	Publicado	Jacqueline Torres	2018-3-1 00:00:00	
+150667	MOP OOPP	219 Palabras		Legal	x	22	54.312	Publicado	Jacqueline Torres	2018-3-1 00:00:00	
+150668	MOP OOPP	219 Palabras		Legal	x	22	54.312	Publicado	Jacqueline Torres	2018-3-1 00:00:00	
+151009	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	25	0	Publicado	Marcela Tello-ElDia	2018-3-1 00:00:00	
+151010	PILLA LA VACA	Par	Blanco y negro	Generales	5x2	26	0	Publicado	Marcela Tello-ElDia	2018-3-1 00:00:00	
+151008	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	26	0	Publicado	Marcela Tello-ElDia	2018-3-1 00:00:00	
+148606	CERNA E HIJOS CIA. LTDA.	Par	Blanco y negro	Generales	5x1	26	3.574	Publicado	Nadia Randolph	2018-3-1 00:00:00	
+148496	SOC. DE GES			UIP	5x1	26	8.937	Publicado	Miguel Apey	2018-3-1 00:00:00	
+150765	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	4x5	26	20.508	Publicado	Miguel Apey	2018-3-1 00:00:00	
+151139	DIARIO EL DIA	Par	Blanco y negro	Generales	12x6	29	0	Publicado	Marcela Tello-ElDia	2018-3-1 00:00:00	
+151015	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Economico	5x2	EC-17	15.161	Publicado	Rene Pizarro	2018-3-1 00:00:00	
+150697	FRANCISCO CORRALES GONZALEZ	Par	Blanco y negro	Generales	6x2	EC-18	30.322	Publicado	Pedro Jaime	2018-3-1 00:00:00	
+150110	SOC. COMERCIAL VARGAS Y GIACOMET			UIP	5x1	EC-18	7.149	Publicado	Rene Pizarro	2018-3-1 00:00:00	
+151137	DIARIO EL DIA	Par	Blanco y negro	Generales	12x6	EC-18	0	Publicado	Marcela Tello-ElDia	2018-3-1 00:00:00	
+150739	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	8x2	EC-18	36.523	Publicado	Medios Regionales	2018-3-1 00:00:00	
+151012	INMOBILIARIA CONPACES S.A.		111 Frases	Radio	x	RAD	500.000	Publicado	Paola Marquez	2018-3-1 00:00:00	

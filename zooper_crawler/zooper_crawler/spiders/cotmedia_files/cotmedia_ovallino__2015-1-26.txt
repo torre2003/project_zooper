@@ -1,0 +1,7 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+65554	ABRIL PUBLICIDAD INVERSIONES Y ASES	Impar	Cuatricromia	Generales	35x6	03	445.386	Publicado	Patricia Villena	Santo Tomas primera impar (AGENCIA)	2015-1-26 00:00:00	
+67270	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	12x6	06	0	Publicado	Marcela Tello-ElDia	Turismo - El Ovallino	2015-1-26 00:00:00	
+67220	DABED Y CIA. LTDA., SELIM	Impar	Cuatricromia	Generales	6x6	08	23.077	Publicado	Italo Retamal	MOTO DABED	2015-1-26 00:00:00	
+65409	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	6x6	09	16.065	Publicado	Claudio Romero	Muebles Alpina	2015-1-26 00:00:00	
+67323	SOC. HOTELERA VICHUQUEN LTDA.	Par	Cuatricromia	Generales	10x3	11	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2015-1-26 00:00:00	
+67511	PARQUES DE CHILE S.A	Par	Cuatricromia	Generales	17x3	11	0	Arte	Rene Pizarro	Parques de Chile...( nuevo )	2015-1-26 00:00:00	

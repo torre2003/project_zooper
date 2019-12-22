@@ -1,0 +1,7 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+114232	Pedro Andres Monardez Elgueta			UIP	17x2	01	12.895	Publicado	Karina Rivera	Restaurant Riquisimo	2016-11-5 00:00:00	
+113642	sandra paola			UIP	17x2	05	9.211	Publicado	Karina Rivera	Reserva Temporada Piscina El Eden de la Chimba	2016-11-5 00:00:00	
+115418	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	07	0	Arte	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2016-11-5 00:00:00	
+115081	DABED Y CIA. LTDA., SELIM	Par	Cuatricromia	Generales	6x6	08	23.076	Publicado	Karina Rivera	3 PRIMAVERA DABED	2016-11-5 00:00:00	
+115765	OVALLE CASINO RESORT S.A	Par	Cuatricromia	Generales	25x4	09	151.598	Publicado	Paola Marquez	OCR Eventos Noviembre	2016-11-5 00:00:00	
+115971	ILUSTRE MUNICIPALIDAD DE OVALLE	Par	Blanco y negro	Generales	12x2	12	64.971	Publicado	Marcela Tello-ElDia	Condolencias - Felipe Vasquez Rivera	2016-11-5 00:00:00	

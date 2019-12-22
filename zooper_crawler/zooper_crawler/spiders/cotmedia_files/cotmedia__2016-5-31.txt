@@ -1,0 +1,51 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+101840	CHRISTIAN LAURITZ MARIN	Par	Blanco y negro	Generales	4x2	04	6.666	Publicado	Jacqueline Torres	2016-5-31 00:00:00	
+103446	WILLIAMSON BALFOUR MOTORS S.A	Impar	Cuatricromia	Generales	17x6	05	439.265	Publicado	Paola Marquez	2016-5-31 00:00:00	
+103964	CLARO CHILE S.A.	Impar	Cuatricromia	Generales	35x6	07	645.977	Publicado	Kathine Soto-Stgo	2016-5-31 00:00:00	
+103300	GALLARDO Y OTRA			UIP	5x1	09	8.937	Publicado	Pedro Jaime	2016-5-31 00:00:00	
+104002	DIARIO EL DIA	Par	Blanco y negro	Generales	34x6	11	0	Publicado	Marcela Tello-ElDia	2016-5-31 00:00:00	
+101345	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	5x2	13	0	Publicado	Miguel Apey	2016-5-31 00:00:00	
+103540	AREVALO CARMEN 			UIP	5x1	13	8.937	Publicado	Pedro Jaime	2016-5-31 00:00:00	
+101969	DIARIO EL DIA	Par	Blanco y negro	Generales	5x2	13	0	Publicado	Marcela Tello-ElDia	2016-5-31 00:00:00	
+103554	SOC. DE GESTION MEDITERRANEA			UIP	5x1	13	8.937	Publicado	Miguel Apey	2016-5-31 00:00:00	
+101560	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	16	0	Publicado	Marcela Tello-ElDia	2016-5-31 00:00:00	
+101162	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	17	8.306	Publicado	Miguel Apey	2016-5-31 00:00:00	
+102358	DIARIO EL DIA	Par	Cuatricromia	Generales	8x6	17	0	Publicado	Marcela Tello-ElDia	2016-5-31 00:00:00	
+103986	SERVICIO DE REGISTRO CIVIL E IDENTI	Par	Blanco y negro	Generales	17x6	23	0	Publicado	Jacqueline Torres	2016-5-31 00:00:00	
+103369	DIARIO EL DIA	Par	Blanco y negro	Generales	35x6	24	0	Publicado	Carolina Naranjo	2016-5-31 00:00:00	
+103483	DIARIO EL DIA	Impar	Blanco y negro	Generales	35x6	25	0	Publicado	Carolina Naranjo	2016-5-31 00:00:00	
+103323	ventura			UIP	5x1	30	8.937	Publicado	Maria_Amelia Hermosilla	2016-5-31 00:00:00	
+103490	DAVILA CARLOS			UIP	5x1	30	8.937	Publicado	Pedro Jaime	2016-5-31 00:00:00	
+103288	sebastian iglesia			UIP	5x1	30	8.937	Publicado	Patricia Villena	2016-5-31 00:00:00	
+100542	SOC.COMERCIAL ALTOS LA SERENA LTDA	Par	Blanco y negro	Generales	5x2	30	8.937	Publicado	Nadia Randolph	2016-5-31 00:00:00	
+102771	SERVICIOS GASTRON?MICOS LA CASONA D	Par	Blanco y negro	Generales	5x2	30	10.725	Publicado	Miguel Apey	2016-5-31 00:00:00	
+101192	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	4x5	30	20.508	Publicado	Miguel Apey	2016-5-31 00:00:00	
+101310	SOC. COMERCIAL ALCAPARRA LTDA.	Par	Blanco y negro	Generales	5x2	30	10.440	Publicado	Patricia Villena	2016-5-31 00:00:00	
+102120	CERNA E HIJOS CIA. LTDA.	Par	Blanco y negro	Generales	5x1	30	4.524	Publicado	Nadia Randolph	2016-5-31 00:00:00	
+101624	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	30	0	Publicado	Marcela Tello-ElDia	2016-5-31 00:00:00	
+101810	SERVICIOS GENERALES GUAYACAN S.A	Par	Blanco y negro	Generales	4x2	31	6.666	Publicado	Jacqueline Torres	2016-5-31 00:00:00	
+103997	PASTENE OLIVARES LINO	Par	Blanco y negro	Generales	12x2	31	58.007	Publicado	Pedro Jaime	2016-5-31 00:00:00	
+103996	VIOLETA AGUILERA	Par	Blanco y negro	Generales	12x2	31	55.370	Publicado	Pedro Jaime	2016-5-31 00:00:00	
+103900	ROSA GALVEZ TABILO	Par	Blanco y negro	Generales	12x2	31	52.733	Publicado	Claudio Romero	2016-5-31 00:00:00	
+102876	DIARIO EL DIA	Par	Blanco y negro	Generales	5x2	EC-19	0	Publicado	Marcela Tello-ElDia	2016-5-31 00:00:00	
+103451	INMOBILIARIA PATRICIO ARAYA CAMPA?A	Par	Blanco y negro	Generales	5x2	EC-19	0	Publicado	Claudio Romero	2016-5-31 00:00:00	
+101418	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Generales	5x1	EC-20	5.860	Publicado	Rene Pizarro	2016-5-31 00:00:00	
+103995	BANCO DE CREDITO E INVERSIONES	951 Palabras		Legal	x	EC-20	235.966	Publicado	Pedro Jaime	2016-5-31 00:00:00	
+100919	HOTELERIA LUIS ALBERTO BERETTA KIEK	Par	Blanco y negro	Generales	5x2	EC-20	8.937	Publicado	Patricia Villena	2016-5-31 00:00:00	
+102573	DABED Y CIA. LTDA., SELIM		1 pag.	Inserto	x	INS	69.882	Publicado	Marcela Tello-ElDia	2016-5-31 00:00:00	
+103939	ACADEMIA DE DACTILOGRAFIA FUTURO	262 Palabras		Propiedades	x	PROP	42.017	Publicado	Rene Pizarro	2016-5-31 00:00:00	
+103978	BRAVO DE VON TROTT CARMEN	983 Palabras		Propiedades	x	PROP	157.280	Publicado	Claudio Romero	2016-5-31 00:00:00	
+103979	MONSERRAT NU?EZ PROPIEDADES LTDA.	184 Palabras		Propiedades	x	PROP	29.440	Publicado	Claudio Romero	2016-5-31 00:00:00	
+103899	PESQUERA VILLA ALEGRE Y CIA. LTDA.	289 Palabras		Propiedades	x	PROP	46.240	Publicado	Pedro Jaime	2016-5-31 00:00:00	
+103998	MONSALVES Y PINEDA INVERSIONES LTDA	524 Palabras		Propiedades	x	PROP	99.580	Publicado	Rene Pizarro	2016-5-31 00:00:00	
+103897	SOC. AMENABAR REYES Y AMENABAR LTDA	376 Palabras		Propiedades	x	PROP	60.160	Publicado	Pedro Jaime	2016-5-31 00:00:00	
+103876	HANSHING Y BERTOLLA SPA	399 Palabras		Propiedades	x	PROP	63.840	Publicado	Pedro Jaime	2016-5-31 00:00:00	
+103878	JORGE LLANOS TORRES	413 Palabras		Propiedades	x	PROP	66.080	Publicado	Pedro Jaime	2016-5-31 00:00:00	
+103879	ESTAY BRAVO CESAR	635 Palabras		Propiedades	x	PROP	101.681	Publicado	Pedro Jaime	2016-5-31 00:00:00	
+103889	MONTA?O MONTA?O OLGA	266 Palabras		Propiedades	x	PROP	42.605	Publicado	Pedro Jaime	2016-5-31 00:00:00	
+103890	COMERCIAL AUTOKARINO LTDA.	316 Palabras		Propiedades	x	PROP	50.560	Publicado	Pedro Jaime	2016-5-31 00:00:00	
+103891	AUTOMOTRIZ PEDREGAL LTDA.	431 Palabras		Propiedades	x	PROP	68.960	Publicado	Pedro Jaime	2016-5-31 00:00:00	
+103893	ASESORIAS E INVERSIONES HUNTER SPAS	329 Palabras		Propiedades	x	PROP	52.640	Publicado	Pedro Jaime	2016-5-31 00:00:00	
+103895	THE HOUSE DREAM S.A.	1181 Palabras		Propiedades	x	PROP	188.960	Publicado	Pedro Jaime	2016-5-31 00:00:00	
+103896	ESTUDIO JURIDICO SEGOVIA Y ASOCIADO	135 Palabras		Propiedades	x	PROP	21.600	Publicado	Pedro Jaime	2016-5-31 00:00:00	
+104041	AMENABAR PROPIEDADES LTDA.	2524 Palabras		Propiedades	x	PROP	403.840	Publicado	M Cristina Puga	2016-5-31 00:00:00	

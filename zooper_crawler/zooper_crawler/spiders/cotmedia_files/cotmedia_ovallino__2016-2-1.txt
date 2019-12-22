@@ -1,0 +1,7 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+94615	AUTOMOTRIZ CARMONA	Par	Cuatricromia	Generales	6x6	01	23.076	Publicado	Marcela Tello-ElDia	Lets Rock - Nissan - Portada (si hay disponibilidad)	2016-2-1 00:00:00	
+94518	EMPRESA PERIODISTICA EL NORTE S.A.	Par	Cuatricromia	Medios Regionales	16x6	03	210.973	Publicado	Medios Regionales	Impar - Materiales y Soluciones - Mixa - (16522)	2016-2-1 00:00:00	
+94550	FERNANDO SANCHEZ			UIP	5x2	05	2.808	Publicado	Leonel Pizarro-Ovalle	AGUAS SUBTERRANEAS	2016-2-1 00:00:00	
+94666	ALEJANDRA NU?EZ	Par	Blanco y negro	Generales	5x2	05	23.540	Publicado	Leonel Pizarro-Ovalle	provincial Ovalle FC	2016-2-1 00:00:00	
+95090	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	07	0	Arte	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2016-2-1 00:00:00	
+94726	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	6x6	09	16.065	Publicado	Claudio Romero	Muebles Alpina	2016-2-1 00:00:00	

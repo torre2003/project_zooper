@@ -1,0 +1,8 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+102176	ALBERTO GALLARDO FLORES	Par	Cuatricromia	Generales	6x6	01	71.185	Publicado	Patricia Villena		2016-5-9 00:00:00	
+102334	AUTOMOTRIZ CARMONA	Par	Cuatricromia	Generales	6x6	03	23.076	Publicado	Marcela Tello-ElDia	Nissan March Active	2016-5-9 00:00:00	
+100662	AGRICOLA NORTE TALINAY LTDA	Par	Blanco y negro	Generales	5x2	05	1.666	Publicado	Paola Marquez	UIP VENTA ALFALFA	2016-5-9 00:00:00	
+101586	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	07	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2016-5-9 00:00:00	
+101452	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	6x6	09	16.065	Publicado	Claudio Romero	Muebles Alpina	2016-5-9 00:00:00	
+102238	ILUSTRE MUNICIPALIDAD DE MONTE PATR	Par	Blanco y negro	Generales	17x6	13	0	Publicado	Claudio Romero		2016-5-9 00:00:00	
+102328	VALENTINA ANDREA PIZARRO VIERA			UIP	5x2	14	2.808	Publicado	Leonel Pizarro-Ovalle		2016-5-9 00:00:00	

@@ -1,0 +1,10 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+145665	CAMAL MUSALEM TAPIA Y CIA.	Par	Cuatricromia	Generales	34x4	03	233.036	Publicado	Marcela Tello-ElDia	Toyota New Yaris 	2017-12-10 00:00:00	
+145673	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	06	0	Arte	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2017-12-10 00:00:00	
+131293	SOCIEDAD MEDICA Y CONSULTORA ESTETI		Cuatricromia	Guia	5x2	08	13.333	Publicado	Maria_Amelia Hermosilla	Diego Polanco	2017-12-10 00:00:00	
+136061	INVERSIONES TANGUEMAR LIMITADA	Par	Blanco y negro	Generales	5x2	08	21.422	Publicado	Patricia Villena	Tanguemar	2017-12-10 00:00:00	
+145260	DEL RIO VARELA JORGE	Par	Blanco y negro	Generales	7x2	08	29.990	Publicado	Pedro Jaime	JDV REMATES , 8 X  3 , LIGHTS 	2017-12-10 00:00:00	
+144760	OVALLE CASINO RESORT S.A	Par	Cuatricromia	Generales	25x4	09	171.372	Publicado	Paola Marquez	OCR Eventos diciembre	2017-12-10 00:00:00	
+145656	GASCO GLP S.A.	Impar	Cuatricromia	Generales	17x3	11	0	Arte	Patricia Villena	aviso anuncio Inserto Calendario 2018	2017-12-10 00:00:00	
+143982	VELIZ CORTES JOSE A.			UIP	5x2	14	4.695	Publicado	Pedro Cortes		2017-12-10 00:00:00	
+145716	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	6x6	14	0	Arte	Marcela Tello-ElDia		2017-12-10 00:00:00	

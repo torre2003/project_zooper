@@ -1,0 +1,8 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+157245	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	06	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2018-6-23 00:00:00	
+156936	SERGIO ANTONIO ANDRADRE ARAYA	Par	Cuatricromia	Generales	17x2	08	9.671	Publicado	Karina Rivera	CENTRO ODONTOLOGICO SOCOS (GUIA PROFESIONAL)	2018-6-23 00:00:00	
+157757	ESTUDIO JURIDICO POLO & CONTADOR	Par	Cuatricromia	Generales	5x2	08	3.931	Publicado	Karina Rivera	ESTUDIO JURIDICO POLO & CONTADOR (GUIA PROFESIONAL)	2018-6-23 00:00:00	
+157771	ANDRES AGUILERA CASTILLO	Par	Cuatricromia	Generales	10x2	08	6.813	Publicado	Karina Rivera		2018-6-23 00:00:00	
+158559	ERICH UGARTE HALYBURTON	Par	Blanco y negro	Generales	15x3	09	36.843	Publicado	Karina Rivera	CEMENTERIO PARROQUIAL PUNITAQUI	2018-6-23 00:00:00	
+158585	PRENSA DEL LIMARI LTDA.	Par	Blanco y negro	Generales	17x6	12	0	Arte	Marcela Tello-ElDia		2018-6-23 00:00:00	
+158586	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	6x6	14	0	Arte	Marcela Tello-ElDia	Cupones Descuentos Cinemark	2018-6-23 00:00:00	

@@ -1,0 +1,15 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+132717	OVALLE CASINO RESORT S.A	Par	Cuatricromia	Generales	25x4	03	171.372	Publicado	Paola Marquez	OCR Eventos Julio	2017-7-23 00:00:00	
+132981	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	10x2	05	28.900	Publicado	Medios Regionales	PARQUES DE CHILE ( 81737   ) 	2017-7-23 00:00:00	
+134645	EMPRESA PERIODISTICA EL NORTE S.A.	Par	Blanco y negro	Generales	16x2	05	97.927	Publicado	Marcela Tello-ElDia	Parques de Chile S.A. - (124468)	2017-7-23 00:00:00	
+134359	ESTUDIO JURIDICO OLIVARES Y CIA. SP	Par	Blanco y negro	Generales	5x2	05	2.000	Publicado	Jacqueline Torres	ESTUDIO JURIDICO OLIVARES	2017-7-23 00:00:00	
+131273	SOCIEDAD MEDICA Y CONSULTORA ESTETI		Cuatricromia	Guia	5x2	06	13.333	Publicado	Maria_Amelia Hermosilla	Diego Polanco	2017-7-23 00:00:00	
+133917	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x3	06	0	Publicado	Marcela Tello-ElDia	PRECIO A 2000 EN CINEMARK	2017-7-23 00:00:00	
+134672	CAMAL MUSALEM TAPIA Y CIA.	Par	Cuatricromia	Generales	34x5	07	208.080	Publicado	Marcela Tello-ElDia	TOYOTA MUSALEM 	2017-7-23 00:00:00	
+134401	AGUAS DEL VALLE S.A.	Par	Cuatricromia	Generales	17x6	08	262.198	Publicado	Jacqueline Torres	sociales	2017-7-23 00:00:00	
+134330	CALLEGARI LTDA.	Par	Cuatricromia	Generales	17x6	09	174.777	Publicado	Marcela Tello-ElDia	Ford Ranger	2017-7-23 00:00:00	
+134325	CALLEGARI LTDA.	Par	Cuatricromia	Generales	17x6	11	174.777	Publicado	Marcela Tello-ElDia	Mitsubishi Work	2017-7-23 00:00:00	
+133137	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	12	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2017-7-23 00:00:00	
+134675	AUTOMOTRIZ CARMONA	Par	Cuatricromia	Generales	17x6	13	174.777	Publicado	Marcela Tello-ElDia	Volkswagen Gol y Voyage	2017-7-23 00:00:00	
+133946	VELIZ CORTES JOSE A.	Par	Blanco y negro	Generales	5x2	14	16.960	Publicado	Pedro Cortes		2017-7-23 00:00:00	
+134678	PRENSA DEL LIMARI LTDA.	Par	Blanco y negro	Generales	6x6	14	0	Arte	Marcela Tello-ElDia		2017-7-23 00:00:00	

@@ -1,0 +1,6 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+158515	MACAL LTDA.	Par	Cuatricromia	Generales	17x6	03	305.898	Publicado	Karina Rivera	DEPARTAMENTOS EN OVALLE	2018-6-24 00:00:00	
+158714	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	6x6	05	0	Arte	Marcela Tello-ElDia		2018-6-24 00:00:00	
+157492	DABED Y CIA. LTDA., SELIM	Par	Cuatricromia	Generales	6x6	08	23.082	Publicado	Karina Rivera	O3	2018-6-24 00:00:00	
+158709	CAMAL MUSALEM TAPIA Y CIA.	Par	Cuatricromia	Generales	34x5	09	291.380	Publicado	Marcela Tello-ElDia	Toyota - Aprovecha en Junio - Bonos del Mes del Padre	2018-6-24 00:00:00	
+157250	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	14	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2018-6-24 00:00:00	

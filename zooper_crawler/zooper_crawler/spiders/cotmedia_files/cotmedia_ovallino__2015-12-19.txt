@@ -1,0 +1,10 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+89776	FALABELLA RETAIL S.A.	Impar	Cuatricromia	Generales	10x6	01	0	Arte	M Cristina Puga	Falabella /huincha en portada	2015-12-19 00:00:00	
+91559	INVERSIONES AVANZADA LTDA	Par	Blanco y negro	Generales	5x2	04	5.833	Publicado	Jacqueline Torres	campo lindo valle	2015-12-19 00:00:00	
+81444	Tanguemar			UIP	5x2	05	2.808	Publicado	Patricia Villena	Tanguemar	2015-12-19 00:00:00	
+88491	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	10x3	05	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2015-12-19 00:00:00	
+91428	INMOBILIARIA OASIS DEL LIMAR? LTDA	Par	Blanco y negro	Generales	5x2	05	1.428	Publicado	Italo Retamal	arriendo local oasis	2015-12-19 00:00:00	
+91526	SOC. AGRICOLA ANGOSTURA LTDA.	Par	Blanco y negro	Generales	10x2	07	54.142	Publicado	Leonel Pizarro-Ovalle	ADMINISTRATIVO CONTABLE	2015-12-19 00:00:00	
+90928	SOCIEDAD DE RENTAS FALABELLA S.A	Impar	Cuatricromia	Generales	17x6	09	200.000	Publicado	M Cristina Puga	Open full promo	2015-12-19 00:00:00	
+91614	PRENSA DEL LIMARI LTDA.	Par	Blanco y negro	Generales	17x6	14	0	Publicado	Marcela Tello-ElDia	www.elovallino.cl	2015-12-19 00:00:00	
+89967	FALABELLA RETAIL S.A.	Impar	Cuatricromia	Contraportada	35x6	16	400.000	Arte	M Cristina Puga	Falabella	2015-12-19 00:00:00	

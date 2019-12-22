@@ -1,0 +1,14 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+80974	SOCIEDAD DE RENTAS FALABELLA S.A	Par	Cuatricromia	Generales	8x6	01	50.980	Publicado	M Cristina Puga	Huincha portada Open Plaza	2015-8-14 00:00:00	
+81608	AUTOMOTRIZ CARMONA	Par	Cuatricromia	Generales	7x6	03	23.077	Publicado	Marcela Tello-ElDia	Ya estamos en Ovalle - Impar	2015-8-14 00:00:00	
+82217	matiz			UIP	5x2	05	2.808	Publicado	Italo Retamal	busca personal 	2015-8-14 00:00:00	
+81975	jorge alvara			UIP	5x2	05	2.808	Publicado	Italo Retamal	abogado	2015-8-14 00:00:00	
+81879	centro de co			UIP	10x2	05	5.630	Publicado	Italo Retamal	centro colina	2015-8-14 00:00:00	
+81268	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	6x6	06	16.065	Publicado	Claudio Romero	Muebles Alpina	2015-8-14 00:00:00	
+82207	SOCIEDAD COMERCIAL KATANKURA LTDA	Par	Cuatricromia	Generales	6x6	08	25.000	Publicado	Italo Retamal	evento katankura 	2015-8-14 00:00:00	
+81837	INMOBILIARIA NUEVA SERENA	Par	Cuatricromia	Generales	17x6	09	0	Publicado	Claudio Romero	NUEVO PROYECTO...SE CONFIRMARA SI REPITE..	2015-8-14 00:00:00	
+82000	ADA d			UIP	10x2	10	5.630	Publicado	Italo Retamal	zona ganya	2015-8-14 00:00:00	
+80518	cesar o			UIP	5x4	10	5.630	Publicado	Italo Retamal	mov de tierra	2015-8-14 00:00:00	
+81156	florenc			UIP	10x2	12	5.630	Publicado	Italo Retamal	tienda exotica	2015-8-14 00:00:00	
+80815	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	10x3	12	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2015-8-14 00:00:00	
+82114	CENCOSUD RETAIL S.A.	Impar	Cuatricromia	Contraportada	35x6	32	797.272	Publicado	Kathine Soto-Stgo	CONTRAPORTADA JOHNSON	2015-8-14 00:00:00	

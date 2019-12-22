@@ -1,0 +1,75 @@
+{% extends 'base.html' %}
+{% load staticfiles %}
+{% load common_tags %}
+
+{% block titulo_head %}Configuraciones supermercado{% endblock %}
+{% block titulo %}Configuraciones supermercado{% endblock %}
+
+{% block css %}
+    {% css_dataTable %}
+{% endblock %}
+
+
+
+{% block contenido %}
+
+
+<div class="row clearfix">
+    <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+        <div class="card">
+            <div class="header">
+                <h2 id="">
+                    Lista de configuraciones generales supermercado
+                </h2>
+            </div>
+            <div id="container_tabla_configuraciones"class="body">
+                {% div_dataTable 'tabla_configuraciones_id' %} 
+            </div>
+        </div>
+    </div>
+</div>
+<form>
+    {% csrf_token %}
+</form>
+{% endblock %}
+
+{% block scripts %}
+    {% js_dataTable False %}
+    {% django_ajax %}
+<script>
+    var sparseTabla_configuraciones = null;
+
+    var params_configuraciones = {
+        id:'tabla_configuraciones_id',
+        url : "{% url 'supermercado:configuraciones-json' %}", 
+        ajaxData : {
+            'csrfmiddlewaretoken':$('csrfmiddlewaretoken').val(),
+        },
+        setAllButtons:false,
+        ajax:true,
+
+      };
+
+    function CustomPreProccesDatatable(respuesta) {
+        if (respuesta.status == 'error'){
+            swal({
+                title: "Mensaje",
+                text: respuesta.mensaje.text,
+                icon: respuesta.mensaje.type,
+            });
+        }
+        else{}
+        return respuesta
+    }
+
+    var sparseTabla_configuraciones = $('#container_tabla_configuraciones').sparseDataTable(params_configuraciones);
+
+    // if (sparseTabla_configuraciones == null)
+    //     sparseTabla_configuraciones = $('#container_tabla_configuraciones').sparseDataTable(params_configuraciones);
+    // else
+    //     sparseTabla_configuraciones.recargar(params_configuraciones);
+
+
+
+</script>
+{% endblock%}

@@ -1,0 +1,30 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+84710	ABRIL PUBLICIDAD INVERSIONES Y ASES	Impar	Cuatricromia	Generales	35x6	05	824.511	Publicado	Patricia Villena	2015-9-21 00:00:00	
+83700	HABITA INMOBILIARIA SA	Par	Cuatricromia	Generales	35x3	07	0	Publicado	Miguel Apey	2015-9-21 00:00:00	
+83827	INMOBIL. LA SERENA GOLF S.A.	Par	Cuatricromia	Generales	17x6	09	0	Publicado	Patricia Villena	2015-9-21 00:00:00	
+83218	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	6x6	10	58.905	Publicado	Claudio Romero	2015-9-21 00:00:00	
+84806	RSA SEGUROS CHILE S.A	Impar	Cuatricromia	Generales	17x3	11	299.000	Publicado	Pedro Jaime	2015-9-21 00:00:00	
+83037	LABORATORIO CLINICO STA. MARIA LA S	Par	Blanco y negro	Generales	6x2	13	7.470	Publicado	Miguel Apey	2015-9-21 00:00:00	
+84632	CERNA E HIJOS CIA. LTDA.	Par	Blanco y negro	Generales	5x1	13	4.468	Publicado	Nadia Randolph	2015-9-21 00:00:00	
+84623	CLUB DEPORTIVO SOCIAL Y CULTURAL PR	Par	Blanco y negro	Generales	6x2	13	35.156	Publicado	Miguel Apey	2015-9-21 00:00:00	
+84788	GUERRERO SERANTONI Y CIA. LTDA.	Par	Blanco y negro	Generales	4x2	14	24.902	Publicado	Pedro Jaime	2015-9-21 00:00:00	
+83065	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	14-17	8.306	Publicado	Miguel Apey	2015-9-21 00:00:00	
+83609	CENTRO MEDICO DENTAL STO. TOMAS LTD	Par	Cuatricromia	Generales	8x4	26	0	Publicado	Rene Pizarro	2015-9-21 00:00:00	
+83711	INVERSIONES E INMOBILIARIA P.A.T.  	Par	Blanco y negro	Generales	10x6	27	0	Publicado	Miguel Apey	2015-9-21 00:00:00	
+82989	SOC. COMERCIAL ALCAPARRA LTDA.	Par	Blanco y negro	Generales	5x2	29	10.440	Publicado	Patricia Villena	2015-9-21 00:00:00	
+83321	ARMAQ 			UIP	5x1	29	8.937	Publicado	Claudio Romero	2015-9-21 00:00:00	
+84537	GALLARDO Y			UIP	5x1	29	8.937	Publicado	Claudio Romero	2015-9-21 00:00:00	
+84455	SOC. DE GESTION MEDITERRANEA			UIP	5x1	29	8.937	Publicado	Miguel Apey	2015-9-21 00:00:00	
+84330	AUTOMOTORES DEL NORTE	Par	Blanco y negro	Generales	5x1	29	7.427	Publicado	Miguel Apey	2015-9-21 00:00:00	
+84149	soc. comercial e inv. alto la seren			UIP	5x2	29	8.937	Publicado	Nadia Randolph	2015-9-21 00:00:00	
+83455	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	29	0	Publicado	Marcela Tello-ElDia	2015-9-21 00:00:00	
+83509	DIARIO EL DIA	Par	Blanco y negro	Generales	5x2	29	0	Publicado	Marcela Tello-ElDia	2015-9-21 00:00:00	
+83665	SERVICIOS GENERALES GUAYACAN S.A	Par	Blanco y negro	Generales	3x2	30	6.451	Publicado	Jacqueline Torres	2015-9-21 00:00:00	
+83378	CENCOSUD ADMINISTRADORA DE PROCESOS	Par	Blanco y negro	Contraportada	35x6	32	600.000	Publicado	M Cristina Puga	2015-9-21 00:00:00	
+84732	GEOTEC BOYLES BROS S.A.	Par	Blanco y negro	Generales	13x2	EC-19	79.022	Publicado	Pedro Jaime	2015-9-21 00:00:00	
+83891	ULISES DEL CARMEN SALINAS			UIP	5x2	EC-19	17.875	Publicado	Pedro Jaime	2015-9-21 00:00:00	
+83251	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Generales	5x1	EC-19	5.860	Publicado	Rene Pizarro	2015-9-21 00:00:00	
+84779	INFRAESTRUCTURA Y ECOLOGIA S.A	390 Palabras		Legal	x	EC-20	96.720	Publicado	Kathine Soto-Stgo	2015-9-21 00:00:00	
+84599	AGENCIA DE COMUNICACIONES Y PRODUCT	Impar	Blanco y negro	Generales	35x6	INS	800.000	Publicado	Jacqueline Torres	2015-9-21 00:00:00	
+85862	C COMUNICA LTDA.	Par	Cuatricromia	Generales	34x6	INS	252.101	Publicado	Jacqueline Torres	2015-9-21 00:00:00	
+84870	PROYECTOS CORPORATIVOS S.A	Home	Box Derecho	Web	x	WEB	300.000	Publicado	Kathine Soto-Stgo	2015-9-21 00:00:00	

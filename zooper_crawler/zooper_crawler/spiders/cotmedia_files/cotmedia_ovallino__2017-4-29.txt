@@ -1,0 +1,13 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+128675	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	35x6		0	Arte	Marcela Tello-ElDia	Portadas Antiguas 	2017-4-29 00:00:00	
+128658	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	8x6		0	Arte	Marcela Tello-ElDia	Descuento entrada Cinemark	2017-4-29 00:00:00	
+128581	PEDRO ANDRES MONARDEZ ELGUETA	Par	Cuatricromia	Generales	6x6	01	25.000	Arte	Karina Rivera	Restaurant Riquisimo	2017-4-29 00:00:00	
+128391	OMD CHILE S.P.A.	Impar	Cuatricromia	Generales	17x6	03	216.330	Arte	Patricia Villena	ENSAYO PSU	2017-4-29 00:00:00	
+127705	FERNANDO SANCH			UIP	5x2	05	2.808	Arte	Karina Rivera	AGUAS SUBTERRANEAS 	2017-4-29 00:00:00	
+128101	FERNANDO YOANOVICH			UIP	5x2	05	2.247	Arte	Karina Rivera	COMPRA VEHICULOS	2017-4-29 00:00:00	
+128355	KAREN ROJAS HERNANDEZ			UIP	5x2	05	2.387	Arte	Karina Rivera		2017-4-29 00:00:00	
+127509	SANTO T			UIP	10x6	07	16.260	Arte	Claudio Romero	DIPLOMADO GESTION INTEGRADA..	2017-4-29 00:00:00	
+128262	JUNTA DE VIGILANCIA RIO GRANDE LIMA	Par	Blanco y negro	Generales	15x2	08	81.213	Arte	Karina Rivera	CITACION ASAMBLEA GENERAL ORDINARIA	2017-4-29 00:00:00	
+127717	JACQUELINE JOFRE VILLANUEVA			UIP	5x2	08	2.808	Arte	Karina Rivera	Cortinas Rollers	2017-4-29 00:00:00	
+127473	AGRICOLA NORTE TALINAY LTDA	Par	Blanco y negro	Generales	5x2	08	1.666	Arte	Paola Marquez	UIP VENTA ALFALFA	2017-4-29 00:00:00	
+126238	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	09	0	Arte	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2017-4-29 00:00:00	

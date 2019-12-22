@@ -1,0 +1,13 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+88493	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	10x3		0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2015-12-6 00:00:00	
+88716	ADA D?AZ ARAYA	Par	Blanco y negro	Generales	5x2		1.428	Publicado	Italo Retamal	zona ganjah	2015-12-6 00:00:00	
+90537	JUNTA NACIONAL DE JARDINES INF. REG	Par	Cuatricromia	Generales	17x6	03	297.158	Publicado	Jacqueline Torres	DIFUSION MATRICULATE	2015-12-6 00:00:00	
+81462	INVERSIONES TANGUEMAR LIMITADA	Impar	Blanco y negro	Generales	5x2	05	14.147	Publicado	Patricia Villena	Tanguemar	2015-12-6 00:00:00	
+89339	JUAN CARLOS AQUEZ JILES	Par	Blanco y negro	Generales	5x2	05	1.429	Publicado	Italo Retamal	Capacitaciones 	2015-12-6 00:00:00	
+89526	PAMELA HARDER SANTOS	Par	Blanco y negro	Generales	5x2	05	1.428	Publicado	Italo Retamal	venta de casa harder	2015-12-6 00:00:00	
+90778	CALLEGARI LTDA.	Par	Cuatricromia	Generales	17x6	06	174.726	Publicado	Marcela Tello-ElDia	Mitsubishi	2015-12-6 00:00:00	
+90777	CALLEGARI LTDA.	Par	Cuatricromia	Generales	17x6	08	174.726	Publicado	Marcela Tello-ElDia	Ford	2015-12-6 00:00:00	
+90739	DABED Y CIA. LTDA., SELIM	Impar	Cuatricromia	Generales	6x6	09	23.077	Publicado	Italo Retamal	DABED MOTOS	2015-12-6 00:00:00	
+90776	CALLEGARI LTDA.	Par	Cuatricromia	Generales	17x6	11	174.726	Publicado	Marcela Tello-ElDia	KIA	2015-12-6 00:00:00	
+90766	CAMAL MUSALEM TAPIA Y CIA.	Par	Blanco y negro	Generales	24x3	13	88.128	Publicado	Marcela Tello-ElDia	Toyota sale 	2015-12-6 00:00:00	
+90547	SOCIEDAD MECANICA EDUARDO ASPILLAGA	Par	Blanco y negro	Generales	5x2	13	30.603	Publicado	Leonel Pizarro-Ovalle	VENDEDOR	2015-12-6 00:00:00	

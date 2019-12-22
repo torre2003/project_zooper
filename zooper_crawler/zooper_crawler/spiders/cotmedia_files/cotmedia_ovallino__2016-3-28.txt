@@ -1,0 +1,9 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+97787	AUTOMOTRIZ CARMONA	Par	Cuatricromia	Generales	6x6	01	23.076	Publicado	Marcela Tello-ElDia	Nissan March - Portada (si hay disponibilidad)	2016-3-28 00:00:00	
+98453	SALINAS Y FABRES S.A.	Impar	Cuatricromia	Generales	17x6	03	242.029	Publicado	M Cristina Puga	Salfa Autos GM	2016-3-28 00:00:00	
+98559	EMPRESA PERIODISTICA EL NORTE S.A.	Par	Blanco y negro	Medios Regionales	10x3	04	43.350	Publicado	Medios Regionales	Tattersal - Rte. Prop. Ovalle - (57143)	2016-3-28 00:00:00	
+98176	AGRICOLA NORTE TALINAY LTDA	Par	Blanco y negro	Generales	5x2	05	1.667	Publicado	Paola Marquez	UIP VENTA ALFALFA	2016-3-28 00:00:00	
+98361	parques			UIP	10x2	05	9.765	Publicado	Rene Pizarro	Tu tranquilidad Familiar...Parque de Ovalle ....Parques de Chile	2016-3-28 00:00:00	
+97108	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	6x6	06	16.065	Publicado	Claudio Romero	Muebles Alpina	2016-3-28 00:00:00	
+96819	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	07	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2016-3-28 00:00:00	
+98690	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x6	14	0	Publicado	Marcela Tello-ElDia		2016-3-28 00:00:00	

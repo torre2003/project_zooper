@@ -1,0 +1,15 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+120141	SOCIEDAD DE RENTAS FALABELLA S.A	Par	Cuatricromia	Generales	8x6	01	50.980	Publicado	M Cristina Puga	Huincha open 	2017-1-11 00:00:00	
+120834	OMD CHILE S.A.	Impar	Cuatricromia	Generales	17x6	03	216.330	Publicado	Patricia Villena		2017-1-11 00:00:00	
+120306	SOSTENEDORA EDUCACIONAL CERRILLOS D			UIP	5x2	05	2.808	Publicado	Karina Rivera	Concurso Cerrillos de Rapel	2017-1-11 00:00:00	
+120226	SERVICIOS TASUI			UIP	5x2	05	2.808	Publicado	Karina Rivera	Tasui Ltda	2017-1-11 00:00:00	
+119485	tanguemar			UIP	5x2	05	2.808	Publicado	Patricia Villena	Tanguemar	2017-1-11 00:00:00	
+120707	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	06	0	Arte	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2017-1-11 00:00:00	
+119674	EMPRESA PERIODISTICA EL NORTE S.A.	Par	Blanco y negro	Medios Regionales	10x3	07	43.350	Publicado	Medios Regionales	Tattersall Gestion - Remate Prop. Ovalle - (241789)	2017-1-11 00:00:00	
+119260	AGRICOLA NORTE TALINAY LTDA	Par	Blanco y negro	Generales	5x2	07	1.666	Publicado	Paola Marquez	UIP VENTA ALFALFA	2017-1-11 00:00:00	
+120825	SOCIEDAD COMERCIAL Y AGRICOLA CARVA	Par	Blanco y negro	Generales	5x1	07	11.770	Publicado	Karina Rivera	Asesora de hogar	2017-1-11 00:00:00	
+119903	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	6x6	08	0	Publicado	Claudio Romero	Muebles Alpina	2017-1-11 00:00:00	
+120186	OVALLE CASINO RESORT S.A	Par	Cuatricromia	Generales	25x4	09	0	Publicado	Paola Marquez	OCR Eventos verano	2017-1-11 00:00:00	
+120843	MARIA MALEBRAN	Par	Cuatricromia	Generales	17x3	11	84.038	Publicado	Karina Rivera	Agradecimiento	2017-1-11 00:00:00	
+117879	OVALLEMAR			UIP	5x2	11	3.958	Publicado	Karina Rivera	OVALLE MAR	2017-1-11 00:00:00	
+120887	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	6x6	14	0	Arte	Marcela Tello-ElDia		2017-1-11 00:00:00	

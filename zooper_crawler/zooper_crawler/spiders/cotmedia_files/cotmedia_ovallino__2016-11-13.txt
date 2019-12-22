@@ -1,0 +1,10 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+116226	UNIVERSIDAD TECNOLOGICA DE CHILE	Impar	Cuatricromia	Generales	17x6	03	393.297	Arte	Patricia Villena	Inacap Carreras	2016-11-13 00:00:00	
+116399	CAMAL MUSALEM TAPIA Y CIA.	Par	Blanco y negro	Generales	34x6	05	254.796	Arte	Marcela Tello-ElDia	TOYOTA YARIS	2016-11-13 00:00:00	
+103007	SOCIEDAD MEDICA Y CONSULTORA ESTETI		Cuatricromia	Guia	5x2	06	13.333	Arte	Maria_Amelia Hermosilla	Diego Polanco	2016-11-13 00:00:00	
+116316	ASOC. CANALISTAS EMBALSE COGOTI	Par	Blanco y negro	Generales	7x2	07	42.843	Arte	Karina Rivera	CITACION CANALISTAS EMBALSE COGOTI	2016-11-13 00:00:00	
+116322	ASOC. CANALISTAS CANAL CAMARICO	Par	Blanco y negro	Generales	10x2	07	61.205	Arte	Karina Rivera	JUNTA CANALISTAS CANAL CAMARICO	2016-11-13 00:00:00	
+115426	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	08	0	Arte	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2016-11-13 00:00:00	
+116061	OVALLE CASINO RESORT S.A	Par	Cuatricromia	Generales	25x4	09	171.372	Arte	Paola Marquez	OCR Eventos Noviembre	2016-11-13 00:00:00	
+116412	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	10x6	11	0	Arte	Marcela Tello-ElDia	Avant Premiere - Club de Lectores	2016-11-13 00:00:00	
+116413	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	6x6	14	0	Arte	Marcela Tello-ElDia		2016-11-13 00:00:00	

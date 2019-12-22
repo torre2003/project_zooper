@@ -1,0 +1,13 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+164486	CAMPOS DEL NORTE S.A.	Par	Cuatricromia	Generales	5x6	01	0	Arte	Patricia Villena	Franja Enjoy Portada EL Ovallino	2018-10-11 00:00:00	
+167662	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	12x6	03	0	Arte	Marcela Tello-ElDia	Vive la experiencia de estar bien informado...	2018-10-11 00:00:00	
+167324	SOC. SERVICIOS TECNOLOGICOS Y TELCO			UIP	10x6	05	16.260	Publicado	Claudio Romero	TELCONOR..AHORA EN OVALLE	2018-10-11 00:00:00	
+167663	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	3x6	06	0	Arte	Marcela Tello-ElDia	Periodismo en todos los sentidos...	2018-10-11 00:00:00	
+164696	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	08	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2018-10-11 00:00:00	
+167547	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	10x6	09	0	Arte	Patricia Villena		2018-10-11 00:00:00	
+167596	AGRICOLA NORTE TALINAY LTDA			UIP	5x2	10	2.808	Publicado	Paola Marquez	Venta camioneta Talinay	2018-10-11 00:00:00	
+167664	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	34x6	11	0	Arte	Marcela Tello-ElDia		2018-10-11 00:00:00	
+167665	PRENSA DEL LIMARI LTDA.	Par	Blanco y negro	Generales	17x6	12	0	Arte	Marcela Tello-ElDia		2018-10-11 00:00:00	
+167666	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	8x6	14	0	Arte	Marcela Tello-ElDia		2018-10-11 00:00:00	
+167628	BANCO DE CHILE	562 Palabras		Legal	x	EC	139.496	Publicado	Pedro Jaime	AVISO DE REMATE ROL 1100-2015, BANCO DE CHILE CON ARAYA   	2018-10-11 00:00:00	
+167630	SCOTIABANK CHILE S.A.	409 Palabras		Legal	x	EC	101.681	Publicado	Pedro Jaime	AVISO DE REMATE ROL 976-2016, SCOTIABANK CON MAJMUD   	2018-10-11 00:00:00	

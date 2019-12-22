@@ -1,0 +1,34 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+111196	CARAT CHILE S.A.	Impar	Cuatricromia	Generales	17x6	05	300.000	Publicado	Kathine Soto-Stgo	2016-9-6 00:00:00	
+111187	MADERO COMUNICACIONES LTDA.	Par	Cuatricromia	Generales	17x6	07	0	Publicado	Marcela Tello-ElDia	2016-9-6 00:00:00	
+111188	OVALLE CASINO RESORT S.A	Par	Cuatricromia	Generales	6x6	08	33.000	Publicado	Paola Marquez	2016-9-6 00:00:00	
+111201	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Cuatricromia	Medios Regionales	32x6	09	518.048	Arte	Medios Regionales	2016-9-6 00:00:00	
+110230	DIARIO EL DIA	Par	Cuatricromia	Generales	34x6	11	0	Arte	Marcela Tello-ElDia	2016-9-6 00:00:00	
+111026	AGUAS DEL VALLE S.A.	Par	Blanco y negro	Generales	20x4	13	292.960	Publicado	Jacqueline Torres	2016-9-6 00:00:00	
+111105	AREVALO CARMEN 			UIP	5x1	13	8.937	Publicado	Pedro Jaime	2016-9-6 00:00:00	
+110411	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	5x2	15	0	Publicado	Miguel Apey	2016-9-6 00:00:00	
+111072	DIARIO EL DIA	Par	Blanco y negro	Generales	5x2	15	0	Arte	Marcela Tello-ElDia	2016-9-6 00:00:00	
+111065	DIARIO EL DIA	Par	Blanco y negro	Generales	5x2	15	0	Arte	Marcela Tello-ElDia	2016-9-6 00:00:00	
+110475	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	16	0	Arte	Marcela Tello-ElDia	2016-9-6 00:00:00	
+110872	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	6x6	17	51.666	Publicado	Claudio Romero	2016-9-6 00:00:00	
+110287	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	18	8.306	Publicado	Miguel Apey	2016-9-6 00:00:00	
+109900	DIARIO EL DIA	Par	Cuatricromia	Generales	12x6	23	0	Arte	Marcela Tello-ElDia	2016-9-6 00:00:00	
+111184	DIARIO EL DIA	Par	Blanco y negro	Generales	35x6	24	0	Arte	Carolina Naranjo	2016-9-6 00:00:00	
+111185	DIARIO EL DIA	Impar	Blanco y negro	Generales	35x6	25	0	Arte	Carolina Naranjo	2016-9-6 00:00:00	
+110905	FERNANDO ILIC 			UIP	5x1	30	8.937	Publicado	Pedro Jaime	2016-9-6 00:00:00	
+106971	SOC.COMERCIAL ALTOS LA SERENA LTDA	Par	Blanco y negro	Generales	5x2	30	8.973	Publicado	Nadia Randolph	2016-9-6 00:00:00	
+110825	ARMAQ			UIP	5x1	30	8.937	Publicado	Claudio Romero	2016-9-6 00:00:00	
+110686	SERVICIOS GASTRON?MICOS LA CASONA D	Par	Blanco y negro	Generales	5x2	30	10.725	Publicado	Miguel Apey	2016-9-6 00:00:00	
+107440	INV. GASTRONOMICAS PATRICIA TORO EI	Par	Blanco y negro	Generales	5x2	30	8.973	Publicado	Nadia Randolph	2016-9-6 00:00:00	
+110547	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	30	0	Arte	Marcela Tello-ElDia	2016-9-6 00:00:00	
+110316	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	4x5	30	20.508	Publicado	Miguel Apey	2016-9-6 00:00:00	
+108439	CERNA E HIJOS CIA. LTDA.	Par	Blanco y negro	Generales	5x1	30	4.468	Publicado	Nadia Randolph	2016-9-6 00:00:00	
+109836	SOC. DE GES			UIP	5x1	30	8.937	Publicado	Miguel Apey	2016-9-6 00:00:00	
+111190	FUNERARIA ERIKA DEL PILAR PIZARRO A	Par	Blanco y negro	Generales	12x2	31	0	Publicado	Pedro Jaime	2016-9-6 00:00:00	
+109453	VELIZ CORTES JOSE A.	Par	Blanco y negro	Generales	3x2	31	13.403	Publicado	Pedro Cortes	2016-9-6 00:00:00	
+110124	SERVICIOS GENERALES GUAYACAN S.A	Par	Blanco y negro	Generales	4x2	31	6.666	Publicado	Jacqueline Torres	2016-9-6 00:00:00	
+108908	HOTELERIA LUIS ALBERTO BERETTA KIEK	Par	Blanco y negro	Generales	5x2	EC-21	6.994	Publicado	Patricia Villena	2016-9-6 00:00:00	
+111192	CORPBANCA	609 Palabras		Legal	x	EC-21	151.176	Publicado	Pedro Jaime	2016-9-6 00:00:00	
+110604	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Generales	5x1	EC-21	5.860	Publicado	Rene Pizarro	2016-9-6 00:00:00	
+111237	DIARIO EL DIA	Par	Blanco y negro	Generales	17x6	EC-21	0	Arte	Marcela Tello-ElDia	2016-9-6 00:00:00	
+111189	SELECCION PUNTO CARNES SPA	Home	Box Derecho	Web	x	WEB	150.000	Publicado	Paola Marquez	2016-9-6 00:00:00	

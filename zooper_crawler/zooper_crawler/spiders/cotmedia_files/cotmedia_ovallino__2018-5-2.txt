@@ -1,0 +1,11 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+154879	EMPRESA PERIODISTICA EL NORTE S.A.	Par	Cuatricromia	Medios Regionales	32x6	03	367.130	Publicado	Medios Regionales		2018-5-2 00:00:00	
+154864	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	6x2	05	18.204	Publicado	Medios Regionales	Remate - Banco Santander GRC Ltda. - (64439)	2018-5-2 00:00:00	
+154976	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	08	0	Arte	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2018-5-2 00:00:00	
+154938	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	9x4	09	16.065	Publicado	Claudio Romero	Muebles alpina..	2018-5-2 00:00:00	
+155219	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x6	11	0	Publicado	Marcela Tello-ElDia		2018-5-2 00:00:00	
+155220	PRENSA DEL LIMARI LTDA.	Par	Blanco y negro	Generales	6x6	15	0	Publicado	Marcela Tello-ElDia		2018-5-2 00:00:00	
+154707	MOP OOPP	214 Palabras		Legal	x	15	53.072	Publicado	Karina Rivera		2018-5-2 00:00:00	
+154764	MOP OOPP	189 Palabras		Legal	x	15	46.872	Publicado	Karina Rivera		2018-5-2 00:00:00	
+154709	MOP OOPP	197 Palabras		Legal	x	15	48.856	Publicado	Karina Rivera		2018-5-2 00:00:00	
+155323	INMOBILIARIA CALEUCHE LTDA	Home	Box Derecho	Web	x	WEB	200.000	Publicado	Paola Marquez	Box Banner 	2018-5-2 00:00:00	

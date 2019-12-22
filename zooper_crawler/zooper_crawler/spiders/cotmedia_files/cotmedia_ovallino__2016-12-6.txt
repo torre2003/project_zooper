@@ -1,0 +1,8 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+114258	Pedro Andres Monardez Elgueta			UIP	17x2	01	12.895	Arte	Karina Rivera	Restaurant Riquisimo	2016-12-6 00:00:00	
+118467	ILUSTRE MUNICIPALIDAD DE OVALLE	Par	Cuatricromia	Generales	17x6	03	166.666	Arte	Marcela Tello-ElDia		2016-12-6 00:00:00	
+118173	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	6x1	05	8.670	Arte	Medios Regionales	ASERCOP (  225839  ) 	2016-12-6 00:00:00	
+117848	OVALLEMAR			UIP	5x2	08	3.958	Arte	Karina Rivera	OVALLE MAR	2016-12-6 00:00:00	
+118302	COMERCIAL AVA 			UIP	10x2	08	7.882	Arte	Karina Rivera	E BODY OVALLE	2016-12-6 00:00:00	
+115479	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	09	0	Arte	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2016-12-6 00:00:00	
+118476	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	5x6	14	0	Arte	Marcela Tello-ElDia		2016-12-6 00:00:00	

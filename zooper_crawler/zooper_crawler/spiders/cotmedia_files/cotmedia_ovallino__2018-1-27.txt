@@ -1,0 +1,13 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+148557	INMOBILIARIA NUEVA SERENA			UIP	10x6	05	16.260	Publicado	Claudio Romero	proyecto empresa serena.(.2 AVISOS NUEVO)" DEPARTAMENTOS.".." CASAS"...ALTERNAR LOS AVISOS TODOS LOS	2018-1-27 00:00:00	
+147776	CL?NICA VETERINARIA LOS MANCOS LTDA			UIP	10x2	06	5.630	Publicado	Karina Rivera	CLINICA VETERINARIA 	2018-1-27 00:00:00	
+147611	SOCIEDAD EDUCACIONL GALLARDO Y FIGU			UIP	10x2	08	6.306	Publicado	Karina Rivera	CENTRO DE FORMACION MATEMATICA	2018-1-27 00:00:00	
+147811	UNIVERSIDAD BOLIVARIANA			UIP	5x4	08	5.630	Publicado	Karina Rivera	U. Bolivariana y V. Central	2018-1-27 00:00:00	
+149237	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x3	09	0	Publicado	Marcela Tello-ElDia	Esta semana en Cinemark...	2018-1-27 00:00:00	
+148661	DIRECCION DE BIBLIOTECAS, ARCHIVOS 	Impar	Cuatricromia	Generales	17x3	09	162.814	Publicado	Jacqueline Torres	difusion	2018-1-27 00:00:00	
+147675	AGRICOLA NORTE TALINAY LTDA	Par	Blanco y negro	Generales	5x2	10	1.666	Publicado	Paola Marquez	UIP VENTA ALFALFA	2018-1-27 00:00:00	
+148377	INVERSIONES TANGUEMAR LIMITADA			UIP	5x2	10	2.812	Publicado	Patricia Villena	Tanguemar 2	2018-1-27 00:00:00	
+148907	ILUSTRE MUNICIPALIDAD DE RIO HURTAD			UIP	10x2	11	7.098	Publicado	Karina Rivera	FIESTA COSTUMBRISTA	2018-1-27 00:00:00	
+147254	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	12	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2018-1-27 00:00:00	
+147874	VELIZ CORTES JOSE A.			UIP	5x2	14	4.695	Publicado	Pedro Cortes		2018-1-27 00:00:00	
+148311	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	34x6	16	0	Publicado	Marcela Tello-ElDia		2018-1-27 00:00:00	

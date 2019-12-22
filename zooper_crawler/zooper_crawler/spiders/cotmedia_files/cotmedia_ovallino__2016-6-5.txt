@@ -1,0 +1,12 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+104427	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	6x6	01	0	Arte	Marcela Tello-ElDia		2016-6-5 00:00:00	
+103275	INMOBILIARIA ECOMAC SANTIAGO S.A.	Impar	Cuatricromia	Generales	17x6	03	285.000	Publicado	M Cristina Puga	ECOMAC / Primeras impar	2016-6-5 00:00:00	
+104333	INMOBILIARIA SERENA S.A.	Par	Blanco y negro	Generales	10x2	06	54.472	Publicado	Claudio Romero	EJECUTIVO DE VENTAS....	2016-6-5 00:00:00	
+95384	SOCIEDAD BUSTOS Y PROCURIZA LTDA.	Par	Blanco y negro	Generales	10x2	06	27.542	Publicado	Maria_Amelia Hermosilla	Cento	2016-6-5 00:00:00	
+102984	SOCIEDAD MEDICA Y CONSULTORA ESTETI		Cuatricromia	Guia	5x2	06	13.333	Publicado	Maria_Amelia Hermosilla	Diego Polanco	2016-6-5 00:00:00	
+103694	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	07	0	Arte	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2016-6-5 00:00:00	
+104387	CAMAL MUSALEM TAPIA Y CIA.	Par	Blanco y negro	Generales	17x4	08	83.232	Publicado	Marcela Tello-ElDia	Con los mejores modelos - Toyota	2016-6-5 00:00:00	
+104244	SUBSECRETARIA DE ENERGIA	Impar	Cuatricromia	Generales	17x3	09	171.457	Publicado	Jacqueline Torres	DIFUSION TALLER DE FAE	2016-6-5 00:00:00	
+104126	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	12x6	11	0	Arte	Marcela Tello-ElDia	Avant Premiere - Club de Lectores	2016-6-5 00:00:00	
+104382	DABED Y CIA. LTDA., SELIM	Par	Cuatricromia	Generales	6x6	14	23.076	Publicado	Nadia Randolph	CORDILLERA	2016-6-5 00:00:00	
+104164	SANTA EMA SA	Par	Cuatricromia	Generales	35x6	16	539.820	Publicado	Miguel Apey	INMOB. SANTA EMA - PAG. IMPAR	2016-6-5 00:00:00	

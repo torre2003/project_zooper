@@ -1,0 +1,10 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+134123	SALINAS Y FABRES S.A.	Impar	Cuatricromia	Generales	17x6	03	218.000	Publicado	M Cristina Puga	Camiones /isuzu	2017-7-20 00:00:00	
+133757	JACQUELINE JOFRE VILLANUEVA			UIP	5x2	05	2.808	Publicado	Karina Rivera	CORTINAS ROLLER OVALLE	2017-7-20 00:00:00	
+134057	FERNANDO YOANOVICH			UIP	5x2	05	2.247	Publicado	Karina Rivera		2017-7-20 00:00:00	
+134356	ESTUDIO JURIDICO OLIVARES Y CIA. SP	Par	Blanco y negro	Generales	5x2	05	2.000	Publicado	Jacqueline Torres	ESTUDIO JURIDICO OLIVARES	2017-7-20 00:00:00	
+134085	FERNANDO YOANOVICH			UIP	5x2	06	2.247	Publicado	Karina Rivera	TAROT SRA SOFIA	2017-7-20 00:00:00	
+134440	PRENSA DEL LIMARI LTDA.	Par	Blanco y negro	Generales	17x6	07	0	Arte	Marcela Tello-ElDia		2017-7-20 00:00:00	
+133125	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	09	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2017-7-20 00:00:00	
+133952	VELIZ CORTES JOSE A.			UIP	5x2	14	2.808	Publicado	Pedro Cortes		2017-7-20 00:00:00	
+134439	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	6x6	14	0	Arte	Marcela Tello-ElDia		2017-7-20 00:00:00	

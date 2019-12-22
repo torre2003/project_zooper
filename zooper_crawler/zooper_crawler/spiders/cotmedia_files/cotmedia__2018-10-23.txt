@@ -1,0 +1,26 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+168178	JORGE VEGA	Impar	Cuatricromia	Generales	17x3	07	0	Publicado	Patricia Villena	2018-10-23 00:00:00	
+168182	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	8x2	08	36.528	Arte	Medios Regionales	2018-10-23 00:00:00	
+168067	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Cuatricromia	Medios Regionales	16x6	09	324.840	Publicado	Medios Regionales	2018-10-23 00:00:00	
+168194	DIARIO EL DIA	Par	Cuatricromia	Generales	34x6	11	0	Publicado	Marcela Tello-ElDia	2018-10-23 00:00:00	
+164403	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	15	8.306	Publicado	Miguel Apey	2018-10-23 00:00:00	
+168140	COQUIMBO UNIDO S.A.D.P.	Par	Blanco y negro	Generales	17x3	17	121.396	Publicado	Paola Marquez	2018-10-23 00:00:00	
+164538	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	12x3	17	0	Publicado	Claudio Romero	2018-10-23 00:00:00	
+164943	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	5x2	19	0	Publicado	Miguel Apey	2018-10-23 00:00:00	
+163562	C.M. SOC. GASTRONOMICA LTDA.			UIP	5x2	19	7.208	Publicado		2018-10-23 00:00:00	
+164625	PAMELA B. GONZALEZ LIZAMA COMERCIAL	Par	Blanco y negro	Generales	5x2	19	0	Publicado	Marcela Tello-ElDia	2018-10-23 00:00:00	
+168104	DABED Y CIA. LTDA., SELIM	Par	Cuatricromia	Generales	6x6	23	27.690	Publicado	Karina Rivera	2018-10-23 00:00:00	
+164723	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	24	0	Publicado	Marcela Tello-ElDia	2018-10-23 00:00:00	
+164434	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	4x5	24	20.508	Publicado	Miguel Apey	2018-10-23 00:00:00	
+164341	ARMAQ SUBIRI S.A.			UIP	5x1	24	8.937	Publicado	Claudio Romero	2018-10-23 00:00:00	
+164762	INVERSIONES ALTA CRUZ LTDA	Par	Blanco y negro	Generales	5x2	24	0	Publicado	Marcela Tello-ElDia	2018-10-23 00:00:00	
+164657	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	25	0	Publicado	Marcela Tello-ElDia	2018-10-23 00:00:00	
+168197	DIARIO EL DIA	Par	Cuatricromia	Generales	34x6	28	0	Publicado	Carolina Naranjo	2018-10-23 00:00:00	
+168181	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	10x3	29	68.490	Arte	Medios Regionales	2018-10-23 00:00:00	
+168198	DIARIO EL DIA	Par	Blanco y negro	Generales	6x6	29	0	Publicado	Marcela Tello-ElDia	2018-10-23 00:00:00	
+164959	OPERADORA Y ADMINISTRADORA NUEVA PO	Par	Cuatricromia	Generales	35x6	32	0	Publicado	Patricia Villena	2018-10-23 00:00:00	
+168195	DIARIO EL DIA	Par	Blanco y negro	Generales	12x6	EC-20	0	Publicado	Marcela Tello-ElDia	2018-10-23 00:00:00	
+168196	DIARIO EL DIA	Par	Cuatricromia	Generales	17x6	EC-21	0	Publicado	Marcela Tello-ElDia	2018-10-23 00:00:00	
+164907	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Generales	5x2	EC-21	7.003	Publicado	Rene Pizarro	2018-10-23 00:00:00	
+166143	HOTELERIA LUIS ALBERTO BERETTA KIEK	Par	Blanco y negro	Generales	5x2	EC-21	6.061	Publicado	Patricia Villena	2018-10-23 00:00:00	
+168188	AUTOMOTRIZ CARMONA	Home	Banner Cabecera	Web	0x0	WEB	450.000	Publicado		2018-10-23 00:00:00	

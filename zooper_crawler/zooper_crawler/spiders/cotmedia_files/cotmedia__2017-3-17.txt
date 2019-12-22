@@ -1,0 +1,47 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+124631	CHRISTIAN LAUNITZ MARIN SERVICIOS M	Par	Blanco y negro	Generales	8x2	04	4.838	Publicado	Heinger Vega Torres	2017-3-17 00:00:00	
+123683	WALMART CHILE S.A	Par	Cuatricromia	Contraportada	35x6	05	600.000	Publicado	M Cristina Puga	2017-3-17 00:00:00	
+125408	SECRETARIA REGIONAL MINIST. DE EDUC	Par	Cuatricromia	Generales	17x6	06	336.134	Publicado	Jacqueline Torres	2017-3-17 00:00:00	
+125444	ENTEL PCS	Impar	Cuatricromia	Generales	25x5	07	384.510	Publicado	Kathine Soto-Stgo	2017-3-17 00:00:00	
+125433	OMD CHILE S.A.	Impar	Cuatricromia	Generales	35x6	09	824.511	Publicado	Patricia Villena	2017-3-17 00:00:00	
+125442	SOC.EDUCACIONAL SAN MANUEL LTDA	Par	Blanco y negro	Generales	5x2	10	36.620	Publicado	Claudio Romero	2017-3-17 00:00:00	
+124759	DIARIO EL DIA	Par	Blanco y negro	Generales	5x2	10	0	Publicado	Marcela Tello-ElDia	2017-3-17 00:00:00	
+123347	INMOBILIARIA PROYECTA SEIS LTDA.	Par	Blanco y negro	Generales	5x2	10	12.605	Publicado	Heinger Vega Torres	2017-3-17 00:00:00	
+125406	SOCIEDAD ORIETTA ARAYA PANGUE HIJOS	Par	Blanco y negro	Generales	4x2	10	22.500	Publicado	Jacqueline Torres	2017-3-17 00:00:00	
+125381	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	6x2	10	26.088	Publicado	Medios Regionales	2017-3-17 00:00:00	
+123360	INMOBILIARIA PROYECTA CUATRO LIMITA	Par	Blanco y negro	Generales	5x2	10	12.605	Publicado	Heinger Vega Torres	2017-3-17 00:00:00	
+124199	OVALLE CASINO RESORT S.A	Par	Cuatricromia	Generales	25x4	11	205.072	Publicado	Paola Marquez	2017-3-17 00:00:00	
+124845	DIARIO EL DIA	Par	Blanco y negro	Generales	6x1	11	0	Publicado	Marcela Tello-ElDia	2017-3-17 00:00:00	
+125418	LUIS MUNDACA URQUIETA	Par	Blanco y negro	Generales	17x3	12	0	Publicado	Claudio Romero	2017-3-17 00:00:00	
+125443	CURIFOR S.A.	Impar	Blanco y negro	Generales	18x3	13	251.771	Publicado	Pedro Jaime	2017-3-17 00:00:00	
+125439	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	16x3	13	104.352	Publicado	Medios Regionales	2017-3-17 00:00:00	
+125328	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	6x2	14	26.088	Publicado	Medios Regionales	2017-3-17 00:00:00	
+125186	ARZOBISPADO DE LA SERENA	Par	Blanco y negro	Generales	5x2	14	0	Publicado	Marcela Tello-ElDia	2017-3-17 00:00:00	
+125341	MOP OOPP	Par	Blanco y negro	Generales	22x2	14	161.128	Publicado	Marcela Tello-ElDia	2017-3-17 00:00:00	
+125455	ILUSTRE MUNICIPALIDAD DE COQUIMBO	Par	Blanco y negro	Generales	12x3	14	92.283	Publicado	Miguel Apey	2017-3-17 00:00:00	
+125403	TESORERIA PROVINCIAL DE COQUIMBO	Par	Blanco y negro	Generales	25x6	15	549.300	Publicado	Marcela Tello-ElDia	2017-3-17 00:00:00	
+123526	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	16	8.306	Publicado	Miguel Apey	2017-3-17 00:00:00	
+124662	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	17	0	Publicado	Marcela Tello-ElDia	2017-3-17 00:00:00	
+124722	PILLA LA VACA	Par	Cuatricromia	Generales	5x2	22	0	Publicado	Marcela Tello-ElDia	2017-3-17 00:00:00	
+124736	MARTIN JURE PATRICIA	Par	Cuatricromia	Generales	5x3	22	0	Publicado	Marcela Tello-ElDia	2017-3-17 00:00:00	
+124697	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	22	0	Publicado	Marcela Tello-ElDia	2017-3-17 00:00:00	
+124643	SOC. HOTELERA VICHUQUEN LTDA.	Par	Cuatricromia	Generales	5x3	22	0	Publicado	Marcela Tello-ElDia	2017-3-17 00:00:00	
+123503	BAKULIC RESTAURANT	Par	Cuatricromia	Generales	10x2	22	24.609	Publicado	Miguel Apey	2017-3-17 00:00:00	
+123583	HOTEL COSTA REAL	Par	Cuatricromia	Generales	10x2	22	30.761	Publicado	Miguel Apey	2017-3-17 00:00:00	
+125373	SOC. EDUCACIONAL SAN GUILLERMO LTDA	Par	Cuatricromia	Generales	35x6	24	301.456	Publicado	Miguel Apey	2017-3-17 00:00:00	
+125359	LINDA PANTICH			UIP	5x1	27	8.937	Publicado	Pedro Jaime	2017-3-17 00:00:00	
+125445	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	27	0	Arte	Marcela Tello-ElDia	2017-3-17 00:00:00	
+125091	DABED Y CIA. LTDA., SELIM	Par	Cuatricromia	Generales	6x6	28	27.690	Publicado	Karina Rivera	2017-3-17 00:00:00	
+123133	armaq			UIP	5x1	29	8.937	Publicado	Claudio Romero	2017-3-17 00:00:00	
+125108	SOC. DE GES			UIP	5x1	29	8.937	Publicado	Miguel Apey	2017-3-17 00:00:00	
+120966	CERNA E HIJOS CIA. LTDA.	Par	Blanco y negro	Generales	5x1	29	4.468	Publicado	Nadia Randolph	2017-3-17 00:00:00	
+125250	AUTOMOTORES DEL NORTE	Par	Blanco y negro	Generales	5x1	29	7.427	Publicado	Miguel Apey	2017-3-17 00:00:00	
+125424	SINDICATO TRABAJADORES THE INTERNAT	Par	Blanco y negro	Generales	5x2	30	25.210	Publicado	Patricia Villena	2017-3-17 00:00:00	
+125220	VELIZ CORTES JOSE A.	Par	Blanco y negro	Generales	3x2	30	13.403	Publicado	Pedro Cortes	2017-3-17 00:00:00	
+125454	FUNDACION EDUCACIONAL THE INTERNATI	Par	Blanco y negro	Generales	5x2	30	25.210	Publicado	Patricia Villena	2017-3-17 00:00:00	
+124480	SERVICIOS GENERALES GUAYACAN S.A	Par	Blanco y negro	Generales	4x2	30	6.666	Publicado	Jacqueline Torres	2017-3-17 00:00:00	
+125419	EMPRESAS LA POLAR S.A.	Impar	Cuatricromia	Generales	35x6	32	504.000	Publicado	Patricia Villena	2017-3-17 00:00:00	
+125338	SOC. EDUCACIONAL ALTAZOR LTDA.	Par	Blanco y negro	Generales	7x2	EC-18	51.268	Publicado	Pedro Jaime	2017-3-17 00:00:00	
+123751	HOTELERIA LUIS ALBERTO BERETTA KIEK	Par	Blanco y negro	Generales	5x2	EC-19	6.061	Publicado	Patricia Villena	2017-3-17 00:00:00	
+124519	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Generales	5x1	EC-19	6.043	Publicado	Rene Pizarro	2017-3-17 00:00:00	
+125353	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	MR: Inserto	x	INS	279.557	Publicado	Medios Regionales	2017-3-17 00:00:00	

@@ -1,0 +1,45 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+116444	ARENA CHILE S.A.	Impar	Cuatricromia	Generales	17x6	05	0	Arte	M Cristina Puga	2016-11-24 00:00:00	
+117066	UNIVERSIDAD CENTRAL DE CHILE	Par	Cuatricromia	Generales	35x6	07	588.235	Arte	Jacqueline Torres	2016-11-24 00:00:00	
+116208	CARAT CHILE S.A.	Impar	Cuatricromia	Generales	35x6	09	620.000	Arte	Kathine Soto-Stgo	2016-11-24 00:00:00	
+115233	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	6x6	10	51.666	Arte	Claudio Romero	2016-11-24 00:00:00	
+117111	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Cuatricromia	Medios Regionales	16x6	11	309.344	Arte	Medios Regionales	2016-11-24 00:00:00	
+117125	DIARIO EL DIA	Par	Cuatricromia	Generales	13x6	12	0	Arte	Marcela Tello-ElDia	2016-11-24 00:00:00	
+114974	LABORATORIO CLINICO STA. MARIA LA S	Par	Blanco y negro	Generales	6x2	13	7.470	Arte	Miguel Apey	2016-11-24 00:00:00	
+117087	SERVICIOS GESAT LTDA	Par	Blanco y negro	Generales	3x2	13	21.972	Arte	Pedro Jaime	2016-11-24 00:00:00	
+117113	MARTIN JURE PATRICIA	Par	Blanco y negro	Generales	5x2	13	0	Arte	Marcela Tello-ElDia	2016-11-24 00:00:00	
+116998	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	10x6	14	130.440	Arte	Medios Regionales	2016-11-24 00:00:00	
+116509	DIARIO EL DIA	Par	Blanco y negro	Generales	5x2	15	0	Arte	Marcela Tello-ElDia	2016-11-24 00:00:00	
+115119	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	5x2	15	0	Arte	Miguel Apey	2016-11-24 00:00:00	
+114298	GESTION NORTE	Par	Blanco y negro	Generales	5x2	15	9.280	Arte	Patricia Villena	2016-11-24 00:00:00	
+117051	DIARIO EL DIA	Par	Cuatricromia	Generales	10x3	16	0	Arte	Marcela Tello-ElDia	2016-11-24 00:00:00	
+116139	DIARIO EL DIA	Par	Cuatricromia	Generales	34x6	17	0	Arte	Marcela Tello-ElDia	2016-11-24 00:00:00	
+114930	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	18	8.306	Arte	Miguel Apey	2016-11-24 00:00:00	
+115375	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	19	0	Arte	Marcela Tello-ElDia	2016-11-24 00:00:00	
+116920	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Cuatricromia	Medios Regionales	16x6	23	309.344	Arte	Medios Regionales	2016-11-24 00:00:00	
+117054	DIARIO EL DIA	Par	Blanco y negro	Generales	35x6	24	0	Arte	Carolina Naranjo	2016-11-24 00:00:00	
+117055	DIARIO EL DIA	Impar	Blanco y negro	Generales	35x6	25	0	Arte	Carolina Naranjo	2016-11-24 00:00:00	
+116088	DIARIO EL DIA	Par	Cuatricromia	Generales	17x6	28	0	Arte	Marcela Tello-ElDia	2016-11-24 00:00:00	
+115633	PILLA LA VACA	Par	Blanco y negro	Generales	5x2	29	0	Arte	Marcela Tello-ElDia	2016-11-24 00:00:00	
+114983	CASA DEL PERNO	Par	Blanco y negro	Generales	5x3	29	23.071	Arte	Miguel Apey	2016-11-24 00:00:00	
+117008	AREVALO CARMEN 			UIP	5x1	30	8.937	Arte	Pedro Jaime	2016-11-24 00:00:00	
+116875	SOC. DE GES			UIP	5x1	30	8.937	Arte	Miguel Apey	2016-11-24 00:00:00	
+115299	ARMAQ			UIP	5x1	30	8.937	Arte	Claudio Romero	2016-11-24 00:00:00	
+115669	ICEFOOD LIMITADA	Par	Blanco y negro	Generales	5x2	30	8.925	Arte	Patricia Villena	2016-11-24 00:00:00	
+114775	CERNA E HIJOS CIA. LTDA.	Par	Blanco y negro	Generales	5x1	30	4.468	Arte	Nadia Randolph	2016-11-24 00:00:00	
+115161	SERVICIOS GASTRON?MICOS LA CASONA D	Par	Blanco y negro	Generales	5x2	30	10.725	Arte	Miguel Apey	2016-11-24 00:00:00	
+115551	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	30	0	Arte	Marcela Tello-ElDia	2016-11-24 00:00:00	
+111919	INVERSIONES VEINTINUEVE GRADOS	Par	Blanco y negro	Generales	5x2	30	9.280	Arte	Patricia Villena	2016-11-24 00:00:00	
+114961	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	4x5	30	20.508	Arte	Miguel Apey	2016-11-24 00:00:00	
+115214	SERVICIOS GENERALES GUAYACAN S.A	Par	Blanco y negro	Generales	4x2	31	6.666	Arte	Jacqueline Torres	2016-11-24 00:00:00	
+116278	VELIZ CORTES JOSE A.	Par	Blanco y negro	Generales	3x2	31	13.403	Arte	Pedro Cortes	2016-11-24 00:00:00	
+116457	DAVILA CARLOS 			UIP	5x1	32	8.937	Arte	Pedro Jaime	2016-11-24 00:00:00	
+117044	SOC. EDUCACIONAL SENDEROS LTDA.	Par	Blanco y negro	Generales	10x3	EC-20	0	Arte	Pedro Jaime	2016-11-24 00:00:00	
+116946	JDV REMATES S.A.	Par	Blanco y negro	Generales	6x3	EC-20	43.505	Arte	Pedro Jaime	2016-11-24 00:00:00	
+117103	SANTANDER G.R.C.	Par	Blanco y negro	Generales	17x1	EC-21	62.254	Arte	Pedro Jaime	2016-11-24 00:00:00	
+117099	SANTANDER G.R.C.	Par	Blanco y negro	Generales	17x1	EC-21	62.254	Arte	Pedro Jaime	2016-11-24 00:00:00	
+117091	SANTANDER G.R.C.	Par	Blanco y negro	Generales	17x1	EC-21	62.254	Arte	Pedro Jaime	2016-11-24 00:00:00	
+117065	CORPBANCA	Par	Blanco y negro	Generales	17x1	EC-21	0	Arte	Pedro Jaime	2016-11-24 00:00:00	
+108962	HOTELERIA LUIS ALBERTO BERETTA KIEK	Par	Blanco y negro	Generales	5x2	EC-21	6.994	Arte	Patricia Villena	2016-11-24 00:00:00	
+115467	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Generales	5x1	EC-21	5.860	Arte	Rene Pizarro	2016-11-24 00:00:00	
+117095	SANTANDER G.R.C.	Par	Blanco y negro	Generales	17x1	EC-21	62.254	Arte	Pedro Jaime	2016-11-24 00:00:00	

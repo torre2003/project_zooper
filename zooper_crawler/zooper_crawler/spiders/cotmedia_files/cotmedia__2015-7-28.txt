@@ -1,0 +1,49 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+79558	CHRISTIAN LAUNITZ MARIN SERVICIOS M	Par	Blanco y negro	Generales	3x2	04	6.440	Publicado	Jacqueline Torres	2015-7-28 00:00:00	
+80903	CLARO CHILE S.A.	Impar	Cuatricromia	Generales	35x6	05	645.977	Publicado	Kathine Soto-Stgo	2015-7-28 00:00:00	
+79311	SECRETARIA REGIONAL MINISTERIAL DE 	Par	Cuatricromia	Generales	17x6	07	355.595	Publicado	Jacqueline Torres	2015-7-28 00:00:00	
+80921	ARMAQ SUBIRI S.A.	Par	Cuatricromia	Generales	17x3	08	175.000	Publicado	Claudio Romero	2015-7-28 00:00:00	
+80962	CONSTRUCTORA SERENA LTDA.	Par	Cuatricromia	Generales	35x6	09	600.000	Publicado	Claudio Romero	2015-7-28 00:00:00	
+80831	ILUSTRE MUNICIPALIDAD DE LA SERENA	Par	Cuatricromia	Generales	17x3	11	0	Arte	M Cristina Puga	2015-7-28 00:00:00	
+78998	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	10x3	13	0	Publicado	Marcela Tello-ElDia	2015-7-28 00:00:00	
+80837	RENDIC HNOS. S.A.	Par	Cuatricromia	Generales	35x6	16	979.732	Publicado	Patricia Villena	2015-7-28 00:00:00	
+80839	RENDIC HNOS. S.A.	Par	Cuatricromia	Generales	35x6	17	979.732	Publicado	Patricia Villena	2015-7-28 00:00:00	
+79130	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	19	8.306	Publicado	Miguel Apey	2015-7-28 00:00:00	
+80967	HERMANAS CALLEGARI LTDA.	Par	Cuatricromia	Generales	18x6	23	302.292	Publicado	Marcela Tello-ElDia	2015-7-28 00:00:00	
+80954	CAMAL MUSALEM TAPIA Y CIA.	Par	Cuatricromia	Generales	34x4	24	209.925	Publicado	Marcela Tello-ElDia	2015-7-28 00:00:00	
+78559	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	6x6	27	0	Publicado	Claudio Romero	2015-7-28 00:00:00	
+80598	Agro-Frio La Garza s.p.a.			UIP	5x2	28	17.875	Publicado	Claudio Romero	2015-7-28 00:00:00	
+79521	SERVICIO TRANSPORTES SERENA MAR CAR	Par	Cuatricromia	Generales	9x2	28	0	Publicado	Marcela Tello-ElDia	2015-7-28 00:00:00	
+80534	DESIDERIO			UIP	5x2	28	17.875	Publicado	Claudio Romero	2015-7-28 00:00:00	
+80417	agroplastic			UIP	17x1	29	29.333	Publicado	Claudio Romero	2015-7-28 00:00:00	
+80587	BERM			UIP	5x1	29	8.937	Publicado	Miguel Apey	2015-7-28 00:00:00	
+80141	SOC. DE GESTION MEDITERRANEA			UIP	5x1	29	8.937	Publicado	Miguel Apey	2015-7-28 00:00:00	
+78890	DIARIO EL DIA	Par	Blanco y negro	Generales	5x2	29	0	Publicado	Marcela Tello-ElDia	2015-7-28 00:00:00	
+78931	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	29	0	Publicado	Marcela Tello-ElDia	2015-7-28 00:00:00	
+78962	PILLA LA VACA	Par	Blanco y negro	Generales	5x2	29	0	Publicado	Marcela Tello-ElDia	2015-7-28 00:00:00	
+77363	sociedad restau			UIP	5x2	29	17.875	Publicado	Jacqueline Torres	2015-7-28 00:00:00	
+79178	SOC. COMERCIAL ALCAPARRA LTDA.	Par	Blanco y negro	Generales	5x2	29	10.440	Publicado	Patricia Villena	2015-7-28 00:00:00	
+79427	lara 			UIP	5x1	29	8.936	Publicado	Italo Retamal	2015-7-28 00:00:00	
+79742	beltrami raul 			UIP	5x1	29	8.937	Publicado	Pedro Jaime	2015-7-28 00:00:00	
+79357	ECHEVERRI			UIP	5x1	29	8.937	Publicado	Pedro Jaime	2015-7-28 00:00:00	
+79576	SERVICIOS GENERALES GUAYACAN S.A	Par	Blanco y negro	Generales	3x2	30	6.452	Publicado	Jacqueline Torres	2015-7-28 00:00:00	
+80907	INMOBILIARIA ECOMAC SANTIAGO S.A.	Impar	Cuatricromia	Generales	35x6	32	788.092	Publicado	M Cristina Puga	2015-7-28 00:00:00	
+79255	SOC. COMERCIAL VARGAS Y GIACOMET	Par	Blanco y negro	Generales	5x1	EC-20	5.860	Publicado	Rene Pizarro	2015-7-28 00:00:00	
+80945	CLUB DE DEPORTES LA SERENA	Par	Cuatricromia	Generales	17x3	EC-21	0	Publicado	Marcela Tello-ElDia	2015-7-28 00:00:00	
+80961	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	EC-21	0	Publicado	Marcela Tello-ElDia	2015-7-28 00:00:00	
+80911	PAULA ACEVEDO			UIP	5x1	EC-21	8.937	Publicado	Pedro Jaime	2015-7-28 00:00:00	
+80890	CORPBANCA	592 Palabras		Legal	x	EC-21	146.974	Publicado	Pedro Jaime	2015-7-28 00:00:00	
+79221	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Generales	5x1	EC-21	5.860	Publicado	Rene Pizarro	2015-7-28 00:00:00	
+80931	AUTOMOTRIZ PEDREGAL LTDA.	431 Palabras		Propiedades	x	PROP	68.960	Publicado	Pedro Jaime	2015-7-28 00:00:00	
+80958	BRAVO DE VON TROTT CARMEN	1187 Palabras		Propiedades	x	PROP	189.920	Publicado	Claudio Romero	2015-7-28 00:00:00	
+80959	MONSERRAT NU?EZ PROPIEDADES LTDA.	706 Palabras		Propiedades	x	PROP	112.960	Publicado	Claudio Romero	2015-7-28 00:00:00	
+80930	COMERCIAL AUTOKARINO LTDA.	316 Palabras		Propiedades	x	PROP	50.560	Publicado	Pedro Jaime	2015-7-28 00:00:00	
+80929	SOC. AMENABAR REYES Y AMENABAR LTDA	397 Palabras		Propiedades	x	PROP	63.520	Publicado	Pedro Jaime	2015-7-28 00:00:00	
+80928	YOLANDA ELIAS CAMBLOR	431 Palabras		Propiedades	x	PROP	68.960	Publicado	Pedro Jaime	2015-7-28 00:00:00	
+80927	MAQ - CONSTRUCCION E.I.R.L.	246 Palabras		Propiedades	x	PROP	39.360	Publicado	Pedro Jaime	2015-7-28 00:00:00	
+80925	SOC. COMERCIAL INV. GENERALES LTDA.	198 Palabras		Propiedades	x	PROP	31.680	Publicado	Pedro Jaime	2015-7-28 00:00:00	
+80920	THE HOUSE DREAM S.A.	1311 Palabras		Propiedades	x	PROP	209.760	Publicado	Pedro Jaime	2015-7-28 00:00:00	
+80919	JANIER MUNDACA ALBI?A	167 Palabras		Legal	x	PROP	41.416	Publicado	Pedro Jaime	2015-7-28 00:00:00	
+80918	GONZALEZ ADAROS MARIA SOLEDAD	370 Palabras		Propiedades	x	PROP	59.200	Publicado	Pedro Jaime	2015-7-28 00:00:00	
+80906	AMENABAR PROPIEDADES LTDA.	2500 Palabras		Propiedades	x	PROP	400.000	Publicado	M Cristina Puga	2015-7-28 00:00:00	
+80926	DANIELLA CARVAJAL VEGA	473 Palabras		Propiedades	x	PROP	75.680	Publicado	Pedro Jaime	2015-7-28 00:00:00	

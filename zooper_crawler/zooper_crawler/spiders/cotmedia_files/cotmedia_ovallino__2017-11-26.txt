@@ -1,0 +1,8 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+142671	INMOBILIARIA CALEUCHE LTDA	Par	Cuatricromia	Generales	8x6	01	133.670	Arte	Paola Marquez	Beltec IMPAR si se puede	2017-11-26 00:00:00	
+144541	OMD CHILE S.P.A.	Impar	Cuatricromia	Generales	35x6	03	668.079	Arte	Patricia Villena		2017-11-26 00:00:00	
+131291	SOCIEDAD MEDICA Y CONSULTORA ESTETI		Cuatricromia	Guia	5x2	06	13.333	Arte	Maria_Amelia Hermosilla	Diego Polanco	2017-11-26 00:00:00	
+144595	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	10x2	07	28.900	Arte	Medios Regionales	Empresa Transportes Rurales - Conductores Profesionales - (200825)	2017-11-26 00:00:00	
+143397	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	08	0	Arte	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2017-11-26 00:00:00	
+142571	OVALLE CASINO RESORT S.A	Par	Cuatricromia	Generales	25x4	09	171.372	Arte	Paola Marquez	OCR eventos Noviembre Impar si se puede	2017-11-26 00:00:00	
+143968	VELIZ CORTES JOSE A.			UIP	5x2	14	4.695	Arte	Pedro Cortes		2017-11-26 00:00:00	

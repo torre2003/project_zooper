@@ -1,0 +1,12 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+81906	SOCIEDAD DE RENTAS FALABELLA S.A	Par	Cuatricromia	Generales	8x6	01	0	Publicado	M Cristina Puga	Huincha portada Open Plaza	2015-8-22 00:00:00	
+82304	DABED Y CIA. LTDA., SELIM	Impar	Cuatricromia	Generales	6x6	03	23.077	Publicado	Italo Retamal	(22) Expo Dabed	2015-8-22 00:00:00	
+81982	jorge alva			UIP	5x2	05	2.808	Publicado	Italo Retamal	abogado	2015-8-22 00:00:00	
+80821	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	10x3	07	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2015-8-22 00:00:00	
+81163	florencia			UIP	10x2	07	5.630	Publicado	Italo Retamal	tienda exotica	2015-8-22 00:00:00	
+82531	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	12x6	08	0	Publicado	Marcela Tello-ElDia	Avant Premiere - Club de Lectores	2015-8-22 00:00:00	
+82534	SOCIEDAD DE RENTAS FALABELLA S.A	Impar	Cuatricromia	Generales	17x6	09	400.000	Publicado	M Cristina Puga	Open plaza / pegar cupon	2015-8-22 00:00:00	
+81383	tanguemar			UIP	5x2	10	2.808	Publicado	Patricia Villena	Tanguemar	2015-8-22 00:00:00	
+82630	Tita alamo			UIP	5x2	10	2.808	Publicado	Italo Retamal	terreno medieria	2015-8-22 00:00:00	
+82818	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	12x5	14	0	Publicado	Marcela Tello-ElDia		2015-8-22 00:00:00	
+80969	SOCIEDAD DE RENTAS FALABELLA S.A	Impar	Cuatricromia	Generales	35x6	16	400.000	Publicado	M Cristina Puga	contraportada Open Plaza	2015-8-22 00:00:00	

@@ -1,0 +1,4 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+69050	CALLEGARI LTDA.	Par	Cuatricromia	Generales	6x6	01	30.000	Publicado	Marcela Tello-ElDia	Portada - Kia Good Morning	2015-2-17 00:00:00	
+69165	: LARA Y CIA. AGUILAS TOCANDO EL CI			UIP	10x6	05	16.260	Publicado	Italo Retamal	apertura	2015-2-17 00:00:00	
+68258	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	10x3	07	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2015-2-17 00:00:00	

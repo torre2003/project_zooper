@@ -1,0 +1,12 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+130409	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	01	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2017-6-18 00:00:00	
+131989	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Cuatricromia	Medios Regionales	35x6	03.	375.703	Publicado	Medios Regionales	BANCO DE CHILE LEVANTEMOS CHILE (  102138   ) IMPAR 	2017-6-18 00:00:00	
+131140	EMPRESA PERIODISTICA EL NORTE S.A.	Par	Blanco y negro	Medios Regionales	10x2	05	28.900	Publicado	Medios Regionales	Parques de Chile S.A. - (81725)	2017-6-18 00:00:00	
+131515	AGUAS ALTO LAS MOLLACAS	Par	Blanco y negro	Generales	17x2	05	104.047	Publicado	Karina Rivera	CITACION AGUAS ALTO LAS MOLLACAS	2017-6-18 00:00:00	
+132026	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	10x2	05	28.900	Publicado	Medios Regionales	PARQUES JUNIO (  103003   ) 	2017-6-18 00:00:00	
+131268	SOCIEDAD MEDICA Y CONSULTORA ESTETI		Cuatricromia	Guia	5x2	06	13.333	Publicado	Maria_Amelia Hermosilla	Diego Polanco	2017-6-18 00:00:00	
+131887	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x3	06	0	Arte	Marcela Tello-ElDia	TODO EL 3D A PRECIO DE 2D, CINEMARK	2017-6-18 00:00:00	
+131965	AUTOMOTRIZ CARMONA	Par	Cuatricromia	Generales	17x6	08	342.700	Publicado	Marcela Tello-ElDia	VW BORA	2017-6-18 00:00:00	
+130491	OVALLE CASINO RESORT S.A	Par	Cuatricromia	Generales	25x4	09	171.372	Publicado	Paola Marquez	OCR Eventos Mayo	2017-6-18 00:00:00	
+131637	CALLEGARI LTDA.	Par	Cuatricromia	Generales	17x6	11	174.777	Publicado	Marcela Tello-ElDia	Ford Ecosport	2017-6-18 00:00:00	
+132068	SERVICIOS GENERALES GUAYACAN S.A	Impar	Cuatricromia	Generales	17x3	14	65.550	Publicado	Jacqueline Torres	CREMATORIO/ANFORAS	2017-6-18 00:00:00	

@@ -1,0 +1,37 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+145718	DIARIO EL DIA	Par	Blanco y negro	Generales	17x6	03	0	Arte	Marcela Tello-ElDia	2017-12-11 00:00:00	
+145127	C.M. SOC. GASTRONOMICA LTDA.			UIP	5x2	04	7.208	Publicado		2017-12-11 00:00:00	
+144904	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	5x2	04	0	Arte	Miguel Apey	2017-12-11 00:00:00	
+143006	CENTRO DE EDUC.CAP.Y FORMACION LABO	Par	Blanco y negro	Generales	5x2	04	4.666	Publicado	Jacqueline Torres	2017-12-11 00:00:00	
+145301	OMD CHILE S.P.A.	Impar	Cuatricromia	Generales	35x6	05	824.511	Publicado	Patricia Villena	2017-12-11 00:00:00	
+145641	UNIVERSIDAD TECNOLOGICA DE CHILE	Impar	Cuatricromia	Generales	17x6	07	450.000	Publicado	Patricia Villena	2017-12-11 00:00:00	
+144952	HABITA INMOBILIARIA SA	Par	Cuatricromia	Generales	34x3	09	0	Arte	Miguel Apey	2017-12-11 00:00:00	
+145719	DIARIO EL DIA	Par	Cuatricromia	Generales	4x6	11	0	Arte	Marcela Tello-ElDia	2017-12-11 00:00:00	
+144688	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	11	8.306	Publicado	Miguel Apey	2017-12-11 00:00:00	
+141829	CHRISTIAN LAUNITZ MARIN SERVICIOS M	Par	Blanco y negro	Generales	5x2	14	5.000	Publicado	Heinger Vega Torres	2017-12-11 00:00:00	
+144711	LABORATORIO CLINICO STA. MARIA LA S	Par	Blanco y negro	Generales	6x2	15	7.470	Publicado	Miguel Apey	2017-12-11 00:00:00	
+145662	ARZOBISPADO DE LA SERENA	Par	Blanco y negro	Generales	5x2	15	0	Publicado	Marcela Tello-ElDia	2017-12-11 00:00:00	
+145617	CONSTRUCTORA CADEL LTDA.	Par	Cuatricromia	Generales	17x6	16	0	Publicado	Rene Pizarro	2017-12-11 00:00:00	
+145721	DIARIO EL DIA	Par	Blanco y negro	Generales	17x6	20	0	Arte	Marcela Tello-ElDia	2017-12-11 00:00:00	
+145602	INMOBIL. SANTA CATALINA E.I.R.L.	Par	Cuatricromia	Generales	17x6	21	0	Publicado	Rene Pizarro	2017-12-11 00:00:00	
+145372	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	22	0	Publicado	Marcela Tello-ElDia	2017-12-11 00:00:00	
+145722	DIARIO EL DIA	Par	Cuatricromia	Generales	4x6	23	0	Arte	Marcela Tello-ElDia	2017-12-11 00:00:00	
+145723	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	24	0	Arte	Marcela Tello-ElDia	2017-12-11 00:00:00	
+145624	CONSTRUCTORA CADEL LTDA.	Par	Cuatricromia	Generales	17x6	25	0	Publicado	Rene Pizarro	2017-12-11 00:00:00	
+144727	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	4x5	26	20.508	Arte	Miguel Apey	2017-12-11 00:00:00	
+144270	SOC. DE GES			UIP	5x1	26	8.937	Publicado	Miguel Apey	2017-12-11 00:00:00	
+144803	ARMAQ SUBIRI S.A.			UIP	5x1	26	8.937	Publicado	Claudio Romero	2017-12-11 00:00:00	
+142295	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	26	0	Publicado	Marcela Tello-ElDia	2017-12-11 00:00:00	
+142044	CERNA E HIJOS CIA. LTDA.	Par	Blanco y negro	Generales	5x1	26	3.574	Publicado	Nadia Randolph	2017-12-11 00:00:00	
+145408	MARTIN JURE PATRICIA	Par	Cuatricromia	Generales	12x3	28	0	Publicado	Marcela Tello-ElDia	2017-12-11 00:00:00	
+145155	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	28	0	Publicado	Marcela Tello-ElDia	2017-12-11 00:00:00	
+142917	SERVICIOS GENERALES GUAYACAN S.A	Par	Blanco y negro	Generales	4x2	29	4.264	Publicado	Jacqueline Torres	2017-12-11 00:00:00	
+143954	VELIZ CORTES JOSE A.	Par	Blanco y negro	Generales	3x2	29	13.403	Publicado	Pedro Cortes	2017-12-11 00:00:00	
+145583	EMPRESAS LA POLAR S.A.	Impar	Cuatricromia	Generales	35x6	32	0	Publicado	Patricia Villena	2017-12-11 00:00:00	
+145505	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	10x2	EC-17	43.480	Publicado	Medios Regionales	2017-12-11 00:00:00	
+145661	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Economico	5x2	EC-18	15.161	Publicado	Rene Pizarro	2017-12-11 00:00:00	
+145720	DIARIO EL DIA	Par	Blanco y negro	Generales	17x6	EC-18	0	Arte	Marcela Tello-ElDia	2017-12-11 00:00:00	
+124038	HOTELERIA LUIS ALBERTO BERETTA KIEK	Par	Blanco y negro	Generales	5x2	EC-18	6.061	Publicado	Patricia Villena	2017-12-11 00:00:00	
+145482	CONSTRUCTORA SERENA LTDA.	Home	Banner Cabecera	Web	x	WEB	200.000	Publicado		2017-12-11 00:00:00	
+145483	INMOBILIARIA NUEVA SERENA	Home	Banner Cabecera	Web	x	WEB	200.000	Publicado		2017-12-11 00:00:00	
+145484	INMOBILIARIA SERENA S.A.	Home	Banner Cabecera	Web	x	WEB	200.000	Publicado		2017-12-11 00:00:00	

@@ -1,0 +1,38 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+75116	CHRISTIAN LAUNITZ MARIN SERVICIOS M	Par	Blanco y negro	Generales	3x2	04	6.667	Publicado	Jacqueline Torres	2015-5-25 00:00:00	
+76162	CLARO CHILE S.A.	Impar	Cuatricromia	Generales	25x5	05	373.600	Publicado	Kathine Soto-Stgo	2015-5-25 00:00:00	
+76187	DIARIO EL DIA	Par	Cuatricromia	Generales	34x6	07	0	Publicado	Marcela Tello-ElDia	2015-5-25 00:00:00	
+74921	INVERSIONES E INMOBILIARIA P.A.T.  	Par	Cuatricromia	Generales	9x6	08	0	Publicado	Miguel Apey	2015-5-25 00:00:00	
+76161	CARAT CHILE S.A.	Impar	Cuatricromia	Generales	17x6	09	300.000	Publicado	Kathine Soto-Stgo	2015-5-25 00:00:00	
+75899	DIARIO EL DIA	Par	Cuatricromia	Generales	17x6	10	0	Publicado	Marcela Tello-ElDia	2015-5-25 00:00:00	
+74917	HABITA INMOBILIARIA SA	Par	Cuatricromia	Generales	35x3	11	0	Publicado	Miguel Apey	2015-5-25 00:00:00	
+75372	SKY AIRLINE S.A.	Impar	Cuatricromia	Generales	17x6	12	269.464	Publicado	M Cristina Puga	2015-5-25 00:00:00	
+74474	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	10x3	13	0	Publicado	Marcela Tello-ElDia	2015-5-25 00:00:00	
+76022	ADMINISTRADORA CLUB DE GOLF LA SERE	Par	Blanco y negro	Generales	12x3	13	105.466	Publicado	Patricia Villena	2015-5-25 00:00:00	
+74897	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	4x5	14	20.508	Publicado	Miguel Apey	2015-5-25 00:00:00	
+74824	LABORATORIO CLINICO STA. MARIA LA S	Par	Blanco y negro	Generales	6x2	15	7.470	Publicado	Miguel Apey	2015-5-25 00:00:00	
+76142	CEAZA	Par	Blanco y negro	Generales	10x2	15	73.240	Publicado	Jacqueline Torres	2015-5-25 00:00:00	
+75738	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	6x2	15	26.088	Publicado	Medios Regionales	2015-5-25 00:00:00	
+74857	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	15-16	8.306	Publicado	Miguel Apey	2015-5-25 00:00:00	
+76225	DIARIO EL DIA	Par	Blanco y negro	Generales	35x6	20	0	Publicado	Marcela Tello-ElDia	2015-5-25 00:00:00	
+76091	DIARIO EL DIA	Par	Cuatricromia	Generales	20x3	22	0	Publicado	Marcela Tello-ElDia	2015-5-25 00:00:00	
+76158	EMPRESA PUBLICITARIA Y DE COMUNICAC	Impar	Cuatricromia	Generales	15x6	25	292.857	Publicado	Pedro Jaime	2015-5-25 00:00:00	
+76201	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	27	0	Publicado	Marcela Tello-ElDia	2015-5-25 00:00:00	
+75596	CORP. DE FOMENTO DE LA PRODUCCION	Impar	Cuatricromia	Generales	17x3	27	196.288	Publicado	Jacqueline Torres	2015-5-25 00:00:00	
+76154	DIARIO EL DIA	Par	Cuatricromia	Generales	12x6	28	0	Publicado	Marcela Tello-ElDia	2015-5-25 00:00:00	
+74380	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	29	0	Publicado	Marcela Tello-ElDia	2015-5-25 00:00:00	
+74198	ARMAQ			UIP	5x1	29	8.937	Publicado	Claudio Romero	2015-5-25 00:00:00	
+73598	SOC. DE GESTION MEDITERRANEA			UIP	5x1	29	8.937	Publicado	Miguel Apey	2015-5-25 00:00:00	
+76209	AREVALO CARMEN			UIP	5x1	29	8.937	Publicado	Pedro Jaime	2015-5-25 00:00:00	
+74733	SOC. COMERCIAL ALCAPARRA LTDA.	Par	Blanco y negro	Generales	5x2	29	10.440	Publicado	Patricia Villena	2015-5-25 00:00:00	
+69711	sociedad restau			UIP	5x2	29	17.875	Publicado	Jacqueline Torres	2015-5-25 00:00:00	
+74414	PILLA LA VACA	Par	Blanco y negro	Generales	5x2	29	0	Publicado	Marcela Tello-ElDia	2015-5-25 00:00:00	
+76012	desiderio			UIP	5x2	29	17.875	Publicado	Claudio Romero	2015-5-25 00:00:00	
+74453	DIARIO EL DIA	Par	Blanco y negro	Generales	5x2	29	0	Publicado	Marcela Tello-ElDia	2015-5-25 00:00:00	
+75718	SOC. INMOBILIARIA DE INVERSIONES RE	Par	Blanco y negro	Generales	5x1	29	7.427	Publicado	Miguel Apey	2015-5-25 00:00:00	
+75145	SERVICIOS GENERALES GUAYACAN S.A	Par	Blanco y negro	Generales	3x2	30	6.667	Publicado	Jacqueline Torres	2015-5-25 00:00:00	
+73974	BANCO PARIS	Impar	Cuatricromia	Generales	35x6	32	580.000	Publicado	M Cristina Puga	2015-5-25 00:00:00	
+74665	SOC. COMERCIAL VARGAS Y GIACOMET	Par	Blanco y negro	Generales	5x1	EC-19	5.860	Publicado	Rene Pizarro	2015-5-25 00:00:00	
+74636	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Generales	5x1	EC-19	5.860	Publicado	Rene Pizarro	2015-5-25 00:00:00	
+76215	AREVALO CARMEN 			UIP	5x1	EC-19	8.937	Publicado	Pedro Jaime	2015-5-25 00:00:00	
+76053	ACONCAGUA GESTION INMOBILIARIA S.A.	Home	Banner Cabecera	Web	x	WEB	283.333	Publicado	Paola Marquez	2015-5-25 00:00:00	

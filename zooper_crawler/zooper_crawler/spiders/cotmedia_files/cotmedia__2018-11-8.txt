@@ -1,0 +1,34 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+169546	CLARO CHILE S.A.	Impar	Cuatricromia	Generales	35x6	05	646.000	Publicado	Kathine Soto-Stgo	2018-11-8 00:00:00	
+169646	DIARIO EL DIA	Par	Cuatricromia	Generales	3x6	08	0	Arte	Marcela Tello-ElDia	2018-11-8 00:00:00	
+169491	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	10	0	Publicado	Marcela Tello-ElDia	2018-11-8 00:00:00	
+169486	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	11	0	Publicado	Marcela Tello-ElDia	2018-11-8 00:00:00	
+169015	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	12x3	11	51.666	Publicado	Claudio Romero	2018-11-8 00:00:00	
+169647	DIARIO EL DIA	Par	Blanco y negro	Generales	5x2	13	0	Arte	Marcela Tello-ElDia	2018-11-8 00:00:00	
+169113	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	5x2	13	0	Arte	Miguel Apey	2018-11-8 00:00:00	
+169099	LABORATORIO CLINICO STA. MARIA LA S	Par	Blanco y negro	Generales	6x2	13	7.470	Publicado	Miguel Apey	2018-11-8 00:00:00	
+169042	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	13	8.306	Publicado	Miguel Apey	2018-11-8 00:00:00	
+169284	DIARIO EL DIA	Par	Cuatricromia	Generales	6x6	16	0	Publicado	Marcela Tello-ElDia	2018-11-8 00:00:00	
+168269	C.M. SOC. GASTRONOMICA LTDA.			UIP	5x2	20	7.208	Publicado		2018-11-8 00:00:00	
+169072	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	4x5	20	20.508	Arte	Miguel Apey	2018-11-8 00:00:00	
+168699	INVERSIONES ALTA CRUZ LTDA	Par	Blanco y negro	Generales	5x2	20	0	Publicado	Marcela Tello-ElDia	2018-11-8 00:00:00	
+168644	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	20	0	Publicado	Marcela Tello-ElDia	2018-11-8 00:00:00	
+169629	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Cuatricromia	Medios Regionales	16x6	21	324.840	Arte	Medios Regionales	2018-11-8 00:00:00	
+168968	ARMAQ SUBIRI S.A.			UIP	5x1	22	8.937	Publicado	Claudio Romero	2018-11-8 00:00:00	
+168758	PILLA LA VACA	Par	Blanco y negro	Generales	5x2	22	0	Publicado	Marcela Tello-ElDia	2018-11-8 00:00:00	
+168807	PAMELA B. GONZALEZ LIZAMA COMERCIAL	Par	Blanco y negro	Generales	5x2	22	0	Publicado	Marcela Tello-ElDia	2018-11-8 00:00:00	
+169650	DIARIO EL DIA	Par	Cuatricromia	Generales	6x6	24	0	Arte	Marcela Tello-ElDia	2018-11-8 00:00:00	
+167745	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	27	0	Publicado	Marcela Tello-ElDia	2018-11-8 00:00:00	
+169472	CAMPOS DEL NORTE S.A.	Par	Cuatricromia	Generales	17x3	27	0	Publicado	Patricia Villena	2018-11-8 00:00:00	
+169652	DIARIO EL DIA	Par	Cuatricromia	Generales	34x6	28	0	Arte	Carolina Naranjo	2018-11-8 00:00:00	
+169163	SERVICIOS GENERALES GUAYACAN S.A	Par	Blanco y negro	Generales	3x2	29	6.812	Publicado	Jacqueline Torres	2018-11-8 00:00:00	
+169651	DIARIO EL DIA	Par	Blanco y negro	Generales	5x6	29	0	Arte	Marcela Tello-ElDia	2018-11-8 00:00:00	
+169218	OPERADORA Y ADMINISTRADORA NUEVA PO	Par	Cuatricromia	Generales	35x6	32	0	Publicado	Patricia Villena	2018-11-8 00:00:00	
+169537	MARIA JOSE ROJAS ERBETTA	430 Palabras		Legal	x	EC	106.723	Publicado	Pedro Jaime	2018-11-8 00:00:00	
+169648	DIARIO EL DIA	Par	Cuatricromia	Generales	11x3	EC-17	0	Arte	Marcela Tello-ElDia	2018-11-8 00:00:00	
+169431	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	10x2	EC-17	45.660	Publicado	Medios Regionales	2018-11-8 00:00:00	
+169321	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Generales	5x2	EC-18	7.003	Publicado	Rene Pizarro	2018-11-8 00:00:00	
+169649	DIARIO EL DIA	Par	Blanco y negro	Generales	10x6	EC-18	0	Arte	Marcela Tello-ElDia	2018-11-8 00:00:00	
+168510	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	EC-18	0	Publicado	Marcela Tello-ElDia	2018-11-8 00:00:00	
+169543	RECAUDACIONES Y COBRANZA S.A	562 Palabras		Legal	x	EC-18	139.496	Publicado	Pedro Jaime	2018-11-8 00:00:00	
+166159	HOTELERIA LUIS ALBERTO BERETTA KIEK	Par	Blanco y negro	Generales	5x2	EC-18	6.061	Publicado	Patricia Villena	2018-11-8 00:00:00	

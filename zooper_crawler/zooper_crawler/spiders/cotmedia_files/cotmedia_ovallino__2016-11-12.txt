@@ -1,0 +1,15 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+114238	Pedro Andres Monardez Elgueta			UIP	17x2	01	12.895	Arte	Karina Rivera	Restaurant Riquisimo	2016-11-12 00:00:00	
+116205	AUTOMOTORES GILDEMEISTER S.A.	Impar	Cuatricromia	Generales	25x5	03	483.218	Arte	Kathine Soto-Stgo	AUTOMOTORES GILDEMEISTER "MAHINDRA"	2016-11-12 00:00:00	
+115907	S.O.T			UIP	5x4	05	5.630	Arte	Karina Rivera	VENTA DE ARIDOS	2016-11-12 00:00:00	
+115921	AGRICOLA NORTE TALINAY LTDA	Par	Blanco y negro	Generales	5x2	05	1.666	Arte	Paola Marquez	UIP VENTA ALFALFA	2016-11-12 00:00:00	
+115949	ALAMO SAGLIE SANDRA			UIP	5x2	05	2.808	Arte	Claudio Romero	VENDO AGUAS CANAL...	2016-11-12 00:00:00	
+116345	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	10x6	06	0	Arte	Marcela Tello-ElDia	CONCURSO CINEMARK	2016-11-12 00:00:00	
+115425	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	07	0	Arte	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2016-11-12 00:00:00	
+116156	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x6	08	0	Arte	Marcela Tello-ElDia	Clases Ejecutivas	2016-11-12 00:00:00	
+116060	OVALLE CASINO RESORT S.A	Par	Cuatricromia	Generales	25x4	09	151.598	Arte	Paola Marquez	OCR Eventos Noviembre	2016-11-12 00:00:00	
+116313	ARENA CHILE S.A.	Impar	Cuatricromia	Generales	17x6	11	230.000	Arte	M Cristina Puga	volkswagen/primeras impar	2016-11-12 00:00:00	
+116315	ASOC. CANALISTAS EMBALSE COGOTI	Par	Blanco y negro	Generales	7x2	12	32.956	Arte	Karina Rivera		2016-11-12 00:00:00	
+116319	ASOC. CANALISTAS CANAL CAMARICO	Par	Blanco y negro	Generales	10x2	12	54.142	Arte	Karina Rivera	JUNTA CANALISTAS CANAL CAMARICO	2016-11-12 00:00:00	
+116193	SERV. VIVIENDA Y URBANIZACION IV RE	Impar	Blanco y negro	Generales	35x6	13	463.889	Arte	Jacqueline Torres	LISTADO.....	2016-11-12 00:00:00	
+115084	DABED Y CIA. LTDA., SELIM	Par	Cuatricromia	Generales	6x6	14	23.076	Arte	Karina Rivera	6 MOTOS DABED	2016-11-12 00:00:00	

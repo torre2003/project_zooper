@@ -1,0 +1,11 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+139156	DABED Y CIA. LTDA., SELIM	Par	Cuatricromia	Generales	6x6	01	23.076	Publicado	Karina Rivera	O3	2017-9-21 00:00:00	
+138244	OMD CHILE S.P.A.	Impar	Cuatricromia	Generales	17x6	03	216.330	Publicado	Patricia Villena		2017-9-21 00:00:00	
+138311	CENTRO DE SALUD PORTALES LTDA			UIP	5x4	05	4.504	Publicado	Karina Rivera	ORTODONCIA 	2017-9-21 00:00:00	
+139086	EMPRESA PERIODISTICA EL NORTE S.A.	Par	Blanco y negro	Medios Regionales	10x2	05	28.900	Arte	Medios Regionales	BBVA - 2017-491451457-1 - (159457)	2017-9-21 00:00:00	
+137776	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	08	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2017-9-21 00:00:00	
+139181	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	12x6	09	0	Arte	Marcela Tello-ElDia	Nos cambiamos de oficina - El Ovallino	2017-9-21 00:00:00	
+138030	ESTUDIO JURIDICO OLIVARES Y CIA. SP	Par	Blanco y negro	Generales	5x2	10	2.000	Publicado	Jacqueline Torres	ESTUDIO JURIDICO OLIVARES	2017-9-21 00:00:00	
+137214	TEODORO AGUIRRE ALVAREZ			UIP	5x2	10	2.808	Publicado	Karina Rivera	REGIONALISTA VERDE SOCIAL	2017-9-21 00:00:00	
+136037	INVERSIONES TANGUEMAR LIMITADA			UIP	5x2	10	2.808	Publicado	Patricia Villena	Tanguemar	2017-9-21 00:00:00	
+139180	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	6x6	14	0	Arte	Marcela Tello-ElDia		2017-9-21 00:00:00	

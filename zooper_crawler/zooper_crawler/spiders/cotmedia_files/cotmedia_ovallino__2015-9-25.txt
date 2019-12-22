@@ -1,0 +1,10 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+83744	SOCIEDAD DE RENTAS FALABELLA S.A	Par	Cuatricromia	Generales	8x6	01	50.980	Publicado	M Cristina Puga	Huincha portada Open Plaza	2015-9-25 00:00:00	
+84798	INMOBILIARIA NUEVA SERENA	Par	Blanco y negro	Generales	17x6	03	125.000	Publicado	Claudio Romero	proyecto llanos de san luis....	2015-9-25 00:00:00	
+83440	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	10x3	05	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2015-9-25 00:00:00	
+85041	ASOC. CANALISTAS CANAL CAMARICO	Par	Blanco y negro	Generales	10x2	05	0	Publicado	Italo Retamal	junta general	2015-9-25 00:00:00	
+83205	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	6x6	06	16.065	Publicado	Claudio Romero	Muebles Alpina	2015-9-25 00:00:00	
+84930	SOC. AGRICOLA ANGOSTURA LTDA.	Impar	Blanco y negro	Generales	35x3	07	200.000	Publicado	Italo Retamal	adios covalsa	2015-9-25 00:00:00	
+83567	SOCIEDAD COMERCIAL KATANKURA LTDA	Par	Cuatricromia	Generales	6x6	09	25.000	Publicado	Italo Retamal	evento katankura 	2015-9-25 00:00:00	
+85035	INSTITUTO DE PREVISION SOCIAL	Par	Cuatricromia	Generales	17x3	11	114.292	Publicado	Jacqueline Torres		2015-9-25 00:00:00	
+85088	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x6	14	0	Arte	Marcela Tello-ElDia		2015-9-25 00:00:00	

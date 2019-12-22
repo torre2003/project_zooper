@@ -1,0 +1,64 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+87986	ILUSTRE MUNICIPALIDAD DE ANDACOLLO	Par	Blanco y negro	Generales	17x2	04	97.365	Publicado	Jacqueline Torres	2015-10-31 00:00:00	
+87849	EASY S.A.	Impar	Cuatricromia	Generales	35x6	05	680.000	Publicado	M Cristina Puga	2015-10-31 00:00:00	
+87554	HERMANAS CALLEGARI LTDA.	Par	Cuatricromia	Generales	26x6	07	0	Arte	Marcela Tello-ElDia	2015-10-31 00:00:00	
+87523	FONDO DE SOLIDARIDAD E INVERSION SO	Par	Cuatricromia	Generales	35x6	09	672.269	Publicado	Jacqueline Torres	2015-10-31 00:00:00	
+87668	SOC. INMOBILIARIA E INVERSIONES CHI	Par	Cuatricromia	Generales	10x2	10	117.917	Publicado	Claudio Romero	2015-10-31 00:00:00	
+85352	DIARIO EL DIA	Par	Cuatricromia	Generales	12x2	10	0	Publicado	Marcela Tello-ElDia	2015-10-31 00:00:00	
+86715	ESPACIO JURIDICO SPA	Par	Blanco y negro	Generales	15x2	10	88.438	Publicado	Miguel Apey	2015-10-31 00:00:00	
+87917	OVALLE CASINO RESORT S.A	Par	Blanco y negro	Generales	17x6	11	0	Publicado	Italo Retamal	2015-10-31 00:00:00	
+87851	AGROPLASTIC LTDA.	Par	Blanco y negro	Generales	5x2	12	33.691	Publicado	Claudio Romero	2015-10-31 00:00:00	
+87377	GUERRERO SERANTONI Y CIA. LTDA.	Par	Blanco y negro	Generales	5x1	12	5.527	Publicado	Pedro Jaime	2015-10-31 00:00:00	
+87663	RENDIC HNOS. S.A.	Impar	Cuatricromia	Generales	34x3	13	658.897	Publicado	Patricia Villena	2015-10-31 00:00:00	
+86426	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	5x2	14	0	Publicado	Miguel Apey	2015-10-31 00:00:00	
+86551	INMOBIL. PY  S.A.	Par	Blanco y negro	Generales	10x1	14	9.804	Publicado	Claudio Romero	2015-10-31 00:00:00	
+87194	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	10x3	14	70.890	Publicado	Medios Regionales	2015-10-31 00:00:00	
+85267	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	15	8.306	Publicado	Miguel Apey	2015-10-31 00:00:00	
+85407	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	6x6	15	58.905	Publicado	Claudio Romero	2015-10-31 00:00:00	
+86990	ASESORIAS EN COMPRAVENTA DE INMUEBL	Par	Cuatricromia	Generales	10x3	16	0	Publicado	Miguel Apey	2015-10-31 00:00:00	
+87840	ILUSTRE MUNICIPALIDAD DE LA SERENA	Par	Cuatricromia	Ed.Especial	35x6	17-20	878.992	Publicado	Jacqueline Torres	2015-10-31 00:00:00	
+87667	INSTITUTO DE PREVISION SOCIAL	Par	Cuatricromia	Ed.Especial	17x6	18	300.688	Publicado	Jacqueline Torres	2015-10-31 00:00:00	
+79730	DIARIO EL DIA	Par	Cuatricromia	Generales	5x6	26	0	Publicado	Marcela Tello-ElDia	2015-10-31 00:00:00	
+87853	INMOBIL. LA SERENA GOLF S.A.	Impar	Cuatricromia	Generales	17x6	27	288.975	Publicado	Patricia Villena	2015-10-31 00:00:00	
+87661	CENTRO ESTETICA MATIZ LTDA.	Par	Blanco y negro	Generales	34x6	29	0	Publicado	Paola Marquez	2015-10-31 00:00:00	
+87977	INMOBIL. SANTA CATALINA E.I.R.L.	Par	Cuatricromia	Generales	17x6	32	300.687	Publicado	Rene Pizarro	2015-10-31 00:00:00	
+87978	INMOBILIARIA DELCA LIMITADA	Par	Cuatricromia	Generales	17x6	33	300.687	Publicado	Rene Pizarro	2015-10-31 00:00:00	
+87552	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	34	0	Publicado	Marcela Tello-ElDia	2015-10-31 00:00:00	
+87833	CLUB DE DEPORTES LA SERENA	Par	Cuatricromia	Generales	17x3	34	0	Publicado	Marcela Tello-ElDia	2015-10-31 00:00:00	
+85532	MARTIN JURE PATRICIA	Par	Cuatricromia	Generales	6x6	35	0	Publicado	Marcela Tello-ElDia	2015-10-31 00:00:00	
+87953	SUBSECRETARIA DE MEDIO AMBIENTE	Par	Blanco y negro	Generales	14x6	36	171.158	Publicado	Jacqueline Torres	2015-10-31 00:00:00	
+86350	mihoc			UIP	5x1	37	8.937	Publicado	Claudio Romero	2015-10-31 00:00:00	
+85558	ARMAQ			UIP	5x1	37	8.937	Publicado	Claudio Romero	2015-10-31 00:00:00	
+85517	DIARIO EL DIA	Par	Blanco y negro	Generales	5x2	37	0	Publicado	Marcela Tello-ElDia	2015-10-31 00:00:00	
+85474	PILLA LA VACA	Par	Blanco y negro	Generales	5x2	37	0	Publicado	Marcela Tello-ElDia	2015-10-31 00:00:00	
+85429	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	37	0	Publicado	Marcela Tello-ElDia	2015-10-31 00:00:00	
+85323	SOC. COMERCIAL ALCAPARRA LTDA.	Par	Blanco y negro	Generales	5x2	37	10.440	Publicado	Patricia Villena	2015-10-31 00:00:00	
+84672	CERNA E HIJOS CIA. LTDA.	Par	Blanco y negro	Generales	5x1	37	4.468	Publicado	Nadia Randolph	2015-10-31 00:00:00	
+84184	soc. comercial e inv. alto la seren			UIP	5x2	37	8.937	Publicado	Nadia Randolph	2015-10-31 00:00:00	
+87107	c.p.c.			UIP	5x1	37	8.937	Publicado	Rene Pizarro	2015-10-31 00:00:00	
+86398	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	4x5	37	20.508	Publicado	Miguel Apey	2015-10-31 00:00:00	
+87240	AREVALO CARMEN			UIP	5x1	37	8.937	Publicado	Pedro Jaime	2015-10-31 00:00:00	
+87166	MATII PERFORACIONES			UIP	5x1	37	8.937	Publicado	Pedro Jaime	2015-10-31 00:00:00	
+87119	c.p.c.			UIP	5x1	37	8.937	Publicado	Rene Pizarro	2015-10-31 00:00:00	
+86784	SOC. RAMON MOYA FUENTES 			UIP	10x1	37	8.937	Publicado	Miguel Apey	2015-10-31 00:00:00	
+87113	c.p.c			UIP	5x1	37	8.937	Publicado	Rene Pizarro	2015-10-31 00:00:00	
+86688	SOC. DE GESTION MEDITERRANEA			UIP	5x1	37	8.937	Publicado	Miguel Apey	2015-10-31 00:00:00	
+87538	AUTOMOTORES DEL NORTE	Par	Blanco y negro	Generales	5x1	37	7.427	Publicado	Miguel Apey	2015-10-31 00:00:00	
+87544	DESIDERIO LISBOA EIRL.	Par	Blanco y negro	Generales	5x2	37	20.000	Publicado	Claudio Romero	2015-10-31 00:00:00	
+86596	SERVICIOS GENERALES GUAYACAN S.A	Par	Blanco y negro	Generales	3x2	38	6.470	Publicado	Jacqueline Torres	2015-10-31 00:00:00	
+87846	DAGMAR CLAUSSEN MOHR S.A.	Par	Blanco y negro	Generales	12x2	38	80.857	Publicado	Rene Pizarro	2015-10-31 00:00:00	
+87892	PROSALUD COQUIMBO S.A.	Par	Blanco y negro	Generales	12x2	38	90.965	Publicado	Rene Pizarro	2015-10-31 00:00:00	
+82571	FALABELLA RETAIL S.A.	Impar	Cuatricromia	Contraportada	35x6	40	600.000	Publicado	M Cristina Puga	2015-10-31 00:00:00	
+88006	CIA. DE LEASING TATTERSALL S.A.	Par	Blanco y negro	Generales	11x2	EC-21	69.487	Publicado	Pedro Jaime	2015-10-31 00:00:00	
+87982	SOC. EDUCACIONAL SAN GUILLERMO LTDA	Par	Blanco y negro	Generales	5x2	EC-22	33.691	Publicado	Miguel Apey	2015-10-31 00:00:00	
+87995	PESQUERA VILLA ALEGRE Y CIA. LTDA.	Par	Blanco y negro	Generales	6x2	EC-22	50.536	Publicado	Pedro Jaime	2015-10-31 00:00:00	
+87246	AREVALO CARMEN			UIP	5x1	EC-23	8.937	Publicado	Pedro Jaime	2015-10-31 00:00:00	
+87835	SOC. CONSTRUCTORA MELENDEZ S.A.	Par	Blanco y negro	Generales	3x2	EC-23	25.268	Publicado	Pedro Jaime	2015-10-31 00:00:00	
+87990	SOC. CONSTRUCTORA MELENDEZ S.A.	Par	Blanco y negro	Generales	4x2	EC-23	33.691	Publicado	Pedro Jaime	2015-10-31 00:00:00	
+84766	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Generales	5x1	EC-23	5.860	Publicado	Rene Pizarro	2015-10-31 00:00:00	
+87891	PAULA ACEVEDO	Par	Blanco y negro	Generales	3x2	EC-24	25.268	Publicado	Pedro Jaime	2015-10-31 00:00:00	
+87525	EASY S.A.		1 pag.	Inserto	x	INS	884.487	Publicado	Patricia Villena	2015-10-31 00:00:00	
+88031	MONSALVES Y PINEDA INVERSIONES LTDA	950 Palabras		Propiedades	x	PROP	151.975	Publicado	Rene Pizarro	2015-10-31 00:00:00	
+87370	BRAVO DE VON TROTT CARMEN	801 Palabras		Propiedades	x	PROP	128.160	Publicado	Claudio Romero	2015-10-31 00:00:00	
+87371	MONSERRAT NU?EZ PROPIEDADES LTDA.	576 Palabras		Propiedades	x	PROP	92.160	Publicado	Claudio Romero	2015-10-31 00:00:00	
+88035	MONSALVES Y PINEDA INVERSIONES LTDA	118 Palabras		Propiedades	x	PROP	18.908	Publicado	Rene Pizarro	2015-10-31 00:00:00	

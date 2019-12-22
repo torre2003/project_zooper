@@ -1,0 +1,11 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+81604	AUTOMOTRIZ CARMONA	Par	Cuatricromia	Generales	7x6	01	23.077	Publicado	Marcela Tello-ElDia	Ya estamos en Ovalle - Portada	2015-8-17 00:00:00	
+82302	DABED Y CIA. LTDA., SELIM	Impar	Cuatricromia	Generales	6x6	03	23.077	Publicado	Italo Retamal	(17)Todos Abr.	2015-8-17 00:00:00	
+81881	centro de co			UIP	10x2	05	5.630	Publicado	Italo Retamal	centro colina	2015-8-17 00:00:00	
+81977	jorge alva			UIP	5x2	05	2.808	Publicado	Italo Retamal	abogado	2015-8-17 00:00:00	
+82219	matiz			UIP	5x2	05	2.808	Publicado	Italo Retamal	busca personal 	2015-8-17 00:00:00	
+81269	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	6x6	06	16.065	Publicado	Claudio Romero	Muebles Alpina	2015-8-17 00:00:00	
+81158	florencia			UIP	10x2	07	5.630	Publicado	Italo Retamal	tienda exotica	2015-8-17 00:00:00	
+80799	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	10x3	07	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2015-8-17 00:00:00	
+81378	tanguemar			UIP	5x2	10	2.808	Publicado	Patricia Villena	Tanguemar	2015-8-17 00:00:00	
+80656	cesar o			UIP	5x4	10	5.630	Publicado	Italo Retamal	mov de tierra	2015-8-17 00:00:00	

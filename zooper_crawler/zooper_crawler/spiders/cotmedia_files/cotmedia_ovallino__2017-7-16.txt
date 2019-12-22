@@ -1,0 +1,15 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+133869	UBER CHILE SPA	Impar	Cuatricromia	Generales	8x6	01	161.638	Publicado	Paola Marquez	Huincha portada Uber	2017-7-16 00:00:00	
+134203	HERMANAS CALLEGARI LTDA.	Par	Cuatricromia	Generales	20x6	03	205.620	Publicado	Marcela Tello-ElDia	Ssang Yong	2017-7-16 00:00:00	
+134220	EMPRESA PERIODISTICA EL NORTE S.A.	Par	Blanco y negro	Medios Regionales	16x2	05	46.240	Publicado	Medios Regionales	Parques de Chile  - (119807)	2017-7-16 00:00:00	
+132980	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	10x2	05	28.900	Publicado	Medios Regionales	PARQUES DE CHILE ( 81737   ) 	2017-7-16 00:00:00	
+131272	SOCIEDAD MEDICA Y CONSULTORA ESTETI		Cuatricromia	Guia	5x2	06	13.333	Publicado	Maria_Amelia Hermosilla	Diego Polanco	2017-7-16 00:00:00	
+134156	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x3	06	0	Publicado	Marcela Tello-ElDia	Solo en Cines - El Planeta de los Simios - La guerra	2017-7-16 00:00:00	
+134147	PRENSA DEL LIMARI LTDA.	Par	Blanco y negro	Generales	12x6	07	0	Publicado	Marcela Tello-ElDia	Club de Lectores - El Planeta de los Simios - La guerra	2017-7-16 00:00:00	
+134200	CALLEGARI LTDA.	Par	Cuatricromia	Generales	17x6	08	174.777	Publicado	Marcela Tello-ElDia	Ford Ecosport	2017-7-16 00:00:00	
+132716	OVALLE CASINO RESORT S.A	Par	Cuatricromia	Generales	25x4	09	171.372	Publicado	Paola Marquez	OCR Eventos Julio	2017-7-16 00:00:00	
+133136	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	10	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2017-7-16 00:00:00	
+134199	CALLEGARI LTDA.	Par	Cuatricromia	Generales	17x6	11	174.777	Publicado	Marcela Tello-ElDia		2017-7-16 00:00:00	
+134247	CAMAL MUSALEM TAPIA Y CIA.	Par	Cuatricromia	Generales	34x5	13	208.080	Publicado	Marcela Tello-ElDia	TOYOTA MUSALEM 	2017-7-16 00:00:00	
+134044	SANTA CLARA SPA.	Par	Cuatricromia	Generales	6x6	14	13.889	Publicado	Karina Rivera	LOTEO VILLASECA	2017-7-16 00:00:00	
+133945	VELIZ CORTES JOSE A.	Par	Blanco y negro	Generales	5x2	14	16.960	Publicado	Pedro Cortes		2017-7-16 00:00:00	

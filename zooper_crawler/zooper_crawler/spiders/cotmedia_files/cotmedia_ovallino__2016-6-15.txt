@@ -1,0 +1,10 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+104468	AUTOMOTRIZ CARMONA	Par	Cuatricromia	Generales	6x6	01	23.077	Publicado	Marcela Tello-ElDia	Nissan Qashqai - Portada (Si hay disponibilidad)	2016-6-15 00:00:00	
+104929	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	6x6	03	0	Arte	Marcela Tello-ElDia		2016-6-15 00:00:00	
+103770	ALVARADO RAMIREZ			UIP	5x2	05	2.808	Publicado	Leonel Pizarro-Ovalle	ABOGADO	2016-6-15 00:00:00	
+104511	AGRICOLA NORTE TALINAY LTDA	Par	Blanco y negro	Generales	5x2	05	1.666	Publicado	Paola Marquez	UIP VENTA ALFALFA	2016-6-15 00:00:00	
+103678	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	07	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2016-6-15 00:00:00	
+104391	DABED Y CIA. LTDA., SELIM	Par	Cuatricromia	Generales	6x6	08	23.076	Publicado	Nadia Randolph	MELAMINAS	2016-6-15 00:00:00	
+103971	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	6x6	09	0	Publicado	Claudio Romero	Muebles Alpina	2016-6-15 00:00:00	
+104931	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x6	11	0	Arte	Marcela Tello-ElDia	El Ovallino - www.elovallino.cl	2016-6-15 00:00:00	
+104930	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	14x6	14	0	Arte	Marcela Tello-ElDia		2016-6-15 00:00:00	

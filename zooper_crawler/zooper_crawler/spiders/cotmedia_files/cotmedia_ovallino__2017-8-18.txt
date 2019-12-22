@@ -1,0 +1,19 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+136679	SOCIEDAD GASTRONOMICA EL RELAJO LTD	Par	Cuatricromia	Generales	6x6	01	30.000	Publicado	Karina Rivera	PORTADA RESTAURANTE EL RELAJO	2017-8-18 00:00:00	
+136689	EMPRESAS LA POLAR S.A.	Impar	Cuatricromia	Generales	35x6	03	0	Publicado	Patricia Villena	Smartphone Primera impar	2017-8-18 00:00:00	
+135633	INMOBILIARIA NUEVA SERENA			UIP	10x6	05	16.260	Publicado	Claudio Romero	LLANAOS DE SAN LUIS	2017-8-18 00:00:00	
+135299	OVALLE CASINO RESORT S.A	Par	Cuatricromia	Generales	25x4	06	131.824	Publicado	Paola Marquez	OCR Eventos agosto impar si se puede	2017-8-18 00:00:00	
+136668	SOC. AGRICOLA HACIENDA MANANTIALES	Par	Cuatricromia	Generales	10x2	06	43.139	Publicado	Karina Rivera	VENTA TRACTORES	2017-8-18 00:00:00	
+136618	JACQUELINE JOFRE VILLANUEVA			UIP	5x2	07	2.808	Publicado	Karina Rivera	CORTINAS ROLLER OVALLE	2017-8-18 00:00:00	
+136528	ESTUDIO JURIDICO OLIVARES Y CIA. SP	Par	Blanco y negro	Generales	5x2	07	2.000	Publicado	Jacqueline Torres	ESTUDIO JURIDICO OLIVARES	2017-8-18 00:00:00	
+136167	ILUSTRE MUNICIPALIDAD DE OVALLE	Par	Blanco y negro	Generales	10x2	07	47.080	Publicado	Karina Rivera	REMATE MUNICIPALIDAD DE OVALLE	2017-8-18 00:00:00	
+135442	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	6x6	08	16.065	Publicado	Claudio Romero	Muebles Alpina	2017-8-18 00:00:00	
+136097	DIARIO EL DIA	Par	Cuatricromia	Generales	35x6	09	0	Publicado	Patricia Villena	Expo Horeca	2017-8-18 00:00:00	
+136545	ILUSTRE MUNICIPALIDAD DE MONTE PATR	Par	Cuatricromia	Generales	17x3	11	0	Arte	Karina Rivera	COMUNAL DE CUECA MONTE PATRIA	2017-8-18 00:00:00	
+135987	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x3	11	0	Publicado	Marcela Tello-ElDia		2017-8-18 00:00:00	
+135096	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	12	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2017-8-18 00:00:00	
+136673	ILUSTRE MUNICIPALIDAD DE OVALLE	Par	Blanco y negro	Generales	15x2	13	70.620	Publicado	Karina Rivera	DECRETO EXENTO 	2017-8-18 00:00:00	
+136346	FERNANDO YOANOVICH			UIP	5x2	13	2.247	Publicado	Karina Rivera	TAROT SRA SOFIA	2017-8-18 00:00:00	
+136581	VELIZ CORTES JOSE A.			UIP	5x2	14	2.808	Publicado	Pedro Cortes		2017-8-18 00:00:00	
+136337	DABED Y CIA. LTDA., SELIM	Par	Cuatricromia	Generales	6x6	14	23.076	Publicado	Karina Rivera	PAN 1	2017-8-18 00:00:00	
+136687	EMPRESAS LA POLAR S.A.	Impar	Cuatricromia	Generales	35x6	16	252.000	Publicado	Patricia Villena	Tendencias Contraportada	2017-8-18 00:00:00	

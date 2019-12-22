@@ -1,0 +1,37 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+67736	MALL PLAZA LA SERENA	Par	Cuatricromia	Generales	34x6	05	0	Publicado	Marcela Tello-ElDia	2015-1-27 00:00:00	
+67840	ILUSTRE MUNICIPALIDAD DE MONTE PATR	Par	Blanco y negro	Generales	12x2	07	61.522	Publicado	Jacqueline Torres	2015-1-27 00:00:00	
+67753	DIARIO EL DIA	Impar	Cuatricromia	Generales	17x3	08	0	Publicado	Patricia Villena	2015-1-27 00:00:00	
+67623	DIARIO EL DIA	Par	Cuatricromia	Generales	12x6	09	0	Publicado	Marcela Tello-ElDia	2015-1-27 00:00:00	
+67314	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	10x3	10	0	Publicado	Marcela Tello-ElDia	2015-1-27 00:00:00	
+65301	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	10-15	8.306	Publicado	Miguel Apey	2015-1-27 00:00:00	
+65426	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Blanco y negro	Generales	6x6	11	0	Publicado	Claudio Romero	2015-1-27 00:00:00	
+67843	CHRISTIAN LAUNITZ MARIN SERVICIOS M	Par	Blanco y negro	Generales	3x2	12	6.452	Publicado	Jacqueline Torres	2015-1-27 00:00:00	
+67612	MILKO LEGUAS	Par	Blanco y negro	Generales	5x1	15	18.310	Publicado	Jacqueline Torres	2015-1-27 00:00:00	
+66988	INMOBILIARIA DOMINGA NORTE LTDA	Par	Blanco y negro	Generales	5x2	15	22.631	Publicado	Pedro Jaime	2015-1-27 00:00:00	
+66957	DIARIO EL DIA	Par	Blanco y negro	Generales	5x1	15	0	Publicado	Marcela Tello-ElDia	2015-1-27 00:00:00	
+66942	DIARIO EL DIA	Par	Blanco y negro	Generales	5x1	15	0	Publicado	Marcela Tello-ElDia	2015-1-27 00:00:00	
+54595	ILUSTRE MUNICIPALIDAD DE LA SERENA	Par	Cuatricromia	Generales	5x6	16	37.500	Publicado	Jacqueline Torres	2015-1-27 00:00:00	
+56148	ILUSTRE MUNICIPALIDAD DE COQUIMBO	Par	Cuatricromia	Generales	10x6	17	39.140	Publicado	Paola Marquez	2015-1-27 00:00:00	
+67231	ILUSTRE MUNICIPALIDAD DE VICUNA	Par	Cuatricromia	Generales	15x2	17	29.808	Publicado	Jacqueline Torres	2015-1-27 00:00:00	
+67473	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	32x6	20	397.440	Publicado	Medios Regionales	2015-1-27 00:00:00	
+67475	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	32x6	21	397.440	Publicado	Medios Regionales	2015-1-27 00:00:00	
+67477	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	32x6	22	397.440	Publicado	Medios Regionales	2015-1-27 00:00:00	
+67758	DIARIO EL DIA	Par	Cuatricromia	Generales	12x6	24	0	Publicado	Marcela Tello-ElDia	2015-1-27 00:00:00	
+67515	PRODUCCIONES ALVAREZ LTDA	Par	Cuatricromia	Generales	8x6	25	91.052	Publicado	M Cristina Puga	2015-1-27 00:00:00	
+65344	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	4x5	29	20.508	Publicado	Miguel Apey	2015-1-27 00:00:00	
+65582	SOC. COMERCIAL ALCAPARRA LTDA.	Par	Blanco y negro	Generales	5x2	30	10.440	Publicado	Patricia Villena	2015-1-27 00:00:00	
+65493	MAQUINARIAS RB  LTDA.	Par	Blanco y negro	Generales	5x1	30	0	Publicado	Claudio Romero	2015-1-27 00:00:00	
+65394	armaq			UIP	5x1	30	8.937	Publicado	Claudio Romero	2015-1-27 00:00:00	
+67682	SOCIEDAD RES			UIP	5x1	30	17.875	Publicado	Jacqueline Torres	2015-1-27 00:00:00	
+65914	DIARIO EL DIA	Par	Blanco y negro	Generales	5x2	30	0	Publicado	Marcela Tello-ElDia	2015-1-27 00:00:00	
+67600	SOC. INMOBILIARIA DE INVERSIONES RE	Par	Blanco y negro	Generales	5x1	30	7.427	Publicado	Miguel Apey	2015-1-27 00:00:00	
+65870	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	30	0	Publicado	Marcela Tello-ElDia	2015-1-27 00:00:00	
+66015	CLINICA SIMOLAB LTDA.	Par	Blanco y negro	Generales	5x2	30	8.936	Publicado	Nadia Randolph	2015-1-27 00:00:00	
+66160	CROVETTO CASTILLO JORGE			UIP	5x2	30	17.875	Publicado	Miguel Apey	2015-1-27 00:00:00	
+66436	SERENA NOR			UIP	5x1	30	8.937	Publicado	Pedro Jaime	2015-1-27 00:00:00	
+65840	PILLA LA VACA	Par	Blanco y negro	Generales	5x2	30	0	Publicado	Marcela Tello-ElDia	2015-1-27 00:00:00	
+65610	SERVICIOS GENERALES GUAYACAN S.A	Par	Blanco y negro	Generales	3x2	31	6.666	Publicado	Jacqueline Torres	2015-1-27 00:00:00	
+65711	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Generales	5x1	EC-19	5.860	Publicado	Rene Pizarro	2015-1-27 00:00:00	
+65741	SOC. COMERCIAL VARGAS Y GIACOMET	Par	Blanco y negro	Generales	5x1	EC-19	5.860	Publicado	Rene Pizarro	2015-1-27 00:00:00	
+66859	DIARIO EL DIA	Par	Cuatricromia	Generales	8x6	EC-19	0	Publicado	Marcela Tello-ElDia	2015-1-27 00:00:00	

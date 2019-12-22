@@ -1,0 +1,16 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+155376	SOCIEDAD DE RENTAS FALABELLA S.A	Par	Cuatricromia	Generales	35x6	03	400.000	Publicado	M Cristina Puga		2018-5-11 00:00:00	
+155697	JUAN CARLOS ANDRADE T.			UIP	5x2	06	5.500	Publicado	Karina Rivera		2018-5-11 00:00:00	
+155892	ALETHIA SOPHIA MERCADO GOMEZ			UIP	5x2	06	7.500	Publicado	Karina Rivera	SPA MEDICO Y DENTAL (UIP COLOR)	2018-5-11 00:00:00	
+155123	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	9x4	06	16.065	Publicado	Claudio Romero	Muebles alpina..	2018-5-11 00:00:00	
+155870	HANNA JARUFE HAUNE	Par	Blanco y negro	Generales	10x3	08	35.000	Publicado	Claudio Romero	saludo dia de la madre 2018	2018-5-11 00:00:00	
+155869	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x6	09	0	Arte	Marcela Tello-ElDia		2018-5-11 00:00:00	
+155617	MARIA ANGELICA SALINAS FIGUEROA			UIP	5x2	11	5.500	Publicado	Karina Rivera	JOYERIA SEMANA DE LA MADRE	2018-5-11 00:00:00	
+155684	ANA CAROLINA MARTINEZ GONZALEZ			UIP	5x2	11	5.504	Publicado	Karina Rivera	DELI VEN (UIP COLOR)	2018-5-11 00:00:00	
+155932	GAMAL EDUARDO ROJAS PEREZ	Par	Cuatricromia	Generales	6x6	11	20.000	Publicado	Karina Rivera	CLUB SOCIAL 	2018-5-11 00:00:00	
+155808	SOCIEDAD GASTRONOMICA EL RELAJO LTD			UIP	5x4	11	16.500	Publicado	Karina Rivera	EL RELAJO (UIP COLOR)	2018-5-11 00:00:00	
+155690	SOCIEDAD EDUCACIONL GALLARDO Y FIGU			UIP	10x2	11	11.000	Publicado	Karina Rivera	CARLA FIGUEROA (UIP COLOR)	2018-5-11 00:00:00	
+155999	DABED Y DABEB LTDA.	Par	Blanco y negro	Generales	5x2	12	23.540	Publicado	Karina Rivera	Directorio club aereo	2018-5-11 00:00:00	
+156012	ANGELINA CARVAJAL CONTRERAS	Par	Blanco y negro	Generales	15x2	12	29.661	Publicado	Leonel Pizarro-Ovalle	agradecimientos	2018-5-11 00:00:00	
+154987	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	14	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2018-5-11 00:00:00	
+155436	EMPRESAS LA POLAR S.A.	Par	Cuatricromia	Contraportada	35x6	16	252.000	Publicado	Patricia Villena	Contraportada La Polar	2018-5-11 00:00:00	

@@ -1,0 +1,8 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+158296	GOTTREUX SALAS RUBEN	Par	Blanco y negro	Generales	8x2	04	30.132	Publicado	Karina Rivera	REMATE JUDICIAL EN OVALLE	2018-6-21 00:00:00	
+157235	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	06	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2018-6-21 00:00:00	
+158396	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x3	08	0	Publicado	Marcela Tello-ElDia	Cartelera de Cinemark - Diario El Ovallino	2018-6-21 00:00:00	
+158418	PRENSA DEL LIMARI LTDA.	Par	Blanco y negro	Generales	17x6	12	0	Arte	Marcela Tello-ElDia		2018-6-21 00:00:00	
+158419	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	6x6	14	0	Arte	Marcela Tello-ElDia	Cupones Descuentos Cinemark	2018-6-21 00:00:00	
+157464	O SMOOTHEBAR & MARKET	Par	Cuatricromia	Generales	10x2	16	20.000	Publicado	Karina Rivera		2018-6-21 00:00:00	
+158152	MARLENNE PIZARRO ARAYA	Par	Cuatricromia	Generales	5x4	16	10.000	Publicado	Karina Rivera	FLORES DE BACH (ESPACIO OVALLE SALUDABLE)	2018-6-21 00:00:00	

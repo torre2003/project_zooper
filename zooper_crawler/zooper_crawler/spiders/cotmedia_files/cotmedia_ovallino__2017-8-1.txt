@@ -1,0 +1,16 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+134777	SOCIEDAD DE RENTAS FALABELLA S.A	Par	Cuatricromia	Generales	8x6	01	50.980	Publicado	M Cristina Puga		2017-8-1 00:00:00	
+133767	JACQUELINE JOFRE VILLANUEVA			UIP	5x2	05	2.808	Publicado	Karina Rivera	CORTINAS ROLLER OVALLE	2017-8-1 00:00:00	
+135495	ESTUDIO JURIDICO OLIVARES Y CIA. SP	Par	Blanco y negro	Generales	5x2	05	2.000	Publicado	Jacqueline Torres	ESTUDIO JURIDICO OLIVARES	2017-8-1 00:00:00	
+134067	FERNANDO YOANOVICH			UIP	5x2	05	2.247	Publicado	Karina Rivera		2017-8-1 00:00:00	
+134095	FERNANDO YOANOVICH			UIP	5x2	07	2.247	Publicado	Karina Rivera	TAROT SRA SOFIA	2017-8-1 00:00:00	
+134907	SERV. AGRICOLA Y GANADERO	Par	Blanco y negro	Generales	12x3	07	57.626	Publicado	Jacqueline Torres	CONCURSO	2017-8-1 00:00:00	
+135079	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	09	0	Arte	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2017-8-1 00:00:00	
+135597	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x6	11	0	Arte	Marcela Tello-ElDia		2017-8-1 00:00:00	
+135539	EMPRESA PERIODISTICA EL NORTE S.A.	Par	Blanco y negro	Medios Regionales	10x2	13	28.900	Arte	Medios Regionales	BBVA - Rol C-8765-2016 - (130291)	2017-8-1 00:00:00	
+135584	INVERSIONES TANGUEMAR LIMITADA			UIP	5x2	13	2.808	Publicado	Patricia Villena	Tanguemar	2017-8-1 00:00:00	
+135072	MIGUEL GUZMAN YURI	Par	Blanco y negro	Generales	10x2	14	37.664	Publicado	Karina Rivera	REMATE JUDICIAL MEJOR POSTOR(seccion legales)	2017-8-1 00:00:00	
+135207	INVERSIONES Y AGRICOLA BOSMAN Y GIO	172 Palabras		Legal	x	14	42.857	Publicado	Pedro Jaime	EXTRACTO DE AGUAS. INVERSIONES Y AGRICOLA BOSMAN Y GIOIA LIMITADA 	2017-8-1 00:00:00	
+133962	VELIZ CORTES JOSE A.			UIP	5x2	14	2.808	Publicado	Pedro Cortes		2017-8-1 00:00:00	
+135596	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	6x6	14	0	Arte	Marcela Tello-ElDia		2017-8-1 00:00:00	
+135206	NAVARRO Y CIA LTDA	141 Palabras		Legal	x	EC	35.210	Publicado	Pedro Jaime	EXTRACTO DE AGUAS JUAN ANDRES NAVARRO SAEZ 	2017-8-1 00:00:00	

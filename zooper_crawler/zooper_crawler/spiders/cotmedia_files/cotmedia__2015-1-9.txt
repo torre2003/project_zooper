@@ -1,0 +1,48 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+64306	ABRIL PUBLICIDAD INVERSIONES Y ASES	Impar	Cuatricromia	Generales	17x6	05	336.535	Publicado	Patricia Villena	2015-1-9 00:00:00	
+66460	TRANSBANK S.A.	Impar	Cuatricromia	Generales	17x3	06	216.495	Publicado	Kathine Soto-Stgo	2015-1-9 00:00:00	
+65210	UNIVERSIDAD PEDRO DE VALDIVIA	Impar	Cuatricromia	Generales	25x5	09	538.314	Publicado	M Cristina Puga	2015-1-9 00:00:00	
+66241	SINDY GONZALEZ MARCHANT	Par	Blanco y negro	Generales	10x2	11	0	Publicado	Marcela Tello-ElDia	2015-1-9 00:00:00	
+66066	vargas 			UIP	5x1	11	8.937	Publicado	Rene Pizarro	2015-1-9 00:00:00	
+66262	PADRES FRANCISCANOS DEL NORTE	Par	Blanco y negro	Generales	5x2	11	36.620	Publicado	Rene Pizarro	2015-1-9 00:00:00	
+66291	CORP. UNIVERSITARIA IGNACIO DOMEYKO	Par	Blanco y negro	Generales	5x2	11	36.620	Publicado	Pedro Jaime	2015-1-9 00:00:00	
+66151	jorge crovetto castillo			UIP	5x2	11	17.875	Publicado	Miguel Apey	2015-1-9 00:00:00	
+66463	SOC. INMOBILIARIA DE INVERSIONES RE	Par	Blanco y negro	Generales	5x1	11	7.427	Publicado	Miguel Apey	2015-1-9 00:00:00	
+65168	SITRANS LTDA.	Par	Cuatricromia	Generales	10x3	12	0	Publicado	Miguel Apey	2015-1-9 00:00:00	
+66047	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	12	0	Publicado	Marcela Tello-ElDia	2015-1-9 00:00:00	
+65682	PLURAL COMUNCACIONES LTDA.	Impar	Cuatricromia	Generales	35x3	13	645.977	Publicado	Jacqueline Torres	2015-1-9 00:00:00	
+66459	UNIVERSIDAD TECNOLOGICA DE CHILE	Impar	Cuatricromia	Generales	35x6	15	904.368	Publicado	Patricia Villena	2015-1-9 00:00:00	
+65283	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	17	8.306	Publicado	Miguel Apey	2015-1-9 00:00:00	
+66448	SALINAS Y FABRES S.A.	Impar	Cuatricromia	Generales	25x5	19	371.437	Publicado	M Cristina Puga	2015-1-9 00:00:00	
+66415	SEREMI MINVU IV REGION	Par	Cuatricromia	Centrales	35x6	20	0	Publicado	Jacqueline Torres	2015-1-9 00:00:00	
+66414	SEREMI MINVU IV REGION	Par	Cuatricromia	Centrales	35x6	21	0	Publicado	Jacqueline Torres	2015-1-9 00:00:00	
+66358	SERV. VIVIENDA Y URBANIZACION IV RE	Par	Blanco y negro	Generales	17x6	24	261.467	Publicado	Jacqueline Torres	2015-1-9 00:00:00	
+66357	SERV. VIVIENDA Y URBANIZACION IV RE	Impar	Blanco y negro	Generales	35x6	25	627.828	Publicado	Jacqueline Torres	2015-1-9 00:00:00	
+66520	DIARIO EL DIA	Par	Cuatricromia	Generales	17x6	25	0	Publicado	Marcela Tello-ElDia	2015-1-9 00:00:00	
+66258	McCANN-ERICKSON S.A. DE PUBLICIDAD	Impar	Cuatricromia	Generales	17x6	27	552.998	Publicado	Patricia Villena	2015-1-9 00:00:00	
+65813	MINERA LOS PELAMBRES	Impar	Cuatricromia	Generales	34x3	29	627.521	Publicado	Marcela Tello-ElDia	2015-1-9 00:00:00	
+65885	SOC. HOTELERA VICHUQUEN LTDA.	Par	Cuatricromia	Generales	5x3	31	0	Publicado	Marcela Tello-ElDia	2015-1-9 00:00:00	
+65312	HOTEL COSTA REAL	Par	Cuatricromia	Generales	10x2	31	30.761	Publicado	Miguel Apey	2015-1-9 00:00:00	
+65307	BAKULIC RESTAURANT	Par	Cuatricromia	Generales	10x2	31	24.609	Publicado	Miguel Apey	2015-1-9 00:00:00	
+65895	DIARIO EL DIA	Par	Cuatricromia	Generales	10x2	31	0	Publicado	Marcela Tello-ElDia	2015-1-9 00:00:00	
+65820	PILLA LA VACA	Par	Cuatricromia	Generales	5x2	31	0	Publicado	Marcela Tello-ElDia	2015-1-9 00:00:00	
+65850	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Cuatricromia	Generales	5x2	31	0	Publicado	Marcela Tello-ElDia	2015-1-9 00:00:00	
+64761	TURISMO Y GASTRONOMIA EL ESTABLO	Par	Cuatricromia	Generales	10x2	31	61.522	Publicado	Miguel Apey	2015-1-9 00:00:00	
+65880	MARTIN JURE PATRICIA	Par	Cuatricromia	Generales	5x3	31	0	Publicado	Marcela Tello-ElDia	2015-1-9 00:00:00	
+64927	EMPRESA EL MERCURIO S.A.P.	Par	Blanco y negro	Medios Regionales	10x2	35	41.400	Publicado	Medios Regionales	2015-1-9 00:00:00	
+63844	SKY AIRLINE S.A.	Impar	Cuatricromia	Generales	10x4	35	124.371	Publicado	M Cristina Puga	2015-1-9 00:00:00	
+65564	SOC. COMERCIAL ALCAPARRA LTDA.	Par	Blanco y negro	Generales	5x2	37	10.440	Publicado	Patricia Villena	2015-1-9 00:00:00	
+66000	CLINICA SIMOLAB LTDA.	Par	Blanco y negro	Generales	5x2	37	8.936	Publicado	Nadia Randolph	2015-1-9 00:00:00	
+65379	armaq			UIP	5x1	37	8.937	Publicado	Claudio Romero	2015-1-9 00:00:00	
+65189	SOC. DE GESTION MEDITERRANEA			UIP	5x1	37	8.937	Publicado	Miguel Apey	2015-1-9 00:00:00	
+65327	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	4x5	37	20.508	Publicado	Miguel Apey	2015-1-9 00:00:00	
+65524	SERVICIOS GENERALES GUAYACAN S.A	Par	Blanco y negro	Generales	3x2	38	6.666	Publicado	Jacqueline Torres	2015-1-9 00:00:00	
+66324	ENTEL PCS	Par	Cuatricromia	Contraportada	35x6	40	940.000	Publicado	Kathine Soto-Stgo	2015-1-9 00:00:00	
+65808	ROSA MARIA FERNANDEZ COBO	Par	Blanco y negro	Generales	7x2	EC-23	32.812	Publicado	M Cristina Puga	2015-1-9 00:00:00	
+65724	SOC. COMERCIAL VARGAS Y GIACOMET	Par	Blanco y negro	Generales	5x1	EC-23	5.860	Publicado	Rene Pizarro	2015-1-9 00:00:00	
+66482	AGROLEY LTDA	55 Palabras		Legal	x	EC-23	13.640	Publicado	Pedro Jaime	2015-1-9 00:00:00	
+66410	DIARIO EL DIA	Par	Blanco y negro	Generales	6x2	EC-23	0	Publicado	Marcela Tello-ElDia	2015-1-9 00:00:00	
+65693	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Generales	5x1	EC-23	5.860	Publicado	Rene Pizarro	2015-1-9 00:00:00	
+66331	TURISMO BAHIA MAGICA LTDA.	Par	Blanco y negro	Generales	7x2	EC-23	51.268	Publicado	Pedro Jaime	2015-1-9 00:00:00	
+66408	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	MR: Inserto	x	INS	266.245	Publicado	Medios Regionales	2015-1-9 00:00:00	
+66044	SOCIEDAD ERLER M. HERMANOS Y COMPA?			Revista Cosas	x	RC	100.000	Publicado	Claudio Romero	2015-1-9 00:00:00	

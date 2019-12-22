@@ -1,0 +1,40 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+123063	DIARIO EL DIA	Par	Cuatricromia	Generales	17x6	05	0	Publicado	Marcela Tello-ElDia	2017-2-15 00:00:00	
+122058	OVALLE CASINO RESORT S.A	Par	Cuatricromia	Generales	25x4	09	0	Publicado	Paola Marquez	2017-2-15 00:00:00	
+122458	ARZOBISPADO DE LA SERENA	Par	Blanco y negro	Generales	5x2	11	0	Publicado	Marcela Tello-ElDia	2017-2-15 00:00:00	
+122252	DIARIO EL DIA	Par	Blanco y negro	Generales	5x2	11	0	Publicado	Marcela Tello-ElDia	2017-2-15 00:00:00	
+121963	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	5x2	11	0	Publicado	Miguel Apey	2017-2-15 00:00:00	
+123015	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	10x4	12	86.960	Arte	Medios Regionales	2017-2-15 00:00:00	
+123051	ILUSTRE MUNICIPALIDAD DE LA HIGUERA	Par	Blanco y negro	Generales	17x3	13	126.998	Publicado	Jacqueline Torres	2017-2-15 00:00:00	
+122790	ILUSTRE MUNICIPALIDAD DE OVALLE	Par	Blanco y negro	Generales	30x4	14	298.820	Publicado	Claudio Romero	2017-2-15 00:00:00	
+123054	CONSTRUCTORA VITAL LTDA.	Par	Blanco y negro	Generales	14x2	16	87.156	Publicado	Marcela Tello-ElDia	2017-2-15 00:00:00	
+123040	AGROPLASTIC LTDA.	Par	Cuatricromia	Generales	17x1	16	42.857	Publicado	Claudio Romero	2017-2-15 00:00:00	
+121813	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	17	8.306	Publicado	Miguel Apey	2017-2-15 00:00:00	
+122313	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	17	0	Publicado	Marcela Tello-ElDia	2017-2-15 00:00:00	
+123012	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	10x4	18	86.960	Arte	Medios Regionales	2017-2-15 00:00:00	
+123024	MOP OOPP	Par	Blanco y negro	Generales	35x6	21-25	757.810	Publicado	Jacqueline Torres	2017-2-15 00:00:00	
+123018	MOP OOPP	Par	Blanco y negro	Generales	35x6	21-25	244.455	Publicado	Jacqueline Torres	2017-2-15 00:00:00	
+123021	MOP OOPP	Par	Blanco y negro	Generales	35x6	21-25	660.029	Publicado	Jacqueline Torres	2017-2-15 00:00:00	
+123022	MOP OOPP	Par	Blanco y negro	Generales	35x6	21-25	660.029	Publicado	Jacqueline Torres	2017-2-15 00:00:00	
+123023	MOP OOPP	Par	Blanco y negro	Generales	35x6	21-25	757.810	Publicado	Jacqueline Torres	2017-2-15 00:00:00	
+122998	SERV. DE REGISTRO CIVIL E IDENTIFIC	Par	Blanco y negro	Generales	34x6	26-27	532.650	Publicado	Jacqueline Torres	2017-2-15 00:00:00	
+122962	DIARIO EL DIA	Par	Blanco y negro	Generales	35x6	32	0	Publicado	Carolina Naranjo	2017-2-15 00:00:00	
+122963	DIARIO EL DIA	Impar	Blanco y negro	Generales	35x6	33	0	Publicado	Carolina Naranjo	2017-2-15 00:00:00	
+122774	DABED Y CIA. LTDA., SELIM	Par	Cuatricromia	Generales	6x6	35	27.700	Publicado	Karina Rivera	2017-2-15 00:00:00	
+122945	SERCOMP RUIZ			UIP	5x2	36	8.936	Publicado	Marcela Tello-ElDia	2017-2-15 00:00:00	
+122610	SOC. COM. CENTRO NORTE LTDA.			UIP	5x1	36	7.596	Publicado	Pedro Cortes	2017-2-15 00:00:00	
+122151	CENTRO TECNICO ACUARELA LTDA.	Par	Blanco y negro	Generales	5x2	36	20.874	Publicado	Rene Pizarro	2017-2-15 00:00:00	
+122934	AREVALO CARMEN			UIP	5x1	37	8.937	Publicado	Pedro Jaime	2017-2-15 00:00:00	
+120940	CERNA E HIJOS CIA. LTDA.	Par	Blanco y negro	Generales	5x1	37	4.470	Publicado	Nadia Randolph	2017-2-15 00:00:00	
+122379	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	37	0	Publicado	Marcela Tello-ElDia	2017-2-15 00:00:00	
+121151	ARMAQ			UIP	5x1	37	8.937	Publicado	Claudio Romero	2017-2-15 00:00:00	
+121772	SOC. DE GES			UIP	5x1	37	8.937	Publicado	Miguel Apey	2017-2-15 00:00:00	
+121854	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	4x5	37	20.508	Publicado	Miguel Apey	2017-2-15 00:00:00	
+122860	VELIZ CORTES JOSE A.	Par	Blanco y negro	Generales	3x2	38	13.403	Publicado	Pedro Cortes	2017-2-15 00:00:00	
+122193	SERVICIOS GENERALES GUAYACAN S.A	Par	Blanco y negro	Generales	4x2	38	6.666	Publicado	Jacqueline Torres	2017-2-15 00:00:00	
+122286	ADMINISTR. CMR FALABELLA LTDA.	Impar	Cuatricromia	Contraportada	35x6	40	550.000	Publicado	M Cristina Puga	2017-2-15 00:00:00	
+122135	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Generales	5x1	EC-20	6.043	Publicado	Rene Pizarro	2017-2-15 00:00:00	
+123062	DIARIO EL DIA	Par	Cuatricromia	Generales	17x6	EC-20	0	Publicado	Marcela Tello-ElDia	2017-2-15 00:00:00	
+109050	HOTELERIA LUIS ALBERTO BERETTA KIEK	Par	Blanco y negro	Generales	5x2	EC-20	6.994	Publicado	Patricia Villena	2017-2-15 00:00:00	
+123025	BAKULIC RESTAURANT	121 Palabras		Propiedades	x	PROP	19.303	Publicado	Miguel Apey	2017-2-15 00:00:00	
+123053	HOTEL COSTA REAL	60 Palabras		Propiedades	x	PROP	9.613	Publicado	Marcela Tello-ElDia	2017-2-15 00:00:00	

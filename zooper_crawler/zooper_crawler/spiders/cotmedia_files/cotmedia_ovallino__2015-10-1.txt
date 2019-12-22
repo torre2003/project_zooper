@@ -1,0 +1,8 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+83568	SOCIEDAD COMERCIAL KATANKURA LTDA	Par	Cuatricromia	Generales	6x6	03	25.000	Publicado	Italo Retamal	evento katankura 	2015-10-1 00:00:00	
+81399	tanguemar			UIP	5x2	05	2.808	Publicado	Patricia Villena	Tanguemar	2015-10-1 00:00:00	
+85113	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x3	08	0	Publicado	Marcela Tello-ElDia	La Fiesta del Cine	2015-10-1 00:00:00	
+85560	UNIVERSIDAD TECNOLOGICA DE CHILE	Par	Blanco y negro	Generales	17x3	09	0	Arte	Patricia Villena		2015-10-1 00:00:00	
+85590	ILUSTRE MUNICIPALIDAD DE OVALLE	Impar	Cuatricromia	Generales	12x3	09	83.333	Publicado	Italo Retamal	plano regulador ovalle	2015-10-1 00:00:00	
+85139	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	12x6	11	0	Publicado	Marcela Tello-ElDia	Avant Premiere - Club de Lectores	2015-10-1 00:00:00	
+85740	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x6	14	0	Publicado	Marcela Tello-ElDia	www.elovallino.cl	2015-10-1 00:00:00	

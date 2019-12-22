@@ -1,0 +1,44 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+146550	CALLEGARI LTDA.	Home	Banner Cabecera	Web	x		250.000	Arte		2017-12-26 00:00:00	
+146549	CALLEGARI LTDA.	Impar	Blanco y negro	Pag.3	10x6		250.000	Arte		2017-12-26 00:00:00	
+146551	CALLEGARI LTDA.	Home	Banner Cabecera	Web	x		250.000	Arte		2017-12-26 00:00:00	
+145783	OMD CHILE S.P.A.	Impar	Cuatricromia	Generales	35x6	03	824.511	Publicado	Patricia Villena	2017-12-26 00:00:00	
+146409	PAOLA MILLA INVERNIZZI	Par	Blanco y negro	Generales	5x1	04	0	Arte	Pedro Jaime	2017-12-26 00:00:00	
+144919	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	5x2	04	0	Publicado	Miguel Apey	2017-12-26 00:00:00	
+146512	WILSON CASTRO	Par	Blanco y negro	Generales	6x1	04	32.958	Publicado	Pedro Jaime	2017-12-26 00:00:00	
+141375	UNIVERSIDAD CATOLICA DEL NORTE	Impar	Cuatricromia	Generales	34x6	05	900.000	Publicado	Miguel Apey	2017-12-26 00:00:00	
+145384	INSTITUTO PROFESIONAL AIEP S.A.	Impar	Cuatricromia	Generales	35x6	07	640.000	Publicado	Patricia Villena	2017-12-26 00:00:00	
+146444	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Cuatricromia	Medios Regionales	32x6	09	518.048	Publicado	Medios Regionales	2017-12-26 00:00:00	
+146361	ILUSTRE MUNICIPALIDAD DE COQUIMBO	Par	Blanco y negro	Generales	20x3	11	153.804	Publicado	Miguel Apey	2017-12-26 00:00:00	
+146544	DIARIO EL DIA	Par	Cuatricromia	Generales	34x6	13	0	Publicado	Marcela Tello-ElDia	2017-12-26 00:00:00	
+144665	UNIVERSIDAD PEDRO DE VALDIVIA	Impar	Cuatricromia	Generales	17x6	15	407.889	Publicado	M Cristina Puga	2017-12-26 00:00:00	
+144703	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	15	8.306	Publicado	Miguel Apey	2017-12-26 00:00:00	
+141843	CHRISTIAN LAUNITZ MARIN SERVICIOS M	Par	Blanco y negro	Generales	5x2	24	5.000	Publicado	Heinger Vega Torres	2017-12-26 00:00:00	
+146498	DIARIO EL DIA	Par	Cuatricromia	Generales	17x6	25	0	Publicado	Marcela Tello-ElDia	2017-12-26 00:00:00	
+144778	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	6x6	26	51.666	Publicado	Claudio Romero	2017-12-26 00:00:00	
+145337	C.P.E.I.P - MINEDUC	Impar	Cuatricromia	Generales	17x3	27	288.660	Publicado	Jacqueline Torres	2017-12-26 00:00:00	
+145943	DABED Y CIA. LTDA., SELIM	Par	Cuatricromia	Generales	6x6	31	27.690	Publicado	Karina Rivera	2017-12-26 00:00:00	
+146032	INMOBILIARIA PAN DE AZUCAR LTDA			UIP	5x1	32	8.937	Publicado	Pedro Jaime	2017-12-26 00:00:00	
+142058	CERNA E HIJOS CIA. LTDA.	Par	Blanco y negro	Generales	5x1	32	3.574	Publicado	Nadia Randolph	2017-12-26 00:00:00	
+144816	ARMAQ SUBIRI S.A.			UIP	5x1	32	8.937	Publicado	Claudio Romero	2017-12-26 00:00:00	
+142301	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	32	0	Publicado	Marcela Tello-ElDia	2017-12-26 00:00:00	
+145819	SOC. DE GES			UIP	5x1	32	8.937	Publicado	Miguel Apey	2017-12-26 00:00:00	
+144742	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	4x5	32	20.508	Publicado	Miguel Apey	2017-12-26 00:00:00	
+146154	INGENIERIA Y SERVICIOS BARO JJ			UIP	5x2	33	17.875	Publicado	Patricia Villena	2017-12-26 00:00:00	
+145140	C.M. SOC. GASTRONOMICA LTDA.			UIP	5x2	33	7.208	Publicado		2017-12-26 00:00:00	
+145807	CROVETTO			UIP	5x2	33	17.875	Publicado	Miguel Apey	2017-12-26 00:00:00	
+146398	BAKULIC RESTAURANT	Par	Cuatricromia	Generales	10x2	35	71.776	Publicado	Miguel Apey	2017-12-26 00:00:00	
+146547	DIARIO EL DIA	Par	Cuatricromia	Generales	34x6	36	0	Publicado	Carolina Naranjo	2017-12-26 00:00:00	
+145968	VELIZ CORTES JOSE A.	Par	Blanco y negro	Generales	3x2	37	13.403	Publicado	Pedro Cortes	2017-12-26 00:00:00	
+142932	SERVICIOS GENERALES GUAYACAN S.A	Par	Blanco y negro	Generales	4x2	37	6.686	Publicado	Jacqueline Torres	2017-12-26 00:00:00	
+146401	CLARO CHILE S.A.	Impar	Cuatricromia	Generales	35x6	40	646.000	Publicado	Kathine Soto-Stgo	2017-12-26 00:00:00	
+146441	AREYUNA AREYUNA NIBALDO	Par	Cuatricromia	Generales	7x3	EC-28	0	Arte	Pedro Jaime	2017-12-26 00:00:00	
+124053	HOTELERIA LUIS ALBERTO BERETTA KIEK	Par	Blanco y negro	Generales	5x2	EC-28	6.061	Publicado	Patricia Villena	2017-12-26 00:00:00	
+146545	DIARIO EL DIA	Par	Cuatricromia	Generales	10x3	EC-28	0	Publicado	Marcela Tello-ElDia	2017-12-26 00:00:00	
+146477	MARIO HERNANDEZ ALVAREZ	Par	Blanco y negro	Generales	13x3	EC-29	111.399	Publicado	Pedro Jaime	2017-12-26 00:00:00	
+145051	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Economico	5x2	EC-29	15.161	Publicado	Rene Pizarro	2017-12-26 00:00:00	
+146546	DIARIO EL DIA	Par	Cuatricromia	Generales	17x6	EC-29	0	Publicado	Marcela Tello-ElDia	2017-12-26 00:00:00	
+146386	DEL RIO VARELA JORGE	Par	Blanco y negro	Generales	12x3	EC-29	92.283	Publicado	Pedro Jaime	2017-12-26 00:00:00	
+146023	UNIVERSIDAD DE LA SERENA	Par	Cuatricromia	Ed.Especial	17x6	EE-21	355.595	Publicado	Jacqueline Torres	2017-12-26 00:00:00	
+146280	UNIVERSIDAD TECNOLOGICA DE CHILE	Impar	Cuatricromia	Generales	35x6	EE-22	968.966	Publicado	Patricia Villena	2017-12-26 00:00:00	
+144598	UNIVERSIDAD CENTRAL DE CHILE	Par	Cuatricromia	Contraportada	35x6	EE-23	1.291.954	Publicado	Jacqueline Torres	2017-12-26 00:00:00	

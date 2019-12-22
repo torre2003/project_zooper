@@ -1,0 +1,12 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+146228	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x3	03	0	Publicado	Marcela Tello-ElDia	El mejor Panorama Cinemark	2017-12-24 00:00:00	
+146494	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x3	03	0	Publicado	Marcela Tello-ElDia	Deseos de Navidad - MKT	2017-12-24 00:00:00	
+146370	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	6x2	05	17.340	Publicado	Medios Regionales	Melon Hormigones S.A. - (217295)	2017-12-24 00:00:00	
+145687	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	06	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2017-12-24 00:00:00	
+146524	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x6	07	0	Publicado	Marcela Tello-ElDia	En la comodidad de su hogar...	2017-12-24 00:00:00	
+145941	DABED Y CIA. LTDA., SELIM	Par	Cuatricromia	Generales	6x6	08	23.082	Publicado	Karina Rivera	GRAF. NAVIDAD EL OVALLINO	2017-12-24 00:00:00	
+144762	OVALLE CASINO RESORT S.A	Par	Cuatricromia	Generales	25x4	09	171.372	Publicado	Paola Marquez	OCR Eventos diciembre	2017-12-24 00:00:00	
+131295	SOCIEDAD MEDICA Y CONSULTORA ESTETI		Cuatricromia	Guia	5x2	09	13.333	Publicado	Maria_Amelia Hermosilla	Diego Polanco	2017-12-24 00:00:00	
+146523	CAMAL MUSALEM TAPIA Y CIA.	Impar	Cuatricromia	Generales	34x4	11	233.036	Publicado	Marcela Tello-ElDia	Yaris - Impar Camal Musalem	2017-12-24 00:00:00	
+145995	VELIZ CORTES JOSE A.			UIP	5x2	14	4.695	Publicado	Pedro Cortes		2017-12-24 00:00:00	
+146431	MINERA ALTOS DE PUNITAQUI  LTDA.	Par	Blanco y negro	Generales	10x3	14	45.904	Publicado	Karina Rivera	AVISO MINERA ALTOS DE PUNITAQUI	2017-12-24 00:00:00	

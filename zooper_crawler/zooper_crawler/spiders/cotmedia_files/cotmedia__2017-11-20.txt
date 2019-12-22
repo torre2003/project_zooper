@@ -1,0 +1,37 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+144442	SOC. COMERCIAL INV. GENERALES LTDA.	Par	Blanco y negro	Generales	5x2		25.210	Arte	Pedro Jaime	2017-11-20 00:00:00	
+144441	ARANDA CA?AS ALFONSO	Par	Blanco y negro	Generales	5x2		32.773	Arte	Pedro Jaime	2017-11-20 00:00:00	
+144133	INMOBIL. LA SERENA GOLF S.A.	Par	Cuatricromia	Generales	17x6	09	0	Arte	Patricia Villena	2017-11-20 00:00:00	
+144204	INMOBIL. SANTA CATALINA E.I.R.L.	Par	Cuatricromia	Generales	17x6	11	0	Arte	Rene Pizarro	2017-11-20 00:00:00	
+142354	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	11	8.306	Arte	Miguel Apey	2017-11-20 00:00:00	
+143569	ARZOBISPADO DE LA SERENA	Par	Blanco y negro	Generales	5x2	14	0	Arte	Marcela Tello-ElDia	2017-11-20 00:00:00	
+141552	CHRISTIAN LAUNITZ MARIN SERVICIOS M	Par	Blanco y negro	Generales	5x2	14	5.000	Arte	Heinger Vega Torres	2017-11-20 00:00:00	
+142555	C.M. SOC. GASTRONOMICA LTDA.			UIP	5x2	14	7.208	Arte		2017-11-20 00:00:00	
+143723	OMD CHILE S.P.A.	Impar	Cuatricromia	Generales	35x6	15	824.511	Arte	Patricia Villena	2017-11-20 00:00:00	
+144044	CONSTRUCTORA SAMCO LTDA	Par	Cuatricromia	Generales	9x6	16	0	Arte	Miguel Apey	2017-11-20 00:00:00	
+144232	UNIVERSIDAD CATOLICA DEL NORTE	Par	Blanco y negro	Generales	17x6	17	0	Arte	Miguel Apey	2017-11-20 00:00:00	
+144107	MANUEL A. SANTANDER E. SERVICIOS ED	Par	Cuatricromia	Generales	17x3	18	0	Arte	Miguel Apey	2017-11-20 00:00:00	
+144182	CENTRO DE PADRES Y APODERADOS LICE 	Par	Blanco y negro	Generales	13x3	18	0	Arte	Pedro Jaime	2017-11-20 00:00:00	
+144109	AGENCIA PUBLICITARIA OREL ALI E.I.R	Par	Cuatricromia	Generales	17x6	20	0	Arte	Marcela Tello-ElDia	2017-11-20 00:00:00	
+143561	HERMANAS CALLEGARI LTDA.	Par	Cuatricromia	Generales	17x6	24	285.498	Arte	Marcela Tello-ElDia	2017-11-20 00:00:00	
+142371	LABORATORIO CLINICO STA. MARIA LA S	Par	Blanco y negro	Generales	6x2	24	7.470	Arte	Miguel Apey	2017-11-20 00:00:00	
+142985	CENTRO DE EDUC.CAP.Y FORMACION LABO	Par	Blanco y negro	Generales	5x2	24	4.666	Arte	Jacqueline Torres	2017-11-20 00:00:00	
+143093	HABITA INMOBILIARIA SA	Par	Cuatricromia	Generales	34x3	25	0	Arte	Miguel Apey	2017-11-20 00:00:00	
+144210	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	10x3	25	65.220	Arte	Medios Regionales	2017-11-20 00:00:00	
+142766	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	5x2	26	0	Arte	Miguel Apey	2017-11-20 00:00:00	
+143562	HERMANAS CALLEGARI LTDA.	Par	Cuatricromia	Generales	17x6	26	285.498	Arte	Marcela Tello-ElDia	2017-11-20 00:00:00	
+144229	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	16x3	28	104.352	Arte	Medios Regionales	2017-11-20 00:00:00	
+144083	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	28	0	Arte	Marcela Tello-ElDia	2017-11-20 00:00:00	
+142800	SERVICIOS GENERALES GUAYACAN S.A	Par	Blanco y negro	Generales	4x2	29	6.686	Arte	Jacqueline Torres	2017-11-20 00:00:00	
+143933	VELIZ CORTES JOSE A.	Par	Blanco y negro	Generales	3x2	29	14.719	Arte	Pedro Cortes	2017-11-20 00:00:00	
+142533	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Cuatricromia	Medios Regionales	32x6	32	518.048	Arte	Medios Regionales	2017-11-20 00:00:00	
+124012	HOTELERIA LUIS ALBERTO BERETTA KIEK	Par	Blanco y negro	Generales	5x2	EC	6.061	Arte	Patricia Villena	2017-11-20 00:00:00	
+141678	SOC. DE GES			UIP	5x1	EC	8.937	Arte	Miguel Apey	2017-11-20 00:00:00	
+142023	CERNA E HIJOS CIA. LTDA.	Par	Blanco y negro	Generales	5x1	EC	3.574	Arte	Nadia Randolph	2017-11-20 00:00:00	
+143357	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	EC	0	Arte	Marcela Tello-ElDia	2017-11-20 00:00:00	
+142628	ARMAQ SUBIRI S.A.			UIP	5x1	EC	8.937	Arte	Claudio Romero	2017-11-20 00:00:00	
+142270	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	EC	0	Arte	Marcela Tello-ElDia	2017-11-20 00:00:00	
+143803	DIARIO EL DIA	Par	Cuatricromia	Generales	6x6	EC	0	Arte	Marcela Tello-ElDia	2017-11-20 00:00:00	
+142393	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	4x5	EC	20.508	Arte	Miguel Apey	2017-11-20 00:00:00	
+142485	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Economico	5x2	EC	17.689	Arte	Rene Pizarro	2017-11-20 00:00:00	
+143807	DIARIO EL DIA	Par	Cuatricromia	Generales	6x3	XX	0	Arte	Marcela Tello-ElDia	2017-11-20 00:00:00	

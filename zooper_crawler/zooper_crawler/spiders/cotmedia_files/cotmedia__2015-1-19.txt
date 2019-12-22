@@ -1,0 +1,42 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+65555	ABRIL PUBLICIDAD INVERSIONES Y ASES	Impar	Cuatricromia	Generales	35x6	05	824.510	Publicado	Patricia Villena	2015-1-19 00:00:00	
+67089	VICTOR ALEXSI ALVAREZ TALANDIANOS	Par	Cuatricromia	Generales	5x6	06	75.075	Publicado	Miguel Apey	2015-1-19 00:00:00	
+59964	FORD MOTOR COMPANY CHILE LTDA.	Impar	Cuatricromia	Generales	17x6	07	376.513	Publicado	Kathine Soto-Stgo	2015-1-19 00:00:00	
+65543	INVERSIONES E INMOBILIARIA P.A.T.  	Par	Cuatricromia	Generales	10x6	08	0	Publicado	Miguel Apey	2015-1-19 00:00:00	
+66980	INMOBILIARIA DOMINGA NORTE LTDA	Par	Blanco y negro	Generales	5x2	09	22.631	Publicado	Pedro Jaime	2015-1-19 00:00:00	
+65538	HABITA INMOBILIARIA SA	Par	Cuatricromia	Generales	35x3	09	0	Publicado	Miguel Apey	2015-1-19 00:00:00	
+66972	SOC.EDUCACIONAL SAN MANUEL LTDA	Impar	Cuatricromia	Generales	10x3	10	147.652	Publicado	Pedro Jaime	2015-1-19 00:00:00	
+67121	ILUSTRE MUNICIPALIDAD DE CANELA	Par	Blanco y negro	Generales	15x2	10	76.902	Publicado	Jacqueline Torres	2015-1-19 00:00:00	
+67066	DERCOMAQ S.A.	Impar	Blanco y negro	Generales	17x3	11	188.257	Publicado	Kathine Soto-Stgo	2015-1-19 00:00:00	
+67193	SALINAS Y FABRES S.A.	Impar	Cuatricromia	Generales	17x3	11	144.330	Publicado	M Cristina Puga	2015-1-19 00:00:00	
+66761	CONSTRUCTORA SAMCO LTDA	Par	Cuatricromia	Generales	9x6	12	0	Publicado	Miguel Apey	2015-1-19 00:00:00	
+65263	LABORATORIO CLINICO STA. MARIA LA S	Par	Blanco y negro	Generales	6x2	13	7.470	Publicado	Miguel Apey	2015-1-19 00:00:00	
+66934	DIARIO EL DIA	Par	Blanco y negro	Generales	5x1	13	0	Publicado	Marcela Tello-ElDia	2015-1-19 00:00:00	
+66949	DIARIO EL DIA	Par	Blanco y negro	Generales	5x1	13	0	Publicado	Marcela Tello-ElDia	2015-1-19 00:00:00	
+66153	CROVETTO CASTILLO JORGE			UIP	5x2	13	17.875	Publicado	Miguel Apey	2015-1-19 00:00:00	
+65293	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	13	8.306	Publicado	Miguel Apey	2015-1-19 00:00:00	
+67159	DIARIO EL DIA	Par	Cuatricromia	Generales	17x6	17	0	Publicado	Marcela Tello-ElDia	2015-1-19 00:00:00	
+66351	UNIVERSIDAD DE ACONCAGUA	Par	Blanco y negro	Generales	9x6	20	197.748	Publicado	Rene Pizarro	2015-1-19 00:00:00	
+66292	ILUSTRE MUNICIPALIDAD DE LA SERENA	Par	Cuatricromia	Generales	17x6	21	412.771	Publicado	M Cristina Puga	2015-1-19 00:00:00	
+66172	MUTUAL DE SEGURIDAD C.CH.C.	Par	Blanco y negro	Generales	35x6	22	480.445	Publicado	Carolina Naranjo	2015-1-19 00:00:00	
+66727	CALLEGARI LTDA.	Par	Cuatricromia	Generales	6x6	24	100.764	Publicado	Marcela Tello-ElDia	2015-1-19 00:00:00	
+64931	EMPRESA EL MERCURIO S.A.P.	Par	Blanco y negro	Medios Regionales	10x2	25	41.400	Publicado	Medios Regionales	2015-1-19 00:00:00	
+63851	SKY AIRLINE S.A.	Impar	Cuatricromia	Generales	10x4	25	124.371	Publicado	M Cristina Puga	2015-1-19 00:00:00	
+63685	SALINAS Y FABRES S.A.	Impar	Cuatricromia	Generales	10x6	27	239.935	Publicado	Kathine Soto-Stgo	2015-1-19 00:00:00	
+65336	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	4x5	28	20.508	Publicado	Miguel Apey	2015-1-19 00:00:00	
+66490	SOC. BERMUDEZ INGENIERIA Y CONSTRUC	Par	Blanco y negro	Generales	5x1	29	0	Publicado	Miguel Apey	2015-1-19 00:00:00	
+66473	SOC. INMOBILIARIA DE INVERSIONES RE	Par	Blanco y negro	Generales	5x1	29	7.427	Publicado	Miguel Apey	2015-1-19 00:00:00	
+65387	armaq			UIP	5x1	29	8.937	Publicado	Claudio Romero	2015-1-19 00:00:00	
+65574	SOC. COMERCIAL ALCAPARRA LTDA.	Par	Blanco y negro	Generales	5x2	29	10.440	Publicado	Patricia Villena	2015-1-19 00:00:00	
+65197	SOC. DE GESTION MEDITERRANEA			UIP	5x1	29	8.937	Publicado	Miguel Apey	2015-1-19 00:00:00	
+65835	PILLA LA VACA	Par	Blanco y negro	Generales	5x2	29	0	Publicado	Marcela Tello-ElDia	2015-1-19 00:00:00	
+65865	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	29	0	Publicado	Marcela Tello-ElDia	2015-1-19 00:00:00	
+65909	DIARIO EL DIA	Par	Blanco y negro	Generales	5x2	29	0	Publicado	Marcela Tello-ElDia	2015-1-19 00:00:00	
+66008	CLINICA SIMOLAB LTDA.	Par	Blanco y negro	Generales	5x2	29	8.936	Publicado	Nadia Randolph	2015-1-19 00:00:00	
+67059	sercomp ruiz			UIP	5x2	29	17.875	Publicado	Marcela Tello-ElDia	2015-1-19 00:00:00	
+66429	SERENA NOR			UIP	5x1	29	8.937	Publicado	Pedro Jaime	2015-1-19 00:00:00	
+65602	SERVICIOS GENERALES GUAYACAN S.A	Par	Blanco y negro	Generales	3x2	30	6.666	Publicado	Jacqueline Torres	2015-1-19 00:00:00	
+66447	INMOBIL. E INVERSIONES AREYUNA E HI	Par	Cuatricromia	Contraportada	35x6	32	0	Publicado	Claudio Romero	2015-1-19 00:00:00	
+65733	SOC. COMERCIAL VARGAS Y GIACOMET	Par	Blanco y negro	Generales	5x1	EC-18	5.860	Publicado	Rene Pizarro	2015-1-19 00:00:00	
+65703	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Generales	5x1	EC-18	5.860	Publicado	Rene Pizarro	2015-1-19 00:00:00	
+66845	DIARIO EL DIA	Par	Cuatricromia	Generales	8x6	EC-18	0	Publicado	Marcela Tello-ElDia	2015-1-19 00:00:00	

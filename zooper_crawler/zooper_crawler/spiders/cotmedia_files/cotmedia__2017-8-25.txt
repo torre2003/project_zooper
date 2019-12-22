@@ -1,0 +1,74 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+135364	CHRISTIAN LAUNITZ MARIN SERVICIOS M	Par	Blanco y negro	Generales	8x2	04	5.000	Publicado	Heinger Vega Torres	2017-8-25 00:00:00	
+137032	CLARO CHILE S.A.	Impar	Cuatricromia	Generales	35x6	05	646.000	Publicado	Kathine Soto-Stgo	2017-8-25 00:00:00	
+135249	INMOBILIARIA CONPACES S.A.	Par	Cuatricromia	Generales	34x6	07	0	Arte	Paola Marquez	2017-8-25 00:00:00	
+136277	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Cuatricromia	Medios Regionales	10x6	09	231.080	Publicado	Medios Regionales	2017-8-25 00:00:00	
+135936	CONSTRUCTORA SAMCO LTDA	Par	Cuatricromia	Generales	9x6	10	0	Arte	Miguel Apey	2017-8-25 00:00:00	
+136974	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Cuatricromia	Medios Regionales	16x6	11	309.344	Arte	Medios Regionales	2017-8-25 00:00:00	
+135183	DIARIO EL DIA	Par	Blanco y negro	Generales	5x2	13	0	Publicado	Marcela Tello-ElDia	2017-8-25 00:00:00	
+135406	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	5x2	13	0	Publicado	Miguel Apey	2017-8-25 00:00:00	
+136519	ESTUDIO JURIDICO OLIVARES Y CIA. SP	Par	Blanco y negro	Generales	5x2	13	2.666	Publicado	Jacqueline Torres	2017-8-25 00:00:00	
+135275	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	14	8.306	Publicado	Miguel Apey	2017-8-25 00:00:00	
+136978	CUERPO DE BOMBEROS LA SERENA	Par	Blanco y negro	Generales	10x2	14	54.930	Publicado	Jacqueline Torres	2017-8-25 00:00:00	
+136911	ARZOBISPADO DE LA SERENA	Par	Blanco y negro	Generales	5x2	14	0	Arte	Marcela Tello-ElDia	2017-8-25 00:00:00	
+137009	MOP OOPP	Par	Blanco y negro	Generales	16x2	14	117.184	Publicado	Marcela Tello-ElDia	2017-8-25 00:00:00	
+136805	redga			UIP	5x6	15	53.625	Publicado	Miguel Apey	2017-8-25 00:00:00	
+137069	DIARIO EL DIA	Par	Cuatricromia	Generales	8x6	16	0	Arte	Marcela Tello-ElDia	2017-8-25 00:00:00	
+136920	DIARIO EL DIA	Par	Cuatricromia	Generales	35x6	17	0	Arte	Patricia Villena	2017-8-25 00:00:00	
+135039	SOC. HOTELERA VICHUQUEN LTDA.	Par	Cuatricromia	Generales	5x3	22	0	Publicado	Marcela Tello-ElDia	2017-8-25 00:00:00	
+135064	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	22	0	Publicado	Marcela Tello-ElDia	2017-8-25 00:00:00	
+135109	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	22	0	Publicado	Marcela Tello-ElDia	2017-8-25 00:00:00	
+135141	PILLA LA VACA	Par	Cuatricromia	Generales	5x2	22	0	Publicado	Marcela Tello-ElDia	2017-8-25 00:00:00	
+135158	MARTIN JURE PATRICIA	Par	Cuatricromia	Generales	5x3	22	0	Publicado	Marcela Tello-ElDia	2017-8-25 00:00:00	
+136642	CAMPOS DEL NORTE S.A.	Par	Cuatricromia	Generales	17x3	23	0	Publicado	Patricia Villena	2017-8-25 00:00:00	
+136990	DIARIO EL DIA	Par	Blanco y negro	Generales	35x6	24	0	Arte	Carolina Naranjo	2017-8-25 00:00:00	
+136702	ILUSTRE MUNICIPALIDAD DE LA SERENA	Par	Cuatricromia	Generales	17x6	27	355.595	Publicado	M Cristina Puga	2017-8-25 00:00:00	
+136622	DIARIO EL DIA	Par	Cuatricromia	Generales	6x6	28	0	Publicado	Marcela Tello-ElDia	2017-8-25 00:00:00	
+133539	SOCIEDAD MEDICA  Y CONSULTORA ESTET			UIP	5x1	29	8.937	Publicado	Maria_Amelia Hermosilla	2017-8-25 00:00:00	
+134556	CERNA E HIJOS CIA. LTDA.	Par	Blanco y negro	Generales	5x1	29	3.574	Publicado	Nadia Randolph	2017-8-25 00:00:00	
+135330	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	4x5	29	20.508	Publicado	Miguel Apey	2017-8-25 00:00:00	
+135245	SOC. DE GES			UIP	5x1	29	8.937	Publicado	Miguel Apey	2017-8-25 00:00:00	
+135525	ARMAQ SUBIRI S.A.			UIP	5x1	29	8.937	Publicado	Claudio Romero	2017-8-25 00:00:00	
+137033	MARCO POMAROLLI	Par	Blanco y negro	Generales	12x2	30	52.733	Publicado	Marcela Tello-ElDia	2017-8-25 00:00:00	
+136554	VELIZ CORTES JOSE A.	Par	Blanco y negro	Generales	3x2	30	13.403	Publicado	Pedro Cortes	2017-8-25 00:00:00	
+135481	SERVICIOS GENERALES GUAYACAN S.A	Par	Blanco y negro	Generales	4x2	30	6.686	Publicado	Jacqueline Torres	2017-8-25 00:00:00	
+136996	EMPRESAS LA POLAR S.A.	Par	Cuatricromia	Generales	35x6	32	504.000	Publicado	Patricia Villena	2017-8-25 00:00:00	
+137071	DIARIO EL DIA	Par	Blanco y negro	Generales	17x6	EC-19	0	Arte	Marcela Tello-ElDia	2017-8-25 00:00:00	
+123913	HOTELERIA LUIS ALBERTO BERETTA KIEK	Par	Blanco y negro	Generales	5x2	EC-19	6.061	Publicado	Patricia Villena	2017-8-25 00:00:00	
+135568	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Economico	5x2	EC-19	16.774	Publicado	Rene Pizarro	2017-8-25 00:00:00	
+135724	INMOBIL. ECOMAC S.A.	Impar	Cuatricromia	Generales	35x6	ES-03	749.334	Publicado	M Cristina Puga	2017-8-25 00:00:00	
+135717	INMOBILIARIA GUZMAN LTDA	Impar	Cuatricromia	Generales	17x6	ES-05	448.229	Publicado	M Cristina Puga	2017-8-25 00:00:00	
+136176	INMOBILIARIA ELQUI S.A.	Par	Cuatricromia	Generales	17x3	ES-07	149.037	Publicado	M Cristina Puga	2017-8-25 00:00:00	
+136877	FRANCISCO DE BORJA EGUIGUREN CORREA	Impar	Cuatricromia	Generales	17x3	ES-07	188.257	Publicado	M Cristina Puga	2017-8-25 00:00:00	
+137068	UNIVERSIDAD SANTO TOMAS	Impar	Cuatricromia	Generales	17x6	ES-09	502.017	Publicado	Patricia Villena	2017-8-25 00:00:00	
+136888	AGUAS DEL VALLE S.A.	Par	Cuatricromia	Ed.Especial	17x3	ES-10	183.027	Publicado	Jacqueline Torres	2017-8-25 00:00:00	
+136889	UNIVERSIDAD CENTRAL DE CHILE	Par	Cuatricromia	Ed.Especial	17x3	ES-10	183.000	Publicado	Jacqueline Torres	2017-8-25 00:00:00	
+136470	CONSTRUCTORA SERENA LTDA.	Par	Cuatricromia	Generales	35x6	ES-11	484.615	Publicado	Claudio Romero	2017-8-25 00:00:00	
+136891	CENTRO DE EDUC.CAP.Y FORMACION LABO	Par	Cuatricromia	Ed.Especial	17x3	ES-12	183.027	Publicado	Jacqueline Torres	2017-8-25 00:00:00	
+136892	CAMARA CHILENA DE LA CONSTRUCCION A	Par	Cuatricromia	Ed.Especial	17x3	ES-12	217.802	Publicado	Jacqueline Torres	2017-8-25 00:00:00	
+136407	UNIVERSIDAD TECNOLOGICA DE CHILE	Impar	Cuatricromia	Generales	17x6	ES-13	502.017	Publicado	Patricia Villena	2017-8-25 00:00:00	
+136935	ARMAQ SUBIRI S.A.	Par	Cuatricromia	Generales	17x3	ES-14	126.050	Publicado	Claudio Romero	2017-8-25 00:00:00	
+136972	INMOBILIARIA GPR SAN PEDRO	Par	Cuatricromia	Generales	17x3	ES-15	156.881	Publicado	Miguel Apey	2017-8-25 00:00:00	
+134431	UNIVERSIDAD DE LA SERENA	Par	Cuatricromia	Ed.Especial	17x3	ES-15	177.798	Publicado	Jacqueline Torres	2017-8-25 00:00:00	
+136863	COMERCIAL VALENTINI E HIJOS LTDA.	Par	Cuatricromia	Generales	17x6	ES-17	250.000	Publicado	Paola Marquez	2017-8-25 00:00:00	
+136496	DANIEL NU?EZ ARANCIBIA	Impar	Cuatricromia	Generales	17x3	ES-18	251.009	Publicado	Paola Marquez	2017-8-25 00:00:00	
+136701	CALZADOS LA ESTRELLA ALPINA	Par	Cuatricromia	Generales	17x3	ES-18	130.000	Publicado	M Cristina Puga	2017-8-25 00:00:00	
+136895	CASA DEL PERNO	Par	Cuatricromia	Generales	10x3	ES-24	76.902	Publicado	Miguel Apey	2017-8-25 00:00:00	
+136898	INVERSIONES ANDES S.A.C.	Par	Cuatricromia	Generales	10x3	ES-24	53.832	Publicado	Miguel Apey	2017-8-25 00:00:00	
+136131	ILUSTRE MUNICIPALIDAD DE LA SERENA	Par	Cuatricromia	Generales	17x6	ES-25	0	Publicado	M Cristina Puga	2017-8-25 00:00:00	
+136936	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	17x6	ES-27	250.000	Publicado	Claudio Romero	2017-8-25 00:00:00	
+136931	AGROPLASTIC LTDA.	Par	Cuatricromia	Generales	17x6	ES-29	200.000	Publicado	Claudio Romero	2017-8-25 00:00:00	
+136405	CAMPOS DEL NORTE S.A.	Impar	Cuatricromia	Generales	17x3	ES-29	275.000	Publicado	Patricia Villena	2017-8-25 00:00:00	
+136899	UNIVERSIDAD CATOLICA DEL NORTE	Par	Cuatricromia	Generales	10x3	ES-31	95.359	Publicado	Miguel Apey	2017-8-25 00:00:00	
+136970	CIA. MINERA SAN GERONIMO	Impar	Cuatricromia	Generales	17x3	ES-31	219.633	Publicado	M Cristina Puga	2017-8-25 00:00:00	
+136915	ESPINOZA HNOS LTDA	Par	Cuatricromia	Generales	17x3	ES-33	169.954	Publicado	Miguel Apey	2017-8-25 00:00:00	
+136908	SERVICIOS MEDICOS GALLEGUILLOS Y CI	Par	Cuatricromia	Generales	17x3	ES-33	183.027	Publicado	Miguel Apey	2017-8-25 00:00:00	
+136928	ASOCIACION GREMIAL DE TRANSPORTES L	Par	Blanco y negro	Generales	10x3	ES-34	65.916	Publicado	Miguel Apey	2017-8-25 00:00:00	
+136886	SOC. EDUCACIONAL JUAN BOHON S.A.	Par	Cuatricromia	Generales	17x3	ES-34	183.027	Publicado	Jacqueline Torres	2017-8-25 00:00:00	
+136971	GRUPO URBASER DANNER S.A.	Impar	Cuatricromia	Generales	17x3	ES-35	270.000	Publicado	Patricia Villena	2017-8-25 00:00:00	
+136896	SERGIO GAHONA	Impar	Cuatricromia	Generales	17x3	ES-35	188.257	Publicado	M Cristina Puga	2017-8-25 00:00:00	
+136890	MINERA LOS PELAMBRES	Impar	Cuatricromia	Ed.Especial	17x3	ES-37	282.385	Publicado	Jacqueline Torres	2017-8-25 00:00:00	
+136903	CARLOS EDUARDO CRUZ-COKE CARVALLO	Par	Cuatricromia		17x3	ES-37	188.257	Publicado		2017-8-25 00:00:00	
+136894	LABORATORIO CLINICO STA. MARIA LA S	Par	Blanco y negro	Generales	17x3	ES-38	93.381	Publicado	Miguel Apey	2017-8-25 00:00:00	
+136893	JUAN MANUEL FUENZALIDA COBO	Impar	Cuatricromia	Generales	17x3	ES-38	188.257	Publicado	M Cristina Puga	2017-8-25 00:00:00	
+136787	PBP SERVICIOS COMERCIALES Y GASTRON			Revista Cosas	x	RC	400.000	Publicado	Carolina Naranjo	2017-8-25 00:00:00	

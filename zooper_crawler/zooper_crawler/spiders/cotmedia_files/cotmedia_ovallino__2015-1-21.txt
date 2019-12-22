@@ -1,0 +1,12 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+66725	CALLEGARI LTDA.	Par	Cuatricromia	Generales	6x6	01	30.000	Publicado	Marcela Tello-ElDia	Portada - Kia	2015-1-21 00:00:00	
+67228	ABRIL PUBLICIDAD INVERSIONES Y ASES	Impar	Cuatricromia	Generales	35x6	03	445.386	Publicado	Patricia Villena	Santo Tomas primera impar (AGENCIA)	2015-1-21 00:00:00	
+67138	MARIA ANTONIETA JADUE	Par	Blanco y negro	Generales	5x2	05	21.186	Publicado	Leonel Pizarro-Ovalle	remate ovalle	2015-1-21 00:00:00	
+67251	GOTTREUX SALAS RUBEN	Par	Blanco y negro	Generales	6x2	05	28.248	Publicado	Leonel Pizarro-Ovalle	remate ovalle	2015-1-21 00:00:00	
+67178	INVERSIONES SAN FRAN			UIP	5x2	05	2.808	Publicado	Leonel Pizarro-Ovalle	AGUAS SAN FRANCISCO	2015-1-21 00:00:00	
+66370	SOCIEDAD COMERCIAL TREMENDO			UIP	10x2	07	0	Publicado	Italo Retamal	Tremendo Restaurante	2015-1-21 00:00:00	
+66399	Marcela Burgos Robles			UIP	10x2	07	0	Arte	Italo Retamal	agrogranjalosacacios	2015-1-21 00:00:00	
+66903	rio hurta			UIP	10x6	08	0	Publicado	Italo Retamal	2 feria costumbrista 	2015-1-21 00:00:00	
+65407	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	6x6	09	16.065	Publicado	Claudio Romero	Muebles Alpina	2015-1-21 00:00:00	
+67267	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	12x6	11	0	Publicado	Marcela Tello-ElDia	Turismo - El Ovallino	2015-1-21 00:00:00	
+67213	DABED Y CIA. LTDA., SELIM	Impar	Cuatricromia	Generales	6x6	14	23.077	Publicado	Italo Retamal	MOTO DABED	2015-1-21 00:00:00	

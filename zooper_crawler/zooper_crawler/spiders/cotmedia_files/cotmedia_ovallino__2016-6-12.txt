@@ -1,0 +1,11 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+104466	AUTOMOTRIZ CARMONA	Par	Cuatricromia	Generales	6x6	01	23.077	Publicado	Marcela Tello-ElDia	Nissan Qashqai - Portada (Si hay disponibilidad)	2016-6-12 00:00:00	
+104784	EMPRESA PERIODISTICA EL NORTE S.A.	Par	Cuatricromia	Medios Regionales	32x6	03	349.693	Arte	Medios Regionales		2016-6-12 00:00:00	
+95385	SOCIEDAD BUSTOS Y PROCURIZA LTDA.	Par	Blanco y negro	Generales	10x2	06	27.542	Publicado	Maria_Amelia Hermosilla	Cento	2016-6-12 00:00:00	
+102985	SOCIEDAD MEDICA Y CONSULTORA ESTETI		Cuatricromia	Guia	5x2	06	13.333	Publicado	Maria_Amelia Hermosilla	Diego Polanco	2016-6-12 00:00:00	
+104799	CAMAL MUSALEM TAPIA Y CIA.	Par	Blanco y negro	Generales	26x4	07	127.296	Publicado	Marcela Tello-ElDia	Gran Evento Musalem en Ovalle - Toyota	2016-6-12 00:00:00	
+104385	DABED Y CIA. LTDA., SELIM	Par	Cuatricromia	Generales	6x6	09	23.076	Publicado	Nadia Randolph	DABED MOTOS	2016-6-12 00:00:00	
+103695	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	10	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2016-6-12 00:00:00	
+104805	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	6x6	11	0	Arte	Marcela Tello-ElDia		2016-6-12 00:00:00	
+104806	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	14x6	14	0	Arte	Marcela Tello-ElDia		2016-6-12 00:00:00	
+104585	SANTA EMA SA	Par	Cuatricromia	Generales	35x6	16	0	Arte	Miguel Apey	INMOB. SANTA EMA - PAG. IMPAR	2016-6-12 00:00:00	

@@ -1,0 +1,11 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+70645	SOCIEDAD DE RENTAS FALABELLA S.A	Impar	Cuatricromia	Generales	8x6	01	50.980	Publicado	M Cristina Puga	Open : huincha portada	2015-4-24 00:00:00	
+73045	CENCOSUD ADMINISTRADORAS DE TARJETA	Impar	Cuatricromia	Generales	35x3	03	200.000	Publicado	M Cristina Puga	Tarjeta cencosud	2015-4-24 00:00:00	
+73854	ada d			UIP	5x2	05	2.808	Publicado	Italo Retamal	Saludo ovalle zona ada	2015-4-24 00:00:00	
+73821	altos 			UIP	17x2	05	9.211	Publicado	Italo Retamal	alto brillador 	2015-4-24 00:00:00	
+72368	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	10x3	07	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2015-4-24 00:00:00	
+72459	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	6x6	08	16.065	Publicado	Claudio Romero	Muebles Alpina	2015-4-24 00:00:00	
+73777	DABED Y CIA. LTDA., SELIM	Impar	Cuatricromia	Generales	6x6	09	23.077	Publicado	Italo Retamal	(24) Dabed Xpress	2015-4-24 00:00:00	
+73530	ALVI SUPERMERCADOS MAYORISTAS S.A.	Impar	Cuatricromia	Generales	35x3	11	207.623	Publicado	Italo Retamal	m10 v24	2015-4-24 00:00:00	
+73944	constructora carolina ltda			UIP	10x6	13	16.260	Publicado	Italo Retamal	Constructora carolina	2015-4-24 00:00:00	
+74058	ALTOS DEL BRILLADOR LTDA.	Home	Banner Sup. Izq	Web	x	WEB	75.000	Publicado	Italo Retamal	alto brillador 	2015-4-24 00:00:00	

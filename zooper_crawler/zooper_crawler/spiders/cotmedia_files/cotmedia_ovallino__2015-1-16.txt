@@ -1,0 +1,11 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+65589	SOCIEDAD DE RENTAS FALABELLA S.A	Par	Cuatricromia	Generales	8x6	01	50.980	Publicado	M Cristina Puga	open Plaza/portada	2015-1-16 00:00:00	
+66596	ABRIL PUBLICIDAD INVERSIONES Y ASES	Impar	Cuatricromia	Generales	17x6	03	216.330	Publicado	Patricia Villena		2015-1-16 00:00:00	
+66395	Marcela Burgos Robles			UIP	10x2	05	5.630	Publicado	Italo Retamal	agrogranjalosacacios	2015-1-16 00:00:00	
+66365	tremendo			UIP	10x2	05	5.630	Publicado	Italo Retamal	Tremendo Restaurante	2015-1-16 00:00:00	
+64822	SOC. AUTOMOTRIZ COVALSA CENTER LTDA	Par	Blanco y negro	Generales	10x6	07	22.222	Publicado	Claudio Romero	COVALSA..PROMOCIONES...	2015-1-16 00:00:00	
+65405	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	6x6	08	16.065	Publicado	Claudio Romero	Muebles Alpina	2015-1-16 00:00:00	
+66803	ALVI SUPERMERCADOS MAYORISTAS S.A.	Impar	Cuatricromia	Generales	35x3	09	207.623	Publicado	Italo Retamal	mayorista 10 v16	2015-1-16 00:00:00	
+66549	rio hur			UIP	10x6	10	16.260	Publicado	Italo Retamal		2015-1-16 00:00:00	
+66334	INMOBILIARIA NUEVA SERENA	Par	Cuatricromia	Generales	17x6	11	125.000	Publicado	Claudio Romero	PROYECTO SAN LUIS....NUEVO...PRIMERAS PAGINAS...	2015-1-16 00:00:00	
+67034	SALINAS Y FABRES S.A.	Impar	Cuatricromia	Generales	17x6	13	228.717	Publicado	M Cristina Puga	Salfa GM	2015-1-16 00:00:00	

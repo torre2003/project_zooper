@@ -1,0 +1,19 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+115755	SOCIEDAD DE RENTAS FALABELLA S.A	Par	Cuatricromia	Generales	8x6	01	50.980	Arte	M Cristina Puga	Huincha open 	2016-11-25 00:00:00	
+117167	EMPRESAS LA POLAR S.A.	Impar	Cuatricromia	Generales	35x6	03	252.000	Arte	Patricia Villena	La Polar Contraportada o primera impar	2016-11-25 00:00:00	
+116668	ARENA CHILE S.A.	Impar	Cuatricromia	Generales	17x6	05	200.000	Arte	M Cristina Puga	volkswagen/primeras impar	2016-11-25 00:00:00	
+116153	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x6	07	0	Arte	Marcela Tello-ElDia	Clases Ejecutivas	2016-11-25 00:00:00	
+117203	ILUSTRE MUNICIPALIDAD DE OVALLE	Par	Blanco y negro	Generales	34x4	08	320.098	Arte	Marcela Tello-ElDia		2016-11-25 00:00:00	
+115751	SOCIEDAD DE RENTAS FALABELLA S.A	Impar	Cuatricromia	Contraportada	35x6	09	400.000	Arte	M Cristina Puga	Open Plaza /Contra	2016-11-25 00:00:00	
+117030	UNIVERSIDAD DE LA SERENA	Par	Cuatricromia	Generales	17x2	10	78.436	Arte	Karina Rivera	CURSO INTERNACIONAL DE CATA DE ACEITE DE OLIVA	2016-11-25 00:00:00	
+115189	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	6x6	12	16.065	Arte	Claudio Romero	Muebles Alpina	2016-11-25 00:00:00	
+116818	CONSTRUCTORA CADEL LTDA.	Par	Cuatricromia	Generales	34x6	12	250.000	Arte	Rene Pizarro		2016-11-25 00:00:00	
+116704	OVALLE CASINO RESORT S.A	Par	Cuatricromia	Generales	25x4	15	131.824	Arte	Paola Marquez	OCR Eventos Noviembre	2016-11-25 00:00:00	
+115932	AGRICOLA NORTE TALINAY LTDA	Par	Blanco y negro	Generales	5x2	15	1.666	Arte	Paola Marquez	UIP VENTA ALFALFA	2016-11-25 00:00:00	
+114249	Pedro Andres Monardez Elgueta			UIP	17x2	17	12.895	Arte	Karina Rivera	Restaurant Riquisimo	2016-11-25 00:00:00	
+115438	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	18	0	Arte	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2016-11-25 00:00:00	
+116050	UNIVERSIDAD DE LA SERENA	Par	Cuatricromia	Generales	17x6	19	100.846	Arte	Jacqueline Torres	ADMISION 2017	2016-11-25 00:00:00	
+117213	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x6	21	336.152	Arte	Marcela Tello-ElDia		2016-11-25 00:00:00	
+117214	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	6x6	22	118.642	Arte	Marcela Tello-ElDia		2016-11-25 00:00:00	
+117165	EMPRESAS LA POLAR S.A.	Impar	Cuatricromia	Generales	35x6	24	0	Arte	Patricia Villena	Feria smart	2016-11-25 00:00:00	
+117013	EMPRESAS LA POLAR S.A.			Inserto	x	XX	180.000	Arte	Patricia Villena	Catalogo de Juguetes y Navidad.	2016-11-25 00:00:00	

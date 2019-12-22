@@ -1,0 +1,11 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+142735	INMOBILIARIA NUEVA SERENA			UIP	10x6	03	16.260	Publicado	Claudio Romero	 "LLANOS DE SAN LUIS III ( SE CONFIRMARA SI REPITE) CASAS Y DEPARTAMENTOS..	2017-11-7 00:00:00	
+138346	CENTRO DE SALUD PORTALES LTDA			UIP	5x4	05	4.504	Publicado	Karina Rivera		2017-11-7 00:00:00	
+142698	ADOLFO HADLER BARRERA			UIP	5x2	07	2.808	Publicado	Karina Rivera	se venden 5 sitios	2017-11-7 00:00:00	
+142707	ADOLFO HADLER BARRERA			UIP	5x2	07	2.808	Publicado	Karina Rivera	AVISO SE COMPRAN ACCIONES	2017-11-7 00:00:00	
+139900	TEODORO AGUIRRE ALVAREZ			UIP	5x2	07	2.808	Publicado	Karina Rivera	REGIONALISTA VERDE SOCIAL	2017-11-7 00:00:00	
+143378	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	08	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2017-11-7 00:00:00	
+143046	JOSELIN MARTINEZ			UIP	10x2	09	5.630	Publicado	Karina Rivera	AVISO CURANDERO	2017-11-7 00:00:00	
+140943	VELIZ CORTES JOSE A.			UIP	5x2	14	5.761	Publicado	Pedro Cortes		2017-11-7 00:00:00	
+143449	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	6x6	14	0	Publicado	Marcela Tello-ElDia		2017-11-7 00:00:00	
+143416	INMOBILIARIA NUEVA SERENA	Home	Banner Cabecera	Web	0x0	WEB	150.000	Publicado		Banners web diarioeldia.cl	2017-11-7 00:00:00	

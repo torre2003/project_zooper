@@ -1,0 +1,35 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+70828	CLARO CHILE S.A.	Impar	Cuatricromia	Generales	25x5	05	373.600	Publicado	Kathine Soto-Stgo	2015-3-11 00:00:00	
+70605	CHRISTIAN LAUNITZ MARIN SERVICIOS M	Par	Blanco y negro	Generales	3x2	07	6.440	Publicado	Jacqueline Torres	2015-3-11 00:00:00	
+68916	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	07-14	8.306	Publicado	Miguel Apey	2015-3-11 00:00:00	
+70693	GOBIERNO REGIONAL - REGION DE COQUI	Impar	Cuatricromia	Generales	35x6	09	904.368	Publicado	Jacqueline Torres	2015-3-11 00:00:00	
+70824	CARAT CHILE S.A.	Impar	Cuatricromia	Generales	17x6	11	300.000	Publicado	Kathine Soto-Stgo	2015-3-11 00:00:00	
+70247	CENTRO TECNICO ACUARELA LTDA.	Par	Blanco y negro	Generales	5x2	12	19.409	Publicado	Rene Pizarro	2015-3-11 00:00:00	
+46279	SOCIEDAD MEDICA Y CONSULTORA ESTETI	Par	Cuatricromia	Generales	5x2	12	35.888	Publicado	Maria_Amelia Hermosilla	2015-3-11 00:00:00	
+70791	ILUSTRE MUNICIPALIDAD DE COQUIMBO	Par	Blanco y negro	Generales	15x2	12	76.902	Publicado	Miguel Apey	2015-3-11 00:00:00	
+70830	RENDIC HNOS. S.A.	Par	Cuatricromia	Generales	35x6	16	979.732	Publicado	Patricia Villena	2015-3-11 00:00:00	
+70829	RENDIC HNOS. S.A.	Impar	Cuatricromia	Centrales	35x6	17	979.732	Publicado	Patricia Villena	2015-3-11 00:00:00	
+70046	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	10x3	18	0	Publicado	Marcela Tello-ElDia	2015-3-11 00:00:00	
+69859	MUNICIPALIDAD DE COQUIMBO			UIP	5x2	18	17.875	Publicado	Miguel Apey	2015-3-11 00:00:00	
+70695	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	32x6	19	417.408	Publicado	Medios Regionales	2015-3-11 00:00:00	
+70020	DIARIO EL DIA	Par	Cuatricromia	Generales	10x2	23	0	Publicado	Marcela Tello-ElDia	2015-3-11 00:00:00	
+63873	SKY AIRLINE S.A.	Impar	Cuatricromia	Generales	10x4	23	124.371	Publicado	M Cristina Puga	2015-3-11 00:00:00	
+68963	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	4x5	26	20.508	Publicado	Miguel Apey	2015-3-11 00:00:00	
+70479	INMOBIL. PY  S.A.	Impar	Cuatricromia	Generales	17x6	27	0	Publicado	Claudio Romero	2015-3-11 00:00:00	
+70856	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Cuatricromia	Medios Regionales	16x6	28	309.344	Publicado	Medios Regionales	2015-3-11 00:00:00	
+70539	morales aguilera segundo			UIP	5x1	29	8.937	Publicado	Miguel Apey	2015-3-11 00:00:00	
+68875	SOC. DE GESTION MEDITERRANEA			UIP	5x1	29	8.937	Publicado	Miguel Apey	2015-3-11 00:00:00	
+69772	Sociedad			UIP	5x2	29	17.875	Publicado	Jacqueline Torres	2015-3-11 00:00:00	
+69795	armaq			UIP	5x1	29	8.937	Publicado	Claudio Romero	2015-3-11 00:00:00	
+69945	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	29	0	Publicado	Marcela Tello-ElDia	2015-3-11 00:00:00	
+69977	PILLA LA VACA	Par	Blanco y negro	Generales	5x2	29	0	Publicado	Marcela Tello-ElDia	2015-3-11 00:00:00	
+70760	AREVALO ROMERO CARM			UIP	5x1	29	8.937	Publicado	Pedro Jaime	2015-3-11 00:00:00	
+70221	SOC. COMERCIAL ALCAPARRA LTDA.	Par	Blanco y negro	Generales	5x2	29	10.440	Publicado	Patricia Villena	2015-3-11 00:00:00	
+70348	SERVICIOS GENERALES GUAYACAN S.A	Par	Blanco y negro	Generales	3x2	30	6.451	Publicado	Jacqueline Torres	2015-3-11 00:00:00	
+70765	SOC. BURDILES Y MIRANDA CORREDORES 	Par	Cuatricromia	Generales	34x6	32	450.000	Publicado	Rene Pizarro	2015-3-11 00:00:00	
+70838	FONDO DE SOLIDARIDAD E INVERSION SO	Par	Blanco y negro	Generales	6x2	EC-20	30.761	Publicado	Jacqueline Torres	2015-3-11 00:00:00	
+70163	SOC. COMERCIAL VARGAS Y GIACOMET	Par	Blanco y negro	Generales	5x1	EC-21	5.860	Publicado	Rene Pizarro	2015-3-11 00:00:00	
+70123	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Generales	5x1	EC-21	5.860	Publicado	Rene Pizarro	2015-3-11 00:00:00	
+70843	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	10x3	EC-21	65.220	Publicado	Medios Regionales	2015-3-11 00:00:00	
+70831	SOCIEDAD EDUCACIONAL LUIS ALBERTO V	Par	Blanco y negro	Generales	5x2	EC-21	36.620	Publicado	Marcela Tello-ElDia	2015-3-11 00:00:00	
+70837	AMENABAR PROPIEDADES LTDA.	1698 Palabras		Propiedades	x	PROP	271.680	Publicado	M Cristina Puga	2015-3-11 00:00:00	

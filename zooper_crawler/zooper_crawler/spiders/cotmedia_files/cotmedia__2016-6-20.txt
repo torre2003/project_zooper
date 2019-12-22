@@ -1,0 +1,34 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+105151	AUTOMOTRIZ BALMACEDA LTDA.	Par	Cuatricromia	Generales	34x6	05	0	Publicado	Marcela Tello-ElDia	2016-6-20 00:00:00	
+105152	DIARIO EL DIA	Par	Cuatricromia	Generales	17x6	10	0	Publicado	Marcela Tello-ElDia	2016-6-20 00:00:00	
+104110	HABITA INMOBILIARIA SA	Par	Cuatricromia	Generales	34x3	11	0	Publicado	Miguel Apey	2016-6-20 00:00:00	
+104754	CORP. ADM. DEL PODER JUDICIAL	Impar	Blanco y negro	Generales	17x3	13	152.398	Publicado	Jacqueline Torres	2016-6-20 00:00:00	
+104071	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	5x2	14	0	Publicado	Miguel Apey	2016-6-20 00:00:00	
+103857	LABORATORIO CLINICO STA. MARIA LA S	Par	Blanco y negro	Generales	6x2	14	7.470	Publicado	Miguel Apey	2016-6-20 00:00:00	
+104477	ADMINISTRADORA CLUB DE GOLF LA SERE	Impar	Blanco y negro	Generales	15x2	14	158.199	Publicado	Patricia Villena	2016-6-20 00:00:00	
+103811	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	15	8.306	Publicado	Miguel Apey	2016-6-20 00:00:00	
+105077	DIARIO EL DIA	Par	Cuatricromia	Generales	12x6	22	0	Publicado	Marcela Tello-ElDia	2016-6-20 00:00:00	
+104113	INVERSIONES E INMOBILIARIA P.A.T.  	Par	Cuatricromia	Generales	34x3	25	0	Publicado	Miguel Apey	2016-6-20 00:00:00	
+104412	DABED Y CIA. LTDA., SELIM	Par	Cuatricromia	Generales	7x6	26	27.690	Publicado	Marcela Tello-ElDia	2016-6-20 00:00:00	
+103640	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	27	0	Publicado	Marcela Tello-ElDia	2016-6-20 00:00:00	
+105056	SOCOR LTDA.	Par	Cuatricromia	Generales	6x6	28	0	Publicado	Miguel Apey	2016-6-20 00:00:00	
+103952	ARMAQ			UIP	5x1	29	8.937	Publicado	Claudio Romero	2016-6-20 00:00:00	
+105098	AREVALO CARMEN			UIP	5x1	29	8.937	Publicado	Pedro Jaime	2016-6-20 00:00:00	
+100574	SOC.COMERCIAL ALTOS LA SERENA LTDA	Par	Blanco y negro	Generales	5x2	30	8.937	Publicado	Nadia Randolph	2016-6-20 00:00:00	
+104887	gallardo y otra			UIP	5x1	30	8.937	Publicado	Pedro Jaime	2016-6-20 00:00:00	
+102138	CERNA E HIJOS CIA. LTDA.	Par	Blanco y negro	Generales	5x1	30	4.524	Publicado	Nadia Randolph	2016-6-20 00:00:00	
+104618	SERVICIOS GASTRON?MICOS LA CASONA D	Par	Blanco y negro	Generales	5x2	30	10.725	Publicado	Miguel Apey	2016-6-20 00:00:00	
+103334	ventura			UIP	5x1	30	8.937	Publicado	Maria_Amelia Hermosilla	2016-6-20 00:00:00	
+103841	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	4x5	30	20.508	Publicado	Miguel Apey	2016-6-20 00:00:00	
+103571	SOC. DE GESTION MEDITERRANEA			UIP	5x1	30	8.937	Publicado	Miguel Apey	2016-6-20 00:00:00	
+104022	SOC. COMERCIAL ALCAPARRA LTDA.	Par	Blanco y negro	Generales	5x2	30	10.440	Publicado	Patricia Villena	2016-6-20 00:00:00	
+103705	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	30	0	Publicado	Marcela Tello-ElDia	2016-6-20 00:00:00	
+104297	SERVICIOS GENERALES GUAYACAN S.A	Par	Blanco y negro	Generales	4x2	31	6.666	Publicado	Jacqueline Torres	2016-6-20 00:00:00	
+104187	VELIZ CORTES JOSE A.	Par	Blanco y negro	Generales	3x2	31	13.403	Publicado	Pedro Cortes	2016-6-20 00:00:00	
+103928	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Generales	5x1	EC	5.860	Publicado	Rene Pizarro	2016-6-20 00:00:00	
+104218	DIARIO EL DIA	Par	Blanco y negro	Generales	5x2	EC-19	0	Publicado	Marcela Tello-ElDia	2016-6-20 00:00:00	
+104116	NAZARIO NELSON ESPINOZA GONZALEZ	Par	Blanco y negro	Generales	7x3	EC-19	0	Publicado	Miguel Apey	2016-6-20 00:00:00	
+100940	HOTELERIA LUIS ALBERTO BERETTA KIEK	Par	Blanco y negro	Generales	5x2	EC-20	0	Publicado	Patricia Villena	2016-6-20 00:00:00	
+105024	HORMIGONES BICENTENARIO S.A.	Par	Blanco y negro	Generales	6x2	EC-20	0	Publicado	Pedro Jaime	2016-6-20 00:00:00	
+104992	CORPORACION EDUCACIONAL COLEGIO SAN	Par	Blanco y negro	Generales	7x2	EC-20	0	Publicado	Pedro Jaime	2016-6-20 00:00:00	
+100451	INMOBILIARIA SERENA S.A.	Home	Banner Cabecera	Web	x	WEB	500.000	Publicado	Claudio Romero	2016-6-20 00:00:00	

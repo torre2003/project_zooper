@@ -1,0 +1,43 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+73482	CONAFE	Par	Blanco y negro	Generales	10x3	05	109.860	Publicado	Jacqueline Torres	2015-4-15 00:00:00	
+73495	CAMAL MUSALEM TAPIA Y CIA.	Par	Cuatricromia	Generales	26x3	05	0	Publicado	Marcela Tello-ElDia	2015-4-15 00:00:00	
+72735	CHRISTIAN LAUNITZ MARIN SERVICIOS M	Par	Blanco y negro	Generales	3x2	06	5.476	Publicado	Jacqueline Torres	2015-4-15 00:00:00	
+73499	MOP OOPP	571 Palabras		Legal	x	07	141.608	Publicado	Jacqueline Torres	2015-4-15 00:00:00	
+73498	MOP OOPP	186 Palabras		Legal	x	07	46.128	Publicado	Jacqueline Torres	2015-4-15 00:00:00	
+73479	CAMPOS & ROJAS TELECOMUNICACIONES S	Par	Blanco y negro	Generales	7x2	08	51.268	Publicado	Pedro Jaime	2015-4-15 00:00:00	
+73467	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	08	0	Publicado	Marcela Tello-ElDia	2015-4-15 00:00:00	
+73061	INMOBILIARIA CLUB PY - CATALINA S.A	Impar	Cuatricromia	Generales	17x6	09	407.889	Publicado	Claudio Romero	2015-4-15 00:00:00	
+63882	SKY AIRLINE S.A.	Impar	Cuatricromia	Generales	10x4	11	124.371	Publicado	M Cristina Puga	2015-4-15 00:00:00	
+72242	DIARIO EL DIA	Par	Cuatricromia	Generales	10x2	11	0	Publicado	Marcela Tello-ElDia	2015-4-15 00:00:00	
+73444	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	12	0	Publicado	Marcela Tello-ElDia	2015-4-15 00:00:00	
+73303	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	12	0	Publicado	Marcela Tello-ElDia	2015-4-15 00:00:00	
+72327	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	10x3	14	0	Publicado	Marcela Tello-ElDia	2015-4-15 00:00:00	
+73403	FUNDACION MARIA EDUCA	Par	Blanco y negro	Generales	6x2	14	43.944	Publicado	Jacqueline Torres	2015-4-15 00:00:00	
+72654	CENTRO TECNICO ACUARELA LTDA.	Par	Blanco y negro	Generales	5x2	15	19.409	Publicado	Rene Pizarro	2015-4-15 00:00:00	
+46284	SOCIEDAD MEDICA Y CONSULTORA ESTETI	Par	Cuatricromia	Generales	5x2	15	35.888	Publicado	Maria_Amelia Hermosilla	2015-4-15 00:00:00	
+71931	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	17	8.306	Publicado	Miguel Apey	2015-4-15 00:00:00	
+73176	INMOBILIARIA DELCA LIMITADA	Par	Cuatricromia	Generales	17x6	17	0	Publicado	Rene Pizarro	2015-4-15 00:00:00	
+73462	SERVICIO DE REGISTRO CIVIL E IDENTI	1863 Palabras		Legal	x	21-22	472.310	Publicado	Jacqueline Torres	2015-4-15 00:00:00	
+73428	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	24	0	Publicado	Marcela Tello-ElDia	2015-4-15 00:00:00	
+72797	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	24	0	Publicado	Marcela Tello-ElDia	2015-4-15 00:00:00	
+70802	DIARIO EL DIA	Par	Cuatricromia	Generales	17x6	27	0	Publicado	Marcela Tello-ElDia	2015-4-15 00:00:00	
+71982	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	4x5	29	20.508	Publicado	Miguel Apey	2015-4-15 00:00:00	
+73332	DESIDERIO LI			UIP	5x2	30	17.875	Publicado	Claudio Romero	2015-4-15 00:00:00	
+73347	SAN CHARBEL LTDA			UIP	5x1	30	8.937	Publicado	Pedro Jaime	2015-4-15 00:00:00	
+72263	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	30	0	Publicado	Marcela Tello-ElDia	2015-4-15 00:00:00	
+73276	AREVALO CARMEN			UIP	5x1	30	8.937	Publicado	Pedro Jaime	2015-4-15 00:00:00	
+69665	sociedad resta			UIP	5x2	30	17.875	Publicado	Jacqueline Torres	2015-4-15 00:00:00	
+72293	PILLA LA VACA	Par	Blanco y negro	Generales	5x2	30	0	Publicado	Marcela Tello-ElDia	2015-4-15 00:00:00	
+72863	GIL URBINA			UIP	5x1	30	8.937	Publicado	Pedro Jaime	2015-4-15 00:00:00	
+72943	SOC. COMERCIAL ALCAPARRA LTDA.	Par	Blanco y negro	Generales	5x2	30	10.440	Publicado	Patricia Villena	2015-4-15 00:00:00	
+73159	SOC. INMOBILIARIA DE INVERSIONES RE	Par	Blanco y negro	Generales	5x1	30	7.427	Publicado	Miguel Apey	2015-4-15 00:00:00	
+73186	DIARIO EL DIA	Par	Blanco y negro	Generales	5x1	30	0	Publicado	Marcela Tello-ElDia	2015-4-15 00:00:00	
+71889	SOC. DE GESTION MEDITERRANEA			UIP	5x1	30	8.937	Publicado	Miguel Apey	2015-4-15 00:00:00	
+72507	armaq			UIP	5x1	30	8.937	Publicado	Claudio Romero	2015-4-15 00:00:00	
+72765	SERVICIOS GENERALES GUAYACAN S.A	Par	Blanco y negro	Generales	3x2	31	6.444	Publicado	Jacqueline Torres	2015-4-15 00:00:00	
+71544	DANIZA ALVITISH CALDERA	Par	Blanco y negro	Generales	5x1	32	8.057	Publicado	Jacqueline Torres	2015-4-15 00:00:00	
+73232	MARIA ANTONIETA JADUE	Par	Blanco y negro	Generales	8x2	EC-19	52.733	Publicado	Leonel Pizarro-Ovalle	2015-4-15 00:00:00	
+72606	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Generales	5x1	EC-20	5.860	Publicado	Rene Pizarro	2015-4-15 00:00:00	
+73466	IGNACIO GARCIA MORALES	158 Palabras		Legal	x	EC-20	39.184	Publicado	Pedro Jaime	2015-4-15 00:00:00	
+73282	AREVALO CARMEN			UIP	5x1	EC-20	8.937	Publicado	Pedro Jaime	2015-4-15 00:00:00	
+72636	SOC. COMERCIAL VARGAS Y GIACOMET	Par	Blanco y negro	Generales	5x1	EC-20	5.860	Publicado	Rene Pizarro	2015-4-15 00:00:00	

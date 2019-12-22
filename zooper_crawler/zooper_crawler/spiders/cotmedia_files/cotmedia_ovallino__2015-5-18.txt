@@ -1,0 +1,12 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+74161	SOC. AUTOMOTRIZ COVALSA CENTER LTDA	Par	Cuatricromia	Generales	5x6	01	51.405	Publicado	Claudio Romero	PORTADA ..COVALSA	2015-5-18 00:00:00	
+74304	AGUAS DEL VALLE S.A.	Par	Cuatricromia	Generales	17x3	03	99.165	Publicado	Jacqueline Torres	DIFUSION CUIDEMOS EL AGUA	2015-5-18 00:00:00	
+75474	camila as			UIP	5x2	05	2.808	Publicado	Leonel Pizarro-Ovalle	ABOGADO	2015-5-18 00:00:00	
+75653	Importadora Amanda Limitada			UIP	5x2	05	2.809	Publicado	Italo Retamal	joyas amanda	2015-5-18 00:00:00	
+75630	ASOCIACION DE CANALISTA CANAL PALQU	Par	Blanco y negro	Generales	10x2	07	47.080	Publicado	Leonel Pizarro-Ovalle	citacion	2015-5-18 00:00:00	
+74503	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	10x3	07	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2015-5-18 00:00:00	
+74123	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	6x6	08	16.065	Publicado	Claudio Romero	Muebles Alpina	2015-5-18 00:00:00	
+75724	DABED Y CIA. LTDA., SELIM	Impar	Cuatricromia	Generales	6x6	09	23.077	Publicado	Italo Retamal	18 DABED MOTOS	2015-5-18 00:00:00	
+75950	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x6	11	0	Publicado	Marcela Tello-ElDia		2015-5-18 00:00:00	
+75645	brillador			UIP	17x2	13	9.210	Publicado	Italo Retamal	alto brillador 	2015-5-18 00:00:00	
+75682	CEA			UIP	17x2	13	9.211	Publicado	Leonel Pizarro-Ovalle	CIRCO NORTEAMERICANO	2015-5-18 00:00:00	

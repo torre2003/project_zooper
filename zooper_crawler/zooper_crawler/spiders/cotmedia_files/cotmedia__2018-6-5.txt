@@ -1,0 +1,36 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+156709	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Cuatricromia	Medios Regionales	32x6	05	544.008	Publicado	Medios Regionales	2018-6-5 00:00:00	
+157628	ILUSTRE MUNICIPALIDAD DE LA HIGUERA	Par	Blanco y negro	Generales	20x3	06	149.410	Publicado	Jacqueline Torres	2018-6-5 00:00:00	
+157632	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Cuatricromia	Medios Regionales	16x6	07	324.840	Arte	Medios Regionales	2018-6-5 00:00:00	
+156723	C.M. SOC. GASTRONOMICA LTDA.			UIP	5x2	11	7.208	Publicado		2018-6-5 00:00:00	
+157104	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	5x2	11	0	Publicado	Miguel Apey	2018-6-5 00:00:00	
+157654	DIARIO EL DIA	Par	Cuatricromia	Generales	5x5	12	0	Arte	Marcela Tello-ElDia	2018-6-5 00:00:00	
+157624	RODRIGO DIAZ CORTES-MONROY	Par	Blanco y negro	Generales	6x1	12	21.972	Publicado	Pedro Jaime	2018-6-5 00:00:00	
+156652	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	12x3	13	51.666	Publicado	Claudio Romero	2018-6-5 00:00:00	
+157430	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	13	0	Publicado	Marcela Tello-ElDia	2018-6-5 00:00:00	
+157042	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	15	8.306	Publicado	Miguel Apey	2018-6-5 00:00:00	
+157195	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	29	0	Publicado	Marcela Tello-ElDia	2018-6-5 00:00:00	
+157656	DIARIO EL DIA	Par	Cuatricromia	Generales	17x6	31	0	Arte	Marcela Tello-ElDia	2018-6-5 00:00:00	
+156842	ARMAQ SUBIRI S.A.			UIP	5x1	32	8.937	Publicado	Claudio Romero	2018-6-5 00:00:00	
+157259	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	32	0	Publicado	Marcela Tello-ElDia	2018-6-5 00:00:00	
+157657	DIARIO EL DIA	Par	Blanco y negro	Generales	5x1	32	0	Arte	Marcela Tello-ElDia	2018-6-5 00:00:00	
+157014	SOC. DE GES			UIP	5x1	32	8.937	Publicado	Miguel Apey	2018-6-5 00:00:00	
+157072	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	4x5	32	20.508	Publicado	Miguel Apey	2018-6-5 00:00:00	
+154389	CERNA E HIJOS CIA. LTDA.	Par	Blanco y negro	Generales	5x1	32	3.566	Publicado	Nadia Randolph	2018-6-5 00:00:00	
+157498	DABED Y CIA. LTDA., SELIM	Par	Cuatricromia	Generales	6x6	33	27.690	Publicado	Karina Rivera	2018-6-5 00:00:00	
+157551	DIARIO EL DIA	Par	Cuatricromia	Generales	12x6	35	0	Publicado	Marcela Tello-ElDia	2018-6-5 00:00:00	
+157658	DIARIO EL DIA	Par	Cuatricromia	Generales	34x6	36	0	Arte	Marcela Tello-ElDia	2018-6-5 00:00:00	
+157625	AMADIEL ROCO RODRIGUEZ	Par	Blanco y negro	Generales	12x2	37	61.522	Publicado	Pedro Jaime	2018-6-5 00:00:00	
+157608	INMOBILIARIA ECASA CHILE S.A.	Par	Cuatricromia	Generales	34x6	40	350.000	Publicado	Paola Marquez	2018-6-5 00:00:00	
+157629	BANCO ESTADO DE CHILE	440 Palabras		Legal	x	EC	109.244	Publicado	Pedro Jaime	2018-6-5 00:00:00	
+157521	SANTANDER G.R.C.	Par	Blanco y negro	Generales	10x2	EC-25	83.824	Publicado	Pedro Jaime	2018-6-5 00:00:00	
+157481	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	10x3	EC-25	68.490	Publicado	Medios Regionales	2018-6-5 00:00:00	
+157655	DIARIO EL DIA	Par	Cuatricromia	Generales	17x6	EC-26	0	Arte	Marcela Tello-ElDia	2018-6-5 00:00:00	
+157475	SANTANDER G.R.C.	Par	Blanco y negro	Generales	10x2	EC-26	83.824	Publicado	Pedro Jaime	2018-6-5 00:00:00	
+152087	HOTELERIA LUIS ALBERTO BERETTA KIEK	Par	Blanco y negro	Generales	5x2	EC-26	6.061	Publicado	Patricia Villena	2018-6-5 00:00:00	
+157637	MINERA LOS PELAMBRES	Par	Cuatricromia	Ed.Especial	35x6	MA-17	732.108	Publicado	Jacqueline Torres	2018-6-5 00:00:00	
+157466	ABASTECEDORA DE COMBUSTIBLE S.A.	Par	Cuatricromia	Generales	34x6	MA-19	731.108	Publicado	Paola Marquez	2018-6-5 00:00:00	
+157638	AGUAS DEL VALLE S.A.	Par	Cuatricromia	Ed.Especial	17x3	MA-21	196.100	Publicado	Jacqueline Torres	2018-6-5 00:00:00	
+157639	ANDES IRON SPA	Par	Cuatricromia	Ed.Especial	35x6	MA-24	732.108	Publicado	Jacqueline Torres	2018-6-5 00:00:00	
+157630	AUTOMOTRIZ CARMONA	51 Palabras		Propiedades	x	PROP	8.151	Publicado	Marcela Tello-ElDia	2018-6-5 00:00:00	
+157442	CAMARA CHILENA DE LA CONSTRUCCION A	Home	Banner Cabecera	Web	x	WEB	185.000	Publicado	Jacqueline Torres	2018-6-5 00:00:00	

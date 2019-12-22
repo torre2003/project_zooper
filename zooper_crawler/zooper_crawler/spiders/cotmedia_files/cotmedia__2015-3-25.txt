@@ -1,0 +1,37 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+71737	CENCOSUD RETAIL S.A.	Impar	Cuatricromia	Generales	17x6	05	379.999	Publicado	Patricia Villena	2015-3-25 00:00:00	
+71790	CARAT CHILE S.A.	Impar	Cuatricromia	Generales	17x6	07	300.000	Publicado	Kathine Soto-Stgo	2015-3-25 00:00:00	
+70619	CHRISTIAN LAUNITZ MARIN SERVICIOS M	Par	Blanco y negro	Generales	3x2	08	6.440	Publicado	Jacqueline Torres	2015-3-25 00:00:00	
+70907	INMOBIL. PY  S.A.	Impar	Cuatricromia	Generales	17x6	09	0	Publicado	Claudio Romero	2015-3-25 00:00:00	
+70022	DIARIO EL DIA	Par	Cuatricromia	Generales	10x2	11	0	Publicado	Marcela Tello-ElDia	2015-3-25 00:00:00	
+63875	SKY AIRLINE S.A.	Impar	Cuatricromia	Generales	10x4	11	124.371	Publicado	M Cristina Puga	2015-3-25 00:00:00	
+70249	CENTRO TECNICO ACUARELA LTDA.	Par	Blanco y negro	Generales	5x2	12	19.409	Publicado	Rene Pizarro	2015-3-25 00:00:00	
+46281	SOCIEDAD MEDICA Y CONSULTORA ESTETI	Par	Cuatricromia	Generales	5x2	12	35.888	Publicado	Maria_Amelia Hermosilla	2015-3-25 00:00:00	
+68930	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	12-18	8.306	Publicado	Miguel Apey	2015-3-25 00:00:00	
+71821	SERV. AGRICOLA Y GANADERO	Par	Blanco y negro	Generales	34x6	14	452.521	Publicado	Pedro Jaime	2015-3-25 00:00:00	
+71797	GESTION CIUDADANAS Y TERRITORIO CON	Par	Blanco y negro	Generales	5x2	15	28.564	Publicado	Jacqueline Torres	2015-3-25 00:00:00	
+70060	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	10x3	15	0	Publicado	Marcela Tello-ElDia	2015-3-25 00:00:00	
+71741	RENDIC HNOS. S.A.	Par	Cuatricromia	Generales	35x6	16	979.732	Publicado	Patricia Villena	2015-3-25 00:00:00	
+71740	RENDIC HNOS. S.A.	Impar	Cuatricromia	Centrales	35x6	17	979.732	Publicado	Patricia Villena	2015-3-25 00:00:00	
+71818	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	23	0	Publicado	Marcela Tello-ElDia	2015-3-25 00:00:00	
+68977	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	4x5	28	20.508	Publicado	Miguel Apey	2015-3-25 00:00:00	
+71621	AREVALO			UIP	5x1	29	8.937	Publicado	Pedro Jaime	2015-3-25 00:00:00	
+71650	DIARIO EL DIA	Par	Blanco y negro	Generales	5x1	29	0	Publicado	Marcela Tello-ElDia	2015-3-25 00:00:00	
+71572	eurosolar			UIP	5x2	29	17.875	Publicado	Pedro Jaime	2015-3-25 00:00:00	
+69979	PILLA LA VACA	Par	Blanco y negro	Generales	5x2	29	0	Publicado	Marcela Tello-ElDia	2015-3-25 00:00:00	
+70989	DIARIO EL DIA	Par	Blanco y negro	Generales	5x1	29	0	Publicado	Marcela Tello-ElDia	2015-3-25 00:00:00	
+68887	SOC. DE GESTION MEDITERRANEA			UIP	5x1	29	8.937	Publicado	Miguel Apey	2015-3-25 00:00:00	
+69647	sociedad restau			UIP	5x2	29	17.875	Publicado	Jacqueline Torres	2015-3-25 00:00:00	
+70235	SOC. COMERCIAL ALCAPARRA LTDA.	Par	Blanco y negro	Generales	5x2	29	10.440	Publicado	Patricia Villena	2015-3-25 00:00:00	
+69807	armaq			UIP	5x1	29	8.937	Publicado	Claudio Romero	2015-3-25 00:00:00	
+69947	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	29	0	Publicado	Marcela Tello-ElDia	2015-3-25 00:00:00	
+70362	SERVICIOS GENERALES GUAYACAN S.A	Par	Blanco y negro	Generales	3x2	30	6.451	Publicado	Jacqueline Torres	2015-3-25 00:00:00	
+71787	JUAN ARACENA	Par	Blanco y negro	Generales	12x2	30	52.733	Publicado	Pedro Jaime	2015-3-25 00:00:00	
+71523	DANIZA ALVITISH CALDERA	Par	Blanco y negro	Generales	5x1	31	8.057	Publicado	Jacqueline Torres	2015-3-25 00:00:00	
+71615	INMOBIL. E INVERSIONES AREYUNA E HI	Par	Cuatricromia	Generales	35x6	32	500.000	Publicado	Claudio Romero	2015-3-25 00:00:00	
+71784	AUTOMOTRIZ CARMONA	Par	Blanco y negro	Generales	6x1	EC-20	17.578	Publicado	Marcela Tello-ElDia	2015-3-25 00:00:00	
+70137	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Generales	5x1	EC-21	5.860	Publicado	Rene Pizarro	2015-3-25 00:00:00	
+70177	SOC. COMERCIAL VARGAS Y GIACOMET	Par	Blanco y negro	Generales	5x1	EC-21	5.860	Publicado	Rene Pizarro	2015-3-25 00:00:00	
+71627	AREVALO			UIP	5x1	EC-21	8.937	Publicado	Pedro Jaime	2015-3-25 00:00:00	
+71816	CONSEJO NACIONAL DE LA CULTURA Y LA	Home	Banner Cabecera	Web	x	WEB	350.000	Publicado	Jacqueline Torres	2015-3-25 00:00:00	
+71830	GESTION CIUDADANAS Y TERRITORIO CON	Home	Box Derecho	Web	x	WEB	196.100	Publicado	Jacqueline Torres	2015-3-25 00:00:00	

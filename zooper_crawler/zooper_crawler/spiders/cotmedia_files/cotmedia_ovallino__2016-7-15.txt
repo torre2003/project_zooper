@@ -1,0 +1,12 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+106114	SOCIEDAD DE RENTAS FALABELLA S.A	Par	Cuatricromia	Generales	8x6	01	50.980	Publicado	M Cristina Puga	Open	2016-7-15 00:00:00	
+106746	AUTOMOTRIZ CARMONA	Par	Cuatricromia	Generales	6x6	03	23.076	Publicado	Marcela Tello-ElDia	Nissan Murano - Portada (Si hay disponibilidad)	2016-7-15 00:00:00	
+107071	SOC. LIMARI COMERCIALIZADORA DEL AG	Par	Blanco y negro	Generales	15x2	05	70.620	Publicado	Rene Pizarro		2016-7-15 00:00:00	
+106920	ILUSTRE MUNICIPALIDAD DE OVALLE	Par	Blanco y negro	Generales	17x3	05	120.054	Publicado	Leonel Pizarro-Ovalle	cementerio ovalle	2016-7-15 00:00:00	
+107027	INMOBILIARIA NUEVA SERENA	Par	Cuatricromia	Generales	17x6	06	0	Publicado	Claudio Romero	publireportaje..proyecto empresa serena....	2016-7-15 00:00:00	
+105888	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	07	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2016-7-15 00:00:00	
+105789	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	6x6	08	16.065	Publicado	Claudio Romero	Muebles Alpina	2016-7-15 00:00:00	
+104963	OVALLE CASINO RESORT S.A	Par	Cuatricromia	Generales	6x6	09	21.333	Publicado	Paola Marquez	Auspicio Casino Ovalle Impar	2016-7-15 00:00:00	
+107051	JOSE MANUEL ROJAS	Par	Blanco y negro	Generales	5x2	10	23.540	Publicado	Leonel Pizarro-Ovalle	aviso	2016-7-15 00:00:00	
+107025	INMOBILIARIA NUEVA SERENA	Par	Cuatricromia	Generales	17x6	11	0	Publicado	Claudio Romero	proyecto empresas serena...repite del miercoles 13.julio	2016-7-15 00:00:00	
+107057	EMPRESAS LA POLAR S.A.	Impar	Cuatricromia	Generales	34x6	16	0	Publicado	Patricia Villena	 La Polar	2016-7-15 00:00:00	

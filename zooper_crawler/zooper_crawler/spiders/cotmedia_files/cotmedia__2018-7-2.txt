@@ -1,0 +1,38 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+159230	CLARO CHILE S.A.	Impar	Cuatricromia	Generales	35x6	05	500.000	Publicado	Kathine Soto-Stgo	2018-7-2 00:00:00	
+159241	INMOBIL. LA SERENA GOLF S.A.	Par	Cuatricromia	Generales	17x6	07	0	Publicado	Patricia Villena	2018-7-2 00:00:00	
+159237	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Cuatricromia	Medios Regionales	16x6	09	324.840	Arte	Medios Regionales	2018-7-2 00:00:00	
+158595	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	12	0	Arte	Marcela Tello-ElDia	2018-7-2 00:00:00	
+159027	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	4x5	13	20.508	Publicado	Miguel Apey	2018-7-2 00:00:00	
+158891	ARMAQ SUBIRI S.A.			UIP	5x1	13	8.937	Publicado	Claudio Romero	2018-7-2 00:00:00	
+158660	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	13	0	Arte	Marcela Tello-ElDia	2018-7-2 00:00:00	
+159292	DIARIO EL DIA	Par	Blanco y negro	Generales	5x1	13	0	Arte	Marcela Tello-ElDia	2018-7-2 00:00:00	
+157037	SOC. DE GES			UIP	5x1	13	8.937	Publicado	Miguel Apey	2018-7-2 00:00:00	
+154416	CERNA E HIJOS CIA. LTDA.	Par	Blanco y negro	Generales	5x1	13	3.566	Publicado	Nadia Randolph	2018-7-2 00:00:00	
+159128	ARZOBISPADO DE LA SERENA	Par	Blanco y negro	Generales	5x2	14	0	Arte	Marcela Tello-ElDia	2018-7-2 00:00:00	
+159090	LABORATORIO CLINICO STA. MARIA LA S	Par	Blanco y negro	Generales	6x2	14	7.470	Publicado	Miguel Apey	2018-7-2 00:00:00	
+158348	C.M. SOC. GASTRONOMICA LTDA.			UIP	5x2	19	7.208	Publicado		2018-7-2 00:00:00	
+158194	DIARIO EL DIA	Par	Blanco y negro	Generales	5x2	19	0	Publicado	Marcela Tello-ElDia	2018-7-2 00:00:00	
+159057	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	5x2	19	0	Arte	Miguel Apey	2018-7-2 00:00:00	
+159163	HABITA INMOBILIARIA SA	Par	Cuatricromia	Generales	17x6	21	0	Publicado	Miguel Apey	2018-7-2 00:00:00	
+159294	DIARIO EL DIA	Par	Cuatricromia	Generales	6x6	26	0	Arte	Marcela Tello-ElDia	2018-7-2 00:00:00	
+158995	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	26	8.306	Publicado	Miguel Apey	2018-7-2 00:00:00	
+159205	BANCO DE CHILE	833 Palabras		Legal	x	EC	206.723	Publicado	Pedro Jaime	2018-7-2 00:00:00	
+159204	SANTANDER G.R.C.	653 Palabras		Legal	x	EC	162.185	Publicado	Pedro Jaime	2018-7-2 00:00:00	
+159275	BANCO DE CREDITO E INVERSIONES	349 Palabras		Legal	x	EC	86.555	Publicado	Pedro Jaime	2018-7-2 00:00:00	
+159274	BANCO DE CREDITO E INVERSIONES	460 Palabras		Legal	x	EC	114.286	Publicado	Pedro Jaime	2018-7-2 00:00:00	
+159271	BANCO DE CREDITO E INVERSIONES	423 Palabras		Legal	x	EC	105.042	Publicado	Pedro Jaime	2018-7-2 00:00:00	
+159270	BANCO DE CREDITO E INVERSIONES	725 Palabras		Legal	x	EC	179.832	Publicado	Pedro Jaime	2018-7-2 00:00:00	
+159269	BANCO DE CREDITO E INVERSIONES	684 Palabras		Legal	x	EC	169.748	Publicado	Pedro Jaime	2018-7-2 00:00:00	
+159233	DEL RIO VARELA JORGE	Par	Blanco y negro	Generales	12x3	EC-23	92.283	Publicado	Pedro Jaime	2018-7-2 00:00:00	
+152114	HOTELERIA LUIS ALBERTO BERETTA KIEK	Par	Blanco y negro	Generales	5x2	EC-24	6.061	Publicado	Patricia Villena	2018-7-2 00:00:00	
+159293	DIARIO EL DIA	Par	Cuatricromia	Generales	17x6	EC-24	0	Arte	Marcela Tello-ElDia	2018-7-2 00:00:00	
+157688	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Generales	5x2	EC-24	7.003	Publicado	Rene Pizarro	2018-7-2 00:00:00	
+159261	COMERCIAL AUTOKARINO LTDA.	414 Palabras		Propiedades	x	PROP	66.387	Publicado	Pedro Jaime	2018-7-2 00:00:00	
+159262	LILIAN ELIZABETH OLIVARES LANAS	809 Palabras		Propiedades	x	PROP	129.440	Publicado	Pedro Jaime	2018-7-2 00:00:00	
+159263	GONZALEZ RIVERA MANUEL RICARDO	378 Palabras		Propiedades	x	PROP	60.480	Publicado	Pedro Jaime	2018-7-2 00:00:00	
+159264	FRANCISCO CORVETTO MIRANDA PROPIEDA	3514 Palabras		Propiedades	x	PROP	562.240	Publicado	Pedro Jaime	2018-7-2 00:00:00	
+159268	YOLANDA ELIAS CAMBLOR	193 Palabras		Propiedades	x	PROP	30.880	Publicado	Pedro Jaime	2018-7-2 00:00:00	
+159267	GABRIELA ARENAS O'RYAN	173 Palabras		Propiedades	x	PROP	27.680	Publicado	Pedro Jaime	2018-7-2 00:00:00	
+159266	JACQUELINE BARRERA BARRAZA	599 Palabras		Propiedades	x	PROP	95.840	Publicado	Pedro Jaime	2018-7-2 00:00:00	
+159265	FERES REBOLLEDO ANA ISABEL	335 Palabras		Propiedades	x	PROP	53.600	Publicado	Pedro Jaime	2018-7-2 00:00:00	

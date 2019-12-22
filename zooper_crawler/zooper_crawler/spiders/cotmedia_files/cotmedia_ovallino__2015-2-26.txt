@@ -1,0 +1,3 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+68267	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	10x3	05	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2015-2-26 00:00:00	
+69421	lara y			UIP	10x6	10	0	Publicado	Italo Retamal	Flayer el cielo	2015-2-26 00:00:00	

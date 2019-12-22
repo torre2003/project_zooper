@@ -1,0 +1,16 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+133773	PEDRO ANDRES MONARDEZ ELGUETA	Par	Cuatricromia	Generales	6x6	01	25.000	Publicado	Karina Rivera	Restaurant Riquisimo	2017-7-28 00:00:00	
+134014	INMOBILIARIA NUEVA SERENA	Par	Cuatricromia	Generales	17x3	03	65.625	Publicado	Claudio Romero	proyecto empresa serena...(ovalle)..SE CONFIRMARA SI REPITE O ES NUEVO..	2017-7-28 00:00:00	
+134064	FERNANDO YOANOVICH			UIP	5x2	05	2.247	Publicado	Karina Rivera		2017-7-28 00:00:00	
+134364	ESTUDIO JURIDICO OLIVARES Y CIA. SP	Par	Blanco y negro	Generales	5x2	05	2.000	Publicado	Jacqueline Torres	ESTUDIO JURIDICO OLIVARES	2017-7-28 00:00:00	
+133764	JACQUELINE JOFRE VILLANUEVA			UIP	5x2	05	2.808	Publicado	Karina Rivera	CORTINAS ROLLER OVALLE	2017-7-28 00:00:00	
+134940	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x6	06	0	Arte	Marcela Tello-ElDia		2017-7-28 00:00:00	
+134092	FERNANDO YOANOVICH			UIP	5x2	07	2.247	Publicado	Karina Rivera	TAROT SRA SOFIA	2017-7-28 00:00:00	
+132792	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	6x6	08	16.065	Publicado	Claudio Romero	Muebles Alpina	2017-7-28 00:00:00	
+132713	OVALLE CASINO RESORT S.A	Par	Cuatricromia	Generales	25x4	09	131.824	Publicado	Paola Marquez	Eventos Julio OCR	2017-7-28 00:00:00	
+134891	EMPRESA PERIODISTICA EL NORTE S.A.	Par	Blanco y negro	Medios Regionales	8x2	10	23.120	Arte	Medios Regionales	BBVA - Rol 328-2017 - (127784)	2017-7-28 00:00:00	
+134905	EMPRESA PERIODISTICA EL NORTE S.A.	Par	Cuatricromia	Medios Regionales	32x6	11	349.693	Arte	Medios Regionales	Impar - Asoc. Administ. Fondos - AFP - (125358)	2017-7-28 00:00:00	
+133130	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	13	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2017-7-28 00:00:00	
+133959	VELIZ CORTES JOSE A.			UIP	5x2	14	2.808	Publicado	Pedro Cortes		2017-7-28 00:00:00	
+134750	DABED Y CIA. LTDA., SELIM	Par	Cuatricromia	Generales	6x6	14	23.076	Publicado	Karina Rivera	EDO	2017-7-28 00:00:00	
+134846	EMPRESAS LA POLAR S.A.	Par	Cuatricromia	Contraportada	35x6	16	252.000	Publicado	Patricia Villena	Enserio	2017-7-28 00:00:00	

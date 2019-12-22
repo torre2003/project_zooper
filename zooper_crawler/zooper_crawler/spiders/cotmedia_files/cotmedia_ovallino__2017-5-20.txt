@@ -1,0 +1,11 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+129784	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x3	03	0	Arte	Marcela Tello-ElDia	Vea en Cinemark - Alien - El octavo pasajero	2017-5-20 00:00:00	
+129829	JUNTA DE VIGILANCIA RIO GRANDE LIMA	Par	Blanco y negro	Generales	15x2	03	81.213	Publicado	Karina Rivera	Citacion	2017-5-20 00:00:00	
+129661	SAKATA 			UIP	5x2	05	6.120	Publicado	Karina Rivera		2017-5-20 00:00:00	
+128119	FERNANDO YOANOVICH			UIP	5x2	07	2.247	Publicado	Karina Rivera	COMPRA VEHICULOS	2017-5-20 00:00:00	
+128813	KH			UIP	5x2	07	2.808	Publicado	Miguel Apey	KHUYAY TRAVEL	2017-5-20 00:00:00	
+129850	JACQUELINE JOFRE VILLANUEVA			UIP	5x2	07	2.808	Publicado	Karina Rivera	Cortinas Rollers	2017-5-20 00:00:00	
+129633	DABED Y CIA. LTDA., SELIM	Par	Cuatricromia	Generales	6x6	09	23.076	Publicado	Karina Rivera	M6	2017-5-20 00:00:00	
+129827	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x3	11	0	Arte	Marcela Tello-ElDia	Esta semana en Cinemark	2017-5-20 00:00:00	
+129888	EMPRESA PERIODISTICA EL NORTE S.A.	Par	Blanco y negro	Medios Regionales	8x2	12	23.120	Arte	Medios Regionales	BBVA - Rol C-8765-2016 - (84236)	2017-5-20 00:00:00	
+129928	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	6x6	14	0	Arte	Marcela Tello-ElDia		2017-5-20 00:00:00	

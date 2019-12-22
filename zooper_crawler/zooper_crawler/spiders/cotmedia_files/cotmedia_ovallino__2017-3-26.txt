@@ -1,0 +1,11 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+124450	ARENA CHILE S.A.	Impar	Cuatricromia	Generales	17x6	03	230.000	Publicado	M Cristina Puga	VOLSWAGEN 	2017-3-26 00:00:00	
+125920	CAMAL MUSALEM TAPIA Y CIA.	Par	Blanco y negro	Generales	30x4	05	147.880	Publicado	Marcela Tello-ElDia	Toyota Sale	2017-3-26 00:00:00	
+103071	SOCIEDAD MEDICA Y CONSULTORA ESTETI		Cuatricromia	Guia	5x2	06	13.333	Publicado	Maria_Amelia Hermosilla	Diego Polanco	2017-3-26 00:00:00	
+125545	EMPRESA PERIODISTICA EL NORTE S.A.	Par	Blanco y negro	Medios Regionales	10x2	07	28.900	Arte	Medios Regionales	Parques de Chile S.A. - (45348)	2017-3-26 00:00:00	
+125823	EMPRESA PERIODISTICA EL NORTE S.A.	Par	Blanco y negro	Medios Regionales	10x2	07	28.900	Arte	Medios Regionales	Parques de Chile - (49731)	2017-3-26 00:00:00	
+125875	OVALLE CASINO RESORT S.A	Par	Blanco y negro	Generales	5x2	07	24.482	Publicado	Paola Marquez		2017-3-26 00:00:00	
+125617	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x6	08	0	Arte	Marcela Tello-ElDia		2017-3-26 00:00:00	
+125755	INMOBIL. LA SERENA GOLF S.A.	Par	Cuatricromia	Generales	17x6	09	0	Publicado	Patricia Villena	Aviso Serena Golf 	2017-3-26 00:00:00	
+124214	OVALLE CASINO RESORT S.A	Par	Cuatricromia	Generales	25x4	11	171.372	Publicado	Paola Marquez	OCR Eventos verano	2017-3-26 00:00:00	
+124695	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	14	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2017-3-26 00:00:00	

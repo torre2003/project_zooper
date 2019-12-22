@@ -1,0 +1,5 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+94437	SOC. DE SER.COMERC Y APOYO FIN Y GE	Impar	Cuatricromia	Generales	17x6	03	150.000	Publicado	M Cristina Puga	Presto- Sercopresto	2016-2-4 00:00:00	
+94553	FERNANDO SANCHEZ			UIP	5x2	05	2.808	Publicado	Leonel Pizarro-Ovalle	AGUAS SUBTERRANEAS	2016-2-4 00:00:00	
+95445	AGRICOLA CERRILLOS DE TAMAYA	Par	Blanco y negro	Generales	4x2	05	18.832	Publicado	Pedro Jaime	TECNICO AGRICOLA, 5 X  3 , LIGHTS	2016-2-4 00:00:00	
+95103	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	07	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2016-2-4 00:00:00	

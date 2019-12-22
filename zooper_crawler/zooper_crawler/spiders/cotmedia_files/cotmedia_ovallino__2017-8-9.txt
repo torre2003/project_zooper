@@ -1,0 +1,12 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+135438	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	6x6	01	0	Publicado	Claudio Romero	Muebles Alpina	2017-8-9 00:00:00	
+135371	OVALLE CASINO RESORT S.A	Par	Cuatricromia	Generales	25x4	03	0	Arte	Paola Marquez	OCR Eventos Agosto, impar si se puede	2017-8-9 00:00:00	
+134074	FERNANDO YOANOVICH			UIP	5x2	05	2.247	Publicado	Karina Rivera		2017-8-9 00:00:00	
+136059	JACQUELINE JOFRE VILLANUEVA			UIP	5x2	05	2.808	Publicado	Karina Rivera	CORTINAS ROLLER OVALLE	2017-8-9 00:00:00	
+135452	INVERSIONES TANGUEMAR LIMITADA			UIP	5x2	05	2.808	Publicado	Patricia Villena	Tanguemar	2017-8-9 00:00:00	
+134102	FERNANDO YOANOVICH			UIP	5x2	06	2.247	Publicado	Karina Rivera	TAROT SRA SOFIA	2017-8-9 00:00:00	
+136108	PRENSA DEL LIMARI LTDA.	Par	Blanco y negro	Generales	17x6	07	0	Arte	Marcela Tello-ElDia		2017-8-9 00:00:00	
+136110	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x3	08	0	Arte	Marcela Tello-ElDia	Vive la experiencia de estar bien informado...	2017-8-9 00:00:00	
+135085	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	09	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2017-8-9 00:00:00	
+136109	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	6x6	14	0	Arte	Marcela Tello-ElDia		2017-8-9 00:00:00	
+133969	VELIZ CORTES JOSE A.			UIP	5x2	14	2.808	Publicado	Pedro Cortes		2017-8-9 00:00:00	

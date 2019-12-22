@@ -1,0 +1,11 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+78271	AET CHILE SPA	Par	Blanco y negro	Generales	6x6	01	0	Publicado	Marcela Tello-ElDia	Muestra Bodies - Nuevo	2015-6-20 00:00:00	
+77740	DABED Y CIA. LTDA., SELIM	Impar	Cuatricromia	Generales	6x6	03	23.077	Publicado	Italo Retamal	centro especialista 	2015-6-20 00:00:00	
+76652	sociedad mi			UIP	5x2	04	2.808	Publicado	Italo Retamal	talhuen	2015-6-20 00:00:00	
+78210	gatica briones spa			UIP	5x4	04	5.630	Publicado	Italo Retamal	promo hamburguesa 	2015-6-20 00:00:00	
+76695	LARA Y CIA. AGUILAS TOCANDO EL CIEL			UIP	10x6	05	16.260	Publicado	Italo Retamal	tcm lara y cia	2015-6-20 00:00:00	
+76293	brillador			UIP	17x2	07	9.210	Publicado	Italo Retamal	alto brillador 	2015-6-20 00:00:00	
+77108	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	10x3	07	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2015-6-20 00:00:00	
+78251	PARQUES DE CHILE S.A	Par	Cuatricromia	Generales	13x4	09	168.076	Publicado	Rene Pizarro		2015-6-20 00:00:00	
+78379	PRENSA DEL LIMARI LTDA.	Par	Blanco y negro	Generales	17x6	14	0	Publicado	Marcela Tello-ElDia		2015-6-20 00:00:00	
+77236	SOCIEDAD DE RENTAS FALABELLA S.A	Impar	Cuatricromia	Generales	35x6	16	400.000	Publicado	M Cristina Puga	Primera IMPAR Open Plaza	2015-6-20 00:00:00	

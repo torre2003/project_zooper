@@ -1,0 +1,11 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+151526	OMD CHILE S.P.A.	Impar	Cuatricromia	Generales	35x6	03	445.386	Publicado	Patricia Villena		2018-3-12 00:00:00	
+151759	CORRETAJES TORRES Y CIA LTDA	Par	Blanco y negro	Generales	10x2	05	47.080	Publicado	Karina Rivera	corretaje	2018-3-12 00:00:00	
+151474	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	06	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2018-3-12 00:00:00	
+151700	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	12x6	08	0	Publicado	Marcela Tello-ElDia	Avant Premiere - Club de Lectores	2018-3-12 00:00:00	
+150944	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	6x6	09	16.065	Publicado	Claudio Romero	Muebles Alpina	2018-3-12 00:00:00	
+151649	DABED Y CIA. LTDA., SELIM	Par	Cuatricromia	Generales	6x6	11	23.076	Publicado	Karina Rivera	grafica charlista EDO	2018-3-12 00:00:00	
+151781	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x6	13	0	Publicado	Marcela Tello-ElDia	En la comodidad de su hogar...	2018-3-12 00:00:00	
+151780	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	8x6	15	0	Publicado	Marcela Tello-ElDia		2018-3-12 00:00:00	
+150546	VELIZ CORTES JOSE A.			UIP	5x2	15	4.695	Publicado	Pedro Cortes		2018-3-12 00:00:00	
+151782	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x3	16	0	Publicado	Marcela Tello-ElDia	www.diarioelovallino.cl ...	2018-3-12 00:00:00	

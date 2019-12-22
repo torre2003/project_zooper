@@ -1,0 +1,10 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+147682	AGRICOLA NORTE TALINAY LTDA	Par	Blanco y negro	Generales	5x2	05	1.666	Publicado	Paola Marquez	UIP VENTA ALFALFA	2018-2-5 00:00:00	
+148384	INVERSIONES TANGUEMAR LIMITADA			UIP	5x2	05	2.808	Publicado	Patricia Villena	Tanguemar 2	2018-2-5 00:00:00	
+149547	DONATTOS OVALLE SPA			UIP	5x2	05	2.808	Publicado	Karina Rivera	VENTA DERECHO DE LLAVE	2018-2-5 00:00:00	
+149790	DABED Y CIA. LTDA., SELIM	Par	Cuatricromia	Generales	6x6	08	23.076	Publicado	Karina Rivera	GRAF. 2	2018-2-5 00:00:00	
+149339	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	6x6	09	16.065	Publicado	Claudio Romero	Muebles Alpina	2018-2-5 00:00:00	
+147618	SOCIEDAD EDUCACIONL GALLARDO Y FIGU			UIP	10x2	11	6.296	Publicado	Karina Rivera	CENTRO DE FORMACION MATEMATICA	2018-2-5 00:00:00	
+147783	CL?NICA VETERINARIA LOS MANCOS LTDA			UIP	10x2	11	5.630	Publicado	Karina Rivera	CLINICA VETERINARIA 	2018-2-5 00:00:00	
+147883	VELIZ CORTES JOSE A.			UIP	5x2	15	4.695	Publicado	Pedro Cortes		2018-2-5 00:00:00	
+149958	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	6x6	15	0	Publicado	Marcela Tello-ElDia		2018-2-5 00:00:00	

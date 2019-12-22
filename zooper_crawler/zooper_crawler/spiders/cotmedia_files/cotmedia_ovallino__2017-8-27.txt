@@ -1,0 +1,12 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+136317	DABED Y CIA. LTDA., SELIM	Par	Cuatricromia	Generales	6x6	01	23.076	Publicado	Karina Rivera	S 1	2017-8-27 00:00:00	
+137053	EMPRESA PERIODISTICA EL NORTE S.A.	Par	Cuatricromia	Medios Regionales	32x6	03	349.693	Arte	Medios Regionales	Impar - Asoc. Administ. Fondos - AFP - (145471)	2017-8-27 00:00:00	
+136537	ESTUDIO JURIDICO OLIVARES Y CIA. SP	Par	Blanco y negro	Generales	5x2	07	2.000	Publicado	Jacqueline Torres	ESTUDIO JURIDICO OLIVARES	2017-8-27 00:00:00	
+137107	EMPRESA PERIODISTICA EL NORTE S.A.	Par	Blanco y negro	Medios Regionales	10x2	07	28.900	Arte	Medios Regionales	Parques de Chile S.A. - Busca personas - (146502)	2017-8-27 00:00:00	
+136336	EMPRESA PERIODISTICA EL NORTE S.A.	Par	Blanco y negro	Medios Regionales	10x2	07	28.900	Publicado	Medios Regionales	Parques de Chile - Corporativo - (133853)	2017-8-27 00:00:00	
+131278	SOCIEDAD MEDICA Y CONSULTORA ESTETI		Cuatricromia	Guia	5x2	08	13.333	Publicado	Maria_Amelia Hermosilla	Diego Polanco	2017-8-27 00:00:00	
+135339	OVALLE CASINO RESORT S.A	Par	Cuatricromia	Generales	25x4	09	171.372	Publicado	Paola Marquez	OCR Eventos Agosto Impar si es posible	2017-8-27 00:00:00	
+135101	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	11	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2017-8-27 00:00:00	
+137178	CAMAL MUSALEM TAPIA Y CIA.	Par	Blanco y negro	Generales	34x5	13	208.080	Publicado	Marcela Tello-ElDia	TOYOTA MUSALEM 	2017-8-27 00:00:00	
+136590	VELIZ CORTES JOSE A.			UIP	5x2	14	2.808	Publicado	Pedro Cortes		2017-8-27 00:00:00	
+137181	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	6x6	14	0	Arte	Marcela Tello-ElDia		2017-8-27 00:00:00	

@@ -1,0 +1,11 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+86655	DABED Y CIA. LTDA., SELIM	Impar	Cuatricromia	Generales	6x6	03	23.077	Publicado	Italo Retamal	generadores 	2015-10-24 00:00:00	
+81407	tanguemar			UIP	5x2	05	2.808	Publicado	Patricia Villena	Tanguemar	2015-10-24 00:00:00	
+86208	INMOBIL. ITALIA LTDA.	Par	Blanco y negro	Generales	5x2	05	21.657	Publicado	Marcela Tello-ElDia	Arriendos Departamentos/Oficinas/Local Comercial - Rep. 11/10	2015-10-24 00:00:00	
+87027	BIANCA DASOLI	Par	Blanco y negro	Generales	5x2	05	1.429	Publicado	Italo Retamal	tarot	2015-10-24 00:00:00	
+85387	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	10x3	07	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2015-10-24 00:00:00	
+86971	linea			UIP	10x2	07	5.630	Publicado	Italo Retamal	seguridad 	2015-10-24 00:00:00	
+86996	FERNANDO SANCHEZ			UIP	5x2	09	2.808	Publicado	Italo Retamal	busca agua 	2015-10-24 00:00:00	
+87131	socinget			UIP	10x2	10	5.630	Publicado	Italo Retamal		2015-10-24 00:00:00	
+86983	COLEGIO AMALIA ERRAZURIZ	Par	Blanco y negro	Generales	10x2	10	54.142	Publicado	Claudio Romero	COLEGIO AMALIA ERRAZURUZ..LLAMADO..	2015-10-24 00:00:00	
+87216	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x6	14	0	Publicado	Marcela Tello-ElDia	El Ovallino - www.elovallino.cl	2015-10-24 00:00:00	

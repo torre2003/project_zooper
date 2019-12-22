@@ -1,0 +1,31 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+124625	CHRISTIAN LAUNITZ MARIN SERVICIOS M	Par	Blanco y negro	Generales	8x2	04	4.838	Publicado	Heinger Vega Torres	2017-3-9 00:00:00	
+123188	ARENA CHILE S.A.	Impar	Cuatricromia	Generales	17x6	05	0	Publicado	M Cristina Puga	2017-3-9 00:00:00	
+124794	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	11	0	Publicado	Marcela Tello-ElDia	2017-3-9 00:00:00	
+124657	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	12	0	Publicado	Marcela Tello-ElDia	2017-3-9 00:00:00	
+124598	CONSTRUCTORA CARRAN S.A.	Par	Blanco y negro	Generales	6x2	13	39.550	Publicado	Claudio Romero	2017-3-9 00:00:00	
+124751	DIARIO EL DIA	Par	Blanco y negro	Generales	5x2	13	0	Publicado	Marcela Tello-ElDia	2017-3-9 00:00:00	
+124886	SINDY GONZALEZ MARCHANT	Par	Blanco y negro	Generales	10x2	13	0	Publicado	Marcela Tello-ElDia	2017-3-9 00:00:00	
+124837	DIARIO EL DIA	Par	Blanco y negro	Generales	6x1	15	0	Publicado	Marcela Tello-ElDia	2017-3-9 00:00:00	
+123574	LABORATORIO CLINICO STA. MARIA LA S	Par	Blanco y negro	Generales	6x2	15	7.470	Publicado	Miguel Apey	2017-3-9 00:00:00	
+124791	SERVICIOS DE TRANSPORTES DE PASAJER	Par	Blanco y negro	Generales	7x2	15	51.268	Publicado	Miguel Apey	2017-3-9 00:00:00	
+123157	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	6x6	16	0	Publicado	Claudio Romero	2017-3-9 00:00:00	
+123518	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	16	8.306	Publicado	Miguel Apey	2017-3-9 00:00:00	
+124950	DIARIO EL DIA	Par	Cuatricromia	Generales	5x6	17	0	Publicado	Marcela Tello-ElDia	2017-3-9 00:00:00	
+124380	SOC. ESPARTANO AZUL LTDA.	Par	Blanco y negro	Generales	5x2	24	12.079	Publicado	Heinger Vega Torres	2017-3-9 00:00:00	
+124607	AGUAS DEL VALLE S.A.	Par	Cuatricromia	Generales	5x6	25	50.000	Publicado	Heinger Vega Torres	2017-3-9 00:00:00	
+124875	CLUB DE DEPORTES LA SERENA	Par	Cuatricromia	Generales	17x3	28	0	Publicado	Marcela Tello-ElDia	2017-3-9 00:00:00	
+123589	CASA DEL PERNO	Par	Blanco y negro	Generales	5x3	29	23.071	Publicado	Miguel Apey	2017-3-9 00:00:00	
+124725	PILLA LA VACA	Par	Blanco y negro	Generales	5x2	30	0	Publicado	Marcela Tello-ElDia	2017-3-9 00:00:00	
+124711	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	30	0	Publicado	Marcela Tello-ElDia	2017-3-9 00:00:00	
+120959	CERNA E HIJOS CIA. LTDA.	Par	Blanco y negro	Generales	5x1	30	4.468	Publicado	Nadia Randolph	2017-3-9 00:00:00	
+121791	SOC. DE GES			UIP	5x1	30	8.937	Publicado	Miguel Apey	2017-3-9 00:00:00	
+123126	armaq			UIP	5x1	30	8.937	Publicado	Claudio Romero	2017-3-9 00:00:00	
+123035	sercomp ruiz			UIP	5x2	30	8.936	Publicado	Marcela Tello-ElDia	2017-3-9 00:00:00	
+124472	SERVICIOS GENERALES GUAYACAN S.A	Par	Blanco y negro	Generales	4x2	31	6.666	Publicado	Jacqueline Torres	2017-3-9 00:00:00	
+122882	VELIZ CORTES JOSE A.	Par	Blanco y negro	Generales	3x2	31	13.403	Publicado	Pedro Cortes	2017-3-9 00:00:00	
+124951	DIARIO EL DIA	Par	Cuatricromia	Generales	17x6	EC-21	0	Publicado	Marcela Tello-ElDia	2017-3-9 00:00:00	
+123743	HOTELERIA LUIS ALBERTO BERETTA KIEK	Par	Blanco y negro	Generales	5x2	EC-21	6.061	Publicado	Patricia Villena	2017-3-9 00:00:00	
+124362	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Generales	5x1	EC-21	6.043	Publicado	Rene Pizarro	2017-3-9 00:00:00	
+124872	BRAVO DE VON TROTT CARMEN	1027 Palabras		Propiedades	x	PROP	164.320	Publicado	Claudio Romero	2017-3-9 00:00:00	
+124871	MONSERRAT NU?EZ PROPIEDADES LTDA.	752 Palabras		Propiedades	x	PROP	120.320	Publicado	Claudio Romero	2017-3-9 00:00:00	

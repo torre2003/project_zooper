@@ -1,0 +1,46 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+109628	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Cuatricromia	Medios Regionales	16x6	05	309.344	Publicado	Medios Regionales	2016-8-18 00:00:00	
+108394	ILUSTRE MUNICIPALIDAD DE MONTE PATR	Par	Blanco y negro	Generales	15x2	07	76.902	Publicado	Claudio Romero	2016-8-18 00:00:00	
+109636	ILUSTRE MUNICIPALIDAD DE LOS VILOS	Par	Blanco y negro	Generales	15x2	07	74.705	Publicado	Jacqueline Torres	2016-8-18 00:00:00	
+109640	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	10x3	08	65.220	Publicado	Medios Regionales	2016-8-18 00:00:00	
+109230	DABED Y CIA. LTDA., SELIM	Par	Cuatricromia	Generales	7x6	09	27.690	Publicado	Marcela Tello-ElDia	2016-8-18 00:00:00	
+108074	DIARIO EL DIA	Par	Cuatricromia	Generales	8x6	10	0	Publicado	Marcela Tello-ElDia	2016-8-18 00:00:00	
+107704	DIARIO EL DIA	Par	Cuatricromia	Generales	17x6	11	0	Publicado	Marcela Tello-ElDia	2016-8-18 00:00:00	
+108217	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	12	0	Publicado	Marcela Tello-ElDia	2016-8-18 00:00:00	
+107937	LABORATORIO CLINICO STA. MARIA LA S	Par	Blanco y negro	Generales	6x2	13	7.470	Publicado	Miguel Apey	2016-8-18 00:00:00	
+108344	DIARIO EL DIA	Par	Blanco y negro	Generales	5x2	13	0	Publicado	Marcela Tello-ElDia	2016-8-18 00:00:00	
+108119	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	5x2	13	0	Publicado	Miguel Apey	2016-8-18 00:00:00	
+109271	RE-FRESCA			UIP	5x1	14	8.937	Publicado	Pedro Jaime	2016-8-18 00:00:00	
+109604	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	10x4	15	86.960	Publicado	Medios Regionales	2016-8-18 00:00:00	
+109398	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	6x2	15	26.088	Publicado	Medios Regionales	2016-8-18 00:00:00	
+109646	DIARIO EL DIA	Par	Cuatricromia	Generales	34x6	16	0	Publicado	Marcela Tello-ElDia	2016-8-18 00:00:00	
+107885	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	17	8.306	Publicado	Miguel Apey	2016-8-18 00:00:00	
+107853	SOC. DE GES			UIP	5x1	18	8.937	Publicado	Miguel Apey	2016-8-18 00:00:00	
+107423	INV. GASTRONOMICAS PATRICIA TORO EI	Par	Blanco y negro	Generales	5x2	18	8.973	Publicado	Nadia Randolph	2016-8-18 00:00:00	
+109518	arevalo CARMEN			UIP	5x1	18	8.937	Publicado	Pedro Jaime	2016-8-18 00:00:00	
+107812	ARMAQ			UIP	5x1	18	8.937	Publicado	Claudio Romero	2016-8-18 00:00:00	
+109613	UBILLUS MIGUEL			UIP	5x1	18	8.937	Publicado	Pedro Jaime	2016-8-18 00:00:00	
+108423	CERNA E HIJOS CIA. LTDA.	Par	Blanco y negro	Generales	5x1	18	4.468	Publicado	Nadia Randolph	2016-8-18 00:00:00	
+109381	doris almonacid			UIP	5x1	18	8.937	Publicado	Paola Marquez	2016-8-18 00:00:00	
+108299	PILLA LA VACA	Par	Blanco y negro	Generales	5x2	18	0	Publicado	Marcela Tello-ElDia	2016-8-18 00:00:00	
+108283	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	18	0	Publicado	Marcela Tello-ElDia	2016-8-18 00:00:00	
+109635	CONSEJO DEFENSA DEL ESTADO	Par	Blanco y negro	Generales	35x6	21	584.537	Publicado	Jacqueline Torres	2016-8-18 00:00:00	
+110871	CONSEJO DEFENSA DEL ESTADO	Par	Blanco y negro	Generales	30x1	21	73.750	Publicado	Jacqueline Torres	2016-8-18 00:00:00	
+107634	SOC HOTELERA Y DE TURISMO HACIENDA 	Par	Cuatricromia	Generales	5x6	23	9.063	Publicado	Patricia Villena	2016-8-18 00:00:00	
+109335	DIARIO EL DIA	Par	Blanco y negro	Generales	35x6	24	0	Publicado	Carolina Naranjo	2016-8-18 00:00:00	
+109408	DIARIO EL DIA	Impar	Blanco y negro	Generales	35x6	25	0	Publicado	Carolina Naranjo	2016-8-18 00:00:00	
+109639	CLUB DE DEPORTES LA SERENA	Par	Cuatricromia	Generales	17x3	28	0	Publicado	Marcela Tello-ElDia	2016-8-18 00:00:00	
+107972	MAQUINARIAS TANNY NOGALES BELTRAN E	Par	Blanco y negro	Generales	5x3	29	54.930	Publicado	Pedro Jaime	2016-8-18 00:00:00	
+107947	CASA DEL PERNO	Par	Blanco y negro	Generales	5x3	29	23.071	Publicado	Miguel Apey	2016-8-18 00:00:00	
+109445	HAMBURGO			UIP	5x2	30	17.875	Publicado	Pedro Jaime	2016-8-18 00:00:00	
+106955	SOC.COMERCIAL ALTOS LA SERENA LTDA	Par	Blanco y negro	Generales	5x2	30	8.973	Publicado	Nadia Randolph	2016-8-18 00:00:00	
+108690	SERVICIOS GASTRON?MICOS LA CASONA D	Par	Blanco y negro	Generales	5x2	30	10.725	Publicado	Miguel Apey	2016-8-18 00:00:00	
+107917	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	4x5	30	20.508	Publicado	Miguel Apey	2016-8-18 00:00:00	
+109179	SERVICIOS GENERALES GUAYACAN S.A	Par	Blanco y negro	Generales	4x2	31	6.666	Publicado	Jacqueline Torres	2016-8-18 00:00:00	
+109428	VELIZ CORTES JOSE A.	Par	Blanco y negro	Generales	3x2	31	13.403	Publicado	Pedro Cortes	2016-8-18 00:00:00	
+109316	DIARIO EL DIA	Par	Blanco y negro	Generales	5x2	EC-19	0	Publicado	Marcela Tello-ElDia	2016-8-18 00:00:00	
+109692	DIARIO EL DIA	Par	Blanco y negro	Generales	17x6	EC-20	0	Publicado	Marcela Tello-ElDia	2016-8-18 00:00:00	
+109638	SANTANDER G.R.C.	1388 Palabras		Legal	x	EC-20	344.370	Publicado	Pedro Jaime	2016-8-18 00:00:00	
+108835	HOTELERIA LUIS ALBERTO BERETTA KIEK	Par	Blanco y negro	Generales	5x2	EC-20	6.994	Publicado	Patricia Villena	2016-8-18 00:00:00	
+108010	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Generales	5x1	EC-20	5.860	Publicado	Rene Pizarro	2016-8-18 00:00:00	
+109683	BAKULIC RESTAURANT	40 Palabras		Propiedades	x	PROP	6.400	Publicado	Miguel Apey	2016-8-18 00:00:00	

@@ -1,0 +1,47 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+150278	ARZOBISPADO DE LA SERENA	Par	Blanco y negro	Generales	5x2	04	0	Publicado	Marcela Tello-ElDia	2018-2-17 00:00:00	
+149477	C.M. SOC. GASTRONOMICA LTDA.			UIP	5x2	04	7.208	Publicado		2018-2-17 00:00:00	
+148853	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	5x2	04	0	Publicado	Miguel Apey	2018-2-17 00:00:00	
+149488	ARTICULOS DEPORTIVOS BELSPORT S.A.	Impar	Cuatricromia	Generales	17x6	05	282.385	Publicado		2018-2-17 00:00:00	
+150167	DIARIO EL DIA	Par	Cuatricromia	Generales	8x6	06	0	Publicado	Marcela Tello-ElDia	2018-2-17 00:00:00	
+146557	INMOBILIARIA NOLLAGAM LTDA.	Impar	Cuatricromia	Generales	17x6	07	541.237	Publicado	Paola Marquez	2018-2-17 00:00:00	
+150519	EMPRESA NEPTUNO IND. COM. LTDA.	Par	Blanco y negro	Generales	5x2	08	27.374	Publicado		2018-2-17 00:00:00	
+150516	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	16x2	08	79.397	Publicado	Medios Regionales	2018-2-17 00:00:00	
+149362	INMOBILIARIA OVCO	Par	Cuatricromia	Generales	17x6	09	420.963	Publicado	Miguel Apey	2018-2-17 00:00:00	
+150463	INMOBILIARIA ELQUI S.A.	Par	Cuatricromia	Generales	9x6	12	0	Arte	M Cristina Puga	2018-2-17 00:00:00	
+150336	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Cuatricromia	Medios Regionales	10x6	13	254.541	Publicado	Medios Regionales	2018-2-17 00:00:00	
+150462	INMOBILIARIA ELQUI S.A.	Par	Cuatricromia	Generales	9x6	14	0	Arte	M Cristina Puga	2018-2-17 00:00:00	
+150518	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Cuatricromia	Medios Regionales	10x2	15	155.295	Publicado	Medios Regionales	2018-2-17 00:00:00	
+150517	SERV. AGRICOLA Y GANADERO	Par	Blanco y negro	Generales	17x3	15	126.719	Publicado	Jacqueline Torres	2018-2-17 00:00:00	
+148434	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	17	8.306	Publicado	Miguel Apey	2018-2-17 00:00:00	
+148136	INVERSIONES NEORENTAS LA SERENA SPA	Impar	Cuatricromia	Generales	17x6	17	451.031	Publicado	Paola Marquez	2018-2-17 00:00:00	
+150470	OVCO LTDA.	Par	Blanco y negro	Generales	5x1	18	21.057	Publicado	Miguel Apey	2018-2-17 00:00:00	
+149599	PILLA LA VACA	Par	Blanco y negro	Generales	5x2	18	0	Publicado	Marcela Tello-ElDia	2018-2-17 00:00:00	
+150460	DIRECCION GENERAL DEL CREDITO PREND	Par	Blanco y negro	Generales	18x2	18	106.125	Publicado	Jacqueline Torres	2018-2-17 00:00:00	
+150443	ARENA CHILE S.A.	Impar	Cuatricromia	Generales	17x6	19	360.825	Publicado	Kathine Soto-Stgo	2018-2-17 00:00:00	
+150502	TRANSBANK S.A.	Impar	Cuatricromia	Generales	17x6	21	360.825	Publicado	Kathine Soto-Stgo	2018-2-17 00:00:00	
+150557	DIARIO EL DIA	Par	Cuatricromia	Generales	17x6	22	0	Publicado	Marcela Tello-ElDia	2018-2-17 00:00:00	
+149330	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	6x6	23	51.666	Publicado	Claudio Romero	2018-2-17 00:00:00	
+150495	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	10x2	27	49.623	Publicado	Medios Regionales	2018-2-17 00:00:00	
+150558	DIARIO EL DIA	Par	Cuatricromia	Generales	34x6	27	0	Publicado	Marcela Tello-ElDia	2018-2-17 00:00:00	
+149671	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	29	0	Publicado	Marcela Tello-ElDia	2018-2-17 00:00:00	
+149627	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	30	0	Publicado	Marcela Tello-ElDia	2018-2-17 00:00:00	
+150199	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	4x5	30	20.508	Publicado	Miguel Apey	2018-2-17 00:00:00	
+148596	CERNA E HIJOS CIA. LTDA.	Par	Blanco y negro	Generales	5x1	30	3.574	Publicado	Nadia Randolph	2018-2-17 00:00:00	
+149295	ARMAQ SUBIRI S.A.			UIP	5x1	30	8.937	Publicado	Claudio Romero	2018-2-17 00:00:00	
+148486	SOC. DE GES			UIP	5x1	30	8.937	Publicado	Miguel Apey	2018-2-17 00:00:00	
+150343	CAMPOS DEL NORTE S.A.	Par	Cuatricromia	Generales	17x3	31	0	Publicado	Patricia Villena	2018-2-17 00:00:00	
+150435	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	31	0	Publicado	Marcela Tello-ElDia	2018-2-17 00:00:00	
+150220	CORPORACION REGIONAL DE DESARROLLO 	Impar	Cuatricromia	Generales	5x6	33	129.196	Publicado	Patricia Villena	2018-2-17 00:00:00	
+150559	DIARIO EL DIA	Par	Cuatricromia	Generales	34x6	34	0	Publicado	Carolina Naranjo	2018-2-17 00:00:00	
+150560	DIARIO EL DIA	Par	Cuatricromia	Generales	12x6	36	0	Publicado	Marcela Tello-ElDia	2018-2-17 00:00:00	
+150374	ANDREA YAZIGI SFEIR	Par	Blanco y negro	Generales	5x2	39	8.401	Publicado	Heinger Vega Torres	2018-2-17 00:00:00	
+150376	JUAN SEBASTIAN BOU LAGUNAS	Par	Blanco y negro	Generales	5x2	39	13.750	Publicado	Heinger Vega Torres	2018-2-17 00:00:00	
+149808	CIA. DE LEASING TATTERSALL S.A.	Par	Blanco y negro	Generales	11x2	EC-24	69.487	Publicado	Pedro Jaime	2018-2-17 00:00:00	
+150446	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	10x2	EC-24	49.623	Publicado	Medios Regionales	2018-2-17 00:00:00	
+150508	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	10x2	EC-25	49.623	Publicado	Medios Regionales	2018-2-17 00:00:00	
+150097	SOC. COMERCIAL VARGAS Y GIACOMET			UIP	5x1	EC-25	7.149	Publicado	Rene Pizarro	2018-2-17 00:00:00	
+150512	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	10x2	EC-26	49.623	Publicado	Medios Regionales	2018-2-17 00:00:00	
+124110	HOTELERIA LUIS ALBERTO BERETTA KIEK	Par	Blanco y negro	Generales	5x2	EC-26	6.061	Publicado	Patricia Villena	2018-2-17 00:00:00	
+149569	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Economico	5x2	EC-26	15.161	Publicado	Rene Pizarro	2018-2-17 00:00:00	
+148753	INMOBILIARIA GRUPO CHILOE LTDA.	Par	Cuatricromia	Ed.Especial	35x6	INS	705.730	Publicado	Jacqueline Torres	2018-2-17 00:00:00	

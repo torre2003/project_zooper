@@ -1,0 +1,29 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+149448	INMOBILIARIA ECASA CHILE S.A.	Par	Cuatricromia	Generales	34x6	05	350.000	Publicado	Paola Marquez	2018-2-27 00:00:00	
+149485	C.M. SOC. GASTRONOMICA LTDA.			UIP	5x2	06	7.208	Publicado		2018-2-27 00:00:00	
+148862	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	5x2	06	0	Publicado	Miguel Apey	2018-2-27 00:00:00	
+149490	ARTICULOS DEPORTIVOS BELSPORT S.A.	Impar	Cuatricromia	Generales	17x6	07	282.385	Publicado		2018-2-27 00:00:00	
+149447	INMOBILIARIA ECASA CHILE S.A.	Par	Cuatricromia	Generales	34x6	09	350.000	Publicado	Paola Marquez	2018-2-27 00:00:00	
+150852	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Generales	8x2	10	58.592	Publicado	Marcela Tello-ElDia	2018-2-27 00:00:00	
+148093	UNIVERSIDAD TECNOLOGICA DE CHILE	Impar	Cuatricromia	Generales	17x6	11	470.641	Publicado	Patricia Villena	2018-2-27 00:00:00	
+150690	PAOLA MILLA INVERNIZZI	Par	Blanco y negro	Generales	6x2	13	0	Publicado	Marcela Tello-ElDia	2018-2-27 00:00:00	
+150717	GOTTREUX SALAS RUBEN	Par	Blanco y negro	Generales	8x2	13	58.592	Publicado	Karina Rivera	2018-2-27 00:00:00	
+150737	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	8x2	13	36.523	Publicado	Medios Regionales	2018-2-27 00:00:00	
+148444	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	13	8.306	Publicado	Miguel Apey	2018-2-27 00:00:00	
+149666	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	17	0	Publicado	Marcela Tello-ElDia	2018-2-27 00:00:00	
+150699	ARZOBISPADO DE LA SERENA	Par	Blanco y negro	Generales	9x3	18	0	Publicado	Marcela Tello-ElDia	2018-2-27 00:00:00	
+149336	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	6x6	23	51.666	Publicado	Claudio Romero	2018-2-27 00:00:00	
+150177	DIARIO EL DIA	Par	Cuatricromia	Generales	8x6	24	0	Publicado	Marcela Tello-ElDia	2018-2-27 00:00:00	
+148480	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	4x5	25	20.508	Publicado	Miguel Apey	2018-2-27 00:00:00	
+148493	SOC. DE GES			UIP	5x1	25	8.937	Publicado	Miguel Apey	2018-2-27 00:00:00	
+149622	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	25	0	Publicado	Marcela Tello-ElDia	2018-2-27 00:00:00	
+148604	CERNA E HIJOS CIA. LTDA.	Par	Blanco y negro	Generales	5x1	25	3.574	Publicado	Nadia Randolph	2018-2-27 00:00:00	
+149315	ARMAQ SUBIRI S.A.			UIP	5x1	25	8.937	Publicado	Claudio Romero	2018-2-27 00:00:00	
+150416	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Cuatricromia	Medios Regionales	16x6	27	324.811	Publicado	Medios Regionales	2018-2-27 00:00:00	
+150867	BUALE GRUP LTDA.	Par	Cuatricromia	Generales	17x6	28	210.000	Publicado	Marcela Tello-ElDia	2018-2-27 00:00:00	
+149449	INMOBILIARIA ECASA CHILE S.A.	Par	Cuatricromia	Generales	34x6	32	350.000	Publicado	Paola Marquez	2018-2-27 00:00:00	
+150695	FRANCISCO CORRALES GONZALEZ	Par	Blanco y negro	Generales	6x2	EC-20	30.322	Publicado	Pedro Jaime	2018-2-27 00:00:00	
+124120	HOTELERIA LUIS ALBERTO BERETTA KIEK	Par	Blanco y negro	Generales	5x2	EC-21	6.061	Publicado	Patricia Villena	2018-2-27 00:00:00	
+150108	SOC. COMERCIAL VARGAS Y GIACOMET			UIP	5x1	EC-21	7.149	Publicado	Rene Pizarro	2018-2-27 00:00:00	
+149581	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Economico	5x2	EC-21	15.161	Publicado	Rene Pizarro	2018-2-27 00:00:00	
+150911	DIARIO EL DIA	Par	Cuatricromia	Generales	12x6	EC-21	0	Publicado	Marcela Tello-ElDia	2018-2-27 00:00:00	

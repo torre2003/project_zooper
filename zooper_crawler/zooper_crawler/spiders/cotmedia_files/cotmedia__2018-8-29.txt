@@ -1,0 +1,36 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	fecha_publicacion	
+162481	SOCIEDAD DE RENTAS FALABELLA S.A	Impar	Cuatricromia	Generales	8x6	05	135.840	Publicado	M Cristina Puga	2018-8-29 00:00:00	
+162641	CLUB DEPORTES COQUIMBO UNIDO	Par	Cuatricromia	Generales	17x3	07	0	Publicado	Marcela Tello-ElDia	2018-8-29 00:00:00	
+162611	BUALE GRUP LTDA.	Par	Cuatricromia	Generales	17x3	07	60.000	Publicado	Claudio Romero	2018-8-29 00:00:00	
+162232	ALIMENTOS FRUNA LIMITADA	Par	Cuatricromia	Generales	17x3	09	149.410	Publicado		2018-8-29 00:00:00	
+162262	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	10x4	13	91.320	Publicado	Medios Regionales	2018-8-29 00:00:00	
+162142	ARZOBISPADO DE LA SERENA	Par	Blanco y negro	Generales	10x2	13	0	Publicado	Marcela Tello-ElDia	2018-8-29 00:00:00	
+160796	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	4x5	14	20.508	Publicado	Miguel Apey	2018-8-29 00:00:00	
+160765	FACTOR ONE S.A.	Par	Cuatricromia	Generales	3x2	14	8.306	Publicado	Miguel Apey	2018-8-29 00:00:00	
+160853	CENTRO TECNICO ACUARELA LTDA.	Par	Blanco y negro	Generales	5x2	14	20.874	Publicado	Rene Pizarro	2018-8-29 00:00:00	
+160926	ARMAQ SUBIRI S.A.			UIP	5x1	14	8.937	Publicado	Claudio Romero	2018-8-29 00:00:00	
+160664	INVERSIONES ALTA CRUZ LTDA	Par	Blanco y negro	Generales	5x2	14	0	Publicado	Marcela Tello-ElDia	2018-8-29 00:00:00	
+162430	SOC. DE GES			UIP	5x1	14	8.937	Publicado	Miguel Apey	2018-8-29 00:00:00	
+160612	SOC. GASTRONOMICA Y DE TURISMO MART	Par	Blanco y negro	Generales	5x2	14	0	Publicado	Marcela Tello-ElDia	2018-8-29 00:00:00	
+160467	C.M. SOC. GASTRONOMICA LTDA.			UIP	5x2	14	7.208	Publicado		2018-8-29 00:00:00	
+160839	INVERSIONES ANDES S.A.C.	Par	Blanco y negro	Generales	5x2	14	0	Publicado	Miguel Apey	2018-8-29 00:00:00	
+161739	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	16	0	Publicado	Marcela Tello-ElDia	2018-8-29 00:00:00	
+162624	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	6x2	17	27.396	Publicado	Medios Regionales	2018-8-29 00:00:00	
+161052	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	17	0	Publicado	Marcela Tello-ElDia	2018-8-29 00:00:00	
+161446	AGUAS DEL VALLE S.A.	Par	Cuatricromia	Generales	5x6	25	50.000	Publicado	Heinger Vega Torres	2018-8-29 00:00:00	
+160971	CAMPOS DEL NORTE S.A.	Par	Cuatricromia	Generales	17x3	27	0	Publicado	Patricia Villena	2018-8-29 00:00:00	
+162587	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	27	0	Publicado	Marcela Tello-ElDia	2018-8-29 00:00:00	
+162453	DIARIO EL DIA	Par	Cuatricromia	Generales	34x6	28	0	Publicado	Marcela Tello-ElDia	2018-8-29 00:00:00	
+162621	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	10x2	29	45.660	Publicado	Medios Regionales	2018-8-29 00:00:00	
+162640	DIARIO EL DIA	Par	Blanco y negro	Generales	5x6	29	0	Publicado	Marcela Tello-ElDia	2018-8-29 00:00:00	
+162638	DIARIO EL DIA	Par	Blanco y negro	Generales	12x6	EC-18	0	Publicado	Marcela Tello-ElDia	2018-8-29 00:00:00	
+162612	SOTRALITUR S.A.	Par	Blanco y negro	Generales	9x2	EC-18	52.733	Publicado	Pedro Jaime	2018-8-29 00:00:00	
+162267	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	8x2	EC-18	36.528	Publicado	Medios Regionales	2018-8-29 00:00:00	
+162521	MOP OOPP	Impar	Blanco y negro	Generales	12x1	EC-19	52.733	Publicado	Jacqueline Torres	2018-8-29 00:00:00	
+162520	MOP OOPP	Impar	Blanco y negro	Generales	12x1	EC-19	52.733	Publicado	Jacqueline Torres	2018-8-29 00:00:00	
+162519	MOP OOPP	Impar	Blanco y negro	Generales	12x1	EC-19	52.733	Publicado	Jacqueline Torres	2018-8-29 00:00:00	
+162516	MOP OOPP	Impar	Blanco y negro	Generales	12x1	EC-19	52.733	Publicado	Jacqueline Torres	2018-8-29 00:00:00	
+162515	MOP OOPP	Impar	Blanco y negro	Generales	12x1	EC-19	52.733	Publicado	Jacqueline Torres	2018-8-29 00:00:00	
+162639	DIARIO EL DIA	Par	Blanco y negro	Generales	12x2	EC-19	0	Publicado	Marcela Tello-ElDia	2018-8-29 00:00:00	
+160276	INVERSIONES DE TURISMO LOS LAGOS S.	Par	Blanco y negro	Generales	5x2	EC-19	7.003	Publicado	Rene Pizarro	2018-8-29 00:00:00	
+152173	HOTELERIA LUIS ALBERTO BERETTA KIEK	Par	Blanco y negro	Generales	5x2	EC-19	6.061	Publicado	Patricia Villena	2018-8-29 00:00:00	

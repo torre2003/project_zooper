@@ -1,0 +1,10 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+80973	SOCIEDAD DE RENTAS FALABELLA S.A	Impar	Cuatricromia	Generales	35x3	03	200.000	Publicado	M Cristina Puga	OPEN Plaza /	2015-8-27 00:00:00	
+81986	jorge al			UIP	5x2	05	2.808	Publicado	Italo Retamal	abogado	2015-8-27 00:00:00	
+82635	Tita alamo			UIP	5x2	05	2.808	Publicado	Italo Retamal	terreno medieria	2015-8-27 00:00:00	
+82886	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	12x6	06	0	Publicado	Marcela Tello-ElDia	Obra de Teatro - Romeo y Julieta - Suscriptores	2015-8-27 00:00:00	
+80813	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	10x3	07	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2015-8-27 00:00:00	
+81167	florencia			UIP	10x2	07	5.630	Publicado	Italo Retamal	tienda exotica	2015-8-27 00:00:00	
+82210	SOCIEDAD COMERCIAL KATANKURA LTDA	Par	Cuatricromia	Generales	6x6	09	25.000	Publicado	Italo Retamal	evento katankura 	2015-8-27 00:00:00	
+82875	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x3	11	0	Publicado	Marcela Tello-ElDia	Vea la Memoria del Agua - (Productora Warner)	2015-8-27 00:00:00	
+83001	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x6	14	0	Publicado	Marcela Tello-ElDia	El Ovallino - www.elovallino.cl	2015-8-27 00:00:00	

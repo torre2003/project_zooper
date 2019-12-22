@@ -1,0 +1,13 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+89098	RIO L			UIP	10x6	03	16.260	Publicado	Claudio Romero	PROYECTO MIRADOR OVALLE..	2015-12-4 00:00:00	
+90515	ILUSTRE MUNICIPALIDAD DE MONTE PATR	Par	Blanco y negro	Generales	17x3	04	81.637	Publicado	Italo Retamal	Libro comida 	2015-12-4 00:00:00	
+88714	ADA D?AZ ARAYA	Par	Blanco y negro	Generales	5x2	05	1.428	Publicado	Italo Retamal	zona ganjah	2015-12-4 00:00:00	
+89337	JUAN CARLOS AQUEZ JILES	Par	Blanco y negro	Generales	5x2	05	1.429	Publicado	Italo Retamal	Capacitaciones 	2015-12-4 00:00:00	
+89524	PAMELA HARDER SANTOS	Par	Blanco y negro	Generales	5x2	05	1.428	Publicado	Italo Retamal	venta de casa harder	2015-12-4 00:00:00	
+90390	DIARIO EL DIA	Par	Cuatricromia	Generales	17x3	06	0	Publicado	Marcela Tello-ElDia	VEA EN CINEMARK	2015-12-4 00:00:00	
+90359	SERVICIOS TASUI S.A.	Impar	Blanco y negro	Generales	10x2	07	56.496	Publicado	Rene Pizarro	Tarifado 2016  Vertedero El Incienso..	2015-12-4 00:00:00	
+88506	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	10x3	07	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2015-12-4 00:00:00	
+90330	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	6x6	09	16.065	Publicado	Claudio Romero	Muebles Alpina	2015-12-4 00:00:00	
+90510	ILUSTRE MUNICIPALIDAD DE OVALLE	Impar	Cuatricromia	Generales	24x3	11	166.666	Publicado	Italo Retamal	Elecciones 	2015-12-4 00:00:00	
+90453	SOCIEDAD COMERCIAL KATANKURA LTDA	Par	Cuatricromia	Generales	6x6	14	25.000	Publicado	Italo Retamal	evento katankura 	2015-12-4 00:00:00	
+90478	EMPRESAS LA POLAR S.A.		9 a 24 pag.	Inserto	x	INS	160.000	Publicado	Patricia Villena	INSERTO NAVIDAD TECNOLOGIA	2015-12-4 00:00:00	

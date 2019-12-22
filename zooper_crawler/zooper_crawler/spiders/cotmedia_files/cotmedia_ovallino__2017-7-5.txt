@@ -1,0 +1,9 @@
+op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
+133283	PEDRO ANDRES MONARDEZ ELGUETA	Par	Cuatricromia	Generales	6x6	01	25.000	Publicado	Karina Rivera	Restaurant Riquisimo	2017-7-5 00:00:00	
+133180	SOCIEDAD DE RENTAS FALABELLA S.A	Par	Cuatricromia	Generales	17x6	03	200.000	Publicado	M Cristina Puga	Open Plaza - Mall Ovalle	2017-7-5 00:00:00	
+132829	INMOBILIARIA NUEVA SERENA S.A			UIP	10x6	05	16.260	Publicado	Claudio Romero	proyecto empresa serena...(ovalle)	2017-7-5 00:00:00	
+133284	SUBSECRETARIA DE ENERGIA	Par	Cuatricromia	Generales	13x4	06	141.184	Publicado	Jacqueline Torres	DIFUSION FONDO AL ACCESO DE ENERGIA	2017-7-5 00:00:00	
+133603	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x6	07	0	Arte	Marcela Tello-ElDia	En la comodidad de su hogar...	2017-7-5 00:00:00	
+133119	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	08	0	Arte	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2017-7-5 00:00:00	
+132782	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	6x6	09	16.065	Publicado	Claudio Romero	Muebles Alpina	2017-7-5 00:00:00	
+132722	OVALLE CASINO RESORT S.A	Par	Cuatricromia	Generales	25x4	11	0	Arte	Paola Marquez	OCR Eventos julio	2017-7-5 00:00:00	
