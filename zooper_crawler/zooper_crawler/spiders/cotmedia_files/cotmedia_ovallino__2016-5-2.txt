@@ -1,9 +1,0 @@
-op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
-100656	AGRICOLA NORTE TALINAY LTDA	Par	Blanco y negro	Generales	5x2	05	1.666	Publicado	Paola Marquez	UIP VENTA ALFALFA	2016-5-2 00:00:00	
-101119	EMPRESA PERIODISTICA EL NORTE S.A.	Par	Blanco y negro	Medios Regionales	8x2	05	23.120	Publicado	Medios Regionales	Enami - Extracto - (80053)	2016-5-2 00:00:00	
-101585	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	08	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2016-5-2 00:00:00	
-101445	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	6x6	11	16.065	Publicado	Claudio Romero	Muebles Alpina	2016-5-2 00:00:00	
-101545	JUNTA DE VIGILANCIA RIO GRANDE LIMA	Par	Blanco y negro	Generales	15x3	12	95.337	Publicado	Leonel Pizarro-Ovalle	CITACION	2016-5-2 00:00:00	
-101762	CAMAL MUSALEM TAPIA Y CIA.	Par	Blanco y negro	Generales	18x3	12	66.096	Publicado	Marcela Tello-ElDia		2016-5-2 00:00:00	
-100621	VALENTINA ANDREA PIZARRO VIERA			UIP	5x2	14	2.808	Publicado	Leonel Pizarro-Ovalle		2016-5-2 00:00:00	
-101735	SOCIEDAD DE RENTAS FALABELLA S.A	Impar	Cuatricromia	Generales	35x6	16	400.000	Publicado	M Cristina Puga	Open 	2016-5-2 00:00:00	

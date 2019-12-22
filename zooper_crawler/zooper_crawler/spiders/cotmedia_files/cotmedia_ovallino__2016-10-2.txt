@@ -1,9 +1,0 @@
-op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
-113461	CAMAL MUSALEM TAPIA Y CIA.	Par	Blanco y negro	Generales	19x4	03	93.024	Publicado	Marcela Tello-ElDia	Musalem te espera en La Serena y Ovalle - Toyota	2016-10-2 00:00:00	
-113375	CAMAL MUSALEM TAPIA Y CIA.	Par	Blanco y negro	Generales	17x3	05	62.424	Publicado	Marcela Tello-ElDia	Gran Remate de Bodega - Toyota - Nuevo	2016-10-2 00:00:00	
-103001	SOCIEDAD MEDICA Y CONSULTORA ESTETI		Cuatricromia	Guia	5x2	06	13.333	Publicado	Maria_Amelia Hermosilla	Diego Polanco	2016-10-2 00:00:00	
-112733	OVALLE CASINO RESORT S.A	Par	Cuatricromia	Generales	25x4	08	171.372	Publicado	Paola Marquez		2016-10-2 00:00:00	
-112735	OVALLE CASINO RESORT S.A	Par	Cuatricromia	Generales	35x6	09	359.880	Publicado	Paola Marquez		2016-10-2 00:00:00	
-113217	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	10	0	Arte	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2016-10-2 00:00:00	
-113297	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	15x6	11	0	Arte	Marcela Tello-ElDia	Festival Aereo	2016-10-2 00:00:00	
-113499	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	6x6	14	0	Arte	Marcela Tello-ElDia		2016-10-2 00:00:00	

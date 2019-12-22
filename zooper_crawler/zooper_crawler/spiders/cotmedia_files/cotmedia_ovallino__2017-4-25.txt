@@ -1,9 +1,0 @@
-op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
-127857	SOCIEDAD DE RENTAS FALABELLA S.A	Par	Cuatricromia	Generales	8x6	01	50.980	Publicado	M Cristina Puga		2017-4-25 00:00:00	
-127469	AGRICOLA NORTE TALINAY LTDA	Par	Blanco y negro	Generales	5x2	05	1.666	Publicado	Paola Marquez	UIP VENTA ALFALFA	2017-4-25 00:00:00	
-127701	FERNANDO SANCH			UIP	5x2	05	2.808	Publicado	Karina Rivera	AGUAS SUBTERRANEAS 	2017-4-25 00:00:00	
-127713	JACQUELINE JOFRE VILLANUEVA			UIP	5x2	05	2.808	Publicado	Karina Rivera	Cortinas Rollers	2017-4-25 00:00:00	
-127505	SANTO T			UIP	10x6	07	16.260	Publicado	Claudio Romero	DIPLOMADO GESTION INTEGRADA..	2017-4-25 00:00:00	
-127956	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x6	08	0	Publicado	Marcela Tello-ElDia		2017-4-25 00:00:00	
-126221	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	09	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2017-4-25 00:00:00	
-127957	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	5x6	14	0	Publicado	Marcela Tello-ElDia		2017-4-25 00:00:00	

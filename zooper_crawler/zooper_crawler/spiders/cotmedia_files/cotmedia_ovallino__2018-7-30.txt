@@ -1,7 +1,0 @@
-op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
-159938	SANTO TOMAS S.A.	Impar	Cuatricromia	Generales	17x6	03	216.330	Publicado	Patricia Villena	Ensayo  PSU	2018-7-30 00:00:00	
-158630	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	06	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2018-7-30 00:00:00	
-159870	DABED Y CIA. LTDA., SELIM	Par	Cuatricromia	Generales	6x6	08	23.082	Publicado	Karina Rivera	3 PINTURAS 	2018-7-30 00:00:00	
-158959	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	12x3	09	16.065	Publicado	Claudio Romero	Muebles alpina..	2018-7-30 00:00:00	
-159582	LINA MARCELA CHAPARRO MONTANEZ E.I.			UIP	10x6	11	25.000	Publicado	Karina Rivera		2018-7-30 00:00:00	
-160686	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	6x6	14	0	Arte	Marcela Tello-ElDia		2018-7-30 00:00:00	

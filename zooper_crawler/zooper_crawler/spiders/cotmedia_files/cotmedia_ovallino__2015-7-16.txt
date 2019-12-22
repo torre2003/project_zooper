@@ -1,6 +1,0 @@
-op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
-78683	SOCIEDAD DE RENTAS FALABELLA S.A	Impar	Cuatricromia	Generales	35x3	03	200.000	Publicado	M Cristina Puga	OPEN Plaza /	2015-7-16 00:00:00	
-80034	gatica briones spa			UIP	5x4	05	0	Arte	Italo Retamal	promo hamburguesa 	2015-7-16 00:00:00	
-79032	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	10x3	07	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2015-7-16 00:00:00	
-79413	lara			UIP	10x6	10	16.260	Publicado	Italo Retamal	tcm lara y cia	2015-7-16 00:00:00	
-80230	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x3	11	0	Publicado	Marcela Tello-ElDia	Este 16 ven a Cinemark	2015-7-16 00:00:00	

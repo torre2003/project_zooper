@@ -1,9 +1,0 @@
-op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
-146220	INMOBILIARIA CALEUCHE LTDA	Par	Cuatricromia	Generales	17x6	03	0	Arte	Paola Marquez		2017-12-25 00:00:00	
-146533	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	4x6	05	0	Publicado	Marcela Tello-ElDia		2017-12-25 00:00:00	
-146481	UNIVERSIDAD BOLIVARIANA			UIP	10x2	08	7.882	Publicado	Karina Rivera	CARRERAS UB Y VC	2017-12-25 00:00:00	
-146534	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	10x3	08	0	Publicado	Marcela Tello-ElDia		2017-12-25 00:00:00	
-144792	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	6x6	09	16.065	Publicado	Claudio Romero	Muebles Alpina	2017-12-25 00:00:00	
-145688	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	11	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2017-12-25 00:00:00	
-145996	VELIZ CORTES JOSE A.			UIP	5x2	14	4.695	Publicado	Pedro Cortes		2017-12-25 00:00:00	
-146535	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	6x6	14	0	Publicado	Marcela Tello-ElDia		2017-12-25 00:00:00	

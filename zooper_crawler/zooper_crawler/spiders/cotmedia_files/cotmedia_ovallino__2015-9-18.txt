@@ -1,9 +1,0 @@
-op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
-84800	RSA SEGUROS CHILE S.A	Impar	Cuatricromia	Generales	17x3	03	121.025	Publicado	Italo Retamal	Seguro rsa	2015-9-18 00:00:00	
-81394	tangue			UIP	5x2	05	2.808	Publicado	Patricia Villena	Tanguemar	2015-9-18 00:00:00	
-83202	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	6x6	06	16.065	Publicado	Claudio Romero	Muebles Alpina	2015-9-18 00:00:00	
-84719	punitaqui			UIP	10x6	07	11.149	Publicado	Italo Retamal	pampilla puni 	2015-9-18 00:00:00	
-82696	AUTOMOTRIZ CARMONA	Par	Cuatricromia	Generales	7x6	08	23.077	Publicado	Marcela Tello-ElDia	Ya estamos en Ovalle - Impar	2015-9-18 00:00:00	
-83565	SOCIEDAD COMERCIAL KATANKURA LTDA	Par	Cuatricromia	Generales	6x6	09	25.000	Publicado	Italo Retamal	evento katankura 	2015-9-18 00:00:00	
-84797	INMOBILIARIA NUEVA SERENA	Par	Blanco y negro	Generales	17x6	11	125.000	Publicado	Claudio Romero	 proyecto...llanos de san luis.....	2015-9-18 00:00:00	
-84822	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x6	14	0	Arte	Marcela Tello-ElDia	www.elovallino.cl	2015-9-18 00:00:00	

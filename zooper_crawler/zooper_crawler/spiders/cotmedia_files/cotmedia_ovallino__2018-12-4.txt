@@ -1,9 +1,0 @@
-op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
-171288	UNIVERSIDAD SANTO TOMAS	Impar	Cuatricromia	Generales	25x5	03	265.110	Publicado	Patricia Villena		2018-12-4 00:00:00	
-171313	PRENSA DEL LIMARI LTDA.	Par	Blanco y negro	Generales	6x6	04	0	Arte	Marcela Tello-ElDia		2018-12-4 00:00:00	
-170502	SOC. SERVICIOS TECNOLOGICOS Y TELCO			UIP	10x6	05	16.260	Publicado	Claudio Romero	TELCONOR..AHORA EN OVALLE	2018-12-4 00:00:00	
-168593	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	09	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2018-12-4 00:00:00	
-171032	EMPRESA PERIODISTICA EL NORTE S.A.	Par	Blanco y negro	Medios Regionales	6x2	11	18.204	Arte	Medios Regionales	Remate Banco Santander - (179805)	2018-12-4 00:00:00	
-171218	CRISTIAN VENEGAS			UIP	17x2	11	19.342	Publicado	Karina Rivera	CONVOCATORIA CLUB DEPORTES PROVINCIAL OVALLE	2018-12-4 00:00:00	
-171314	PRENSA DEL LIMARI LTDA.	Par	Blanco y negro	Generales	17x6	12	0	Arte	Marcela Tello-ElDia		2018-12-4 00:00:00	
-171315	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	8x6	14	0	Arte	Marcela Tello-ElDia		2018-12-4 00:00:00	

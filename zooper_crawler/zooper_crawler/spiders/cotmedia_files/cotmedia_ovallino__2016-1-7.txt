@@ -1,8 +1,0 @@
-op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
-92928	ABRIL PUBLICIDAD INVERSIONES Y ASES	Impar	Cuatricromia	Generales	17x6	03	216.330	Publicado	Patricia Villena		2016-1-7 00:00:00	
-91446	INMOBILIARIA OASIS DEL LIMAR? LTDA	Par	Blanco y negro	Generales	5x2	05	1.428	Publicado	Italo Retamal	arriendo local oasis	2016-1-7 00:00:00	
-92430	AGRICOLA NORTE TALINAY LTDA	Par	Blanco y negro	Generales	5x2	05	1.428	Publicado	Italo Retamal	venta fardos	2016-1-7 00:00:00	
-92569	AGRICOLA NORTE TALINAY LTDA	Par	Blanco y negro	Generales	5x2	05	1.428	Publicado	Italo Retamal	Oferta de empleos	2016-1-7 00:00:00	
-92496	COLEGIO GABRIELA MISTRAL	Par	Blanco y negro	Generales	5x2	09	23.540	Publicado	Leonel Pizarro-Ovalle	docentes	2016-1-7 00:00:00	
-92846	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x3	09	0	Arte	Marcela Tello-ElDia		2016-1-7 00:00:00	
-93024	PRENSA DEL LIMARI LTDA.	Par	Blanco y negro	Generales	17x6	14	0	Arte	Marcela Tello-ElDia	www.elovallino.cl	2016-1-7 00:00:00	

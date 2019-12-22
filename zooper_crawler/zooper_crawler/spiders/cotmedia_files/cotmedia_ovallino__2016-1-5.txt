@@ -1,5 +1,0 @@
-op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
-91444	INMOBILIARIA OASIS DEL LIMAR? LTDA	Par	Blanco y negro	Generales	5x2	05	1.428	Publicado	Italo Retamal	arriendo local oasis	2016-1-5 00:00:00	
-92428	AGRICOLA NORTE TALINAY LTDA	Par	Blanco y negro	Generales	5x2	05	1.428	Publicado	Italo Retamal	venta fardos	2016-1-5 00:00:00	
-92567	AGRICOLA NORTE TALINAY LTDA	Par	Blanco y negro	Generales	5x2	05	1.428	Publicado	Italo Retamal	Oferta de empleos	2016-1-5 00:00:00	
-92815	PRENSA DEL LIMARI LTDA.	Par	Blanco y negro	Generales	17x6	14	0	Arte	Marcela Tello-ElDia	www.elovallino.cl	2016-1-5 00:00:00	

@@ -1,9 +1,0 @@
-op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
-114390	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x6	03	0	Arte	Marcela Tello-ElDia		2016-10-16 00:00:00	
-114378	CAMAL MUSALEM TAPIA Y CIA.	Par	Blanco y negro	Generales	16x3	05	58.752	Publicado	Marcela Tello-ElDia		2016-10-16 00:00:00	
-114384	SERVICIO ELECTORAL	Impar	Blanco y negro	Generales	17x3	05	127.354	Publicado	Jacqueline Torres	INFORMA FACSIMIL DE VOTACION	2016-10-16 00:00:00	
-103003	SOCIEDAD MEDICA Y CONSULTORA ESTETI		Cuatricromia	Guia	5x2	06	13.333	Publicado	Maria_Amelia Hermosilla	Diego Polanco	2016-10-16 00:00:00	
-114380	CAMAL MUSALEM TAPIA Y CIA.	Par	Blanco y negro	Generales	26x4	07	127.296	Publicado	Marcela Tello-ElDia	Toyota New Rush 	2016-10-16 00:00:00	
-113929	OVALLE CASINO RESORT S.A	Par	Cuatricromia	Generales	25x4	08	171.372	Publicado	Paola Marquez	OCR Impar	2016-10-16 00:00:00	
-113219	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	10	0	Arte	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2016-10-16 00:00:00	
-114391	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	6x6	14	0	Arte	Marcela Tello-ElDia		2016-10-16 00:00:00	

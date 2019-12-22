@@ -1,8 +1,0 @@
-op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
-118896	SOCIEDAD DE RENTAS FALABELLA S.A	Par	Cuatricromia	Generales	17x6	03	200.000	Publicado	M Cristina Puga	Open Plaza - Mall Ovalle	2016-12-20 00:00:00	
-117860	OVALLEMAR			UIP	5x2	06	3.958	Publicado	Karina Rivera	OVALLE MAR	2016-12-20 00:00:00	
-118314	COMERCIAL AVA 			UIP	10x2	06	7.882	Publicado	Karina Rivera	E BODY OVALLE	2016-12-20 00:00:00	
-119222	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	6x6	08	0	Arte	Marcela Tello-ElDia		2016-12-20 00:00:00	
-115493	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	09	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2016-12-20 00:00:00	
-119216	ILUSTRE MUNICIPALIDAD DE OVALLE	Par	Cuatricromia	Generales	17x6	11	166.666	Publicado	Marcela Tello-ElDia		2016-12-20 00:00:00	
-118586	CABARET Y SALON DE ESPECTACULOS ART			UIP	10x2	14	5.517	Publicado	Karina Rivera	PARADISE CLUB	2016-12-20 00:00:00	

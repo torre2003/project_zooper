@@ -1,7 +1,0 @@
-op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
-97784	AUTOMOTRIZ CARMONA	Par	Cuatricromia	Generales	6x6	03	23.076	Publicado	Marcela Tello-ElDia	Nissan March - Portada (si hay disponibilidad)	2016-3-16 00:00:00	
-97943	parques			UIP	10x2	05	9.765	Publicado	Rene Pizarro	TU TRANQUILIDAD FAMILIAR...PARQUE DE OVALLE...PARQUES DE CHILE...	2016-3-16 00:00:00	
-96826	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	07	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2016-3-16 00:00:00	
-97102	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	6x6	08	0	Publicado	Claudio Romero	Muebles Alpina	2016-3-16 00:00:00	
-97238	DABED Y CIA. LTDA., SELIM	Par	Cuatricromia	Generales	6x6	09	23.076	Publicado	Nadia Randolph	Esc.Oficios 2	2016-3-16 00:00:00	
-98136	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x6	14	0	Arte	Marcela Tello-ElDia		2016-3-16 00:00:00	

@@ -1,6 +1,0 @@
-op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
-96055	AUTOMOTRIZ CARMONA	Par	Cuatricromia	Generales	6x6	01	23.076	Publicado	Marcela Tello-ElDia	Nissan March Active - Portada (si hay disponibilidad)	2016-2-28 00:00:00	
-95370	SOCIEDAD BUSTOS Y PROCURIZA LTDA.	Par	Blanco y negro	Generales	10x2	06	27.542	Publicado	Maria_Amelia Hermosilla	Cento	2016-2-28 00:00:00	
-95118	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	07	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2016-2-28 00:00:00	
-96676	DIARIO EL DIA	Par	Blanco y negro	Generales	35x6	12	0	Publicado	Carolina Naranjo	Sucesos: Lanzamiento de Fiesta de la Vendiminia Ovalle 2016	2016-2-28 00:00:00	
-96600	CAMAL MUSALEM TAPIA Y CIA.	Par	Blanco y negro	Generales	32x4	13	156.672	Publicado	Marcela Tello-ElDia	Toyota Sale	2016-2-28 00:00:00	

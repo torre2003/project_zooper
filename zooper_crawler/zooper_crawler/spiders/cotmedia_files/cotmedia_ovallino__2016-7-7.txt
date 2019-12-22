@@ -1,6 +1,0 @@
-op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
-106380	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	6x6	01	0	Arte	Marcela Tello-ElDia		2016-7-7 00:00:00	
-100388	SOC HOTELERA Y DE TURISMO HACIENDA 	Par	Cuatricromia	Generales	5x6	03	11.299	Publicado	Patricia Villena	Hacienda Juntas	2016-7-7 00:00:00	
-105882	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	09	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2016-7-7 00:00:00	
-104955	OVALLE CASINO RESORT S.A	Par	Cuatricromia	Generales	6x6	11	21.333	Publicado	Paola Marquez	Auspicio Casino Ovalle Impar	2016-7-7 00:00:00	
-106401	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	6x6	14	0	Arte	Marcela Tello-ElDia		2016-7-7 00:00:00	

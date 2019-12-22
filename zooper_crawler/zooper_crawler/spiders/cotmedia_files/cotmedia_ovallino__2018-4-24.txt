@@ -1,8 +1,0 @@
-op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
-154669	PRENSA DEL LIMARI LTDA.	Par	Blanco y negro	Generales	6x6	04	0	Arte	Marcela Tello-ElDia	Cupones Descuentos Cinemark	2018-4-24 00:00:00	
-153515	INMOBILIARIA NUEVA SERENA			UIP	10x6	05	16.260	Publicado	Claudio Romero	proyecto empresas serena - SE CONFIRMARA SI REPITE O ES NUEVO	2018-4-24 00:00:00	
-154670	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x6	08	0	Arte	Marcela Tello-ElDia		2018-4-24 00:00:00	
-154058	JORGE CANEO NU?EZ			UIP	5x2	10	2.808	Publicado	Patricia Villena	Casas bychome	2018-4-24 00:00:00	
-154664	DEL RIO VARELA JORGE	Par	Blanco y negro	Generales	12x3	10	59.321	Publicado	Pedro Jaime	JDV REMATE 27 ABRIL - AUTOMOVIL GREAT WALL, 13 X  4 , LIGHTS, 	2018-4-24 00:00:00	
-153234	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	11	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2018-4-24 00:00:00	
-154671	PRENSA DEL LIMARI LTDA.	Par	Blanco y negro	Generales	6x6	15	0	Arte	Marcela Tello-ElDia		2018-4-24 00:00:00	

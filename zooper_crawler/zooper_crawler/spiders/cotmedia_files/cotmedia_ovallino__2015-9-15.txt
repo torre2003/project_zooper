@@ -1,4 +1,0 @@
-op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
-81391	tangue			UIP	5x2	05	2.808	Publicado	Patricia Villena	Tanguemar	2015-9-15 00:00:00	
-84614	EMPRESA PERIODISTICA EL NORTE S.A.	Par	Blanco y negro	Medios Regionales	8x2	05	23.120	Publicado	Medios Regionales	Enami - Extracto - (196725)	2015-9-15 00:00:00	
-84517	EMPRESAS LA POLAR S.A.	Impar	Cuatricromia	Generales	35x6	16	350.000	Publicado	Patricia Villena	Venta Nocturna	2015-9-15 00:00:00	

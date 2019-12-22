@@ -1,4 +1,0 @@
-op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
-98181	AGRICOLA NORTE TALINAY LTDA	Par	Blanco y negro	Generales	5x2	05	1.667	Publicado	Paola Marquez	UIP VENTA ALFALFA	2016-4-2 00:00:00	
-99099	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	07	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2016-4-2 00:00:00	
-99451	SOC. LIMARI COMERCIALIZADORA DEL AG	Par	Blanco y negro	Generales	15x2	13	81.213	Publicado	Rene Pizarro		2016-4-2 00:00:00	

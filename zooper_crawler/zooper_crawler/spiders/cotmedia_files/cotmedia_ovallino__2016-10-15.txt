@@ -1,8 +1,0 @@
-op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
-114034	AUTOMOTORES GILDEMEISTER S.A.	Impar	Cuatricromia	Generales	25x5	03	483.218	Publicado	Kathine Soto-Stgo	AUTOMOTORES GILDEMEISTER MAHINDRA 2016 FORTALEZA	2016-10-15 00:00:00	
-113009	PUBLICIDAD Y MARKETING EDUARDO ALEG			UIP	17x2	05	9.211	Publicado	Claudio Romero	FERIA DE LA VIVIENDA OVALLE..	2016-10-15 00:00:00	
-113023	AGRICOLA NORTE TALINAY LTDA	Par	Blanco y negro	Generales	5x2	05	1.666	Publicado	Paola Marquez	UIP VENTA ALFALFA	2016-10-15 00:00:00	
-113395	castillo s			UIP	10x2	05	5.630	Publicado	Karina Rivera	servicios dentales	2016-10-15 00:00:00	
-113624	sandra paola			UIP	17x2	07	9.211	Publicado	Karina Rivera	Reserva Temporada Piscina El Eden de la Chimba	2016-10-15 00:00:00	
-113928	OVALLE CASINO RESORT S.A	Par	Cuatricromia	Generales	25x4	08	151.598	Publicado	Paola Marquez	OCR Impar	2016-10-15 00:00:00	
-113214	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	10	0	Arte	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2016-10-15 00:00:00	

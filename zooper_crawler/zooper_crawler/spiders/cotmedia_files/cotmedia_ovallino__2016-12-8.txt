@@ -1,9 +1,0 @@
-op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
-114260	Pedro Andres Monardez Elgueta			UIP	17x2	01	12.895	Arte	Karina Rivera	Restaurant Riquisimo	2016-12-8 00:00:00	
-118050	ARENA CHILE S.A.	Impar	Cuatricromia	Generales	17x6	03	200.000	Arte	M Cristina Puga	volkswagen/primeras impar	2016-12-8 00:00:00	
-117850	OVALLEMAR			UIP	5x2	08	3.958	Arte	Karina Rivera	OVALLE MAR	2016-12-8 00:00:00	
-118304	COMERCIAL AVA 			UIP	10x2	08	7.882	Arte	Karina Rivera	E BODY OVALLE	2016-12-8 00:00:00	
-118021	SOCIEDAD DE RENTAS FALABELLA S.A	Par	Cuatricromia	Generales	17x6	09	200.000	Arte	M Cristina Puga	Open Plaza - Mall Ovalle	2016-12-8 00:00:00	
-118655	DABED Y CIA. LTDA., SELIM	Par	Cuatricromia	Generales	6x6	11	23.077	Arte	Karina Rivera	NAVIDAD 1	2016-12-8 00:00:00	
-115481	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	13	0	Arte	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2016-12-8 00:00:00	
-118576	CABARET Y SALON DE ESPECTACULOS ART			UIP	10x2	14	5.517	Arte	Karina Rivera	PARADISE CLUB	2016-12-8 00:00:00	

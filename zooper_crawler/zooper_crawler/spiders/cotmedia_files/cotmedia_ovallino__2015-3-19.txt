@@ -1,9 +1,0 @@
-op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
-71406	DABED Y CIA. LTDA., SELIM	Impar	Cuatricromia	Generales	17x6	03	100.000	Publicado	Italo Retamal	dabed 1	2015-3-19 00:00:00	
-71306	AGRICOLA CERRILLOS DE TAMAYA	Par	Blanco y negro	Generales	6x1	04	14.244	Publicado	Pedro Jaime	ADMINISTRATIVO CONTABLE 	2015-3-19 00:00:00	
-71412	CORRETAJES TORRES Y CIA LTDA	Par	Blanco y negro	Generales	5x1	04	11.770	Publicado	Leonel Pizarro-Ovalle	corretajes torres	2015-3-19 00:00:00	
-70086	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	10x3	05	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2015-3-19 00:00:00	
-71041	Maria Vic			UIP	17x2	07	9.211	Publicado	Italo Retamal		2015-3-19 00:00:00	
-71405	DABED Y CIA. LTDA., SELIM	Impar	Cuatricromia	Generales	17x6	09	100.000	Publicado	Italo Retamal	dabed 2	2015-3-19 00:00:00	
-71435	PRENSA DEL LIMARI LTDA.	Par	Blanco y negro	Generales	34x6	11	0	Publicado	Marcela Tello-ElDia		2015-3-19 00:00:00	
-71415	DABED Y CIA. LTDA., SELIM		1 pag.	Inserto	x	INS	37.815	Publicado	Italo Retamal	300 ovallinos dabed 	2015-3-19 00:00:00	

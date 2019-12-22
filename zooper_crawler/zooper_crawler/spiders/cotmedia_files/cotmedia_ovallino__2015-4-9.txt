@@ -1,5 +1,0 @@
-op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
-73038	CENCOSUD ADMINISTRADORAS DE TARJETA	Impar	Cuatricromia	Generales	35x3	03	200.000	Publicado	M Cristina Puga	Tarjeta cencosud	2015-4-9 00:00:00	
-72361	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	10x3	07	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2015-4-9 00:00:00	
-73111	EMPRESA PERIODISTICA EL NORTE S.A.	Par	Blanco y negro	Medios Regionales	6x2	12	17.340	Publicado	Medios Regionales	Empresa de Transp. - Asistente Local Antofagasta - (77248)	2015-4-9 00:00:00	
-73106	ILUSTRE MUNICIPALIDAD DE OVALLE	Par	Blanco y negro	Generales	12x2	13	0	Publicado	Jacqueline Torres	AVISO REAVALUOS 	2015-4-9 00:00:00	

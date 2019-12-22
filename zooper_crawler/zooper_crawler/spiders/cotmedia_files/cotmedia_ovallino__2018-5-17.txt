@@ -1,7 +1,0 @@
-op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
-156277	EMPRESA PERIODISTICA EL NORTE S.A.	Par	Blanco y negro	Medios Regionales	6x2	04	18.204	Arte	Medios Regionales	Remate - Santander GRC - (74654)	2018-5-17 00:00:00	
-154983	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	06	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2018-5-17 00:00:00	
-156219	ILUSTRE MUNICIPALIDAD DE OVALLE	Par	Cuatricromia	Generales	17x2	08	50.000	Publicado	Karina Rivera	Semana del pisco 	2018-5-17 00:00:00	
-156278	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	4x6	09	0	Arte	Marcela Tello-ElDia		2018-5-17 00:00:00	
-156279	PRENSA DEL LIMARI LTDA.	Par	Blanco y negro	Generales	17x6	12	0	Arte	Marcela Tello-ElDia		2018-5-17 00:00:00	
-156280	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	8x6	14	0	Arte	Marcela Tello-ElDia		2018-5-17 00:00:00	

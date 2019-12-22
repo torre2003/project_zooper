@@ -1,7 +1,0 @@
-op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
-154503	EMPRESA PERIODISTICA EL NORTE S.A.	Par	Cuatricromia	Medios Regionales	32x6	03	367.130	Publicado	Medios Regionales		2018-4-28 00:00:00	
-153519	INMOBILIARIA NUEVA SERENA			UIP	10x6	05	16.260	Publicado	Claudio Romero	proyecto empresas serena - SE CONFIRMARA SI REPITE O ES NUEVO	2018-4-28 00:00:00	
-153250	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	06	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2018-4-28 00:00:00	
-155179	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x6	09	0	Arte	Marcela Tello-ElDia		2018-4-28 00:00:00	
-155180	PRENSA DEL LIMARI LTDA.	Par	Blanco y negro	Generales	17x6	12	0	Arte	Marcela Tello-ElDia		2018-4-28 00:00:00	
-155181	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	6x6	14	0	Arte	Marcela Tello-ElDia	Cupones Descuentos Cinemark	2018-4-28 00:00:00	

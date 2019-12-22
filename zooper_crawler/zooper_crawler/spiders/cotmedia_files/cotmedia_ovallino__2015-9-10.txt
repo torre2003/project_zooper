@@ -1,8 +1,0 @@
-op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
-83759	SOCIEDAD DE RENTAS FALABELLA S.A	Par	Cuatricromia	Generales	8x6	01	50.980	Publicado	M Cristina Puga	Huincha portada Open Plaza	2015-9-10 00:00:00	
-84104	DABED Y CIA. LTDA., SELIM	Impar	Cuatricromia	Generales	6x6	03	23.077	Publicado	Italo Retamal	(10) Hoy Jueves	2015-9-10 00:00:00	
-84219	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x3	06	0	Arte	Marcela Tello-ElDia		2015-9-10 00:00:00	
-84221	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	12x6	08	0	Arte	Marcela Tello-ElDia		2015-9-10 00:00:00	
-83562	SOCIEDAD COMERCIAL KATANKURA LTDA	Par	Cuatricromia	Generales	6x6	09	25.000	Publicado	Italo Retamal	evento katankura 	2015-9-10 00:00:00	
-84282	EDITH SAAVEDRA OCAMPO	Par	Blanco y negro	Generales	15x2	14	35.310	Publicado	Italo Retamal	misa 	2015-9-10 00:00:00	
-84388	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x6	14	0	Arte	Marcela Tello-ElDia		2015-9-10 00:00:00	

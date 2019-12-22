@@ -1,8 +1,0 @@
-op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
-76698	LARA Y CIA. AGUILAS TOCANDO EL CIEL			UIP	10x6	05	16.260	Publicado	Italo Retamal	tcm lara y cia	2015-6-24 00:00:00	
-76661	sociedad mil			UIP	5x2	07	2.808	Publicado	Italo Retamal	talhuen	2015-6-24 00:00:00	
-78213	gatica briones spa			UIP	5x4	07	5.630	Publicado	Italo Retamal	promo hamburguesa 	2015-6-24 00:00:00	
-77732	DABED Y CIA. LTDA., SELIM	Impar	Cuatricromia	Generales	6x6	08	23.077	Publicado	Italo Retamal	dabed expres	2015-6-24 00:00:00	
-76458	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	6x6	09	0	Publicado	Claudio Romero	Muebles Alpina	2015-6-24 00:00:00	
-77097	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	10x3	11	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2015-6-24 00:00:00	
-78484	CORP. JUAN SUBERCASEAUX	Par	Blanco y negro	Generales	12x2	13	56.496	Publicado	Leonel Pizarro-Ovalle	SEGUNDA CITACION	2015-6-24 00:00:00	

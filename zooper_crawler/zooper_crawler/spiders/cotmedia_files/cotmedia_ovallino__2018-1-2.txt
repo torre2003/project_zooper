@@ -1,5 +1,0 @@
-op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
-146605	ALVARO ITURRA			UIP	5x2	05	2.808	Publicado	Karina Rivera	VENDE CASA TERRENO EMBALSE	2018-1-2 00:00:00	
-147304	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x6	11	0	Publicado	Marcela Tello-ElDia	Vive la experiencia de estar bien...	2018-1-2 00:00:00	
-147305	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x6	13	0	Publicado	Marcela Tello-ElDia		2018-1-2 00:00:00	
-146003	VELIZ CORTES JOSE A.			UIP	5x2	15	4.695	Publicado	Pedro Cortes		2018-1-2 00:00:00	

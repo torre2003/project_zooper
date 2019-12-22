@@ -1,6 +1,0 @@
-op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
-159780	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	12x6	03	0	Arte	Marcela Tello-ElDia	Vive la experiencia de estar bien informado...	2018-7-12 00:00:00	
-158812	OSSANDON PRESTACIONES MEDICAS Y OTR			UIP	5x2	06	3.879	Publicado	Karina Rivera	MEDICO CIRUJANO ALEJANDRO MANRIQUEZ	2018-7-12 00:00:00	
-158640	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	09	0	Arte	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2018-7-12 00:00:00	
-159781	PRENSA DEL LIMARI LTDA.	Par	Blanco y negro	Generales	3x6	12	0	Arte	Marcela Tello-ElDia		2018-7-12 00:00:00	
-159782	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	6x6	14	0	Arte	Marcela Tello-ElDia		2018-7-12 00:00:00	

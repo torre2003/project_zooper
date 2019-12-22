@@ -1,7 +1,0 @@
-op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
-72926	CAMAL MUSALEM TAPIA Y CIA.	Par	Blanco y negro	Generales	18x4	03	88.128	Publicado	Marcela Tello-ElDia	Toyota - Ven a disfrutar...	2015-4-5 00:00:00	
-72373	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	10x3	05	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2015-4-5 00:00:00	
-72852	SOC. LIMARI COMERCIALIZADORA DEL AG	Par	Blanco y negro	Generales	12x2	07	73.445	Publicado	Rene Pizarro		2015-4-5 00:00:00	
-72981	PRENSA DEL LIMARI LTDA.	Par	Blanco y negro	Generales	6x2	07	0	Publicado	Marcela Tello-ElDia	Publique ahora - ventas comerciales	2015-4-5 00:00:00	
-72982	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x6	08	0	Publicado	Marcela Tello-ElDia		2015-4-5 00:00:00	
-72927	CAMAL MUSALEM TAPIA Y CIA.	Par	Blanco y negro	Generales	22x3	11	80.784	Publicado	Marcela Tello-ElDia		2015-4-5 00:00:00	

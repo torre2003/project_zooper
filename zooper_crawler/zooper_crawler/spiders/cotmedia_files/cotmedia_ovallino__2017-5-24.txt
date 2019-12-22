@@ -1,9 +1,0 @@
-op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
-129216	SOCIEDAD DE RENTAS FALABELLA S.A	Par	Cuatricromia	Generales	8x6	01	50.980	Publicado	M Cristina Puga		2017-5-24 00:00:00	
-128739	OVALLE CASINO RESORT S.A	Par	Cuatricromia	Generales	25x4	03	0	Publicado	Paola Marquez	OCR Eventos MAyo	2017-5-24 00:00:00	
-129853	JACQUELINE JOFRE VILLANUEVA			UIP	5x2	05	2.808	Publicado	Karina Rivera	Cortinas Rollers	2017-5-24 00:00:00	
-129956	CENTRO DE SALUD			UIP	5x4	05	5.630	Publicado	Karina Rivera	CENTRO DE SALUD PORTALES	2017-5-24 00:00:00	
-130059	ASOCIACION DE CANALISTA CANAL PALQU	Par	Blanco y negro	Generales	10x2	07	0	Publicado	Karina Rivera	10 x 2 Citacion	2017-5-24 00:00:00	
-128430	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	6x6	09	0	Publicado	Claudio Romero	Muebles Alpina	2017-5-24 00:00:00	
-129635	DABED Y CIA. LTDA., SELIM	Par	Cuatricromia	Generales	6x6	11    	23.076	Publicado	Karina Rivera	M5	2017-5-24 00:00:00	
-130062	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	5x6	14	0	Arte	Marcela Tello-ElDia		2017-5-24 00:00:00	

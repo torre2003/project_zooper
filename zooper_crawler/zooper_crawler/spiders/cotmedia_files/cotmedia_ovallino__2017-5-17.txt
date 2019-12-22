@@ -1,9 +1,0 @@
-op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
-129631	DABED Y CIA. LTDA., SELIM	Par	Cuatricromia	Generales	6x6	01	23.076	Publicado	Karina Rivera	M4	2017-5-17 00:00:00	
-128740	OVALLE CASINO RESORT S.A	Par	Cuatricromia	Generales	25x4	03	0	Publicado	Paola Marquez	OCR Eventos Mayo	2017-5-17 00:00:00	
-127781	JACQUELINE JOFRE VILLANUEVA			UIP	5x2	05	2.808	Publicado	Karina Rivera	Cortinas Rollers	2017-5-17 00:00:00	
-128116	FERNANDO YOANOVICH			UIP	5x2	05	2.247	Publicado	Karina Rivera	COMPRA VEHICULOS	2017-5-17 00:00:00	
-128810	KH			UIP	5x2	05	2.808	Publicado	Miguel Apey	KHUYAY TRAVEL	2017-5-17 00:00:00	
-129658	SAKATA 			UIP	5x2	07	6.120	Publicado	Karina Rivera		2017-5-17 00:00:00	
-128427	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	6x6	11	0	Publicado	Claudio Romero	Muebles Alpina	2017-5-17 00:00:00	
-129770	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	6x6	14	0	Arte	Marcela Tello-ElDia		2017-5-17 00:00:00	

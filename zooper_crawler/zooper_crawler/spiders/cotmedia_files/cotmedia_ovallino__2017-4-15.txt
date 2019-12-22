@@ -1,9 +1,0 @@
-op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
-127415	INMOBILIARIA RENVAL SPA	Par	Cuatricromia	Generales	34x6	03	355.000	Publicado	Rene Pizarro		2017-4-15 00:00:00	
-126236	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	06	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2017-4-15 00:00:00	
-126778	FERNANDO SANCHEZ			UIP	5x2	07	2.808	Publicado	Karina Rivera	AGUAS SUBTERRANEAS 	2017-4-15 00:00:00	
-127434	INSTITUTO NACIONAL DEL DEPORTE DE C	Par	Blanco y negro	Generales	10x2	07	36.817	Publicado	Jacqueline Torres	aviso legal	2017-4-15 00:00:00	
-126427	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	6x6	08	16.065	Publicado	Claudio Romero	Muebles Alpina	2017-4-15 00:00:00	
-127356	AGUAS DEL VALLE S.A.	Par	Cuatricromia	Generales	17x3	09	135.301	Publicado	Jacqueline Torres	extiende plazo fondo concursable	2017-4-15 00:00:00	
-127443	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	5x6	11	0	Arte	Marcela Tello-ElDia		2017-4-15 00:00:00	
-127444	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	5x6	14	0	Arte	Marcela Tello-ElDia		2017-4-15 00:00:00	

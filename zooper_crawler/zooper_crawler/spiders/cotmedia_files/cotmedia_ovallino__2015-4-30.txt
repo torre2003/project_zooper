@@ -1,6 +1,0 @@
-op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
-73810	CENCOSUD ADMINISTRADORAS DE TARJETA	Impar	Cuatricromia	Generales	35x3	03	200.000	Publicado	M Cristina Puga	Tarjeta cencosud	2015-4-30 00:00:00	
-74598	soc per			UIP	10x6	05	16.260	Publicado	Italo Retamal		2015-4-30 00:00:00	
-72364	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	10x3	07	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2015-4-30 00:00:00	
-74004	ALVI SUPERMERCADOS MAYORISTAS S.A.	Impar	Cuatricromia	Generales	35x3	09	207.623	Publicado	Italo Retamal	m10	2015-4-30 00:00:00	
-73833	brillador			UIP	17x2	12	9.211	Publicado	Italo Retamal	alto brillador 	2015-4-30 00:00:00	

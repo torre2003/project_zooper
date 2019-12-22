@@ -1,4 +1,0 @@
-op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
-91531	ILUSTRE MUNICIPALIDAD DE OVALLE	Impar	Cuatricromia	Generales	6x6	03	83.333	Publicado	Italo Retamal	Escuela de Verano	2015-12-22 00:00:00	
-81446	tanguemar			UIP	5x2	05	2.808	Publicado	Patricia Villena	Tanguemar	2015-12-22 00:00:00	
-91431	INMOBILIARIA OASIS DEL LIMAR? LTDA	Par	Blanco y negro	Generales	5x2	05	1.428	Publicado	Italo Retamal	arriendo local oasis	2015-12-22 00:00:00	

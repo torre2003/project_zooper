@@ -1,7 +1,0 @@
-op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
-74939	ALTOS DEL BRILLADOR LTDA.	Par	Blanco y negro	Generales	17x2	05	0	Publicado	Italo Retamal	alto brillador 	2015-5-3 00:00:00	
-74526	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	10x3	07	0	Arte	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2015-5-3 00:00:00	
-74989	MIGUEL GUZMAN YURI	Par	Blanco y negro	Generales	8x2	07	41.619	Publicado	Leonel Pizarro-Ovalle	remate ovalle	2015-5-3 00:00:00	
-74155	PARQUES DE CHILE S.A	Par	Cuatricromia	Generales	13x4	09	218.499	Publicado	Rene Pizarro		2015-5-3 00:00:00	
-75157	SOC. LIMARI COMERCIALIZADORA DEL AG	Par	Blanco y negro	Generales	12x2	10	73.445	Publicado	Rene Pizarro		2015-5-3 00:00:00	
-75178	CAMAL MUSALEM TAPIA Y CIA.	Par	Blanco y negro	Generales	13x6	11	95.472	Publicado	Marcela Tello-ElDia		2015-5-3 00:00:00	

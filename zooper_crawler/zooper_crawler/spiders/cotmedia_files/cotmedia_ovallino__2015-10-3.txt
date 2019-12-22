@@ -1,5 +1,0 @@
-op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
-81401	tanguemar			UIP	5x2	05	2.808	Publicado	Patricia Villena	Tanguemar	2015-10-3 00:00:00	
-85384	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	10x3	05	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2015-10-3 00:00:00	
-85954	PRENSA DEL LIMARI LTDA.	Par	Blanco y negro	Generales	17x6	14	0	Publicado	Marcela Tello-ElDia		2015-10-3 00:00:00	
-85216	EMPRESAS LA POLAR S.A.			Inserto	x	INS	180.000	Publicado	Patricia Villena	Feria del Hogar	2015-10-3 00:00:00	

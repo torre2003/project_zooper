@@ -1,7 +1,0 @@
-op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
-66724	CALLEGARI LTDA.	Par	Cuatricromia	Generales	6x6	01	30.000	Publicado	Marcela Tello-ElDia	Portada - Kia	2015-1-20 00:00:00	
-66369	SOCIEDAD COMERCIAL TREMENDO			UIP	10x2	07	0	Publicado	Italo Retamal	Tremendo Restaurante	2015-1-20 00:00:00	
-66398	Marcela Burgos Robles			UIP	10x2	07	0	Arte	Italo Retamal	agrogranjalosacacios	2015-1-20 00:00:00	
-67177	INVERSIONES SAN FRAN			UIP	5x2	07	2.808	Publicado	Leonel Pizarro-Ovalle	AGUAS SAN FRANCISCO	2015-1-20 00:00:00	
-66902	rio hurta			UIP	10x6	09	0	Publicado	Italo Retamal	2 feria costumbrista 	2015-1-20 00:00:00	
-67196	MARTHA TERESA MULET BOU	178 Palabras		Legal	x	EC	44.369	Publicado	Pedro Jaime	EXTRACTOS DE AGUAS	2015-1-20 00:00:00	

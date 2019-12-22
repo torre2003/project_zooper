@@ -1,7 +1,0 @@
-op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
-86147	SOCIEDAD DE RENTAS FALABELLA S.A	Par	Cuatricromia	Generales	8x6	01	50.980	Publicado	M Cristina Puga	Huincha portada Open Plaza	2015-10-9 00:00:00	
-85444	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	6x6	03	16.065	Publicado	Claudio Romero	Muebles Alpina	2015-10-9 00:00:00	
-85379	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	10x3	07	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2015-10-9 00:00:00	
-85965	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x3	09	0	Publicado	Marcela Tello-ElDia	Peter Pan en Cinemark	2015-10-9 00:00:00	
-85969	SOCIEDAD COMERCIAL KATANKURA LTDA	Par	Cuatricromia	Generales	6x6	11	25.000	Publicado	Italo Retamal	evento katankura 	2015-10-9 00:00:00	
-86260	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x6	14	0	Publicado	Marcela Tello-ElDia	www.elovallino.cl	2015-10-9 00:00:00	

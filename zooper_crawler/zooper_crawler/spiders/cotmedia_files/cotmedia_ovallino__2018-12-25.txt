@@ -1,9 +1,0 @@
-op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
-172221	DABED Y CIA. LTDA., SELIM	Par	Cuatricromia	Generales	6x6	03	23.076	Publicado	Karina Rivera	O4	2018-12-25 00:00:00	
-172343	PRENSA DEL LIMARI LTDA.	Par	Blanco y negro	Generales	8x3	07	0	Arte	Marcela Tello-ElDia	Nos trasladamos para ofrecerles un mejor servicio... El Ovallino	2018-12-25 00:00:00	
-171499	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	6x6	08	0	Publicado	Marcela Tello-ElDia	Descuentos Entradas Cinemark - Diario El Ovallino	2018-12-25 00:00:00	
-168596	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	09	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2018-12-25 00:00:00	
-172344	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	34x6	11	0	Arte	Marcela Tello-ElDia		2018-12-25 00:00:00	
-172345	PRENSA DEL LIMARI LTDA.	Par	Blanco y negro	Generales	3x6	13	0	Arte	Marcela Tello-ElDia		2018-12-25 00:00:00	
-172346	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	6x6	14	0	Arte	Marcela Tello-ElDia		2018-12-25 00:00:00	
-171573	ILUSTRE MUNICIPALIDAD DE OVALLE	Par	Cuatricromia	Generales	6x6	16	37.500	Publicado	Karina Rivera	FOMENTO PRODUCTIVO (PAG 16)	2018-12-25 00:00:00	

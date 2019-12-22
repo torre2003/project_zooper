@@ -1,4 +1,0 @@
-op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
-89341	JUAN CARLOS AQUEZ JILES	Par	Blanco y negro	Generales	5x2	05	1.429	Publicado	Italo Retamal	Capacitaciones 	2015-12-8 00:00:00	
-89528	PAMELA HARDER SANTOS	Par	Blanco y negro	Generales	5x2	05	1.428	Publicado	Italo Retamal	venta de casa harder	2015-12-8 00:00:00	
-90588	Servicios odontologicos vargas			UIP	17x2	05	9.211	Publicado	Italo Retamal	clinica dental 	2015-12-8 00:00:00	

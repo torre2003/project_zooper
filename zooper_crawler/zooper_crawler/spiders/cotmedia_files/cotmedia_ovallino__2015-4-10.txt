@@ -1,9 +1,0 @@
-op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
-70643	SOCIEDAD DE RENTAS FALABELLA S.A	Impar	Cuatricromia	Generales	8x6	01	50.980	Publicado	M Cristina Puga	Open : huincha portada	2015-4-10 00:00:00	
-72697	SOCIEDAD DE RENTAS FALABELLA S.A	Impar	Cuatricromia	Generales	35x6	03	400.000	Publicado	M Cristina Puga	Open plaza /impar	2015-4-10 00:00:00	
-72366	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	10x3	07	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2015-4-10 00:00:00	
-72453	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	6x6	08	16.065	Publicado	Claudio Romero	Muebles Alpina	2015-4-10 00:00:00	
-73039	CENCOSUD ADMINISTRADORAS DE TARJETA	Impar	Cuatricromia	Generales	35x3	09	200.000	Publicado	M Cristina Puga	Tarjeta cencosud	2015-4-10 00:00:00	
-73051	ALVI SUPERMERCADOS MAYORISTAS S.A.	Impar	Cuatricromia	Generales	35x3	11	207.623	Publicado	Italo Retamal	m10 v10	2015-4-10 00:00:00	
-73148	ILUSTRE MUNICIPALIDAD DE OVALLE	Par	Blanco y negro	Generales	12x2	12	0	Publicado	Jacqueline Torres	AVISO REAVALUOS	2015-4-10 00:00:00	
-73107	COMERCIALIZADORA S.A.	Impar	Cuatricromia	Contraportada	35x6	16	350.000	Publicado	Kathine Soto-Stgo	Yo soy Hites	2015-4-10 00:00:00	

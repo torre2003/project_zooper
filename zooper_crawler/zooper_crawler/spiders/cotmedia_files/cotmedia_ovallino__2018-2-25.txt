@@ -1,8 +1,0 @@
-op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
-150755	CAMAL MUSALEM TAPIA Y CIA.	Impar	Cuatricromia	Generales	34x5	03	291.380	Publicado	Marcela Tello-ElDia	Toyota Sale - Camal Musalem 	2018-2-25 00:00:00	
-150756	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x6	04	0	Publicado	Marcela Tello-ElDia	En la comodidad de su hogar...	2018-2-25 00:00:00	
-131304	SOCIEDAD MEDICA Y CONSULTORA ESTETI		Cuatricromia	Guia	5x2	09	13.333	Publicado	Maria_Amelia Hermosilla	Diego Polanco	2018-2-25 00:00:00	
-149378	OVALLE CASINO RESORT S.A	Par	Cuatricromia	Generales	25x4	09	171.372	Publicado	Paola Marquez	OCR Eventos febrero	2018-2-25 00:00:00	
-150758	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	12x6	11	0	Publicado	Marcela Tello-ElDia	Vive la experiencia de estar bien...	2018-2-25 00:00:00	
-150531	VELIZ CORTES JOSE A.			UIP	5x2	15	4.695	Publicado	Pedro Cortes		2018-2-25 00:00:00	
-150757	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	6x6	15	0	Publicado	Marcela Tello-ElDia		2018-2-25 00:00:00	

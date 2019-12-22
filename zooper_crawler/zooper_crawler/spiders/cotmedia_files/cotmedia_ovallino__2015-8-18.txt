@@ -1,8 +1,0 @@
-op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
-81882	centro de co			UIP	10x2	05	5.630	Publicado	Italo Retamal	centro colina	2015-8-18 00:00:00	
-81978	jorge alva			UIP	5x2	05	2.808	Publicado	Italo Retamal	abogado	2015-8-18 00:00:00	
-82220	matiz			UIP	5x2	05	2.584	Publicado	Italo Retamal	busca personal 	2015-8-18 00:00:00	
-80804	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	10x3	07	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2015-8-18 00:00:00	
-81159	florencia			UIP	10x2	07	5.630	Publicado	Italo Retamal	tienda exotica	2015-8-18 00:00:00	
-81379	tanguemar			UIP	5x2	10	2.808	Publicado	Patricia Villena	Tanguemar	2015-8-18 00:00:00	
-82466	PRENSA DEL LIMARI LTDA.	Par	Blanco y negro	Generales	17x6	14	0	Publicado	Marcela Tello-ElDia		2015-8-18 00:00:00	

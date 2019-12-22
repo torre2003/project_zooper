@@ -1,3 +1,0 @@
-op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
-84551	DABED Y CIA. LTDA., SELIM	Impar	Cuatricromia	Generales	6x6	03	23.077	Publicado	Italo Retamal	(17) Ofertas Sep	2015-9-29 00:00:00	
-81397	tanguemar			UIP	5x2	05	2.808	Publicado	Patricia Villena	Tanguemar	2015-9-29 00:00:00	

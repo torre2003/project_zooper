@@ -1,9 +1,0 @@
-op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
-97794	AUTOMOTRIZ CARMONA	Par	Cuatricromia	Generales	6x6	01	23.076	Publicado	Marcela Tello-ElDia	Nissan Versa - Portada (si hay disponibilidad)	2016-3-20 00:00:00	
-97819	INMOBILIARIA ECOMAC SANTIAGO S.A.	Impar	Cuatricromia	Generales	17x6	03	285.000	Publicado	M Cristina Puga	ECOMAC / Primeras impar	2016-3-20 00:00:00	
-98364	CAMAL MUSALEM TAPIA Y CIA.	Par	Blanco y negro	Generales	34x4	05	156.672	Publicado	Marcela Tello-ElDia	Toyota Sale	2016-3-20 00:00:00	
-95373	SOCIEDAD BUSTOS Y PROCURIZA LTDA.	Par	Blanco y negro	Generales	10x2	06	27.542	Publicado	Maria_Amelia Hermosilla	Cento	2016-3-20 00:00:00	
-97922	parques			UIP	10x2	06	9.765	Publicado	Rene Pizarro	Tu tranquilidad Familiar...Parque de Ovalle ....Parques de Chile	2016-3-20 00:00:00	
-96843	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	07	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2016-3-20 00:00:00	
-98160	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	8x6	08	0	Publicado	Marcela Tello-ElDia	Cupones Cinemark	2016-3-20 00:00:00	
-98023	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x3	09	0	Publicado	Marcela Tello-ElDia	Precios con Descuentos Cinemark	2016-3-20 00:00:00	

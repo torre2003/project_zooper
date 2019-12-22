@@ -1,9 +1,0 @@
-op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
-133189	SOCIEDAD DE RENTAS FALABELLA S.A	Par	Cuatricromia	Generales	8x6	01	50.980	Publicado	M Cristina Puga		2017-7-11 00:00:00	
-133728	PRENSA DEL LIMARI LTDA.	Par	Blanco y negro	Generales	5x2	05	0	Arte	Leonel Pizarro-Ovalle	se necesita repartidor	2017-7-11 00:00:00	
-133749	JACQUELINE JOFRE VILLANUEVA			UIP	5x2	05	2.808	Publicado	Karina Rivera	CORTINAS ROLLER OVALLE	2017-7-11 00:00:00	
-133846	ILUSTRE MUNICIPALIDAD DE MONTE PATR	Par	Blanco y negro	Generales	20x4	07	131.824	Publicado	Claudio Romero	REMATE VEHICULOS	2017-7-11 00:00:00	
-132537	UNIVERSIDAD DE LA SERENA	Par	Cuatricromia	Ed.Especial	17x3	09	114.292	Publicado	Jacqueline Torres	saludo dia del periodista	2017-7-11 00:00:00	
-133116	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	11	0	Arte	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2017-7-11 00:00:00	
-133860	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	10x3	14	43.350	Arte	Medios Regionales	DEFUNCION BERNARDO HUMBERTO CASANGA   (  116378   ) 	2017-7-11 00:00:00	
-133875	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	6x6	14	0	Arte	Marcela Tello-ElDia		2017-7-11 00:00:00	

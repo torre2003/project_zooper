@@ -1,8 +1,0 @@
-op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
-102214	ILUSTRE MUNICIPALIDAD DE OVALLE	Par	Cuatricromia	Generales	34x6	03	333.332	Publicado	Marcela Tello-ElDia		2016-5-8 00:00:00	
-102180	SERVICIOS MEDICOS JOSE MIGUEL NU?EZ	Par	Blanco y negro	Generales	5x2	05	30.603	Publicado	Leonel Pizarro-Ovalle	provincial Ovalle FC	2016-5-8 00:00:00	
-102212	CIA. MINERA SAN GERONIMO	Par	Blanco y negro	Generales	10x3	05	64.265	Publicado	M Cristina Puga	San Geronimo 	2016-5-8 00:00:00	
-95380	SOCIEDAD BUSTOS Y PROCURIZA LTDA.	Par	Blanco y negro	Generales	10x2	06	27.542	Publicado	Maria_Amelia Hermosilla	Cento	2016-5-8 00:00:00	
-102267	FACTOR ONE S.A.	Par	Blanco y negro	Generales	7x2	06	38.559	Publicado	Miguel Apey	EJECUTIVO COMERCIAL	2016-5-8 00:00:00	
-101611	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	07	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2016-5-8 00:00:00	
-100867	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	15x6	09	0	Publicado	Marcela Tello-ElDia	Cupones Cinemark	2016-5-8 00:00:00	

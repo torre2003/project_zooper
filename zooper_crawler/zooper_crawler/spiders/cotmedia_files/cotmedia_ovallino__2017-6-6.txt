@@ -1,7 +1,0 @@
-op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
-129967	CENTRO DE SALUD PORTALES LTDA			UIP	5x4	05	5.630	Publicado	Karina Rivera	CENTRO DE SALUD PORTALES	2017-6-6 00:00:00	
-130996	JACQUELINE JOFRE VILLANUEVA			UIP	5x2	05	2.808	Publicado	Karina Rivera	CORTINAS ROLLER OVALLE	2017-6-6 00:00:00	
-131098	SOC. AGRICOLA HACIENDA 			UIP	10x2	07	5.630	Publicado	Karina Rivera	VENTA TRACTORES	2017-6-6 00:00:00	
-131341	SOC. EDUCACIONAL SOSTENEDORA STA. M	Par	Blanco y negro	Generales	15x2	07	70.620	Publicado	Claudio Romero	CITACION..JUNTA..	2017-6-6 00:00:00	
-130385	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	09	0	Arte	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2017-6-6 00:00:00	
-131351	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	5x6	14	0	Arte	Marcela Tello-ElDia		2017-6-6 00:00:00	

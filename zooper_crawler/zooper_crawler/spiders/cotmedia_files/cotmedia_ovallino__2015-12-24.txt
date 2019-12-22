@@ -1,8 +1,0 @@
-op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
-90859	DABED Y CIA. LTDA., SELIM	Impar	Cuatricromia	Generales	6x6	03	23.077	Publicado	Italo Retamal	(24) Temporada Verano	2015-12-24 00:00:00	
-81448	tanguemar			UIP	5x2	05	2.808	Publicado	Patricia Villena	Tanguemar	2015-12-24 00:00:00	
-88513	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	10x3	05	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2015-12-24 00:00:00	
-91433	INMOBILIARIA OASIS DEL LIMAR? LTDA	Par	Blanco y negro	Generales	5x2	05	1.428	Publicado	Italo Retamal	arriendo local oasis	2015-12-24 00:00:00	
-91778	CRISTALMAR S.A.	Impar	Blanco y negro	Generales	10x2	07	33.898	Publicado	Italo Retamal	regulacion por cartel	2015-12-24 00:00:00	
-90458	SOCIEDAD COMERCIAL KATANKURA LTDA	Par	Cuatricromia	Generales	6x6	09	25.000	Publicado	Italo Retamal	evento katankura 	2015-12-24 00:00:00	
-91940	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x6	14	0	Publicado	Marcela Tello-ElDia	www.elovallino.cl	2015-12-24 00:00:00	

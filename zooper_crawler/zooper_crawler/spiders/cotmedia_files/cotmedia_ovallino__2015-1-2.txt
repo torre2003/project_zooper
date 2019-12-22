@@ -1,6 +1,0 @@
-op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
-65587	SOCIEDAD DE RENTAS FALABELLA S.A	Par	Cuatricromia	Generales	8x6	01	50.980	Publicado	M Cristina Puga	open Plaza/portada	2015-1-2 00:00:00	
-65611	ALVI SUPERMERCADOS MAYORISTAS S.A.	Impar	Cuatricromia	Generales	35x3	03	207.623	Publicado	Italo Retamal	matorista 10	2015-1-2 00:00:00	
-64507	SOC. AUTOMOTRIZ COVALSA CENTER LTDA	Par	Blanco y negro	Generales	10x6	05	22.222	Publicado	Claudio Romero	COVALSA..PROMOCIONES...	2015-1-2 00:00:00	
-65511	DABED Y CIA. LTDA., SELIM	Par	Cuatricromia	Generales	6x6	08	23.077	Publicado	Marcela Tello-ElDia		2015-1-2 00:00:00	
-65399	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	6x6	11	16.065	Publicado	Claudio Romero	Muebles Alpina	2015-1-2 00:00:00	

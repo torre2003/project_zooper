@@ -1,8 +1,0 @@
-op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
-89099	RIO L			UIP	10x6	03	16.260	Publicado	Claudio Romero	PROYECTO MIRADOR OVALLE..	2015-12-5 00:00:00	
-88715	ADA D?AZ ARAYA	Par	Blanco y negro	Generales	5x2	05	1.428	Publicado	Italo Retamal	zona ganjah	2015-12-5 00:00:00	
-89338	JUAN CARLOS AQUEZ JILES	Par	Blanco y negro	Generales	5x2	05	1.429	Publicado	Italo Retamal	Capacitaciones 	2015-12-5 00:00:00	
-89525	PAMELA HARDER SANTOS	Par	Blanco y negro	Generales	5x2	05	1.428	Publicado	Italo Retamal	venta de casa harder	2015-12-5 00:00:00	
-88489	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	10x3	07	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2015-12-5 00:00:00	
-89771	FALABELLA RETAIL S.A.	Impar	Cuatricromia	Contraportada	35x6	16	400.000	Publicado	M Cristina Puga	Falabella	2015-12-5 00:00:00	
-89928	EMPRESAS LA POLAR S.A.			Inserto	x	INS	180.000	Publicado	Patricia Villena	Navidad, Juguetes y bicicletas	2015-12-5 00:00:00	

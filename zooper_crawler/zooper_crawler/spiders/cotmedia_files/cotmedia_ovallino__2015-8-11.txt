@@ -1,8 +1,0 @@
-op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
-81752	Soc. Sostenedora Educacional Desper			UIP	5x2	05	2.809	Publicado	Italo Retamal	escuela	2015-8-11 00:00:00	
-81876	centro de co			UIP	10x2	05	5.630	Publicado	Italo Retamal	centro colina	2015-8-11 00:00:00	
-81972	jorge alvara			UIP	5x2	05	2.808	Publicado	Italo Retamal	abogado	2015-8-11 00:00:00	
-80803	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	10x3	07	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2015-8-11 00:00:00	
-81153	florenc			UIP	10x2	07	5.630	Publicado	Italo Retamal	tienda exotica	2015-8-11 00:00:00	
-80515	cesar o			UIP	5x4	10	5.630	Publicado	Italo Retamal	mov de tierra	2015-8-11 00:00:00	
-81801	ADA d			UIP	10x2	10	5.630	Publicado	Italo Retamal	zona ganya	2015-8-11 00:00:00	

@@ -1,8 +1,0 @@
-op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
-150180	OMD CHILE S.P.A.	Impar	Cuatricromia	Generales	35x6	03	445.386	Publicado	Patricia Villena		2018-3-5 00:00:00	
-150941	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	6x6	08	16.065	Publicado	Claudio Romero	Muebles Alpina	2018-3-5 00:00:00	
-151324	DABED Y CIA. LTDA., SELIM	Par	Cuatricromia	Generales	6x6	09	23.076	Publicado	Karina Rivera	BECAS	2018-3-5 00:00:00	
-151330	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	11	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2018-3-5 00:00:00	
-151464	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x6	12	0	Publicado	Marcela Tello-ElDia	En la comodidad de su hogar...	2018-3-5 00:00:00	
-150539	VELIZ CORTES JOSE A.			UIP	5x2	15	4.695	Publicado	Pedro Cortes		2018-3-5 00:00:00	
-151463	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	6x6	15	0	Publicado	Marcela Tello-ElDia		2018-3-5 00:00:00	

@@ -1,6 +1,0 @@
-op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
-84724	DABED Y CIA. LTDA., SELIM	Impar	Cuatricromia	Generales	6x6	03	23.077	Publicado	Italo Retamal	Fiestas patrias 	2015-9-20 00:00:00	
-84721	punitaqui			UIP	10x6	05	11.153	Publicado	Italo Retamal	pampilla puni 	2015-9-20 00:00:00	
-83446	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	10x3	07	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2015-9-20 00:00:00	
-84809	CAMAL MUSALEM TAPIA Y CIA.	Par	Blanco y negro	Generales	15x6	09	110.160	Publicado	Marcela Tello-ElDia	Toyota Hilux - Nuevo	2015-9-20 00:00:00	
-84824	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x6	14	0	Arte	Marcela Tello-ElDia	www.elovallino.cl	2015-9-20 00:00:00	

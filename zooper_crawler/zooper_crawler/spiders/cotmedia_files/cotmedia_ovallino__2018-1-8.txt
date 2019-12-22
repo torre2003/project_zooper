@@ -1,7 +1,0 @@
-op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
-147489	OMD CHILE S.P.A.	Impar	Cuatricromia	Generales	35x6	03	445.386	Publicado	Patricia Villena		2018-1-8 00:00:00	
-147369	SOSTENEDORA EDUCACIONAL CERRILLOS D			UIP	5x2	05	2.808	Publicado	Karina Rivera	LLAMADO CONCURSO	2018-1-8 00:00:00	
-147229	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	06	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2018-1-8 00:00:00	
-146839	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	6x6	09	16.065	Publicado	Claudio Romero	Muebles Alpina	2018-1-8 00:00:00	
-146009	VELIZ CORTES JOSE A.			UIP	5x2	15	4.695	Publicado	Pedro Cortes		2018-1-8 00:00:00	
-147595	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	6x6	15	0	Publicado	Marcela Tello-ElDia		2018-1-8 00:00:00	

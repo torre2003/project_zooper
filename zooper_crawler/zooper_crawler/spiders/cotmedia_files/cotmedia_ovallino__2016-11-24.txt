@@ -1,9 +1,0 @@
-op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
-114248	Pedro Andres Monardez Elgueta			UIP	17x2	01	12.895	Arte	Karina Rivera	Restaurant Riquisimo	2016-11-24 00:00:00	
-115931	AGRICOLA NORTE TALINAY LTDA	Par	Blanco y negro	Generales	5x2	05	1.666	Arte	Paola Marquez	UIP VENTA ALFALFA	2016-11-24 00:00:00	
-117154	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x6	06	0	Arte	Marcela Tello-ElDia		2016-11-24 00:00:00	
-117155	PRENSA DEL LIMARI LTDA.	Par	Blanco y negro	Generales	35x6	07	0	Arte	Marcela Tello-ElDia	SOCIALES- AVANT PREMIER OVALLE 	2016-11-24 00:00:00	
-115437	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	08	0	Arte	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2016-11-24 00:00:00	
-116152	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x6	09	0	Arte	Marcela Tello-ElDia	Clases Ejecutivas	2016-11-24 00:00:00	
-117029	UNIVERSIDAD DE LA SERENA	Par	Cuatricromia	Generales	17x2	11	78.436	Arte	Karina Rivera	CURSO INTERNACIONAL DE CATA DE ACEITE DE OLIVA	2016-11-24 00:00:00	
-117156	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	6x6	EC-14	0	Arte	Marcela Tello-ElDia		2016-11-24 00:00:00	

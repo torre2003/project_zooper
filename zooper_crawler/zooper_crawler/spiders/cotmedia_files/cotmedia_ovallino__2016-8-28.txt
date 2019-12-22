@@ -1,8 +1,0 @@
-op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
-109474	OVALLE CASINO RESORT S.A	Par	Cuatricromia	Generales	6x6	01	21.333	Publicado	Paola Marquez	Auspicio Casino Ovalle Impar	2016-8-28 00:00:00	
-109218	DABED Y CIA. LTDA., SELIM	Par	Cuatricromia	Generales	6x6	03	23.082	Publicado	Nadia Randolph	Dabed - Aviso 1	2016-8-28 00:00:00	
-109568	CAMAL MUSALEM TAPIA Y CIA.	Par	Blanco y negro	Generales	34x4	05	166.464	Publicado	Marcela Tello-ElDia	Toyota Factory Sale	2016-8-28 00:00:00	
-102996	SOCIEDAD MEDICA Y CONSULTORA ESTETI		Cuatricromia	Guia	5x2	06	13.333	Publicado	Maria_Amelia Hermosilla	Diego Polanco	2016-8-28 00:00:00	
-110157	GOTTREUX SALAS RUBEN	Par	Blanco y negro	Generales	8x2	06	48.964	Publicado	Leonel Pizarro-Ovalle	remates en ovalle	2016-8-28 00:00:00	
-108261	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	09	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2016-8-28 00:00:00	
-110248	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	6x6	14	0	Arte	Marcela Tello-ElDia		2016-8-28 00:00:00	

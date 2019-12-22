@@ -1,8 +1,0 @@
-op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
-69478	UNIVERSIDAD TECNOLOGICA DE CHILE	Impar	Cuatricromia	Generales	17x6	03	367.078	Publicado	Patricia Villena	Inacap.	2015-3-1 00:00:00	
-70147	TRULY NOLEN CHILE S.A.	Par	Blanco y negro	Generales	5x1	04	15.302	Publicado	Miguel Apey	EJECUTIVOS DE VENTAS	2015-3-1 00:00:00	
-70288	CAMAL MUSALEM TAPIA Y CIA.	Par	Blanco y negro	Generales	13x6	05	95.472	Publicado	Marcela Tello-ElDia	Toyota - Camino al Faro	2015-3-1 00:00:00	
-70068	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	10x3	07	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2015-3-1 00:00:00	
-70311	CONSTRUCTORA MAP LTDA.	Par	Blanco y negro	Generales	10x2	07	48.964	Publicado	Claudio Romero	SUPERVISORES.....	2015-3-1 00:00:00	
-69609	ACADEMIA DE GIMNASIO FITNET LIMITAD	Par	Cuatricromia	Generales	17x6	09	0	Publicado	Miguel Apey	Sportlife - Regala $100.000.-	2015-3-1 00:00:00	
-70386	LA ELEGANTE	Par	Blanco y negro	Generales	17x3	10	0	Publicado	Patricia Villena		2015-3-1 00:00:00	

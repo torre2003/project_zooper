@@ -1,9 +1,0 @@
-op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
-129247	SOC. HOTELERA VICHUQUEN LTDA.	Par	Cuatricromia	Generales	15x2	03	0	Arte	Karina Rivera	DIA DE LA MADRE HOTEL LIMARI	2017-5-11 00:00:00	
-127482	AGRICOLA NORTE TALINAY LTDA	Par	Blanco y negro	Generales	5x2	05	1.666	Publicado	Paola Marquez	UIP VENTA ALFALFA	2017-5-11 00:00:00	
-127727	JACQUELINE JOFRE VILLANUEVA			UIP	5x2	05	2.808	Publicado	Karina Rivera	Cortinas Rollers	2017-5-11 00:00:00	
-128111	FERNANDO YOANOVICH			UIP	5x2	05	2.247	Publicado	Karina Rivera	COMPRA VEHICULOS	2017-5-11 00:00:00	
-128805	KH			UIP	5x2	08	2.808	Publicado	Miguel Apey	KHUYAY TRAVEL	2017-5-11 00:00:00	
-129034	EL RELAJO			UIP	5x4	08	16.531	Publicado	Karina Rivera		2017-5-11 00:00:00	
-129191	GOTTREUX SALAS RUBEN	Par	Blanco y negro	Generales	10x3	09	56.496	Publicado	Karina Rivera	REMATE JUDICIAL AUNQUE LLUEVA	2017-5-11 00:00:00	
-129226	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x3	09	0	Arte	Marcela Tello-ElDia	CINEMARK- REY ARTURO	2017-5-11 00:00:00	

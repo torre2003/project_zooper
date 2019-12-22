@@ -1,8 +1,0 @@
-op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
-156632	SOCIEDAD DE RENTAS FALABELLA S.A	Par	Cuatricromia	Generales	17x6	03	200.000	Publicado	M Cristina Puga		2018-5-29 00:00:00	
-156518	JONATHAN CLAUDIO SANHUEZA OJEDA	Par	Cuatricromia	Generales	5x2	08	2.950	Publicado	Karina Rivera	TRAUMATOLOGO SANHUEZA (GUIA PROFESIONAL)	2018-5-29 00:00:00	
-156819	SERVICIOS MEDICOS INVERSIONES E INM	Par	Cuatricromia	Generales	10x2	08	5.912	Publicado	Karina Rivera	CENTRO MEDICO CIM	2018-5-29 00:00:00	
-156870	SERGIO ANTONIO ANDRADRE ARAYA	Par	Cuatricromia	Generales	17x2	08	9.671	Publicado	Karina Rivera	CENTRO ODONTOLOGICO SOCOS (GUIA PROFESIONAL)	2018-5-29 00:00:00	
-156800	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x3	09	0	Publicado	Marcela Tello-ElDia		2018-5-29 00:00:00	
-154975	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	11	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2018-5-29 00:00:00	
-156888	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	8x6	14	0	Arte	Marcela Tello-ElDia		2018-5-29 00:00:00	

@@ -1,9 +1,0 @@
-op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
-138306	CENTRO DE SALUD PORTALES LTDA			UIP	5x4	05	4.504	Publicado	Karina Rivera	ORTODONCIA 	2017-9-14 00:00:00	
-136031	INVERSIONES TANGUEMAR LIMITADA			UIP	5x2	07	2.808	Publicado	Patricia Villena	Tanguemar	2017-9-14 00:00:00	
-137208	TEODORO AGUIRRE ALVAREZ			UIP	5x2	07	2.808	Publicado	Karina Rivera	REGIONALISTA VERDE SOCIAL	2017-9-14 00:00:00	
-138023	ESTUDIO JURIDICO OLIVARES Y CIA. SP	Par	Blanco y negro	Generales	5x2	07	2.000	Publicado	Jacqueline Torres	ESTUDIO JURIDICO OLIVARES	2017-9-14 00:00:00	
-137775	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	09	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2017-9-14 00:00:00	
-137881	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	12x6	11	0	Publicado	Marcela Tello-ElDia		2017-9-14 00:00:00	
-136608	VELIZ CORTES JOSE A.			UIP	5x2	14	3.919	Publicado	Pedro Cortes		2017-9-14 00:00:00	
-139009	CORP. JUAN SUBERCASEAUX	162 Palabras		Legal	x	14	40.176	Publicado	Karina Rivera	SEGUNDA CITACION ASAMBLEA EXTRAORDINARIA	2017-9-14 00:00:00	

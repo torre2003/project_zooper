@@ -1,9 +1,0 @@
-op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
-159853	DABED Y CIA. LTDA., SELIM	Par	Cuatricromia	Generales	6x6	03	23.076	Publicado	Karina Rivera	3 PINTURAS 	2018-7-17 00:00:00	
-158817	OSSANDON PRESTACIONES MEDICAS Y OTR			UIP	5x2	06	3.879	Publicado	Karina Rivera	MEDICO CIRUJANO ALEJANDRO MANRIQUEZ	2018-7-17 00:00:00	
-159374	ANDRES AGUILERA CASTILLO	Par	Cuatricromia	Generales	10x2	08	6.813	Publicado	Karina Rivera		2018-7-17 00:00:00	
-159382	JONATHAN CLAUDIO SANHUEZA OJEDA	Par	Cuatricromia	Generales	5x2	08	2.950	Publicado	Karina Rivera	TRAUMATOLOGO SANHUEZA (GUIA PROFESIONAL)	2018-7-17 00:00:00	
-159392	ESTUDIO JURIDICO POLO & CONTADOR	Par	Cuatricromia	Generales	5x2	08	3.931	Publicado	Karina Rivera	ESTUDIO JURIDICO POLO & CONTADOR (GUIA PROFESIONAL)	2018-7-17 00:00:00	
-159400	SERVICIOS MEDICOS INVERSIONES E INM	Par	Cuatricromia	Generales	10x2	08	5.912	Publicado	Karina Rivera	CENTRO MEDICO CIM	2018-7-17 00:00:00	
-160001	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	6x6	14	0	Arte	Marcela Tello-ElDia		2018-7-17 00:00:00	
-159584	ILUSTRE MUNICIPALIDAD DE OVALLE	Par	Cuatricromia	Generales	6x6	16	0	Arte	Karina Rivera		2018-7-17 00:00:00	

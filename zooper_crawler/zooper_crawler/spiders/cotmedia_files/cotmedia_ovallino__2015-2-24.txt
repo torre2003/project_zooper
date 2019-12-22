@@ -1,6 +1,0 @@
-op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
-69055	CALLEGARI LTDA.	Par	Cuatricromia	Generales	6x6	01	30.000	Publicado	Marcela Tello-ElDia	Portada - Kia Good Morning	2015-2-24 00:00:00	
-68265	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	10x3	05	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2015-2-24 00:00:00	
-69419	lara y			UIP	10x6	10	0	Publicado	Italo Retamal	Flayer el cielo	2015-2-24 00:00:00	
-69546	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	6x2	14	0	Publicado	Marcela Tello-ElDia	Publique ahora - ventas comerciales	2015-2-24 00:00:00	
-69541	LA ELEGANTE	Impar	Cuatricromia	Generales	35x6	16	0	Publicado	Patricia Villena	Contraportada La Elegante	2015-2-24 00:00:00	

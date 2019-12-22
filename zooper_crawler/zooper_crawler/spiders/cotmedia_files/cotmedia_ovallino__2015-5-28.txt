@@ -1,5 +1,0 @@
-op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
-74516	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	10x3	07	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2015-5-28 00:00:00	
-76298	brillador			UIP	17x2	07	9.211	Publicado	Italo Retamal	alto brillador 	2015-5-28 00:00:00	
-76250	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x3	09	0	Publicado	Marcela Tello-ElDia	Vea terremoto en Cinemark	2015-5-28 00:00:00	
-76512	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x6	11	0	Publicado	Marcela Tello-ElDia		2015-5-28 00:00:00	

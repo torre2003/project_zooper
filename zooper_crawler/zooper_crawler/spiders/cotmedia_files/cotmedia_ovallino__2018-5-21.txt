@@ -1,7 +1,0 @@
-op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
-155901	ASOCIACION DE CANALISTA CANAL PALQU	Par	Blanco y negro	Generales	10x2	04	47.080	Publicado	Leonel Pizarro-Ovalle	CITACION	2018-5-21 00:00:00	
-154970	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	06	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2018-5-21 00:00:00	
-155127	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	9x4	08	16.065	Publicado	Claudio Romero	Muebles alpina..	2018-5-21 00:00:00	
-156146	DABED Y CIA. LTDA., SELIM	Par	Cuatricromia	Generales	6x6	11	23.076	Publicado	Karina Rivera	HELECTRICA 1	2018-5-21 00:00:00	
-156449	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x6	12	0	Arte	Marcela Tello-ElDia	Nos trasladamos para prestarles un mejor servicio...	2018-5-21 00:00:00	
-156450	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	8x6	14	0	Arte	Marcela Tello-ElDia		2018-5-21 00:00:00	

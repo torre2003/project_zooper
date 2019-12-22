@@ -1,9 +1,0 @@
-op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
-124891	SOCIEDAD DE RENTAS FALABELLA S.A	Par	Cuatricromia	Generales	8x6	01	50.980	Publicado	M Cristina Puga	Open Plaza - Portada - Huincha	2017-3-21 00:00:00	
-123199	ARENA CHILE S.A.	Impar	Cuatricromia	Generales	17x6	03	0	Publicado	M Cristina Puga	volkswagen/primeras impar	2017-3-21 00:00:00	
-117938	OVALLEMAR			UIP	5x2	06	3.958	Publicado	Karina Rivera	OVALLE MAR	2017-3-21 00:00:00	
-125264	JACQUELINE JOFRE VILLANUEVA			UIP	5x2	07	2.808	Publicado	Karina Rivera	Cortinas Rollers	2017-3-21 00:00:00	
-125301	AGRICOLA NORTE TALINAY LTDA	Par	Blanco y negro	Generales	5x2	07	1.666	Publicado	Paola Marquez	UIP VENTA ALFALFA	2017-3-21 00:00:00	
-124675	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	09	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2017-3-21 00:00:00	
-125515	JDV REMATES S.A.	Par	Blanco y negro	Generales	10x3	11	49.434	Publicado	Pedro Jaime	JDV REMATES 	2017-3-21 00:00:00	
-125607	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	5x6	14	0	Arte	Marcela Tello-ElDia		2017-3-21 00:00:00	

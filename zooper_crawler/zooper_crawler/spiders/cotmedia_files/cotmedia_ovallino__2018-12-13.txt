@@ -1,8 +1,0 @@
-op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
-171790	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	6x6	03	0	Arte	Marcela Tello-ElDia		2018-12-13 00:00:00	
-170407	EMPRESA PERIODISTICA EL NORTE S.A.	Par	Blanco y negro	Medios Regionales	6x2	05	18.204	Arte	Medios Regionales	Remate Banco Santander GRC - (175489)	2018-12-13 00:00:00	
-171791	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	6x6	06	0	Arte	Marcela Tello-ElDia	Cupones Descuentos Cinemark	2018-12-13 00:00:00	
-168602	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	08	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2018-12-13 00:00:00	
-171245	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x3	09	0	Arte	Marcela Tello-ElDia	Vea en Cinemark - Acuaman	2018-12-13 00:00:00	
-171792	PRENSA DEL LIMARI LTDA.	Par	Blanco y negro	Generales	12x6	12	0	Arte	Marcela Tello-ElDia	Vive la experiencia de estar bien informado...	2018-12-13 00:00:00	
-171793	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	8x6	14	0	Arte	Marcela Tello-ElDia		2018-12-13 00:00:00	

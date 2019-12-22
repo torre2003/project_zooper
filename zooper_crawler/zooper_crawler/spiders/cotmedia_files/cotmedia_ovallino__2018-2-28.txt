@@ -1,8 +1,0 @@
-op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
-150315	OVALLE CASINO RESORT S.A	Par	Cuatricromia	Generales	25x4	03	0	Publicado	Paola Marquez	Eventos OCR Febrero	2018-2-28 00:00:00	
-151000	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	12x6	04	0	Publicado	Marcela Tello-ElDia	Vive la experiencia de estar bien...	2018-2-28 00:00:00	
-149794	DABED Y CIA. LTDA., SELIM	Par	Cuatricromia	Generales	6x6	08	23.082	Publicado	Karina Rivera	GRAF. 3	2018-2-28 00:00:00	
-149350	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	6x6	09	16.065	Publicado	Claudio Romero	Muebles Alpina	2018-2-28 00:00:00	
-151001	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x6	12	0	Publicado	Marcela Tello-ElDia	En la comodidad de su hogar...	2018-2-28 00:00:00	
-150534	VELIZ CORTES JOSE A.			UIP	5x2	14	4.695	Publicado	Pedro Cortes		2018-2-28 00:00:00	
-151002	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	4x6	14	0	Publicado	Marcela Tello-ElDia	Cupones de Descuentos - Cinemark	2018-2-28 00:00:00	

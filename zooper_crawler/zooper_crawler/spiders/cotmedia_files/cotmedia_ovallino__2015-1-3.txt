@@ -1,6 +1,0 @@
-op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
-65593	SOCIEDAD DE RENTAS FALABELLA S.A	Impar	Cuatricromia	Contraportada	35x6	03	400.000	Publicado	M Cristina Puga	Open Plaza / Contraportada	2015-1-3 00:00:00	
-65654	LA ELEGANTE	Par	Cuatricromia	Generales	8x6	09	0	Publicado	Patricia Villena	Franja La Elegante bonificada	2015-1-3 00:00:00	
-65945	SOC. EDUC. PUCARA S.A.	Par	Blanco y negro	Generales	10x2	12	23.282	Publicado	Leonel Pizarro-Ovalle	OBITUARIO	2015-1-3 00:00:00	
-66121	BANCO ITAU CHILE	844 Palabras		Legal	x	14	209.495	Publicado	Pedro Jaime		2015-1-3 00:00:00	
-65641	LA ELEGANTE	Par	Cuatricromia	Contraportada	35x6	16	177.172	Publicado	Patricia Villena	La elegante	2015-1-3 00:00:00	

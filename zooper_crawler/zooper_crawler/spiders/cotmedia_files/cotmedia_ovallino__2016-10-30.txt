@@ -1,7 +1,0 @@
-op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
-103005	SOCIEDAD MEDICA Y CONSULTORA ESTETI		Cuatricromia	Guia	5x2	06	13.333	Publicado	Maria_Amelia Hermosilla	Diego Polanco	2016-10-30 00:00:00	
-113221	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	07	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2016-10-30 00:00:00	
-114163	OVALLE CASINO RESORT S.A	Par	Cuatricromia	Generales	25x4	09	171.372	Publicado	Paola Marquez	OCR Impar si se puede	2016-10-30 00:00:00	
-114432	TESORERIA PROVINCIAL DEL LIMARI OVA	Par	Blanco y negro	Generales	20x6	11	324.852	Publicado	Marcela Tello-ElDia	Segundo Aviso - Remate por no pago de impuestos	2016-10-30 00:00:00	
-115003	TESORERIA PROVINCIAL DEL LIMARI OVA	Par	Blanco y negro	Generales	17x6	13	276.125	Publicado	Marcela Tello-ElDia	Primer Aviso - Remate Por No Pago de Impuestos Fiscales	2016-10-30 00:00:00	
-115729	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	6x6	14	0	Publicado	Marcela Tello-ElDia		2016-10-30 00:00:00	

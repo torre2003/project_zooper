@@ -1,8 +1,0 @@
-op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
-114252	Pedro Andres Monardez Elgueta			UIP	17x2	01	12.895	Arte	Karina Rivera	Restaurant Riquisimo	2016-11-29 00:00:00	
-117398	ILUSTRE MUNICIPALIDAD DE OVALLE	Par	Cuatricromia	Generales	17x6	03	166.666	Arte	Marcela Tello-ElDia	LUCES DE NAVIDAD 	2016-11-29 00:00:00	
-115935	AGRICOLA NORTE TALINAY LTDA	Par	Blanco y negro	Generales	5x2	05	1.666	Arte	Paola Marquez	UIP VENTA ALFALFA	2016-11-29 00:00:00	
-117403	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	10x2	07	28.900	Arte	Medios Regionales	BBVA-ROL C-18571-2015  (  223751   ) 	2016-11-29 00:00:00	
-115441	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	08	0	Arte	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2016-11-29 00:00:00	
-116154	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x6	09	0	Arte	Marcela Tello-ElDia	Clases Ejecutivas	2016-11-29 00:00:00	
-117553	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	6x6	11	0	Arte	Marcela Tello-ElDia		2016-11-29 00:00:00	

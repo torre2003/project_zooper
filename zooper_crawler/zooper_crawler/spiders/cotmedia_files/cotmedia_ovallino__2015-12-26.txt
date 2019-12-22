@@ -1,8 +1,0 @@
-op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
-90858	DABED Y CIA. LTDA., SELIM	Impar	Cuatricromia	Generales	6x6	03	23.077	Publicado	Italo Retamal	(21) Dabed Motos	2015-12-26 00:00:00	
-81450	tanguemar			UIP	5x2	05	2.808	Publicado	Patricia Villena	Tanguemar	2015-12-26 00:00:00	
-91435	INMOBILIARIA OASIS DEL LIMAR? LTDA	Par	Blanco y negro	Generales	5x2	05	1.428	Publicado	Italo Retamal	arriendo local oasis	2015-12-26 00:00:00	
-91810	INVERSIONES AVANZADA LTDA	Par	Blanco y negro	Generales	5x2	05	5.833	Publicado	Jacqueline Torres	campo lindo valle	2015-12-26 00:00:00	
-88492	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	10x3	07	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2015-12-26 00:00:00	
-91950	COLEGIO SANTA MARIA EUFRACIA	Par	Blanco y negro	Generales	8x2	07	43.314	Publicado	Claudio Romero	colegio santa maria  ovalle....concurso..repite mismo  aviso diario EL DIA...	2015-12-26 00:00:00	
-91968	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x6	14	0	Publicado	Marcela Tello-ElDia		2015-12-26 00:00:00	

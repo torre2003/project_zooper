@@ -1,7 +1,0 @@
-op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
-97934	parques			UIP	10x2	05	9.765	Publicado	Rene Pizarro	TU TRANQUILIDAD FAMILIAR...PARQUE DE OVALLE...PARQUES DE CHILE...	2016-4-16 00:00:00	
-100139	COOP. DE AHORRO Y CREDITO DE LIMARI	Par	Blanco y negro	Generales	12x2	05	58.474	Publicado	Leonel Pizarro-Ovalle	CITACION	2016-4-16 00:00:00	
-100245	ANTONIO SABIONCELLO CORRAL	Par	Blanco y negro	Generales	8x2	05	37.250	Publicado	Leonel Pizarro-Ovalle	IN MEMORIAN	2016-4-16 00:00:00	
-99101	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	07	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2016-4-16 00:00:00	
-100317	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	12x6	14	0	Arte	Marcela Tello-ElDia		2016-4-16 00:00:00	
-100017	EMPRESAS LA POLAR S.A.			Inserto	x	INS	180.000	Publicado	Patricia Villena	Feria del Hogar	2016-4-16 00:00:00	

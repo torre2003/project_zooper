@@ -1,8 +1,0 @@
-op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
-123723	JACQUELINE JOFRE VILLANUEVA			UIP	5x2	07	2.808	Publicado	Karina Rivera	Cortinas Rollers	2017-3-16 00:00:00	
-124433	MUNDACA			UIP	10x2	07	5.630	Publicado	Claudio Romero	EN LA SERENA ..PARA TODA LA IV REGION...COMERCIAL MUNDACA...SE REPITE PAUTA DE LA SEMANA ANTERIOR..	2017-3-16 00:00:00	
-125297	AGRICOLA NORTE TALINAY LTDA	Par	Blanco y negro	Generales	5x2	07	1.666	Publicado	Paola Marquez	UIP VENTA ALFALFA	2017-3-16 00:00:00	
-117934	OVALLEMAR			UIP	5x2	08	3.958	Publicado	Karina Rivera	OVALLE MAR	2017-3-16 00:00:00	
-124683	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	09	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2017-3-16 00:00:00	
-125409	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	5x6	11	0	Arte	Marcela Tello-ElDia		2017-3-16 00:00:00	
-125407	CARLOS DIAZ	Par	Blanco y negro	Generales	10x2	14	23.540	Publicado	Leonel Pizarro-Ovalle	agradecimientos	2017-3-16 00:00:00	

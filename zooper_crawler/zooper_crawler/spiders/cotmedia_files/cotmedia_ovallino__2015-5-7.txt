@@ -1,6 +1,0 @@
-op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
-75263	DABED Y CIA. LTDA., SELIM	Impar	Cuatricromia	Generales	6x6	03	23.077	Publicado	Italo Retamal		2015-5-7 00:00:00	
-73839	brillador			UIP	17x2	05	9.211	Publicado	Italo Retamal	alto brillador 	2015-5-7 00:00:00	
-74513	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	10x3	07	0	Arte	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2015-5-7 00:00:00	
-75342	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x6	09	0	Arte	Marcela Tello-ElDia	Campeonato de Tenis	2015-5-7 00:00:00	
-75357	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x6	11	0	Arte	Marcela Tello-ElDia		2015-5-7 00:00:00	

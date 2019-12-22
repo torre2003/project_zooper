@@ -1,9 +1,0 @@
-op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
-104377	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	6x6	01	0	Arte	Marcela Tello-ElDia		2016-6-4 00:00:00	
-104251	ARMAS GESTION LTDA	Impar	Cuatricromia	Generales	17x6	03	324.723	Publicado	M Cristina Puga	Armas / primeras impar	2016-6-4 00:00:00	
-103468	TOMAS			UIP	10x6	05	16.260	Publicado	Claudio Romero	DIPLOMADOS DE MEDIACION FAMILIAR	2016-6-4 00:00:00	
-103761	ALVARADO RAMIR			UIP	5x2	06	2.808	Publicado	Leonel Pizarro-Ovalle	ABOOGADO	2016-6-4 00:00:00	
-104125	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	12x6	07	0	Arte	Marcela Tello-ElDia	Avant Premiere - Club de Lectores	2016-6-4 00:00:00	
-103690	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	09	0	Arte	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2016-6-4 00:00:00	
-104378	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x6	11	0	Arte	Marcela Tello-ElDia		2016-6-4 00:00:00	
-104316	SERVICIO ELECTORAL	Impar	Blanco y negro	Generales	35x6	13	477.533	Publicado	Jacqueline Torres	LISTADO EXCUSAS VOCALES	2016-6-4 00:00:00	

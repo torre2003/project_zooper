@@ -1,9 +1,0 @@
-op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
-120658	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x6	03	0	Arte	Marcela Tello-ElDia		2017-1-8 00:00:00	
-120640	OVALLE CASINO RESORT S.A	Impar	Blanco y negro	Generales	17x3	05	140.464	Publicado	Paola Marquez	OCR empleos VArios cargos	2017-1-8 00:00:00	
-103060	SOCIEDAD MEDICA Y CONSULTORA ESTETI		Cuatricromia	Guia	5x2	06	13.333	Publicado	Maria_Amelia Hermosilla	Diego Polanco	2017-1-8 00:00:00	
-119140	EMPRESA PERIODISTICA EL NORTE S.A.	Par	Blanco y negro	Medios Regionales	6x2	07	17.340	Publicado	Medios Regionales	Asercop - Administrador de Contrato - (235870)	2017-1-8 00:00:00	
-120641	OVALLE CASINO RESORT S.A	Impar	Blanco y negro	Generales	17x3	07	140.464	Publicado	Paola Marquez	OCR Aprendiz de juegos	2017-1-8 00:00:00	
-120191	OVALLE CASINO RESORT S.A	Par	Cuatricromia	Generales	25x4	09	171.372	Publicado	Paola Marquez	OCR Eventos verano	2017-1-8 00:00:00	
-120662	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	6x6	11	0	Arte	Marcela Tello-ElDia		2017-1-8 00:00:00	
-120661	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	6x6	14	0	Arte	Marcela Tello-ElDia		2017-1-8 00:00:00	

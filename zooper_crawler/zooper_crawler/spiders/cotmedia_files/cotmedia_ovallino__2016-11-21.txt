@@ -1,9 +1,0 @@
-op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
-114245	Pedro Andres Monardez Elgueta			UIP	17x2	01	12.895	Arte	Karina Rivera	Restaurant Riquisimo	2016-11-21 00:00:00	
-116519	ARENA CHILE S.A.	Impar	Cuatricromia	Generales	17x6	03	200.000	Arte	M Cristina Puga	volkswagen/primeras impar	2016-11-21 00:00:00	
-115928	AGRICOLA NORTE TALINAY LTDA	Par	Blanco y negro	Generales	5x2	05	1.666	Arte	Paola Marquez	UIP VENTA ALFALFA	2016-11-21 00:00:00	
-116965	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x6	06	0	Arte	Marcela Tello-ElDia		2016-11-21 00:00:00	
-115434	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	08	0	Arte	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2016-11-21 00:00:00	
-115986	SOCIEDAD DE RENTAS FALABELLA S.A	Par	Cuatricromia	Generales	17x6	09	200.000	Arte	M Cristina Puga	Open Plaza - Mall Ovalle	2016-11-21 00:00:00	
-115187	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	6x6	11	16.065	Arte	Claudio Romero	Muebles Alpina	2016-11-21 00:00:00	
-116966	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	6x6	14	0	Arte	Marcela Tello-ElDia		2016-11-21 00:00:00	

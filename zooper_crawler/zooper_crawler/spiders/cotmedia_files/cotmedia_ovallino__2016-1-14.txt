@@ -1,9 +1,0 @@
-op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
-93539	SOC PERIODISTICA BANIC Y LANCCELOTT	Impar	Cuatricromia	Generales	10x6	03	59.321	Publicado	Patricia Villena	Fiesta Costumbrista de Parral de Aquiles	2016-1-14 00:00:00	
-91453	INMOBILIARIA OASIS DEL LIMAR? LTDA	Par	Blanco y negro	Generales	5x2	05	1.428	Publicado	Italo Retamal	arriendo local oasis	2016-1-14 00:00:00	
-92437	AGRICOLA NORTE TALINAY LTDA	Par	Blanco y negro	Generales	5x2	05	1.428	Publicado	Italo Retamal	venta fardos	2016-1-14 00:00:00	
-92576	AGRICOLA NORTE TALINAY LTDA	Par	Blanco y negro	Generales	5x2	05	1.428	Publicado	Italo Retamal	Oferta de empleos	2016-1-14 00:00:00	
-93036	dominga			UIP	10x2	07	3.378	Publicado	Leonel Pizarro-Ovalle	laboratorio clinico	2016-1-14 00:00:00	
-93541	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x3	09	0	Arte	Marcela Tello-ElDia	Vea en Cinemar - Punto de Quiebre	2016-1-14 00:00:00	
-93617	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	34x6	11	0	Arte	Marcela Tello-ElDia		2016-1-14 00:00:00	
-93618	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x6	14	0	Arte	Marcela Tello-ElDia		2016-1-14 00:00:00	

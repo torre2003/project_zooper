@@ -1,8 +1,0 @@
-op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
-71873	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	6x2	05	0	Publicado	Marcela Tello-ElDia	Contactese con su ejecutivo Comercial	2015-3-31 00:00:00	
-70098	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	10x3	07	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2015-3-31 00:00:00	
-71805	marcelo corral			UIP	5x2	07	2.808	Publicado	Leonel Pizarro-Ovalle	arrienda	2015-3-31 00:00:00	
-71867	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x6	11	0	Publicado	Marcela Tello-ElDia		2015-3-31 00:00:00	
-72399	SOC. EDUCACIONAL SOSTENEDORA STA. M	Par	Blanco y negro	Generales	8x2	13	37.664	Publicado	Claudio Romero	CITACION...COLEGIO SANTA MARIA...	2015-3-31 00:00:00	
-72403	INMOBILIARIA AYLLU S.A	Par	Blanco y negro	Generales	8x2	13	37.664	Publicado	Claudio Romero	CITACION...AYLLU...	2015-3-31 00:00:00	
-72404	INMOBILIARIA E INVERSIONES EL CHA?A	Par	Blanco y negro	Generales	8x2	13	37.664	Publicado	Claudio Romero		2015-3-31 00:00:00	

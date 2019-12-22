@@ -1,9 +1,0 @@
-op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
-143410	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	01	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2017-12-9 00:00:00	
-144398	AGRICOLA NORTE TALINAY LTDA	Par	Blanco y negro	Generales	5x2	05	1.666	Publicado	Paola Marquez	UIP VENTA ALFALFA	2017-12-9 00:00:00	
-136082	INVERSIONES TANGUEMAR LIMITADA			UIP	5x2	07	2.808	Publicado	Patricia Villena	Tanguemar	2017-12-9 00:00:00	
-138372	CENTRO DE SALUD PORTALES LTDA			UIP	5x4	07	4.504	Publicado	Karina Rivera		2017-12-9 00:00:00	
-145071	UNIVERSIDAD BOLIVARIANA			UIP	10x2	09	7.882	Publicado	Karina Rivera	BENEFICIOS DEL VALLE Y BOLIVARIANA	2017-12-9 00:00:00	
-145234	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Cuatricromia	Medios Regionales	10x3	11	115.603	Publicado	Medios Regionales		2017-12-9 00:00:00	
-143981	VELIZ CORTES JOSE A.			UIP	5x2	14	4.695	Publicado	Pedro Cortes		2017-12-9 00:00:00	
-145672	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	14	0	Arte	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2017-12-9 00:00:00	

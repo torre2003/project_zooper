@@ -1,7 +1,0 @@
-op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
-90755	AUTOMOTRIZ CARMONA	Par	Cuatricromia	Generales	6x6	01	23.076	Publicado	Marcela Tello-ElDia	Nissan huincha portada	2015-12-9 00:00:00	
-89342	JUAN CARLOS AQUEZ JILES	Par	Blanco y negro	Generales	5x2	07	1.429	Publicado	Italo Retamal	Capacitaciones 	2015-12-9 00:00:00	
-89529	PAMELA HARDER SANTOS	Par	Blanco y negro	Generales	5x2	07	1.428	Publicado	Italo Retamal	venta de casa harder	2015-12-9 00:00:00	
-90589	Servicios odontologicos vargas			UIP	17x2	07	9.211	Publicado	Italo Retamal	clinica dental 	2015-12-9 00:00:00	
-88502	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	10x3	08	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2015-12-9 00:00:00	
-90332	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	6x6	09	0	Publicado	Claudio Romero	Muebles Alpina	2015-12-9 00:00:00	

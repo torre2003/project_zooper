@@ -1,7 +1,0 @@
-op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
-93362	CALLEGARI LTDA.	Par	Cuatricromia	Generales	8x6	01	30.000	Publicado	Marcela Tello-ElDia	Repuestos Ford - Portada	2016-1-23 00:00:00	
-92446	AGRICOLA NORTE TALINAY LTDA	Par	Blanco y negro	Generales	5x2	07	1.428	Publicado	Italo Retamal	venta fardos	2016-1-23 00:00:00	
-92585	AGRICOLA NORTE TALINAY LTDA	Par	Blanco y negro	Generales	5x2	07	1.428	Publicado	Italo Retamal	Oferta de empleos	2016-1-23 00:00:00	
-93044	dominga			UIP	10x2	07	3.378	Publicado	Leonel Pizarro-Ovalle	laboratorio clinico	2016-1-23 00:00:00	
-92821	DABED Y CIA. LTDA., SELIM	Par	Cuatricromia	Generales	6x6	09	23.076	Publicado	Marcela Tello-ElDia	Dabed Motos	2016-1-23 00:00:00	
-94234	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x6	14	0	Arte	Marcela Tello-ElDia		2016-1-23 00:00:00	

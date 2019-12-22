@@ -1,8 +1,0 @@
-op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
-153946	SOCIEDAD DE RENTAS FALABELLA S.A	Par	Cuatricromia	Generales	17x6	03	200.000	Publicado	M Cristina Puga	Open Plaza 	2018-4-26 00:00:00	
-153517	INMOBILIARIA NUEVA SERENA			UIP	10x6	05	16.260	Publicado	Claudio Romero	proyecto empresas serena - SE CONFIRMARA SI REPITE O ES NUEVO	2018-4-26 00:00:00	
-153242	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	06	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2018-4-26 00:00:00	
-154672	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x3	09	0	Arte	Marcela Tello-ElDia	Vea en Cinemark - Advengers	2018-4-26 00:00:00	
-154779	JUNTA DE VIGILANCIA RIO GRANDE LIMA	Par	Blanco y negro	Generales	15x2	09	70.620	Publicado	Leonel Pizarro-Ovalle	CITACION ASAMBLEA GENERAL ORDINARIA	2018-4-26 00:00:00	
-154782	PRENSA DEL LIMARI LTDA.	Par	Blanco y negro	Generales	17x6	12	0	Arte	Marcela Tello-ElDia		2018-4-26 00:00:00	
-154781	PRENSA DEL LIMARI LTDA.	Par	Blanco y negro	Generales	6x6	15	0	Arte	Marcela Tello-ElDia		2018-4-26 00:00:00	

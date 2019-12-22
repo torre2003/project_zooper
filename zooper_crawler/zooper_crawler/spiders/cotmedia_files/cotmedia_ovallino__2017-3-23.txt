@@ -1,8 +1,0 @@
-op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
-125612	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x6	03	0	Arte	Marcela Tello-ElDia		2017-3-23 00:00:00	
-124132	OVALLEMAR			UIP	5x2	06	3.958	Publicado	Karina Rivera	OVALLE MAR	2017-3-23 00:00:00	
-125266	JACQUELINE JOFRE VILLANUEVA			UIP	5x2	07	2.808	Publicado	Karina Rivera	Cortinas Rollers	2017-3-23 00:00:00	
-125303	AGRICOLA NORTE TALINAY LTDA	Par	Blanco y negro	Generales	5x2	07	1.666	Publicado	Paola Marquez	UIP VENTA ALFALFA	2017-3-23 00:00:00	
-125658	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x3	08	0	Arte	Marcela Tello-ElDia		2017-3-23 00:00:00	
-124684	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	09	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2017-3-23 00:00:00	
-125723	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	5x6	14	0	Arte	Marcela Tello-ElDia		2017-3-23 00:00:00	

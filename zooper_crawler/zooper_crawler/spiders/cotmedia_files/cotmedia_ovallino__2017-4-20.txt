@@ -1,8 +1,0 @@
-op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
-127386	PEDRO ANDRES MONARDEZ ELGUETA	Par	Cuatricromia	Generales	6x6	01	25.000	Publicado	Karina Rivera	Restaurant Riquisimo	2017-4-20 00:00:00	
-127501	SANTO TOMAS EDUCACION CONTINUA LTDA			UIP	10x6	05	16.260	Publicado	Claudio Romero	DIPLOMADO GESTION INTEGRADA..	2017-4-20 00:00:00	
-127465	AGRICOLA NORTE TALINAY LTDA	Par	Blanco y negro	Generales	5x2	07	1.666	Publicado	Paola Marquez	UIP VENTA ALFALFA	2017-4-20 00:00:00	
-127544	DABED Y CIA. LTDA., SELIM	Par	Cuatricromia	Generales	6x6	08	23.076	Publicado	Karina Rivera	Dabed Motos	2017-4-20 00:00:00	
-126228	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	09	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2017-4-20 00:00:00	
-127654	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x6	11	0	Arte	Marcela Tello-ElDia		2017-4-20 00:00:00	
-127655	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	5x6	14	0	Arte	Marcela Tello-ElDia		2017-4-20 00:00:00	

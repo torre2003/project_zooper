@@ -1,6 +1,0 @@
-op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
-65817	CALLEGARI LTDA.	Par	Cuatricromia	Generales	5x6	01	51.405	Publicado	Marcela Tello-ElDia	Portada - Kia	2015-1-4 00:00:00	
-66039	LA ELEGANTE	Par	Blanco y negro	Generales	22x3	07	0	Publicado	Patricia Villena		2015-1-4 00:00:00	
-66058	EMPRESA PERIODISTICA EL NORTE S.A.	Par	Blanco y negro	Medios Regionales	6x2	07	16.512	Publicado	Medios Regionales	Empresa Transp. Rurales - Conductores y Asistentes - (425)	2015-1-4 00:00:00	
-65442	CAMAL MUSALEM TAPIA Y CIA.	Par	Blanco y negro	Generales	14x3	09	51.408	Publicado	Marcela Tello-ElDia	Nuevos Modelos 2015 Toyota - Rep. 28/12	2015-1-4 00:00:00	
-66057	EMPRESA PERIODISTICA EL NORTE S.A.	Par	Blanco y negro	Medios Regionales	16x3	09	66.048	Publicado	Medios Regionales	Empresa El Mercurio - SML - (464)	2015-1-4 00:00:00	

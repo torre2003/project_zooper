@@ -1,8 +1,0 @@
-op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
-75538	CALLEGARI LTDA.	Par	Cuatricromia	Generales	6x6	01	30.000	Publicado	Marcela Tello-ElDia	Portada - Kia	2015-5-14 00:00:00	
-75471	camila as			UIP	5x2	05	2.808	Publicado	Leonel Pizarro-Ovalle	aBOGADOS	2015-5-14 00:00:00	
-75650	Importadora Amanda Limitada			UIP	5x2	05	2.808	Publicado	Italo Retamal	joyas amanda	2015-5-14 00:00:00	
-73845	brillador			UIP	17x2	07	9.210	Publicado	Italo Retamal	alto brillador 	2015-5-14 00:00:00	
-74514	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	10x3	07	0	Arte	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2015-5-14 00:00:00	
-75749	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x6	11	0	Arte	Marcela Tello-ElDia		2015-5-14 00:00:00	
-75679	CEA			UIP	17x2	14	9.211	Publicado	Leonel Pizarro-Ovalle	CIRCO NORTEAMERICANO	2015-5-14 00:00:00	

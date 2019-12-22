@@ -1,5 +1,0 @@
-op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
-131303	SOCIEDAD MEDICA Y CONSULTORA ESTETI		Cuatricromia	Guia	5x2	09	13.333	Publicado	Maria_Amelia Hermosilla	Diego Polanco	2018-2-18 00:00:00	
-149377	OVALLE CASINO RESORT S.A	Par	Cuatricromia	Generales	25x4	09	171.372	Publicado	Paola Marquez	OCR Eventos febrero	2018-2-18 00:00:00	
-150524	VELIZ CORTES JOSE A.			UIP	5x2	15	4.695	Publicado	Pedro Cortes		2018-2-18 00:00:00	
-150564	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	6x6	15	0	Publicado	Marcela Tello-ElDia		2018-2-18 00:00:00	

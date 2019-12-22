@@ -1,6 +1,0 @@
-op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
-67201	san francisco			UIP	5x2	07	0	Publicado	Leonel Pizarro-Ovalle	AGUAS SAN FRANCISCO	2015-1-29 00:00:00	
-67326	SOC. HOTELERA VICHUQUEN LTDA.	Par	Cuatricromia	Generales	10x3	07	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2015-1-29 00:00:00	
-67902	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x6	09	0	Publicado	Marcela Tello-ElDia		2015-1-29 00:00:00	
-67763	EMPRESA PERIODISTICA EL NORTE S.A.	Par	Blanco y negro	Medios Regionales	20x4	12	110.080	Publicado	Medios Regionales	Atres Serv. Integrales - Extracto Juzgado de Letras - (20040)	2015-1-29 00:00:00	
-67959	IVAN ALEJANDRO PAVLETICH MATUS	Par	Blanco y negro	Generales	10x2	13	23.540	Publicado	Leonel Pizarro-Ovalle	OBITUARIO	2015-1-29 00:00:00	

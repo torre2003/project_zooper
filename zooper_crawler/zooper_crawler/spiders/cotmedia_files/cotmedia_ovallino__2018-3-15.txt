@@ -1,9 +1,0 @@
-op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
-151924	SOCIEDAD DE RENTAS FALABELLA S.A	Par	Cuatricromia	Generales	8x6	03	50.980	Publicado	M Cristina Puga	HUINCHA Open Plaza - primera impar	2018-3-15 00:00:00	
-151967	PRENSA DEL LIMARI LTDA.	Par	Blanco y negro	Generales	7x6	04	0	Publicado	Marcela Tello-ElDia	Suscribase al Diario El Ovallino	2018-3-15 00:00:00	
-151514	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	6x3	08	0	Publicado	Marcela Tello-ElDia	Convenio Dabed, solicitado por MKT	2018-3-15 00:00:00	
-151811	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x3	09	0	Publicado	Marcela Tello-ElDia	Vea en Cinemark TR Agencia 	2018-3-15 00:00:00	
-151890	GASTON MALUENDA GONZALEZ	Par	Cuatricromia	Generales	17x3	09	0	Arte	Karina Rivera	circo los maluenda	2018-3-15 00:00:00	
-151968	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	7x6	11	0	Publicado	Marcela Tello-ElDia	Descuentos Cinemark - Diario El Ovallino	2018-3-15 00:00:00	
-150549	VELIZ CORTES JOSE A.			UIP	5x2	15	4.695	Publicado	Pedro Cortes		2018-3-15 00:00:00	
-151965	PRENSA DEL LIMARI LTDA.	Par	Blanco y negro	Generales	7x6	15	0	Publicado	Marcela Tello-ElDia		2018-3-15 00:00:00	

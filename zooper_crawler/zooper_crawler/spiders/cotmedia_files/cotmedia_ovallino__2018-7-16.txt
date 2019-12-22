@@ -1,9 +1,0 @@
-op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
-159993	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	3x6	05	0	Arte	Marcela Tello-ElDia		2018-7-16 00:00:00	
-159455	SOCIEDAD DE RENTAS FALABELLA S.A	Par	Cuatricromia	Generales	8x6	06	50.980	Publicado	M Cristina Puga	HUINCHA Open Plaza - primera impar	2018-7-16 00:00:00	
-158628	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	08	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2018-7-16 00:00:00	
-158816	OSSANDON PRESTACIONES MEDICAS Y OTR			UIP	5x2	09	3.879	Publicado	Karina Rivera	MEDICO CIRUJANO ALEJANDRO MANRIQUEZ	2018-7-16 00:00:00	
-158953	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	12x3	09	16.065	Publicado	Claudio Romero	Muebles alpina..	2018-7-16 00:00:00	
-159995	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	6x6	12	0	Arte	Marcela Tello-ElDia		2018-7-16 00:00:00	
-159994	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	6x6	14	0	Arte	Marcela Tello-ElDia		2018-7-16 00:00:00	
-159991	DABED Y CIA. LTDA., SELIM		1 pag.	Inserto	0x0	INS	45.378	Publicado	Marcela Tello-ElDia	Convenio Diarios Locales - El Ovallino	2018-7-16 00:00:00	

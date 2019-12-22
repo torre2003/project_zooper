@@ -1,9 +1,0 @@
-op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
-84550	DABED Y CIA. LTDA., SELIM	Impar	Cuatricromia	Generales	6x6	03	23.077	Publicado	Italo Retamal	(17) Ofertas Sep	2015-9-17 00:00:00	
-81393	tangue			UIP	5x2	05	2.808	Publicado	Patricia Villena	Tanguemar	2015-9-17 00:00:00	
-84612	HANNA JARUFE HAUNE	Par	Blanco y negro	Generales	10x3	05	30.000	Publicado	Claudio Romero	SALUDO FIESTAS PATRIAS 2015...	2015-9-17 00:00:00	
-83437	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	10x3	07	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2015-9-17 00:00:00	
-84116	ILUSTRE MUNICIPALIDAD DE OVALLE	Impar	Cuatricromia	Generales	6x6	08	0	Publicado	Italo Retamal	Fiestas Patrias - Pampilla Jueves 17	2015-9-17 00:00:00	
-83564	SOCIEDAD COMERCIAL KATANKURA LTDA	Par	Cuatricromia	Generales	6x6	09	25.000	Publicado	Italo Retamal	evento katankura 	2015-9-17 00:00:00	
-84718	punitaqui			UIP	10x6	11	11.149	Publicado	Italo Retamal	pampilla puni 	2015-9-17 00:00:00	
-84794	PRENSA DEL LIMARI LTDA.	Par	Blanco y negro	Generales	17x6	14	0	Arte	Marcela Tello-ElDia	www.elovallino.cl	2015-9-17 00:00:00	

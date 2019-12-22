@@ -1,9 +1,0 @@
-op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
-169225	CAMPOS DEL NORTE S.A.	Par	Cuatricromia	Generales	5x6	01	23.343	Publicado	Patricia Villena	Franja Enjoy Portada EL Ovallino	2018-11-4 00:00:00	
-169334	AGUAS DEL VALLE S.A.	Par	Cuatricromia	Generales	35x6	03	575.808	Publicado	Jacqueline Torres	SOCIALES.....	2018-11-4 00:00:00	
-169361	AGUAS DEL VALLE S.A.	Par	Blanco y negro	Generales	12x6	05	0	Arte	Jacqueline Torres	nota inauguracion tranque	2018-11-4 00:00:00	
-158763	SOCIEDAD MEDICA Y CONSULTORA ESTETI		Cuatricromia	Guia	5x2	06	13.333	Publicado	Paola Marquez	Diego Polanco	2018-11-4 00:00:00	
-168930	FUNDACI?N EDUC. URZECAM Y OTROS	Par	Blanco y negro	Generales	12x2	09	66.101	Publicado	Claudio Romero		2018-11-4 00:00:00	
-168995	EMPRESA PERIODISTICA EL NORTE S.A.	Par	Cuatricromia	Medios Regionales	10x3	09	121.376	Arte	Medios Regionales	Impar - Parques de Chile - (163746)	2018-11-4 00:00:00	
-169290	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	6x6	11	0	Publicado	Marcela Tello-ElDia	Descuentos Cinemark	2018-11-4 00:00:00	
-168584	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	14	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2018-11-4 00:00:00	

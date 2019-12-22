@@ -1,8 +1,0 @@
-op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
-152372	SOCIEDAD DE RENTAS FALABELLA S.A	Par	Cuatricromia	Generales	17x6	03	200.000	Publicado	M Cristina Puga	Open Plaza - Mall Ovalle	2018-3-22 00:00:00	
-151909	INMOBILIARIA NUEVA SERENA			UIP	10x6	05	16.260	Publicado	Claudio Romero	proyecto empresa serena.(.2 AVISOS NUEVO)" DEPARTAMENTOS.".." CASAS"...ALTERNAR LOS AVISOS TODOS LOS	2018-3-22 00:00:00	
-152515	JORGE CANEO NU?EZ			UIP	5x2	08	2.808	Publicado	Patricia Villena	Casas bychome	2018-3-22 00:00:00	
-152545	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	5x6	08	0	Publicado	Marcela Tello-ElDia	Suscribase al Diario El Ovallino	2018-3-22 00:00:00	
-152546	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	6x6	09	0	Publicado	Marcela Tello-ElDia	Descuentos Cinemark - Diario El Ovallino	2018-3-22 00:00:00	
-152547	PRENSA DEL LIMARI LTDA.	Par	Blanco y negro	Generales	17x6	12	0	Publicado	Marcela Tello-ElDia	Nos trasladamos para ofrecerles un mejor servicio... El Ovallino	2018-3-22 00:00:00	
-152548	PRENSA DEL LIMARI LTDA.	Par	Blanco y negro	Generales	6x6	15	0	Publicado	Marcela Tello-ElDia		2018-3-22 00:00:00	

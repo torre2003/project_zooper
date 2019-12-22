@@ -1,2 +1,0 @@
-op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
-66139	SERVICIOS TASUI S.A.	Par	Blanco y negro	Generales	5x2	07	0	Publicado	Rene Pizarro	Fe de Errata ...Tarifario 2015.	2015-1-8 00:00:00	

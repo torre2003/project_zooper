@@ -1,7 +1,0 @@
-op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
-102617	DABED Y CIA. LTDA., SELIM	Par	Cuatricromia	Generales	6x6	03	23.076	Publicado	Nadia Randolph	herramientas	2016-5-14 00:00:00	
-100667	AGRICOLA NORTE TALINAY LTDA	Par	Blanco y negro	Generales	5x2	05	1.666	Publicado	Paola Marquez	UIP VENTA ALFALFA	2016-5-14 00:00:00	
-101863	PARQUES DE CHILE S.A	Par	Blanco y negro	Generales	10x2	05	54.142	Publicado	Rene Pizarro	Parques de Chile...( nuevo )	2016-5-14 00:00:00	
-101608	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	09	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2016-5-14 00:00:00	
-102808	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x6	11	0	Arte	Marcela Tello-ElDia		2016-5-14 00:00:00	
-102333	VALENTINA ANDREA PIZARRO VIERA			UIP	5x2	14	2.808	Publicado	Leonel Pizarro-Ovalle		2016-5-14 00:00:00	

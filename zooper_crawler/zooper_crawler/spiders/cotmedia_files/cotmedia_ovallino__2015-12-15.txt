@@ -1,8 +1,0 @@
-op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
-91226	HSCHILE S.A.	Impar	Cuatricromia	Generales	34x6	03	360.000	Publicado	Marcela Tello-ElDia		2015-12-15 00:00:00	
-91220	ILUSTRE MUNICIPALIDAD DE OVALLE	Par	Blanco y negro	Generales	17x3	04	83.333	Publicado	Italo Retamal	elecciones ovalle 	2015-12-15 00:00:00	
-81440	Tanguemar			UIP	5x2	05	2.808	Publicado	Patricia Villena	Tanguemar	2015-12-15 00:00:00	
-89535	PAMELA HARDER SANTOS	Par	Blanco y negro	Generales	5x2	05	1.428	Publicado	Italo Retamal	venta de casa harder	2015-12-15 00:00:00	
-91124	GOTTREUX SALAS RUBEN	Par	Blanco y negro	Generales	8x2	05	33.898	Publicado	Leonel Pizarro-Ovalle	remates en ovalle	2015-12-15 00:00:00	
-91248	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x6	14	0	Publicado	Marcela Tello-ElDia		2015-12-15 00:00:00	
-90594	DABED Y CIA. LTDA., SELIM		1 pag.	Inserto	x	INS	190.588	Publicado	Italo Retamal	diario el ovallino diciembre 	2015-12-15 00:00:00	

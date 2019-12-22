@@ -1,5 +1,0 @@
-op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
-71610	PAIROA			UIP	10x6	05	16.260	Publicado	Leonel Pizarro-Ovalle	CIRCO MEXICANO	2015-3-24 00:00:00	
-70091	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	10x3	07	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2015-3-24 00:00:00	
-71782	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	35x6	11	0	Publicado	Marcela Tello-ElDia		2015-3-24 00:00:00	
-71746	MIGUEL IGLESIAS ZENTENO	Par	Blanco y negro	Generales	17x6	13	210.084	Publicado	Pedro Jaime	REMIG REMATES 	2015-3-24 00:00:00	

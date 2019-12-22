@@ -1,8 +1,0 @@
-op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
-153886	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x6	03	0	Arte	Marcela Tello-ElDia		2018-4-10 00:00:00	
-152625	AGRICOLA NORTE TALINAY LTDA	Par	Blanco y negro	Generales	5x2	05	1.666	Publicado	Paola Marquez	UIP VENTA ALFALFA	2018-4-10 00:00:00	
-153701	SOC. EDUCACIONAL SOSTENEDORA STA. M	Par	Blanco y negro	Generales	10x2	05	47.080	Publicado	Claudio Romero		2018-4-10 00:00:00	
-153232	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	08	0	Arte	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2018-4-10 00:00:00	
-153509	INMOBILIARIA NUEVA SERENA			UIP	10x6	09	16.260	Publicado	Claudio Romero	proyecto empresa serena (agencia enviara aviso)	2018-4-10 00:00:00	
-153887	PRENSA DEL LIMARI LTDA.	Par	Blanco y negro	Generales	17x6	12	0	Arte	Marcela Tello-ElDia		2018-4-10 00:00:00	
-153888	PRENSA DEL LIMARI LTDA.	Par	Blanco y negro	Generales	6x6	15	0	Arte	Marcela Tello-ElDia		2018-4-10 00:00:00	

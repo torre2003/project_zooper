@@ -1,9 +1,0 @@
-op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
-151349	JUAN PABLO CORRAL	Par	Blanco y negro	Generales	5x2	03	27.071	Publicado	Karina Rivera	abogado	2018-3-3 00:00:00	
-151408	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	4x6	05	0	Publicado	Marcela Tello-ElDia	Cupones de Descuentos - Cinemark	2018-3-3 00:00:00	
-150919	ILUSTRE MUNICIPALIDAD DE OVALLE	Par	Cuatricromia	Generales	10x2	09	40.030	Publicado	Karina Rivera	vendimia	2018-3-3 00:00:00	
-151328	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	11	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2018-3-3 00:00:00	
-151409	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x6	13	0	Publicado	Marcela Tello-ElDia	En la comodidad de su hogar...	2018-3-3 00:00:00	
-150537	VELIZ CORTES JOSE A.			UIP	5x2	15	4.695	Publicado	Pedro Cortes		2018-3-3 00:00:00	
-151410	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	12x6	15	0	Publicado	Marcela Tello-ElDia		2018-3-3 00:00:00	
-151287	RESONANCIA IMAGEN S.A.	Home	Banner Derecho	Web	x	WEB	120.600	Publicado	Paola Marquez	Imatec salud elovalino.cl + rr.ss.	2018-3-3 00:00:00	

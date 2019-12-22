@@ -1,9 +1,0 @@
-op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
-126017	PEDRO ANDRES MONARDEZ ELGUETA	Par	Cuatricromia	Generales	6x6	01	25.000	Publicado	Karina Rivera	Restaurant Riquisimo	2017-3-30 00:00:00	
-126030	EMPRESA PERIODISTICA EL NORTE S.A.	Par	Cuatricromia	Medios Regionales	16x6	03	210.973	Arte	Medios Regionales	Impar - Materiales y Soluciones - (53010)	2017-3-30 00:00:00	
-125309	AGRICOLA NORTE TALINAY LTDA	Par	Blanco y negro	Generales	5x2	05	1.666	Publicado	Paola Marquez	UIP VENTA ALFALFA	2017-3-30 00:00:00	
-125761	SOCIEDAD 			UIP	10x2	06	7.882	Publicado	Karina Rivera	PGR	2017-3-30 00:00:00	
-124685	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	08	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2017-3-30 00:00:00	
-125663	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x3	09	0	Arte	Marcela Tello-ElDia		2017-3-30 00:00:00	
-126041	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	5x6	11	0	Arte	Marcela Tello-ElDia		2017-3-30 00:00:00	
-126024	EMPRESA PERIODISTICA EL NORTE S.A.	Par	Blanco y negro	Medios Regionales	6x2	14	17.340	Arte	Medios Regionales		2017-3-30 00:00:00	

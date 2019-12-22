@@ -1,6 +1,0 @@
-op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
-97795	AUTOMOTRIZ CARMONA	Par	Cuatricromia	Generales	6x6	01	23.076	Publicado	Marcela Tello-ElDia	Nissan Versa - Portada (si hay disponibilidad)	2016-3-26 00:00:00	
-97920	parques			UIP	10x2	05	9.765	Publicado	Rene Pizarro	Tu tranquilidad Familiar...Parque de Ovalle ....Parques de Chile	2016-3-26 00:00:00	
-98175	AGRICOLA NORTE TALINAY LTDA	Par	Blanco y negro	Generales	5x2	05	1.667	Publicado	Paola Marquez	UIP VENTA ALFALFA	2016-3-26 00:00:00	
-98024	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x3	11	0	Publicado	Marcela Tello-ElDia	Precios con Descuentos Cinemark	2016-3-26 00:00:00	
-98660	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x6	14	0	Arte	Marcela Tello-ElDia		2016-3-26 00:00:00	

@@ -1,7 +1,0 @@
-op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
-70081	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	10x3	05	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2015-3-14 00:00:00	
-70998	DABED Y CIA. LTDA., SELIM	Impar	Cuatricromia	Generales	6x6	08	23.077	Publicado	Italo Retamal	DABED	2015-3-14 00:00:00	
-70513	renacer			UIP	5x2	12	2.808	Publicado	Leonel Pizarro-Ovalle	arrienda	2015-3-14 00:00:00	
-71022	PRENSA DEL LIMARI LTDA.	Par	Blanco y negro	Generales	8x2	12	0	Publicado	Marcela Tello-ElDia	Hoy Circulan - Economicos	2015-3-14 00:00:00	
-70717	LA ELEGANTE	Par	Cuatricromia	Contraportada	35x6	16	177.172	Publicado	Patricia Villena	La elegante	2015-3-14 00:00:00	
-70883	EMPRESAS LA POLAR S.A.		9 a 24 pag.	Inserto	x	INS	160.000	Publicado	Patricia Villena	Inserto Polerones	2015-3-14 00:00:00	

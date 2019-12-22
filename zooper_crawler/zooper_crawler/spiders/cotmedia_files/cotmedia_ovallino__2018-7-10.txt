@@ -1,9 +1,0 @@
-op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
-159526	GOTTREUX SALAS RUBEN	Par	Blanco y negro	Generales	8x2	05	30.132	Publicado	Karina Rivera	REMATE JUDICIAL EN OVALLE	2018-7-10 00:00:00	
-158632	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	06	0	Arte	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2018-7-10 00:00:00	
-159372	ANDRES AGUILERA CASTILLO	Par	Cuatricromia	Generales	10x2	08	6.813	Publicado	Karina Rivera		2018-7-10 00:00:00	
-159398	SERVICIOS MEDICOS INVERSIONES E INM	Par	Cuatricromia	Generales	10x2	08	5.912	Publicado	Karina Rivera	CENTRO MEDICO CIM	2018-7-10 00:00:00	
-158810	OSSANDON PRESTACIONES MEDICAS Y OTR			UIP	5x2	09	3.879	Publicado	Karina Rivera	MEDICO CIRUJANO ALEJANDRO MANRIQUEZ	2018-7-10 00:00:00	
-159380	JONATHAN CLAUDIO SANHUEZA OJEDA	Par	Cuatricromia	Generales	5x2	09	2.950	Publicado	Karina Rivera	TRAUMATOLOGO SANHUEZA (GUIA PROFESIONAL)	2018-7-10 00:00:00	
-159390	ESTUDIO JURIDICO POLO & CONTADOR	Par	Cuatricromia	Generales	5x2	09	3.931	Publicado	Karina Rivera	ESTUDIO JURIDICO POLO & CONTADOR (GUIA PROFESIONAL)	2018-7-10 00:00:00	
-159583	ILUSTRE MUNICIPALIDAD DE OVALLE	Par	Cuatricromia	Generales	6x6	16	0	Arte	Karina Rivera		2018-7-10 00:00:00	

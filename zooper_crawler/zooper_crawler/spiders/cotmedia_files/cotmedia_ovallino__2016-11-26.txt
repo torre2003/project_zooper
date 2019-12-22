@@ -1,9 +1,0 @@
-op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
-114250	Pedro Andres Monardez Elgueta			UIP	17x2	01	12.895	Arte	Karina Rivera	Restaurant Riquisimo	2016-11-26 00:00:00	
-116716	OVALLE CASINO RESORT S.A	Par	Cuatricromia	Generales	25x4	03	151.598	Arte	Paola Marquez	OCR Eventos Noviembre	2016-11-26 00:00:00	
-115933	AGRICOLA NORTE TALINAY LTDA	Par	Blanco y negro	Generales	5x2	05	1.666	Arte	Paola Marquez	UIP VENTA ALFALFA	2016-11-26 00:00:00	
-117357	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x6	08	0	Arte	Marcela Tello-ElDia		2016-11-26 00:00:00	
-115443	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	09	0	Arte	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2016-11-26 00:00:00	
-116158	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x6	11	0	Arte	Marcela Tello-ElDia	Clases Ejecutivas	2016-11-26 00:00:00	
-117359	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	6x6	14	0	Arte	Marcela Tello-ElDia		2016-11-26 00:00:00	
-116815	CONSTRUCTORA CADEL LTDA.	Par	Cuatricromia	Generales	34x6	16	300.000	Arte	Rene Pizarro		2016-11-26 00:00:00	

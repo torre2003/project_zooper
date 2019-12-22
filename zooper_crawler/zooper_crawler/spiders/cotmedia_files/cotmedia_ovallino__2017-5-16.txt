@@ -1,8 +1,0 @@
-op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
-127486	AGRICOLA NORTE TALINAY LTDA	Par	Blanco y negro	Generales	5x2	05	1.666	Publicado	Paola Marquez	UIP VENTA ALFALFA	2017-5-16 00:00:00	
-127780	JACQUELINE JOFRE VILLANUEVA			UIP	5x2	05	2.808	Publicado	Karina Rivera	Cortinas Rollers	2017-5-16 00:00:00	
-128809	KH			UIP	5x2	05	2.808	Publicado	Miguel Apey	KHUYAY TRAVEL	2017-5-16 00:00:00	
-128115	FERNANDO YOANOVICH			UIP	5x2	07	2.247	Publicado	Karina Rivera	COMPRA VEHICULOS	2017-5-16 00:00:00	
-129657	SAKATA 			UIP	5x2	07	6.120	Publicado	Karina Rivera		2017-5-16 00:00:00	
-129662	AGUAS DEL VALLE S.A.	Impar	Cuatricromia	Generales	35x6	09	830.492	Publicado	Jacqueline Torres	AGUAS DEL VALLE /PRIMERA IMPAR COLOR	2017-5-16 00:00:00	
-129630	DABED Y CIA. LTDA., SELIM	Par	Cuatricromia	Generales	6x6	14	23.076	Publicado	Karina Rivera	M3	2017-5-16 00:00:00	

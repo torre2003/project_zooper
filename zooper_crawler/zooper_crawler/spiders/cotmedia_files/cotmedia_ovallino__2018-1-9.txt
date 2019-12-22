@@ -1,9 +1,0 @@
-op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
-147333	SOCIEDAD DE RENTAS FALABELLA S.A	Par	Cuatricromia	Generales	8x6	03	50.980	Publicado	M Cristina Puga	HUINCHA PORTADAOpen Plaza - 	2018-1-9 00:00:00	
-147370	SOSTENEDORA EDUCACIONAL CERRILLOS D			UIP	5x2	05	2.808	Publicado	Karina Rivera	LLAMADO CONCURSO	2018-1-9 00:00:00	
-147622	SOC. EDUC. AMB LTDA.	Par	Blanco y negro	Generales	5x2	05	18.832	Publicado	Karina Rivera	REQUIERE CONTRATAR	2018-1-9 00:00:00	
-146938	DABED Y CIA. LTDA., SELIM	Par	Cuatricromia	Generales	6x6	08	23.076	Publicado	Karina Rivera	GRAF. OV-03	2018-1-9 00:00:00	
-147589	SOCIEDAD EDUCACIONL GALLARDO Y FIGU			UIP	10x2	09	6.306	Publicado	Karina Rivera	CENTRO DE FORMACION MATEMATICA	2018-1-9 00:00:00	
-147234	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	11	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2018-1-9 00:00:00	
-146010	VELIZ CORTES JOSE A.			UIP	5x2	15	4.695	Publicado	Pedro Cortes		2018-1-9 00:00:00	
-147646	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	6x6	15	0	Publicado	Marcela Tello-ElDia		2018-1-9 00:00:00	

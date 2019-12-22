@@ -1,9 +1,0 @@
-op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
-89708	ILUSTRE MUNICIPALIDAD DE OVALLE	Impar	Cuatricromia	Generales	18x6	03	83.333	Arte	Italo Retamal	teleton muni ovalle 	2015-11-26 00:00:00	
-81429	Tanguemar			UIP	5x2	05	2.808	Arte	Patricia Villena	Tanguemar	2015-11-26 00:00:00	
-89329	JUAN CARLOS AQUEZ JILES	Par	Blanco y negro	Generales	5x2	05	1.429	Arte	Italo Retamal	Capacitaciones 	2015-11-26 00:00:00	
-89516	PAMELA HARDER SANTOS	Par	Blanco y negro	Generales	5x2	05	1.428	Arte	Italo Retamal	venta de casa harder	2015-11-26 00:00:00	
-89091	SOC.INMOBILIARIO E INVERSIONES RIO 			UIP	10x6	06	16.260	Arte	Claudio Romero	PROYECTO MIRADOR OVALLE..	2015-11-26 00:00:00	
-88706	ADA D?AZ ARAYA	Par	Blanco y negro	Generales	5x2	07	1.428	Arte	Italo Retamal	zona ganjah	2015-11-26 00:00:00	
-88263	SOCIEDAD COMERCIAL KATANKURA LTDA	Par	Cuatricromia	Generales	6x6	09	25.000	Arte	Italo Retamal	evento katankura 	2015-11-26 00:00:00	
-89554	ILUSTRE MUNICIPALIDAD DE MONTE PATR	Par	Blanco y negro	Generales	20x3	10	89.554	Arte	Italo Retamal	monte patria	2015-11-26 00:00:00	

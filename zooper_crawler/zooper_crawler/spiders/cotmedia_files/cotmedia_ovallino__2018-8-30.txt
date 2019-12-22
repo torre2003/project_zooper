@@ -1,7 +1,0 @@
-op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
-162477	SOCIEDAD DE RENTAS FALABELLA S.A	Impar	Cuatricromia	Generales	8x6	03	50.980	Publicado	M Cristina Puga	Huincha Open Plaza	2018-8-30 00:00:00	
-161528	SOC. SERVICIOS TECNOLOGICOS Y TELCO			UIP	10x6	05	16.260	Publicado	Claudio Romero	TELCONOR..AHORA EN OVALLE / REPITE DE LA SEMANA DEL 13 AGOSTO	2018-8-30 00:00:00	
-161085	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	6x3	08	0	Publicado	Marcela Tello-ElDia	Convenio Dabed y Diario El Ovallino	2018-8-30 00:00:00	
-161416	OSSANDON PRESTACIONES MEDICAS Y OTR			UIP	5x2	08	3.879	Publicado	Karina Rivera	MEDICO CIRUJANO ALEJANDRO MANRIQUEZ	2018-8-30 00:00:00	
-160580	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	09	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2018-8-30 00:00:00	
-162754	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	6x6	14	0	Arte	Marcela Tello-ElDia		2018-8-30 00:00:00	

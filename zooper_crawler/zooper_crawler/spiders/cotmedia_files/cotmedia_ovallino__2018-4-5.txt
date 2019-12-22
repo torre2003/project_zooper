@@ -1,7 +1,0 @@
-op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
-153528	SOCIEDAD DE RENTAS FALABELLA S.A	Par	Cuatricromia	Generales	17x6	03	200.000	Publicado	M Cristina Puga	Open Plaza - Venta pasillo	2018-4-5 00:00:00	
-152621	AGRICOLA NORTE TALINAY LTDA	Par	Blanco y negro	Generales	5x2	05	1.666	Publicado	Paola Marquez	UIP VENTA ALFALFA	2018-4-5 00:00:00	
-153239	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	06	0	Arte	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2018-4-5 00:00:00	
-153539	ILUSTRE MUNICIPALIDAD DE OVALLE	Par	Blanco y negro	Generales	10x3	10	70.620	Publicado	Karina Rivera	municipalidad de ovalle	2018-4-5 00:00:00	
-153654	PRENSA DEL LIMARI LTDA.	Par	Blanco y negro	Generales	17x6	12	0	Arte	Marcela Tello-ElDia	Nos trasladamos para ofrecerles un mejor servicio... El Ovallino	2018-4-5 00:00:00	
-153655	PRENSA DEL LIMARI LTDA.	Par	Blanco y negro	Generales	6x6	15	0	Arte	Marcela Tello-ElDia		2018-4-5 00:00:00	

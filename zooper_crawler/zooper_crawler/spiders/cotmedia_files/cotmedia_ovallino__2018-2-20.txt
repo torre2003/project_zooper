@@ -1,7 +1,0 @@
-op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
-149519	INMOBILIARIA NUEVA SERENA			UIP	10x6	05	16.260	Publicado	Claudio Romero	proyecto empresa serena.(.2 AVISOS NUEVO)" DEPARTAMENTOS.".." CASAS"...ALTERNAR LOS AVISOS TODOS LOS	2018-2-20 00:00:00	
-148392	INVERSIONES TANGUEMAR LIMITADA			UIP	5x2	11	2.808	Publicado	Patricia Villena	Tanguemar 2	2018-2-20 00:00:00	
-150493	MARIA ISABEL MALUENSA ROJAS	Par	Blanco y negro	Generales	10x2	11	37.664	Publicado	Karina Rivera	REMATE JUDICIAL 	2018-2-20 00:00:00	
-150592	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x6	12	0	Publicado	Marcela Tello-ElDia	En la comodidad de su hogar...	2018-2-20 00:00:00	
-150526	VELIZ CORTES JOSE A.			UIP	5x2	15	4.695	Publicado	Pedro Cortes		2018-2-20 00:00:00	
-150593	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	6x6	15	0	Publicado	Marcela Tello-ElDia		2018-2-20 00:00:00	

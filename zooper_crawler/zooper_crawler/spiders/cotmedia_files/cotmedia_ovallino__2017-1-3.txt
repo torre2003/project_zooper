@@ -1,9 +1,0 @@
-op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
-117872	OVALLEMAR			UIP	5x2	03	3.958	Publicado	Karina Rivera	OVALLE MAR	2017-1-3 00:00:00	
-120045	SOCIEDAD E			UIP	10x2	03	7.882	Publicado	Karina Rivera		2017-1-3 00:00:00	
-119253	AGRICOLA NORTE TALINAY LTDA	Par	Blanco y negro	Generales	5x2	07	1.666	Publicado	Paola Marquez	UIP VENTA ALFALFA	2017-1-3 00:00:00	
-119478	tanguemar			UIP	5x2	07	2.808	Publicado	Patricia Villena	Tanguemar	2017-1-3 00:00:00	
-120148	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x6	09	0	Arte	Marcela Tello-ElDia		2017-1-3 00:00:00	
-120149	PRENSA DEL LIMARI LTDA.	Par	Blanco y negro	Generales	6x6	13	0	Arte	Marcela Tello-ElDia		2017-1-3 00:00:00	
-118598	CABARET Y SALON DE ESPECTACULOS ART			UIP	10x2	14	5.517	Publicado	Karina Rivera	PARADISE CLUB	2017-1-3 00:00:00	
-120150	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	6x6	14	601.374	Arte	Marcela Tello-ElDia		2017-1-3 00:00:00	

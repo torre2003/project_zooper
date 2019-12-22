@@ -1,7 +1,0 @@
-op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
-82692	AUTOMOTRIZ CARMONA	Par	Cuatricromia	Generales	7x6	01	23.077	Publicado	Marcela Tello-ElDia	Ya estamos en Ovalle - Portada	2015-9-23 00:00:00	
-84799	INMOBILIARIA NUEVA SERENA	Par	Blanco y negro	Generales	17x6	03	0	Publicado	Claudio Romero	proyecto de san luis.......	2015-9-23 00:00:00	
-83204	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	6x6	06	0	Publicado	Claudio Romero	Muebles Alpina	2015-9-23 00:00:00	
-83435	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	10x3	07	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2015-9-23 00:00:00	
-84833	ASOC. CANALISTAS CANAL CAMARICO	Par	Blanco y negro	Generales	10x2	07	47.080	Publicado	Italo Retamal	junta general	2015-9-23 00:00:00	
-84921	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x6	14	0	Arte	Marcela Tello-ElDia		2015-9-23 00:00:00	

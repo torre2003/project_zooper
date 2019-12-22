@@ -1,9 +1,0 @@
-op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
-127494	SOCIEDAD DE RENTAS FALABELLA S.A	Par	Cuatricromia	Generales	8x6	01	50.980	Publicado	M Cristina Puga		2017-4-19 00:00:00	
-125947	OVALLE CASINO RESORT S.A	Par	Cuatricromia	Generales	25x4	03	0	Publicado	Paola Marquez	OCR Eventos mensuales	2017-4-19 00:00:00	
-127464	AGRICOLA NORTE TALINAY LTDA	Par	Blanco y negro	Generales	5x2	05	1.666	Publicado	Paola Marquez	UIP VENTA ALFALFA	2017-4-19 00:00:00	
-127500	SANTO TOMAS EDUCACION CONTINUA LTDA			UIP	10x6	07	16.260	Publicado	Claudio Romero	DIPLOMADO GESTION INTEGRADA..	2017-4-19 00:00:00	
-126224	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	08	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2017-4-19 00:00:00	
-126429	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	6x6	09	0	Publicado	Claudio Romero	Muebles Alpina	2017-4-19 00:00:00	
-127645	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x6	11	0	Arte	Marcela Tello-ElDia		2017-4-19 00:00:00	
-127543	DABED Y CIA. LTDA., SELIM	Par	Cuatricromia	Generales	6x6	14	23.076	Publicado	Karina Rivera	Dabed Motos	2017-4-19 00:00:00	

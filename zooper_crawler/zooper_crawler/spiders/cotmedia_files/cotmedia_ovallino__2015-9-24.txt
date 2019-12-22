@@ -1,5 +1,0 @@
-op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
-83758	SOCIEDAD DE RENTAS FALABELLA S.A	Par	Cuatricromia	Generales	8x6	01	50.980	Publicado	M Cristina Puga	Huincha portada Open Plaza	2015-9-24 00:00:00	
-83566	SOCIEDAD COMERCIAL KATANKURA LTDA	Par	Cuatricromia	Generales	6x6	03	25.000	Publicado	Italo Retamal	evento katankura 	2015-9-24 00:00:00	
-85040	ASOC. CANALISTAS CANAL CAMARICO	Par	Blanco y negro	Generales	10x2	12	0	Publicado	Italo Retamal	junta general	2015-9-24 00:00:00	
-85052	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x6	14	0	Arte	Marcela Tello-ElDia	www.elovallino.cl	2015-9-24 00:00:00	

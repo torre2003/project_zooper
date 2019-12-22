@@ -1,9 +1,0 @@
-op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
-66785	CORPORACION CULTURAL BALMACEDA DOCE	Par	Cuatricromia	Generales	17x6	03	252.954	Publicado	Jacqueline Torres	FESTIVAL DE LAS ARTES (UBICAR CULTURA Y ESPECTACULO	2015-1-22 00:00:00	
-67319	SOC. HOTELERA VICHUQUEN LTDA.	Par	Cuatricromia	Generales	10x3	05	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2015-1-22 00:00:00	
-66371	SOCIEDAD COMERCIAL TREMENDO			UIP	10x2	07	0	Publicado	Italo Retamal	Tremendo Restaurante	2015-1-22 00:00:00	
-66400	Marcela Burgos Robles			UIP	10x2	07	0	Arte	Italo Retamal	agrogranjalosacacios	2015-1-22 00:00:00	
-67179	INVERSIONES SAN FRAN			UIP	5x2	07	2.808	Publicado	Leonel Pizarro-Ovalle	AGUAS SAN FRANCISCO	2015-1-22 00:00:00	
-67252	GOTTREUX SALAS RUBEN	Par	Blanco y negro	Generales	6x2	07	28.248	Publicado	Leonel Pizarro-Ovalle	remate ovalle	2015-1-22 00:00:00	
-67268	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	12x6	08	0	Publicado	Marcela Tello-ElDia	Turismo - El Ovallino	2015-1-22 00:00:00	
-66904	rio hurta			UIP	10x6	09	0	Publicado	Italo Retamal	2 feria costumbrista 	2015-1-22 00:00:00	

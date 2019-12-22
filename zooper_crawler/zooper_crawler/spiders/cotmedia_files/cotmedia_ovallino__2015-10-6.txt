@@ -1,3 +1,0 @@
-op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
-85782	INMOBILIARIA AYLLU S.A	Par	Blanco y negro	Generales	13x2	05	55.084	Publicado	Claudio Romero	Citacion....JUNTA...	2015-10-6 00:00:00	
-86018	PRENSA DEL LIMARI LTDA.	Par	Blanco y negro	Generales	17x6	14	0	Publicado	Marcela Tello-ElDia	El Ovallino - www.elovallino.cl	2015-10-6 00:00:00	

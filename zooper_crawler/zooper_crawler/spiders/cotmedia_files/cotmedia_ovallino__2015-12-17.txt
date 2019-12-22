@@ -1,7 +1,0 @@
-op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
-90924	SOCIEDAD DE RENTAS FALABELLA S.A	Par	Cuatricromia	Generales	8x6	03	50.980	Publicado	M Cristina Puga	Open full promo	2015-12-17 00:00:00	
-81442	Tanguemar			UIP	5x2	05	2.808	Publicado	Patricia Villena	Tanguemar	2015-12-17 00:00:00	
-89537	PAMELA HARDER SANTOS	Par	Blanco y negro	Generales	5x2	05	1.428	Publicado	Italo Retamal	venta de casa harder	2015-12-17 00:00:00	
-88512	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	10x3	07	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2015-12-17 00:00:00	
-90456	SOCIEDAD COMERCIAL KATANKURA LTDA	Par	Cuatricromia	Generales	6x6	09	25.000	Publicado	Italo Retamal	evento katankura 	2015-12-17 00:00:00	
-91455	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x6	14	0	Publicado	Marcela Tello-ElDia	www.elovallino.cl	2015-12-17 00:00:00	

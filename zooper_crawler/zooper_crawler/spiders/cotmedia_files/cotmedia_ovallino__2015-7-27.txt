@@ -1,8 +1,0 @@
-op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
-80666	AUTOMOTRIZ CARMONA	Par	Cuatricromia	Generales	7x6	01	23.077	Publicado	Marcela Tello-ElDia	Ya estamos en Ovalle - Portada	2015-7-27 00:00:00	
-80366	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	34x6	03	0	Publicado	Marcela Tello-ElDia	Concurso de Lectores Infantiles	2015-7-27 00:00:00	
-79423	lara			UIP	10x6	05	16.260	Publicado	Italo Retamal	tcm lara y cia	2015-7-27 00:00:00	
-79020	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	10x3	07	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2015-7-27 00:00:00	
-80376	cesar ossio			UIP	5x4	08	5.630	Publicado	Italo Retamal	mov de tierra	2015-7-27 00:00:00	
-78572	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	6x6	09	16.065	Publicado	Claudio Romero	Muebles Alpina	2015-7-27 00:00:00	
-80828	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x6	14	0	Publicado	Marcela Tello-ElDia		2015-7-27 00:00:00	

@@ -1,7 +1,0 @@
-op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
-68167	SOC. AUTOMOTRIZ COVALSA CENTER LTDA	Par	Cuatricromia	Generales	5x6	01	51.405	Publicado	Claudio Romero	PORTADA ..COVALSA	2015-2-18 00:00:00	
-69166	: LARA Y CIA. AGUILAS TOCANDO EL CI			UIP	10x6	05	16.260	Publicado	Italo Retamal	apertura	2015-2-18 00:00:00	
-68350	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	6x6	06	0	Publicado	Claudio Romero	Muebles Alpina	2015-2-18 00:00:00	
-68259	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	10x3	07	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2015-2-18 00:00:00	
-69317	DABED Y CIA. LTDA., SELIM	Impar	Cuatricromia	Generales	6x6	09	23.077	Publicado	Italo Retamal	MOTO DABED	2015-2-18 00:00:00	
-69327	SOSTENEDORA EDUCACIONAL CERRILLOS D	Par	Blanco y negro	Generales	5x2	10	23.540	Publicado	Leonel Pizarro-Ovalle	PROFESOR	2015-2-18 00:00:00	

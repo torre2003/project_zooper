@@ -1,9 +1,0 @@
-op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
-82308	DABED Y CIA. LTDA., SELIM	Impar	Cuatricromia	Generales	6x6	03	23.076	Publicado	Italo Retamal	(30) Expo Dabed	2015-8-30 00:00:00	
-81458	INVERSIONES TANGUEMAR LIMITADA	Impar	Blanco y negro	Generales	5x2	05	14.147	Publicado	Patricia Villena	Tanguemar	2015-8-30 00:00:00	
-81970	JORGE ALVARADO RAMIREZ	Par	Blanco y negro	Generales	5x2	05	0	Publicado	Italo Retamal	abogado	2015-8-30 00:00:00	
-83012	TITA ALAMO SAGLIE	Par	Blanco y negro	Generales	5x2	05	0	Publicado	Italo Retamal	mideraia	2015-8-30 00:00:00	
-83023	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	12x6	09	0	Publicado	Marcela Tello-ElDia	Avant Premiere - Club de Lectores	2015-8-30 00:00:00	
-83155	EMPRESA PERIODISTICA EL NORTE S.A.	Par	Blanco y negro	Medios Regionales	6x3	10	26.010	Publicado	Medios Regionales	Cristian Rivas - Remate - (186810)	2015-8-30 00:00:00	
-83159	CAMAL MUSALEM TAPIA Y CIA.	Par	Blanco y negro	Generales	22x3	12	80.784	Publicado	Marcela Tello-ElDia	Toyota Factory Sale - Nuevo	2015-8-30 00:00:00	
-83223	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x6	14	0	Publicado	Marcela Tello-ElDia	El Ovallino - www.elovallino.cl	2015-8-30 00:00:00	

@@ -1,9 +1,0 @@
-op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
-88257	SOCIEDAD COMERCIAL KATANKURA LTDA	Par	Cuatricromia	Generales	6x6	03	25.000	Publicado	Italo Retamal	evento katankura 	2015-11-5 00:00:00	
-87039	BIANCA DASOLI	Par	Blanco y negro	Generales	5x2	05	1.429	Publicado	Italo Retamal	tarot	2015-11-5 00:00:00	
-88040	JOSE CONTADOR DURAN	Par	Blanco y negro	Generales	5x2	05	1.428	Publicado	Italo Retamal	arriendo local	2015-11-5 00:00:00	
-88156	Agroindustrial Vicente Rodriguez 			UIP	5x2	05	2.808	Publicado	Italo Retamal	oferta de empleo 	2015-11-5 00:00:00	
-87059	linea			UIP	10x2	07	5.630	Publicado	Italo Retamal	seguridad 	2015-11-5 00:00:00	
-87141	socinget			UIP	10x2	07	5.630	Publicado	Italo Retamal		2015-11-5 00:00:00	
-88107	ILUSTRE MUNICIPALIDAD DE MONTE PATR	Impar	Blanco y negro	Generales	25x2	11	67.227	Publicado	Italo Retamal	Bailes chinos monte patria 	2015-11-5 00:00:00	
-87622	ILUSTRE MUNICIPALIDAD DE MONTE PATR	Impar	Blanco y negro	Generales	17x2	13	44.818	Publicado	Italo Retamal	 carnaval monte 	2015-11-5 00:00:00	

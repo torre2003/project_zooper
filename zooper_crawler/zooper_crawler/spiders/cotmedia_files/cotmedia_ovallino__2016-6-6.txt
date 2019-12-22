@@ -1,9 +1,0 @@
-op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
-103469	TOMAS			UIP	10x6	03	16.260	Publicado	Claudio Romero	DIPLOMADOS DE MEDIACION FAMILIAR	2016-6-6 00:00:00	
-103762	ALVARADO RAMIREZ			UIP	5x2	06	2.808	Publicado	Leonel Pizarro-Ovalle	ABOGADO	2016-6-6 00:00:00	
-104357	ASOC. CANALISTAS CANAL CAMARICO	Par	Blanco y negro	Generales	12x2	06	56.496	Publicado	Leonel Pizarro-Ovalle	CITACION	2016-6-6 00:00:00	
-104383	DABED Y CIA. LTDA., SELIM	Par	Blanco y negro	Generales	6x6	07	23.076	Publicado	Nadia Randolph	LIBERTAD	2016-6-6 00:00:00	
-104127	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	12x6	09	0	Arte	Marcela Tello-ElDia	Avant Premiere - Club de Lectores	2016-6-6 00:00:00	
-103967	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	6x6	11	16.065	Publicado	Claudio Romero	Muebles Alpina	2016-6-6 00:00:00	
-103668	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	13	0	Arte	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2016-6-6 00:00:00	
-104428	SANTA EMA SA	Par	Cuatricromia	Generales	35x6	16	0	Arte	Miguel Apey	INMOB. SANTA EMA - PAG. IMPAR	2016-6-6 00:00:00	

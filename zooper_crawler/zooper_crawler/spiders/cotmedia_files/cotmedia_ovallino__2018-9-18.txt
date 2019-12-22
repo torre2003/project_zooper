@@ -1,8 +1,0 @@
-op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
-163136	CAMPOS DEL NORTE S.A.	Par	Cuatricromia	Generales	5x6	01	23.333	Publicado	Patricia Villena	Franja Enjoy Portada EL Ovallino	2018-9-18 00:00:00	
-163961	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	12x6	03	0	Arte	Marcela Tello-ElDia		2018-9-18 00:00:00	
-162856	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	06	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2018-9-18 00:00:00	
-163962	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	10x3	07	0	Arte	Marcela Tello-ElDia	Nos trasladamos para prestarles un mejor servicio...	2018-9-18 00:00:00	
-163963	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	3x6	12	0	Arte	Marcela Tello-ElDia	Periodismo en todos los sentimos...	2018-9-18 00:00:00	
-163964	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	8x6	14	0	Arte	Marcela Tello-ElDia		2018-9-18 00:00:00	
-163314	ILUSTRE MUNICIPALIDAD DE OVALLE	Par	Cuatricromia	Generales	6x6	16	37.500	Publicado	Karina Rivera	FOMENTO PRODUCTIVO (PAG 16)	2018-9-18 00:00:00	

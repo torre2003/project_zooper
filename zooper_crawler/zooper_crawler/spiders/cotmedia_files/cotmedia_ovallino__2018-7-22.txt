@@ -1,9 +1,0 @@
-op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
-160174	CAMAL MUSALEM TAPIA Y CIA.	Par	Cuatricromia	Generales	34x6	03	346.656	Publicado	Marcela Tello-ElDia	Toyota Factory Sale	2018-7-22 00:00:00	
-160185	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	3x6	05	0	Arte	Marcela Tello-ElDia		2018-7-22 00:00:00	
-158748	SOCIEDAD MEDICA Y CONSULTORA ESTETI		Cuatricromia	Guia	5x2	06	13.333	Publicado	Paola Marquez	Diego Polanco	2018-7-22 00:00:00	
-158822	OSSANDON PRESTACIONES MEDICAS Y OTR			UIP	5x2	06	3.879	Publicado	Karina Rivera	MEDICO CIRUJANO ALEJANDRO MANRIQUEZ	2018-7-22 00:00:00	
-160150	DEL RIO VARELA JORGE	Par	Blanco y negro	Generales	12x3	08	77.118	Publicado	Pedro Jaime	JDV-REMATES- G.WALL VOLEX, 12 X 4 , LIGHTS 	2018-7-22 00:00:00	
-158654	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	11	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2018-7-22 00:00:00	
-160160	EMPRESA PERIODISTICA EL NORTE S.A.	Par	Blanco y negro	Medios Regionales	8x2	12	24.272	Arte	Medios Regionales	G Y N - Administradora de Franquicias America Ltda. - (109517)	2018-7-22 00:00:00	
-160184	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	8x6	14	0	Arte	Marcela Tello-ElDia		2018-7-22 00:00:00	

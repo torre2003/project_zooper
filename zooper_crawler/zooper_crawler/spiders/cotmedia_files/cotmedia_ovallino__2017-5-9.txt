@@ -1,8 +1,0 @@
-op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
-129207	SOCIEDAD DE RENTAS FALABELLA S.A	Par	Cuatricromia	Generales	17x6	03	200.000	Publicado	M Cristina Puga	Open Plaza - Mall Ovalle	2017-5-9 00:00:00	
-127480	AGRICOLA NORTE TALINAY LTDA	Par	Blanco y negro	Generales	5x2	07	1.666	Publicado	Paola Marquez	UIP VENTA ALFALFA	2017-5-9 00:00:00	
-127725	JACQUELINE JOFRE VILLANUEVA			UIP	5x2	07	2.808	Publicado	Karina Rivera	Cortinas Rollers	2017-5-9 00:00:00	
-128109	FERNANDO YOANOVICH			UIP	5x2	07	2.247	Publicado	Karina Rivera	COMPRA VEHICULOS	2017-5-9 00:00:00	
-129126	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	6x6	09	16.065	Publicado	Claudio Romero	muebles alpina....pauta..	2017-5-9 00:00:00	
-128803	KH			UIP	5x2	11	2.808	Publicado	Miguel Apey	KHUYAY TRAVEL	2017-5-9 00:00:00	
-129032	EL RELAJO			UIP	5x4	11	16.531	Publicado	Karina Rivera		2017-5-9 00:00:00	

@@ -1,7 +1,0 @@
-op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
-110819	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	6x6	06	0	Publicado	Claudio Romero	Muebles Alpina	2016-9-21 00:00:00	
-111687	AGROPLASTIC LTDA.			UIP	10x6	07	16.260	Publicado	Claudio Romero	DISFRUTE ESTAS FIESTAS PATRIAS....	2016-9-21 00:00:00	
-112144	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x3	08	0	Publicado	Marcela Tello-ElDia		2016-9-21 00:00:00	
-112200	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x6	09	0	Arte	Marcela Tello-ElDia		2016-9-21 00:00:00	
-110514	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	10	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2016-9-21 00:00:00	
-112201	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	6x6	14	0	Arte	Marcela Tello-ElDia		2016-9-21 00:00:00	

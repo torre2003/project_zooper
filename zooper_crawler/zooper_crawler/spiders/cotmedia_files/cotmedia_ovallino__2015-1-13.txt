@@ -1,5 +1,0 @@
-op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
-66719	CALLEGARI LTDA.	Par	Cuatricromia	Generales	6x6	01	30.000	Publicado	Marcela Tello-ElDia	Portada - Kia	2015-1-13 00:00:00	
-66362	tremendo			UIP	10x2	07	5.630	Publicado	Italo Retamal	Tremendo Restaurante	2015-1-13 00:00:00	
-66392	Marcela Burgos Robles			UIP	10x2	07	5.630	Publicado	Italo Retamal	agrogranjalosacacios	2015-1-13 00:00:00	
-66546	rio hur			UIP	10x6	09	16.260	Publicado	Italo Retamal		2015-1-13 00:00:00	

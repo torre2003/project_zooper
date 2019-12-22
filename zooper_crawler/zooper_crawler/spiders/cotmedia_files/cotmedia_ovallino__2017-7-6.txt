@@ -1,7 +1,0 @@
-op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
-133188	SOCIEDAD DE RENTAS FALABELLA S.A	Par	Cuatricromia	Generales	8x6	01	50.980	Publicado	M Cristina Puga		2017-7-6 00:00:00	
-132830	INMOBILIARIA NUEVA SERENA S.A			UIP	10x6	05	16.260	Publicado	Claudio Romero	proyecto empresa serena...(ovalle)	2017-7-6 00:00:00	
-133593	JACQUELINE JOFRE VILLANUEVA			UIP	5x2	07	2.808	Publicado	Karina Rivera	CORTINAS ROLLER OVALLE	2017-7-6 00:00:00	
-133123	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	09	0	Arte	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2017-7-6 00:00:00	
-133585	MOP OOPP	Impar	Blanco y negro	Generales	12x1	14	33.898	Publicado	Jacqueline Torres	extracto 466	2017-7-6 00:00:00	
-133646	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	6x6	14	0	Arte	Marcela Tello-ElDia		2017-7-6 00:00:00	

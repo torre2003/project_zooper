@@ -1,8 +1,0 @@
-op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
-86653	DABED Y CIA. LTDA., SELIM	Impar	Cuatricromia	Generales	6x6	03	23.077	Publicado	Italo Retamal	aviso moto 3	2015-10-21 00:00:00	
-81404	tanguemar			UIP	5x2	05	2.808	Publicado	Patricia Villena	Tanguemar	2015-10-21 00:00:00	
-85376	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	10x3	05	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2015-10-21 00:00:00	
-85449	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	6x6	06	0	Publicado	Claudio Romero	Muebles Alpina	2015-10-21 00:00:00	
-86895	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x3	09	0	Publicado	Marcela Tello-ElDia	Vea en Cinemark - Pacto Criminal	2015-10-21 00:00:00	
-86521	ILUSTRE MUNICIPALIDAD DE OVALLE	Par	Cuatricromia	Generales	15x2	11	67.231	Publicado	Italo Retamal	Ovalle comunica 	2015-10-21 00:00:00	
-86978	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x6	14	0	Publicado	Marcela Tello-ElDia	El Ovallino - www.elovallino.cl	2015-10-21 00:00:00	

@@ -1,8 +1,0 @@
-op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
-104001	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	6x6	01	0	Arte	Marcela Tello-ElDia		2016-5-31 00:00:00	
-103464	TOMAS			UIP	10x6	05	16.260	Publicado	Claudio Romero	DIPLOMADOS DE MEDIACION FAMILIAR	2016-5-31 00:00:00	
-104000	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x6	07	0	Arte	Marcela Tello-ElDia	El Ovallino - www.elovallino.cl	2016-5-31 00:00:00	
-101594	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	09	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2016-5-31 00:00:00	
-100876	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	15x6	11	0	Publicado	Marcela Tello-ElDia	Cupones Cinemark	2016-5-31 00:00:00	
-103757	ALVARADO RAMIR			UIP	5x2	12	2.808	Publicado	Leonel Pizarro-Ovalle	ABOOGADO	2016-5-31 00:00:00	
-102574	DABED Y CIA. LTDA., SELIM		1 pag.	Inserto	x	INS	139.765	Publicado	Marcela Tello-ElDia	Venta de 1.980 diarios El Ovallino	2016-5-31 00:00:00	

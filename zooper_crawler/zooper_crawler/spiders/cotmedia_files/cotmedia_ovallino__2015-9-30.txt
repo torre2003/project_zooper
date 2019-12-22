@@ -1,9 +1,0 @@
-op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
-84115	ILUSTRE MUNICIPALIDAD DE OVALLE	Impar	Cuatricromia	Generales	12x3	03	83.333	Publicado	Italo Retamal	plano regulador ovalle	2015-9-30 00:00:00	
-81398	tanguemar			UIP	5x2	05	2.808	Publicado	Patricia Villena	Tanguemar	2015-9-30 00:00:00	
-83436	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	10x3	05	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2015-9-30 00:00:00	
-83207	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	6x6	06	16.065	Publicado	Claudio Romero	Muebles Alpina	2015-9-30 00:00:00	
-85566	EMPRESA PERIODISTICA EL NORTE S.A.	Par	Cuatricromia	Medios Regionales	18x6	08	228.313	Publicado	Medios Regionales	Materiales y Soluciones - Terremoto - Impar - (208580)	2015-9-30 00:00:00	
-85137	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	12x6	09	0	Publicado	Marcela Tello-ElDia	Avant Premiere - Club de Lectores	2015-9-30 00:00:00	
-85338	INVERSIONES PUNTA BLANCA SPA	Impar	Blanco y negro	Generales	35x6	11	296.604	Publicado	Italo Retamal	publi city poin	2015-9-30 00:00:00	
-85568	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	15x6	14	0	Publicado	Marcela Tello-ElDia	www.elovallino.cl	2015-9-30 00:00:00	

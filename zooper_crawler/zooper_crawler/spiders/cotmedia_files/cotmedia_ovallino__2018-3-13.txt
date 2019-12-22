@@ -1,7 +1,0 @@
-op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
-151735	MIGUEL GUZMAN YURI	Par	Blanco y negro	Generales	10x2	05	47.080	Publicado	Karina Rivera	REMATE JUDICIAL	2018-3-13 00:00:00	
-151838	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	12x6	08	0	Publicado	Marcela Tello-ElDia	Vive la experiencia de estar bien...	2018-3-13 00:00:00	
-151475	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	09	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2018-3-13 00:00:00	
-151836	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x6	12	0	Publicado	Marcela Tello-ElDia	Nos trasladamos para prestarles un mejor servicio...	2018-3-13 00:00:00	
-150547	VELIZ CORTES JOSE A.			UIP	5x2	15	4.695	Publicado	Pedro Cortes		2018-3-13 00:00:00	
-151837	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	8x6	15	0	Publicado	Marcela Tello-ElDia		2018-3-13 00:00:00	

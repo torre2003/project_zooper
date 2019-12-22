@@ -1,7 +1,0 @@
-op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
-93715	ABRIL PUBLICIDAD INVERSIONES Y ASES	Par	Cuatricromia	Generales	35x6	03	445.386	Publicado	Patricia Villena		2016-1-18 00:00:00	
-92441	AGRICOLA NORTE TALINAY LTDA	Par	Blanco y negro	Generales	5x2	05	1.428	Publicado	Italo Retamal	venta fardos	2016-1-18 00:00:00	
-92580	AGRICOLA NORTE TALINAY LTDA	Par	Blanco y negro	Generales	5x2	05	1.428	Publicado	Italo Retamal	Oferta de empleos	2016-1-18 00:00:00	
-92508	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	6x6	11	16.065	Publicado	Claudio Romero	Muebles Alpina	2016-1-18 00:00:00	
-93039	dominga			UIP	10x2	12	3.378	Publicado	Leonel Pizarro-Ovalle	laboratorio clinico	2016-1-18 00:00:00	
-93817	PRENSA DEL LIMARI LTDA.	Par	Blanco y negro	Generales	17x6	14	0	Publicado	Marcela Tello-ElDia	www.elovallino.cl	2016-1-18 00:00:00	

@@ -1,8 +1,0 @@
-op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
-75539	CALLEGARI LTDA.	Par	Cuatricromia	Generales	6x6	01	30.000	Publicado	Marcela Tello-ElDia	Portada - Kia	2015-5-21 00:00:00	
-74515	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	10x3	05	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2015-5-21 00:00:00	
-75477	camila as			UIP	5x2	07	2.808	Publicado	Leonel Pizarro-Ovalle	ABOGADO	2015-5-21 00:00:00	
-75685	CEA			UIP	17x2	07	9.211	Publicado	Leonel Pizarro-Ovalle	CIRCO NORTEAMERICANO	2015-5-21 00:00:00	
-76016	SOC. LIMARI COMERCIALIZADORA DEL AG	Par	Blanco y negro	Generales	12x2	07	56.496	Publicado	Rene Pizarro		2015-5-21 00:00:00	
-76151	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x6	11	0	Publicado	Marcela Tello-ElDia		2015-5-21 00:00:00	
-76099	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x3	14	0	Publicado	Marcela Tello-ElDia	Cinemark: 21 de mayo ven con tu familia	2015-5-21 00:00:00	

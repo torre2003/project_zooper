@@ -1,7 +1,0 @@
-op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
-91451	INMOBILIARIA OASIS DEL LIMAR? LTDA	Par	Blanco y negro	Generales	5x2	05	1.428	Publicado	Italo Retamal	arriendo local oasis	2016-1-12 00:00:00	
-92435	AGRICOLA NORTE TALINAY LTDA	Par	Blanco y negro	Generales	5x2	05	1.428	Publicado	Italo Retamal	venta fardos	2016-1-12 00:00:00	
-92574	AGRICOLA NORTE TALINAY LTDA	Par	Blanco y negro	Generales	5x2	05	1.428	Publicado	Italo Retamal	Oferta de empleos	2016-1-12 00:00:00	
-93034	dominga			UIP	10x2	07	3.378	Publicado	Leonel Pizarro-Ovalle	laboratorio clinico	2016-1-12 00:00:00	
-93101	GOTTREUX SALAS RUBEN	Par	Blanco y negro	Generales	6x2	07	28.248	Publicado	Leonel Pizarro-Ovalle	remates en ovalle	2016-1-12 00:00:00	
-93352	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x6	14	0	Arte	Marcela Tello-ElDia		2016-1-12 00:00:00	

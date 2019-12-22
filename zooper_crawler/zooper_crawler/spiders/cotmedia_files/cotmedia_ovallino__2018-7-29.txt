@@ -1,9 +1,0 @@
-op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
-160500	CAMAL MUSALEM TAPIA Y CIA.	Par	Cuatricromia	Generales	34x6	03	346.656	Publicado	Marcela Tello-ElDia	Toyota Factory Sale	2018-7-29 00:00:00	
-160680	AUTOMOTRIZ CARMONA	Par	Blanco y negro	Generales	6x2	05	29.378	Publicado	Marcela Tello-ElDia	Ejecutivos de Ventas	2018-7-29 00:00:00	
-158655	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	06	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2018-7-29 00:00:00	
-159872	DABED Y CIA. LTDA., SELIM	Par	Cuatricromia	Generales	6x6	08	23.076	Publicado	Karina Rivera	2 HERRAMIENTAS	2018-7-29 00:00:00	
-158749	SOCIEDAD MEDICA Y CONSULTORA ESTETI		Cuatricromia	Guia	5x2	09	13.333	Publicado	Paola Marquez	Diego Polanco	2018-7-29 00:00:00	
-160683	PRENSA DEL LIMARI LTDA.	Par	Blanco y negro	Generales	10x2	10	0	Arte	Marcela Tello-ElDia	www.elovallino.cl - Vive la experiencia	2018-7-29 00:00:00	
-160684	PRENSA DEL LIMARI LTDA.	Par	Blanco y negro	Generales	17x6	12	0	Arte	Marcela Tello-ElDia	Reportero Ciudadano	2018-7-29 00:00:00	
-160685	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	8x6	14	0	Arte	Marcela Tello-ElDia		2018-7-29 00:00:00	

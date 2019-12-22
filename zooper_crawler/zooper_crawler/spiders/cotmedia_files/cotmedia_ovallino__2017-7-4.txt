@@ -1,7 +1,0 @@
-op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
-133187	SOCIEDAD DE RENTAS FALABELLA S.A	Par	Cuatricromia	Generales	8x6	01	50.980	Publicado	M Cristina Puga		2017-7-4 00:00:00	
-132828	INMOBILIARIA NUEVA SERENA S.A			UIP	10x6	05	16.260	Publicado	Claudio Romero	proyecto empresa serena...(ovalle)	2017-7-4 00:00:00	
-133245	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x6	07	0	Arte	Marcela Tello-ElDia	En la comodidad de su hogar...	2017-7-4 00:00:00	
-133192	DABED Y CIA. LTDA., SELIM	Par	Cuatricromia	Generales	6x6	08	23.076	Publicado	Karina Rivera	SALUDO ANIVERSARIO DABED	2017-7-4 00:00:00	
-133115	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	09	0	Arte	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2017-7-4 00:00:00	
-133246	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	6x6	14	0	Arte	Marcela Tello-ElDia		2017-7-4 00:00:00	

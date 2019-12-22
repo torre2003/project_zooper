@@ -1,5 +1,0 @@
-op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
-78521	gatica briones spa			UIP	5x4	05	5.630	Publicado	Italo Retamal	promo hamburguesa 	2015-7-14 00:00:00	
-79022	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	10x3	07	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2015-7-14 00:00:00	
-79411	lara			UIP	10x6	10	16.260	Publicado	Italo Retamal	tcm lara y cia	2015-7-14 00:00:00	
-80064	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x6	14	0	Publicado	Marcela Tello-ElDia		2015-7-14 00:00:00	

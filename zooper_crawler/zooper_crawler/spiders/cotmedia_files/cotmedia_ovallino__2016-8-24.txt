@@ -1,9 +1,0 @@
-op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
-109471	OVALLE CASINO RESORT S.A	Par	Cuatricromia	Generales	6x6	01	21.333	Publicado	Paola Marquez	Auspicio Casino Ovalle Impar	2016-8-24 00:00:00	
-109961	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x6	03	0	Arte	Marcela Tello-ElDia		2016-8-24 00:00:00	
-109704	AGRICOLA NORTE TALINAY LTDA	Par	Blanco y negro	Generales	5x2	05	1.666	Publicado	Paola Marquez	UIP VENTA ALFALFA	2016-8-24 00:00:00	
-108634	caldera			UIP	5x2	07	2.808	Publicado	Leonel Pizarro-Ovalle	taror	2016-8-24 00:00:00	
-108764	XIMENA MIRANDA			UIP	17x2	07	9.211	Publicado	Leonel Pizarro-Ovalle	THETAHALDING	2016-8-24 00:00:00	
-107832	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	6x6	09	0	Publicado	Claudio Romero	Muebles Alpina	2016-8-24 00:00:00	
-108244	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	10	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2016-8-24 00:00:00	
-109962	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	6x6	14	0	Arte	Marcela Tello-ElDia		2016-8-24 00:00:00	

@@ -1,8 +1,0 @@
-op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
-172209	SERVICIOS TASUI S.A.	Par	Blanco y negro	Generales	6x2	03	28.248	Publicado	Pedro Jaime	SERVICIOS TASUI- TARIFADO 	2018-12-22 00:00:00	
-172269	CHRISTIAN LOYOLA ESPINOZA			UIP	10x2	03	7.882	Publicado	Karina Rivera	CELE CONSTRUCTORA	2018-12-22 00:00:00	
-172290	PRENSA DEL LIMARI LTDA.	Par	Blanco y negro	Generales	4x6	04	0	Arte	Marcela Tello-ElDia	Periodismo en todos los sentidos...	2018-12-22 00:00:00	
-172291	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	34x6	06	0	Arte	Marcela Tello-ElDia		2018-12-22 00:00:00	
-168612	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	09	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2018-12-22 00:00:00	
-172292	PRENSA DEL LIMARI LTDA.	Par	Blanco y negro	Generales	6x6	12	0	Arte	Marcela Tello-ElDia		2018-12-22 00:00:00	
-172293	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	6x6	14	0	Arte	Marcela Tello-ElDia	Cupones Descuentos Cinemark	2018-12-22 00:00:00	

@@ -1,9 +1,0 @@
-op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
-111979	OVALLE CASINO RESORT S.A	Par	Cuatricromia	Generales	34x6	03	0	Publicado	Paola Marquez	Ovalle Casino Resort	2016-9-15 00:00:00	
-109723	AGRICOLA NORTE TALINAY LTDA	Par	Blanco y negro	Generales	5x2	05	1.666	Publicado	Paola Marquez	UIP VENTA ALFALFA	2016-9-15 00:00:00	
-111763	DABED Y CIA. LTDA., SELIM	Par	Cuatricromia	Generales	6x6	06	23.076	Publicado	Marcela Tello-ElDia	Ferreteros	2016-9-15 00:00:00	
-111681	AGROPLASTIC LTDA.			UIP	10x6	07	16.260	Publicado	Claudio Romero	DISFRUTE ESTAS FIESTAS PATRIAS....	2016-9-15 00:00:00	
-107650	SOC HOTELERA Y DE TURISMO HACIENDA 	Par	Cuatricromia	Generales	5x6	09	11.770	Publicado	Patricia Villena	Hacienda Juntas	2016-9-15 00:00:00	
-110518	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	10	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2016-9-15 00:00:00	
-111207	ILUSTRE MUNICIPALIDAD DE MONTE PATR	Impar	Blanco y negro	Generales	17x3	12	100.846	Publicado	Claudio Romero		2016-9-15 00:00:00	
-111986	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	6x6	14	0	Arte	Marcela Tello-ElDia		2016-9-15 00:00:00	

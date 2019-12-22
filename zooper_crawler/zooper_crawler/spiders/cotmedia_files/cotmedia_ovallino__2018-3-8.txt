@@ -1,7 +1,0 @@
-op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
-151533	HANNA JARUFE HAUNE	Par	Cuatricromia	Generales	10x3	03	35.000	Publicado	Claudio Romero	saludo dia mujer...	2018-3-8 00:00:00	
-151551	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x3	06	0	Publicado	Marcela Tello-ElDia		2018-3-8 00:00:00	
-151470	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	09	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2018-3-8 00:00:00	
-151584	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	4x6	11	0	Publicado	Marcela Tello-ElDia	Cupones de Descuentos - Cinemark	2018-3-8 00:00:00	
-150542	VELIZ CORTES JOSE A.			UIP	5x2	15	4.695	Publicado	Pedro Cortes		2018-3-8 00:00:00	
-151583	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	6x6	15	0	Publicado	Marcela Tello-ElDia		2018-3-8 00:00:00	

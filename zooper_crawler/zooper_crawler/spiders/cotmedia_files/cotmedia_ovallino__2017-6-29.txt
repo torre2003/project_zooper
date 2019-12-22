@@ -1,6 +1,0 @@
-op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
-131339	SOCIEDAD DE RENTAS FALABELLA S.A	Par	Cuatricromia	Generales	8x6	01	50.980	Publicado	M Cristina Puga		2017-6-29 00:00:00	
-131016	JACQUELINE JOFRE VILLANUEVA			UIP	5x2	05	2.808	Publicado	Karina Rivera	CORTINAS ROLLER OVALLE	2017-6-29 00:00:00	
-132391	CAROLINA ZEPEDA			UIP	5x2	05	2.808	Publicado	Karina Rivera	ARRIENDO CASA	2017-6-29 00:00:00	
-130397	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	09	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2017-6-29 00:00:00	
-132559	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	6x6	14	0	Publicado	Marcela Tello-ElDia		2017-6-29 00:00:00	

@@ -1,6 +1,0 @@
-op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
-102812	SALINAS Y FABRES S.A.	Impar	Cuatricromia	Generales	17x6	03	242.029	Publicado	M Cristina Puga	Salfa GM	2016-5-17 00:00:00	
-101592	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	05	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2016-5-17 00:00:00	
-100669	AGRICOLA NORTE TALINAY LTDA	Par	Blanco y negro	Generales	5x2	07	1.666	Publicado	Paola Marquez	UIP VENTA ALFALFA	2016-5-17 00:00:00	
-102860	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x6	11	0	Arte	Marcela Tello-ElDia		2016-5-17 00:00:00	
-100634	VALENTINA ANDREA PIZARRO VIERA			UIP	5x2	14	2.808	Publicado	Leonel Pizarro-Ovalle		2016-5-17 00:00:00	

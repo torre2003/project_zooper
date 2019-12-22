@@ -1,4 +1,0 @@
-op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
-81395	tangue			UIP	5x2	05	2.808	Publicado	Patricia Villena	Tanguemar	2015-9-19 00:00:00	
-84720	punitaqui			UIP	10x6	07	11.149	Publicado	Italo Retamal	pampilla puni 	2015-9-19 00:00:00	
-84823	PRENSA DEL LIMARI LTDA.	Par	Blanco y negro	Generales	17x6	14	0	Arte	Marcela Tello-ElDia		2015-9-19 00:00:00	

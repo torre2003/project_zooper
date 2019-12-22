@@ -1,9 +1,0 @@
-op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
-154770	CAMAL MUSALEM TAPIA Y CIA.	Par	Cuatricromia	Generales	34x6	03	349.656	Publicado	Marcela Tello-ElDia	Toyota Yaris / All New Corolla - Rep. 22/4	2018-4-29 00:00:00	
-153255	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	06	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2018-4-29 00:00:00	
-131313	SOCIEDAD MEDICA Y CONSULTORA ESTETI		Cuatricromia	Guia	5x2	08	13.333	Publicado	Maria_Amelia Hermosilla	Diego Polanco	2018-4-29 00:00:00	
-155194	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	5x2	08	0	Arte	Marcela Tello-ElDia		2018-4-29 00:00:00	
-154563	EMPRESA PERIODISTICA EL NORTE S.A.	Par	Cuatricromia	Medios Regionales	32x6	09	367.130	Publicado	Medios Regionales	Impar - Fibra Optica - Forward Media Chile S.P.A. - (56643)	2018-4-29 00:00:00	
-155195	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x6	11	0	Arte	Marcela Tello-ElDia		2018-4-29 00:00:00	
-155196	PRENSA DEL LIMARI LTDA.	Par	Blanco y negro	Generales	17x6	12	0	Arte	Marcela Tello-ElDia		2018-4-29 00:00:00	
-155197	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	6x6	15	0	Arte	Marcela Tello-ElDia	Cupones Descuentos Cinemark	2018-4-29 00:00:00	

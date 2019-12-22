@@ -1,7 +1,0 @@
-op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
-68168	SOC. AUTOMOTRIZ COVALSA CENTER LTDA	Par	Cuatricromia	Generales	5x6	01	51.405	Publicado	Claudio Romero	PORTADA ..COVALSA	2015-2-23 00:00:00	
-69468	EMPRESA PERIODISTICA EL NORTE S.A.	Par	Cuatricromia	Medios Regionales	16x6	03	200.908	Publicado	Medios Regionales		2015-2-23 00:00:00	
-68264	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	10x3	05	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2015-2-23 00:00:00	
-68352	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	6x6	06	16.065	Publicado	Claudio Romero	Muebles Alpina	2015-2-23 00:00:00	
-69322	DABED Y CIA. LTDA., SELIM	Impar	Cuatricromia	Generales	6x6	09	23.077	Publicado	Italo Retamal	MOTO DABED	2015-2-23 00:00:00	
-69418	lara y			UIP	10x6	10	0	Publicado	Italo Retamal	Flayer el cielo	2015-2-23 00:00:00	

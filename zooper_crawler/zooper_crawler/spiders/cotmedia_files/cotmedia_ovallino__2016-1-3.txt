@@ -1,9 +1,0 @@
-op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
-92637	CAMAL MUSALEM TAPIA Y CIA.	Par	Blanco y negro	Generales	13x6	03	95.472	Publicado	Marcela Tello-ElDia		2016-1-3 00:00:00	
-81469	INVERSIONES TANGUEMAR LIMITADA	Impar	Blanco y negro	Generales	5x2	05	14.149	Publicado	Patricia Villena	Tanguemar	2016-1-3 00:00:00	
-91442	INMOBILIARIA OASIS DEL LIMAR? LTDA	Par	Blanco y negro	Generales	5x2	05	1.428	Publicado	Italo Retamal	arriendo local oasis	2016-1-3 00:00:00	
-92427	AGRICOLA NORTE TALINAY LTDA	Par	Blanco y negro	Generales	5x2	05	1.428	Publicado	Italo Retamal	venta fardos	2016-1-3 00:00:00	
-92565	AGRICOLA NORTE TALINAY LTDA	Par	Blanco y negro	Generales	5x2	07	1.428	Publicado	Italo Retamal	Oferta de empleos	2016-1-3 00:00:00	
-92603	INVERSIONES AVANZADA LTDA	Par	Blanco y negro	Generales	5x2	07	5.833	Publicado	Jacqueline Torres	campo lindo valle	2016-1-3 00:00:00	
-92531	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	12x6	09	0	Arte	Marcela Tello-ElDia	Avant Premiere - Club de Lectores	2016-1-3 00:00:00	
-92661	PRENSA DEL LIMARI LTDA.	Par	Blanco y negro	Generales	17x6	14	0	Arte	Marcela Tello-ElDia	www.elovallino.cl	2016-1-3 00:00:00	

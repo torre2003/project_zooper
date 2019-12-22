@@ -1,8 +1,0 @@
-op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
-77603	AET CHILE SPA	Par	Cuatricromia	Generales	6x6	01	0	Arte	Marcela Tello-ElDia	Muestra Bodies 	2015-6-10 00:00:00	
-76643	sociedad m			UIP	5x2	04	2.808	Publicado	Italo Retamal	talhuen	2015-6-10 00:00:00	
-76284	brillador			UIP	17x2	05	9.211	Publicado	Italo Retamal	alto brillador 	2015-6-10 00:00:00	
-77095	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	10x3	05	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2015-6-10 00:00:00	
-76686	LARA Y CIA. AGUILAS TOCANDO EL CIEL			UIP	10x6	07	16.260	Publicado	Italo Retamal	tcm lara y cia	2015-6-10 00:00:00	
-76452	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	6x6	09	0	Publicado	Claudio Romero	Muebles Alpina	2015-6-10 00:00:00	
-77694	PRENSA DEL LIMARI LTDA.	Par	Blanco y negro	Generales	17x6	11	0	Arte	Marcela Tello-ElDia		2015-6-10 00:00:00	

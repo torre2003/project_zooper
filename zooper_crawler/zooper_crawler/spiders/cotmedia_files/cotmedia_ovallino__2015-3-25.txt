@@ -1,7 +1,0 @@
-op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
-69876	SOC. AUTOMOTRIZ COVALSA CENTER LTDA	Par	Cuatricromia	Generales	5x6	01	51.405	Publicado	Claudio Romero	PORTADA ..COVALSA	2015-3-25 00:00:00	
-69904	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	6x6	03	0	Publicado	Claudio Romero	Muebles Alpina	2015-3-25 00:00:00	
-71611	PAIROA			UIP	10x6	05	16.260	Publicado	Leonel Pizarro-Ovalle	CIRCO MEXICANO	2015-3-25 00:00:00	
-70092	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	10x3	07	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2015-3-25 00:00:00	
-71596	DABED Y CIA. LTDA., SELIM	Impar	Cuatricromia	Generales	6x6	09	23.077	Publicado	Italo Retamal	fiesta del maestro 	2015-3-25 00:00:00	
-71800	marcelo corra			UIP	5x2	14	2.808	Publicado	Leonel Pizarro-Ovalle	arrienda	2015-3-25 00:00:00	

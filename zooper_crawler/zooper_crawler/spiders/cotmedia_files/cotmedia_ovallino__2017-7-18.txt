@@ -1,9 +1,0 @@
-op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
-134212	CORP. DE DESARROLLO SOCIAL DEL SECT	Par	Cuatricromia	Generales	17x3	03	134.461	Publicado	Karina Rivera	CODESER	2017-7-18 00:00:00	
-133755	JACQUELINE JOFRE VILLANUEVA			UIP	5x2	05	2.808	Publicado	Karina Rivera	CORTINAS ROLLER OVALLE	2017-7-18 00:00:00	
-134055	FERNANDO YOANOVICH			UIP	5x2	05	2.247	Publicado	Karina Rivera		2017-7-18 00:00:00	
-134306	PRENSA DEL LIMARI LTDA.	Par	Blanco y negro	Generales	17x6	07	0	Arte	Marcela Tello-ElDia		2017-7-18 00:00:00	
-134083	FERNANDO YOANOVICH			UIP	5x2	08	2.247	Publicado	Karina Rivera	TAROT SRA SOFIA	2017-7-18 00:00:00	
-133117	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	09	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2017-7-18 00:00:00	
-133950	VELIZ CORTES JOSE A.			UIP	5x2	14	2.808	Publicado	Pedro Cortes		2017-7-18 00:00:00	
-134305	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	6x6	14	0	Arte	Marcela Tello-ElDia		2017-7-18 00:00:00	

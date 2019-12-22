@@ -1,8 +1,0 @@
-op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
-115754	SOCIEDAD DE RENTAS FALABELLA S.A	Par	Cuatricromia	Generales	8x6	01	50.980	Arte	M Cristina Puga	Huincha open 	2016-11-22 00:00:00	
-117001	ILUSTRE MUNICIPALIDAD DE OVALLE	Par	Cuatricromia	Generales	17x6	03	134.183	Arte	Marcela Tello-ElDia	FESTIVAL CINE OVALLE 	2016-11-22 00:00:00	
-115929	AGRICOLA NORTE TALINAY LTDA	Par	Blanco y negro	Generales	5x2	07	1.666	Arte	Paola Marquez	UIP VENTA ALFALFA	2016-11-22 00:00:00	
-115435	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	08	0	Arte	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2016-11-22 00:00:00	
-116151	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x6	09	0	Arte	Marcela Tello-ElDia	Clases Ejecutivas	2016-11-22 00:00:00	
-114246	Pedro Andres Monardez Elgueta			UIP	17x2	11	12.895	Arte	Karina Rivera	Restaurant Riquisimo	2016-11-22 00:00:00	
-117020	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	6x6	14	0	Arte	Marcela Tello-ElDia		2016-11-22 00:00:00	

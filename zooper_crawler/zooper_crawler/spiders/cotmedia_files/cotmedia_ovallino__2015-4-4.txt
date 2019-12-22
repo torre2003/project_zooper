@@ -1,6 +1,0 @@
-op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
-70811	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	35x6	03	0	Publicado	Marcela Tello-ElDia		2015-4-4 00:00:00	
-72850	SOC. LIMARI COMERCIALIZADORA DEL AG	Par	Blanco y negro	Generales	12x2	05	64.971	Publicado	Rene Pizarro		2015-4-4 00:00:00	
-71809	marcelo corral			UIP	5x2	07	2.808	Publicado	Leonel Pizarro-Ovalle	arrienda	2015-4-4 00:00:00	
-72369	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	10x3	07	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2015-4-4 00:00:00	
-72967	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	34x6	09	0	Publicado	Marcela Tello-ElDia		2015-4-4 00:00:00	

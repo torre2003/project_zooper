@@ -1,9 +1,0 @@
-op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
-140283	DABED Y CIA. LTDA., SELIM	Par	Cuatricromia	Generales	6x6	01	23.076	Publicado	Karina Rivera	EXPO DABED OCTUBRE	2017-10-3 00:00:00	
-138320	CENTRO DE SALUD PORTALES LTDA			UIP	5x4	05	4.504	Publicado	Karina Rivera	ORTODONCIA 	2017-10-3 00:00:00	
-136066	INVERSIONES TANGUEMAR LIMITADA			UIP	5x2	07	2.808	Publicado	Patricia Villena	Tanguemar	2017-10-3 00:00:00	
-137221	TEODORO AGUIRRE ALVAREZ			UIP	5x2	07	2.808	Publicado	Karina Rivera	REGIONALISTA VERDE SOCIAL	2017-10-3 00:00:00	
-139927	EMPRESA PERIODISTICA EL NORTE S.A.	Par	Blanco y negro	Medios Regionales	6x2	07	17.340	Publicado	Medios Regionales	Santander GRC Ltda. - Banco Santander - (166688)	2017-10-3 00:00:00	
-139855	INMOBILIARIA NUEVA SERENA			UIP	10x6	09	16.260	Publicado	Claudio Romero	2 avisos los llanos de san luis (publicar ene forma intercalada)	2017-10-3 00:00:00	
-140216	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	11	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2017-10-3 00:00:00	
-140365	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	6x6	14	0	Arte	Marcela Tello-ElDia		2017-10-3 00:00:00	

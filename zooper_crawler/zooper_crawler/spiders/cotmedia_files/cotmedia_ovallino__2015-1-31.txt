@@ -1,9 +1,0 @@
-op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
-65645	LA ELEGANTE	Par	Cuatricromia	Contraportada	35x6	03	177.172	Publicado	Patricia Villena	La elegante	2015-1-31 00:00:00	
-67203	san francisco			UIP	5x2	07	0	Publicado	Leonel Pizarro-Ovalle	AGUAS SAN FRANCISCO	2015-1-31 00:00:00	
-67328	SOC. HOTELERA VICHUQUEN LTDA.	Par	Cuatricromia	Generales	10x3	07	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2015-1-31 00:00:00	
-65658	LA ELEGANTE	Par	Cuatricromia	Generales	8x6	08	0	Publicado	Patricia Villena	Franja La Elegante bonificada	2015-1-31 00:00:00	
-67926	ADMINISTR. CMR FALABELLA LTDA.	Impar	Cuatricromia	Generales	35x6	09	400.000	Publicado	M Cristina Puga	Falabella/ 2 Impar color	2015-1-31 00:00:00	
-67904	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x6	11	0	Publicado	Marcela Tello-ElDia		2015-1-31 00:00:00	
-67222	DABED Y CIA. LTDA., SELIM	Impar	Cuatricromia	Generales	6x6	14	23.077	Publicado	Italo Retamal	MOTO DABED	2015-1-31 00:00:00	
-65596	SOCIEDAD DE RENTAS FALABELLA S.A	Impar	Cuatricromia	Contraportada	35x6	16	400.000	Publicado	M Cristina Puga	Open Plaza / Contraportada	2015-1-31 00:00:00	

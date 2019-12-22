@@ -1,6 +1,0 @@
-op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
-100659	AGRICOLA NORTE TALINAY LTDA	Par	Blanco y negro	Generales	5x2	05	1.666	Publicado	Paola Marquez	UIP VENTA ALFALFA	2016-5-5 00:00:00	
-101599	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	07	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2016-5-5 00:00:00	
-100219	SOC HOTELERA Y DE TURISMO HACIENDA 	Par	Cuatricromia	Generales	5x6	09	11.299	Publicado	Patricia Villena	Hacienda Juntas	2016-5-5 00:00:00	
-100866	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	15x6	11	0	Publicado	Marcela Tello-ElDia	Cupones Cinemark	2016-5-5 00:00:00	
-100624	VALENTINA ANDREA PIZARRO VIERA			UIP	5x2	14	2.808	Publicado	Leonel Pizarro-Ovalle		2016-5-5 00:00:00	

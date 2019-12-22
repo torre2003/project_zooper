@@ -1,7 +1,0 @@
-op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
-89089	SOC.INMOBILIARIO E INVERSIONES RIO 			UIP	10x6	03	16.260	Publicado	Claudio Romero	PROYECTO MIRADOR OVALLE..	2015-11-24 00:00:00	
-81427	Tanguemar			UIP	5x2	05	2.808	Publicado	Patricia Villena	Tanguemar	2015-11-24 00:00:00	
-88059	JOSE CONTADOR DURAN	Par	Blanco y negro	Generales	5x2	05	1.444	Publicado	Italo Retamal	arriendo local	2015-11-24 00:00:00	
-89327	JUAN CARLOS AQUEZ JILES	Par	Blanco y negro	Generales	5x2	05	1.429	Publicado	Italo Retamal	Capacitaciones 	2015-11-24 00:00:00	
-88704	ADA D?AZ ARAYA	Par	Blanco y negro	Generales	5x2	07	1.428	Publicado	Italo Retamal	zona ganjah	2015-11-24 00:00:00	
-89515	PAMELA HARDER SANTOS	Par	Blanco y negro	Generales	5x2	07	1.428	Publicado	Italo Retamal	venta de casa harder	2015-11-24 00:00:00	

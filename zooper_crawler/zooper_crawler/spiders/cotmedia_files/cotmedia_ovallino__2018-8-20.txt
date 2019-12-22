@@ -1,6 +1,0 @@
-op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
-160901	SOCIEDAD ERLER M. HERMANOS Y COMPA?	Par	Cuatricromia	Generales	12x3	03	16.065	Publicado	Claudio Romero	Muebles alpina..	2018-8-20 00:00:00	
-160566	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	08	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2018-8-20 00:00:00	
-161406	OSSANDON PRESTACIONES MEDICAS Y OTR			UIP	5x2	09	3.879	Publicado	Karina Rivera	MEDICO CIRUJANO ALEJANDRO MANRIQUEZ	2018-8-20 00:00:00	
-161623	CENTRO DE EST?TICA INTEGRAL CARLA L			UIP	10x2	09	25.000	Publicado	Karina Rivera		2018-8-20 00:00:00	
-162076	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	8x6	14	0	Arte	Marcela Tello-ElDia		2018-8-20 00:00:00	

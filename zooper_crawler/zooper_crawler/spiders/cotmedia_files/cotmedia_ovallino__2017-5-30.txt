@@ -1,6 +1,0 @@
-op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
-130506	PEDRO ANDRES MONARDEZ ELGUETA	Par	Cuatricromia	Generales	6x6	01	25.000	Publicado	Karina Rivera	Restaurant Riquisimo	2017-5-30 00:00:00	
-130186	INMOBILIARIA RENACIMIENTO LTDA	Par	Cuatricromia	Generales	5x2	03	14.830	Publicado	Karina Rivera	INMOBILIARIA REQUIERE	2017-5-30 00:00:00	
-129858	JACQUELINE JOFRE VILLANUEVA			UIP	5x2	05	2.808	Publicado	Karina Rivera	Cortinas Rollers	2017-5-30 00:00:00	
-129961	centro de salud 			UIP	5x4	05	5.630	Publicado	Karina Rivera	CENTRO DE SALUD PORTALES	2017-5-30 00:00:00	
-130549	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	5x6	14	0	Arte	Marcela Tello-ElDia		2017-5-30 00:00:00	

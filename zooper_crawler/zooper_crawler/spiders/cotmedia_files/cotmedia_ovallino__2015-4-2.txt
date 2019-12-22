@@ -1,7 +1,0 @@
-op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
-72681	ALVI SUPERMERCADOS MAYORISTAS S.A.	Impar	Cuatricromia	Generales	35x3	03	207.623	Publicado	Italo Retamal	m10 j2	2015-4-2 00:00:00	
-71807	marcelo corral			UIP	5x2	05	2.808	Publicado	Leonel Pizarro-Ovalle	arrienda	2015-4-2 00:00:00	
-72360	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	10x3	05	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2015-4-2 00:00:00	
-72409	SOC. EDUCACIONAL SOSTENEDORA STA. M	Par	Blanco y negro	Generales	8x2	07	37.664	Publicado	Claudio Romero	CITACION...COLEGIO SANTA MARIA...REPITE DEL 1/ABRIL	2015-4-2 00:00:00	
-72412	INMOBILIARIA AYLLU S.A	Par	Blanco y negro	Generales	8x2	07	37.664	Publicado	Claudio Romero	CITACION...AYLLU...	2015-4-2 00:00:00	
-72415	INMOBILIARIA E INVERSIONES EL CHA?A	Par	Blanco y negro	Generales	8x2	07	37.664	Publicado	Claudio Romero		2015-4-2 00:00:00	

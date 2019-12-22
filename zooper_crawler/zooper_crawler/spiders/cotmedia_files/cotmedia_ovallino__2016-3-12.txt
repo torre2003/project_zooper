@@ -1,6 +1,0 @@
-op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
-97235	DABED Y CIA. LTDA., SELIM	Par	Cuatricromia	Generales	6x6	03	23.076	Publicado	Nadia Randolph	dabed motos	2016-3-12 00:00:00	
-96512	el recreo			UIP	10x2	05	5.630	Publicado	Leonel Pizarro-Ovalle	agricola el recreo	2016-3-12 00:00:00	
-97537	PRENSA DEL LIMARI LTDA.	Par	Blanco y negro	Generales	5x2	05	0	Arte	Marcela Tello-ElDia	Ejecutivo (a) de venta de publicidad	2016-3-12 00:00:00	
-96838	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	07	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2016-3-12 00:00:00	
-97970	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x6	14	0	Arte	Marcela Tello-ElDia		2016-3-12 00:00:00	

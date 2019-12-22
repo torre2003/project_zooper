@@ -1,4 +1,0 @@
-op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
-84832	ASOC. CANALISTAS CANAL CAMARICO	Par	Blanco y negro	Generales	10x2	07	47.080	Publicado	Italo Retamal	junta general	2015-9-22 00:00:00	
-84839	CLAUDIO RENTERIA LARRONDO	Par	Blanco y negro	Generales	10x2	13	23.540	Publicado	Leonel Pizarro-Ovalle	agradecimientos	2015-9-22 00:00:00	
-84865	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x6	14	0	Arte	Marcela Tello-ElDia	www.elovallino.cl	2015-9-22 00:00:00	

@@ -1,8 +1,0 @@
-op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
-66364	tremendo			UIP	10x2	07	5.630	Publicado	Italo Retamal	Tremendo Restaurante	2015-1-15 00:00:00	
-66394	Marcela Burgos Robles			UIP	10x2	07	5.630	Publicado	Italo Retamal	agrogranjalosacacios	2015-1-15 00:00:00	
-66548	rio hur			UIP	10x6	09	16.260	Publicado	Italo Retamal		2015-1-15 00:00:00	
-66378	MOP OOPP	Impar	Blanco y negro	Generales	35x6	10	425.641	Publicado	Jacqueline Torres	LISTADO APROVECHAMIENTO....	2015-1-15 00:00:00	
-66379	MOP OOPP	Par	Blanco y negro	Generales	35x6	11	425.641	Publicado	Jacqueline Torres	LISTADO APROVECHAMIENTO....	2015-1-15 00:00:00	
-66380	MOP OOPP	Impar	Blanco y negro	Generales	35x6	12	425.642	Publicado	Jacqueline Torres	LISTADO APROVECHAMIENTO....	2015-1-15 00:00:00	
-66381	MOP OOPP	Par	Blanco y negro	Generales	35x6	13	425.643	Publicado	Jacqueline Torres	LISTADO APROVECHAMIENTO....	2015-1-15 00:00:00	

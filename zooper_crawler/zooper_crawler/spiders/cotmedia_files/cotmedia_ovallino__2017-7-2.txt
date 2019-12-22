@@ -1,9 +1,0 @@
-op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
-132709	OVALLE CASINO RESORT S.A	Par	Cuatricromia	Generales	25x4	03	171.372	Publicado	Paola Marquez	OCR Eventos Julio	2017-7-2 00:00:00	
-131270	SOCIEDAD MEDICA Y CONSULTORA ESTETI		Cuatricromia	Guia	5x2	06	13.333	Publicado	Maria_Amelia Hermosilla	Diego Polanco	2017-7-2 00:00:00	
-132910	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	10x2	07	28.900	Arte	Medios Regionales	DIA DEL PADRE , PARQUES DE CHILE ((  110413  ) 	2017-7-2 00:00:00	
-132968	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	8x2	07	23.120	Arte	Medios Regionales	AVISO FALABELLA (  111199   ) 	2017-7-2 00:00:00	
-132978	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	10x2	07	28.900	Arte	Medios Regionales	PARQUES DE CHILE ( 81737   ) 	2017-7-2 00:00:00	
-133076	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x6	08	0	Arte	Marcela Tello-ElDia	En la comodidad de su hogar...	2017-7-2 00:00:00	
-132908	EMPRESA EL MERCURIO DE VALPARAISO S	Par	Blanco y negro	Medios Regionales	10x2	09	28.900	Arte	Medios Regionales	DIA DEL PADRE , PARQUES DE CHILE ((  110413  ) 	2017-7-2 00:00:00	
-133077	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	6x6	14	0	Arte	Marcela Tello-ElDia		2017-7-2 00:00:00	

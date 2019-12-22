@@ -1,7 +1,0 @@
-op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
-130656	PEDRO ANDRES MONARDEZ ELGUETA	Par	Cuatricromia	Generales	6x6	01	25.000	Publicado	Karina Rivera	Restaurant Riquisimo	2017-6-1 00:00:00	
-130666	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x3	03	0	Publicado	Marcela Tello-ElDia	Vea en Cinemark - La Mujer Maravilla	2017-6-1 00:00:00	
-130510	MOP OOPP	Impar	Blanco y negro	Generales	12x1	07	55.460	Publicado	Jacqueline Torres	decreto mop 346	2017-6-1 00:00:00	
-130393	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	08	0	Arte	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2017-6-1 00:00:00	
-129963	centro de salud 			UIP	5x4	09	5.630	Publicado	Karina Rivera	CENTRO DE SALUD PORTALES	2017-6-1 00:00:00	
-130188	INMOBILIARIA RENACIMIENTO LTDA	Par	Cuatricromia	Generales	5x2	09	14.830	Publicado	Karina Rivera	INMOBILIARIA REQUIERE	2017-6-1 00:00:00	

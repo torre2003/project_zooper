@@ -1,6 +1,0 @@
-op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
-114230	Pedro Andres Monardez Elgueta			UIP	17x2	01	12.895	Publicado	Karina Rivera	Restaurant Riquisimo	2016-11-3 00:00:00	
-115344	SOCIEDAD DE RENTAS FALABELLA S.A	Par	Cuatricromia	Generales	17x6	03	200.000	Publicado	M Cristina Puga	Open Plaza - Mall Ovalle	2016-11-3 00:00:00	
-113640	sandra paola			UIP	17x2	05	9.211	Publicado	Karina Rivera	Reserva Temporada Piscina El Eden de la Chimba	2016-11-3 00:00:00	
-115820	PRENSA DEL LIMARI LTDA.	Impar	Blanco y negro	Generales	17x6	06	0	Arte	Marcela Tello-ElDia	EL CRECIMIENTO DE SU EMPRESA	2016-11-3 00:00:00	
-115416	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	08	0	Arte	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2016-11-3 00:00:00	

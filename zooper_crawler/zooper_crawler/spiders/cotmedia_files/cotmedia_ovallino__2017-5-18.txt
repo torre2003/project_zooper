@@ -1,8 +1,0 @@
-op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
-129797	PEDRO ANDRES MONARDEZ ELGUETA	Par	Cuatricromia	Generales	6x6	01	25.000	Publicado	Karina Rivera	Restaurant Riquisimo	2017-5-18 00:00:00	
-127782	JACQUELINE JOFRE VILLANUEVA			UIP	5x2	05	2.808	Publicado	Karina Rivera	Cortinas Rollers	2017-5-18 00:00:00	
-128117	FERNANDO YOANOVICH			UIP	5x2	05	2.247	Publicado	Karina Rivera	COMPRA VEHICULOS	2017-5-18 00:00:00	
-128811	KH			UIP	5x2	05	2.808	Publicado	Miguel Apey	KHUYAY TRAVEL	2017-5-18 00:00:00	
-129782	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	17x3	06	0	Arte	Marcela Tello-ElDia	Vea en Cinemark - Alien - El octavo pasajero	2017-5-18 00:00:00	
-129659	SAKATA 			UIP	5x2	07	6.120	Publicado	Karina Rivera		2017-5-18 00:00:00	
-129803	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	5x6	14	0	Arte	Marcela Tello-ElDia		2017-5-18 00:00:00	

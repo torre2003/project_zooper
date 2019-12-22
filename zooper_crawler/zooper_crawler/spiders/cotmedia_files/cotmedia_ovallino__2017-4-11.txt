@@ -1,7 +1,0 @@
-op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
-125319	AGRICOLA NORTE TALINAY LTDA	Par	Blanco y negro	Generales	5x2	07	1.666	Publicado	Paola Marquez	UIP VENTA ALFALFA	2017-4-11 00:00:00	
-126774	FERNANDO SANCHEZ			UIP	5x2	07	2.808	Publicado	Karina Rivera	AGUAS SUBTERRANEAS 	2017-4-11 00:00:00	
-126936	SOC. EDUCACIONAL SOSTENEDORA STA. M	Par	Blanco y negro	Generales	8x2	07	37.664	Publicado	Claudio Romero	CITACION ASAMBLEA.SOCIEDAD EDUCACIONAL...REPITE DEL 10/4	2017-4-11 00:00:00	
-126219	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	09	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2017-4-11 00:00:00	
-127172	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	5x6	11	0	Arte	Marcela Tello-ElDia		2017-4-11 00:00:00	
-127173	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	5x6	14	0	Arte	Marcela Tello-ElDia		2017-4-11 00:00:00	

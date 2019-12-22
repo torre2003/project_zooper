@@ -1,5 +1,0 @@
-op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
-97946	parques			UIP	10x2	05	9.765	Publicado	Rene Pizarro	TU TRANQUILIDAD FAMILIAR...PARQUE DE OVALLE...PARQUES DE CHILE...	2016-3-19 00:00:00	
-98169	AGRICOLA NORTE TALINAY LTDA	Par	Blanco y negro	Generales	5x2	05	1.667	Publicado	Paola Marquez	UIP VENTA ALFALFA	2016-3-19 00:00:00	
-96839	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	07	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2016-3-19 00:00:00	
-97240	DABED Y CIA. LTDA., SELIM	Par	Cuatricromia	Generales	6x6	09	23.076	Publicado	Nadia Randolph	ofertas marzo 2	2016-3-19 00:00:00	

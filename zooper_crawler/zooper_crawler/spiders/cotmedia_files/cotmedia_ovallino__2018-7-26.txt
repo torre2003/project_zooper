@@ -1,8 +1,0 @@
-op	cliente	ubicacion	color	disposicion	tamano	pagina	total	estado	vendedor	llamado	fecha_publicacion	
-158826	OSSANDON PRESTACIONES MEDICAS Y OTR			UIP	5x2	06	3.879	Publicado	Karina Rivera	MEDICO CIRUJANO ALEJANDRO MANRIQUEZ	2018-7-26 00:00:00	
-160340	PRENSA DEL LIMARI LTDA.	Par	Blanco y negro	Generales	8x3	07	0	Arte	Marcela Tello-ElDia	Reportero Ciudadano	2018-7-26 00:00:00	
-158642	SOC. HOTELERA VICHUQUEN LTDA.	Par	Blanco y negro	Generales	6x6	08	0	Publicado	Marcela Tello-ElDia	Almuerzos ejecutivos - Canje	2018-7-26 00:00:00	
-160199	ILUSTRE MUNICIPALIDAD DE OVALLE	Par	Cuatricromia	Generales	17x3	09	109.244	Arte	Karina Rivera	MUNICIPIO OVALLE	2018-7-26 00:00:00	
-160341	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	10x3	09	0	Arte	Marcela Tello-ElDia	www.elovallino.cl - Vive la experiencia	2018-7-26 00:00:00	
-160342	PRENSA DEL LIMARI LTDA.	Par	Blanco y negro	Generales	17x6	12	0	Arte	Marcela Tello-ElDia	Reportero Ciudadano	2018-7-26 00:00:00	
-160343	PRENSA DEL LIMARI LTDA.	Par	Cuatricromia	Generales	6x6	14	0	Arte	Marcela Tello-ElDia		2018-7-26 00:00:00	
